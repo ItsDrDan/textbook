@@ -1,0 +1,108 @@
+/* FBX Exam Practice module v1, built by /home/claude/fbx/build_fbx.py. Drawing CSS extracted from Final Boss. */
+.fbx .fbx-figs{display:flex;flex-direction:column;align-items:center;gap:10px;margin:10px 0 2px}
+.fbx .fbx-fig{display:block;max-width:100%;overflow-x:auto}
+.fbx .fbx-fsvg{max-width:100%;height:auto;display:block;margin:0 auto}
+.fbx .fbx-feq{white-space:pre-wrap;text-align:center;font-size:20px;font-weight:700;padding:10px 14px;background:#fff;border:2px solid #e1ebf3;border-radius:14px;line-height:1.5}
+.fbx .fbx-ftab{border-collapse:collapse;margin:0 auto;font-size:16px;font-weight:600;background:#fff}
+.fbx .fbx-ftab caption{font-weight:900;padding-bottom:4px}
+.fbx .fbx-ftab th,.fbx .fbx-ftab td{border:1.5px solid #9fb6c8;padding:5px 12px;text-align:center}
+.fbx .fbx-ftab th{background:#eef5fb;font-weight:900}
+.fbx .fbx-fwrap{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 10px}
+.fbx .fbx-fwrap .fbx-fpart svg{max-width:40vw}
+@media(min-width:701px){.fbx .fbx-fwrap .fbx-fpart svg{max-width:230px}}
+.fbx .fbx-fpart{display:flex;flex-direction:column;align-items:center;gap:4px}
+.fbx .fbx-flegend{display:flex;gap:14px;flex-wrap:wrap;justify-content:center;font-size:15px;font-weight:700}
+.fbx .fbx-flegend span{display:inline-flex;align-items:center;gap:4px}
+.fbx .fbx-optmol{display:block;margin-top:4px}
+.fbx .fbx-optmol svg{max-height:150px;width:auto;max-width:100%}
+.fbx .fbx-mols{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:6px 14px;margin:10px 0 2px;padding:8px;background:#fff;border:2px solid #e1ebf3;border-radius:16px}
+.fbx .fbx-mrx{display:inline-flex;flex-direction:column;align-items:center;min-width:92px;max-width:170px;padding:0 4px}
+.fbx .fbx-mrxt{font-size:14px;font-weight:800;line-height:1.25;text-align:center;color:#2d3f4b}
+.fbx .fbx-mrxa{position:relative;width:100%;height:2.5px;background:#2d3f4b;margin:5px 0}
+.fbx .fbx-mrxa::after{content:'';position:absolute;right:-2px;top:-5.5px;border-left:11px solid #2d3f4b;border-top:6.75px solid transparent;border-bottom:6.75px solid transparent}
+.fbx .fbx-mol{display:inline-flex;flex-direction:column;align-items:center}
+.fbx .fbx-mcap{font-size:15px;margin-top:2px}
+.fbx .fbx-mop{font-size:26px;font-weight:700;color:#2d3f4b}
+.fbx .nw{white-space:nowrap}
+.fbx .ss{display:inline-flex;flex-direction:column;align-items:flex-start;vertical-align:.32em;line-height:1;margin-right:1px}
+.fbx .ss.pre{align-items:flex-end;margin:0 1px 0 0}
+.fbx .ss sup,.fbx .ss sub{font-size:.68em;line-height:1.05;vertical-align:baseline;position:static}
+/* FBX practice UI (hand-written; the drawing CSS above it is extracted from Final Boss) */
+.fbx{--fbx-ink:#22313b;--fbx-muted:#5c6a75;--fbx-coral:#e0675a;--fbx-coral2:#ef8a7f;--fbx-blue:#2f8fd0;--fbx-blue2:#5cb2e6;color:var(--fbx-ink);line-height:1.45;min-width:0}
+.fbx *{box-sizing:border-box}
+.fbx .fbx-card{background:#fff;border:2px solid #f2dcd8;border-radius:20px;padding:14px 16px 16px;box-shadow:0 6px 18px #2a5a7a12;position:relative;overflow:hidden}
+.fbx .fbx-card:before{content:'';position:absolute;left:0;right:0;top:0;height:5px;background:linear-gradient(90deg,#ef8a7f,#f7c968,#8fd8c8,#5cb2e6)}
+.fbx .fbx-head{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;justify-content:space-between;margin-top:4px}
+.fbx .fbx-tsel{display:flex;align-items:center;gap:8px;font-weight:900;flex:1 1 260px;min-width:0}
+.fbx .fbx-tsel select{flex:1;min-width:0;min-height:46px;font:inherit;font-size:16px;font-weight:800;color:inherit;border:2px solid #9fc3e0;border-radius:14px;padding:6px 10px;background:#fff;cursor:pointer}
+.fbx .fbx-score{display:flex;flex-wrap:wrap;gap:6px;font-size:13px;font-weight:800}
+.fbx .fbx-pill{display:inline-flex;align-items:center;gap:4px;border-radius:999px;padding:4px 10px;background:#eef6fc;border:1px solid #d3e3f0;color:#2f5b78;white-space:nowrap}
+.fbx .fbx-pill.ok{background:#e8f7ec;border-color:#c3e5cc;color:#2f7d4a}.fbx .fbx-pill.st{background:#fff1ee;border-color:#f6cfc8;color:#b5483d}.fbx .fbx-pill.rv{background:#fff6dc;border-color:#f0dc9f;color:#8a6412}
+.fbx .fbx-note{margin-top:8px;border-radius:12px;padding:7px 12px;background:#f2ecff;border:1px solid #ddd0f3;font-weight:800;font-size:14px}
+.fbx .fbx-meta{display:flex;gap:6px;flex-wrap:wrap;margin-top:12px}
+.fbx .fbx-chip{display:inline-flex;align-items:center;gap:4px;border-radius:999px;padding:3px 10px;font-size:12.5px;font-weight:800;background:#eef5fb;border:1px solid #d3e3f0;color:#35576e}
+.fbx .fbx-chip.calc{background:#fff4e2;border-color:#f1d6a6;color:#8a5a12}.fbx .fbx-chip.lvl{background:#f3eefc;border-color:#ddd0f3;color:#5d4a86}.fbx .fbx-chip.again{background:#fff1ee;border-color:#f6cfc8;color:#b5483d}
+.fbx .fbx-q{font-size:20px;font-weight:700;margin:10px 0 12px;line-height:1.45;overflow-wrap:break-word}
+.fbx .fbx-opts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.fbx .fbx-opt{display:flex;gap:10px;align-items:center;text-align:left;background:#fff;border:2px solid #dcd6c8;border-bottom-width:4px;border-radius:16px;padding:10px 14px;min-height:56px;font:inherit;font-size:17px;font-weight:700;color:inherit;cursor:pointer;min-width:0;transition:transform .08s,border-color .15s,background .15s}
+.fbx .fbx-opt:hover:not(:disabled){border-color:#9fc3e0}
+.fbx .fbx-opt:active:not(:disabled){transform:translateY(2px)}
+.fbx .fbx-opt .fbx-L{flex:0 0 28px;height:28px;border-radius:50%;display:grid;place-items:center;background:#e6f2ff;color:#3b82b4;font-size:14px;font-weight:900}
+.fbx .fbx-opt .fbx-ot{min-width:0;flex:1;overflow-wrap:break-word}
+.fbx .fbx-opt.sel{border-color:#4a9fd6;background:#eaf5fd}.fbx .fbx-opt.sel .fbx-L{background:#4a9fd6;color:#fff}
+.fbx .fbx-opt.right{border-color:#4fa36a;background:#e8f7ec}.fbx .fbx-opt.right .fbx-L{background:#4fa36a;color:#fff}
+.fbx .fbx-opt.wrong{border-color:#d9776f;background:#fdeeed}.fbx .fbx-opt.wrong .fbx-L{background:#d9776f;color:#fff}
+.fbx .fbx-opt:disabled{cursor:default;color:inherit}
+.fbx .fbx-btns{display:grid;grid-template-columns:1.4fr 1fr 1.2fr;gap:10px;margin-top:14px}
+.fbx .fbx-btn{border:0;border-radius:14px;padding:11px 14px;font:inherit;font-weight:900;font-size:17px;cursor:pointer;min-height:48px;transition:transform .08s}
+.fbx .fbx-btn:active:not(:disabled){transform:translateY(2px)}.fbx .fbx-btn:disabled{opacity:.5;cursor:default}
+.fbx .fbx-check{background:linear-gradient(180deg,#5cb2e6,#3b8ccb);color:#fff;box-shadow:0 4px 0 #2d73a8}
+.fbx .fbx-hintb{background:#fff3c9;color:#5a4410;border:2px solid #efd27a;box-shadow:0 3px 0 #e0bd55}
+.fbx .fbx-next{background:#fff;color:#b5483d;border:2px solid #f2b8b0;box-shadow:0 3px 0 #ecc6c0}
+.fbx .fbx-next.go{background:linear-gradient(180deg,#ef8a7f,#de6658);color:#fff;border-color:transparent;box-shadow:0 4px 0 #b84c40}
+.fbx .fbx-hint{margin-top:10px;border-radius:14px;padding:10px 14px;border-left:7px solid #efc94c;background:linear-gradient(90deg,#fff5d2,#fffbec);font-weight:600}
+.fbx .fbx-hint[hidden]{display:none}
+.fbx .fbx-fb{margin-top:10px;border-radius:14px;line-height:1.5}
+.fbx .fbx-fb:empty{display:none}
+.fbx .fbx-fb.good{border-left:7px solid #4fa36a;background:linear-gradient(90deg,#e6f6ea,#f4fbf6);padding:12px 14px}
+.fbx .fbx-fb.bad{border-left:7px solid #d9776f;background:linear-gradient(90deg,#fdecea,#fff7f6);padding:12px 14px}
+.fbx .fbx-fb.info{border-left:7px solid #82afd2;background:linear-gradient(90deg,#eaf4fc,#f7fbff);padding:12px 14px}
+.fbx .fbx-fb small{display:block;margin-top:4px;color:var(--fbx-muted);font-weight:700}
+.fbx .fbx-empty{padding:20px;text-align:center;font-weight:800;color:var(--fbx-muted)}
+@media(max-width:700px){
+ .fbx .fbx-card{padding:2px 0 0;border:0;border-radius:0;background:transparent;box-shadow:none;overflow:visible}.fbx .fbx-card:before{display:none}
+ .fbx .fbx-q{font-size:18px}
+ .fbx .fbx-opts{grid-template-columns:1fr}
+ .fbx .fbx-btns{grid-template-columns:1fr 1fr}.fbx .fbx-check{grid-column:1/-1}
+ .fbx .fbx-tsel{flex-basis:100%}
+}
+@media(prefers-reduced-motion:reduce){.fbx *{transition:none!important}}
+/* Final Boss loads no web fonts, so its drawings fall back to Inter/Helvetica/Arial. The host games load
+   Nunito, which would otherwise restyle the atom labels; pin the drawings to Final Boss's fonts. */
+.fbx .fbx-mols,.fbx .fbx-figs,.fbx .fbx-optmol{font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+.fbx .fbx-mols svg text,.fbx .fbx-figs svg text,.fbx .fbx-optmol svg text{font-family:Inter,Helvetica,Arial,sans-serif}
+.rxn{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:6px;background:#fff;border:2px dashed #e2dccd;border-radius:16px;padding:10px;margin:8px 0 12px;min-height:110px}
+.molitem{display:inline-flex;flex-direction:column;align-items:center;gap:2px;max-width:100%}
+.molitem svg.mol{max-width:100%;height:auto}
+.molname{font-size:13px;font-weight:800;color:#3b5f7a;text-align:center;max-width:220px;line-height:1.2}
+.namechip{display:inline-block;background:#f4f9ff;border:2px solid #b8d4ea;border-radius:14px;padding:10px 14px;font-size:19px;font-weight:900;text-align:center;max-width:280px}
+.qchip{display:inline-grid;place-items:center;min-width:64px;min-height:56px;border:3px dashed #e0b45c;border-radius:14px;font-size:32px;font-weight:900;color:#c08a2e;background:#fffaf0;padding:0 12px}
+.plus{font-size:26px;font-weight:900;color:#6b7a85;padding:0 4px}
+.ptext{font-size:22px;font-weight:800;padding:0 6px}
+.coef{font-size:24px;font-weight:900;margin-right:4px}
+.rarrow{display:inline-flex;flex-direction:column;align-items:stretch;justify-content:center;min-width:104px;margin:0 8px;padding:0 2px}
+.arrline{position:relative;display:block;height:2.6px;background:#2d3f4b;border-radius:2px;margin:5px 9px 5px 0}
+.arrline::after{content:'';position:absolute;right:-10px;top:50%;transform:translateY(-50%);border-left:13px solid #2d3f4b;border-top:6.5px solid transparent;border-bottom:6.5px solid transparent}
+.rlab{font-size:14px;font-weight:800;color:#3b5f7a;text-align:center;line-height:1.15;min-height:16px;max-width:170px;padding:0 10px 0 4px;white-space:nowrap}
+.rlab.bot{font-weight:700;color:#5c6a75}
+.rxn{min-height:0;margin:8px 0 0}
+.rxn{min-height:0;margin:8px 0}
+.namechip{font-size:16px;padding:8px 10px}
+.rxn{padding:6px}
+.rarrow{min-width:78px;margin:0 4px}
+.rlab{font-size:13px;white-space:normal}
+.molitem svg.mol{max-height:120px;width:auto}
+.rxn{border:2px solid #e1ebf3;background:radial-gradient(circle at 50% 0%,#f7fbff 0,#ffffff 70%);box-shadow:inset 0 2px 8px #2a5a7a0a;border-radius:18px;padding:14px}
+.namechip{background:linear-gradient(180deg,#f7fbff,#eaf4fd);box-shadow:0 2px 0 #b8d4ea}
+.qchip{background:repeating-linear-gradient(135deg,#fffaf0 0 8px,#fff3dc 8px 16px)}
+.rxn{min-height:150px}

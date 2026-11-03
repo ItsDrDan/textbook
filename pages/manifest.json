@@ -1,0 +1,197 @@
+[
+ {
+  "file": "ch01_guide.html",
+  "pageId": 597062,
+  "what": "Chapter Guide 1"
+ },
+ {
+  "file": "ch01_games.html",
+  "create": {
+   "parentId": 597039,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 1"
+ },
+ {
+  "file": "ch02_guide.html",
+  "pageId": 597074,
+  "what": "Chapter Guide 2"
+ },
+ {
+  "file": "ch02_games.html",
+  "create": {
+   "parentId": 597040,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 2"
+ },
+ {
+  "file": "ch03_guide.html",
+  "pageId": 597086,
+  "what": "Chapter Guide 3"
+ },
+ {
+  "file": "ch03_games.html",
+  "create": {
+   "parentId": 597041,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 3"
+ },
+ {
+  "file": "ch04_guide.html",
+  "pageId": 597100,
+  "what": "Chapter Guide 4"
+ },
+ {
+  "file": "ch04_games.html",
+  "create": {
+   "parentId": 597042,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 4"
+ },
+ {
+  "file": "ch05_guide.html",
+  "pageId": 597107,
+  "what": "Chapter Guide 5"
+ },
+ {
+  "file": "ch05_games.html",
+  "create": {
+   "parentId": 597043,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 5"
+ },
+ {
+  "file": "ch06_guide.html",
+  "pageId": 597119,
+  "what": "Chapter Guide 6"
+ },
+ {
+  "file": "ch06_games.html",
+  "create": {
+   "parentId": 597044,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 6"
+ },
+ {
+  "file": "ch07_guide.html",
+  "pageId": 597132,
+  "what": "Chapter Guide 7"
+ },
+ {
+  "file": "ch07_games.html",
+  "create": {
+   "parentId": 597045,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 7"
+ },
+ {
+  "file": "ch08_guide.html",
+  "pageId": 597141,
+  "what": "Chapter Guide 8"
+ },
+ {
+  "file": "ch08_games.html",
+  "create": {
+   "parentId": 597046,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 8"
+ },
+ {
+  "file": "ch09_guide.html",
+  "pageId": 597150,
+  "what": "Chapter Guide 9"
+ },
+ {
+  "file": "ch09_games.html",
+  "create": {
+   "parentId": 597047,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 9"
+ },
+ {
+  "file": "ch10_guide.html",
+  "pageId": 597164,
+  "what": "Chapter Guide 10"
+ },
+ {
+  "file": "ch10_games.html",
+  "create": {
+   "parentId": 597048,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 10"
+ },
+ {
+  "file": "ch11_guide.html",
+  "pageId": 597173,
+  "what": "Chapter Guide 11"
+ },
+ {
+  "file": "ch11_games.html",
+  "create": {
+   "parentId": 597049,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 11"
+ },
+ {
+  "file": "ch12_guide.html",
+  "pageId": 597184,
+  "what": "Chapter Guide 12"
+ },
+ {
+  "file": "ch12_games.html",
+  "create": {
+   "parentId": 597050,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 12"
+ },
+ {
+  "file": "ch13_guide.html",
+  "pageId": 597198,
+  "what": "Chapter Guide 13"
+ },
+ {
+  "file": "ch13_games.html",
+  "create": {
+   "parentId": 597051,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 13"
+ },
+ {
+  "file": "ch14_guide.html",
+  "pageId": 597205,
+  "what": "Chapter Guide 14"
+ },
+ {
+  "file": "ch14_games.html",
+  "create": {
+   "parentId": 597052,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 14"
+ },
+ {
+  "file": "ch15_guide.html",
+  "pageId": 597218,
+  "what": "Chapter Guide 15"
+ },
+ {
+  "file": "ch15_games.html",
+  "create": {
+   "parentId": 597053,
+   "title": "Practice Games"
+  },
+  "what": "Practice Games page, chapter 15"
+ }
+]
