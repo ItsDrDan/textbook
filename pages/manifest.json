@@ -193,5 +193,138 @@
    "title": "Practice Games"
   },
   "what": "Practice Games page, chapter 15"
+ },
+ {
+  "file": "ch01_problems.html",
+  "pageId": 597063,
+  "what": "Practice Problems 1"
+ },
+ {
+  "file": "ch02_problems.html",
+  "pageId": 597075,
+  "what": "Practice Problems 2"
+ },
+ {
+  "file": "ch03_problems.html",
+  "pageId": 597087,
+  "what": "Practice Problems 3"
+ },
+ {
+  "file": "ch04_problems.html",
+  "pageId": 597101,
+  "what": "Practice Problems 4"
+ },
+ {
+  "file": "ch05_problems.html",
+  "pageId": 597108,
+  "what": "Practice Problems 5"
+ },
+ {
+  "file": "ch06_problems.html",
+  "pageId": 597120,
+  "what": "Practice Problems 6"
+ },
+ {
+  "file": "ch07_problems.html",
+  "pageId": 597133,
+  "what": "Practice Problems 7"
+ },
+ {
+  "file": "ch08_problems.html",
+  "pageId": 597142,
+  "what": "Practice Problems 8"
+ },
+ {
+  "file": "ch09_problems.html",
+  "pageId": 597151,
+  "what": "Practice Problems 9"
+ },
+ {
+  "file": "ch10_problems.html",
+  "pageId": 597165,
+  "what": "Practice Problems 10"
+ },
+ {
+  "file": "ch11_problems.html",
+  "pageId": 597174,
+  "what": "Practice Problems 11"
+ },
+ {
+  "file": "ch12_problems.html",
+  "pageId": 597185,
+  "what": "Practice Problems 12"
+ },
+ {
+  "file": "ch13_problems.html",
+  "pageId": 597199,
+  "what": "Practice Problems 13"
+ },
+ {
+  "file": "ch14_problems.html",
+  "pageId": 597207,
+  "what": "Practice Problems 14"
+ },
+ {
+  "file": "ch15_problems.html",
+  "pageId": 597219,
+  "what": "Practice Problems 15"
+ },
+ {
+  "file": "ch04_597099.html",
+  "pageId": 597099,
+  "what": "Section 4.10: Acidity of Alcohols and Phenols"
+ },
+ {
+  "file": "ch07_597131.html",
+  "pageId": 597131,
+  "what": "Section 7.11: Neurotransmitters"
+ },
+ {
+  "file": "ch11_597172.html",
+  "pageId": 597172,
+  "what": "Section 11.7: Enzyme Regulation - Covalent Modification and Genetic Control"
+ },
+ {
+  "file": "ch12_597183.html",
+  "pageId": 597183,
+  "what": "Section 12.9: Structure and Function of RNA"
+ },
+ {
+  "file": "ch13_597194.html",
+  "pageId": 597194,
+  "what": "Section 13.7: Entry of Other Sugars into Glycolysis"
+ },
+ {
+  "file": "ch13_597195.html",
+  "pageId": 597195,
+  "what": "Section 13.8: Regulation of Glucose Metabolism and Metabolism During Stress"
+ },
+ {
+  "file": "ch13_597196.html",
+  "pageId": 597196,
+  "what": "Section 13.9: Glycogen Metabolism- Glycogenesis and Glycogenolysis"
+ },
+ {
+  "file": "ch13_597197.html",
+  "pageId": 597197,
+  "what": "Section 13.10: Gluconeogenesis- Glucose Synthesis from Noncarbohydrates"
+ },
+ {
+  "file": "ch14_597204.html",
+  "pageId": 597204,
+  "what": "Section 14.5: Energy Output in Complete Glucose Catabolism"
+ },
+ {
+  "file": "ch15_597212.html",
+  "pageId": 597212,
+  "what": "Section 15.6: Storage and Mobilization of Triacylglycerols"
+ },
+ {
+  "file": "front_about.html",
+  "create": {
+   "parentId": 488225,
+   "exactTitle": "About This Book"
+  },
+  "what": "Front matter: About This Book"
  }
 ]
