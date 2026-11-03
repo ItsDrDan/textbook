@@ -10,6 +10,8 @@ Everything here is served from GitHub Pages at `https://itsdrdan.github.io/textb
 | `js/fbx.js` | The Exam Practice module shared by the games (Final Boss question renderer). |
 | `bank/*.json` | The Final Boss CHEM 3B question bank, split by topic (985 questions). Ids are `fb-3B-NNNN` (index in the Final Boss bank). |
 | `figures/` | The 41 structure figures exported from the lecture slides, referenced by the Chapter Guides. |
+| `figures/structures/` | 128 RDKit-rendered 2D structure PNGs, one folder per chapter (`figures/structures/INDEX.md` lists them). URL pattern: `https://itsdrdan.github.io/textbook/figures/structures/ch08-carbohydrates/sucrose.png` |
+| `figures/openers/` | Chapter-opener photos (openly licensed, from Wikimedia Commons). `CREDITS.md` has the download links, licenses and caption attributions. |
 | `pages/` | Built HTML for the LibreTexts pages (15 Chapter Guides + 15 Practice Games pages) and `manifest.json`. |
 | `tools/build_pages.py` | Rebuilds `pages/` from the Chapter Guide drafts (edit the `PLAN` dict to move or change widgets). |
 | `tools/scheme.js` | Draws the inline-SVG reaction schemes used in the guides (`node tools/scheme.js`). |
