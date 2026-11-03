@@ -30,6 +30,9 @@ function scheme(r,alt){
 /* deterministic reactions: call the template until the named reactant appears */
 function want(key,test,max=400){for(let i=0;i<max;i++){const r=E.TPL[key]();if(test(r))return r}throw new Error('no match '+key)}
 const T=t=>({t});
+const mol=(smi,name,style)=>{const s=E.structHTML(smi,style||'skeletal');return (/xmlns=/.test(s)?s:s.replace('<svg ','<svg xmlns="http://www.w3.org/2000/svg" ')).replace('<svg ','<svg style="max-width:100%;height:auto" ')};
+module.exports={scheme,want,mol,E};
+if(require.main===module){
 const R={};
 R.ch2_combustion=want('combustion',r=>r.reactants[0].name==='propane');
 R.ch2_substitution=want('substitution',r=>r.reactants[0].name==='ethane'&&/Cl/.test(r.reactants[1].t));
@@ -53,9 +56,9 @@ R.ch7_amideHyd=want('amideHydrolysis',r=>r.reactants[0].name==='ethanamide (acet
 const out={};
 for(const [id,r] of Object.entries(R)){out[id]={svg:scheme(r,r.type+': '+r.reactants.filter(p=>p.smi).map(p=>p.name).join(' + ')+' gives '+r.products.filter(p=>p.smi).map(p=>p.name).join(' + ')),type:r.type,cls:r.cls,rule:r.rule,names:{re:r.reactants.map(p=>p.name||p.t),pr:r.products.map(p=>p.name||p.t)}}}
 /* structure-only figures */
-const mol=(smi,name,style)=>E.structHTML(smi,style||'skeletal').replace('<svg ','<svg xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto" ');
 out.struct={};
 [['CCCCCC','hexane'],['CC(C)CC','2-methylbutane'],['CCO','ethanol'],['CC(=O)C','propanone (acetone)'],['CC(=O)O','ethanoic acid'],['CCN','ethylamine'],['CC(=O)N','ethanamide'],['CCOC','methoxyethane'],['CCS','ethanethiol'],['C1=CC=CC=C1','benzene']].forEach(([s,n])=>out.struct[n]={skeletal:mol(s,n),condensed:E.condensedStr(E.parseSmi(s)),expanded:(E.expandedSVG(E.parseSmi(s),{scale:.8})||'').replace('<svg ','<svg xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto" ')});
 fs.writeFileSync(__dirname+'/schemes.json',JSON.stringify(out));
 console.log(Object.keys(out).length,'schemes;',Object.values(out).filter(o=>o.svg).map(o=>o.svg.length).reduce((a,b)=>a+b,0),'bytes');
 fs.writeFileSync(__dirname+'/preview.html','<!doctype html><meta charset=utf-8><body style="font-family:sans-serif;background:#eee;padding:20px">'+Object.entries(out).filter(([k,v])=>v.svg).map(([k,v])=>`<h3>${k}: ${v.type}</h3>${v.svg}`).join('')+'<h3>structs</h3>'+Object.entries(out.struct).map(([n,v])=>`<p>${n}: ${v.skeletal} ${v.expanded} <code>${v.condensed}</code></p>`).join(''));
+}

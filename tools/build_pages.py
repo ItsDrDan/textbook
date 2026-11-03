@@ -183,4 +183,35 @@ if __name__ == '__main__':
         p = build_games_page(ch); fn2 = f'ch{ch:02d}_games.html'; open(os.path.join(out, fn2), 'w').write(p)
         manifest.append({'file': fn2, 'create': {'parentId': CHAPTER_IDS[ch], 'title': 'Practice Games'}, 'what': f'Practice Games page, chapter {ch}'})
         print(ch, len(g), len(p))
+    # practice-problem pages (drafts, figures rewritten to GitHub Pages)
+    PROB_IDS = {1:597063,2:597075,3:597087,4:597101,5:597108,6:597120,7:597133,8:597142,9:597151,10:597165,11:597174,12:597185,13:597199,14:597207,15:597219}
+    import glob
+    for ch in range(1, 16):
+        f = glob.glob(os.path.join(DRAFTS, f'Ch{ch:02d}_Practice_Problems_*.html'))[0]
+        src = open(f).read(); src = re.sub(r'^\s*<!--.*?-->\s*', '', src, count=1, flags=re.S)
+        src = re.sub(r'<!-- IMAGE:[^>]*-->\s*', '', src)
+        src = re.sub(r'src="(?:/)?(Slide\d+\.png)"', lambda m: f'src="{BASE}figures/{m.group(1)}"', src)
+        k = [0]
+        def ren3(mm):
+            k[0] += 1; return f'<figcaption>Problem figure {ch}.{k[0]}:'
+        src = re.sub(rf'<figcaption>Figure {ch}\.\d+:', ren3, src)
+        fn = f'ch{ch:02d}_problems.html'; open(os.path.join(out, fn), 'w').write(src)
+        manifest.append({'file': fn, 'pageId': PROB_IDS[ch], 'what': f'Practice Problems {ch}'})
+    # full section pages that replace empty placeholders
+    SECTION_TITLES = {597099:'4.10: Acidity of Alcohols and Phenols',597131:'7.11: Neurotransmitters',597172:'11.7: Enzyme Regulation - Covalent Modification and Genetic Control',597183:'12.9: Structure and Function of RNA',597194:'13.7: Entry of Other Sugars into Glycolysis',597195:'13.8: Regulation of Glucose Metabolism and Metabolism During Stress',597196:'13.9: Glycogen Metabolism- Glycogenesis and Glycogenolysis',597197:'13.10: Gluconeogenesis- Glucose Synthesis from Noncarbohydrates',597204:'14.5: Energy Output in Complete Glucose Catabolism',597212:'15.6: Storage and Mobilization of Triacylglycerols'}
+    for f in sorted(glob.glob(os.path.join(os.path.dirname(DRAFTS.rstrip('/')) if False else '/home/claude/textbook/sections', '*.html'))):
+        src = open(f).read(); src = re.sub(r'src="(?:/)?(Slide\d+\.png)"', lambda m: f'src="{BASE}figures/{m.group(1)}"', src)
+        fn = os.path.basename(f); open(os.path.join(out, fn), 'w').write(src)
+        m = re.search(r'_(\d+)\.html$', f)
+        if m:
+            pid = int(m.group(1))
+            sec = SECTION_TITLES.get(pid, '').split(':')[0]
+            if sec:
+                k = [0]
+                def ren2(mm):
+                    k[0] += 1; return f'<figcaption>Figure {sec}.{k[0]}:'
+                src = re.sub(r'<figcaption>Figure \d+\.\d+:', ren2, src); open(os.path.join(out, fn), 'w').write(src)
+            manifest.append({'file': fn, 'pageId': pid, 'what': 'Section ' + SECTION_TITLES.get(pid, str(pid))})
+        elif fn == 'front_about.html':
+            manifest.append({'file': fn, 'create': {'parentId': 488225, 'exactTitle': 'About This Book'}, 'what': 'Front matter: About This Book'})
     json.dump(manifest, open(os.path.join(out, 'manifest.json'), 'w'), indent=1)

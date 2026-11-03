@@ -10,8 +10,6 @@ Everything here is served from GitHub Pages at `https://itsdrdan.github.io/textb
 | `js/fbx.js` | The Exam Practice module shared by the games (Final Boss question renderer). |
 | `bank/*.json` | The Final Boss CHEM 3B question bank, split by topic (985 questions). Ids are `fb-3B-NNNN` (index in the Final Boss bank). |
 | `figures/` | The 41 structure figures exported from the lecture slides, referenced by the Chapter Guides. |
-| `figures/structures/` | 128 RDKit-rendered 2D structure PNGs, one folder per chapter (`figures/structures/INDEX.md` lists them). URL pattern: `https://itsdrdan.github.io/textbook/figures/structures/ch08-carbohydrates/sucrose.png` |
-| `figures/openers/` | Chapter-opener photos (openly licensed, from Wikimedia Commons). `CREDITS.md` has the download links, licenses and caption attributions. |
 | `pages/` | Built HTML for the LibreTexts pages (15 Chapter Guides + 15 Practice Games pages) and `manifest.json`. |
 | `tools/build_pages.py` | Rebuilds `pages/` from the Chapter Guide drafts (edit the `PLAN` dict to move or change widgets). |
 | `tools/scheme.js` | Draws the inline-SVG reaction schemes used in the guides (`node tools/scheme.js`). |
@@ -31,3 +29,10 @@ practice.html?rxn=hydration,hydrohalogenation&mode=product   reaction lab (modes
 &title=...&game=orgrxn|origins|carbs|peptides|finalboss|lewis|flash   header and "Play the full game" link
 ```
 Reaction keys: combustion substitution hydrogenation halogenAdd hydrohalogenation hydration dehydration ox1Ald ox1Acid oxAldAcid ox2 reduction esterification esterHydrolysis saponification amidation amideHydrolysis amideBase hemiacetal acetal neutralAcid neutralAmine
+
+## Updating the book (after the November 2026 COR enhancement)
+- Source of truth for the Chapter Guides and Practice Problems: `drafts/` (copied from the authoring folder). Edit there, then `python3 tools/build_pages.py` to regenerate `pages/`.
+- `sections/` holds the full section pages that replaced empty placeholders (4.10, 7.11, 11.7, 12.9, 13.7–13.10, 14.5, 15.6) and the front-matter "About This Book" page; `build_pages.py` copies them into `pages/` and numbers their figures.
+- Figure tools: `tools/draw.js` (structures, reaction schemes), `tools/pathway.js` (pathway/flow diagrams from a JSON spec), `tools/molsvg.py` (fused rings), `tools/preview.py` (render a page to PNG), `tools/check_fragment.py` (sanity checks).
+- Push to LibreTexts: upload the new `pages/` folder to this repo, then paste `tools/sync-libretexts.js` into the browser console on chem.libretexts.org (it updates every page listed in `pages/manifest.json`, creating "Practice Games" and "About This Book" if missing).
+- Authoring standards: `tools/AUTHOR_BRIEF.md`, `tools/REVIEW_BRIEF.md`, `tools/COR_outline.md`.

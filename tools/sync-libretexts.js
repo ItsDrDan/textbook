@@ -17,12 +17,12 @@
     if (!id && e.create) {
       const parent = await j('pages/' + e.create.parentId);
       const subs = [].concat((await j('pages/' + e.create.parentId + '/subpages'))['page.subpage'] || []);
-      const existing = subs.find(s => new RegExp('^\\d+\\.\\d+:\\s*' + e.create.title + '$').test(s.title));
+      const existing = e.create.exactTitle ? subs.find(s => s.title === e.create.exactTitle) : subs.find(s => new RegExp('^\\d+\\.\\d+:\\s*' + e.create.title + '$').test(s.title));
       if (existing) id = existing['@id'];
       else {
         const chapNum = (parent.title.match(/^(\d+):/) || [])[1];
         const nums = subs.map(s => +((s.title.match(/^\d+\.(\d+):/) || [])[1] || 0));
-        const title = `${chapNum}.${Math.max(0, ...nums) + 1}: ${e.create.title}`;
+        const title = e.create.exactTitle || `${chapNum}.${Math.max(0, ...nums) + 1}: ${e.create.title}`;
         const path = parent.path['#text'] + '/' + title.replace(/ /g, '_');
         const r = await api('pages/=' + encodeURIComponent(encodeURIComponent(path)) + '/contents?edittime=now&abort=exists&title=' + encodeURIComponent(title),
           { method: 'POST', headers: { 'Content-Type': 'text/plain; charset=utf-8' }, body: html });
