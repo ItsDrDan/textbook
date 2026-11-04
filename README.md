@@ -15,6 +15,9 @@ Everything here is served from GitHub Pages at `https://itsdrdan.github.io/textb
 | `tools/scheme.js` | Draws the inline-SVG reaction schemes used in the guides (`node tools/scheme.js`). |
 | `tools/sync-libretexts.js` | Paste into the browser console on chem.libretexts.org to push `pages/` into the book. |
 
+## License
+See `LICENSE.md`: content CC BY-NC-SA 4.0; source sections keep their own licenses (`pages/back_sources.html`).
+
 ## First-time setup
 1. Create the GitHub repo **ItsDrDan/textbook** and push this folder to `main`.
 2. Settings → Pages → Deploy from branch `main` / root. Wait for `https://itsdrdan.github.io/textbook/practice.html?t=alcohols` to load.
