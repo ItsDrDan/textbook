@@ -46,7 +46,7 @@ def scheme_fig(ids, num, caption):
 
 def games_box(ch):
     return (f'<div class="box-note" style="border-left:6px solid #86509b;">\n<p class="boxtitle">Keep Practicing</p>\n'
-            f'<p>Every question above is one of many. For unlimited practice on this chapter, open <strong>Practice Games</strong>, the last page of Chapter {ch}, or go straight to '
+            f'<p>Every question above is one of many. For unlimited practice on this chapter, open <strong>Practice Games</strong>, the last page of Chapter {ch}' + (' (and <strong>Practice Game - Lewis Structures</strong>, the page before it)' if ch == 1 else '') + ', or go straight to '
             f'<a href="https://itsdrdan.github.io/games/3b.html" target="_blank" rel="noopener">the CHEM 3B game hub</a>.</p>\n</div>\n')
 
 # ---- per-chapter plan ---------------------------------------------------------------
@@ -163,6 +163,7 @@ def build_games_page(ch):
     plan = PLAN[ch]
     parts = [f'<div class="box-note"><p class="boxtitle">How to use this page</p><p>These games are free, work on your phone, and keep score in your browser. Play a few rounds after each lecture; a short session every day beats one long one before the exam. Each game opens in a new tab if you prefer a bigger screen.</p></div>\n']
     for g in plan['games']:
+        if ch == 1 and g == 'lewis': continue   # chapter 1 has its own 1.11 Lewis Structures page
         name, url, blurb = GAMES[g]; tip = plan['gametips'].get(g, '')
         parts.append(f'<h2>{html.escape(name)}</h2>\n<p>{html.escape(blurb)}</p>\n' + (f'<p><strong>For this chapter:</strong> {html.escape(tip)}</p>\n' if tip else '') +
                      f'<p><iframe src="{html.escape(url)}" width="100%" height="900" style="border:0;border-radius:12px;" title="{html.escape(name)}" loading="lazy" allowfullscreen="allowfullscreen"></iframe></p>\n'
@@ -174,9 +175,26 @@ def build_games_page(ch):
     parts.append('<p style="font-size:0.9em;color:#555;">Games and practice sets by ItsDrDan (Dr. Dan, Fresno City College): <a href="https://itsdrdan.github.io/games/" target="_blank" rel="noopener">Dr. Dan\'s Chemistry Study Hub</a>. Game design and chemistry by ItsDrDan; code written with AI assistance and checked by the author.</p>\n')
     return ''.join(parts)
 
+LEWIS_PAGE = """<div class="box-objectives"><p class="boxtitle">What this page is for</p><p>Drawing Lewis structures is the one skill from this chapter that every later chapter leans on: functional groups (Chapter 2 onward), polarity and hydrogen bonding (Section 1.8), acid&ndash;base behavior of amines and carboxylic acids, and the shapes of biomolecules all start from a correct Lewis structure. This page gives you unlimited practice with instant checking.</p></div>
+<h2>Lewis Structure Studio</h2>
+<p>Draw a Lewis structure atom by atom, then let the game check your electron count, octets, formal charges, VSEPR shape and polarity. It is free, works on a phone, and keeps your streak in this browser. The method it checks is exactly the one in <strong>Section 1.3</strong> (count valence electrons, connect atoms, complete octets, convert lone pairs to multiple bonds if needed) and <strong>Section 1.5</strong> (shape and polarity).</p>
+<div class="box-note"><p class="boxtitle">Suggested order</p><ol>
+<li><strong>Warm up (octet rule):</strong> CH<sub>4</sub>, NH<sub>3</sub>, H<sub>2</sub>O, HF, CCl<sub>4</sub>.</li>
+<li><strong>Multiple bonds:</strong> O<sub>2</sub>, N<sub>2</sub>, CO<sub>2</sub>, HCN, H<sub>2</sub>CO (formaldehyde), C<sub>2</sub>H<sub>4</sub>, C<sub>2</sub>H<sub>2</sub>.</li>
+<li><strong>Organic molecules you will see all semester:</strong> CH<sub>3</sub>OH, CH<sub>3</sub>NH<sub>2</sub>, CH<sub>3</sub>CHO, CH<sub>3</sub>COOH, CH<sub>3</sub>OCH<sub>3</sub>.</li>
+<li><strong>Then predict</strong> the shape around each central atom (tetrahedral, trigonal pyramidal, bent, trigonal planar, linear) and whether the molecule is polar. If your answer and the game&rsquo;s disagree, redraw before looking at the explanation.</li></ol></div>
+<p><iframe src="https://itsdrdan.github.io/lewisstructures/" width="100%" height="900" style="border:0;border-radius:12px;" title="Lewis Structure Studio" loading="lazy" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="font-size:0.9em;"><a href="https://itsdrdan.github.io/lewisstructures/" target="_blank" rel="noopener">Open Lewis Structure Studio in a new tab</a> (recommended on a phone or small screen).</p>
+<div class="box-note" style="border-left:6px solid #0e6ea8;"><p class="boxtitle">Professor Tip</p><p>On the exam you will draw structures on paper with no checker. After each game round, redraw the same molecule from memory on paper, including lone pairs, and only then compare. Students who practice this way stop losing points for missing lone pairs on O and N, which is the most common Lewis-structure error in CHEM 3B.</p></div>
+<p>The other games and quick checks for this chapter are on the <strong>Practice Games</strong> page that follows.</p>
+<p style="font-size:0.9em;color:#555;">Lewis Structure Studio by ItsDrDan (Dr. Dan, Fresno City College): <a href="https://itsdrdan.github.io/games/" target="_blank" rel="noopener">Dr. Dan\'s Chemistry Study Hub</a>. Game design and chemistry by ItsDrDan; code written with AI assistance and checked by the author. The game is a free tool embedded by link and is not part of the licensed text.</p>
+"""
+
 if __name__ == '__main__':
     out = os.path.join(ROOT, 'pages'); os.makedirs(out, exist_ok=True)
     manifest = []
+    open(os.path.join(out, 'ch01_lewis.html'), 'w').write(LEWIS_PAGE)
+    manifest.append({'file': 'ch01_lewis.html', 'pageId': 597064, 'what': '1.11 Practice Game - Lewis Structures'})
     for ch in range(1, 16):
         g = build_guide(ch); fn = f'ch{ch:02d}_guide.html'; open(os.path.join(out, fn), 'w').write(g)
         manifest.append({'file': fn, 'pageId': GUIDE_IDS[ch], 'what': f'Chapter Guide {ch}'})
