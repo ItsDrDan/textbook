@@ -55,20 +55,20 @@ def item_xml(x, n):
     order = list(range(len(x['c']))); random.Random(x['id']).shuffle(order)   # deterministic shuffle so the key is not always A
     choices = [x['c'][j] for j in order]; key = order.index(x.get('k', 0))
     resp = ''.join(f'<response_label ident="{ident}_{j}"><material><mattext texttype="text/html">{esc(str(c))}</mattext></material></response_label>' for j, c in enumerate(choices))
-    fb = esc(x.get('w', '')); hint = esc(x.get('h', ''))
+    fb = esc('Correct! ' + x.get('w', '')); hint = esc('Not quite. Hint: ' + (x.get('h') or 'Review the chapter and try again.'))
     return f'''<item ident="{ident}" title="{esc(x['id'])}">
 <itemmetadata><qtimetadata><qtimetadatafield><fieldlabel>question_type</fieldlabel><fieldentry>multiple_choice_question</fieldentry></qtimetadatafield><qtimetadatafield><fieldlabel>points_possible</fieldlabel><fieldentry>1.0</fieldentry></qtimetadatafield></qtimetadata></itemmetadata>
 <presentation><material><mattext texttype="text/html">{esc(x['q'])}</mattext></material>
 <response_lid ident="response1" rcardinality="Single"><render_choice>{resp}</render_choice></response_lid></presentation>
 <resprocessing><outcomes><decvar maxvalue="100" minvalue="0" varname="SCORE" vartype="Decimal"/></outcomes>
-<respcondition continue="Yes"><conditionvar><other/></conditionvar><displayfeedback feedbacktype="Response" linkrefid="general_fb"/></respcondition>
 <respcondition continue="No"><conditionvar><varequal respident="response1">{ident}_{key}</varequal></conditionvar><setvar action="Set" varname="SCORE">100</setvar></respcondition></resprocessing>
-<itemfeedback ident="general_fb"><flow_mat><material><mattext texttype="text/html">{fb}</mattext></material></flow_mat></itemfeedback>
+<itemfeedback ident="{ident}_{key}_fb"><flow_mat><material><mattext texttype="text/html">{fb}</mattext></material></flow_mat></itemfeedback>
+<itemfeedback ident="general_incorrect_fb"><flow_mat><material><mattext texttype="text/html">{hint}</mattext></material></flow_mat></itemfeedback>
 </item>'''
 
 rows = []
 for ch, items in SETS.items():
-    title = f'CHEM 3B Chapter {ch}: {NAMES[ch]} (homework bank)'
+    title = f'CHEM 3B Chapter {ch}: {NAMES[ch]}'
     aid = 'a' + uuid.uuid5(uuid.NAMESPACE_URL, f'chem3b-ch{ch}').hex
     body = '\n'.join(item_xml(x, i) for i, x in enumerate(items, 1))
     qti = f'''<?xml version="1.0" encoding="UTF-8"?>
@@ -80,10 +80,13 @@ for ch, items in SETS.items():
     manifest = f'''<?xml version="1.0" encoding="UTF-8"?>
 <manifest identifier="m{aid}" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/imsccv1p1/LOM/resource" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1 http://www.imsglobal.org/xsd/imscp_v1p1.xsd">
 <metadata><schema>IMS Content</schema><schemaversion>1.1.3</schemaversion></metadata><organizations/>
-<resources><resource identifier="{aid}" type="imsqti_xmlv1p2"><file href="{aid}/{aid}.xml"/></resource></resources></manifest>'''
+<resources><resource identifier="{aid}" type="imsqti_xmlv1p2"><file href="{aid}/{aid}.xml"/><dependency identifierref="{aid}meta"/></resource><resource identifier="{aid}meta" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="{aid}/assessment_meta.xml"><file href="{aid}/assessment_meta.xml"/></resource></resources></manifest>'''
     zn = os.path.join(OUT, f'CHEM3B_Ch{ch:02d}_{re.sub(r"[^A-Za-z]+", "_", NAMES[ch]).strip("_")}_QTI.zip')
     with zipfile.ZipFile(zn, 'w', zipfile.ZIP_DEFLATED) as z:
-        z.writestr('imsmanifest.xml', manifest); z.writestr(f'{aid}/{aid}.xml', qti)
+        meta = (f'<?xml version="1.0" encoding="UTF-8"?>\n<quiz identifier="{aid}" xmlns="http://canvas.instructure.com/xsd/cccv1p0"><title>{esc(title)}</title>'
+                f'<description>Homework for Chapter {ch} of Introductory Organic and Biological Chemistry for FCC (LibreTexts). Questions by Dr. Dan (Daniel Kwasniewski), CC BY-NC-SA 4.0.</description>'
+                f'<quiz_type>assignment</quiz_type><points_possible>{len(items)}</points_possible></quiz>')
+        z.writestr('imsmanifest.xml', manifest); z.writestr(f'{aid}/{aid}.xml', qti); z.writestr(f'{aid}/assessment_meta.xml', meta)
     for x in items:
         rows.append([ch, NAMES[ch], x['id'], x['t'], x.get('d', ''), plain(x['q']), plain(str(x['c'][x.get('k', 0)])),
                      ' | '.join(plain(str(c)) for j, c in enumerate(x['c']) if j != x.get('k', 0)), plain(x.get('w', ''))])
