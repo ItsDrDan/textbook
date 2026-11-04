@@ -1,0 +1,4 @@
+418/419: Malik 5.5 glyceraldehyde drawings show CH3 where CH2OH should be
+463: Malik 6.10 chlorobutanoic acid figure prints pKa 2.83 under all four structures (should be ~2.84, 4.06, 4.52, 4.82)
+735: Malik 13.1 succinate dehydrogenase figure has Fumarate/Succinate labels swapped
+868,869 (15.8 Fundamentals) and 873,874 (15.10 Fundamentals): images hosted on files.mtstatic.com return 403 — broken on the live page; remove or replace when adapting

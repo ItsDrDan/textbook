@@ -24,7 +24,7 @@ GAMES = {
  'carbs':    ('Sweet Structures', 'https://itsdrdan.github.io/carbohydrates/', 'Classify sugars, read Fischer projections and Haworth rings, and work sugar reactions.'),
  'peptides': ('Peptide Party', 'https://itsdrdan.github.io/aminoacids/', 'Amino acids and R groups, condense and hydrolyze peptides, decode codons, protein structure.'),
  'finalboss':('Final Boss', 'https://itsdrdan.github.io/finalexam/?course=3B', 'Final-exam style multiple choice for every CHEM 3B topic. Pick Topic Training and choose this chapter\'s topic.'),
- 'lewis':    ('Lewis Structure Studio', 'https://itsdrdan.github.io/lewisstructures/', 'Draw Lewis structures, predict VSEPR shapes and polarity.'),
+ 'lewis':    ('Lewis Structure Studio', 'https://itsdrdan.github.io/lewisstructures/?course=3B', 'Draw Lewis structures, predict VSEPR shapes and polarity.'),
  'hub':      ('CHEM 3B Daily 5', 'https://itsdrdan.github.io/games/3b.html', 'Five quick questions a day from all the CHEM 3B games (Organic and Biochemistry panels).'),
 }
 
@@ -183,8 +183,8 @@ LEWIS_PAGE = """<div class="box-objectives"><p class="boxtitle">What this page i
 <li><strong>Multiple bonds:</strong> O<sub>2</sub>, N<sub>2</sub>, CO<sub>2</sub>, HCN, H<sub>2</sub>CO (formaldehyde), C<sub>2</sub>H<sub>4</sub>, C<sub>2</sub>H<sub>2</sub>.</li>
 <li><strong>Organic molecules you will see all semester:</strong> CH<sub>3</sub>OH, CH<sub>3</sub>NH<sub>2</sub>, CH<sub>3</sub>CHO, CH<sub>3</sub>COOH, CH<sub>3</sub>OCH<sub>3</sub>.</li>
 <li><strong>Then predict</strong> the shape around each central atom (tetrahedral, trigonal pyramidal, bent, trigonal planar, linear) and whether the molecule is polar. If your answer and the game&rsquo;s disagree, redraw before looking at the explanation.</li></ol></div>
-<p><iframe src="https://itsdrdan.github.io/lewisstructures/" width="100%" height="900" style="border:0;border-radius:12px;" title="Lewis Structure Studio" loading="lazy" allowfullscreen="allowfullscreen"></iframe></p>
-<p style="font-size:0.9em;"><a href="https://itsdrdan.github.io/lewisstructures/" target="_blank" rel="noopener">Open Lewis Structure Studio in a new tab</a> (recommended on a phone or small screen).</p>
+<p><iframe src="https://itsdrdan.github.io/lewisstructures/?course=3B" width="100%" height="900" style="border:0;border-radius:12px;" title="Lewis Structure Studio" loading="lazy" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="font-size:0.9em;"><a href="https://itsdrdan.github.io/lewisstructures/?course=3B" target="_blank" rel="noopener">Open Lewis Structure Studio in a new tab</a> (recommended on a phone or small screen).</p>
 <div class="box-note" style="border-left:6px solid #0e6ea8;"><p class="boxtitle">Professor Tip</p><p>On the exam you will draw structures on paper with no checker. After each game round, redraw the same molecule from memory on paper, including lone pairs, and only then compare. Students who practice this way stop losing points for missing lone pairs on O and N, which is the most common Lewis-structure error in CHEM 3B.</p></div>
 <p>The other games and quick checks for this chapter are on the <strong>Practice Games</strong> page that follows.</p>
 <p style="font-size:0.9em;color:#555;">Lewis Structure Studio by ItsDrDan (Dr. Dan, Fresno City College): <a href="https://itsdrdan.github.io/games/" target="_blank" rel="noopener">Dr. Dan\'s Chemistry Study Hub</a>. Game design and chemistry by ItsDrDan; code written with AI assistance and checked by the author. The game is a free tool embedded by link and is not part of the licensed text.</p>
@@ -218,7 +218,7 @@ if __name__ == '__main__':
     # full section pages that replace empty placeholders
     SECTION_TITLES = {597099:'4.10: Acidity of Alcohols and Phenols',597131:'7.11: Neurotransmitters',597172:'11.7: Enzyme Regulation - Covalent Modification and Genetic Control',597183:'12.9: Structure and Function of RNA',597194:'13.7: Entry of Other Sugars into Glycolysis',597195:'13.8: Regulation of Glucose Metabolism and Metabolism During Stress',597196:'13.9: Glycogen Metabolism- Glycogenesis and Glycogenolysis',597197:'13.10: Gluconeogenesis- Glucose Synthesis from Noncarbohydrates',597204:'14.5: Energy Output in Complete Glucose Catabolism',597212:'15.6: Storage and Mobilization of Triacylglycerols'}
     for f in sorted(glob.glob('/home/claude/textbook/sections/*.html')):
-        if os.path.basename(f).startswith(('add_', 'ext_')): continue
+        if os.path.basename(f).startswith(('add_', 'ext_', 'src_')): continue
         src = open(f).read(); src = re.sub(r'src="(?:/)?(Slide\d+\.png)"', lambda m: f'src="{BASE}figures/{m.group(1)}"', src)
         fn = os.path.basename(f); open(os.path.join(out, fn), 'w').write(src)
         m = re.search(r'_(\d+)\.html$', f)
@@ -249,7 +249,11 @@ if __name__ == '__main__':
         def ren4(mm):
             k[0] += 1; return f'<figcaption>Figure {sec}.{k[0]}:'
         src = re.sub(r'<figcaption>Figure \d+\.\d+:', ren4, src)
-        body = TR[pid].rstrip() + '\n' + src.strip() + '\n'
+        # Sections whose source text has been copied in (with rewritten alt text) live in sections/src_<pid>.html;
+        # the rest are still transcluded from the source book.
+        srcf = f'/home/claude/textbook/sections/src_{pid}.html'
+        head = open(srcf).read().rstrip() if os.path.exists(srcf) else TR[pid].rstrip()
+        body = head + '\n' + src.strip() + '\n'
         fn = f'sec_{pid}.html'; open(os.path.join(out, fn), 'w').write(body)
         manifest.append({'file': fn, 'pageId': int(pid), 'what': 'Section ' + titles.get(pid, pid) + ' (+ Lecture Connection)'})
     json.dump(manifest, open(os.path.join(out, 'manifest.json'), 'w'), indent=1)
