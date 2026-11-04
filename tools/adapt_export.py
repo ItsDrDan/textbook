@@ -1,4 +1,5 @@
 """Build per-chapter homework question sets from the book's Try It bank for import into LibreTexts ADAPT (QTI 1.2, the
+# NOTE: in the Try It bank the correct answer is ALWAYS c[0]; the "k" field is the calculator flag, not the answer key.
 same format Canvas exports) plus a review spreadsheet. Text-only questions; items that need drawn structures are left out.
 Usage: python3 tools/adapt_export.py  ->  adapt/CHEM3B_ChNN_<name>_QTI.zip, adapt/CHEM3B_ADAPT_question_list.csv"""
 import json, re, os, zipfile, csv, html, uuid, sys
@@ -53,7 +54,7 @@ def item_xml(x, n):
     ident = 'i' + uuid.uuid5(uuid.NAMESPACE_URL, x['id']).hex
     import random
     order = list(range(len(x['c']))); random.Random(x['id']).shuffle(order)   # deterministic shuffle so the key is not always A
-    choices = [x['c'][j] for j in order]; key = order.index(x.get('k', 0))
+    choices = [x['c'][j] for j in order]; key = order.index(0)
     resp = ''.join(f'<response_label ident="{ident}_{j}"><material><mattext texttype="text/html">{esc(str(c))}</mattext></material></response_label>' for j, c in enumerate(choices))
     fb = esc('Correct! ' + x.get('w', '')); hint = esc('Not quite. Hint: ' + (x.get('h') or 'Review the chapter and try again.'))
     return f'''<item ident="{ident}" title="{esc(x['id'])}">
@@ -88,8 +89,8 @@ for ch, items in SETS.items():
                 f'<quiz_type>assignment</quiz_type><points_possible>{len(items)}</points_possible></quiz>')
         z.writestr('imsmanifest.xml', manifest); z.writestr(f'{aid}/{aid}.xml', qti); z.writestr(f'{aid}/assessment_meta.xml', meta)
     for x in items:
-        rows.append([ch, NAMES[ch], x['id'], x['t'], x.get('d', ''), plain(x['q']), plain(str(x['c'][x.get('k', 0)])),
-                     ' | '.join(plain(str(c)) for j, c in enumerate(x['c']) if j != x.get('k', 0)), plain(x.get('w', ''))])
+        rows.append([ch, NAMES[ch], x['id'], x['t'], x.get('d', ''), plain(x['q']), plain(str(x['c'][0])),
+                     ' | '.join(plain(str(c)) for j, c in enumerate(x['c']) if j != 0), plain(x.get('w', ''))])
 with open(os.path.join(OUT, 'CHEM3B_ADAPT_question_list.csv'), 'w', newline='', encoding='utf-8-sig') as f:
     w = csv.writer(f); w.writerow(['Chapter', 'Chapter title', 'Question ID', 'Topic', 'Difficulty', 'Question', 'Correct answer', 'Distractors', 'Feedback'])
     w.writerows(rows)
