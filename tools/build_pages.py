@@ -240,6 +240,8 @@ if __name__ == '__main__':
             manifest.append({'file': fn, 'pageId': pid, 'what': 'Section ' + SECTION_TITLES.get(pid, str(pid))})
         elif fn == 'front_about.html':
             manifest.append({'file': fn, 'create': {'parentId': 488225, 'exactTitle': 'About This Book'}, 'what': 'Front matter: About This Book'})
+        elif fn == 'front_alignment.html':
+            manifest.append({'file': fn, 'pageId': 597272, 'what': 'Front matter: Course Outline Alignment'})
         elif fn == 'back_sources.html':
             manifest.append({'file': fn, 'create': {'parentId': 488230, 'exactTitle': 'Source Attributions by Section'}, 'what': 'Back matter: Source Attributions by Section'})
     # Lecture Connection blocks appended to transcluded section pages
