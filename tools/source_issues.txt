@@ -2,3 +2,5 @@
 463: Malik 6.10 chlorobutanoic acid figure prints pKa 2.83 under all four structures (should be ~2.84, 4.06, 4.52, 4.82)
 735: Malik 13.1 succinate dehydrogenase figure has Fumarate/Succinate labels swapped
 868,869 (15.8 Fundamentals) and 873,874 (15.10 Fundamentals): images hosted on files.mtstatic.com return 403 — broken on the live page; remove or replace when adapting
+
+STATUS (2026-11-04): the three figure errors above (5.5 glyceraldehyde, 6.10 pKa values, 13.1 fumarate/succinate) are now flagged with a boxed "Professor Tip: a correction to this figure" in sections/src_597106, src_597118 and src_597188 and on the live pages. The source images themselves are unchanged.
