@@ -1,5 +1,6 @@
 /* Textbook "Try it" widget. Two engines:
    1) Exam bank:  practice.html?t=alcohols,carbonyls&n=8      (Final Boss 3B questions, by topic)
+                  &fresh=1   new random set each visit, spread evenly across the listed topics (cumulative mixes)
                   practice.html?ids=fb-3B-0019,fb-3B-0020      (hand-picked questions)
                   practice.html?t=hydrocarbons&q=hydrogenation|addition   (regex filter on the question text)
    2) Reaction lab: practice.html?rxn=hydration,hydrohalogenation&mode=product   (generated from Bond Voyage templates)
@@ -12,7 +13,7 @@ const $=s=>document.querySelector(s);
 const E=window.ENGINE,esc=E.esc,shuf=E.shuf,pick=E.pick;
 const GAMES={orgrxn:['Bond Voyage! Organic Reactions','https://itsdrdan.github.io/organicreactions/'],origins:['Organic Origins','https://itsdrdan.github.io/functionalgroups/'],
  carbs:['Sweet Structures','https://itsdrdan.github.io/carbohydrates/'],peptides:['Peptide Party','https://itsdrdan.github.io/aminoacids/'],finalboss:['Final Boss','https://itsdrdan.github.io/finalexam/?course=3B'],
- lewis:['Lewis Structure Studio','https://itsdrdan.github.io/lewisstructures/'],flash:['Functional Group Flashcards','https://itsdrdan.github.io/organic/'],hub:['the Study Hub','https://itsdrdan.github.io/games/3b.html']};
+ lewis:['Lewis Structure Studio','https://itsdrdan.github.io/lewisstructures/?course=3B'],flash:['Functional Group Flashcards','https://itsdrdan.github.io/organic/'],hub:['the Study Hub','https://itsdrdan.github.io/games/3b.html']};
 const TOPICS=[['structure','Structure & Functional Groups','🧩'],['hydrocarbons','Alkanes, Alkenes & Alkynes','⛓️'],['aromatic','Aromatic Compounds','💍'],['isomers','Isomers','🪞'],['chirality','Chirality','🤲'],
  ['properties','IMFs, Polarity & Acid–Base','🧲'],['alcohols','Alcohols, Phenols, Thiols & Ethers','🍷'],['carbonyls','Aldehydes & Ketones','🍋'],['acids_esters','Carboxylic Acids & Esters','🍌'],['amines','Amines & Amides','🐟'],
  ['carbs','Carbohydrates','🍬'],['lipids','Lipids','🫧'],['proteins','Amino Acids & Proteins','🧶'],['enzymes','Enzymes & Vitamins','⚙️'],['nucleic','Nucleic Acids','🧬'],['metabolism','Metabolism','⚡']];
@@ -34,7 +35,12 @@ async function bankMode(){
  if(ids.length){const want=new Set(ids);items=items.filter(q=>want.has(q.id))}
  const rx=P.get('q');if(rx){let re;try{re=new RegExp(rx,'i')}catch(e){re=null}if(re)items=items.filter(q=>re.test(q.q+' '+q.c.join(' ')+' '+q.w))}
  const dmax=+P.get('dmax');if(dmax)items=items.filter(q=>!q.d||q.d<=dmax);
- const n=+P.get('n');if(n&&items.length>n){/* stable sample so the same widget shows the same set each visit */items=items.map((q,i)=>[q,hash(q.id+keySuffix)]).sort((a,b)=>a[1]-b[1]).slice(0,n).map(a=>a[0])}
+ const n=+P.get('n');
+ if(n&&items.length>n&&P.get('fresh')){/* fresh=1: a new random set on every visit, spread evenly across the listed topics (used by the Cumulative Review mixes) */
+  const by={};for(const q of items){(by[q.t]=by[q.t]||[]).push(q)}const keys=Object.keys(by);for(const k of keys)by[k].sort(()=>Math.random()-0.5);
+  const pick=[];let i=0;while(pick.length<n&&keys.some(k=>by[k].length)){const k=keys[i%keys.length];i++;if(by[k].length)pick.push(by[k].shift())}
+  items=pick.sort(()=>Math.random()-0.5)}
+ else if(n&&items.length>n){/* stable sample so the same widget shows the same set each visit */items=items.map((q,i)=>[q,hash(q.id+keySuffix)]).sort((a,b)=>a[1]-b[1]).slice(0,n).map(a=>a[0])}
  if(!items.length){host.innerHTML='<div class="rl-card">No questions matched this widget. (Check the ?t= / ?ids= settings.)</div>';return}
  host.innerHTML='';
  window.FBX.mount(host,items,{topics:TOPICS,storageKey:'tb-fbx-'+keySuffix,onAnswer:(q,first,info)=>track('Try it (bank)',info.topic,first)});
