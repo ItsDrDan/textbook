@@ -3,10 +3,10 @@
 ## What is already set up (Nov 4, 2026)
 
 - **Course:** "CHEM 3B: Introductory Organic and Biochemistry" in ADAPT (course 4605).
-- **15 chapter assignments,** named "CHEM 3B Chapter N: …", with 405 multiple-choice questions in total:
+- **15 chapter assignments,** named "CHEM 3B Chapter N: …", with 449 multiple-choice questions in total:
   - Chapter 1: 19
   - Chapter 2: 31
-  - Chapter 3: 13
+  - Chapter 3: 36
   - Chapter 4: 25
   - Chapter 5: 42
   - Chapter 6: 20
@@ -16,9 +16,9 @@
   - Chapter 10: 36
   - Chapter 11: 35
   - Chapter 12: 31
-  - Chapter 13: 11
+  - Chapter 13: 31
   - Chapter 14: 20
-  - Chapter 15: 19
+  - Chapter 15: 20
 - **Assignment template:** "CHEM 3B Chapter Homework". All 15 assignments use it:
   - real-time grading
   - 3 attempts per question, with no attempt penalty
@@ -42,6 +42,14 @@
 - **`CHEM3B_ADAPT_question_list.csv`:** every question with its correct answer, for review.
 - **To rebuild after editing the Try It bank:** run `python3 tools/adapt_export.py`.
 
+## Extra questions (added Nov 4)
+
+- `CHEM3B_Ch03_extra_QTI.zip`, `CHEM3B_Ch13_extra_QTI.zip` and `CHEM3B_Ch15_extra_QTI.zip` hold 44 more questions:
+  - questions that use drawn structures and figures, as images with written descriptions (alt text);
+  - 12 new Chapter 13 questions, which are also in the Try It bank (`fb-3B-1001` to `fb-3B-1012`).
+- They are built by `tools/render_thin.js` and `tools/adapt_thin.py`.
+- They were added to the Chapter 3, 13 and 15 assignments.
+
 ## Questions that were left out
 
 These questions are still in the Try It widgets and the Final Boss game:
@@ -49,4 +57,4 @@ These questions are still in the Try It widgets and the Final Boss game:
 - Questions that need a drawn structure or figure, or have structures as answer choices.
 - Questions taken from your Canvas quizzes.
 
-Chapters 3 and 13 are the thinnest sets for this reason.
+Other chapters still have structure-based questions that are not in ADAPT yet. The same image method can add them.
