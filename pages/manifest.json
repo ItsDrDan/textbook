@@ -261,13 +261,21 @@
  },
  {
   "file": "ch14_problems.html",
-  "pageId": 597207,
+  "pageId": 597206,
   "what": "Practice Problems 14"
  },
  {
   "file": "ch15_problems.html",
   "pageId": 597219,
   "what": "Practice Problems 15"
+ },
+ {
+  "file": "back_sources.html",
+  "create": {
+   "parentId": 488230,
+   "exactTitle": "Source Attributions by Section"
+  },
+  "what": "Back matter: Source Attributions by Section"
  },
  {
   "file": "ch04_597099.html",
@@ -326,5 +334,585 @@
    "exactTitle": "About This Book"
   },
   "what": "Front matter: About This Book"
+ },
+ {
+  "file": "sec_597054.html",
+  "pageId": 597054,
+  "what": "Section 1.1: Covalent Bonds (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597055.html",
+  "pageId": 597055,
+  "what": "Section 1.2: Covalent Compounds - Formulas and Names (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597056.html",
+  "pageId": 597056,
+  "what": "Section 1.3: Drawing Lewis Structures (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597057.html",
+  "pageId": 597057,
+  "what": "Section 1.4: Characteristics of Covalent Bonds (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597058.html",
+  "pageId": 597058,
+  "what": "Section 1.5: Characteristics of Molecules (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597059.html",
+  "pageId": 597059,
+  "what": "Section 1.6: Organic Chemistry (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597060.html",
+  "pageId": 597060,
+  "what": "Section 1.7: Representing organic compounds (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597061.html",
+  "pageId": 597061,
+  "what": "Section 1.8: Intermolecular Interactions (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597065.html",
+  "pageId": 597065,
+  "what": "Section 2.1: Organic Chemistry (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597066.html",
+  "pageId": 597066,
+  "what": "Section 2.2: Structures and Names of Alkanes (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597067.html",
+  "pageId": 597067,
+  "what": "Section 2.3: Branched-Chain Alkanes (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597068.html",
+  "pageId": 597068,
+  "what": "Section 2.4: Condensed Structural and Line-Angle Formulas (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597069.html",
+  "pageId": 597069,
+  "what": "Section 2.5: IUPAC Nomenclature (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597070.html",
+  "pageId": 597070,
+  "what": "Section 2.6: Physical Properties of Alkanes (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597071.html",
+  "pageId": 597071,
+  "what": "Section 2.7: Chemical Properties of Alkanes (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597072.html",
+  "pageId": 597072,
+  "what": "Section 2.8: Halogenated Hydrocarbons (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597073.html",
+  "pageId": 597073,
+  "what": "Section 2.9: Cycloalkanes (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597078.html",
+  "pageId": 597078,
+  "what": "Section 3.1: Alkenes- Structures and Names (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597079.html",
+  "pageId": 597079,
+  "what": "Section 3.2: Cis-Trans Isomers (Geometric Isomers) (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597080.html",
+  "pageId": 597080,
+  "what": "Section 3.3: Physical Properties of Alkenes (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597081.html",
+  "pageId": 597081,
+  "what": "Section 3.4: Chemical Properties of Alkenes (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597082.html",
+  "pageId": 597082,
+  "what": "Section 3.5: Polymers (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597083.html",
+  "pageId": 597083,
+  "what": "Section 3.6: Alkynes (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597084.html",
+  "pageId": 597084,
+  "what": "Section 3.7: Aromatic Compounds- Benzene (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597085.html",
+  "pageId": 597085,
+  "what": "Section 3.8: Structure and Nomenclature of Aromatic Compounds (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597090.html",
+  "pageId": 597090,
+  "what": "Section 4.1: Organic Compounds with Functional Groups (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597091.html",
+  "pageId": 597091,
+  "what": "Section 4.2: Alcohols - Nomenclature and Classification (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597092.html",
+  "pageId": 597092,
+  "what": "Section 4.3: Physical Properties of Alcohols (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597093.html",
+  "pageId": 597093,
+  "what": "Section 4.4: Reactions that Form Alcohols (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597094.html",
+  "pageId": 597094,
+  "what": "Section 4.5: Reactions of Alcohols (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597095.html",
+  "pageId": 597095,
+  "what": "Section 4.6: Glycols and Glycerol (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597096.html",
+  "pageId": 597096,
+  "what": "Section 4.7: Phenols (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597097.html",
+  "pageId": 597097,
+  "what": "Section 4.8: Ethers (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597098.html",
+  "pageId": 597098,
+  "what": "Section 4.9: Organic Sulfur Compounds (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597102.html",
+  "pageId": 597102,
+  "what": "Section 5.1: Aldehydes and Ketones- Structure and Names (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597103.html",
+  "pageId": 597103,
+  "what": "Section 5.2: Properties of Aldehydes and Ketones (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597104.html",
+  "pageId": 597104,
+  "what": "Section 5.3: Nucleophilic Addition Reactions (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597105.html",
+  "pageId": 597105,
+  "what": "Section 5.4: Reduction and oxidation (redox) reactions (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597106.html",
+  "pageId": 597106,
+  "what": "Section 5.5: Introduction to stereochemistry (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597109.html",
+  "pageId": 597109,
+  "what": "Section 6.1: Carboxylic Acids - Structures and Names (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597110.html",
+  "pageId": 597110,
+  "what": "Section 6.2: The Formation of Carboxylic Acids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597111.html",
+  "pageId": 597111,
+  "what": "Section 6.3: Physical Properties of Carboxylic Acids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597112.html",
+  "pageId": 597112,
+  "what": "Section 6.4: Chemical Properties of Carboxylic Acids- Ionization and Neutralization (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597113.html",
+  "pageId": 597113,
+  "what": "Section 6.5: Esters - Structures and Names (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597114.html",
+  "pageId": 597114,
+  "what": "Section 6.6: Physical Properties of Esters (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597115.html",
+  "pageId": 597115,
+  "what": "Section 6.7: Preparation of Esters (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597116.html",
+  "pageId": 597116,
+  "what": "Section 6.8: Hydrolysis of Esters (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597117.html",
+  "pageId": 597117,
+  "what": "Section 6.9: Esters of Phosphoric Acid (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597118.html",
+  "pageId": 597118,
+  "what": "Section 6.10: Acid-base reactions (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597121.html",
+  "pageId": 597121,
+  "what": "Section 7.1: Amines - Structures and Names (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597122.html",
+  "pageId": 597122,
+  "what": "Section 7.2: Physical Properties of Amines (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597123.html",
+  "pageId": 597123,
+  "what": "Section 7.3: Amines as Bases (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597124.html",
+  "pageId": 597124,
+  "what": "Section 7.4: Amides- Structures and Names (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597125.html",
+  "pageId": 597125,
+  "what": "Section 7.5: Physical Properties of Amides (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597126.html",
+  "pageId": 597126,
+  "what": "Section 7.6: Formation of Amides (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597127.html",
+  "pageId": 597127,
+  "what": "Section 7.7: Chemical Properties of Amides- Hydrolysis (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597128.html",
+  "pageId": 597128,
+  "what": "Section 7.8: Heterocyclic Nitrogen Compounds (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597129.html",
+  "pageId": 597129,
+  "what": "Section 7.9: Amines in Plants- Alkaloids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597130.html",
+  "pageId": 597130,
+  "what": "Section 7.10: Polyamides and Polyesters (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597134.html",
+  "pageId": 597134,
+  "what": "Section 8.1: Carbohydrates (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597135.html",
+  "pageId": 597135,
+  "what": "Section 8.2: Classes of Monosaccharides (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597136.html",
+  "pageId": 597136,
+  "what": "Section 8.3: Important Hexoses (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597137.html",
+  "pageId": 597137,
+  "what": "Section 8.4: Cyclic Structures of Monosaccharides (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597138.html",
+  "pageId": 597138,
+  "what": "Section 8.5: Properties of Monosaccharides (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597139.html",
+  "pageId": 597139,
+  "what": "Section 8.6: Disaccharides (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597140.html",
+  "pageId": 597140,
+  "what": "Section 8.7: Polysaccharides (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597144.html",
+  "pageId": 597144,
+  "what": "Section 9.1: Fatty Acids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597145.html",
+  "pageId": 597145,
+  "what": "Section 9.2: Fats and Oils (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597146.html",
+  "pageId": 597146,
+  "what": "Section 9.3: Glycerophospholipids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597147.html",
+  "pageId": 597147,
+  "what": "Section 9.4: Sphingolipids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597148.html",
+  "pageId": 597148,
+  "what": "Section 9.5: Membranes and Membrane Lipids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597149.html",
+  "pageId": 597149,
+  "what": "Section 9.6: Steroids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597154.html",
+  "pageId": 597154,
+  "what": "Section 10.1: Properties of Amino Acids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597155.html",
+  "pageId": 597155,
+  "what": "Section 10.2: Acid-Base Properties of Amino Acids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597156.html",
+  "pageId": 597156,
+  "what": "Section 10.3: Reactions of Amino Acids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597157.html",
+  "pageId": 597157,
+  "what": "Section 10.4: Peptides (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597158.html",
+  "pageId": 597158,
+  "what": "Section 10.5: Proteins (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597159.html",
+  "pageId": 597159,
+  "what": "Section 10.6: Primary structure of proteins (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597160.html",
+  "pageId": 597160,
+  "what": "Section 10.7: Secondary structure of proteins (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597161.html",
+  "pageId": 597161,
+  "what": "Section 10.8: Tertiary structure of proteins (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597162.html",
+  "pageId": 597162,
+  "what": "Section 10.9: Quaternary structure of proteins (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597163.html",
+  "pageId": 597163,
+  "what": "Section 10.10: Protein misfolding and denaturation (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597166.html",
+  "pageId": 597166,
+  "what": "Section 11.1: Enzymes (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597167.html",
+  "pageId": 597167,
+  "what": "Section 11.2: Enzyme Action (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597168.html",
+  "pageId": 597168,
+  "what": "Section 11.3: Enzyme Activity (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597169.html",
+  "pageId": 597169,
+  "what": "Section 11.4: Enzyme Inhibition (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597170.html",
+  "pageId": 597170,
+  "what": "Section 11.5: Enzyme Cofactors and Vitamins (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597171.html",
+  "pageId": 597171,
+  "what": "Section 11.6: Enzyme Regulation- Allosteric Control and Feedback Inhibition (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597175.html",
+  "pageId": 597175,
+  "what": "Section 12.1: Nucleotides (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597176.html",
+  "pageId": 597176,
+  "what": "Section 12.2: Nucleic Acid Structure (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597177.html",
+  "pageId": 597177,
+  "what": "Section 12.3: Replication and Expression of Genetic Information (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597178.html",
+  "pageId": 597178,
+  "what": "Section 12.4: Ribonucleic acid (RNA) and transcription (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597179.html",
+  "pageId": 597179,
+  "what": "Section 12.5: Protein Synthesis and the Genetic Code (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597180.html",
+  "pageId": 597180,
+  "what": "Section 12.6: Mutations and Genetic Diseases (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597181.html",
+  "pageId": 597181,
+  "what": "Section 12.7: Viruses (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597182.html",
+  "pageId": 597182,
+  "what": "Section 12.8: Genetic engineering (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597188.html",
+  "pageId": 597188,
+  "what": "Section 13.1: Basics of metabolism (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597189.html",
+  "pageId": 597189,
+  "what": "Section 13.2: ATP- the Universal Energy Currency (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597190.html",
+  "pageId": 597190,
+  "what": "Section 13.3: Digestion of food (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597191.html",
+  "pageId": 597191,
+  "what": "Section 13.4: Stage I of Catabolism (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597192.html",
+  "pageId": 597192,
+  "what": "Section 13.5: Stage II of Carbohydrate Catabolism (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597193.html",
+  "pageId": 597193,
+  "what": "Section 13.6: Oxidation of glucose -the glycolysis (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597200.html",
+  "pageId": 597200,
+  "what": "Section 14.1: Overview of Stage II of Catabolism (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597201.html",
+  "pageId": 597201,
+  "what": "Section 14.2: Stage III of Catabolism (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597202.html",
+  "pageId": 597202,
+  "what": "Section 14.3: Citric acid cycle (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597203.html",
+  "pageId": 597203,
+  "what": "Section 14.4: Oxidative Phosphorylation (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597207.html",
+  "pageId": 597207,
+  "what": "Section 15.1: Stage II of Lipid Catabolism (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597208.html",
+  "pageId": 597208,
+  "what": "Section 15.2: Stage II of Protein Catabolism (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597209.html",
+  "pageId": 597209,
+  "what": "Section 15.3: Oxidation of fatty acids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597210.html",
+  "pageId": 597210,
+  "what": "Section 15.4: Degradation of amino acids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597211.html",
+  "pageId": 597211,
+  "what": "Section 15.5: Lipoproteins for Lipid Transport (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597213.html",
+  "pageId": 597213,
+  "what": "Section 15.7: Ketone Bodies and Ketoacidosis (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597214.html",
+  "pageId": 597214,
+  "what": "Section 15.8: Biosynthesis of Fatty Acids (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597215.html",
+  "pageId": 597215,
+  "what": "Section 15.9: Digestion of Proteins (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597216.html",
+  "pageId": 597216,
+  "what": "Section 15.10: The Urea Cycle (+ Lecture Connection)"
+ },
+ {
+  "file": "sec_597217.html",
+  "pageId": 597217,
+  "what": "Section 15.11: Biosynthesis of Nonessential Amino Acids (+ Lecture Connection)"
  }
 ]
