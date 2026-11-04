@@ -28,6 +28,7 @@ See `LICENSE.md`: content CC BY-NC-SA 4.0; source sections keep their own licens
 practice.html?t=alcohols&n=10                      ten exam questions on alcohols
 practice.html?t=metabolism&q=glycoly|pyruvate       regex filter on the question text
 practice.html?ids=fb-3B-0019,fb-3B-0020             hand-picked questions
+practice.html?t=structure,properties,hydrocarbons&n=12&fresh=1   cumulative mix: new random set each visit, spread evenly across topics
 practice.html?rxn=hydration,hydrohalogenation&mode=product   reaction lab (modes: identify, product, reactant, name, mix)
 &title=...&game=orgrxn|origins|carbs|peptides|finalboss|lewis|flash   header and "Play the full game" link
 ```
@@ -37,6 +38,8 @@ Reaction keys: combustion substitution hydrogenation halogenAdd hydrohalogenatio
 - Source of truth for the Chapter Guides and Practice Problems: `drafts/` (copied from the authoring folder). Edit there, then `python3 tools/build_pages.py` to regenerate `pages/`.
 - `sections/` holds the full section pages that replaced empty placeholders (4.10, 7.11, 11.7, 12.9, 13.7–13.10, 14.5, 15.6) and the front-matter "About This Book" page; `build_pages.py` copies them into `pages/` and numbers their figures.
 - `sections/add_<pageId>.html` are the Lecture Connection blocks appended to the 125 sections taken from the source books. `sections/src_<pageId>.html` (111 files) hold the source text of every one of those sections that contains figures, copied in from the source book with the figure alt text rewritten for accessibility (November 2026; every one of the 875 inherited figures was re-described) and ending in an "Adapted from" note; `build_pages.py` uses `src_` when it exists and the transclusion widget from `tools/transclusions.json` otherwise. The alt-text work is recorded in `tools/alt_scan.json` (what was there), `tools/alt_new.json` and `tools/alt_map.json` (what replaced it) and `tools/source_issues.txt` (errors noticed in the source figures).
+- Cumulative Review problems (Chapters 2–15) live in `tools/cumulative.py` (six written problems per chapter plus a `fresh=1` Try It mix of every topic covered so far); `build_pages.py` appends them to each Practice Problems page.
+- Practice Games pages for Chapters 9, 11 and 13–15 embed the three CHEM 3B games built in November 2026: Lipid Lab (ItsDrDan/lipids), Enzyme Engine (ItsDrDan/enzymes) and Metabolic Marathon (ItsDrDan/metabolism). Their Exam Practice mode loads `js/fbx.js`, `css/widget-base.css` and `bank/<topic>.json` from this repo.
 - Figure tools: `tools/draw.js` (structures, reaction schemes), `tools/pathway.js` (pathway/flow diagrams from a JSON spec), `tools/molsvg.py` (fused rings), `tools/preview.py` (render a page to PNG), `tools/check_fragment.py` (sanity checks).
 - Push to LibreTexts: upload the new `pages/` folder to this repo, then paste `tools/sync-libretexts.js` into the browser console on chem.libretexts.org (it updates every page listed in `pages/manifest.json`, creating "Practice Games" and "About This Book" if missing).
 - Authoring standards: `tools/AUTHOR_BRIEF.md`, `tools/REVIEW_BRIEF.md`, `tools/COR_outline.md`.
