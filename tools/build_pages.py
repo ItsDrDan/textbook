@@ -154,6 +154,9 @@ def build_guide(ch):
         else: src = insert_after_section(src, rx, w)
     if before_practice:
         src = src.replace('<h2>Practice</h2>', ''.join(before_practice) + '<h2>Practice</h2>', 1)
+    from patient_case import case_block
+    assert src.count('<h2>Practice</h2>') == 1
+    src = src.replace('<h2>Practice</h2>', case_block(ch) + '<h2>Practice</h2>', 1)
     src = src.rstrip() + '\n' + games_box(ch)
     # renumber figures in document order
     k = [0]
