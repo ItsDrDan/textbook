@@ -1,0 +1,579 @@
+# Lecture 4 and 5 Chapter 12 Alkenes.pptx  (79 slides)
+
+--- slide 1 ---
+Finishing up Alkanes and Alkenes
+Sections 12.5-12.8
+
+--- slide 2 ---
+Outline
+Properties of Alkanes
+Intermolecular forces!
+Alkenes and Alkynes
+Geometry
+Saturation 
+Cis & Trans Isomerism
+Nomenclature (new suffixes for your vocabulary!)
+
+--- slide 3 ---
+Attendance
+Top Secret Code Word for 9/2 is benzene
+Dispersion Forces
+Dipole-Dipole
+Hydrogen Bonding
+
+--- slide 4 ---
+Properties of Alkanes
+
+--- slide 5 ---
+Uses for Alkanes depends on Properties
+Physical State | Uses | Examples
+Solid | Waxes
+Lubricants | Paraffin wax
+
+Liquid | Fuel
+Solvents | Gasoline
+Hexane
+Gas | Fuel | Natural gas
+
+--- slide 6 ---
+Physical State
+Substances are solid below their melting point
+Substances are liquid between their melting point and boiling point
+Substances are gases above their boiling point
+Intermolecular forces broken
+Chemical bonds between atoms intact
+LIQUID
+
+--- slide 7 ---
+Bonds and Intermolecular forces
+Chemical Bonds
+Ionic Bonds
+Strong
+Form between metal and nonmetal atoms
+Electrons transferred
+Covalent Bonds
+Strong, but less than ionic
+Form between nonmetal atoms
+Electrons shared 
+Sharing may be unequal 
+Intermolecular forces
+Between Molecules
+All weaker than covalent bonds
+Hydrogen Bonds (strongest)
+Dipole-dipole (medium)
+Van der Waals / London dispersion (weakest)
+
+--- slide 8 ---
+Intermolecular Forces
+Atoms within molecules are held together by covalent bonds
+Intermolecular forces between molecules are what holds neighboring molecules together
+Intermolecular forces are much weaker than covalent bonds
+Intermolecular Force
+Melting point and boiling points have trends based on strength of the intermolecular forces
+[notes] Covalent bonds
+
+Intermolecular forces are WEAKER
+
+--- slide 9 ---
+Intermolecular Forces vs. Bonds
+Intermolecular forces are weaker than covalent bonds
+We will focus on forces between molecules:
+Hydrogen Bonds 
+Dipole-Dipole
+London Dispersion Forces
+Energy needed to break
+9
+
+--- slide 10 ---
+Dispersion Forces: The Basic Force
+The “stickiness” caused by dispersion forces happens by random chance. For this reason it is the weakest intermolecular force
+Found in: all matter, nonpolar molecular compounds, noble gasses
+Helium Atom
+Random Movement
+δ–
+δ+
+Instantaneous Dipole (Temporary Dipole) 
+
+--- slide 11 ---
+Dispersion Forces: The Basic Force
+An instantaneous dipole can induce a dipole in a neighbor
+δ–
+δ+
+δ–
+δ+
+δ–
+δ+
+Weak attraction
+BEFORE
+AFTER
+At any given moment in time, the electrons in an atom or molecule can create an instantaneous (temporary) dipole
+This temporary dipole may induce a temporary dipole on nearby molecules, causing them to be attracted to one another.
+Since all atoms/molecules have electrons, Dispersion Forces can occur between any atom and/or molecule.
+
+--- slide 12 ---
+Trend – Chain length
+Larger molecules  More dispersion forces
+Molar Mass is a measure of relative size
+12
+
+--- slide 13 ---
+Trends - Branching
+Branched alkanes have a lower melting point and boiling point than straight-chain with same # of carbons
+Branched molecules can’t pack as tightly together
+Less dispersion forces
+Branched molecules can’t pack together well.
+Straight-chain molecules can pack together – increasing dispersion forces between molecules.
+
+--- slide 14 ---
+Dipole-Dipole Forces
+A dipole-dipole force is an attractive force between polar molecules (permanent dipoles)
+Polar molecules have a partially positive (δ+) and partially negative end (δ-) due to differences in electronegativity.
+Opposite charges attract
+14
+
+--- slide 15 ---
+Hydrogen Bonding
+Hydrogen Bonding is an extra strong dipole-dipole force that occurs between:
+A lone pair on N, O, or F on one molecule   AND
+A hydrogen covalently bonded to N, O, or F on neighboring molecule
+N, O, and F are the three most electronegative elements. 
+They pull electrons away from H, making the H almost +1 charged. Hδ+ highly attracted to lone pairs.
+15
+
+--- slide 16 ---
+Intermolecular Force Summary
+ Force | Requirements
+Dispersion Forces | Any two molecules
+Dipole-Dipole | Both molecules must be polar
+Polar covalent bond
+C-O, C-N, C-F, C-Cl: Polar
+C-H: Non-polar
+Asymmetrical
+Hydrogen Bonding | Donor: A molecule with an H bonded to N, O, or F.
+Acceptor: Another molecule with a lone-pair of electrons on N, O, or F.
+
+--- slide 17 ---
+Making Predictions
+Melting Point & Boiling Point
+Consider intermolecular forces between separate molecules of the same compound.
+Which compound has stronger intermolecular forces between molecules?
+The compound with the stronger intermolecular forces will have a higher melting point and higher boiling point
+Solubility
+Consider intermolecular forces between solute molecules and solvent molecules
+Are the strengths of the forces similar to that between just solvent molecules?
+If so, the solvent will be soluble. The stronger the attractive forces between solute and solvent, the more soluble it is.
+Covalent compounds do not ionize! It stays a molecule – just surrounded by solvent molecules.
+
+--- slide 18 ---
+Intermolecular Forces - Prediction
+Is CH2Cl2 is polar? Why or why not?
+What type of intermolecular forces can occur between molecules of CH2Cl2 ?
+Draw at least three molecules of CH2Cl2 and put dashed lines between to indicate where the intermolecular forces are
+
+--- slide 19 ---
+Prediction
+Which would you expect to have the higher boiling point? Why?
+2,2-dimethylpropane
+Water (H2O)
+
+--- slide 20 ---
+Solubility
+Solubility rule of thumb “like-dissolves like”
+What’s “like”? Intermolecular forces
+Polar solute in polar solvents
+Solvent molecules attracted to other solvent molecules and solute molecules
+Solute is soluble
+Non-polar solute in polar solvents
+Polar solvent molecules are more attracted to other solvent molecules
+Solute is insoluble
+
+--- slide 21 ---
+Prediction
+Would glucose (shown below) be soluble in water?
+Will a latex balloon dissolve in limonene (from lemon/lime peels)?
+Segment of Latex
+Limonene
+
+--- slide 22 ---
+Unsaturated Hydrocarbons:Alkenes and Alkynes
+
+--- slide 23 ---
+Carbon Bonds
+Carbon forms single, double, and triple bonds to other carbon atoms.
+Alkene
+Alkyne
+Alkane
+
+--- slide 24 ---
+Alkenes and Alkynes are everywhere
+Lycopene, the red pigment in tomatoes and watermelons, has 13 double bonds.
+A mixture of acetylene (ethyne) and oxygen undergoes combustion during the welding of metals.
+NanoPutains are organic molecules whose structures resemble human forms
+
+--- slide 25 ---
+Saturation
+Alkanes are saturated hydrocarbons
+General formula: CnH2n+2
+Alkenes and alkynes are called unsaturated hydrocarbons 
+Do not contain the maximum number of H atoms per C atom.
+Alkenes general formula: CnH2n (n = # of carbons)
+Alkynes general formula: CnH2n-2 (n = # of carbons)
+
+--- slide 26 ---
+Geometry
+Alkene
+What is the molecular geometry for each carbon?
+What is the C-C-H bond angle?
+Alkyne
+What is the molecular geometry for each carbon?
+What is the C-C-H bond angle?
+Trigonal planar
+120o
+180o
+linear
+
+--- slide 27 ---
+Structure Drawing: Multiple Bonds
+In condensed structures always draw in a multiple bond
+In line structures draw alkynes as straight
+
+--- slide 28 ---
+Nomenclature of Alkenes and Alkynes
+Find the longest carbon chain that contains the double or triple bond
+Name the carbon chain, but use the –ene or –yne suffix
+Start numbering. Minimize the number of the double or triple bond
+Give the 1st number assigned to the multiple bond
+Give the location and name of all other substituents
+
+--- slide 29 ---
+Nomenclature
+Multiple bond must be included in the longest chain!
+
+--- slide 30 ---
+Which is an appropriate name for CH2     CH — Cl?
+Practice
+chloroethane
+chloroethene
+chloroethyne
+dimethyl chloride
+[notes] Answer: B
+
+--- slide 31 ---
+What is the IUPAC name for the following?
+6-bromo-3-heptyne
+Practice
+
+--- slide 32 ---
+Special Considerations
+If the multiple bond is equal distance from both ends, begin numbering at the end closest to the first branch
+
+--- slide 33 ---
+Common Names
+If you hear one of these common names, you’ll now know it’s not proper IUPAC – it’s slang.
+
+--- slide 34 ---
+Nomenclature of cycloalkenes
+When naming cycloalkenes, the double bond is located between C1 and C2.
+The “1” is usually omitted in the name.
+The ring is numbered to give the first substituent the lower number.
+
+--- slide 35 ---
+Practice
+What’s the name of these compounds?
+1-methyl-6-propylcyclohexene
+2,4-dimethyl-2-hexene
+1-methyl-6-propylcyclohexene
+2,4-dimethyl-2-hexene
+[notes] Double bond has to be between C1 and C2
+when substituent is on double-bond, that is C1, the other carbon w/ double bond is C2.
+
+--- slide 36 ---
+Cis and Trans Isomers
+
+--- slide 37 ---
+Cis and Trans Isomerism
+Single bonds can rotate
+Double and triple bonds cannot rotate
+Alkenes have edges and sides
+Rigid and planar
+Alkenes can have cis-/trans- isomerism
+Alkynes are linear and cannot have cis-/trans-isomerism
+
+--- slide 38 ---
+Cis and Trans Isomers
+Cis = groups are on the same side of the double bond (not bonded to same C)
+Trans = groups are bonded on opposite sides of the double bond
+
+--- slide 39 ---
+Are cis- and trans- isomers possible for all alkenes?
+When the two groups on one end of the double bond are identical, no cis- and trans- isomers are possible.
+Whenever the two groups on each end of a C═C are different from each other, two isomers are possible
+
+--- slide 40 ---
+Isomers?
+A)
+B)
+C)
+D) Both B) and C)
+E) All of the above
+Which of the following would be a cis isomer of dibromo-2-butene?
+
+--- slide 41 ---
+Stereoisomers
+Constitutional isomers differ in the way the atoms are bonded to each other.
+Stereoisomers are isomers that differ only in the 3-D arrangement of atoms.
+
+--- slide 42 ---
+Cis-/Trans- Isomerism
+Olive oil contains a high percentage of oleic acid, an unsaturated fatty acid.
+What functional group makes it an acid?
+What makes it unsaturated?
+Is it cis or trans?
+[notes] Carboxylic acid
+Double bond – not saturated with H
+cis
+
+--- slide 43 ---
+Aromatic Compounds
+
+--- slide 44 ---
+What are Aromatic Compounds?
+Aromatic compounds are cyclic and planar with conjugated double bonds (alternating double and single bonds)
+Benzene has 3 double bonds, so it’s aromatic
+Aromatic compounds are very stable and not very reactive
+They are a separate functional group because they react differently than regular alkenes.
+The actual structure is a hybrid of all resonance structures.
+The 6 electrons in the double bonds are delocalized (shared equally) between all carbons in the ring.
+
+--- slide 45 ---
+Aromatic Compounds
+Some common drugs that contain benzene rings are:
+Analgesic
+Antidepressant
+Antihistaminic 
+
+--- slide 46 ---
+Attendance
+Top Secret Code Word for 9/2 is benzene
+
+--- slide 47 ---
+Nomenclature of Aromatic Compounds
+Benzene is the “parent chain”
+Name substituent in prefix
+If only one substituent, it is on C1
+If more than one substituent, locations indicated with numbers
+
+--- slide 48 ---
+Disubstituted Benzenes
+1,2-dichlorobenzene
+ortho-dichlorobenzene
+o-dichlorobenzene
+1,3-dichlorobenzene
+meta-dichlorobenzene
+m-dichlorobenzene
+1,4-dichlorobenzene
+para-dichlorobenzene
+p-dichlorobenzene
+In Settlers of Catan, settlements must be meta or para. Ortho is not allowed. 
+
+--- slide 49 ---
+Nomenclature: Common Names
+These non-systematic names are often used and allowed by IUPAC rules
+Memorize
+Toluene
+Phenol
+Aniline
+[notes] Last slide of FA2017
+
+--- slide 50 ---
+1, 2, 4
+1, 2, 5
+1, 3, 6
+1, 4, 6
+Which of the following is the correct numbering for the three chlorines on the following molecule?
+[notes] Answer: A
+
+--- slide 51 ---
+Nomenclature
+Disubstituted Benzenes:
+If one of the two substituents is part of a common root, then name the molecule as a derivative of that monosubstituted benzene.
+
+--- slide 52 ---
+Practice
+Name these two compounds
+
+--- slide 53 ---
+Outline of Reactions
+Reactions of Alkenes and Alkynes
+Halogenation
+Hydration
+Markovnikov’s Rule
+Aromatic Compounds
+Special properties
+Nomenclature
+Reactions of Aromatic Compounds
+
+--- slide 54 ---
+Addition Reactions
+Hydrogenation, Hydration and Polymerization
+
+--- slide 55 ---
+Reactions of Alkenes and Alkynes
+
+--- slide 56 ---
+
+--- slide 57 ---
+Addition Reactions
+Exp #3 (last week)
+
+--- slide 58 ---
+Hydrogenation
+Addition of H2 to multiple bond
+The transition metal catalyst provides a surface that binds both the alkene and H2, which speeds up the rate of reaction.
+[notes] Melting point dependent on intermolecular forces
+Cis isomers do not pack as well, lower melting point than trans isomers
+Control melting temperature of chocolate and butter by controlling number and type of double bonds
+
+--- slide 59 ---
+Why Hydrogenate?
+Melting point dependent on intermolecular forces
+Cis isomers do not pack as well, lower melting point than trans isomers
+Trans isomers have similar melting points to saturated hydrocarbons of equivalent chain length
+Control melting temperature of chocolate and butter by controlling number and type of double bonds
+
+--- slide 60 ---
+Halogenation
+Halogenation: addition of halogen
+Halogenation occurs at room temperature
+No catalyst required
+Addition of Br2 is a qualitative test for the presence of an alkene
+- Dibromoalkanes are colorless
+Red/Orange
+Colorless
+Colorless
+
+--- slide 61 ---
+Hydrohalogenation
+Hydrohalogenation: addition of H-X
+No catalyst required
+In theory, if alkene is asymmetrical two isomers possible as products 
+
+--- slide 62 ---
+Markovnikov’s Rule
+To determine which of the two products will actually form, we use Markovnikov’s rule.
+Markovnikov’s rule states that:
+ the H atom of H–X will bond to the less substituted C atom in the C-C double bond.
+The X atom to the most substituted C atom.
+
+--- slide 63 ---
+Markovnikov’s Rule
+Hydrohalogenation is regioselective. One direction of bond breaking/forming occurs
+One possible intermediate far more stable than the other
+
+--- slide 64 ---
+Markovnikov’s Rule
+If same number of H atoms attached to the double-bond carbons (a symmetrically-substituted double bond), both possible products are formed in approximately equal amounts. 
+
+--- slide 65 ---
+Hydration
+Hydration is addition of water
+Requires a strong acid as a catalyst
+Follows Markovnikov’s rule
+
+--- slide 66 ---
+Practice
+The name of the product in the following equation is?
+       2-pentyne + 2H2  
+2-heptyne
+2-pentene
+pentane
+cyclopentene
+[notes] c) Pentane
+
+--- slide 67 ---
+Products
+What would be the product of these reactions?
+[notes] CH3CHClCH2CH2CH3
+
+(CH3)2C(OH)CH2CH2CH3
+
+--- slide 68 ---
+Practice in reverse
+What is the condensed formula of the organic compound needed to prepare the following product?
+                    Cl?  +  HCl    CH3CHCH3
+
+--- slide 69 ---
+Elimination Reactions (Exp #4)
+Elimination reactions are the inverse of addition reactions
+A double-bond is formed, and a small molecule is formed as a byproduct
+A strong acid catalyst and heat are required
+
+--- slide 70 ---
+Elimination Reactions
+Asymmetric alcohols can form two possible products
+Zaitsev’s Rule (Saytzeff’s Rule): The alkene formed in the greatest amount is the one that corresponds to the removal of hydrogen from the carbon having the fewest hydrogens.
+Opposite of Markonikov’s Rule
+The major product will have the most alkyl groups bonded to the C=C
+
+--- slide 71 ---
+Polymerization
+Polymers are large molecules made up of repeating units of smaller molecules (monomers) covalently bonded together.
+Double bonds broken and new C-C single bonds formed between monomers
+
+--- slide 72 ---
+Examples - Polymers
+
+--- slide 73 ---
+Polymers – Please Recycle!
+Plastic synthetic polymers are unreactive due to their alkane-like structure.
+They are durable and strong therefore do not decompose easily (not biodegradable).
+Popular for consumer use
+But not good for the environment
+Solutions: 
+Render polymer more biodegradable
+Recycle polymers
+
+--- slide 74 ---
+Physical Properties of Aromatic Compounds
+Aromatic compounds are planar
+They can pack closer together than similar cyclic compounds
+More intermolecular forces
+Higher melting and boiling points
+
+--- slide 75 ---
+Reactions of Aromatic compounds
+Delocalization gives benzene added stability compared to alkenes
+Therefore benzene and other aromatic compounds:
+are resistant to reactions that break up the aromatic system
+are much less reactive than alkenes and do not normally undergo addition reactions without catalyst.
+
+--- slide 76 ---
+Electrophilic Aromatic Substitution
+
+--- slide 77 ---
+Practice
+What is the product of the reaction shown below?
+C6H6  + HNO3/H2SO4  ?
+C6H5NH2 
+C6H5NO2
+C6H5SO2NH2
+C6H5SO3H
+
+--- slide 78 ---
+Conclusions
+Alkenes and Alkynes can undergo addition reactions with halogens, water, or binary acids (HX)
+Follow Markovnikov’s rule
+Alkenes and alkynes can form polymers
+Aromatic compounds, like benzene, are special classes of alkenes that are cyclic and planar
+Benzene compounds are named with “benzene” or special mono-substituted benzene names as the root
+Positions of substituents are numbered
+Aromatic compounds are generally more stable and less reactive than alkenes
+Need catalyst to undergo electrophilic aromatic substitution
+
+--- slide 79 ---
+Conclusions
+Alkanes have single bonds, Alkenes have double bonds, Alkynes have triple bonds
+When naming alkenes and alkynes, the longest carbon chain must include the multiple bond
+Alkenes can have cis/trans isomers
+Stereoisomers have same bonding
+Cis = same side of double bond, trans = opposite side of double bond

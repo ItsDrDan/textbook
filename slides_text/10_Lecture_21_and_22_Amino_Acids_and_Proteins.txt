@@ -1,0 +1,542 @@
+# Lecture 21 and 22 - Amino Acids and Proteins.pptx  (63 slides)
+
+--- slide 1 ---
+Amino Acids and Proteins
+Chapter 19
+
+--- slide 2 ---
+Learning Objectives
+Given structures of amino acids, classify the amino acid R group as being acidic, basic, polar, non-polar, hydrophilic and/or hydrophobic
+Using the Zwitterion form of an amino acid as a reference point, draw the structure at pH’s above/below the isoelectric point.
+Draw the structure of a peptide and give the three-letter or one-letter abbreviations for the peptide
+Match the name of a peptide to the structure
+Describe the distinctions between a protein’s primary, secondary, tertiary and quaternary structure
+Draw the structure(s) of the products/reactants for the condensation of two amino acids or hydrolysis of a dipeptide.
+Distinguish between protein hydrolysis and protein denaturation.
+Describe various ways to denature a protein.
+
+--- slide 3 ---
+Protein Functions
+Proteins have many biological purposes
+Transport Proteins (hemoglobin)
+Structural Proteins (collagen)
+Hormones (insulin)
+Antibodies
+Enzymes
+
+--- slide 4 ---
+Proteins
+Proteins account for 50% of the dry weight of the human body.
+Unlike lipids and carbohydrates, proteins are not stored, so they must be consumed daily.
+Current recommended daily intake for adults is 0.8 grams of protein per kg of body weight (more is needed for children).
+Dietary protein comes from eating meat, eggs, milk (all essential amino acids) 
+Grains, beans, nuts contain proteins but are deficient in one or more amino acid.
+Of the 20 amino acids used to build the proteins in the body:
+11 can be synthesized by the body
+9 must be obtained from diet
+
+--- slide 5 ---
+Essential Amino Acids
+Tryptophan is the precursor to the neurotransmitter serotonin.
+0.32 g per 100 g food
+0.24 g per 100 g food
+
+--- slide 6 ---
+Classification of Amino Acids
+Learning Objective: 
+Given structures of amino acids, classify the amino acid R group as being acidic, basic, polar, non-polar, hydrophilic and/or hydrophobic
+
+--- slide 7 ---
+What are Amino Acids?
+Amino Acids are the building blocks of proteins
+Amino Acids contain two functional groups:
+A carboxylic acid group (COOH)
+An amine group (NH2) attached to the α-carbon
+Classified by “R” group of side chain
+
+--- slide 8 ---
+Classification of R Groups
+The R group, called the side chain, determines the identity of the amino acid.
+Hydrophilic 
+Basic: Contains N (or N+) on side chain with available lone pairs
+Acidic: Contains COOH (COO-) on side chain
+Neutral: Capable of H-bonding, or polar
+Hydrophobic (Non-polar)
+
+--- slide 9 ---
+R groups - Types
+Basic
+Acidic
+Hydrophilic
+Hydrophobic
+[notes] Basic amino acids:
+Histidine, lysine, arginine
+
+Acidic amino acids:
+Aspartic acid (aspartate)
+glutamic acid (glutamate)
+
+All amino acids that are not hydrophobic are hydrophillic:
+Serine, threonine, tyrosine, cysteine, asparagine, glutamine, aspartate, glutamate, histidine, lysine, arginine
+
+hydrophobic functional groups:
+glycine, alanine, valine, leucine, isoleucine, phenylalanine, methionine, proline, tryptophan
+
+--- slide 10 ---
+Amino Acids Abbreviations
+Amino acids have:
+three-letter designation in peptides.
+one-letter designation in proteins.
+Of the 20 amino acids, 
+11 have one-letter abbreviations that are the same as the first letter in their names and 9 use different letters. 
+arginine R and tyrosine Y use the second letters in their names; phenylalanine is F; and lysine is K, which is near L in the alphabet.
+
+--- slide 11 ---
+Amino Acid Abbreviations
+Amino acid | 3-letter abbreviation | 1-letter abbreviation
+Alanine | Ala | A
+Arginine | Arg | R
+Asparagine | Asn | N
+Aspartic acid | Asp | D
+Cysteine | Cys | C
+Glutamic acid | Glu | E
+Glutamine | Gln | Q
+Glycine | Gly | G
+Histidine | His | H
+Isoleucine | Ile | I
+Leucine | Leu | L
+Lysine | Lys | K
+Methionine | Met | M
+Phenylalanine | Phe | F
+Proline | Pro | P
+Serine | Ser | S
+Threonine | Thr | T
+Tryptophan | Trp | W
+Tyrosine | Tyr | Y
+Valine | Val | V
+
+--- slide 12 ---
+Zwitterions
+Learning Objective: 
+Using the Zwitterion form of an amino acid as a reference point, draw the structure at pH’s above/below the isoelectric point.
+
+--- slide 13 ---
+Zwitterions
+Since amino acids contain a base (NH2) and an acid (COOH), a proton-transfer occurs from the acid to the base forming a zwitterion.
+Zwitterion: Overall neutral charge, but has charged areas of molecule
+
+--- slide 14 ---
+Isoelectric Point (pI)
+The isoelectric point is the pH at which the compound has an overall neutral charge
+Most amino acids have a pI around 5.0-6.0
+Amino acids with an acidic R have a pI < 4.0
+Amino acids with a basic R have a pI > 6.0
+Amino acid | 3-letter abbreviation | 1-letter abbreviation | Isoelectric Point (pI)
+Alanine | Ala | A | 6.0
+Arginine | Arg | R | 10.8
+Asparagine | Asn | N | 5.4
+Aspartic acid | Asp | D | 3.0
+Cysteine | Cys | C | 5.0
+Glutamic acid | Glu | E | 3.2
+Glutamine | Gln | Q | 5.7
+Glycine | Gly | G | 6.0
+Histidine | His | H | 7.6
+Isoleucine | Ile | I | 6.0
+Leucine | Leu | L | 6.0
+Lysine | Lys | K | 9.7
+Methionine | Met | M | 5.7
+Phenylalanine | Phe | F | 5.5
+Proline | Pro | P | 6.3
+Serine | Ser | S | 5.7
+Threonine | Thr | T | 5.6
+Tryptophan | Trp | W | 5.9
+Tyrosine | Tyr | Y | 5.7
+Valine | Val | V | 6.0
+
+--- slide 15 ---
+Acid-Base Properties
+Acid–Base Properties
+Amino acids can react as either acids or bases: 
+Acts as acid, neutralizing base
+Acts as base, neutralizing acid
++ H2O
+[notes] Act as acid to neutralize base
+Act as base to neutralize acid
+
+--- slide 16 ---
+pH and Structure
+At a pH below the pI, the functional groups will be protonated
+At the pH equal to the pI, the amino acid will be in zwitterion form
+At a pH above the pI, the functional groups will be deprotonated
+pH below pI
+pH above pI
+Increasing pH
+pH = pI
+[notes] Simplify: Above and below Isoelectric Point
+
+--- slide 17 ---
+Practice Problem
+In which form does glutamic acid exist at pH 7.4 (physiological pH)? The isoelectric point is 3.2.
+[notes] At a pH below the pKa, the functional group will be protonated
+At a pH above the pKa, the functional group will be deprotonated
+
+--- slide 18 ---
+Electrophoresis
+In electrophoresis, an electric current is used to separate amino acids based on their pI.
+Buffer solutions of various pH can be used to control the charge on the amino acids
+the positively charged amino acids move toward the negative electrode. 
+the negatively charged amino acids move toward the positive electrode. 
+an amino acid at its pI does not migrate. 
+the amino acids are identified as separate bands on the filter paper or thin layer plate.
+
+--- slide 19 ---
+Stereochemistry
+Learning Objective:
+Draw the structure of a peptide and give the three-letter or one-letter abbreviations for the peptide
+
+--- slide 20 ---
+Attendance
+Top Secret Code Word for 10/30 is amino
+
+--- slide 21 ---
+Stereochemistry of Amino Acids
+All amino acids (but glycine) have a chirality center on the a carbon.
+L amino acids have the –NH3+ group on the left.
+D amino acids have the –NH3+ group on the right.
+Naturally occurring amino acids are L amino acids.
+
+--- slide 22 ---
+Natural Stereoisomer: L
+Naturally occurring amino acids are L amino acids.
+L-leucine is a dietary supplement  used by body builders to prevent muscle loss and heal muscle tissue after injury.
+
+--- slide 23 ---
+Practice: Stereochemistry
+Identify the following amino acids as L or D enantiomer.
+L
+D
+
+--- slide 24 ---
+Peptides
+Learning Objectives:
+Draw the structure of a peptide and give the three-letter or one-letter abbreviations for the peptide
+Match the name of a peptide to the structure
+Draw the structure(s) of the products/reactants for the condensation of two amino acids or hydrolysis of a dipeptide.
+
+--- slide 25 ---
+Peptide Bonds
+Peptides and proteins are formed when amino acids are joined together by amide bonds.
+A dipeptide has two amino acids joined together by one amide bond.
+Oligopeptides have 2-20 amino acids, 
+Polypeptides have 21-40 amino acids, 
+Proteins have more than 40 amino acids.
+Condensation: Molecules join, small molecule (H2O) lost
+[notes] Condensation reaction
+
+--- slide 26 ---
+Peptides: N and C terminus
+By convention, peptide structures are written with the N-terminal amino acid on the left and the C-terminal amino acid on the right.
+Individual amino acids are called residues
+
+--- slide 27 ---
+Note about Peptide sequences
+The amino acids are abbreviated with 3-letter codes
+If the peptide’s order of amino acids is known, the 3-letter abbreviations are separated by dashes
+Like showing bonds between units
+If the peptide’s order of amino acids is not known, the abbreviations are separated by commas. 
+Val, Cys, Ala, Glu
+Val-Cys-Ala-Glu
+
+--- slide 28 ---
+Naming Peptides
+A peptide is named with:
+a -yl ending for the N-terminal amino acid.
+a -yl ending for the following amino acid residues.
+the full amino acid name for the C-terminal amino acid.
+
+--- slide 29 ---
+Copyright © 2010 Pearson Education, Inc.
+Peptides
+A tetrapeptide:
+gly-ser-phe-gly  
+glycylserylphenylalanylglycine
+C-terminus
+N-terminus
+glycine
+serine
+ph
+phenylalanine
+glycine
+
+--- slide 30 ---
+Practice
+Write the three-letter abbreviations of the tripeptides that could form from two glycines and one alanine.
+Gly-Gly-Ala
+Gly-Ala-Gly
+Ala-Gly-Gly
+
+--- slide 31 ---
+Practice
+A polypeptide contains glycine, serine, and valine residues. If valine is the C-terminus, which of the following could be the name of the polypeptide? 
+Glycylserylvaline
+Valylglycylserine
+Valylserylglycine
+Glycylvalylserine
+
+--- slide 32 ---
+How to draw a peptide
+Draw generic peptide with the correct number of residues (N-terminus on left)
+Identify & draw in the side chain associated with each residue
+Phe-Val-Trp
+R groups alternate sides of molecule
+N-CR-CO--N-CR-CO--N-CR-CO-O
+[notes] N-CR-CO-N-CR-CO-N-CR-CO
+
+--- slide 33 ---
+Neuropeptides
+Enkephalins belong to the family of polypeptides called endorphins, which are known for their pain reducing and mood enhancing effects.
+Enkephalins, pentapeptides made in the brain, act as pain killers and sedatives by binding to pain receptors.
+Addictive drugs morphine and heroin bind to these same pain receptors, thus producing a similar physiological response, though longer lasting.
+[notes] En-Kef-alin
+
+--- slide 34 ---
+Example
+Oxytocin and vasopressin are cyclic nonapeptide hormones, which have identical sequences except for two amino acids
+The slightly different sequence gives the two peptides vastly different effects on the body.
+Oxytocin stimulates the contraction of uterine muscles, and signals for milk production; it is  often used to induce labor.
+Vasopressin, antidiuretic hormone (ADH) targets the kidneys and helps to limit urine production to keep body fluids up during dehydration.
+
+--- slide 35 ---
+Visualizing Amino Acids
+Use ninhydrin to visualize amino acids after electrophoresis, chromatography, or at crime scenes!
+Amino acids are typically colorless
+
+--- slide 36 ---
+Protein Structure
+Learning Objective:
+Describe the distinctions between a protein’s primary, secondary, tertiary and quaternary structure
+
+--- slide 37 ---
+Practice
+Which of the following amino acids has a polar side chain?
+  Valine
+  Serine
+  Phenylalanine
+  Leucine
+  Alanine
+Serine has an OH group on the side chain
+
+--- slide 38 ---
+Protein Structure
+Protein function depends on structure
+Protein structure can be described on many levels:
+Primary Structure: The amino acid sequence
+Secondary Structure: The “local” hydrogen-bonding scheme
+Tertiary Structure: How the polypeptide, with all of its regions of secondary structure (a-helix, b-sheet) has folded over upon itself.  
+Interaction between R-groups is important
+Quaternary Structure: How protein subunits aggregate into a larger functional unit. 
+
+--- slide 39 ---
+Proteins – Primary Structure
+The primary structure of a protein is the sequence of amino acids linked together by peptide bonds.
+What is the value of the C-C-O angle? _______
+What about the C-N-C angle ? _______
+gly-ser-phe-gly  
+
+--- slide 40 ---
+Primary Structure of Insulin
+Insulin, hormone that regulates blood glucose:
+was the first protein to have its structure determined.
+has 2 polypeptide chains linked by disulfide bonds.
+has the A chain with 21 amino acids and B chain with 30 amino acids.
+
+--- slide 41 ---
+Proteins – Primary Structure
+Using protein sequencing, the primary structure of a protein can be determined.
+This is based on partial hydrolysis.
+
+--- slide 42 ---
+Proteins: Secondary Structure
+The secondary structure is due to hydrogen bonding between amino acids in the backbone of protein chain.
+Intramolecular hydrogen bonding: same molecule
+N-H of one amino acid, and C=O of another
+Two stable arrangements are the a-helix and the b-pleated sheet.
+Which one forms depends on which one maximizes hydrogen bonding (some R groups are bulky)
+Most proteins have regions of a-helix and b-pleated sheet, and other regions that are random arrangements.
+
+--- slide 43 ---
+The a-Helix
+The coiled shape of the a-helix is due to the hydrogen bonds between the H of an N-H group of an amino acid and the O of C=O of the fourth amino acid down the chain.
+The R groups stick out of the helix
+
+--- slide 44 ---
+β-Sheet
+ A b-pleated sheet consists of polypeptide chains arranged side by side with hydrogen bonds holding the sheets together.
+Ribbons are anti-parallel. 
+[notes] Notice how ribbons alternate direction: chains are anti-parallel. One is C-terminus at the top, the other is C-terminus at the top.
+
+Images from: http://www.abcte.org/files/previews/biology/s3_p2.html
+https://wikispaces.psu.edu/download/attachments/40047576/image-3.jpg
+
+--- slide 45 ---
+Tertiary Structure
+The tertiary structure is the 3D shape adopted by the entire protein chain.
+Interactions between R Groups determine tertiary structure
+
+--- slide 46 ---
+Attendance
+Top Secret Code Word for 11/4 is enzyme
+
+--- slide 47 ---
+Tertiary Structure
+The interactions of the R groups give a protein its specific three-dimensional tertiary structure- the folding.
+
+--- slide 48 ---
+Tertiary Structure: Intramolecular Interactions
+Types of interactions between residues that contribute towards the tertiary structure
+Ionic bonding (Electrostatic Effect) 
+(“salt bridge”) 
+*Note* Disulfide bonds are COVALENT! 
+Carboxylic acid= acid,
+Amine = base
+Acid-base neutralization
+Hydrogen bonding
+
+--- slide 49 ---
+Tertiary Structure: Hydrophobic and Hydrophillic
+ Tertiary Structure: How the polypeptide, with all of its regions of secondary structure (a-helix, b-sheet) has folded over upon itself.  
+Stabilizing interactions between R-groups is important
+Hydrophobic groups are more likely to face the inside of the protein – away from water outside.
+Hydrophobic interactions 
+Hydrophilic interactions 
+[notes] Hydrophobic groups are more likely to face the inside of the protein – away from water outside.
+
+--- slide 50 ---
+Tertiary Structure: Collagen
+Collagen has three chains in a superhelix.
+Collagen is in tendons, ligaments, blood vessels, and skin.
+Vitamin C helps stabilize the chains, and, when missing, poorly formed collagen fibers result.
+
+--- slide 51 ---
+Quaternary Structure
+A protein may have several polypeptide subunits
+Quaternary Structure shows how these subunits fit/fold together
+Not all proteins have a quaternary structure.
+
+--- slide 52 ---
+Quaternary Structure
+Hemoglobin:
+has 4 polypeptide chains, each carrying a heme unit.
+Fe2+ coordinates to O2 to transport it through the body
+has two a chains with 141 amino acids and two b chains with 146 amino acids.
+Carbon monoxide (CO) is poisonous because it binds 200 times more strongly to the Fe2+ than does O2.
+
+--- slide 53 ---
+Sickle Cell Anemia
+The change of only one amino acid can drastically alter a protein’s biological properties.
+Sickle cell anemia is a disease where a single amino acid is different in two of the subunits of hemoglobin- one glutamate is replaced by valine.
+Insoluble fibrous chains are formed, forcing the cell into a sickle shape.
+
+--- slide 54 ---
+Practice
+What type of forces are responsible for stabilizing the a-helix secondary structure?
+ Intermolecular H-Bonding between C=O and NH of backbone
+ Intramolecular H-Bonding between C=O and NH of backbone
+ Electrostatic attractions (Van der Waals)
+ Dipole–Dipole		
+Hydrophobic
+they are in the same chain = intra
+Different molecules = inter
+
+--- slide 55 ---
+Practice
+What type of stabilizing interactions occur between the side chains of phenylalanine and leucine?
+ Hydrogen bonding
+ Disulfide bridges
+ Hydrophobic interactions
+ Polar (dipole–dipole)
+ Electrostatic attractions
+both side chains are nonpolar
+
+--- slide 56 ---
+Practice
+The order in which amino acids are linked in a protein is known as the _______________ structure.
+ Primary
+ Secondary
+ Tertiary
+ Quaternary
+
+--- slide 57 ---
+Hydrolysis and Protein Denaturation
+Learning Objective:
+Distinguish between protein hydrolysis and protein denaturation.
+Describe various ways to denature a protein.
+
+--- slide 58 ---
+Protein Hydrolysis
+Protein hydrolysis:
+involves breaking the peptide bonds by treatment with aqueous acid, base, or certain enzymes to give smaller peptides and amino acids. 
+occurs in the digestion of proteins.
+In the body, the enzyme pepsin in gastric juice cleaves some of the peptide bonds of large proteins to make smaller peptide chains.
+In the intestines, enzymes trypsin and chymotrypsin hydrolyze the remainder of the amide bonds resulting in individual amino acids.
+
+--- slide 59 ---
+Protein Hydrolysis
+In the lab, the hydrolysis of a peptide requires acid or base, water, and heat.
+
+--- slide 60 ---
+Protein Denaturation
+Denaturation:
+is the process of altering the shape of a protein without breaking the amide bonds that form the primary structure.
+renders the protein biologically inactive.
+often makes globular proteins less water soluble.
+Interfere with intramolecular forces
+
+--- slide 61 ---
+Protein Denaturation: Many ways
+What conditions can denature a protein?
+Heat
+Increases kinetic energy
+Ex) cooking an egg
+Acid
+Changes pH
+Ex) Cheese making
+Metals (can break disulfide bonds)
+Hg2+, Pb2+, Cd2+ have affinity for sulfur  
+(also one reason why these metals are toxic)
+Organic solvents (like alcohol)
+Disrupts H-bonding
+Ex) Alcohol passes through bacteria’s cell wall and coagulates proteins inside
+Physical force (whipping, sonication, etc.)
+Ex) Egg whites to make meringue 
+[notes] Heating an egg does not decrease the nutritional value (all amino acids are intact). However, it does make it more digestible.
+
+Changing pH for cheese making
+
+Alcohol for sterilizing: passes through the cell walls and coagulates the proteins inside the bacteria.
+
+--- slide 62 ---
+Practice
+When the secondary, tertiary and/or quaternary structure of a protein is disrupted, this is termed ______________.
+protein hydrolysis
+acidification 
+denaturation 
+polymerization 
+
+--- slide 63 ---
+Conclusions
+Amino acids are classified by their R group
+Amino acids contain both an acid and a base
+Overall charge changes depending on pH
+Isoelectric point (pI) is the pH where the structure has an overall neutral charge (Zwitterion)
+Amino acids can be separated by electrolysis
+Almost all amino acids have a chiral alpha carbon
+Naturally occurring amino acids are L-amino acids
+By convention, peptides are drawn with the N-terminus end on the left.
+Protein structure can be described on many levels:
+Primary
+Secondary
+Tertiary
+Quaternary
+Protein denaturation alters the secondary, tertiary, and quaternary structure.
+Protein hydrolysis destroys the primary structure (separates individual amino acids)

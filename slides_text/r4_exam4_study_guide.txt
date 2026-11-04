@@ -1,0 +1,85 @@
+Chemistry 3B – Exam 4 – Chapters 21-24 
+Key Skills 
+This document provides a list of key skills from each chapter that students are expected to be able to perform for the exam. Skills may be tested individually, combined with other skills, or not at all. Although the exam will primarily focus on chapters since the previous exam, students are expected to know concepts from earlier in the semester such as identifying functional groups, and common reactions of each functional group (oxidation, reduction, addition, hydrolysis, etc) 
+ Overall 
+I don’t expect you to memorize the order of reactions, or names of compounds, of any process! 
+Know what acronyms stand for (ATP, ADP, AMP, FAD, NAD+, CoA, etc) and parts that make up the overall molecule 
+Know general order of events for metabolism of carbohydrates, lipids and proteins 
+Know where in the body/cell various processes occur – that’s the extent of biology covered. 
+Be able to identify types of reactions based on reactions & products:
+Oxidation, reduction, phosphorylation, phosphate transfer, carboxylation, decarboxylation, hydrogenation, dehydrogenation, hydration, dehydration etc. 
+Be able to deduce product based on type of reaction. 
+Practice Problems
+Chapter 21:1, 3, 5, 7, 15, 17, 19, 27, 33, 35,43, 47, 55, 57, 65, 67, 77, 105, 111, 119, 129
+Chapter 22: 5, 13, 15, 17, 31, 33, 35, 49, 51, 55, 75, 77, 101, 103, 105, 107, 109, 111, 113 115
+Chapter 23: 1, 3, 5, 7, 9, 11, 13, 15, 21, 23, 31, 33, 45, 47, 65, 67, 73
+Chapter 24: 9, 11, 13, 15, 17, 19, 29, 37, 39, 53, 55, 81, 83, 85
+Important Cycles
+Glycolysis (p776), Glycogenesis (p786), Glycogenesis (p791), Citric Acid Cycle ( p 805), Metabolism of Lipids (p827), Beta Oxidation (p830-831), Ketogenesis (p836), Urea Cycle (p848)
+Chapter 21 
+Identify the ribose sugar and bases that make up DNA and RNA. 
+Know what DNA/RNA stand for
+Know which bases are pyrimidine and purine bases 
+Describe the structural difference between a nucleoside and a nucleotide
+Be able to tell from name/abbreviation if it is a nucleoside & nucleotide – and what components are. 
+Describe the primary structure of RNA and DNA: identify the linkages connecting the nucleic acids 
+Describe the secondary structure of DNA 
+Hydrogen bonding between complementary base pairs 
+Given one strand of DNA, draw the complementary base pairs on the other strand 
+Describe the process of DNA replication 
+Identify the different types of RNA 
+Describe the synthesis of mRNA 
+Use the genetic code to write the amino acid sequence for a segment of mRNA 
+Identify the type of change in DNA as a point mutation, deletion mutation or insertion mutation. 
+Describe the methods by which a virus infects a cell 
+Chapter 22 
+Define catabolic reactions and anabolic reactions.
+Catabolic reactions: complex molecules broken down. Usually releases energy (exothermic)
+Anabolic reactions: small molecules are joined together to build larger ones. Usually requires energy (endothermic)
+Know the three stages of catabolism: 
+Stage 1: Digestion
+Stage 2: Degradation and some oxidation 
+Stage 3: Oxidation 
+Describe the function of eukaryotic cell components (Table 22.2)
+Cytosol
+Mitochondrion 
+Ribosomes 
+Rank ATP, ADP and AMP by energy: (i.e. which is the highest energy compound? When ATP is converted to ADP, is energy released or absorbed? Why is ATPADP often coupled with other reactions?) 
+Define oxidation & reduction in terms of loss or gain of electrons, oxygen, or hydrogen. 
+Identify coenzymes as oxidizing agents, reducing agents, acyl group transporters, or phosphate group transporters.Table 22.3 
+Recognize typical reactions of NAD+/NADH and FAD/FADH2
+o NAD+ oxidizes secondary alcohols into ketones. NAD+ is reduced to NADH.
+o FAD oxidizes (dehydrogenates) alkanes into alkenes. FAD is reduced to FADH2. 
+Know the initial reactant and final product of: 
+Glycolysis (glucose pyruvate)
+Gluconeogenesis (pyruvateglucose)
+Glycogenesis (glucoseglycogen) 
+Glycogenolysis (glycogenglucose) 
+Pentose Phosphate Pathway
+Given reactants and products, be able to select which enzyme would likely be responsible for the reaction (i.e. kinase, isomerase, synthase etc.), which co-enzyme would likely be used (NAD+, NADH, CoA, FAD, FADH2), if ATP is used/made, or what type of reaction is occurring (oxidation, reduction, etc). 
+You’ll need to be able to tell from words or structure drawings what type of reaction is happening. Reactants and products could be steps in: Glycolysis, Glycogenesis, Gluconeogenesis, or Glycogenolysis. 
+Know the pathways for pyruvate under aerobic and anaerobic conditions
+Anaerobic Fermentation: Pyruvate decarboxylated into acetaldehyde o Anaerobic: Pyruvate reduced to lactate
+Aerobic: Pyruvate is oxidized and decarboxylated to acetyl CoA 
+Chapter 23 
+Know the initial reactant and final product of:
+o Citric Acid Cycle: oxaloacetateoxaloacetate 
+Given reactants and products, be able to select which enzyme would likely be responsible for the reaction (i.e. kinase, isomerase, synthase etc.), which co-enzyme would likely be used (NAD+, NADH, CoA, FAD, FADH2, CoQ), or what type of reaction is occurring (oxidation, reduction, etc). 
+You’ll need to be able to tell from words or structure drawings what type of reaction is happening. Reactants and products could be steps in citric acid cycle, electron transport chain 
+Know ATP output from the oxidation of NADH to NAD+ or FADH2 to FAD o NADH + H+NAD+ + 2.5 ATP 
+FADH2  FAD + 1.5 ATP 
+Calculate ATP produced from the complete oxidation of glucose (Table 23.1) 
+Be able to count and track number of carbons throughout glycolysis and citric acid cycle: 
+How many turns of citric acid cycle per glucose? 
+How many decarboxylation reactions must occur during the citric acid cycle? 
+Describe factors which activate and inhibit metabolic processes 
+Chapter 24 
+Know that glycerol can be phosphorylated and oxidized into dihydroxyacetone phosphate – a molecule which can enter into glycolysis and gluconeogenesis. 
+ Know that fatty acids are metabolized by β –oxidation. 
+Given reactants and products, be able to select which enzyme would likely be responsible for the reaction (i.e. kinase, isomerase, synthase etc.), which co-enzyme would likely be used (NAD+, NADH, CoA, FAD, FADH2), or what type of reaction is occurring (oxidation, reduction, etc). 
+You’ll need to be able to tell from words describing what is happening or structure drawings what type of reaction is happening. Reactants and products could be steps in β – oxidation cycle, Ketogenesis, Lipogenesis, Urea Cycle, synthesis of amino acids 
+Given length of fatty acid chain, be able to predict number of acetyl-CoA’s formed, and how many repeated β-oxidation cycles it would take to break down the fatty acid 
+Know the initial reactant and final product of: 
+Ketogenesis (acetyl CoAacetoacetateβ-hydroxybutyrate or acetone)
+Lipogenesis
+Urea Cycle 

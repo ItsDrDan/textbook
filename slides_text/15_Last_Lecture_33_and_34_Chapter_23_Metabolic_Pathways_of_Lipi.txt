@@ -1,0 +1,611 @@
+# Last Lecture 33 and 34 Chapter 23 - Metabolic Pathways of Lipids and Amino Acids.pptx  (98 slides)
+
+--- slide 1 ---
+Attendance
+Top Secret Code Word for 12/4 is
+THE FINAL
+
+--- slide 2 ---
+Metabolic Pathways of lipids and amino acids
+The Last Chapter…. 24
+
+--- slide 3 ---
+Learning Objectives
+Know that glycerol can be phosphorylated and oxidized into dihydroxyacetone phosphate – a molecule which can enter into glycolysis and gluconeogenesis.
+Know that fatty acids are metabolized by β –oxidation.
+Given reactants and products, be able to select which enzyme would likely be responsible for the reaction (i.e. kinase, isomerase, synthase etc.), which co-enzyme would likely be used (NAD+, NADH, CoA, FAD, FADH2), or what type of reaction is occurring (oxidation, reduction, etc).
+You’ll need to be able to tell from words describing what is happening or structure drawings what type of reaction is happening. Reactants and products could be steps in β – oxidation cycle, Ketogenesis, Lipogenesis, Urea Cycle, synthesis of amino acids
+Given length of fatty acid chain, be able to predict number of acetyl-CoA’s formed, and how many repeated β-oxidation cycles it would take to break down the fatty acid
+Know the initial reactant and final product of:
+Ketogenesis (acetyl CoA, acetoacetate,  β-hydroxybutyrate or acetone)
+Lipogenesis
+Urea Cycle
+
+--- slide 4 ---
+Digestion of Lipids
+Excess energy derived from carbohydrates and proteins, beyond normal daily needs, is stored in lipid molecules in adipocyte cells to be used later when needed.
+About 98% of dietary lipids are triacylglycerols.
+Salivary enzymes (water soluble) in the mouth have little effect on triacylglycerols.
+Triacylglycerols are insoluble in water
+Bile salts, secreted from the gallbladder into the small intestine, emulsify triacylglycerols – break fat globules into smaller particles called micelles.
+The bile salts act like soaps to make fat soluble in water.
+
+--- slide 5 ---
+Digestion of Lipids
+
+--- slide 6 ---
+Incomplete Hydrolysis
+Only 10% of triacylglycerols are hydrolyzed by gastric lipase in the stomach.
+In the small intestine, the pancreatic lipase enzyme hydrolyzes the ester linkages between glycerol and the fatty acid units.
+This in an incomplete hydrolysis: forms monoacylglycerol
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 7 ---
+Monoacylglycerols
+Micelles of free fatty acids and monoacylglycerols go through the membranes of intestinal cells.
+In the intestinal wall, the fatty acids recombine with monoacylglycerols – repackaging.
+The recombined triacylglycerols are coated with phospholipids and proteins – chylomicrons.
+Chylomicrons are water soluble.
+
+--- slide 8 ---
+Fat Storage
+Chylomicrons transport triacylglycerols from intestinal cells, via the lymphatic system, to the bloodstream. 
+Triacylglycerols are stored in adipocyte cells found in adipose tissue.
+The adipose tissue is located primarily beneath the skin, especially in the abdominal region and vital organs.
+The adipocyte cells differ from other cells in that most of the cytoplasm has been replaced with a large triacylglycerol droplet.
+
+--- slide 9 ---
+Complete Hydrolysis
+When not enough carbohydrates are present to meet the body’s energy needs, the body turns to catabolizing stored triacylglycerols.
+The triacylglycerols are completely hydrolyzed with lipoprotein lipase enzymes to glycerol and fatty acids.
+
+--- slide 10 ---
+Fat Storage
+The hormones glucagon and epinephrine trigger the hydrolysis of triacylglycerols by activating a lipase.
+The triacylglycerols are completely hydrolyzed with the lipase into glycerol and fatty acids.
+Glycerol and fatty acids binds with plasma proteins (albumin) in the bloodstream and are transported to the tissues, muscles and fat cells.
+
+--- slide 11 ---
+Degradation of Glycerol & Fatty acids
+
+--- slide 12 ---
+Metabolism of Glycerol
+Glycerol travels to the liver where it is converted to dihydroxyacetone phosphate in two steps:
+Phosphorylation of 1o hydroxyl group of the glycerol.
+Oxidation of 2o alcohol group of glycerol to a ketone.
+Dihydroxyacetone phosphate is an intermediate of glycolysis and gluconeogenesis, therefore can enter either pathway.
+
+--- slide 13 ---
+Metabolism of Glycerol (Practice)
+Indicate each statement as TRUE or FALSE
+Glycerol 3-phosphate is reduced to dihydroxyacetone phosphate
+NAD+ is the oxidizing agent
+NAD+ is being reduced
+A dehydrogenase enzyme is likely involved
+
+--- slide 14 ---
+Metabolism of Fatty Acids
+Fatty acids are broken down to obtain energy in 3 stages:
+Fatty acid must be activated by binding to coenzyme A. 
+Fatty acid must be transported to the mitochondrial matrix.
+Fatty acid must be repeatedly (fatty acid spiral) oxidized to produce acetyl CoA, FADH2, and NADH.
+
+--- slide 15 ---
+Metabolism of Fatty Acids: Activation
+In the cytosol the fatty acid is converted to a high-energy derivative of coenzyme A.
+
+--- slide 16 ---
+Metabolism of Fatty Acids: Transport
+Acyl CoA is too large to pass through the inner mitochondrial membrane to the mitochondrial matrix.
+Therefore need a shuttle – carnitine shuttle
+Carnitine acyltransferase catalyzes both acyl transfers in the shuttle.
+
+--- slide 17 ---
+Metabolism of Fatty Acids: b-Oxidation
+In the matrix, a sequence of four reactions repeatedly cleaves two carbon units from the carboxyl end of the acyl CoA molecule.
+b-oxidation pathway because the second carbon from the carboxyl end of the chain, the b-carbon, is the carbon atom that is oxidized. 
+
+--- slide 18 ---
+Metabolism of Fatty Acids: b-Oxidation
+Each repetition of the four-reaction sequence generates an acetyl CoA molecule and an acyl CoA molecule that has two fewer carbon atoms.
+
+--- slide 19 ---
+b-Oxidation: Step 1
+[1] Dehydrogenation – a C-C single bond is oxidized into a C=C using acyl CoA dehydrogenase.
+Only trans double bonds are formed – stereospecific.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 20 ---
+b-Oxidation: Step 2
+What product is likely from this reaction?
+A)
+B)
+C)
+
+--- slide 21 ---
+b-Oxidation: Step 2
+[2] Hydration – the trans C=C is hydrated using enoyl CoA hydratase to form a 2o alcohol at the b-C.
+Only the L-isomer is formed – stereospecific.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 22 ---
+b-Oxidation: Step 3
+[3] Dehydrogenation – the 2o alcohol at the b-C is oxidized into a ketone using b-hydroxyacyl CoA dehydrogenase.
+The enzyme is stereospecific to the L-isomer.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 23 ---
+b-Oxidation: Step 4
+[4] Thiolysis – the fatty acid carbon chain is cleaved between the a and b Cs using thiolase and a CoA molecule. 
+
+--- slide 24 ---
+b-Oxidation
+The b-oxidation cycle repeats until the original fatty acid is completely degraded to 2-C units that form acetyl CoA, which enters the citric acid cycle.
+b-oxidation pathway is a better term than b-oxidation cycle because a different product results from each repetition.
+
+--- slide 25 ---
+b-Oxidation Cycle
+Linear pathway that repeats over and over until fatty acid is broken down
+
+--- slide 26 ---
+Repeated Cycles
+If start with a C18 fatty acid, need 8 repetitions to get 9  acetyl CoAs.
+If start with a C14 fatty acid, need 6 repetitions to get 7 acetyl CoAs.
+
+--- slide 27 ---
+Practice
+Indicate at what step in the b-oxidation pathway each of the following events occurs.
+A C–C single bond is converted to a C=C double bond. 
+Step 1
+NAD+ is reduced to NADH. 
+Step 3
+A hydration reaction occurs. 
+Step 2
+An acetyl CoA molecule is produced.
+Step 4
+
+--- slide 28 ---
+Oxidation of Unsaturated Fatty Acids
+The double bonds in naturally occurring unsaturated fatty acids are cis double bonds.
+Hydration reaction only adds to trans double bonds, not cis.
+A cis–trans isomerase produces a trans-(2,3) double bond from a cis-(3,4) double bond.
+
+--- slide 29 ---
+Oxidation of Unsaturated Fatty Acids
+b oxidation cycle for unsaturated vs. saturated fatty acids:
+starts at step 2.
+Less energy released – one less FADH2 produced per double bond.
+
+--- slide 30 ---
+ATP Production from Fatty Acids
+
+--- slide 31 ---
+ATP Production from Fatty Acid Oxidation
+Each b oxidation cycle produces:
+1 	FADH2
+1		NADH
+1		acetyl CoA
+The last b oxidation cycle produces:
+1		extra acetyl CoA
+
+--- slide 32 ---
+ATP Production from Fatty Acid Oxidation
+For stearic acid (18:0):
+The activation of requires the equivalent of  2    ATP
+Total = 122 ATP -  2 ATP = 120 ATP
+
+--- slide 33 ---
+ATP Production from Fatty Acids vs. Carbs
+Glucose vs. stearic acid:
+1 glucose = 32 ATP
+1 stearic acid= 120 ATP
+1 glucose = C6
+1 stearic acid= C18
+3	x glucose = 1 x stearic acid
+3	 x 32 ATP =  96	ATP
+[notes] 1 glucose = 3 steric acid
+3x 32 = 96
+Steric Acid produces more ATP per carbon
+
+--- slide 34 ---
+ATP Production from Fatty Acids vs. Carbs
+On an equal-mass basis, fatty acids produce 2.4 times as much energy per gram as carbohydrates:
+That is why 1 g of carbohydrate equals 4 kcal and that 1 g of fat equals 9 kcal. 
+32
+0.177
+
+--- slide 35 ---
+Ketone Bodies & Ketogenesis
+
+--- slide 36 ---
+Ketone Bodies
+The b-oxidation of fatty acids releases a large amount of acetyl CoA molecules. 
+High levels of acetyl CoA accumulate in the liver.
+If the citric acid cycle cannot process all of the extra acetyl CoA, they are converted into compounds called ketone bodies through ketogenesis.
+
+--- slide 37 ---
+Ketone Bodies
+The excess acetyl CoA is diverted via the formation of 3 ketone bodies:
+Technically middle one isn’t a ketone but it can be oxidized into a ketone
+Ketone bodies are produced in the liver and transported to cells in the heart, brain and muscles.
+[notes] Acetone and B-hydroxybutyrate are made from acetoacetate
+
+--- slide 38 ---
+Ketone Bodies
+Reduction of the ketone group present in acetoacetate to a 2o alcohol produces b-hydroxybutyrate
+No ketone in b-hydroxybutyrate, but related to a ketone.
+
+--- slide 39 ---
+Ketone Bodies
+Decarboxylation of acetoacetate produces acetone: 
+
+--- slide 40 ---
+Ketogenesis: Step 1
+Ketogenesis is the metabolic pathway by which ketone bodies are synthesized from acetyl CoA. 
+[1] Condensation – Two acetyl CoA molecules combine to produce acetoacetyl CoA, a reversal of the last step of the b-oxidation pathway.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 41 ---
+Ketogenesis: Step 2
+[2] Hydrolysis: Condensation + Cleavage
+Condensation – Acetoacetyl CoA reacts with a third acetyl CoA and water to produce 3-hydroxy-3-methylglutaryl CoA (HMG-CoA) and CoA–SH.
+
+--- slide 42 ---
+Ketogenesis: Step 2
+[2] Hydrolysis: Condensation + Cleavage
+Cleavage –  HMG-CoA is cleaved to acetyl CoA and acetoacetate.
+
+--- slide 43 ---
+Ketogenesis: Step 3
+[3] Hydrogenation. Acetoacetate is reduced to b-hydroxybutyrate. 
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 44 ---
+Ketogenesis
+Acetoacetate is somewhat unstable and can spontaneously or enzymatically lose its carboxyl group to form acetone.
+The ketone body acetone is more of a by-product than a product of the metabolic pathway ketogenesis. 
+
+--- slide 45 ---
+Ketone Bodies and Diabetes
+In diabetes, 
+insulin does not function properly.
+glucose levels are insufficient for energy needs
+fats are broken down to acetyl-CoA.
+ketogenesis produces ketone bodies.
+ketone bodies are soluble in blood and urine.
+acetone is volatile and is mainly excreted by exhalation. It is detectable in the breath of a diabetic. 
+
+--- slide 46 ---
+Ketosis
+The buildup of ketone bodies in urine (due to starvation, vigorous dieting, alcoholism, and uncontrolled diabetes is called ketosis.
+Symptoms of mild ketosis: headache, dry mouth, and sometimes acetone-smelling breath.
+Ketosis can develop into ketoacidosis, where the acidic ketone bodies actually lower the pH of the bloodstream.
+Symptoms of ketoacidosis: heavy breathing and increased urine output that can lead to dehydration. Ultimately can cause coma and death.
+
+--- slide 47 ---
+Lipogenesis
+Lipogenesis:
+is the metabolic pathway by which fatty acids are synthesized from acetyl CoA. 
+is NOT the reverse of the steps for degradation of fatty acids.
+occurs any time dietary intake provides more nutrients than are needed for energy requirements. 
+uses NAPDH coenzyme.
+occurs in the cytosol.
+
+--- slide 48 ---
+Lipogenesis Transport
+Because acetyl CoA is generated in mitochondria and lipogenesis occurs in the cytosol, the acetyl CoA must first be transported to the cytosol – citrate-malate shuttle.
+[notes] http://oregonstate.edu/dept/biochem/hhmi/hhmiclasses/bb450/winter2002/ch18/c18cs.htm
+
+--- slide 49 ---
+Lipogenesis
+Lipogenesis intermediates are bonded to ACP – acyl carrier protein.
+The ACP structure contains an aminoethanethiol linked to pantothenic acid unit which are attached to a polypeptide chain containing 77 amino acid residues.
+Need two simple ACP complexes to start lipogenesis: acetyl-ACP and malonyl-ACP.
+
+--- slide 50 ---
+Acetyl ACP – acyl carrier protein
+The acetyl ACP carrier is produced by direct reaction of acetyl CoA with an ACP molecule using acetyl transferase.
+
+--- slide 51 ---
+Malonyl ACP – acyl carrier protein
+The malonyl ACP carrier is produced in 2 steps:
+[1] Carboxylation of acetyl CoA using ATP and acetyl CoA carboxylase.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 52 ---
+Malonyl ACP – acyl carrier protein
+The malonyl ACP carrier is produced in 2 steps:
+[2] The malonyl CoA directly reacts with an ACP molecule using malonyl transferase.
+Malonyl CoA is the 2-C donor in each cycle of the chain elongation phase of lipogenesis.
+
+--- slide 53 ---
+Lipogenesis: Chain Elongation – Step 1
+Four reactions constitute the chain elongation process:
+[1] Condensation — acetyl ACP and malonyl ACP are condensed together to form acetoacetyl ACP using 3-ketoacyl ACP synthase.
+
+--- slide 54 ---
+Lipogenesis: Chain Elongation – Step 2
+Four reactions constitute the chain elongation process:
+Steps 2, 3, and 4 of fatty acid biosynthesis accomplish the reverse of steps 3, 2, and 1 of the b-oxidation pathway.
+
+--- slide 55 ---
+Lipogenesis: Chain Elongation – Step 2
+Four reactions constitute the chain elongation process:
+[2] Hydrogenation — the keto group (on b-C)  of the acetoacetyl complex is reduced to alcohol by NADPH using 3-ketoacyl ACP reductase.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 56 ---
+Lipogenesis: Chain Elongation – Step 3
+Four reactions constitute the chain elongation process:
+[3] Dehydration — water is removed from alcohol to form an alkene using 3-hydroxyacyl ACP dehydrase.
+The double bond is formed between between the a and b carbons.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 57 ---
+Lipogenesis: Chain Elongation – Step 4
+Four reactions constitute the chain elongation process:
+[4] Hydrogenation — the double bond is reduced to form saturated butyryl ACP from NADPH using enoyl ACP reductase.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 58 ---
+Lipogenesis: Chain Elongation 
+Each repetition adds two carbons onto the chain
+
+--- slide 59 ---
+Lipogenesis: Chain Elongation
+Further cycles of the preceding four-step process convert the 4-C acyl group to a 6-C acyl group, then to an 8-C acyl group, and so on.
+Elongation of the acyl group chain through this procedure stops upon formation of the C16 acyl group (palmitic acid).
+Shorter fatty acids undergo fewer cycles and are released earlier in biosynthesis.
+Longer fatty acids are synthesized with special enzymes from the C16 fatty acid by adding C2 units on the carboxyl end of the fatty acid.
+
+--- slide 60 ---
+Lipogenesis: Chain Elongation
+A relatively large input of energy is needed to biosynthesize a 16:0 fatty acid:
+[notes] 16:0
+16 Carbons, 0 double bonds?
+
+--- slide 61 ---
+Unsaturated Fatty Acids
+Synthesis of unsaturated fatty acids requires molecular oxygen, O2. In an oxidation step, hydrogen is removed and combined with the O2 to form water.
+In humans and animals, enzymes can introduce double bonds only between C4 and C5 and between C9 and C10. 
+
+--- slide 62 ---
+Lipogenesis Regulation
+When blood glucose is high, insulin:
+moves glucose into the cells, stimulating glycolysis and the oxidation of pyruvate.
+produces acetyl CoA for fatty acid synthesis.
+Using 3-C malonyl units to grow the fatty acid chain the transport of acyl groups into the matrix of the mitochondria is blocked, preventing their oxidation.
+
+--- slide 63 ---
+Carbohydrate and Lipid Metabolisms
+
+--- slide 64 ---
+Protein Metabolism
+
+--- slide 65 ---
+Protein Metabolism
+Proteins
+only supply 10% of body’s energy.
+metabolism plays an important role in maintaining good health. 
+The amino acids obtained from proteins are needed for both protein synthesis and synthesis of other nitrogen- containing compounds in the cell. 
+
+--- slide 66 ---
+Digestion of Proteins
+Digestion of Proteins starts in the stomach
+
+--- slide 67 ---
+Digestion of Proteins
+Saliva does not contain any proteins that can hydrolyze proteins.
+In the stomach:
+HCl denatures proteins
+HCl activates pepsinogen into pepsin 
+pepsin hydrolyzes proteins into polypeptides
+
+--- slide 68 ---
+Digestion of Proteins
+In the small intestine:
+Trypsin – cleaves at carboxyl end of lysine and arginine (primary amines)
+Chymotrypsin – cleaves at carboxyl end of tyrosine, tryptophan, phenylalanine and leucine. (large hydrophobic)
+Carboxypeptidase – cleaves amino side from C-terminus end of amino acid
+Aminopeptidase – cleaves from N-terminus end of amino acid
+Amino acids move to the bloodstream via active transport through the intestinal wall.
+
+--- slide 69 ---
+Amino Acid Pool
+The amino acid pool is the total supply of free amino acids available for use in the human body. 
+The amino acid pool has 3 sources:
+dietary proteins
+protein turnover: the repetitive process in which proteins are degraded and resynthesized
+biosynthesis of amino acids in the liver (only non-essential amino acids)
+
+--- slide 70 ---
+Nitrogen Balance
+Nitrogen balance occurs when the amount of nitrogen taken into the human body as protein equals the amount of nitrogen excreted from the body in waste materials.
+Two types of nitrogen imbalance can occur:
+negative nitrogen balance
+positive nitrogen balance
+
+--- slide 71 ---
+Negative Nitrogen Balance
+Negative nitrogen balance:
+Protein degradation exceeds protein synthesis. 
+Tissue is wasted – more tissue proteins are being catabolized than are being replaced by protein synthesis.
+Due to protein-poor diets, starvation, and wasting illnesses.
+
+--- slide 72 ---
+Positive Nitrogen Balance
+Positive nitrogen balance:
+Protein synthesis exceeds protein degradation. 
+Large amount of tissues are synthesized.
+Due to growth, pregnancy, and convalescence from an emaciating illness.
+
+--- slide 73 ---
+Nitrogen Balance
+Synthesis of non-essential amino acids:
+produce of non-essential amino acids that are in short supply. 
+cannot synthesize essential amino acids because lack the correct C skeleton.
+Production of energy:
+Amino acids cannot be stored in the body nor directly excreted. 
+Those in excess are used as energy sources, being degraded to substances that can be processed through the common metabolic pathway. 
+
+--- slide 74 ---
+Degradation of Amino Acids
+Each amino acids has its own degradation pathway.
+Human body cannot oxidized N-containing compounds, Therefore before amino acids can be used as energy sources, the N atoms must be removed.  
+In all the degradation pathways:
+the amino N atom is removed and ultimately is excreted from the body as urea. 
+the remaining C skeleton is then converted to pyruvate, acetyl CoA, or a citric acid cycle intermediate.
+
+--- slide 75 ---
+Nitrogen Balance
+Proteins are turned over in order to make new molecules
+
+--- slide 76 ---
+Degradation of Amino Acids
+Transamination is the transfer of an amino group from an a-amino acid to an a-keto acid using a transaminase.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 77 ---
+Degradation of Amino Acids
+Transamination often uses a-ketoglutarate as the a-keto acid.
+After transamination, the original amino acid contains only C, O, and H atoms.
+
+--- slide 78 ---
+Degradation of Amino Acids
+After accepting the amino group, glutamate is degraded through oxidative deamination to regenerate the a-ketoglutarate and to make NH4+ using glutamate dehydrogenase.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 79 ---
+Urea Cycle
+The NH4+  produced in the degradation then enters the urea cycle, where it is converted into urea, (NH2)2C=O, in the liver and excreted by the kidneys in urine.
+The urea cycle has 4 steps:
+step 1 occurs in the mitochondrial matrix,
+steps 2, 3, and 4 occur in the cytosol.
+
+--- slide 80 ---
+Urea Cycle
+Three amino acids are involved as intermediates in the operation of the urea cycle: 
+Ornithine, and citrulline are nonstandard amino acids —that is, amino acids not found in proteins. 
+All have __________ C chain.
+[notes] 5 carbon long chains
+
+--- slide 81 ---
+Urea Cycle
+The ammonium ion does not enter the cycle directly. 
+It is converted to carbamoyl phosphate using carbamoyl phosphate synthetase.
+
+--- slide 82 ---
+Urea Cycle – Step 1
+[1] Transfer of the carbamoyl group – carbamoyl phosphate transfers its carbamoyl group to ornithine to form citrulline using ornithine transcarbamoylase.
+
+--- slide 83 ---
+Urea Cycle – Step 2
+Citrulline is transported into the cytosol.
+[2] Condensation – citrulline is condensed with aspartate using argininosuccinate synthetase.
+
+--- slide 84 ---
+Urea Cycle – Step 3
+[3] Cleavage – argininosuccinate is cleaved into arginine, a standard amino acid, and fumarate, a citric acid cycle intermediate using argininosuccinate lyase. 
+
+--- slide 85 ---
+Urea Cycle – Step 4
+[4] Hydrolysis – arginine is hydrolyzed to form urea and regenerate ornithine using arginase.
+The ornithine is transported back into the mitochondria, where it can participate in the urea cycle again.
+
+--- slide 86 ---
+Urea Cycle
+The net reaction for urea formation:
+The equivalent of a total of 3 ATP molecules used in the production of one urea molecule.
+[notes] 3 ATP?
+
+--- slide 87 ---
+Urea Cycle
+
+--- slide 88 ---
+Citric Acid and Urea Cycle
+Aspartate and fumarate
+
+--- slide 89 ---
+Amino Acid Carbon Skeletons
+The removal of the amino group of an amino acid by transamination/oxidative deamination produces an a-keto acid that contains the carbon skeleton from the amino acid. 
+Each amino acid has a different degradation pathway for its carbon skeleton. 
+The degradation can occur in one or several steps.
+20 amino acids = only 7 degradation products
+Some amino acids appear more than once:
+either they degrade by different pathways
+or parts of their skeletons degrade by different pathways
+
+--- slide 90 ---
+Amino Acid Carbon Skeletons
+Amino acids that are degraded to citric acid cycle intermediates can serve as glucose precursors and are called glucogenic.
+Amino acids that are degraded to acetyl CoA or acetoacetyl CoA can contribute to the formation of fatty acids or ketone bodies are called ketogenic. 
+
+--- slide 91 ---
+Amino Acid Synthesis
+
+--- slide 92 ---
+Essential vs. Non-essential Amino Acids
+Nonessential amino acids require fewer reaction steps in their biosynthetic pathways than essential amino acids.
+[notes] Essential amino acids are obtained from diet – lots of steps to make them!
+
+--- slide 93 ---
+Amino Acid Biosynthesis
+The starting materials for the biosynthesis of the 10 non-essential amino acids are:
+
+--- slide 94 ---
+Amino Acid Biosynthesis
+Three of the non-essential amino acids – alanine, aspartate, and glutamate – are biosynthesized by transamination of the appropriate a-keto acid.
+
+--- slide 95 ---
+Amino Acid Biosynthesis
+The non-essential amino acid tyrosine is obtained from the essential amino acid phenylalanine in a one-step oxidation that involves molecular O2, NADPH, and the enzyme phenylalanine hydroxylase. 
+The synthesis of the other non-essential amino acids may require several reactions in addition to transamination. 
+
+--- slide 96 ---
+Metabolism
+
+--- slide 97 ---
+Metabolism
+
+--- slide 98 ---
+Conclusions
+Fatty acids provide more energy (calories) per carbon (weight) than carbohydrates
+Proteins only supply 10% of body’s energy.
+The amino acids obtained from proteins are needed for both protein synthesis and synthesis of other nitrogen- containing compounds in the cell. 
+b-Oxidation Cycle of fatty acids breaks fatty acids down into 2-carbon units (Acetyl CoA)

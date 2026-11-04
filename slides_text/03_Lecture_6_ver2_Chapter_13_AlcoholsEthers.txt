@@ -1,0 +1,357 @@
+# Lecture 6-ver2 - Chapter 13 - AlcoholsEthers.pptx  (49 slides)
+
+--- slide 1 ---
+CHEM 3B – Lecture 6 – Chapter 13 (Alcohols, Ethers, and Thiols)
+Sections 13.1-13.4
+
+--- slide 2 ---
+Outline
+Introduction to four new functional groups:
+Ether
+Alcohol
+Thiol
+Phenol
+Nomenclature for the above functional groups
+
+--- slide 3 ---
+Nomenclature: Alkyl Substituents 
+Sometimes the longest chain of a substituent is joined to the rest of the structure by a middle-carbon
+Rather than systematically name the substituent, there are “common” abbreviations
+IUPAC:
+Common:
+n- is for Normal
+s- is for second C
+t- is for tertiary (30) carbon
+iso- is for
+even/equal (the middle C)
+
+--- slide 4 ---
+New Functional Groups:Alcohols, Ethers, Phenols and Thiols
+
+--- slide 5 ---
+Functional Groups: Alcohols, Phenols, Thiols and Ethers
+There are four functional groups that have a carbon single-bonded to an oxygen or sulfur:
+
+--- slide 6 ---
+Examples
+Menthol
+
+--- slide 7 ---
+More Examples
+Thiols are responsible for the smells from onions, garlic, rotten eggs, and skunks
+Methanethiol
+Added to natural gas to make it easier to detect leaks based on smell
+
+--- slide 8 ---
+Practice: Classify this molecule:
+an alcohol
+an ether
+a hydroxide
+a phenol
+
+--- slide 9 ---
+Structure Drawing
+Draw the line structure for:
+Draw the condensed structural formula for:
+CH3CH2CH2OH
+CH3CH(OH)CH2CH2CH2CH3
+
+--- slide 10 ---
+Keep an eye out for isomers:
+Constitutional isomerism is possible for alcohols containing three or more carbon atoms.
+Skeletal:  Different carbon-chain connectivity
+Positional: Same functional group, different position
+Example:
+1-pentanol and 2-pentanol are positional isomers
+1-pentanol and 3-methyl-2-butanol are skeletal isomers
+
+--- slide 11 ---
+Keep an eye out for isomers:
+Constitutional isomerism is possible for alcohols and ethers of same number of carbons
+Functional Group Isomers: Different functional groups, same chemical formula
+
+--- slide 12 ---
+Nomenclature: New suffixes for your vocabulary!
+
+--- slide 13 ---
+Alcohol Nomenclature
+Rules
+Find longest carbon chain containing C bonded to OH group
+Alkane, Alkene or Alkyne?
+Remove “-e” and replace with –ol
+Number the carbon chain to give the OH group the lower number
+Name and number other substituents
+Example
+Longest Chain w/ OH: 	8 carbons, all single bonds  Octane
+Start numbering closest to OH, change “e” to “ol”	2-Octanol
+Number & name other substituents
+3‐butyl‐4‐propyl‐2‐octanol
+Longest chain has 9 carbons, but doesn’t contain OH
+[notes] https://www.masterorganicchemistry.com/2011/02/14/table-of-functional-group-priorities-for-nomenclature/
+
+--- slide 14 ---
+Practice
+Write the IUPAC name for the following alcohol.
+4-methyl-2-pentanol
+
+--- slide 15 ---
+Cycloalkanol Nomenclature
+A cycloalkanol is a cyclic alcohol
+The –OH group is Carbon #1 (C1). (The 1- is usually omitted from the name)
+Number the ring to give the next substituent the lower number
+
+--- slide 16 ---
+Nomenclature Practice
+Draw the structure for:
+2,2-dimethylpropanol
+Name the following:
+4-propylcyclohexanol
+
+--- slide 17 ---
+Nomenclature of Phenols
+Phenol is the IUPAC name for a hydroxyl group bonded to a benzene ring
+Assign C1 to the C attached to –OH
+Number ring to give the substituents lowest numbers
+Use prefixes (o-, m-, p-) or numbers to indicate location
+Example
+
+--- slide 18 ---
+Practice
+Write the IUPAC name for the following:
+2-ethyl-1-hydroxy-4-methylbenzene 
+2-ethyl-4-methylphenol
+6-ethyl-4-methylphenol
+3-ethyl-4-hydroxytoluene
+2-ethyl-4-methyl-cyclohexenol
+[notes] 2-ethyl-4-methylphenol
+
+--- slide 19 ---
+Nomenclature of Ethers
+Common Name (Slang)
+Name both R groups
+Arrange alphabetically
+Follow with the word “Ether
+IUPAC
+The longer alkyl ( R) group is the parent chain
+The shorter ( R) group is a substituent on that chain (alkoxy group)
+Instead of –yl ending, use oxy
+
+--- slide 20 ---
+CHEM 3B – Lecture 7 – Chapter 13 (Alcohols, Ethers, and Thiols)
+Sections 13.1-13.4
+
+--- slide 21 ---
+Practice
+Draw the condensed structural formula for:
+2-methoxybutane
+Write the IUPAC name for:
+CH3—O—CH2—CH2—CH2—CH2—CH3
+1-methoxypentane
+
+--- slide 22 ---
+Nomenclature of Thiols
+Like naming alcohols
+Name parent carbon chain
+Add suffix “thiol”
+Number chain to give lowest SH number
+
+--- slide 23 ---
+Practice
+Write the IUPAC name for the following:
+Draw the condensed structural formula for the following:
+2-butanethiol
+2-methyl-1-propanethiol
+
+--- slide 24 ---
+Outline
+Physical properties of alcohols, ethers, phenols and thiols
+Melting & boiling point trends
+Solubility trends
+Reactions
+Dehydration (Elimination)
+Oxidation
+
+--- slide 25 ---
+Physical Properties of Alcohols, Phenols and Ethers
+Lecture 8
+
+--- slide 26 ---
+Classification of Alcohols
+Alcohols are classified by the number of C atoms bonded to the C with the OH group
+A primary (1o) alcohol has an –OH group on a C bonded only to 1 other C.
+A secondary (2o) alcohol has an –OH group on a C bonded only to 2 other C.
+A tertiary (3o) alcohol has an –OH group on a C bonded only to 3 other C.
+1o
+2o
+3o
+
+--- slide 27 ---
+Classification Practice
+Classify the following alcohols as 1o, 2o, or 3o.
+20
+30
+
+--- slide 28 ---
+Geometry
+How many electron-groups are around the O atom?
+4
+What is the electron-group geometry?
+tetrahedral
+What is the molecular geometry?
+bent
+What is the C-O-H bond angle?
+~109.5 degrees
+What type of intermolecular forces exist between alcohol molecules?
+
+--- slide 29 ---
+Intermolecular Forces
+Alcohols & Phenols
+The oxygen has a bent geometry and two polar bonds: Net dipole (polar!)
+Hydrogen-bonding between molecules
+H bonded to O is attracted to lone pairs on another oxygen
+Ethers & Thiols
+The oxygen/sulfur has bent geometry and two polar bonds: Net dipole (polar)
+No hydrogen-bonding (requires an H bonded to an O, N or F) between other ether and thiol molecules
+Ethers can hydrogen bond to R-OH!
+
+--- slide 30 ---
+Solubility
+Alcohols, Phenols & Ethers
+Can form hydrogen bonds with water
+Alcohols and phenol are acceptors and donors
+Ethers are only acceptors. 
+Ethers are less soluble than alcohols with similar alkyl group lengths.
+Degree of solubility in water depends on length of alkyl chain
+Generally, 4 carbons or less = soluble
+Dimethyl ether in water
+
+--- slide 31 ---
+Prediction
+Which of the following compounds is most soluble in water?
+CH3CH2CH2CH2CH3 
+CH3OCH2CH3 
+CH3CH2CH2OH
+CH3CH2CH2CH2CH2OH
+
+--- slide 32 ---
+Physical Properties: Boiling and Melting Points
+Boiling point increases with size of alkyl chain (more dispersion forces)
+For molecules of similar molecular weight (similar size alkyl groups):
+Look at what intermolecular forces are possible
+Look at shape of molecule (straight or branched)
+Stronger forces = higher melting and boiling points
+Straight-chain alcohols with <12 C are liquids at room temperature
+
+--- slide 33 ---
+Prediction
+Which one of these molecules will have the highest boiling point?
+36.1 0C
+117.7 0C
+38.8 0C
+These molecules are all of similar size and shape.
+Butanol has the highest boiling point: Hydrogen Bonding, dipole-dipole intermolecular forces.
+Methoxypropane is polar (dipole-dipole intermolecular forces) which makes it have a slightly higher boiling point than pentane
+
+--- slide 34 ---
+Acidity
+Alcohol solutions have a similar pH to water
+Phenols are more acidic than alcohols in water
+More acidic  pH <7
+
+--- slide 35 ---
+Attendance
+Top Secret Code Word for 9/9 is oxidation
+
+--- slide 36 ---
+Reactions of Alcohols and Thiols
+
+--- slide 37 ---
+
+--- slide 38 ---
+Hydration and Dehydration
+We previously discussed (During lab) how water can add to an alkene (Hydration) to form an alcohol
+Water can also be eliminated from an alcohol to form an alkene (dehydration)
+H and OH from neighboring carbons
+Requires strong acid catalyst and heat
+
+--- slide 39 ---
+Dehydration Products
+Symmetric alcohols lead to one possible product
+
+--- slide 40 ---
+Dehydration Products
+Asymmetric alcohols can form two possible products
+Zaitsev’s Rule (Saytzeff’s Rule): The alkene formed in the greatest amount is the one that corresponds to the removal of hydrogen from the carbon having the fewest hydrogens.
+Opposite of Markonikov’s Rule
+The major product will have the most alkyl groups bonded to the C=C
+
+--- slide 41 ---
+Practice
+Draw the structure of the major product formed by the dehydration of the following molecule:
+
+--- slide 42 ---
+Oxidation of Alcohols
+Oxidation reactions result in:
+An increase in the number of C-O bonds and/or decrease in the number of C-H bonds
+[O] indicates oxidizing agent like K2C2O7
+
+--- slide 43 ---
+Oxidation of Alcohols
+Primary Alcohols
+Alcohol  Aldehyde  Carboxylic Acid
+Secondary Alcohols
+Alcohol  Ketone
+Tertiary Alcohols do not oxidize (no H bonded to the C-OH)
+
+--- slide 44 ---
+Reaction Practice
+What reactants will lead to each product?
+Choices
+H+, Heat
+[O]
+O2, heat
+O2
+[O]
+H+, heat
+
+--- slide 45 ---
+Metabolism of Ethanol
+Breathalyzer
+When alcohol is consumed, it is absorbed in the stomach and small intestines
+In the liver, enzymes act as oxidizing reagents
+Alcohol and aldehyde dehydrogenase
+
+--- slide 46 ---
+Metabolism of Methanol
+Ingestion of methanol can cause blindness (~15 mL) and death (100-250 mL)
+Methanol is oxidized by the same enzymes as ethanol
+Methanol is extremely toxic because of the products produced by this oxidation
+
+--- slide 47 ---
+Reactions of Thiols
+Oxidation & Reduction
+Thiols can be oxidized  to disulfides
+Disulfides can be reduced into thiols
+When hair is “permed”, disulfide bonds in the hair are reduced, then oxidized once the hair is rolled around curlers
+
+--- slide 48 ---
+Conclusions
+Hydrogen-bonding is the strongest intermolecular force
+Hydrogen bonding occurs between an H (bonded to O, N, F), and an O,N,F on another molecule
+Alcohols can hydrogen bond to other alcohols or water
+Ethers can not hydrogen bond to ethers, but can accept H’s from water to form hydrogen bonds
+If intermolecular forces are similar to water, it’ll be soluble in water
+The stronger the intermolecular forces, the higher the boiling and melting points
+Alcohols can be dehydrated and oxidized
+Dehydration is an example of an elimination reaction (loose water)
+Oxidation can occur with primary and secondary alcohols (turned into aldehydes or ketones).
+
+--- slide 49 ---
+Conclusions
+Alcohols, ethers, thiols, and phenols have oxygens/sulfur attached to carbon with a single-bond
+If there is a C=O, it’s another functional group!
+Nomenclature:
+-ol = alcohol suffix
+-thiol = thiol suffix
+-phenol = phenol parent
+oxy- = ether prefix

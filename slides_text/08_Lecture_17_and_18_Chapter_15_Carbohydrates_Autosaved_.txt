@@ -1,0 +1,584 @@
+# Lecture 17 and 18 (Chapter 15) Carbohydrates [Autosaved].pptx  (83 slides)
+
+--- slide 1 ---
+Attendance
+Top Secret Code Word for 10/14 is carbs
+
+--- slide 2 ---
+Chapter 15
+Introduction to Carbohydrates
+
+--- slide 3 ---
+Carbohydrates
+Carbohydrates are composed of C, H, and O
+Once thought to be hydrates of carbon
+Also called saccharides, which means “sugars”
+65% of our diet (a major source of energy!)
+Carbohydrates are polyhydroxyaldehydes or polyhydroxyketones
+The simplest carbohydrates are monosaccharides
+
+--- slide 4 ---
+Carbohydrates in life
+Plants make carbohydrates by photosynthesis to store energy
+Carbohydrates provide energy when oxidized
+Carbohydrate storage, in the form of glycogen, provides a short-term energy reserve.
+Carbohydrates supply carbons for other biological molecules (proteins, lipids, nucleic acids)
+Carbohydrates form part of the structural framework of DNA and RNA
+
+--- slide 5 ---
+Classification of Monosaccharides
+
+--- slide 6 ---
+Classification: Aldoses and Ketoses
+Monosaccharides are classified by both their functional group (aldehyde or ketone) as well as the number of carbons in their chain
+General formula CnH2nOn where n varies from 3-8 (most common are 3-6 carbons)
+Suffix –ose indicates the molecule is a carbohydrate
+
+--- slide 7 ---
+Classification: Number of Carbons
+A monosaccharide is also characterized by the number of carbon atoms in the chain.
+A triose has 3 C’s.
+A tetrose has 4 C’s.
+A pentose has 5 C’s
+A hexose has 6 C’s
+The terms are then combined with the words aldose and ketose:
+Glyceraldehyde is an aldotriose.
+Dihydroxyacetone is a ketotriose.
+
+--- slide 8 ---
+Isomerism
+Aldoses and ketoses with the same number of carbons are functional group isomers (a type of constitutional isomer)
+An aldotriose
+A ketotriose
+
+--- slide 9 ---
+Practice
+Classify each of the following monosaccharides according to both the number of carbon atoms and the type of carbonyl group present
+aldopentose
+ketohexose
+aldohexose
+ketopentose
+
+--- slide 10 ---
+Physical Properties
+Monosaccharides are sweet tasting, but their relative sweetness varies greatly
+Would you expect monosaccharides to have a high melting point? Why or why not?
+High melting point because:
+They are polar: dipole-dipole intermolecular forces (IMFs)
+They have lots of hydroxy groups so they are capable of hydrogen bonding (donor and acceptor)
+Would you expect monosaccharides to be water soluble? Why or why not?
+Very water soluble!
+Polar and capable of hydrogen-bonding with water
+
+--- slide 11 ---
+Chirality: Enantiomers
+All carbohydrates have at least one chiral centers (4 different groups bonded to a carbon)
+These two molecules are non-superimposable mirror images. They are two of glyceraldehyde.
+
+--- slide 12 ---
+D- and L- Notation
+The prefix D- is used when the  –OH group on the  bottom-most chiral carbon is drawn on the right side of the carbon chain
+The prefix L- is used when the  –OH group on the  bottom-most chiral carbon is drawn on the left side of the carbon chain
+In a Fischer projection, chiral carbons are replaced with a cross
+
+--- slide 13 ---
+Chirality: Diastereomers
+Enantiomers: Stereoisomers whose molecules are non-superimposable mirror images of each other.
+Diastereomers: Stereoisomers whose molecules are not mirror images of each other.
+Epimers: Diastereomers whose molecules differ only in the configuration at one chiral center.
+C-4 epimer of D-glucose
+C-3 epimer of D-glucose
+
+--- slide 14 ---
+Natural Selection
+D- glucose is a mirror image of L-glucose
+Naturally occurring sugars are pretty much always the D- isomer
+
+--- slide 15 ---
+Practice: Classification
+Classify the monosaccharide below as an aldose or ketose and as a D or an L isomer.
+D-aldohexose
+D-ketohexose
+L-aldohexose
+L-ketohexose
+
+--- slide 16 ---
+Aldoses
+D-glyceraldehyde serves as a reference point for the configuration of all other aldoses
+A new chiral carbon (purple circle) is inserted at each tier in the chart
+
+--- slide 17 ---
+Ketoses
+Dihydroxyacetone serves as the reference point
+Note: Dihydroxyacetone does not have a chiral carbon
+
+--- slide 18 ---
+Common Monosaccharides
+D-glucose is the most abundant monosaccharide
+Normal blood glucose levels are 70-110 mg/dL.
+A glucose tolerance test measures blood glucose for several hours after ingesting glucose.
+Excess glucose is stored as the polysaccharide glycogen or as fat.
+[notes] Insulin regulates blood glucose levels by stimulating the uptake of glucose into tissues or the formation of glycogen.
+
+Patients with diabetes produce insufficient insulin to adequately regulate blood sugar levels, so they  must monitor their diet and/or inject insulin daily.
+
+--- slide 19 ---
+Common Monosaccharides: Galactose
+Galactose is one of the components of the disaccharide lactose (milk sugar).
+Also called brain sugar (part of brain and nerve tissue)
+Used to differentiate between blood types.
+Patients with galactosemia lack an enzyme needed to metabolize galactose, which accumulates and causes cataracts and cirrhosis
+
+--- slide 20 ---
+Common Monosaccharides: Fructose
+Fructose is one of the components of the disaccharide sucrose.
+Also called fruit sugar.
+It is a ketohexose found in honey and almost twice as sweet as table sugar with the same number of calories per gram.
+High-fructose corn syrup (HFCS) is a sweetener that is produced by using an enzyme to break down sucrose to glucose and fructose.
+[notes] Some “lite” food products have fewer calories because they use only half as much fructose as sucrose for the same level of sweetness .
+
+--- slide 21 ---
+Cyclic forms of Monosaccharides
+
+--- slide 22 ---
+Hemiacetal forms
+Recall from Chapter 14 (Aldehydes and Ketones) that when an alcohol adds to an aldehyde, a hemiacetal is formed
+Use the alcohol that will make a 6-membered ring 
+5 membered rings sometimes form
+
+--- slide 23 ---
+Clyclic forms of Monosaccharides
+The hemiacetal carbon is a new chiral center
+Called anomeric carbon
+If new hydroxy group is trans to CH2OH called alpha
+If new hydroxy group is cis to CH2OH called beta 
+Haworth Projections show the structure as a hexagon with vertical lines. (the molecule is not really flat like this)
+[notes] D- Back CH2OH goes up
+L- Back CH2OH goes down
+Alpha: symbol crosses self: trans
+Beta: symbol has bumps on same side: cis
+
+--- slide 24 ---
+From Fischer to Haworth Projection
+Step 1: Rotate the Fischer projection so that the functional group is on the right and everything that was on the left is now up
+Tip: A handout with color-coded carbons is in Module for  Chapter 15
+
+--- slide 25 ---
+From Fischer to Haworth Projection
+Step 2: Twist the chain around to form a hexagon. By convention, the aldehyde carbon is the right-most point on the hexagon 
+Note: The CH2OH group is up for the D- isomer, and down for the L-isomer
+
+--- slide 26 ---
+From Fischer to Haworth Projection
+Step 3: Close the ring. As the reaction occurs, there are two cyclic forms of D-glucose, an a anomer and a b anomer
+
+--- slide 27 ---
+Practice: Anomers
+Draw both anomers (α & β) of D-mannose in a Haworth projection:
+
+--- slide 28 ---
+Mutarotation
+The cyclization reaction exists in an equilibriumcalled mutarotation:
+
+--- slide 29 ---
+The cyclic forms of Fructose:
+
+--- slide 30 ---
+Practice: Classification Hemiacetal
+The cyclic structure below is ______________.
+ -D-galactose
+ -L-galactose
+-D-galactose
+-L-galactose
+[notes] CH2OH is up  D
+-OH on anomeric carbon is up (same as CH2OH)  beta
+
+--- slide 31 ---
+Additional Vocabulary!
+Pyranose: are cyclic monosaccharides containing a six-atom ring.
+Furanose: are cyclic monosaccharides containing a five-atom ring.
+Their ring structures resemble the ring structures in the cyclic ethers pyran and furan, respectively:
+
+--- slide 32 ---
+Conclusions
+Monosaccharides are the simplest carbohydrate
+Classified by functional group (aldehyde or ketone) and number of carbons
+Many stereoisomers possible (the more chiral carbons, the more possibilities!)
+D- and L- notation is used to indicate which stereoisomer is present
+Epimers are diastereomers that differ in just one chiral carbon
+Monosaccharides can form cyclic structures (hemiacetals) by reacting with an alcohol group with the carbonyl group
+This creates a new chiral carbon which can be alpha or beta
+
+--- slide 33 ---
+Muddiest Point
+Think: What was most confusing about today? What do you still have a question about?
+Pair: Can a student near you answer your question?
+Share: Ask the class
+
+--- slide 34 ---
+Attendance
+Top Secret Code Word for 10/16 is monosaccharide
+
+--- slide 35 ---
+Chapter 15
+Carbohydrates: Part 2
+
+--- slide 36 ---
+Random Things to Know – For Midterm
+Common names for simple alcohols, ethers (i.e. methyl alcohol, dimethyl ether)
+Some branched groups (t-butyl, isopropyl)
+Geometric Isomers  Cis/Trans isomers
+There are many ways of saying “acid catalyzed”
+H+
+HCl, HNO3, H2SO4, etc
+Low pH
+There are many ways of saying “Heat”
+Boiling
+Refluxing
+Δ
+Unsaturation Number
+Number of Hydrogens in Saturated Hydrocarbon = 2C + 2
+Every 2H’s removed from that is 1 degree of unsaturation. 
+
+--- slide 37 ---
+Practice: Classification Hemiacetal
+The cyclic structure below is ______________.
+ -D-galactose
+ -L-galactose
+-D-galactose
+-L-galactose
+[notes] CH2OH is up  D
+-OH on anomeric carbon is up (same as CH2OH)  beta
+
+--- slide 38 ---
+Haworth to Fischer Projection
+The cyclic structure below is ______________.
+ -D-talose
+ -L-talose
+-D-talose
+-L-talose
+Rotate the ring 90 degrees 
+counter clock wise
+1
+2
+3
+4
+5
+6
+[notes] CH2OH is up  D
+-OH on anomeric carbon is up (same as CH2OH)  beta
+
+--- slide 39 ---
+Practice
+The cyclic structure below is ______________.
+ -D-gulose
+ -L-gulose
+-D-gulose
+-L-gulose
+[notes] CH2OH is up  D
+-OH on anomeric carbon is up (same as CH2OH)  beta
+
+--- slide 40 ---
+Oxidation and Reduction
+
+--- slide 41 ---
+Redox Chemistry of Monosaccharides
+The redox chemistry of monosaccharides is closely linked to that of the alcohol and aldehyde functional groups. 
+
+--- slide 42 ---
+The carbonyl group of an aldose is reduced to a 1o alcohol using NaBH4 or H2 with Pd.
+The reduction product is called an alditol (a sugar alcohol).
+Alditols are named by changing the suffix “-ose” to “-itol”.
+Reduction of Monosaccharides: Alditols
+[notes] Ald it ol 
+Aldehyde turned to alcohol (ol)
+
+--- slide 43 ---
+Reduction of Monosaccharides
+Sorbitol is found in the plant world in many berries and in cherries, plums, pears, apples, seaweed, and algae.
+About 60 percent as sweet as sucrose (table sugar) and is used in the manufacture of candies and as a sugar substitute for diabetics.
+Used as a moisturizing agent in foods and cosmetics and as a sweetening agent in chewing gum.
+
+--- slide 44 ---
+Oxidation of Monosaccharides: Weak [O]
+Oxidation can yield three different types of acidic sugars depending on the type of oxidizing agent used:
+Weak oxidizing agents, such as Tollens and Benedict’s solutions oxidize the aldehyde end of an aldose to give an aldonic acid.
+The hydroxy groups are not oxidized
+[notes] Ald__ic acid – aldehyde oxidized to carboxylic acid
+On – alcohol
+
+--- slide 45 ---
+Oxidation of Monosaccharides: Strong [O]
+2) Strong oxidizing agents can oxidize both ends of a monosaccharide at the same time (the carbonyl group and the terminal primary alcohol group) to produce a dicarboxylic acid.
+Such polyhydroxy dicarboxylic acids are known as aldaric acids.
+[notes] Ald__ic acid: aldehyde oxidized to carboxylic acid.
+Ar: alcohols oxidized
+
+--- slide 46 ---
+Oxidation of Monosaccharides: Enzymes
+3) In biochemical systems, enzymes can oxidize the primary alcohol end of an aldose such as glucose, without oxidation of the aldehyde group, to produce an alduronic acid.
+[notes] Ald – aldehyde there
+Uron – oxidized alcohol to carboxylic acid
+
+--- slide 47 ---
+Ketoses can oxidize! (in basic solutions)
+The ketose undergoes a structural rearrangement in basic solutions that produces an aldose, and the aldose then reacts. 
+This is called tautomerization
+
+--- slide 48 ---
+Reducing Sugars (LAB)
+Reducing sugars are carbohydrates that give a positive test with Tollens and Benedict’s reagents.
+The sugars are oxidized, making them reducing agents
+In cyclic form, a hemiacetal must be present
+
+--- slide 49 ---
+Redox Summary
+
+--- slide 50 ---
+Joining Monosaccharides 
+Disaccharides, and polysaccharides
+
+--- slide 51 ---
+Mono, di, oligo, and polysaccharides
+Monosaccharides can react with hydroxy groups on other monosaccharides to form acetals
+
+--- slide 52 ---
+Disaccharides
+Disaccharides are composed of two monosaccharide units joined together. 
+The two units link together by forming an acetal:
+
+--- slide 53 ---
+Condensation: Disaccharide Forms
+One monosaccharide acts as a hemiacetal and the other as an alcohol.
+The bond that joins the two units together is called a glycosidic linkage.
+Condensation: Molecules join, small molecule (H2O) lost
+[notes] Condensation Reaction: Reaction that joins two molecules together and a small molecule (like water) is lost.
+
+--- slide 54 ---
+The glycosidic linkage joining the two rings can be alpha (a) or beta (b).
+   The alpha (a) glycosidic bond points trans to CH2OH
+α-1,4-glycosidic bond
+β-1,4-glycosidic bond
+
+--- slide 55 ---
+Hydrolysis: Monosaccharides Form
+Hydrolysis of a disaccharide cleaves the C-O glycosidic linkage and forms two monosaccharides.
+Hydrolysis: water splits molecule
+
+--- slide 56 ---
+Disaccharides: Maltose
+Maltose consists of two molecules of glucose joined by a glycoside bond between carbon-1 (the anomeric carbon) of one glucose and carbon-4 of the second glucose (an a-1,4-glycoside bond). 
+Anomer named based on orientation of remaining hemiacetal
+Can mutarotate between α or β anomers
+Maltose is a reducing sugar.
+[notes] alpha-1,4’-glycoside bond
+
+Anomer named alpha or beta (+ disaccharide name) depending on orientation or remaining hemiacetal
+
+Any disaccharide with a hemiacetal is a reducing sugar
+
+--- slide 57 ---
+Disaccharides: Lactose
+Lactose is the principal sugar in milk. It makes up about 5–8% of human milk and 4–6% of cow’s milk.
+Hydrolysis of lactose yields glucose and galactose.  
+In lactose, a unit of galactopyranose is joined by a b-glycoside bond to carbon-4 of glucopyranose.  (β-1,4’ glycoside bond)
+Note that lactose is a reducing sugar. 
+Pyranose = 6-membered heterocyclic sugar
+[notes] β-1,4’ glycoside bond
+
+Lactose Intolerance:
+The enzyme lactase hydrolyzes β(14) glycosidic linkages.
+Individuals who are lactose intolerant no longer produce this enzyme.
+Deficiency of lactase can be caused by a genetic defect, physiological decline with age, or by injuries to intestinal mucosa.
+Without the enzyme, lactose cannot be digested, causing abdominal cramps and diarrhea.
+
+--- slide 58 ---
+Disaccharides: Sucrose
+Sucrose
+Sucrose (table sugar) is the most abundant disaccharide in the biological world.  
+It is obtained principally from the juice of sugar cane and sugar beets.  
+In sucrose, carbon-1 of glucose is joined to carbon-2 of fructose by a α,β-1,2-glycoside bond. 
+Note:  sucrose is a non-reducing sugar because the anomeric carbons of both glucose and fructose are involved in formation of the glycoside bond 
+[notes] Why is sucrose a non-reducing sugar?
+
+--- slide 59 ---
+Attendance
+Top Secret Code Word for 10/21 is polysaccharides
+
+--- slide 60 ---
+Practice
+Trehalose is a disaccharide commonly found in insects, bacteria, fungi, and other organisms . It is also known as mycose for its association with fungi.
+Answer the following (To help with HW #8): 
+Draw the monosaccharide units produced by hydrolysis (Haworth Projections)?
+What is the type of glycosidic linkage?
+Are the monosaccharide units α or β anomers?
+Is this a reducing sugar?
+Draw the Fischer Projection of each monosaccharide found in the disaccharide above. Name each sugar found in the disaccharide.
+
+--- slide 61 ---
+Artificial Sweeteners
+Splenda
+
+--- slide 62 ---
+Practice
+What must be present in order for a disaccharide to be a reducing sugar?
+acetal group
+hemiacetal group
+—OH group 
+—OR group
+
+--- slide 63 ---
+Practice
+A disaccharide is shown below.  Classify the connection between the two units:
+-1,4 link
+-1,4 link
+-1,6 link
+-1,6 link
+-1,2 link
+
+--- slide 64 ---
+Practice
+What functional group is formed by the -glycosidic link between the two monosaccharides (shown here)?
+ Ether
+ Alcohol
+ Thiol
+ Ester
+ Amide
+
+--- slide 65 ---
+Polysaccharides
+Polysaccharides contain many monosaccharide units joined together. 
+Polysaccharides exist as
+Storage polysaccharides – starch and glycogen 
+Structural polysaccharide – cellulose and chitin 
+Acidic polysaccharide – hyaluronic acid 
+
+--- slide 66 ---
+Polysaccharides: Starch
+Starch
+Starch is the reserve carbohydrate for plants. 
+It is found in all plant seeds and tubers and is the form in which glucose is stored for later use by plants.
+Starch is composed of two principal polysaccharides: 
+~20% amylose (water soluble)
+~80% amylopectin (insoluble)
+Hydrolysis gives only glucose  
+[notes] Grocery / potatoes©2001 Jerry Jones Photographer
+
+--- slide 67 ---
+Polysaccharides: Amylose
+Amylose is A linear polymer of up to 4000 monomers of glucose joined by a-1,4-glycoside bonds. 
+amylose
+
+--- slide 68 ---
+Polysaccharides: Amylopectin
+Amylopectin is a highly branched polymer with chains of 24–30 units of glucose joined by a-1,4-glycoside bonds and branch points created by a-1,6-glycoside bonds. 
+a(14)
+a(16)
+amylopectin
+
+--- slide 69 ---
+Starch: Digestion 
+Both starch molecules can be digested by humans using the enzyme amylase (in saliva) and maltase (in the intestines).
+
+--- slide 70 ---
+Polysaccharides: Glycogen
+Glycogen is the reserve carbohydrate for animals. 
+Like amylopectin, glycogen is a nonlinear polymer of glucose joined by a-1,4- and a-1,6-glycoside bonds.
+But, it has a lower molecular weight and an even more highly branched structure (every 12–18 units): 
+[notes] aDD secondary structure – intermolecular forces
+Biological consequences – digestions
+
+Both branched polysaccharides end with “n”
+
+--- slide 71 ---
+Glycogen: Hydrolysis
+Glycogen is stored mainly in the liver and in muscle cells.
+When glucose is needed for energy, glucose units are hydrolyzed from the ends of the glycogen polymer.
+Because glycogen is highly branched, there are many ends available for hydrolysis.
+
+--- slide 72 ---
+Polysaccharides: Cellulose
+Cellulose is found in the cell walls of all plants, where it gives support and rigidity to wood, plant stems, and grass. 
+Cotton is almost pure cellulose (95%), wood is 50% cellulose. 
+Cellulose is a linear polymer of up to 3000 glucose monomers joined by b-1,4-glycosidic bonds. 
+b(14)
+cellulose
+Humans lack enzymes to hydrolyze β-1,4 glycosidic bonds. We cannot digest cellulose
+[notes] Glucose – Beta 1-4
+
+--- slide 73 ---
+Polysaccharides: Cellulose IMF
+Cellulose fibers consist of bundles of parallel polysaccharide chains held together by hydrogen bonds between hydroxyl groups on adjacent chains. 
+Gives cellulose fibers high mechanical strength, and insoluble in water
+[notes] Humans do not posses the enzyme to hydrolyze cellulose (b-glycosidase) and cannot digest it.
+
+--- slide 74 ---
+Practice
+What is the major disaccharide or polysaccharide in each of the following items?
+Amylose & Amylopectin
+Cellulose
+Lactose
+[notes] Starch
+Cellulose (plant walls)
+Lactose
+
+--- slide 75 ---
+Practice
+The polysaccharide that is not digestible by humans is ______________.
+Glycogen
+Cellulose
+Amylose
+Amylopectin
+
+--- slide 76 ---
+Blood
+
+--- slide 77 ---
+Polysaccharides in Blood
+There are four blood types—A, B, AB, and O.
+Blood type is based on 3 or 4 monosaccharides attached to a membrane protein of red blood cells.
+Each blood type has the monosaccharides below:
+[notes] antigens may be proteins, carbohydrates, glycoproteins, or glycolipids, depending on the blood group system
+
+--- slide 78 ---
+Polysaccharides in Blood
+Blood types:
+Type A contains a 4th monosaccharide:
+Type B contains an additional D-galactose unit
+Type AB has both type A and Type B carbohydrates 
+
+--- slide 79 ---
+Blood Type Compatibility 
+In the United States, type O blood is the most common and type A the second most common.
+A transfusion of wrong blood type can cause the blood cells to form clumps, a potentially fatal reaction.
+
+--- slide 80 ---
+Practice
+The most highly branched polysaccharide is ____________.
+Amylose
+Glycogen
+Amylopectin
+Cellulose
+
+--- slide 81 ---
+Practice
+Which compound contains -acetal linkages and 1,6 branching?
+Amylose
+Cellulose
+Glycogen
+Sucrose
+
+--- slide 82 ---
+Conclusions
+Aldoses can be oxidized or reduced because of the aldehyde functional group
+In basic conditions, Ketoses can undergo a structural rearrangement into an aldose, and then undergo similar reactions to aldoses
+A reducing sugar is a sugar that is a reducing agent (can be oxidized) - gives positive test with Benedicts or Tollens reagent
+Cyclic monosaccharides (hemiacetals) can react with an –OH group on another cyclic monosaccharide to form an acetal
+There are many disaccharides and polysaccharides in nature that differ in the types of linkages between saccharide units.
+Blood types A, B, AB, and O differ by the carbohydrates on the surface of red blood cells
+
+--- slide 83 ---
+Muddiest Point
+Think: What was most confusing about today? What do you still have a question about?
+Pair: Can a student near you answer your question?
+Share: Ask the class 

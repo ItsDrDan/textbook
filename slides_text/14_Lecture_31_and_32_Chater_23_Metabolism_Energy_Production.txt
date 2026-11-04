@@ -1,0 +1,447 @@
+# Lecture 31 and 32 -  Chater 23 Metabolism _ Energy Production.pptx  (63 slides)
+
+--- slide 1 ---
+Metabolic Pathways for Carbohydrates:The Citric Acid Cycle
+Chapter 23
+
+--- slide 2 ---
+Learning Goals
+Know the initial reactant and final product of:
+Citric Acid Cycle: oxaloacetate  oxaloacetate
+Given reactants and products, be able to select which enzyme would likely be responsible for the reaction (i.e. kinase, isomerase, synthase etc.), which co-enzyme would likely be used (NAD+, NADH, CoA, FAD, FADH2, CoQ), or what type of reaction is occurring (oxidation, reduction, etc).
+You’ll need to be able to tell from words or structure drawings what type of reaction is happening. Reactants and products could be steps in citric acid cycle, electron transport chain
+Know ATP output from the oxidation of NADH to NAD+ or FADH2 to FAD
+NADH + H+  NAD+ + 2.5 ATP
+FADH2  FAD + 1.5 ATP
+Know ATP produced from the complete oxidation of glucose (Table 23.1)
+Be able to count and track number of carbons throughout glycolysis and citric acid cycle:
+How many turns of citric acid cycle per glucose?
+How many decarboxylation reactions must occur during the citric acid cycle?
+Describe factors which activate and inhibit metabolic processes
+
+--- slide 3 ---
+
+--- slide 4 ---
+Citric Acid Cycle
+Learning Goals:
+
+--- slide 5 ---
+Warm Up
+The reduced form of nicotinamide adenine dinucleotide is represented as _______.
+FADH
+FADH2       
+NAD+
+NADH + H+
+[notes] Answer: D
+
+--- slide 6 ---
+Metabolism
+Metabolism is the sum of all the chemical reactions that take place in an organism – providing energy for the body
+Catabolism is the breakdown of large molecules into smaller ones
+Energy is generally released during catabolism
+Anabolism is the synthesis of large molecules from smaller ones
+Energy is generally absorbed during anabolism
+[notes] Energy released = catabolic
+Energy absorbed = anabolic
+
+--- slide 7 ---
+Metabolic Pathways
+Linear Metabolic Pathway 
+A series of reactions that generates a final product. 
+Product is different from any of the reactants.
+Cyclic Pathway
+A series of reactions that regenerates the first reactant.
+[notes] Often, the process is a series of consecutive reactions called a metabolic pathway, which can be linear or cyclic.
+
+--- slide 8 ---
+Stages of Metabolism
+Catabolic reactions are organized as: 
+Stage 1: 	Digestion and hydrolysis break down
+			       large molecules to smaller ones that
+			       enter the bloodstream
+Stage 2: 	Degradation breaks down molecules to
+			       two- and three-carbon compounds
+Stage 3: 	Oxidation of small molecules in the 
+                      citric acid cycle and electron transport
+		         provides ATP energy
+Stage 1: Hydrolysis
+
+--- slide 9 ---
+Stages of Metabolism
+Chapter 22 focused on Stages 1 & 2
+Chapter 23 focuses on Stage 3: Oxidation – Citric Acid Cycle
+
+--- slide 10 ---
+Citric Acid Cycle:Overall
+The citric acid cycle:
+operates under aerobic conditions.
+is based in the mitochondrion.
+is a cyclic metabolic pathway,
+where the acetyl portion of acetyl CoA is oxidized to carbon dioxide
+where the reduced coenzymes FADH2 and NADH are produced. 
+produces high-energy compounds for ATP synthesis
+has eight steps.
+
+--- slide 11 ---
+Let’s Think (Discussion)
+If the starting material, Citrate, has 6-carbons, and the ending material, oxaloacetate has 4-carbons, how many decarboxylation reactions must occur during the citric acid cycle?
+Glycolysis turns one glucose (6-carbons) into two pyruvate (3-carbons each). If all pyruvate from glycolysis is used to make Acetyl CoA, how many turns of the citric acid cycle are needed to process one glucose?
+
+--- slide 12 ---
+Let’s Think (Discussion)
+How many CO2 molecules are produced during the citric acid cycle per glucose?
+During metabolism, all carbons from glucose are converted to CO2. When are the other CO2 molecules produced?
+
+--- slide 13 ---
+Setup a Table!
+Turn your notebook paper sideways and setup a table:
+What type of Reaction is this? | How can I tell? | What class of enzyme is needed? | What coenzyme is needed?
+
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+
+--- slide 14 ---
+Citric Acid Cycle: Step 1
+In step [1] acetyl CoA is condensed with oxaloacetate to form citrate using the citrate synthase enzyme.
+Citrate synthase is a Ligase
+Step [1] deconstructed: condensation and hydrolysis
+What type of Reaction? | Condensation
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+[notes] A condensation reaction is when two molecules come together and form a larger molecule – and a small molecule is lost. A lot of times that small molecule is water, but it can also be other things. 
+The condensation reaction is done in the enzyme (citrate synthase – a ligase)
+
+--- slide 15 ---
+Citric Acid Cycle: Step 2
+In step [2] the 3o alcohol in citrate is isomerized to a 2o alcohol, isocitrate, using the aconitase enzyme.
+Aconitase is classified as a lyase because of how it completes the isomerism.
+Step [2] deconstructed: dehydration and hydration
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+[notes] Aconitate is a lyase because of mechanism (addition/removal of water)Hydrolases split molecule via hydrolysis, that’s not what is happening.
+
+--- slide 16 ---
+Citric Acid Cycle: Step 3 (Practice)
+What coenzyme is likely to be involved in the first reaction?
+FADH2
+FAD
+NAD+
+NADH + H+
+[notes] NAD+ turns secondary alcohol into ketone
+
+--- slide 17 ---
+Citric Acid Cycle: Step 3 (Practice)
+What type of reaction occurs in the second reaction?
+Isomerization
+Dehydration
+Decarboxylation
+Deconstruction
+Reduction
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+[notes] NAD+ turns secondary alcohol into ketone
+
+--- slide 18 ---
+Citric Acid Cycle: Step 4
+In step [4] a-ketoglutarate is decarboxylated and oxidized using  the a-ketoglutarate dehydrogenase enzyme with the NAD+ coenzyme in the presence of coenzyme A to form succinyl CoA. 
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+[notes] “Oxidized” – gains a sulfur, kinda like gaining an O
+
+--- slide 19 ---
+Citric Acid Cycle: Step 5
+In step [5] the thioester bond of succinyl CoA is hydrolyzed to succinate releasing energy that converts GDP to GTP using the succinyl CoA synthetase enzyme.
+Step [5] deconstructed: hydrolysis and phosphorylation
+
+--- slide 20 ---
+Citric Acid Cycle: Step 6
+In step [6] succinate is oxidized to fumarate. What coenzyme is likely to be responsible for this reaction?
+FADH2
+FAD
+NAD+
+NADH + H+
+[notes] Oxidoreductase
+
+--- slide 21 ---
+Citric Acid Cycle: Step 7
+In step [7], fumarate is hydrated to malate, which has a 2o alcohol using the fumarase enzyme.
+Fumarase is a Lyase
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 22 ---
+Citric Acid Cycle: Step 8
+In step [8], the 2o alcohol of malate is oxidized by NAD+ to form the ketone portion of oxaloacetate using the malate dehydrogenase enzyme.
+The product of step [8] is the starting material for step [1].
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 23 ---
+Practice	
+Which of the following is not one of the intermediates in the citric acid cycle?
+citrate
+lactate       
+succinate
+fumarate 
+[notes] Answer: B
+
+--- slide 24 ---
+Practice	
+Through which intermediate does pyruvate enter the citric acid cycle?
+acetyl-coA
+ADP
+fructose-6-phosphate
+NAD+
+[notes] Answer: A
+
+--- slide 25 ---
+Citric Acid Cycle - Overview
+The main function of the citric acid cycle is to produce reduced coenzymes (NADH and FADH2).
+These molecules enter the electron transport chain and ultimately produce ATP.
+
+--- slide 26 ---
+Citric Acid Cycle - Overview
+The overall citric acid cycle yields:
+2		CO2 molecules
+3		NADH and 	1	FADH2 molecules
+1		GTP molecule
+The “fuel” for the cycle is acetyl CoA, obtained from the breakdown of carbohydrates, fats, and proteins.
+
+--- slide 27 ---
+Regulation of Citric Acid Cycle
+The reaction rate for the citric acid cycle is controlled by the body’s need for ATP (in step 1):
+when ATP levels are high, ATP inhibits citrate synthase when ATP levels are low, ADP activates citrate synthase
+Similarly, ADP and NADH controls isocitrate dehydrogenase in step 3: 
+NADH acts as an inhibitor 
+ADP acts as an activator
+
+--- slide 28 ---
+Malate-Aspartate Shuttle
+
+--- slide 29 ---
+Malate-Aspartate Shuttle
+The NADH produced in step 6 of glycolysis is produced in the cytosol.
+The electron transport chain occurs in the mitochondrion.
+Therefore, these 2 NADH  cannot participate in the electron transport chain.
+Mitochondria are impermeable to NADH and NAD+.
+A transporter shuttles the electrons from NADH, but not NADH itself, across the outer membrane. 
+
+--- slide 30 ---
+Malate-Aspartate Shuttle
+The malate–aspartate shuttle transfers the hydrogen ions and electrons from the cytosol to the mitochondrion:
+
+--- slide 31 ---
+Malate-Aspartate Shuttle
+The malate–aspartate shuttle transfers the hydrogen ions and electrons from the cytosol to the mitochondrion:
+In the cytosol, oxaloacetate is reduced with NADH and the malate dehydrogenase.
+The electrons and hydrogen ions are carried across the membrane by a malate transporter. 
+In the mitochondrion, malate is oxidized back to oxaloacetate. NAD+ is reduced to NADH.
+The electrons from NADH can now enter the electron transport chain.
+
+--- slide 32 ---
+Malate-Aspartate Shuttle
+Because the oxaloacetate produced in the matrix cannot cross the mitochondrial membrane, it
+is converted to aspartate;
+moves out of the matrix back into the cytosol,
+and undergoes transamination, which converts it back to oxaloacetate.
+
+--- slide 33 ---
+Attendance
+Top Secret Code Word for 12/2 is
+Electron
+
+--- slide 34 ---
+Electron Transport Chain
+
+--- slide 35 ---
+Electron Transport Chain
+The electron transport chain is a multistep process using 4 enzyme complexes (I, II, III and IV) located along the mitochondrial inner membrane.
+Transfers hydrogen ions and electrons from NADH and FADH2 until they react with oxygen to H2O.
+[notes] Strips H+ ions off coenzymes, electrons held by metal ions temporarily.I) NADH to NAD2) FADH2 to FAD
+3) Brings e- to IV
+4) Combine to form water
+
+--- slide 36 ---
+Electron Transport Chain: Electron Carriers
+The electron transport chain has two electron carriers, coenzyme Q and cytochrome c, attached to the mitochondrial inner membrane, that carry electrons between the enzyme complexes (I, II, III and IV) .
+CoQ, is 	fat		soluble and can move laterally within the mitochondrial membrane.
+The Q in CoQ comes from the name Quinone. 
+
+--- slide 37 ---
+Electron Transport Chain
+A cytochrome is a heme-containing protein in which reversible oxidation and reduction of an iron atom occur.
+In cytochromes, the heme is bound to the protein in a way that prevents the heme from binding to O2 as it does when it is present in hemoglobin.
+
+--- slide 38 ---
+Electron Transport Chain: Complex 1
+Complex I: NADH–coenzyme Q reductase
+NADH from the citric acid cycle is the source of electrons processed in complex I.
+The NAD+ generated can oxidize more substrates in oxidative pathways such as the citric acid cycle.
+The hydrogen ions and electrons are transferred to the mobile electron carrier CoQ, forming CoQH2.
+
+--- slide 39 ---
+Electron Transport Chain: Complex 1
+Complex I: NADH–coenzyme Q reductase
+Not a one-step process.
+
+--- slide 40 ---
+Electron Transport Chain: Complex 2
+Complex II: succinate–Coenzyme Q reductase
+FADH2 from the citric acid cycle is the source of electrons processed in complex II.
+The FAD generated can oxidize more substrates in oxidative pathways such as the citric acid cycle.
+
+--- slide 41 ---
+Electron Transport Chain: Complex 2 (Practice)
+Complex II: succinate–Coenzyme Q reductase
+How many electrons are being transferred in the process shown in the diagram below?
+0
+1
+2
+3
+4
+
+--- slide 42 ---
+Electron Transport Chain: Complex 2
+CoQH2 carries electrons from complexes I and II to complex III.
+
+--- slide 43 ---
+Electron Transport Chain: Complex 3
+Complex III: Coenzyme Q–Cytochrome c reductase
+CoQH2 molecules carry the electrons processed through complexes I and II  to complex III.
+The electrons are transferred from CoQH2 to cyt c via successive redox reactions.
+Complex III delivers the electrons to complex IV.
+
+--- slide 44 ---
+Electron Transport Chain: Complex 4
+Complex IV: Cytochrome c Oxidase
+In the final step of electron transfer, the electrons from cyt c and H+ ions from cellular solution combine with O2 to form water.
+
+--- slide 45 ---
+Electron Transport Chain - Summary
+Summary of the flow of electrons through the 4 complexes of the electron transport chain
+
+--- slide 46 ---
+Electron Transport Chain - Overall
+
+--- slide 47 ---
+Practice	
+Arrange the following in the order they appear in electron transport.
+FAD, coenzyme Q, cytochrome c
+FAD, cytochrome c, coenzyme Q       
+Coenzyme Q, FAD, cytochrome c
+Cytochrome c, FAD, coenzyme Q
+[notes] Answer: C
+
+--- slide 48 ---
+Practice
+The final electron acceptor in the electron transport chain is _______.
+H2O
+FAD       
+NAD+
+O2
+[notes] Answer: D
+
+--- slide 49 ---
+Oxidative Phosphorylation
+
+--- slide 50 ---
+Oxidative Phosphorylation
+Oxidative phosphorylation is the synthesis of ATP from ADP:
+ADP is phosphorylated.
+Energy released during electron transport is used to synthesize ATP from ADP and Pi during oxidative phosphorylation.
+The energy needed for phosphorylation comes from the oxidation of the coenzymes NADH and FADH2
+
+--- slide 51 ---
+Oxidative Phosphorylation
+H+ ions do not directly participate in enzyme complex reactions (after the formation of CoQH2).
+Instead, H+ ions become part of the cellular solution, where they participate in several reactions including the process by which ATP is synthesized.
+
+--- slide 52 ---
+Oxidative Phosphorylation
+Three of the electron transport chain complexes also function as proton pumps – transfer protons from the matrix side of the inner mitochondrial membrane to the inter-membrane space.
+Some of the H+ ions come from the reduced electron carriers, and some come from the matrix.
+
+--- slide 53 ---
+Oxidative Phosphorylation
+Chemiosmotic model links the energy from electron transport to a hydrogen ion gradient.
+The electron transport chain provides the energy to pump H+ ions across the inner membrane of the mitochondria.
+The [H+] ions in the inter-membrane space becomes higher than that inside the matrix.
+This creates a hydrogen ion gradient.
+
+--- slide 54 ---
+Oxidative Phosphorylation
+To equalize the pH and charges, the H+ ions return to the matrix through a channel in the ATP synthase enzyme.
+
+--- slide 55 ---
+Oxidative Phosphorylation
+The ATP synthase enzyme has two subunits:
+the F0 subunit is the channel for proton flow.
+the F1 subunit is the site for the formation of ATP.
+As H+ return to the matrix through the F0 subunit energy is released and used for the synthesis of ATP in the F1 subunit.
+
+--- slide 56 ---
+Oxidative Phosphorylation
+The ATP produced must be moved from the matrix back to the inter-membrane space before it can be used in metabolic reactions. 
+For each ATP molecule transferred from the matrix to the inter-membrane space an ADP, a Pi, and an H+ ion move in the opposite direction.
+
+--- slide 57 ---
+Overall ATP Generation
+ATP Yield from oxidative phosphorylation:
+Each NADH entering the electron transport chain produces enough energy to make 2.5 ATPs.
+Each FADH2 entering the electron transport chain produces enough energy to make 1.5 ATPs.
+
+--- slide 58 ---
+Regulation of Electron Transport and Oxidative Phosphorylation
+Electron transport 
+is regulated by the availability of ADP, Pi, oxygen (O2), and NADH.
+decreases with low levels of any of these compounds and decreases the formation of ATP.
+When a cell is active and ATP is consumed rapidly, the elevated levels of ADP will activate the synthesis of ATP.
+The activity of electron transport is strongly dependent on the availability of ADP for ATP synthesis.
+
+--- slide 59 ---
+Complete Oxidation of Glucose
+The complete oxidation of glucose to 6 CO2 and 6 H2O yields a maximum of 32 ATP.
+C6H12O6 + 6O2    6CO2 + 6H2O (+ 32 ATP)
+
+--- slide 60 ---
+ATP Produced by 1 Glucose molecule
+Keep in Mind the total number of ATP Generated from a Single Glucose can fluctuate depending on where you read the value… Here we are assuming 1 NADH creates 2.5 ATP… but some textbooks will assume 1 NADH = 3 ATP is generated….Same with FADH = 1.5 ATP, but some places will do 1 FADH = 2 ATPLong Story Short….
+The Range is 32 ATP to 38 ATP per glucose
+
+--- slide 61 ---
+Chemistry Link to Health:Efficiency of ATP Production
+Our cells are about 33% efficient in converting the total available chemical energy in glucose to ATP.
+The remainder of the energy produced from glucose during the oxidation in our cells is lost as heat.
+
+--- slide 62 ---
+Think at Home
+Sketch an overall “big picture” view of how carbohydrates, lipids and proteins are metabolized into ATP energy.
+What happens in each stage of metabolism?
+Give names of relevant processes
+List as many “Types of Reactions” as you can think of – think of “opposite” pairs (i.e. oxidation and reduction)
+What type of enzyme would be used for each type? What co-enzyme (if applicable)?
+How can you tell what reaction is happening? (key functional group changes)
+
+--- slide 63 ---
+Conclusions
+The citric acid cycle is a cyclic, 8-step, metabolic pathway
+The citric acid cycle produces (in two rotations) 2 FADH2, 6 NADH, 4CO2 and 2 ATP.
+The FADH2 and NADH are used in the electron transport chain and oxidative phosphorylation to make 6H2O and 28 ATP.
+Overall, each glucose molecule yields 6CO2, 6H2O, and 32 ATP.

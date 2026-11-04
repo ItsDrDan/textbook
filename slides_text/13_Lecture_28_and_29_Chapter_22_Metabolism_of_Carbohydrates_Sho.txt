@@ -1,0 +1,707 @@
+# Lecture 28 and 29 Chapter 22- Metabolism of Carbohydrates Shortest Version v2.pptx  (92 slides)
+
+--- slide 1 ---
+Metabolic Pathways for Carbohydrates
+Chapter 22
+
+--- slide 2 ---
+Summary
+Stages of Metabolism
+Key Coenzymes
+Metabolism of Polysaccharides (Carbohydrates)
+Stages 1 & 2 only
+Metabolic Reactions of Glucose:
+Glycolysis
+Gluconeogenesis
+Pentose Phosphate Pathway
+Glycogenesis
+Glycogenolysis
+
+--- slide 3 ---
+Metabolism
+Metabolism is the sum of all the chemical reactions that take place in an organism – providing energy for the body
+Catabolism is the breakdown of large molecules into smaller ones
+Energy is generally released during catabolism
+Anabolism is the synthesis of large molecules from smaller ones
+Energy is generally absorbed during anabolism
+Learning Goal: Define catabolic reactions and anabolic reactions. 
+[notes] Energy released = catabolic
+Energy absorbed = anabolic
+
+--- slide 4 ---
+Metabolic Pathways
+Linear Metabolic Pathway 
+A series of reactions that generates a final product. 
+Product is different from any of the reactants.
+Cyclic Pathway
+A series of reactions that regenerates the first reactant.
+[notes] Often, the process is a series of consecutive reactions called a metabolic pathway, which can be linear or cyclic.
+
+--- slide 5 ---
+Stages of Metabolism
+Catabolic reactions are organized as: 
+Stage 1: 	Digestion and hydrolysis break down
+			large molecules to smaller ones that
+			enter the bloodstream
+Stage 2: 	Degradation breaks down molecules to
+			two- and three-carbon compounds
+Stage 3: 	Oxidation of small molecules in the 
+                  citric acid cycle and electron transport
+		provides ATP energy
+Stage 1: Hydrolysis
+Learning Goal: Know the three stages of catabolism
+
+--- slide 6 ---
+Stages of Metabolism: The big picture
+Stage 1: Proteins, carbohydrates, and lipids are all hydrolyzed.
+Stage 2: Acetyl-CoA is a common product between all three types of molecules
+
+--- slide 7 ---
+Energy Production & Storage
+Any process (walking, running, breathing) is fueled by the release of energy when ATP is hydrolyzed to ADP.
+Energy is absorbed and stored in ATP when it is synthesized from ADP (phosphorylation)
+
+--- slide 8 ---
+Energy Production: ATP, ADP, AMP
+Several adenosine phosphates exist:
+adenosine monophosphate (AMP)
+adenosine diphosphate (ADP)
+adenosine triphosphate (ATP)
+Other triphosphates (UTP, GTP, and CTP) also participate in metabolism.
+
+--- slide 9 ---
+Energy Production
+The phosphate–ribose bond is a phosphoester bond. 
+The phosphate–phosphate bonds are phosphoanhydride bonds. 
+
+--- slide 10 ---
+Energy Production: Hydrolysis
+
+--- slide 11 ---
+Energy Storage: Phosphorylation
+
+--- slide 12 ---
+Coupled Reactions
+Some processes are energetically unfavorable
+Coupling an energetically unfavorable reaction with a favorable one that releases more energy than the amount required is common in biological reactions.
+Coupled reactions are pairs of reactions that occur together.
+The energy released by one reaction is absorbed by the other reaction.
+Overall:
+
+--- slide 13 ---
+Practice
+A reaction that releases energy is an exothermic process.
+Energy is a product or reactant?
+The energy change would be positive or negative?
+A reaction that absorbs energy is an endothermic process.
+
+--- slide 14 ---
+Coenzymes in Metabolism
+Learning Objectives:
+Define oxidation & reduction in terms of loss or gain of electrons, oxygen, or hydrogen.
+Identify coenzymes as oxidizing agents, reducing agents, acyl group transporters, or phosphate group transporters.
+Recognize typical reactions of NAD+/NADH and FAD/FADH2
+
+--- slide 15 ---
+Attendance
+Top Secret Code Word for 11/20 is Metabolism
+
+--- slide 16 ---
+Types of Metabolic Reactions
+Metabolic reactions:
+Occur at body temperature and physiological pH.
+require enzymes and often their coenzymes.
+
+--- slide 17 ---
+Redox in Metabolism
+Several metabolic reactions involve redox reactions.
+Oxidation is:
+a 	loss 	of electrons.
+a 	gain	of oxygen atoms.
+a 	loss		of hydrogen atoms.
+Reduction is:
+a		gain	of electrons.
+a		loss		of oxygen atoms.
+a		gain	of hydrogen atoms.
+
+--- slide 18 ---
+Coenzymes in Metabolism: Redox
+Coenzymes are required in redox reactions to carry the hydrogen ions and electrons from or to the substrate.
+A coenzyme acting as an oxidizing agent causes an oxidation reaction to occur, so the coenzyme is reduced.
+It gains H+ and e−.
+A coenzyme acting as a reducing agent causes a reduction reaction to occur, so the coenzyme is oxidized.
+It loses H+ and e−.
+
+--- slide 19 ---
+Coenzyme: FAD
+Flavin adenine dinucleotide (FAD) is a coenzyme required in numerous metabolic redox reactions. 
+The flavin and ribitol subunits in this structure together constitute the B vitamin riboflavin (B2). 
+The coenzyme FAD is one of the biochemically active forms of riboflavin.
+
+--- slide 20 ---
+Coenzyme: FAD Molecular Structure
+Flavin adenine dinucleotide (FAD) 
+Ribitol is a reduced form of ribose
+[notes] Dinucleotide = 2 phosphate
+
+--- slide 21 ---
+Coenzyme: FAD – Typical Reaction Use
+A typical cellular reaction in which FAD serves as the oxidizing agent involves a -CH2-CH2- portion of a substrate being oxidized to produce a carbon–carbon double bond. 
+Dehydrogenation
+
+--- slide 22 ---
+Coenzyme: FAD Oxidized and Reduced Forms
+The active portion of FAD in redox reactions is the flavin subunit of the molecule. 
+
+--- slide 23 ---
+Coenzyme: NAD+
+Nicotinamide adenine dinucleotide (NAD+) is also a coenzyme required in numerous metabolic redox reactions. 
+The vitamin B present in NAD+ is niacin (B3).  
+
+--- slide 24 ---
+Coenzyme: NAD+ Molecular Structure
+Nicotinamide adenine dinucleotide (NAD+) 
+The + sign refers to the positive charge on the N atom in the nicotinamide; this N atom has     4    bonds instead of the usual   3    bonds.
+NAD+ is joined by the phosphates, unlike nucleotides in DNA/RNA.
+
+--- slide 25 ---
+Coenzyme: NAD+, typical reaction
+A typical cellular reaction in which NAD+ serves as the oxidizing agent is the oxidation of a 2o alcohol to give a ketone.
+Or, more C-O bonds
+
+--- slide 26 ---
+Coenzyme: NAD+
+The active portion of NAD+ in metabolic redox reactions is the nicotinamide subunit of the molecule. 
+
+--- slide 27 ---
+Coenzyme: A (CoA) Molecular Structure
+Coenzyme A (CoA) is a coenzyme that is an acetyl group carrier.
+Coenzyme A (CoA) is a derivative of the B vitamin pantothenic acid (B5). 
+
+--- slide 28 ---
+Coenzyme: A (CoA)
+The active portion of coenzyme A is the sulfhydryl group (SH group) in the ethanethiol subunit of the coenzyme. 
+An acetyl group bonds to CoA-SH through a thioester bond.
+
+--- slide 29 ---
+Practice
+NAD+
+FAD
+NADH + H+
+FADH2
+Coenzyme A
+A.  coenzyme used in oxidation of carbon-oxygen bonds
+B.  reduced form of flavin adenine dinucleotide
+C.  used to transfer acetyl groups
+D.  contains riboflavin 
+E.  the coenzyme after C=O bond formation
+Match the following terms to their description:
+
+--- slide 30 ---
+Metabolism of Carbohydrates: Stages 1 & 2
+Learning Objective: 
+Know the initial reactant and final product of: glycolysis, gluconeogenesis, glycogenesis, glycogenolysis, and pentose phosphate pathway.
+Given reactants and products, be able to select which enzyme classification would likely be responsible for the reaction 
+
+--- slide 31 ---
+Practice
+What were the three stages of catabolism?
+Stage 1: 
+Digestion and hydrolysis break down large molecules to smaller ones that enter the bloodstream
+Stage 2: 	
+Degradation breaks down molecules to two- and three-carbon compounds
+Stage 3: 
+Oxidation of small molecules in the citric acid cycle and electron transport provides ATP energy
+
+--- slide 32 ---
+Stage 1: Digestion of Carbohydrates
+Digestion is the breakdown of food molecules by hydrolysis into simpler chemical units that can be used by cells for metabolic processes
+Begins in the mouth: amylase breaks down polysaccharides into smaller polysaccharides (dextrins).
+continues in the small intestine, where pancreatic amylase hydrolyzes dextrins to maltose and glucose
+hydrolyzes maltose, lactose, and sucrose to monosaccharides, mostly glucose, which enter the bloodstream for transport to the cells
+
+--- slide 33 ---
+Digestion Practice:
+Why does digestion of carbohydrates not take place in the stomach?
+The low pH of the stomach destroys the enzyme activity of the amylase enzyme found in saliva. 
+
+--- slide 34 ---
+Practice
+What type of chemical reaction is this?
+Hydrolysis
+Phosphorylation
+Combustion
+Hydration
+Does this process require energy to be put in or release energy?
+Require Energy
+Release Energy
+
+--- slide 35 ---
+Stage 2: Glycolysis
+Oxidation of Glucose: Glycolysis
+Glycolysis is the 2nd stage of food processing.
+degrades six-carbon glucose molecules to three-carbon pyruvate molecules
+Glycolysis is an oxidation process in which no molecular oxygen is used – an anaerobic pathway.
+Glycolysis takes place in the cytosol of the cell.
+
+--- slide 36 ---
+Glucose Metabolism: Glycolysis
+Metabolic reactions of glucose
+
+--- slide 37 ---
+Latin Roots
+Process | 
+Glycolysis | Breaking apart glucose
+gluconeogenesis | Creating New Glucose
+glycogenesis | Process to make glycogen
+glycogenolysis | Breaking apart glycogen
+Latin Root | Meaning
+-lysis | Loosening, unfasten
+-neo- | new
+-gen- | Birth/origin
+-esis | action/process
+
+--- slide 38 ---
+Stage 2: Glycolysis
+Glycolysis is a 10-step linear pathway that converts glucose (6-carbons) to two molecules of pyruvate (3-carbons)
+Steps 1-5: Require energy 
+Steps 6-10: Energy is generated
+
+--- slide 39 ---
+Keep in mind…
+As we go through each step, ask yourself:
+How many carbons are there in my molecule?
+What type of reaction is occurring?
+Does this reaction take energy or release energy?
+How can you tell?
+What type of enzyme is needed?
+Is a coenzyme needed?
+
+--- slide 40 ---
+Setup a Table!
+Turn your notebook paper sideways and setup a table:
+What type of Reaction is this? | How can I tell? | What class of enzyme is needed? | What coenzyme is needed?
+
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+
+--- slide 41 ---
+Glycolysis: Mnemonic
+Glycolysis steps "Goodness Gracious, Father Franklin Did Go By Picking Pumpkins (to) Prepare Pies":
+Glucose
+Glucose-6-P
+Fructose-6-P
+Fructose-1,6-diP
+Dihydroxyacetone-P
+Glyceraldehyde-P
+1,3-Biphosphoglycerate
+3-Phosphoglycerate
+2-Phosphoglycerate (to)
+Phosphoenolpyruvate [PEP]
+Pyruvate
+
+--- slide 42 ---
+Glycolysis: Step 1
+Step [1] begins with the phosphorylation of glucose into glucose 6-phosphate, using ATP and a kinase enzyme.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+[notes] Note: Energy released by hydrolysis of ATP to make ADP
+Coupled with phosphorylation (energy needed)
+
+
+How many carbons are there in my molecule? 6
+What type of reaction is occurring? Phosphorylation
+Does this reaction take energy or release energy? Requires energy
+How can you tell? ATP turns into ADP.
+What type of enzyme is needed? Kinases are a type of transferase
+Is a coenzyme needed?
+
+--- slide 43 ---
+Glycolysis: Step 2
+Step [2] isomerizes glucose 6-phosphate to fructose 6-phosphate with an isomerase enzyme.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+[notes] How many carbons are there in my molecule? 6
+What type of reaction is occurring? Isomerization
+Does this reaction take energy or release energy? No
+How can you tell? Molecule has same chemical formula, no ATP
+What type of enzyme is needed? Isomerase
+Is a coenzyme needed? no
+
+--- slide 44 ---
+Glycolysis: Step 3
+In Step [3], fructose 6-phosphate into fructose 1,6-bisphosphate
+What enzyme is likely for this reaction?
+Aldolase
+Phosphohexose isomerase
+Phosphofructokinase
+Triose phosphate isomerase
+Dehydrogenase
+[notes] Note: Energy released by hydrolysis of ATP to make ADP
+Coupled with phosphorylation
+
+How many carbons are there in my molecule?
+What type of reaction is occurring? Phosphorylation
+Does this reaction take energy or release energy? Requires Energy ATP  ADP
+How can you tell? ATP  ADP
+What type of enzyme is needed? Kinase  Transferase
+Is a coenzyme needed? No
+
+--- slide 45 ---
+Glycolysis: Step 4
+Step [4] cleaves the fructose ring into a dihydroxyacetone phosphate and a glyceraldehyde 3-phosphate with an aldolase enzyme.
+the fructose is written as its open-chain form.
+[notes] How many carbons are there in my molecule? Two 3 carbon molecules
+What type of reaction is occurring? cleavage
+Does this reaction take energy or release energy? 
+How can you tell? 
+What type of enzyme is needed? Lyase
+Is a coenzyme needed? no
+
+--- slide 46 ---
+Glycolysis: Step 5
+Step [5] isomerizes the dihydroxyacetone phosphate into another glyceraldehyde 3-phosphate using the enzyme triosephosphate isomerase.
+Thus, the first phase of glycolysis converts glucose into 2 glyceraldehyde 3-phosphate units.
+[notes] How many carbons are there in my molecule? 3
+What type of reaction is occurring?  isomerization
+Does this reaction take energy or release energy?
+How can you tell? Molecule has same chemical formula
+What type of enzyme is needed? isomerase
+Is a coenzyme needed? no
+
+--- slide 47 ---
+Glycolysis: Step 6
+In step [6] the aldehyde end of the molecule is oxidized and phosphorylated by a dehydrogenase enzyme and NAD+
+this produces 1,3-bisphosphoglycerate and NADH.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+[notes] How many carbons are there in my molecule? 3 carbons (happens twice per glucose)
+What type of reaction is occurring? Oxidation and phosphorylation
+Does this reaction take energy or release energy? 
+How can you tell? NAD gains H  it is reduced. Aldehyde to Ester (more bonds to O)
+What type of enzyme is needed? Dehydrogenase  Oxidoreductase
+Is a coenzyme needed? Yes, NAD+
+
+--- slide 48 ---
+Glycolysis: Step 6 (Practice)
+Step [6] really consists of two reactions: oxidation and phosphorylation. In the reaction below, what is the oxidizing agent?
+Glyceraldehyde 3-phosphate
+NAD+
+H2O
+NADH
+3-Phosphoglycerate
+
+--- slide 49 ---
+Glycolysis: Step 6 (deconstructed)
+Step [6] deconstructed: oxidation and phosphorylation
+
+--- slide 50 ---
+Attendance
+Top Secret Code Word for 11/25 is
+Glycolysis
+
+--- slide 51 ---
+Glycolysis: Step 7
+In step [7], the phosphate group is transferred onto an ADP with a kinase enzyme, forming 3-phosphoglycerate and ATP.
+Substrate-level phosphorylation is a biochemical process whereby ATP is produced from ADP by hydrolysis of a high-energy compound – the substrate.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 52 ---
+Glycolysis: Step 8
+In step [8], the phosphate group is isomerized to a new position in 2-phosphoglycerate using the enzyme mutase.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+[notes] Mutase: shifts position of functional group (subclass of isomerase)
+
+--- slide 53 ---
+Glycolysis: Step 9 (Practice)
+In step [9], the reaction to the right occurs. 
+What type of reaction is this?
+Hydration
+Dehydration
+dehydrogenation
+Hydrolysis
+Condensation
+
+--- slide 54 ---
+Glycolysis: Step 10
+In step [10], the phosphate is transferred to an ADP, yielding pyruvate and ATP with a kinase enzyme.
+Another substrate-level phosphorylation reaction.
+
+--- slide 55 ---
+Glycolysis: Overall Process
+The net overall equation for the process of glycolysis is:
+Two ATP add phosphate to glucose and fructose-6-phosphate.
+There is a net gain of two ATP molecules for every glucose molecule converted into two pyruvates.
+
+--- slide 56 ---
+Other Carbohydrates
+The breakdown products from carbohydrate digestion are glucose, galactose, and fructose.
+Both galactose and fructose are converted, in the liver, to intermediates that enter into the glycolysis pathway.
+All the common hexoses enter glycolysis and are metabolized into pyruvate.
+
+--- slide 57 ---
+Regulation of Glycolysis
+The amount of glucose broken down depends on the need for pyruvate and ATP
+Glycolysis is regulated by three enzymes:
+Hexokinase: Step 1 of glycolysis
+Inhibited by high levels of glucose-6-phosphate
+Phosphofructokinase:  Step 3 of glycolysis
+Allosteric Control – inhibited by high levels of ATP, activated by high levels of ADP or AMP
+Pyruvate Kinase: Step 10 of glycolysis
+Inhibited by high levels of ATP or acetyl CoA
+[notes] In biochemistry, allosteric regulation (or allosteric control) is the regulation of a protein by binding an effector molecule at a site other than the enzyme's active site.
+
+--- slide 58 ---
+Pathways for Pyruvate
+Learning Objective: 
+Know the pathways for pyruvate under aerobic and anaerobic conditions
+
+--- slide 59 ---
+Glucose Metabolism
+
+--- slide 60 ---
+Pathways for Pyruvate
+There are three pathways for Pyruvate 
+The pathways depend on the availability of oxygen
+Cori Cycle
+
+--- slide 61 ---
+Pyruvate: Aerobic Conditions
+Under aerobic conditions (oxygen present), 
+three-carbon pyruvate is decarboxylated
+two-carbon acetyl CoA and CO2 are produced
+
+--- slide 62 ---
+Pyruvate: Anaerobic Conditions
+Fermentation
+occurs in anaerobic microorganisms such as yeast
+decarboxylates pyruvate to acetaldehyde, which is reduced to ethanol  
+regenerates NAD+ to continue glycolysis
+
+--- slide 63 ---
+Pyruvate: Anaerobic Conditions
+Working muscles often produce lactate.
+During strenuous exercise, when ATP needs are high, there is not enough O2 being inhaled to re-oxidize NADH to NAD+ in the electron transport chain.
+The lactate formed by anaerobic metabolism of pyruvate builds up in muscle cells, resulting in soreness and cramping.
+Deep breaths replenish O2 in tissues, allowing re-oxidation of lactate to pyruvate.
+
+--- slide 64 ---
+Practice (Cori Cycle) 
+What reaction is taking place?
+What classification of enzyme would it most likely need?
+Does it need a co-enzyme?
+Lactate dehydrogenase (oxidoreductase)
+NADH+H+                   NAD+
+
+--- slide 65 ---
+Gluconeogenesis: Glucose Synthesis(completes Cori Cycle)
+Learning Objective: 
+Know the initial reactant and final product of: glycolysis, gluconeogenesis, glycogenesis, glycogenolysis, and pentose phosphate pathway.
+Given reactants and products, be able to select which enzyme classification would likely be responsible for the reaction 
+
+--- slide 66 ---
+Glucose Metabolism: Gluconeogenesis
+
+--- slide 67 ---
+Gluconeogenesis
+Gluconeogenesis is the synthesis of glucose from non-carbohydrate sources such as pyruvate, lactate, amino acids, or glycerol.
+Without gluconeogenesis, the brain, which is dependent on glucose as a fuel would have problems functioning if food intake were restricted for even one day.
+Catabolic or anabolic pathway? anabolic
+About 90% of gluconeogenesis takes place in the liver. 
+Gluconeogenesis, because of its ATP-consuming nature, occurs only under specific conditions, which include:
+To replenish depleted liver glycogen stores. 
+To convert lactate (produced by strenuous exercise) back to glucose.
+To maintain blood glucose level when glycogen stores have been depleted.
+
+--- slide 68 ---
+Glycolysis vs. Gluconeogenesis
+The pathway for gluconeogenesis is similar, but not identical, to the pathway for glycolysis.
+
+--- slide 69 ---
+Gluconeogenesis
+In gluconeogenesis,
+glucose is synthesized from non-carbohydrates such as lactate, some amino acids, and glycerol after they are converted to pyruvate or other intermediates 
+seven reactions are the reverse of glycolysis and use the same enzymes 
+three glycolysis reactions are not reversible
+		Glycolysis 	Reaction		Enzyme
+			1			hexokinase 
+			3			phosphofructokinase
+			10			pyruvate kinase
+[notes] All of these steps have “Kinase Enzymes”Kinase enzymes use/make ATP
+
+If you need ATP one way, you don’t need it the other way
+
+--- slide 70 ---
+Gluconeogenesis
+Gluconeogenesis Steps 1 & 2
+The reverse of Glycolysis Step 10 cannot be accomplished in a single step because of the large energy difference between the two compounds and the slow rate of the reaction
+pyruvate is carboxylated into oxaloacetate using ATP hydrolysis.
+oxaloacetate is phosphorylated phosphoenolpyruvate using the high energy compound
+
+--- slide 71 ---
+Glycolysis vs. Gluconeogenesis
+In Step [3] of glycolysis, fructose 6-phosphate is converted into fructose 1,6-bisphosphate
+Which statement is TRUE?
+This step in glycolysis is unrelated to gluconeogenesis
+The reverse process in gluconeogenesis does not require ATP
+The reverse process in gluconeogenesis requires ATP
+[notes] Note: Energy released by hydrolysis of ATP to make ADP
+Coupled with phosphorylation
+
+--- slide 72 ---
+Gluconeogenesis
+In step 5 of gluconeogenesis (step 7 of glycolysis) the same enzyme is operative in both directions; however, ATP is required in gluconeogenesis but not in glycolysis.
+In steps 9 and 11 of gluconeogenesis (steps 1 and 3 of glycolysis) different enzymes are needed and ATP is required in glycolysis but not in gluconeogenesis. 
+The new enzymes for gluconeogenesis are fructose 1,6-bisphosphatase and glucose 6-phosphatase. 
+
+--- slide 73 ---
+Practice
+Gluconeogenesis uses ATP/GTP in steps  1   ,   2   and    5  .
+Therefore there is a net expenditure of   6  ATP equivalent in gluconeogenesis versus a net production of   2   ATP in glycolysis.
+Gluconeogenesis is a anabolic process and glycolysis is catabolic process. 
+[notes] Gluconeogenesis, because of its ATP-consuming nature, occurs only under specific conditions, which include:
+To replenish depleted liver glycogen stores. 
+To convert lactate (produced by strenuous exercise) back to glucose.
+To maintaining blood glucose level when glycogen stores have been depleted.
+
+--- slide 74 ---
+Glucose Metabolism
+
+--- slide 75 ---
+Glycogen
+Glycogen
+Branched polymer of glucose with α(14) glycosidic bonds and α(16) in branches.
+Glycogen stored mainly in liver and muscle
+operates when high levels of glucose-6-phosphate are formed in the first reaction of glycolysis
+does not operate when energy stores (glycogen) are full, which means that additional glucose is converted to body fat
+
+--- slide 76 ---
+Glycogenesis
+Glycogenesis:
+is the metabolic pathway by which glycogen is synthesized from glucose 6-phosphate. 
+occurs when high levels of glucose-6-phosphate are formed in the first reaction of glycolysis.
+does not occur when energy stores (glycogen) are full, which means that additional glucose is converted to triacylglycerols and stored as body fat.
+ involves three steps.
+[notes] Gen = birth/origin
+Esis = action/process
+
+--- slide 77 ---
+Glycogenesis: Step 1
+In glycogenesis, glucose is initially converted to glucose-6-phosphate using ATP – then glucose-6-phosphate is isomerized to glucose-1-phosphate
+
+--- slide 78 ---
+Glycogenesis: Step 2
+    UTP activates glucose-1-phosphate to form UDP-glucose and pyrophosphate (PPi). 
+
+--- slide 79 ---
+Glycogenesis: Step 3
+In step 3, the glucose unit of UDP-glucose is attached to the end of a glycogen chain using a glycogen synthase enzyme.
+[notes] The glucose in UDP-glucose adds to glycogen.  
+     UDP-glucose + glycogen       glycogen-glucose + UDP
+The UDP reacts with ATP to regenerate UTP.
+	  UDP + ATP         UTP + ADP
+
+--- slide 80 ---
+Glycogenolysis
+Glycogenolysis is: 
+the metabolic pathway by which glucose 6-phosphate is produced from glycogen. 
+NOT the reverse of glycogen synthesis (glycogenesis) because it does not require UTP or UDP molecules.
+a two-step process.
+
+--- slide 81 ---
+Glycogenolysis: Step 1
+In step 1, a glucose unit is removed by phosphorylation from a glycogen molecule as glucose 1-phosphate using the glycogen phosphorylase enzyme.
+No UDP involved. Therefore this is NOT the reverse of step 3 of glycogenesis. 
+
+--- slide 82 ---
+Glycogenolysis: Step 2
+In step 2, glucose 1-phosphate is isomerized to glucose 6-phosphate using the phosphoglucomutase enzyme.
+This step is the reverse of step 1 of glycogenesis.
+The glucose-6-phosphate formed in step 2 of glycogenolysis, can enter glycolysis at step 2 for energy production.
+
+--- slide 83 ---
+Glycogenesis vs. Glycogenolysis
+
+--- slide 84 ---
+Pentose Phosphate Pathway
+Learning Objectives:
+Know the initial reactant and final product of: glycolysis, gluconeogenesis, glycogenesis, glycogenolysis, and pentose phosphate pathway.
+Given reactants and products, be able to select which enzyme classification would likely be responsible for the reaction 
+
+--- slide 85 ---
+Glucose Metabolism: Pentose Phosphate Pathway
+
+--- slide 86 ---
+Pentose Phosphate Pathway
+Glucose can be degraded by a pathway different from glycolysis – the pentose phosphate pathway.
+Major functions of this alternative pathway are:
+synthesis of the coenzyme NADPH needed in lipid biosynthesis.
+and production of ribose 5-phosphate, a pentose derivative needed for the synthesis of nucleic acids and many coenzymes.
+Two step Pathway
+
+--- slide 87 ---
+Pentose Phosphate Pathway
+Coenzyme NADPH is:
+the reduced form of NADP+, nicotinamide adenine dinucleotide phosphate.
+the phosphorylated version of the NADH.
+essential to biosynthetic pathways.
+
+--- slide 88 ---
+Pentose Phosphate Pathway: Stage 1
+Oxidative Stage
+involves three steps through which glucose 6-phosphate is converted to ribulose 5-phosphate and CO2.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 89 ---
+Pentose Phosphate Pathway: Stage 2
+Non-oxidative stage – ribulose 5-phosphate is isomerized to ribose 5-phosphate.
+Ribose 5-phosphate is a component of ATP, GTP, UTP, CoA, NAD+/NADH, FAD/FADH2, and RNA.
+What type of Reaction? | 
+How do we know? | 
+What type of Enzyme? | 
+What co-enzyme? | 
+
+--- slide 90 ---
+Pentose Phosphate Pathway
+Ribose-5-P can be converted into intermediates in glycolysis
+fructose-6-P
+glyceraldehyde-3-P
+
+--- slide 91 ---
+Pentose Phosphate Pathway
+Ultimately, ribose 5-phosphate forms fructose 6-phosphate and glyceraldehyde 3-phosphate, both intermediates in glycolysis.
+Therefore ribose 5-phosphate can return to the glycolysis pathway as needed.
+Glucose-6-phosphate enters the pentose phosphate pathway when there is a need for NADPH and/or ribose-5-phosphate for biosynthesis.
+
+--- slide 92 ---
+Conclusions
+Carbohydrates are they body’s main source of energy
+Polysaccharides are digested into glucose molecules
+Glucose is converted into pyruvate via glycolysis
+Pyruvate can be converted into Coenzyme A under aerobic conditions
+Pyruvate can be converted into Ethanol or Lactate under anaerobic conditions
+Pyruvate can be converted back into glucose via gluconeogenesis
+The Pentose Phosphate Pathway converts glucose into ribose, and generates NADPH
+Glucose is turned into glycogen via glycogenesis
+Glycogen is turned into glucose via glycogenolysis

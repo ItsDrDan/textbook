@@ -1,0 +1,100 @@
+Dr. Dan’s ultimate Study Guide for ACS BioChem Final
+General Knowledge
+Know how to identify carbohydrates, lipids, nucleic acids, amino acids.
+Know major functional groups in the macromolecules.
+Carbohydrates = hemiacetal, hemiketal, ketal, acetal
+Lipids = esters 
+Proteins = peptide bonds = amides
+Nucleic acids = phosphodiester linkages and amines (mix of things)
+Solubility of the macromolecules
+Be able to read a diagram of a metabolic pathway or cycle. 
+Label Reactions
+Label anabolic vs catabolic.
+How to determine if a molecule can hydrogen bond.
+(F N O to H-bonds) 
+Know how to count chiral centers.
+Chapter 15: Carbohydrates
+How to Classify Carbohydrates (ex. Aldohexose, ketohexose, etc.)
+Know how to classify L vs D and alpha vs Beta.
+Know all polysaccharides covered are made of Glucose.
+Which one’s are digestable or not (cellulose is not)
+How to Label glycosidic linkages (alpha, beta, carbon numbering..)
+Know how to identify anomers of sugars.
+How to draw an enantiomer
+What is a reducing sugar (aldoses or hemiacetals)
+Chapter 17: Lipids
+Physical Properties of Lipids (Melting Points of Saturated and unsaturated fats)
+Saturated = solid and unsaturated = liquid (oil)
+Fatty acid structures (glycerol, fatty acids, esters, phosphates)
+Shape of Steroids, Eicosanoids, sphingomyelin, and triacylglycerides
+Understand role of cholesterol in hormone production
+Know how to label alpha, beta, and omega positions on a fatty acid
+Know Acid or Base Hydrolysis of triacylglycerides.
+Understanding basics of lipid bilayer around a cell
+Active transport, diffusion, and facilitated 
+Small molecules can diffuse through bilayer (CO2, H2O, etc.)
+Chapter 19: Amino Acids and Proteins
+Structure of Zwitterions at Physiological, Acidic, and Basic pH
+Difference between primary, secondary, tertiary, and quaternary structures
+Primary is the amino acid backbone (sequence0
+Alpha helix and Beta sheets are secondary
+R- group interactions are tertiary
+Hydrolysis of proteins creates amino acids (destroys primary structure)
+How to classify amino acids based on their R groups (goes off Organic knowledge)
+Acidic, basic, hydrophilic, hydrophobic
+Alpha Helices and Beta Sheets are examples of Secondary Structures
+Know your Tertiary structures.
+Hydrogen bonding
+Hydrophobic interactions
+Salt Bridges = electrostatic interactions (same name)
+Disulfide linkages = disulfide bridge 
+Proteins mainly lose biological function due to denaturation (destruction of tertiary and secondary)
+Understand R groups that would be Hydrophobic or hydrophilic being outside or inside of protein
+Role of hemoglobin in the blood
+Chapter 20: Enzymes
+Know the major types of enzymes (especially the ones that go with metabolism)
+Lipase, protease, nuclease, amylase
+Enzymes are catalysts and are a protein
+Classification of Enzymes (oxidoreductase, isomerase, etc.)
+Know the Graphs for optimal enzyme performance (temperature, pH, substrate concentration or enzyme concentration) 
+Know how to read the graphs if needed.
+Competitive vs non-competitive vs irreversible inhibition
+Active site binding = competitive
+Be able to know the basic type of enzyme given a reaction.
+Basic function of Vitamin A, B, D, K
+Chapter 21: Nucleic Acids (DNA/RNA)
+Difference in the structure of DNA vs RNA
+Know the structural difference between deoxyribose and ribose
+Know the structural difference between a pyrimidine and purine
+Viral Genetic Information
+Replication occurs in the nucleus, transcription, and translation occur outside
+Know the basic enzyme names used in Replicaiton
+Be able to determine complementary DNA or RNA Strands
+Basic concepts of Protein translation with codons (mRNA) and anti-codons (tRNA)
+Codon binds to the anti-codon via hydrogen bonding
+tRNA bonds to amino acid vs amino-acyl bond
+Chapter 22: Carbohydrate Metabolism
+Know Oxidation/Reduction Coenzymes
+Oxidation is taking away hydrogens (adding oxygen)
+Reduction is Adding hydrogens (removing oxygen)
+Know the latin terms… it can help know what each metabolic function is
+KNOW YOUR COENZYMES
+ (oxidation of alcohol, aldehyde, sulfide linkage)
+ (oxidation of saturated hydrocarbon to unsaturated)
+CoA – generally removes CO2 or assists in breaking 
+ATP/ADP – adding or removing a phosphate
+Know the list of Reactions with their coenzymes
+Be able to see a reactant and product… label the reaction or coenzyme
+Pyruvate Pathways: Aerobic leads to Acetyl CoA and Anaerobic leads to Lactate in HUMANS
+Chapter 23: Energy Production (Citric Acid Cycle to ETC)
+Energy amount of foods. 
+4 kcal/g for carbs and proteins and 9 kcal/g for lipids
+Understanding that chemical energy is being converted to mechanical energy (movement)
+NADH and FADH2 is brought to the Mitochondria to be oxidized 
+It loses it electrons (LEO) and gives it to the mitochondria (GER)
+Recognize that intermediates are possible in the Citric Acid (from the list of reactions)
+NADH (2.5) generates more ATP than FADH2 (1.5)
+Chapter 24: Protein and Lipid Metabolism
+Know how to many cycles of Beta Oxidation are required for a fat
+Know how to calculate the number of NADH, FADH created through Beta Oxidation
+Know how to calculate the number of acetyl-CoA’s generated through Beta oxidation

@@ -1,0 +1,90 @@
+Dr. Dan Review Exam #3                                                         CHEM 3B Fall 2022 1
+
+
+
+Chemistry 3B – Exam 3 – Chapters 15, 17, 19, 20
+Key Skills
+This document provides a list of key skills from each chapter that students are expected to be
+able to perform for the exam. Skills may be tested individually, combined with other skills, or
+not at all. Although the exam will primarily focus on chapters since the previous exam, students
+are expected to know concepts from earlier in the semester such as identifying functional
+groups, chiral carbons and isomers, and common reactions of each functional group (oxidation,
+reduction, addition, hydrolysis, etc)
+
+    •   The reference sheet provided will have Fischer projections of monosaccharides, amino
+        acids names. The D- and L- notation will not be specified.
+    •   The reference sheet will also provide line-structures of common fatty acids with names.
+    •   Remember the reference sheet will not include how to draw Haworth Projections
+
+Additional Practice Problems from the Book
+Ch 15: 7, 9, 15, 17, 21, 23, 25, 33, 34, 35, 37, 39, 41, 43, 47, 55, 57, 65, 67, 71
+Ch 17: 7, 9, 11, 13, 19, 21, 29, 31, 33, 35, 37, 39, 43, 45, 47, 57, 75, 79
+Ch 19: 5, 7, 9, 11, 13, 17, 19, 25, 27, 29, 31, 33, 35, 51, 53, 57
+Ch. 20: 1, 3, 9, 11, 13, 17, 21, 25, 35, 39, 41, 55, 57, 59 , 61, 63, 71, 73, 81
+
+Chapter 15
+    •   Classify a carbohydrate as an aldose, ketose, and indicate the number of carbon atoms
+    •   Identify and draw the D- and L- configurations (Fischer Projections) for
+        monosaccharides
+    •   Classify a carbohydrate as a monosaccharide, disaccharide, or polysaccharide
+    •   Know which monosaccharides make-up the disaccharides and polysaccharides we
+        discussed and how they are joined together (glycosidic bond numbering)
+    •   Describe the relationship between two carbohydrate molecules (enantiomers, epimers,
+        etc).
+    •   Convert from Fischer projection to Haworth projection.
+    •   Identify which carbon is the anomeric carbon
+    •   Draw the α and β anomers
+    •   Draw the product of oxidation/reduction reactions of monosaccharides
+    •   Identify carbohydrates as reducing sugars – and know what structural feature makes it a
+        reducing sugar.
+    •   Identify the numbering of glycosidic linkages between monosaccharide units given drawing of
+        disaccharide and determine if it is α or β linkage.
+    •   Identify a reaction as a condensation reaction, or hydrolysis reaction.
+    •   Be able to tell which where bonds break, and new bonds form, and identify functional groups
+        involved.
+    •   Describe the structural similarities and differences between amylose, amylopectin, cellulose,
+        and glycogen
+Dr. Dan Review Exam #3                                                           CHEM 3B Fall 2022 2
+
+
+Chapter 17
+   •   Classify lipids based on molecular structure as being: fatty acid, wax, triacylglycerols,
+       glycerphospholipids, sphingolipids, steroids, fat-soluble vitamins or eicosanoids.
+   •   Identify lipids, based on structure, as being hydrolyzable or non-hydrolyzable.
+   •   Identify lipids, based on structure, as being saturated, monounsaturated or polyunsaturated.
+   •   If unsaturated, identify the isomer as being cis or trans
+   •   If unsaturated, identify location of double bond based on omega nomenclature
+   •   Predict which fatty acid, wax, or triacylglycerol would have the lowest/highest boiling point or
+       melting point based on structure.
+   •   Match lipid classification to descriptions of biological function
+   •   Draw the products of the formation of (condensation), or hydrolysis of, a hydrolyzable lipid
+       (wax, triacylglycerol, etc.)
+
+
+Chapter 19
+   •   Given structures of amino acids, classify the amino acid R group as being acidic, basic, polar,
+       non- polar, hydrophilic and/or hydrophobic
+   •   Using the Zwitterion form of an amino acid as a reference point, draw the structure at pH’s
+       above/below the isoelectric point.
+   •   Draw the structure of a peptide and give the three-letter or one-letter abbreviations for the
+       peptide
+   •   Match the name of a peptide to the structure
+   •   Describe the distinctions between a protein’s primary, secondary, tertiary and quaternary
+       structure
+   •   Draw the structure(s) of the products/reactants for the condensation of two amino acids or
+       hydrolysis of a dipeptide.
+   •   Distinguish between protein hydrolysis and protein denaturization.
+   •   Describe various ways to denature a protein.
+
+
+Chapter 20
+   •   Describe enzymes and their role in biological reactions
+   •   Describe models of enzyme action (induced fit, lock & key).
+   •   Classify enzymes by the type of reaction they catalyze (given a chemical equation of an enzyme
+       catalyzed reaction, or description of it.)
+   •   Describe the effect of changes of temperature, pH, and concentration on enzyme activity
+   •   Describe the role of allosteric enzymes, feedback control, and covalent modification in
+       regulating enzyme activity.
+   •   Describe competitive/non-competitive inhibition and reversible/irreversible inhibition
+   •   Describe the types of cofactors found in enzymes.
+

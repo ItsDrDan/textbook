@@ -1,0 +1,469 @@
+# Lecture 19 and 20 Chapter 17 - Lipids.pptx  (67 slides)
+
+--- slide 1 ---
+Lipids
+Chapter 17
+
+--- slide 2 ---
+Learning Goals – Lipids!
+Classify lipids based on molecular structure as being: fatty acid, wax, triacylglycerols, glycerphospholipids, sphingolipids, steroids, fat-soluble vitamins or eicosanoids.
+Identify lipids, based on structure, as being hydrolyzable or non-hydrolyzable.
+Identify lipids, based on structure, as being saturated, monounsaturated or polyunsaturated.
+If unsaturated, identify the isomer as being cis or trans
+If unsaturated, identify location of double bond based on omega nomenclature
+Predict which fatty acid, wax, or triacylglycerol would have the lowest/highest boiling point or melting point
+Match lipid classification to descriptions of biological function
+Draw the products of the formation of (condensation), or hydrolysis of, a hydrolyzable lipid (wax, triacylglycerol, etc.)
+
+--- slide 3 ---
+Lipids
+Lipids are biomolecules that are soluble in non-polar solvents and insoluble in water.
+Store chemical energy (triglycerides)
+Materials in membranes (phospholipids)
+Chemical messengers (steroids)
+Lipids do not have one distinctive functional group. 
+Carboxylic Acids, Esters, alcohols, ketones, alkenes, etc..
+Lipids contain many non-polar C-C and C-H bonds and a few polar bonds
+water insoluble
+
+--- slide 4 ---
+Examples of Lipids
+
+--- slide 5 ---
+Types of Lipids: Flow Chart
+There are many types of lipids that can be generally divided into two categories: hydrolyzable lipids and non-hydrolyzable lipids
+
+--- slide 6 ---
+Non-hydrolyzable lipids
+Non-hydrolyzable lipids:
+Are lipids that cannot be cleaved into smaller molecules by aqueous hydrolysis.
+Do not contain ester linkages.
+
+--- slide 7 ---
+Hydrolyzable lipids
+Hydrolyzable lipids:
+Are lipids that can be converted into smaller molecules by hydrolysis.
+Contain ester linkages.
+
+--- slide 8 ---
+Hydrolyzable Lipids: Derivatives of Fatty Acids
+Identify lipids, based on structure, as being saturated, monounsaturated or polyunsaturated.
+If unsaturated, identify the isomer as being cis or trans
+If unsaturated, identify location of double bond based on omega nomenclature
+Predict which fatty acid, wax, or triacylglycerol would have the lowest/highest boiling point or melting point
+
+--- slide 9 ---
+Fatty Acids
+Hydrolyzable lipids are derived from fatty acids
+Fatty acids are carboxylic acids (RCOOH) with long carbon chains (12-20 C atoms)
+
+--- slide 10 ---
+Saturated Fatty Acids
+Saturated fatty acids have no double bonds in their long hydrocarbon chains.
+Saturated with hydrogen (max number of hydrogens)
+Stearic acid
+
+--- slide 11 ---
+Unsaturated Fatty Acids
+Unsaturated fatty acids have 1 or more double bonds (generally cis) in their long hydrocarbon chains.
+Oleic acid
+
+--- slide 12 ---
+Intermolecular Forces: Packing
+As the number of cis-double bonds in the fatty acid increases, the melting point decreases.
+The double bonds prevent the chains from packing well, resulting in fewer Van der Waals interactions
+Explain this in terms of intermolecular forces:
+
+--- slide 13 ---
+Attendance
+Top Secret Code Word for 10/23 is lipid
+
+--- slide 14 ---
+Warm Up
+Using the Pink Sheet, 
+Draw the condensed structures of lauric acid and oleic acid. 
+Determine if they are saturated, monounsaturated, or polyunsaturated fats
+Which will have a lower melting point?
+[notes] CH3(CH2)16-COO-(CH2)29-CH3
+
+--- slide 15 ---
+Common Saturated Fatty Acids
+Saturated fatty acids are solids at room temperature.
+
+--- slide 16 ---
+Common Unsaturated Fatty Acids
+Unsaturated fatty acids are liquids at room temperature.
+
+--- slide 17 ---
+Unsaturated Fatty Acids: Omega
+Linoleic acid is called an omega-6 acid, because of the position of the first C=C in the nonpolar chain.
+Linolenic acid is called an omega-3 acid, because of the position of the first C=C in the nonpolar chain.
+[notes] Omega – last letter in the Greek alphabet
+Counting from methyl end of carbon chain
+
+--- slide 18 ---
+Practice
+Which fatty acid is expected to have the lowest melting point?
+CH3(CH2)14CO2H
+CH3(CH2)16CO2H
+CH3(CH2)7CH=CH(CH2)7CO2H (cis)
+CH3(CH2)4CH=CHCH2CH=CH(CH2)7CO2H (all cis)
+
+--- slide 19 ---
+Hydrolyzable Lipids: Waxes
+Waxes are esters formed from a fatty acid and a high molecular weight alcohol.
+Condensation: Molecules join, small molecule (H2O) lost
+[notes] Start here
+
+--- slide 20 ---
+Hydrolysis of Waxes
+Like other esters, waxes are hydrolyzed with water in the presence of acid or base to re-form the carboxylic acid and alcohol from which they were prepared.
+Hydrolysis: water splits molecule
+
+--- slide 21 ---
+Practice
+Write the condensed structural formula for the wax produced from stearic acid and CH3(CH2)28CH2OH
+Learning goal: Draw the products of the formation of (condensation), or hydrolysis of, a hydrolyzable lipid (wax, triacylglycerol, etc.)
+[notes] CH3(CH2)16-COO-(CH2)29-CH3
+
+--- slide 22 ---
+Hydrolyzable Lipids:Triacylglycerols (Fat & Oil)
+Triacylglycerols (triglycerides) are triesters formed from glycerol and three molecules of fatty acids.
+[notes] Tri-acyl-glycerols
+
+Start here Day II
+
+--- slide 23 ---
+Fat and Oil
+Saturated triacylglycerols contain only saturated fatty acids
+Solid at room temperature
+Animal fat
+Major form of energy storage
+Unsaturated triacylglycerols contain at least one unsaturated fatty acid
+Liquids at room temperature (cis)
+Vegetable Oil
+[notes] During hibernation their stored fat in the form of triacylglycerols is their only source of energy.
+
+--- slide 24 ---
+Practice
+Draw the condensed structural formula for the triacylglycerol containing three molecules of myristic acid:
+	CH3(CH2)12COOH.
+Note: You need to know the structure of glycerol for future exams
+
+--- slide 25 ---
+Trans-fats in Food
+Saturated fat has no double bonds
+Saturated with hydrogens
+Unsaturated fats can be cis or trans
+Trans configuration more stable
+Fats added to processed food to provide desirable texture, taste, and firmness
+Can by hydrogenated with H2 in presence of Ni or Pd catalyst
+Controlling the degree of hydrogenation controls the melting point of the product
+Diets high in saturated or trans fatty acids raise the ratio of LDL to HDL cholesterol and increase risk of cardiovascular disease.
+
+--- slide 26 ---
+Triacylglycerols – Health & Medicine
+Trans fat has a similar 3D shape to saturated fats: Act like saturated fats in the body
+A high intake of saturated triacylglycerols is linked to heart disease.
+Saturated fats stimulate cholesterol synthesis, which can lead to cholesterol plaques building up inside arteries.
+The result is high blood pressure, heart attack, and even stroke.
+
+--- slide 27 ---
+Triacylglycerols – Acid Hydrolysis
+Triacylglycerols are hydrolyzed with water in the presence of an acid, base, or the lipase enzyme (in the body).
+Hydrolysis: water splits molecule
+
+--- slide 28 ---
+Triacylglycerols – Hydrolysis
+To metabolize triacylglycerols for energy, the esters are hydrolyzed by enzymes called lipases
+Complete metabolism of a triacylglycerol yields CO2, H2O, and a great deal of energy. 
+
+--- slide 29 ---
+Olestra® (Sucrose Polyester) 
+Approved by the FDA in 1996
+Substitute for fat in foods to reduce cholesterol.  
+Non-absorbable lipid.
+Made by esterifying all –OH groups on sucrose
+Ester groups are too hindered to be hydrolyzed
+Mixture of hexa-, hepta-, and octa-fatty acid esters 
+No caloric value
+Negates the body's ability to absorb essential fat-soluble vitamins. Side effects included cramps, gas and loose bowels.
+[notes] Sucrose = glucose and fructose
+
+--- slide 30 ---
+Triacylglycerols – Base Hydrolysis
+Soaps are metal salts of fatty acids prepared by basic hydrolysis (saponification) with heating of a triacylglycerol.
+Hydrolysis: water splits molecule
+Acid/Base Neutralization: Carboxylic Acid formed reacts with base to form salt (and water)
+[notes] In lab: making soap! (and lotion)
+
+--- slide 31 ---
+Practice
+Write the equation for the reaction catalyzed by the enzyme lipase that hydrolyzes glyceryl trilaurate (trilaurin) during the digestion process.
+
+--- slide 32 ---
+Practice
+The reaction of a fat or oil to produce glycerol and fatty acid salts is an example of what kind of reaction?
+Condensation
+Hydrogenation
+Hydrolysis
+Oxidation
+[notes] Hydrolysis under basic conditions (salt formed)
+
+--- slide 33 ---
+Practice
+Complete saponification of a fat yields ______________.
+a) salts of fatty acids and glycerol
+b) fatty acids and glycerol
+c) salts of fatty acids and a glyceride
+d) fatty acids and a glyceride
+
+--- slide 34 ---
+Hydrolyzable Lipids: Phospholipids
+Phospholipids are lipids that contain a P atom.
+The alcohol is an amino alcohol.
+At physiological pH, 7.4, the amino alcohols are ionized.
+[notes] Phospho-acyl-glycerol
+
+Sphin-go-my-a-lin
+
+--- slide 35 ---
+Glycerophospholipids
+Glycerophospholipids are the main component of most cell membranes.
+Structurally, they resemble a triacylglycerol with a phosphodiester bonded to an alcohol replacing the third fatty acid.
+[notes] Phosphodiester: two OR attached to P=O
+
+--- slide 36 ---
+Glycerophospholipids
+Lecithin and cephalin are glycerophospholipids that
+are abundant in brain and nerve tissues.
+are found in egg yolk, wheat germ, and yeast.
+Lecithin is used in mayonnaise to prevent the water and fat components to separate.
+Fatty acid side chains form non-polar “tails”
+Phosphodiester end of molecule is charged or polar “head”
+
+--- slide 37 ---
+Cell Membranes
+The basic unit of living organisms is the cell
+When phospholipids are mixed with water, they assemble into a lipid bilayer.
+The polar heads orient on the outside to interact with polar water molecules.
+The nonpolar tails orient on the inside to avoid polar water molecules.
+
+--- slide 38 ---
+Cell Membranes: Transportation and Diffusion
+Substances are transported across a cell membrane by either diffusion, facilitated transport, or active transport.
+Diffusion: Small non-polar molecules (O2 and CO2) and lipid soluble substances (steroid hormones)
+higher to lower concentration (passive transport).
+Facilitated transport: Larger polar molecules need to  use protein channels to increase the rate of diffusion.
+Ions like Cl− or HCO3− travel through integral protein channels.
+Active transport: Other ions, Na+, K+, and Ca2+, move against the concentration gradient; this requires energy input.
+
+--- slide 39 ---
+Practice
+Which of the following polarity-based descriptions is correct for the interior of a lipid bilayer?
+ Polar heads
+ Nonpolar heads
+ Nonpolar tails
+ Polar tails
+
+--- slide 40 ---
+Practice
+What type of transport across membranes requires the expenditure of cellular energy?
+ Passive
+Facilitated
+Active
+
+--- slide 41 ---
+Attendance
+Top Secret Code Word for 10/28 is membrane
+
+--- slide 42 ---
+Phospholipids: Sphingophospholipids
+Sphingophospholipids (or Sphingolipid) do not contain a glycerol backbone, they have a sphingosine backbone instead.
+Sphingomyelins are a type of sphingolipid found around nerve cell axons in animals. They do not contain an ester; their single fatty acid is bonded to the backbone by an amide bond.
+[notes] phosphocholine or phosphoethanolamine as their polar head group
+
+--- slide 43 ---
+Sphingophospholipids
+Sphingomyelins found around neurons,
+are abundant in the myelin sheath.
+increases the speed of nerve impulses.
+insulates and protects the nerve cells.
+In multiple sclerosis, 
+sphingomyelin is lost from the myelin sheath, which protects the neurons in the brain and spinal cord.
+the myelin sheath deteriorates as the disease progresses.
+scars form on the neurons and impair the transmission of nerve signals.
+
+--- slide 44 ---
+Storage & Membrane Lipids
+
+--- slide 45 ---
+Steroids
+Steroids are a group of lipids whose carbon skeletons contain several fused rings.
+Steroids do not contain fatty acids.
+Non-hydrolyzable
+
+--- slide 46 ---
+Steroids: Cholesterol
+Cholesterol is
+synthesized in the liver.
+obtained in the diet from many sources, including meat, cheese, butter, and eggs.
+a component of cellular membranes, myelin sheaths, and brain and nerve tissues. 
+the precursor of all steroid hormones and bile acids.
+Elevated levels of cholesterol in the bloodstream lead to coronary artery disease, heart attack, etc.
+Cholesterol has a hydroxyl group on carbon 3
+
+--- slide 47 ---
+Steroids: Bile Salts
+Bile salts 
+Synthesized in liver from the oxidation of cholesterol.
+Stored in gallbladder and secreted into the small intestine.
+Help the absorption and digestion of dietary fats (act like soaps to make fat soluble in water).
+When large amounts of cholesterol accumulate in the gallbladder, gallstones are formed.
+
+--- slide 48 ---
+Steroids: Sex Hormones
+Steroid hormones are 
+produced from cholesterol.
+chemical messengers in cells.
+Two important classes of steroid hormones include sex hormones and adrenal corticosteroids.
+The female sex hormones are estrogens and progestins.
+The male sex hormones are called androgens.
+
+--- slide 49 ---
+Steroids: Female
+The progestin, progesterone, is called the “pregnancy hormone” ; it is responsible for the  preparation of the uterus for implantation of a fertilized egg.
+Progesterone-like analogs are used in oral contraceptives (preventing conception).
+Norethindrone has an antiovulatory activity.
+Supplemental Info
+
+--- slide 50 ---
+Sex Hormones: Male
+Androstenedione, a synthetic anabolic steroid, was allegedly used by Mark McGwire and Barry Bonds.
+Supplemental Info
+
+--- slide 51 ---
+Adrenal corticosteroids 
+Adrenal corticosteroids are produced by the adrenal glands in the kidneys.
+Mineralocorticoids regulate the electrolyte balance between Na+ and K+ ions. 
+Glucocorticoids regulate glucose level and inflammation.
+Supplemental Info
+[notes] Adrenal Cort-i-co-steroid
+
+Mineral-o-cort-i-coid
+Gluco-cort-i-coid
+
+--- slide 52 ---
+Adrenal corticosteroids: Mineralocorticoid
+Aldosterone, a mineralocorticoid, regulates blood pressure and volume by controlling the concentration of Na+ and K+ in body fluids.
+Aldosterone
+Supplemental Info
+
+--- slide 53 ---
+Adrenal corticosteroids: Glucocorticoids
+Cortisone and cortisol (hydrocortisone), glucocorticoids, serve as anti-inflammatory agents, which also regulate carbohydrate metabolism.
+Anti-inflammatory ointments contain hydrocortisone to reduce swelling and itching.
+cortisone
+cortisol
+Supplemental Info
+
+--- slide 54 ---
+Fat Soluble Vitamins
+Vitamins are organic compounds required in small quantities for normal metabolism and must be obtained from the diet.
+Vitamins are either water soluble or fat soluble.
+The four fat-soluble vitamins (A, D, E, and K) are found in fruits, vegetables, fish, liver, and dairy products.
+They are stored in adipose cells to be used when needed.
+
+--- slide 55 ---
+Lipophilic (Fat Loving) Vitamins 
+Vitamin A (Retinol)
+Vitamin D3 (Cholecalciferol)
+Vitamin E (a-Tocopherol)
+Vitamin K (Phylloquinone)
+
+--- slide 56 ---
+Fat Soluble: Vitamin A
+Vitamin A is found in liver, fish, and dairy products, and is made from β-carotene.
+It is needed for vision and for healthy mucous membranes.
+Vitamin A deficiency causes night blindness and dry eyes and skin.
+
+--- slide 57 ---
+Fat Soluble: Vitamin A from Carrots
+Vitamin A is made from β-carotene.
+[notes] Isoprene: 2-Methylbuta-1,3-diene
+
+--- slide 58 ---
+Fat Soluble: Vitamin D
+Vitamin D can be synthesized from cholesterol.
+Multi-step process that starts with UVB radiation from the sun on your skin
+It can be obtained in the diet from many foods, especially milk, and helps regulate Ca and K metabolism.
+A deficiency of vitamin D causes rickets (bone malformation).
+
+--- slide 59 ---
+Fat-Soluble: Vitamin E
+Vitamin E is an antioxidant, protecting unsaturated side chains in fatty acids from unwanted oxidation.
+Deficiency of vitamin E causes numerous neurological problems, although it is rare.
+
+--- slide 60 ---
+Fat Soluble Vitamin K
+Vitamin K regulates the synthesis of clotting proteins (prothrombin), and deficiency of this leads to excessive or fatal bleeding.
+
+--- slide 61 ---
+Eicosanoids
+Eicosanoids are 
+derived from the 20-carbon unsaturated fatty acids (eicosanoic acids).
+are not stored in cells, but rather synthesized in response to external stimulus. 
+Eicosanoids function as short-lived chemical messengers that act near their points of synthesis (“local hormones”). 
+Prostaglandins, leukotrienes and thromboxanes are three types of eicosanoids.
+[notes] (I – cos –an-oids)
+
+--- slide 62 ---
+Eicosanoids: Prostaglandins
+Prostaglandins contain a five-membered ring
+are formed from arachidonic acid, a polyunsaturated fatty acid with 20 carbon atoms.
+differ by the substituents attached to the five-carbon ring. 
+Prostaglandins are responsible for inflammation.
+There are two different cyclooxygenase enzymes responsible for prostaglandin synthesis called COX-1 and COX-2.
+
+--- slide 63 ---
+NSAID Pain Relievers
+Nonsteroidal anti-inflammatory drugs (NSAIDs) like aspirin and ibuprofen relieve pain and inflammation by blocking the synthesis of these molecules.
+They inactivate both COX-1 and -2,  but increase risk for stomach ulcer formation.
+Long-term use of such products can result in liver, kidney, and gastrointestinal damage.
+
+--- slide 64 ---
+Eicosanoids: Leukotrienes
+Leukotrienes have three double bonds (triene) that are conjugated (alternating double, single bonds)
+Produced in Leukocytes (white blood cells). 
+Responsible for inflammatory response. 
+Leukotrienes are molecules that contribute to the asthmatic response by constricting smooth muscle of the lung.
+New asthma drugs act by blocking the synthesis of leukotriene C4, which treats the disease instead of just the inflammation symptoms.
+[notes] Produced in Leukocytes (White blood cells)
+Role: Inflamation
+
+--- slide 65 ---
+Eicosanoids: Thromboxanes
+Thromboxanes have a 6-membered ether containing ring
+Thromboxanes promote platelet aggregation and vasoconstriction.
+Aspirin and other NSAIDs inhibit the synthesis of thromboxanes by inhibiting the COX enzyme.
+
+--- slide 66 ---
+Practice
+What is the family of lipids based on the general structure shown below.
+eicosanoids
+glycolipids
+sphingomyelins
+steroids
+
+--- slide 67 ---
+Conclusions
+Lipids vary in functional groups but all contain numerous non-polar carbon-carbon and carbon-hydrogen bonds making them water insoluble
+Lipids can be classified as:
+Hydrolyzable: Fatty-acid based lipids. Contain ester group that can be hydrolyzed to form carboxylic acid and alcohol
+Waxes
+Triacylglycerols: Fats and Oils
+Phospholipids: Cell Membranes
+Non-hydrolyzable: No ester group
+Steroids (Cholesterol, Estrogen, Progesterone, Testosterone)
+Fat Soluble Vitamins (A, D, E, K)
+Eicosanoids (Prostaglandins, leukotrienes and thromboxanes)

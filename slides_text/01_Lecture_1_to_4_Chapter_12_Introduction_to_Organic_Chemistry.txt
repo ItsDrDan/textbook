@@ -1,0 +1,743 @@
+# Lecture 1 to 4- Chapter 12- Introduction to Organic Chemistry.pptx  (83 slides)
+
+--- slide 1 ---
+CHEM 3B – Chapter 12
+Alkanes and Alkenes
+
+--- slide 2 ---
+Welcome! Chem 3B
+Introductions (aka. Attendance)
+Educational Philosophy
+Course Overview & Syllabus Highlights
+Introduction to Organic Chemistry
+What is Organic Chemistry? Why should I care?
+
+--- slide 3 ---
+About Me
+
+--- slide 4 ---
+Welcome to Chem 3B!!!
+Professor Daniel Kwasniewski, Ph.D (please call me Dr. Dan)
+Email: Daniel.Kwasniewski@fresnocitycollege.edu 
+”Open Door” Policy
+Please email me with any questions or concerns!!!
+1:03 PM
+Office Hours
+Monday: 		2:30 to 4:50 PM in NS-303
+Tuesday: 		2:30 to 3:20 PM in NS-303
+Wednesday:  	2:30 to 4:50 PM in NS-303
+Thursday:  	    2:30 to 3:20 PM in NS-303
+Friday:  			12:00 PM to 2:00 PM in NS-127 (GRASP)
+
+--- slide 5 ---
+Class Times
+T/Th from 3:30  to 4:50 PM is lecture
+This will cover the main portion of the material of the class
+In person-Lab
+(44048) Tuesday from 5:00 PM to 8:05 PM 
+(44052) Thursday at 5:00 PM to 8:05 PM 
+Pre-Lab is due before the start of lab (Graded on Both Completion/Correctness)
+Actual Experiment
+Post-Lab (goal is to get it done at the end of lab, but is due the following week)
+Study Hall Sessions are fun-filled activities to help prepare you for exams Lab Assignments
+Some Exams will be during lab time and may be followed by a short experiment. (biggest reason is to avoid rushing material)
+1:03 PM
+
+--- slide 6 ---
+Required Course Materials
+Textbook: General, Organic, and Biological Chemistry:
+   Author: Timberlake   Publisher: Pearson   Edition: 6th edition
+   Availability: Campus Book Store or Amazon.com 
+OR older edition… Differences
+CHEM 3B Lab Manual
+Eye Protection: Safety Splash Goggles 
+Lab Coat
+Calculator (Scientific Calculator with exp. and log functions)
+1:03 PM
+
+--- slide 7 ---
+Grading Breakdown
+4 Exams + Midterm – 45%
+lowest regular exam  is dropped
+Midterm is not dropped (ACS Introductory Organic Chemistry Exam)
+Quizzes – 5%
+Lowest Quiz score is dropped
+You will have one week to take the quiz on canvas with unlimited attempts
+Lab Reports – 20%
+Actual Experiment
+Post-Lab (goal is to get it done at the end of lab, but is due the following week)
+Lowest Pre-Lab/Post Lab is dropped
+Homework – 15%
+Lowest score regular hw - dropped
+Pre-Labs and Mini-Lecture HW - lowest 2 are dropped
+Mini-Lecture Videos – 5% - drop lowest 2 scores
+Final Exam –ACS Biochemistry Science Exam - 10%
+1:03 PM
+
+--- slide 8 ---
+Course Overview: Two Course in One!
+Midterm
+Final Exam
+Exam 2
+Exam 1
+Exam 3
+Exam 4
+
+--- slide 9 ---
+This is a lot… what if I need help?
+Office Location: NS-303 
+Official Office Hours - 
+Monday: 2:30 PM to 3:50 PM in NS-303 
+Tuesday: 2:30 PM to 3:20 PM in NS-303 (before class)
+Wednesday : 2:30 PM to 3:50 PM in NS-303 
+Thursday: 2:30 PM to 3:20 PM in NS-303 (before class)
+Friday: 12:00 to 2:00 PM in GRASP in NS-127
+Online or other Office Hours - just send me an email and I can try to set time aside for you.
+GRASP! Every Friday for Chemistry 
+ETC/Drop In Tutoring- I would recommend living at ETC/Tutoring Center
+"Open Door" Policy - I am generally here every weekday, if my door is open you are welcome to stop into my office (NS-303) and ask questions regarding course and lab material. If I am busy, I will ask you to come back later. There is a big study area outside of my office as well that we can use to study, too! Look for the Periodic Table Blanket.
+Email: When in doubt, you can always send me an email to schedule a time, ask a question, or reach out for help. Just please include your class and section number in the email subject line
+
+--- slide 10 ---
+CHEM 3B – Chapter 12
+Alkanes and Alkenes
+
+--- slide 11 ---
+What is Organic Chemistry
+
+--- slide 12 ---
+Organic Chemistry
+Old definition: the study of organic compounds are derived from living sources, i.e. organisms. 
+Modern definition: the study of compounds of carbon
+Carbon + Hydrogen, nitrogen, oxygen
+Sometimes: Phosphorous, Sulfur, and Halogens (Fluorine, Chlorine, Bromine, Iodine)
+Carbohydrates, fats (lipids), proteins, enzymes, nucleic acids, hormones, and vitamins are organic compounds.
+Even plastics are organic
+
+--- slide 13 ---
+Organic vs. Inorganic Compounds
+Organic compounds exist as discrete molecules. They are all molecular compounds. 
+Inorganic Compounds can be molecular or ionic.
+Molecular compounds are held together by covalent bonds (electrons are shared)
+Ionic compounds are held together by ionic bonds (electrostatic attraction between opposite charges)
+Intermolecular forces between molecules are much weaker than the forces between ions in ionic compounds.
+Molecular compounds tend to have lower melting points and boiling points than ionic compounds
+At room temperature, gases and liquids tend to be molecular compounds. Solids are either really big molecules or ionic compounds.
+
+--- slide 14 ---
+Organic vs. Inorganic Compounds
+Your book tends to make generalizations about properties as that of organic vs. inorganic instead of molecular vs. ionic. 
+Properties are more accurately generalized by molecular vs. ionic compounds.
+
+--- slide 15 ---
+Functional Groups
+Organic molecules as classified by functional groups
+Chemical Properties and Reactions of organic molecules are determined by the functional groups on the molecule
+A given functional group tends to undergo the same reactions in every molecule that contains it.
+A functional group is a heteroatom, a multiple bond, or sometimes both.
+A heteroatom is any element that is not carbon or hydrogen
+A molecule can have more than one functional group
+The letter R is used to abbreviate the carbon-hydrogen (unimportant) part of the molecule.
+=    R-OH
+
+--- slide 16 ---
+Organic Functional Groups
+The function of a molecule is dictated by the functional groups on the molecule.
+We will learn these functional groups over the first half of the semester, but the sooner you learn these the better.
+	Flashcards!
+
+--- slide 17 ---
+The Language of Organic Chemistry
+Communicating Organic Molecule Structures
+
+--- slide 18 ---
+All the same elements
+Organic molecules all contain similar elements
+C, H, N, O, etc
+Molecules with similar composition can have very different properties because of different structures
+Even molecules with the same molecular formula can have very different properties!
+Molecules with the same molecular formula, but different structures are called isomers
+Molecular Formula: C2H6O
+Always draw the structure!
+
+--- slide 19 ---
+Drawing Structures
+Atoms try to get a “Noble Gas” electron configuration 
+Period 1: H and He can have 2 electrons max
+Period ≥2: 8 valence electrons 
+Octet Rule!
+Element | Group # (Periodic Table) | Number Valence | Lewis Dot | Number of Bonds
+H | 1 | 1 |  | 1
+C | 14 | 4 |  | 4
+N | 15 | 5 |  | 3
+O | 16 | 6 |  | 2
+Cl | 17 | 7 |  | 1
+Unpaired electrons can form bonds
+“Lone Pairs” non-bonding
+
+--- slide 20 ---
+Structural Formulas: Lewis Dot Structure
+Lewis Dot Structure
+Electrons are shown as dots
+Lines represent a covalent bond between atoms
+1 line = 2 shared electrons (single bond)
+2 lines = 4 shared electrons (double bond)
+Octet Rule (8 electrons)
+Carbon: 4 covalent bonds, 0 Lone Pair
+Nitrogen: 3 covalent bonds, 1 Lone Pair
+Oxygen: 2 covalent bonds, 2 lone pairs
+Hydrogen will always have just one covalent bond (duet)
+Total electrons
+2(C) + 2(O) + 4(H) = 
+2(4 e-) + 2(6 e-) + 4(1 e-) = 24 e- 
+
+--- slide 21 ---
+Charges
+ | Carbon | Nitrogen | Oxygen
+Positive (+) | 3 bonds, 0 LP
+
+ | 4 bonds, 0 LP | 3 bonds, 1 LP
+NEUTRAL | 4 bonds, 0 LP
+
+ | 3 bonds, 1 LP | 2 bonds, 2 LP
+Negative
+(-) | 3 bonds, 1 LP
+
+ | 2 bonds, 2 LP(doesn’t happen) | 1 bond, 3 LP
+An atom will have a positive (+) charge when:
+Electron deficient
+More bonds/Less Lone Pairs than usual
+An atom will have a negative (-) charge when:
+Electron rich
+Less bonds/More lone pairs than usual
+
+--- slide 22 ---
+Practice
+Which Lewis Dot structures have errors?
+What is the error?
+Too many electrons!
+Carbon negative
+Oxygen negative
+Neutral molecule:
+2(Cl) + 1(C) + 1(O) = 24 e-
+Correct!
+Correct!
+Doesn’t satisfy “Octet Rule”
+Oxygen only has 6 e-
+Hydrogen can’t form 2 bonds (4 e-)
+
+--- slide 23 ---
+The Language of Organic Chemistry
+Communicating Organic Molecule Structures
+(Continued)
+
+--- slide 24 ---
+Communicating Structure
+Molecules are three-dimensional objects. How the atoms are connected distinguishes one molecule from another. 
+
+--- slide 25 ---
+Molecular Shapes
+In Chem 3A, you learned about VSEPR theory and names of molecular geometries (shapes)
+Trigonal Planar
+Linear
+Bent
+Trigonal Pyramidal
+Tetrahedral
+Want to review?See Chapter 6 of your current textbook
+[notes] Last slide covered Fall 2018 – Day 1
+
+--- slide 26 ---
+Molecular Models (3D)
+Molecular Models convey the three-dimensional arrangement connectivity of atoms
+A) Space-Filling: Elements are color-coded. Most accurate because electron clouds are merged. 
+B) Ball and Stick: Elements are color-coded. Bonds between atoms are shown as sticks.
+C) Wedge-Dash: Element symbols are used. Lines show bonds in-plane of paperWedges show bonds coming out of plane.Dashes show bonds going behind plane
+
+--- slide 27 ---
+Practice
+Acetic Acid is the acid found in Vinegar
+Draw a Wedge-Dash model from the following Ball and Stick Model
+What is the geometry around each carbon?
+What is the ideal bond angle for each?
+Tetrahedral
+109.5o
+Trigonal Planar
+120o
+
+--- slide 28 ---
+Structural Formulas (2D)
+Structural Formulas communicate in 2-dimensions how the atoms are connected together to form the molecule.
+One or two letter abbreviations are used to indicate elements
+There are different kinds of structural formulas with varying level of detail.
+3D Ball and Stick Model:
+Lewis Dot Structural Formula
+Expanded Structural Formula
+Condensed Structural Formula
+Skeletal Formula
+
+--- slide 29 ---
+Structural Formulas: Expanded and Condensed
+Expanded Structural Formula
+(Complete Structural Formula)
+Based on Lewis Structures
+Shows all the bonds as lines
+No dots for electrons
+Condensed Structural Formula
+Atoms bonded to Carbon are grouped together
+Bonds between C-H are implied
+Bonds between C-O or other heteroatom can be drawn or implied
+CH3 — COOH
+CH3—C(=O) — OH
+CH3COOH
+
+--- slide 30 ---
+Structural Formulas: Condensed
+A condensed formula is a shorthand way of drawing structures in which:
+Bonds to carbon are understood rather than shown
+Atoms bonded to each carbon listed after the carbon
+Reading a book from left to right
+ 1      2      3      4
+1        2         3        4
+
+--- slide 31 ---
+Structural Formulas: Condensed
+ In a condensed formula:
+Identical groups can be condensed further
+Shown once in parentheses, with a subscript indicating the number of methylene units strung together. 
+Both are correct condensed structural drawings. They are convey the same structure. 
+
+--- slide 32 ---
+Example
+The aroma (smell) of things are due to volatile organic compounds (VOCs). Many molecules contribute to the aroma of old books, including the molecule below. 
+Write the Condensed Structural formula for this molecule
+CH3—CH2—CH2—CH2—C(CH2CH3)-CH2-OH
+CH3(CH2)3CH(CH2CH3)CH2OH
+
+--- slide 33 ---
+Study Check
+Convert the following into a condensed structure:
+CH3CH2CH2OCH2Cl
+CH3(CH2)2OCH2Cl
+[notes] CH3CH2CH2OCH2Cl
+
+--- slide 34 ---
+Structural Formulas: Incorrect Condensed
+The point of structural formulas is to show how atoms are connected together
+Do not “Condense” to the point where atom connectivity becomes unclear
+It is OK to write H’s to the left of C in order to show the bonds between C’s
+Correct
+Incorrect
+CH2CH2CH2CH2CH2CHOH
+(CH2)5CHOH
+These do not convey the ring shape!
+
+--- slide 35 ---
+Structural: Line/Skeletal/Geometric
+Line-Angle Structures (aka Line Structures, or Skeletal Structures) are the most simplistic representation of an organic molecule
+Fast to draw (Chemists are Lazy)
+Bonds between carbon atoms drawn as lines. 
+Carbon atoms are implied at vertices.
+Hydrogens bonded to carbon atoms are implied. Enough so carbon has 4-bonds
+All heteroatoms (non-C) are explicit (written) and any H’s bonded to them
+
+--- slide 36 ---
+Example/Practice
+Line Structures are widely used to communicate structures in organic chemistry. Organic molecules can form complex geometries
+Practice converting each of these line structures to condensed structural formulas.
+
+--- slide 37 ---
+Study Check
+Draw the line-structure for cyclopentanol
+
+--- slide 38 ---
+Classification of Organic Molecules
+Functional Groups!
+
+--- slide 39 ---
+Example
+Circle & name the functional groups in Vitamin B5 (pantothenic acid)
+Alcohol
+Alcohol
+Amide
+Carboxylic Acid
+
+--- slide 40 ---
+Alcohol
+Aldehyde
+Practice
+Circle the functional groups present in the following molecules:
+Don’t worry about naming the different groups… for now
+D-glucose
+aspartame
+Benzene(Phenyl)
+Ester
+Amide
+Amine
+Carboxylic acid
+Alcohol
+Alcohol
+Alcohol
+Alcohol
+[notes] Explicit: Aspartame- not ketone, not amine, not alcohol.
+Carbonyls have resonance with neighboring N or O, that’s why it’s treated as one unit
+
+--- slide 41 ---
+Outline
+Recap from last time: Key lessons learned
+Hydrocarbons
+Isomers
+Branched and cyclic compounds
+Speaking Organic Nomenclature
+Anatomy of a name (dissection)
+Practice, Practice, Practice
+
+--- slide 42 ---
+Hydrocarbons
+Our first functional groups: Alkanes, Alkenes, Alkynes
+
+--- slide 43 ---
+Hydrocarbons
+Hydrocarbons are composed only of carbon and hydrogen atoms.
+Saturated hydrocarbons contains only single carbon-carbon bonds
+(aka Alkanes)
+i.e. saturated with hydrogen. They have the maximum number of H’s per C.
+The general formula for acyclic alkanes is CnH2n+2 where n is the number of carbons in the compound.
+Acyclic means not part of a ring (circular loop of carbons)
+Octane
+
+--- slide 44 ---
+Hydrocarbons: Unsaturated
+Unsaturated hydrocarbons contains one or more multiple bond (double or triple bond)
+Alkenes contain a carbon–carbon double-bond as their functional group.
+Alkynes contain a carbon–carbon triple-bond as their functional group.
+Aromatic compounds contain a six-membered ring of carbon atoms with three alternating double bonds.
+Carbon makes a total of 4 bonds
+
+--- slide 45 ---
+Branched and Cyclic Structures
+Organic molecules come in various shapes and sizes
+Straight-chain (n- normal)
+Branched (like trees)
+Cyclic (rings, polygons)
+Straight-chainAlkane
+Branched Alkane
+CyclicAlkane
+CyclicAlkene
+
+--- slide 46 ---
+Branched Alkanes
+Classification of Carbon Atoms:
+A primary carbon (1o C) is bonded to one other C.
+A secondary carbon (2o C) is bonded to two other C.
+A tertiary carbon (3o C) is bonded to three other C.
+A quaternary carbon (4o C) is bonded to four other C.
+If a hydrocarbon:
+How many hydrogens would be on each?
+
+--- slide 47 ---
+Branched Structures: Condensed Structures
+For branched molecules: Condensed structural drawings can show some bond lines to show specific bonding.
+Or the branched group may be put in parentheses (Look to the left to see what branch is connected to)
+CH3CH(CH3)CH2CH3
+
+--- slide 48 ---
+Study Check
+Convert the following line structure (skeletal) drawing into a condensed structural drawing
+
+--- slide 49 ---
+Isomers
+Structural Isomers and Conformations 
+
+--- slide 50 ---
+Isomers
+Isomers: Same molecular formula, different bonding arrangement
+This is where we are now
+(We will learn this side later)
+
+--- slide 51 ---
+Structural Isomers
+These molecules are structural (Constitutional) isomers: C10H22
+Structural formulas and drawings need to convey how atoms are connected
+Order matters (Don’t rearrange atoms for the sake of condensing)
+Can you draw another isomer of this compound? (There’s lots!)
+
+--- slide 52 ---
+Not Structural Isomers (Same Molecule)
+Molecules are 3D and constantly in motion 
+It can be drawn from another view or another conformation
+Single bonds can rotate
+Double bonds and triple bonds cannot
+Conformers are different rotations of the same molecule
+
+--- slide 53 ---
+Isomers or Not?
+Do the structural formulas in each set represent the same compound or constitutional isomers?
+[notes] Same molecule
+Constitutional isomers
+
+Strategy: find terminal CH3 groups, count C’s in between
+
+--- slide 54 ---
+Nomenclature
+Anatomy of Organic Molecule Names
+
+--- slide 55 ---
+Systematic Nomenclature
+The system of naming (nomenclature) was devised by the International Union of Pure and Applied Chemistry, IUPAC
+Devised so that you can determine structure based on name alone
+Memorize some naming rules, not millions of unique common names!
+Common Name:
+Cinnamaldehyde
+IUPAC Name:
+3-phenyl-2-propenal
+[notes] Like having an alphabet with standard(ish) letter sounds allows you to (attempt) to pronounce words you’ve never heard before
+
+--- slide 56 ---
+The Basics
+The parent name indicates the number of C’s in the longest continuous carbon chain in the molecule.
+The suffix indicates what functional group is present.
+The prefix tells the identity, location, and number of substituents attached to the carbon chain.
+
+--- slide 57 ---
+Dissection
+The parent name indicates the number of C’s in the longest continuous carbon chain in the molecule.
+prop = 3 carbons in longest chain
+The suffix indicates what functional group is present.
+en(e) = There is a double bond between carbons
+al = aldehyde
+The prefix tells the identity, location, and number of substituents attached to the carbon chain.
+3-phenyl: An aromatic benzene ring is located off the 3rd carbon
+2-: Location of double bond. Starts at 2nd carbon
+3-phenyl-2-propenal
+
+--- slide 58 ---
+Parent chain
+The parent chain is the longest carbon chain that contains the primary functional group
+The parent chain may not be drawn in a straight line
+Strategy: Circle all the terminal CH3 groups. Count the number of carbons between different pairs
+What’s the longest chain in this molecule?
+[notes] nine
+
+--- slide 59 ---
+Numbering of Carbons (parent chain and alkyl groups)
+Number of carbons 1-4  special prefixes
+Number of carbons 5-10+  standard (pentagon, hexagon, etc..)
+
+--- slide 60 ---
+Suffixes for Parent
+Suffixes include information about what the main functional group is.
+If there is more than one functional group, the “higher priority” group is the suffix, and the “lower priority” group becomes a prefix
+-ane and –ene suffixes are used with other suffixes (just drop the e)
+Your vocabulary of suffixes right now is “-ane”
+Each suffix will be introduced as we learn about that functional group.
+alkynes
+-yne
+
+--- slide 61 ---
+Basic Molecules
+What’s the name?
+[notes] Propane
+Butane
+
+--- slide 62 ---
+Dissection Practice
+Underline the prefix
+Draw a box around the parent name
+Circle the suffix 
+4-ethyl-2,3,6-trimethylnonane
+[notes] Prefix: 4-ethyl-2,3,6,-trimethyl
+Parent: non
+Suffix: ane
+
+--- slide 63 ---
+Numbering the Parent Chain
+The parent chain needs to be numbered to indicate which carbons the substituents (other groups) are bonded to
+Number carbons to minimize # of 1st substituent
+1
+2
+3
+4
+1
+2
+This direction, the 1st substituent is on the 2nd carbon of the main chain
+This direction, the 1st substituent is on the 4th carbon of the main chain
+This way
+Not this way
+
+--- slide 64 ---
+Prefixes (Types of Substituents)
+An Alkyl group is a carbon chain that branches off the main parent
+Same names for the number of carbons with “-yl” ending
+Methyl, ethyl, propyl, etc. 
+If there are more than one of the same group, prefixes di-, tri-, tetra- etc are used to indicate how many there are
+In name, alphabetize groups (ignore di-, tri-, prefixes)
+ethyl
+methyl
+methyl
+methyl
+
+--- slide 65 ---
+Discussion
+Can you have an alkyl (carbon chain) branch at carbon #1?
+What is the longest alkyl branch you can have at carbon #2?
+
+--- slide 66 ---
+Study Check
+Find the parent chain and number the carbons of the parent chain
+How many carbons? Name?
+Circle the alkyl groups that branch off the parent chain
+How many carbons? Name?
+[notes] 2,3-dimethylhexane
+
+--- slide 67 ---
+Putting it all together
+Parent chain: 6 carbons = hex
+Suffix: all single bonds, no other functional groups = alkane = -ane 
+Prefix: two methyl groups (dimethyl) 
+Location: parent carbon 2 and 3
+2,3-dimethyl
+[notes] 2,3-dimethylhexane
+
+--- slide 68 ---
+Study Check
+Give the IUPAC name for the following compound
+[notes] Answer:  5-ethyl-2,6-dimethyloctane
+
+--- slide 69 ---
+A Few more Prefixes
+Halogens
+Like alkyl- groups: Number parent chain, indicate location with number
+Fluorine = floro
+Chlorine = chloro
+Bromine = bromo
+Iodine = iodo
+Cyclic Structures
+Count the number of carbons
+Add a “cyclo-” prefix
+1st substituent is #1 carbon 
+Example:
+Hexane
+cyclohexane
+2-chlorohexane
+chlorocyclohexane
+
+--- slide 70 ---
+Study Check
+
+--- slide 71 ---
+Properties of Alkanes
+[notes] Do this in Lab
+
+--- slide 72 ---
+Uses for Alkanes depends on Properties
+Physical State | Uses | Examples
+Solid | Waxes
+Lubricants | Paraffin wax
+
+Liquid | Fuel
+Solvents | Gasoline
+Hexane
+Gas | Fuel | Natural gas
+
+--- slide 73 ---
+Physical State
+Substances are solid below their melting point
+Substances are liquid between their melting point and boiling point
+Substances are gases above their boiling point
+Intermolecular forces broken
+Chemical bonds between atoms intact
+GAS
+LIQUID
+SOLID
+
+--- slide 74 ---
+Bonds and Intermolecular forces
+Chemical Bonds
+Ionic Bonds
+Strong
+Form between metal and nonmetal atoms
+Electrons transferred
+Covalent Bonds
+Strong, but less than ionic
+Form between nonmetal atoms
+Electrons shared 
+Sharing may be unequal 
+Intermolecular forces
+Between Molecules
+All weaker than covalent bonds
+Hydrogen Bonds (strongest)
+Dipole-dipole (medium)
+Van der Waals / London dispersion (weakest)
+
+--- slide 75 ---
+Intermolecular Forces
+Atoms within molecules are held together by covalent bonds
+Intermolecular forces between molecules are what holds neighboring molecules together
+Intermolecular forces are much weaker than covalent bonds
+Intermolecular Force
+Melting point and boiling points have trends based on strength of the intermolecular forces
+[notes] Covalent bonds
+
+Intermolecular forces are WEAKER
+
+--- slide 76 ---
+Making Predictions
+Melting Point & Boiling Point
+Consider intermolecular forces between separate molecules of the same compound.
+Which compound has stronger intermolecular forces between molecules?
+The compound with the stronger intermolecular forces will have a higher melting point and higher boiling point
+Solubility
+Consider intermolecular forces between solute molecules and solvent molecules
+Are the strengths of the forces similar to that between just solvent molecules?
+If so, the solvent will be soluble. The stronger the attractive forces between solute and solvent, the more soluble it is.
+Covalent compounds do not ionize! It stays a molecule – just surrounded by solvent molecules.
+
+--- slide 77 ---
+Intermolecular Forces - Prediction
+Is CH2Cl2 polar? Why or why not?
+What type of intermolecular forces can occur between molecules of CH2Cl2 ?
+Draw at least three molecules of CH2Cl2 and put dashed lines between to indicate where the intermolecular forces are
+
+--- slide 78 ---
+Trends
+Melting Point and Boiling Point increase as the length of alkane chain increases
+More dispersion (van der waal) forces
+Branched alkanes have a lower melting point and boiling point than straight-chain with same # of carbons
+Branched molecules can’t pack as tightly together
+Less dispersion forces
+
+--- slide 79 ---
+Prediction
+Which would you expect to have the higher boiling point? Why?
+2,2-dimethylpropane
+CH3OH
+Water
+
+--- slide 80 ---
+Solubility
+Solubility rule of thumb “like-dissolves like”
+What’s “like”? Intermolecular forces
+Polar solute in polar solvents
+Solvent molecules attracted to other solvent molecules and solute molecules
+Solute is soluble
+Non-polar solute in polar solvents
+Polar solvent molecules are more attracted to other solvent molecules
+Solute is insoluble
+
+--- slide 81 ---
+Prediction
+Would glucose (shown below) be soluble in water?
+
+--- slide 82 ---
+Conclusions
+Carbon forms 4 bonds
+Nomenclature is systematic.
+Think about intermolecular forces when trying to make predictions about boiling points, melting points, or solubility
+Melting Point and Boiling Point: IMF between Molecules of the same compound
+Solubility: IMF between Molecules of solute and molecules of solvent.
+
+--- slide 83 ---
+Muddiest Point
+Think: What was most confusing about today? What do you still have a question about?
+Pair: Can a student near you answer your question?
+Share: Would anyone like to tell us about it?

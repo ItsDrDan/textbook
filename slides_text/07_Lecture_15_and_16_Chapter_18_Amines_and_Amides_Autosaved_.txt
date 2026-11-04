@@ -1,0 +1,492 @@
+# Lecture 15 and 16 - Chapter 18 - Amines and Amides [Autosaved].pptx  (69 slides)
+
+--- slide 1 ---
+Attendance
+Top Secret Code Word for 10/2 is amine
+
+--- slide 2 ---
+Week 8 – Chapter 18
+Amines and Amides
+
+--- slide 3 ---
+Outline
+Amines
+Classification of Amines
+Nomenclature of Amines
+Nomenclature when there is more than one functional group
+Properties of Amines
+Heterocyclic Amines
+Neurotransmitters
+Amides
+One more carbonyl functional group
+Nomenclature of Amides
+Physical Properties
+Reactions (Hydrolysis)
+
+--- slide 4 ---
+Amines
+Amines contain one or more organic groups bonded to a nitrogen atom
+Amines are organic derivatives of ammonia (NH3)
+Amines can be classified as primary (10), secondary (20), or tertiary (30) based on the number of R groups attached to the N.
+Ammonium is a quaternary amine cation
+ammonia
+10 amine
+20 amine
+30 amine
+R
+R
+R
+R’
+R”
+R’
+
+--- slide 5 ---
+Line Structures Amines
+The hydrogen atom(s) bonded to the nitrogen atom must be shown.
+
+--- slide 6 ---
+Condensed Structural Formulas of Amines
+CH3CH2NHCH2CH3
+If the N has two or more of the same R chain, they may be grouped together
+(CH3CH2)2NH
+For tertiary amines, use parentheses to indicate a branch coming from the N
+Draw Line-angle structure for:
+CH3CH2CH2N(CH3)CH2CH3
+
+--- slide 7 ---
+Practice
+Classify the amine shown below as primary, secondary, tertiary, or quaternary.
+primary
+secondary
+tertiary
+quaternary
+
+--- slide 8 ---
+Practice Classification
+Classify the amine shown below as primary, secondary, tertiary, or quaternary.
+primary
+secondary
+tertiary
+quaternary
+
+--- slide 9 ---
+Practice Classification
+Classify the amine shown below as primary, secondary, tertiary, or quaternary.
+primary
+secondary
+tertiary
+quaternary
+
+--- slide 10 ---
+Nomenclature of Amines
+
+--- slide 11 ---
+IUPAC: Primary Amines
+Find the longest carbon chain with carbon containing the NH2 group
+Change the “-e” ending of the parent alkane to “-amine”
+Apply all other nomenclature rules
+Example
+Example
+Longest chain: four carbons (butane)
+The N is attached to the 2nd carbon of the longest chain
+2-butanamine
+
+--- slide 12 ---
+IUPAC: 2o and 3o amines
+Name the longest alkyl chain bonded to the N atom as the parent amine
+-amine suffix
+Name the other groups on the N atom as “N-alkyl” to indicate they are bonded to the N
+If more than one, list in alphabetical order
+Apply other nomenclature rules
+Example
+Longest chain: three carbons (propane)
+The N is attached to the 2nd carbon of the longest chain
+2-propanamine
+There is a methyl group on the N also
+N-methyl-2-propanamine
+
+--- slide 13 ---
+IUPAC: Aniline
+The IUPAC retains the name aniline for amines with the N atom directly bonded to a benzene ring:
+
+--- slide 14 ---
+Functional Group Priorities
+A NH2 group is called an amino group when named as a substituent.
+
+--- slide 15 ---
+Practice: Amine Nomenclature
+2-butanamine
+N,N-dimethylethanamine
+N,N-dimethylcyclopentanamine
+3-chloroaniline
+
+--- slide 16 ---
+Nomenclature of Amines
+Finishing Up
+
+--- slide 17 ---
+Practice: Nomenclature
+5-amino-3-hexanol
+N-chloro-2-ethylbutanamine
+3-aminopentanal
+4-chloro-N,3-dimethyl-2-pentanamine
+
+--- slide 18 ---
+Practice: Isomers
+Which of the following is a skeletal isomer for 1-butanamine?
+ 2-butanamine
+ 1-pentanamine
+ 3-butanamine
+ 2-methyl-1-propanamine
+ Both A) and C)
+
+--- slide 19 ---
+Properties of Amines
+
+--- slide 20 ---
+Geometry
+How many electron groups are around the N atom?
+4
+What is the electron-group geometry?
+Tetrahedral
+What is the molecular geometry?
+Trigonal Pyramidal
+What are the bond angles?
+109.5 (ideal angle for tetrahedral electron group geometry)
+
+--- slide 21 ---
+Polarity
+Is the N-H bond polar or non-polar?
+Polar!
+Is the C-N bond polar or non-polar?
+Polar! (slightly)
+What type of intermolecular forces (IMFs) are between amine molecules?
+Dispersion IMFs (all molecules have these)
+Dipole-Dipole IMFs (molecules with a permanent dipole (polar molecules))
+Hydrogen Bonding IMFs (For primary and secondary amines)
+Tip: Chapter 6 of your textbook discusses polarity of molecules, covalent bonds and intermolecular forces
+
+--- slide 22 ---
+Physical Properties of Amines
+Only 1o and 2o amines can accept and donate hydrogen bonds.
+Nitrogen is not as electronegative as oxygen  weaker H-bonds than O-H
+3o amines can only accept hydrogen bonds, they can not donate.
+Hydrogen bonding is an attractive force between molecules (intermolecular)
+
+--- slide 23 ---
+Physical Properties of Amines
+Do 1o and 2o amines have higher or lower melting points and boiling points than similar alcohols? 
+Lower! Oxygen is more electronegative and so the hydrogen-bonds between alcohol molecules is stronger.
+Do 1o and 2o amines have higher or lower melting points and boiling points than similar ethers? 
+Higher! Ethers can’t form hydrogen bonds.
+Do 1o and 2o amines have higher or lower melting points and boiling points than similar 3o amines? 
+Higher! 1o and 2o  amines can form hydrogen bonds and 3o amines can’t.
+
+--- slide 24 ---
+Physical Properties of Amines
+Methyl-amines and ethyl-amines are gases at room temperature
+Most other amines are liquids at room temperature
+
+--- slide 25 ---
+Solubility
+Can 1o and 2o amines molecules hydrogen bond with water molecules? Would they be soluble in water?
+Yes, they can form hydrogen bonds with water. They can accept a hydrogen (proton) from water, and also donate a hydrogen to water
+Can 3o amines molecules hydrogen bond with water molecules? Would they be soluble in water?
+Yes, they can form hydrogen bonds with water - the lone pair on the N can accept a hydrogen from water!
+Not as soluble as 1o or 2o amines because they can not donate a hydrogen
+Amines up to about 6 carbon atoms have appreciable solubility in water. Beyond that, the carbon chain is too bulky and limits the molecule’s ability to form hydrogen bonds.
+[notes] Next Time
+
+--- slide 26 ---
+Practice: Boiling Points
+Which of the following compounds has the highest boiling point?
+CH3CH2CH3
+CH3CH2NH2
+(CH3)2NH
+CH3CH2OH
+
+--- slide 27 ---
+Practice: Boiling Points
+Which of the following compounds has the lowest boiling point?
+CH3CH2CH2NH2
+CH3CH2NH2
+(CH3)2NH
+(CH3)3N
+
+--- slide 28 ---
+Odor
+Many amines have very foul odors
+Rotting fish
+Urine
+Bad breath
+
+--- slide 29 ---
+Acid/Base Properties
+Amines are proton (H+) acceptors
+Brønsted–Lowry bases
+Amines donate a lone pair
+Lewis bases
+
+--- slide 30 ---
+Basicity of Amines
+Amines are weak bases in comparison to inorganic bases like NaOH
+Amines are among the strongest organic bases
+Aliphatic: non-aromatic, open-chain, organic compounds
+[notes] Aliphatic: relating to or denoting organic compounds in which carbon atoms form open chains (as in the alkanes), not aromatic rings
+
+--- slide 31 ---
+Attendance
+Top Secret Code Word for 10/7 is Base
+
+--- slide 32 ---
+Neutralization of Amines
+Amines react with acids
+Ammonium cations have a +1 formal charge on nitrogen
+No water is formed
+Product is soluble ammonium salt
+[notes] Get rid of “fish” smell by neutralizing amines with acid (citric acid)
+
+--- slide 33 ---
+Basicity of Amines: Amines
+Water-insoluble amines are converted to a water-soluble ammonium salts by treatment with an acid.
+The salts are also soluble in bodily fluids.
+water-insoluble
+water-soluble
+
+--- slide 34 ---
+Basicity of Amines: Nomenclature
+Alkylamine cations are named by replacing the ending “-amine” with “-ammonium”. 
+Ammonium salts are named by combining the ion names.
+
+--- slide 35 ---
+Practice: Acid-Bases
+Complete each acid-base reaction.
+CH3COO-
+
+--- slide 36 ---
+Practice: Solubility
+Which is more soluble in water, phenylephrine or phenylephrine hydrochloride?
+Both are equally soluble in water. 
+Neither is soluble in water.
+phenylephrine 
+phenylephrine hydrochloride
+Cl-
+
+--- slide 37 ---
+Examples: Uses of Amines and Ammonium Salts
+
+--- slide 38 ---
+Uses of Ammonium Salts
+Many amine-containing medicines are sold as ammonium salts, which are transported through the blood stream
+The antihistimine Benadryl, an anti-itch itching for skin irritations and rashes, is sold as the salt diphenhydramine hydrochloride.
+
+--- slide 39 ---
+Uses of Ammonium Salts
+The antiseptic benzalkonium chloride is used as a disinfectant and in mouthwash.  It is also used to deter children from biting their nails or sucking their thumbs, due to its foul taste.
+As dilute solutions, they are used in surgical scrubs and for sterile storage of instruments. 
+
+--- slide 40 ---
+Heterocyclic Compounds
+A heterocyclic amine: 
+is a cyclic organic compound.
+has a five- or six-atom ring.
+contains one or more nitrogen atoms.
+
+--- slide 41 ---
+Heterocyclic Amines(Examples)
+
+--- slide 42 ---
+Alkaloids
+Alkaloids are:
+physiologically active N-containing compounds.
+produced by plants.
+used as stimulants, anesthetics, and antidepressants.
+often habit forming.
+Well known alkaloids 
+Cocaine (coca plant)
+Caffeine (coffee beans and tea leaves)
+Nicotine (tobacco plant)
+Morphine and codeine (opium plant)
+
+--- slide 43 ---
+Heterocyclic Amines
+Morphine and codeine are present in the opium poppy.
+Eat enough poppy seeds and you can test positive in a drug test!
+Morphine is very addictive, and patients using it long-term must take ever-increasing doses to reach the same effect.
+Codeine is used for less severe pain than morphine, but it is still very addictive.
+
+--- slide 44 ---
+Amides
+
+--- slide 45 ---
+Classification of Amides
+Amides are a carbonyl functional group where the acyl group (RCO-) is bonded to a N atom
+Amides can be primary, secondary, or tertiary just like amines
+
+--- slide 46 ---
+Practice: Amide Classification
+Classify the amide shown below as primary, secondary, tertiary, or quaternary.
+primary
+secondary
+tertiary
+quaternary
+
+--- slide 47 ---
+Practice: Condensed Structural Formulas
+Which compound below is NOT an amide?
+CH3CH2CONH2
+CH3CH2CONHCH2CH2CH3
+CH3CH2NHCOCH2CH3
+CH3NHCH2COCH2CH2CH3
+
+--- slide 48 ---
+Amides
+Bond Rotation
+The bond between nitrogen and carbon can not rotate because of partial-double-bond character
+Important for proteins!
+Cyclic Structures Possible
+Amides can be cyclic, like esters
+
+--- slide 49 ---
+Nomenclature of Amides
+Amide nomenclature is a blend of naming carboxylic acids and amines
+Name the acyl group as you would a carboxylic acid, only use the suffix “amide” 
+Name any other R branches connected to the N using the “N-alkyl” prefix
+Apply other nomenclature rules
+ethanamide
+N-methylethanamide
+N,N-dimethylethanamide
+N-ethyl-N-methylethanamide
+[notes] Fix common names vs. IUPAC
+
+--- slide 50 ---
+Practice: Amide Nomenclature
+N,N-diethylhexanamide
+N-ethyl-N,2-dimethylbutanamide
+N-ethylpropanamide
+N-methylbenzamide
+
+--- slide 51 ---
+Physical Properties of Amides
+
+--- slide 52 ---
+Physical Properties of Amides
+Do hydrogen bond intermolecular forces exist between two amide molecules?
+Yes – for primary and secondary amides
+No for tertiary amides (No H is covalently bonded to N, O, or F)
+Do dipole-dipole intermolecular forces exist between two amide molecules?
+Yes! The C=O and C-N bonds are polar (C-N is less polar, but still polar)
+Do dispersion intermolecular forces exist between two amide molecules?
+Yes! These exist between all molecules
+
+--- slide 53 ---
+Physical Properties of Amides: Boiling Points
+Do primary and secondary amides have higher or lower melting points/boiling points than similar tertiary amides?
+Higher (because primary and secondary amides can form hydrogen bonds with other amides) 
+Do 1o and 2o amides have higher or lower melting points and boiling points than similar esters?
+Higher because they can form hydrogen bonds – esters can’t
+Do 1o amides have higher or lower melting points and boiling points than similar 2o amides?
+Primary amides have a higher melting point and boiling point because there are more H’s bonded to N to form hydrogen bonds.
+Do 3o amides have higher or lower melting points and boiling points than similar alkanes? 
+Tertiary amines have higher boiling points than alkanes because they are polar and have dipole-dipole intermolecular forces.
+
+--- slide 54 ---
+Physical Properties of Amides: Solubility
+Can 1o and 2o amides molecules hydrogen bond with water molecules?
+Yes! (They are both proton acceptors and proton donors)
+Can 3o amides molecules hydrogen bond with water molecules?
+Yes! (they can be proton-acceptors only)
+Are 1o and 2o amides soluble in water?
+Yes! (for 5 carbons or less)
+Are 3o amides soluble in water?
+Yes! (not as much as 10 or 20 though because they can only accept protons)
+
+--- slide 55 ---
+Uses of Amides
+
+--- slide 56 ---
+Everyday Amides
+[notes] Melatonin – hormone that regulates sleep-wake cycles
+Urea – from urine
+Acetaminophen - Tylenol
+
+--- slide 57 ---
+Reactions of Amides
+
+--- slide 58 ---
+Reactions of Carboxylic acids & derivatives
+All acyl compounds undergo a common reaction type, nucleophilic acyl substitution.
+
+--- slide 59 ---
+Preparation of Amides
+Amides can be prepared by heating a carboxylic acid with a primary or secondary amine
+Process called amidation
+-OH is replaced by -NR2 group
+
+--- slide 60 ---
+Preparation of Amides: Amidation
+The first step of amidation is the formation of the ammonium salt.
+The reaction must be heated to proceed to the amide.
+Tertiary amines do not have a H on the amine N and, therefore, do not form amides, generating only the ammonium salt. 
+
+--- slide 61 ---
+Practice: Amidation
+Predict the products of the following amidation reaction:
+
+--- slide 62 ---
+Reactions of Amides: Hydrolysis
+Amides are the least reactive of the carboxylic acid derivatives.
+Amides are stable in water, but hydrolyze with heating in the presence of acids or bases (or specific enzymes).
+Amides require more vigorous conditions for hydrolysis in both acid and base than do esters.
+Acid
+Base
+
+--- slide 63 ---
+Reactions: Polymerization of Amides
+Nylon is a condensation polymer, formed when two monomers, a diamine and a diacid, come together, releasing water.
+Clothing, carpets, stockings, parachutes, etc.
+
+--- slide 64 ---
+Amides: Saving Lives
+The polyaromatic amide known as Kevlar is made from an aromatic dicarboxylic acid and an aromatic diamine.
+
+--- slide 65 ---
+Practice: Hydrolysis
+Which of the following undergoes acid hydrolysis to yield acetic acid as a product?
+CH3CO2CH3
+CH3CONH2
+CH3CONHCH3
+all of the above
+
+--- slide 66 ---
+Neurotransmitters
+
+--- slide 67 ---
+Bio: Neurotransmitters
+A neurotransmitter is a chemical messenger that transmits nerve impulses from one neuron to another.
+The space between the two neurons is called a synapse.
+The presynaptic neuron releases the neurotransmitter.
+The postsynaptic neuron contains the receptors that bind the neurotransmitter
+
+--- slide 68 ---
+Bio: Neurotransmitters
+Neurotransmitters:
+are substances present in the human body that assist in passing nerve impulses from one cell to another.
+contain N atoms as amines and alkylammonium ions.
+are synthesized from compounds such as amino acids obtained from our diets.
+their amino groups are usually ionized, forming ammonium cations and carboxylate anions.
+[notes] When norepinephrine levels increase, a person feels elated, and then manic if levels go too high.
+Norepinephrine is converted into adrenaline when a person experiences fear or stress.
+
+Dopamine affects the brain processes that control movement, emotions, and pleasure.
+Patients with Parkinson’s disease have decreased levels of dopamine in the body
+
+--- slide 69 ---
+Final TakeAways
+Amines and amides are found in many biological molecules including proteins and neurotransmitters
+Amines are bases
+Amines and Amides can be classified as primary, secondary or tertiary.
+Ammonium salts are more soluble in water 
+Amides can be made from carboxylic acids and amines
+Same nucleophilic acyl substitution as esters and carboxylic acids.
+Physical properties such as boiling and solubility can be explained in terms of intermolecular forces.

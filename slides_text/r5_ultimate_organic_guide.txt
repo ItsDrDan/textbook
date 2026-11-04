@@ -1,0 +1,106 @@
+Dr. Dan’s ultimate Study Guide for ACS Organic Final
+50 questions in 60 minutes
+Bring a calculator if you have one please.
+General Knowledge
+Know how to identify functional groups
+Alkanes, alkenes, alkynes, thiols, alcohols, carboxylic acids, esters, ketones, aldehydes, halogens, amines, amides, hemiacetals, acetals, hemiketals, ketals
+DO NOT GET SCARED BY BIG MOLECULES
+Look at the functional groups for reactions
+How to determine if a molecule can hydrogen bond.
+(F N O to H-bonds) 
+Know how to draw one
+Strong London Dispersion Forces
+BIGGEST MOLECULE
+Trends associated with Intermolecular Forces (IMF)
+Boiling, Melting, Solubility
+Know how to calculate a molar mass  (one question)
+Shockingly is on the midterm, bring a calculator
+VSEPR Geometries
+Know your Bond Angles
+Know Geometries effect on Polarity 
+ACID/BASE Reactions
+Acids donate protons 
+Bases receive protons
+Carboxylic acids are organic acids
+Amines are organic bases
+Water is amphoteric meaning it can be either an acid or a base depending on what it reacts with
+How to identify strong acids and strong bases
+Know IUPAC naming for all functional groups
+Recognize longest parent chains
+Know how to name with multiple functional groups
+Chapter 12: Alkanes
+Saturated vs unsaturated hydrocarbons
+How to draw skeletal to condensed structures and vice versa
+Isomers = same formula, but different structures
+Structural/Constitutional Isomers
+Same formula, but different skeleton
+Cis/trans isomers
+Feel comfortable with drawing isomers to determine total number possible for a simple formula
+Approximately 5-9 Isomer questions… do not sleep on this…
+Know how to predict Addition Reactions
+Alkenes are the reactants and we “Open the double doors”
+Hydrogen wants to make the most friends
+Know reactants and products
+Hydrogenation (H2)
+Hydrohalogenation (HCl, HBr, HI, HF)
+Hydration (H2O)
+Halogenation (Cl2, Br2, F2, I2)
+Know how to recognize elimination reactions 
+Predator vs Prey Mentality – Remove lonely hydrogen and functional groups
+Remove the following:
+dehydrogenation (H2)
+dehydrohalogenation (HCl, HBr, HI, HF)
+dehydration (H2O)
+dehalogenation (Cl2, Br2, F2, I2)
+Know the shapes of alkyl branches
+3 carbons are propyl and iso propyl (Y-shape_
+4 carbons is butyl, isobutyl (Yshape), sec-butyl, and t-butyl
+Know ortho,meta, and para
+Ortho = next door neighbors (1,2)
+Meta = nothing in the middle (1,3)
+Para is opposite (1,4)
+Know how to recognize Cis/trans
+Know that cis/trans with same formula are isomers of one another
+Chapter 13: Alcohols, Ethers, Thiols
+Know how to classify alcohols
+Go to carbon alcohol is connected to… then count the C-C bonds
+Primary is  R-CH2-OH
+Secondary is R-CH (R) – OH
+Tertiary is R-CR (R) – OH 
+Know Oxidation Reactions 
+Primary Alcohol to Aldehyde to Carboxylic Acid
+Secondary Alcohol to Ketone
+Tertiary = NR
+Know how to identify a thiol (-SH)
+Reaction we did not do, but similar to others.
+Thiol + carboxylic acid = esterthiol via condensation
+Chapter 14: Ketones and Aldehydes
+Know Reduction Reactions (backwards of oxidation)
+Carboxylic Acids goes to Aldehyde then to primary alcohol
+Ketone turns into secondary alcohol
+Know how to recognize hemiacetals, acetals
+Originally an aldehyde and alcohol 
+Find anomeric carbon (google eye O’s) classification is primary
+Know how to recognize hemiketals, ketals
+Originally a ketone and alcohol 
+Find anomeric carbon (google eye O’s) classification is secondary
+Chapter 15: Chirality
+Know how to count chiral centers.
+Know enantiomers and diastereomers using wedges and dashes
+Don’t forget you can rotate and flip molecules
+Diastereomers are when you have two chiral centers that have one differing wedge and dash (LOOK AT PICTURE BELOW)
+RACEMIC MIXTURE = term we never talked about 
+Is an equal ratio of a pair of enantiomers
+Chapter 16: Carboxylic Acids and Esters
+Ester Reactions are acid and basic hydrolysis
+Acid hydrolysis (Ester cut in to carboxylic acid and alcohol)	
+Base Hydrolysis (Ester cut into Carboxylate salt and alcohol)
+How to Create Esters (Condensation Reaction)
+Alcohol + Carboxylic Acid = Ester
+Double bond O side of the molecule is the original carboxylic acid
+Chapter 18: Amines and Amides
+How to Classify Amines (primary, secondary, tertiary, quaternary) 
+Counting # of carbon bonds connected to nitrogen. Quaternary is ammonium, 4 bonds
+How to Create Amides (Condensation Reaction)
+Amine + Carboxylic Acid = Amide
+Double bond O side of the molecule is the original carboxylic acid

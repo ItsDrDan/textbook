@@ -1,0 +1,425 @@
+# Lecture 8 and 9 Chapter 14 - AldehydesKetones [Autosaved] [Autosaved].pptx  (70 slides)
+
+--- slide 1 ---
+Chapter 14
+Start of Exam #2 Material
+
+--- slide 2 ---
+Outline
+Aldehydes and Ketones: Two carbonyl functional groups
+Nomenclature of Aldehydes and Ketones
+Physical Properties of Aldehydes and Ketones
+Oxidation and Reduction reactions of aldehydes and ketones
+Stereoisomers
+Chirality 
+Enantiomers and Diastereomers
+Fischer Projection
+Hemiacetals, acetals (and hemiketals and ketals)
+
+--- slide 3 ---
+Two Carbonyl Groups: Aldehydes and Ketones
+A carbonyl group is a C atom that is bonded to an O atom via a double bond
+
+--- slide 4 ---
+Condensed Structures
+H written first so it doesn’t look like an alcohol
+Remember: Carbon needs 4 bonds. Oxygen needs 2 bonds. You can figure out if it is an aldehyde/alcohol or ketone/ether based on this.
+
+--- slide 5 ---
+Line Structures
+Sometimes H is drawn.
+Sometimes it isn’t
+
+--- slide 6 ---
+Practice Identification
+Identify the following compounds as either an aldehyde, ketone, alcohol, or ether. Circle the functional group.
+CH3—CH2—CH2—CHO
+CH3—CH2—CO—CH2—CH2—CH3
+Aldehyde
+Ketone
+Ketone
+Aldehyde
+
+--- slide 7 ---
+Examples
+Flavors and odors:
+
+--- slide 8 ---
+Examples
+Sunscreens and sun-tanning agents:
+Avobenzone, oxybenzone, and dioxybenzone absorb UV-radiation and prevent sunburn.
+Dihydroxyacetone (DHA) reacts with amino acids in skin protein to produce different tones of coloration
+
+--- slide 9 ---
+Nomenclature of Aldehydes and Ketones
+(more commonly known as acetone)
+Nail polish remover
+
+--- slide 10 ---
+Common Names for simple Aldehydes
+Common names are used for simple aldehydes; the names contain the suffix     “-aldehyde”.
+The IUPAC names the aldehyde of benzene as benzaldehyde. 
+
+--- slide 11 ---
+Nomenclature of Aldehydes
+IUPAC Rules
+Find the longest carbon chain containing the CHO group
+Change the “-e” ending of the parent alkane to “-al”
+The C of the CHO group is Carbon #1
+Apply any other nomenclature rules
+Example
+Longest chain  butane
+Change suffix  butanal
+Name side chains
+2,3-dimethylbutanal
+
+--- slide 12 ---
+Nomenclature for Ketones
+Find the longest chain containing the C=O group
+Change the suffix “-e” to “-one”
+Number the chain to minimize the C=O group’s number
+Apply all other rules 
+6-carbon cyclic alkane  cyclohexane
+Change suffix  cyclohexanone
+Apply other nomenclature rules:
+3-ethyl-4-methylcyclohexanone
+IUPAC Rules
+Example
+
+--- slide 13 ---
+Practice: Structure  Name
+Give the IUPAC name for the following molecules
+4-chloropentanal
+3-methyl-4-heptanone
+3-ethylcyclopentanone
+Intentionally Blank box concealing answer to practice question
+
+--- slide 14 ---
+Practice: Name  Structure
+2,3-dichloropropanal
+4-methylpentanal
+3-methyl-2-butanone
+
+--- slide 15 ---
+Nomenclature: Compounds with multiple functional groups
+If a compound has more than one functional group, the functional group in the suffix is highest priority
+Generally, more oxidized functional groups take priority (more C-O bonds)
+Lower priority functional groups become part of the prefix with substituent names
+
+--- slide 16 ---
+Multiple Functional Groups: Examples
+The functional group that is highest on the list is named as the compound, and any group lower on the list is named as a substituent. 
+
+--- slide 17 ---
+Practice
+Give the IUPAC name for the following molecules:
+3-hydroxy-4-methylpentanal
+4-oxopentanal
+
+--- slide 18 ---
+Physical Properties of Aldehydes and Ketones
+
+--- slide 19 ---
+Physical Properties of Aldehydes and Ketones
+How many electron groups are around the C atom?
+3 electron groups
+What is the molecular geometry around the C atom?
+Trigonal planar
+Is the C=O bond polar or non-polar?
+polar
+Can aldehyde molecules hydrogen bond with each other?
+No! There is no H bonded to the O
+Can ketone molecules hydrogen bond with each other?
+No! There is no H bonded to the O.
+
+--- slide 20 ---
+Physical Properties
+Do aldehydes and ketones have higher or lower melting points and boiling points than hydrocarbons of comparable size and shape? ______________
+Do aldehydes and ketones have higher or lower melting points and boiling points than alcohols of comparable size and shape? ______________
+Aldehydes & ketones should have higher melting points because they are polar & have dipole-dipole intermolecular forces.
+Aldehydes & ketones should have lower melting points because they can not form hydrogen-bonds like alcohols can.
+[notes] Higher  they are polar
+Lower  No hydrogen bonding
+
+--- slide 21 ---
+Physical Properties Comparison
+Boiling points of compounds with comparable size.
+
+--- slide 22 ---
+Attendance
+Top Secret Code Word for 9/18 is ketone
+
+--- slide 23 ---
+Predictions:
+Select the compound in each pair that would have the
+higher boiling point. Justify your answer.
+A. 	
+B. 
+C.
+
+--- slide 24 ---
+Solubility
+Can aldehydes form hydrogen bonds with water?
+Yes! The oxygen can be a proton-accepter from water
+Can ketones form hydrogen bonds with water?
+Yes! The oxygen can be a proton-accepter from water
+Length of alkyl chain determines solubility in water
+4 or less Carbons: soluble
+5 C’s sparingly soluble
+6 C’s  insoluble in water
+
+--- slide 25 ---
+Oxidation and Reduction of Aldehydes and Ketones
+
+--- slide 26 ---
+Aldehydes
+Ketones
+The polarity of the carbonyl group gives rise to its reactivity. 
+
+--- slide 27 ---
+Reactions in context
+Blood-glucose test involves the oxidation of the aldehyde glucose.
+
+--- slide 28 ---
+Selective Oxidation
+Aldehydes can be selectively oxidized (in the presences of other functional groups) using Tollens’s Reagent (solution containing silver ion in ammonia)
+Tollens’ Reagent
+
+--- slide 29 ---
+Benedict’s Reagent
+Benedict’s Reagent changes color with compounds that have an aldehyde group or ketone with adjacent hydroxyl group.
+Blue Cu2+  Red Cu2O(s)
+[notes] Update figure.
+Alpha-hydroxy ketone or aldehyde
+
+--- slide 30 ---
+Practice
+Write the condensed structural formula of the oxidized product when each of the following is mixed with Tollens’ reagent.
+A.  Butanal
+B.  Ethanal
+C.  2-butanone
+
+--- slide 31 ---
+Reduction
+Reduction is the opposite of oxidation
+[H] is used to represent a reducing agent (either H2 with Pd/Pt catalyst, or NaBH4)
+
+--- slide 32 ---
+Carbonyl Reduction – In Context
+Muscone, musk smell, is nowadays synthetically prepared in the lab:
+(Obtaining muscone from ‘natural sources’ involves killing the animal)
+
+--- slide 33 ---
+Hemiacetals and Acetals
+
+--- slide 34 ---
+Addition of -OH to Aldehydes and Ketones
+Aldehydes undergo addition reactions with alcohols
+Addition of one molecule of alcohol
+Addition of a 2nd  molecule of alcohol
+“hemi” – means “half”, like hemisphere
+
+--- slide 35 ---
+Distinguishing Features
+1 –OH
+1 –OR
+2 –OR
+Aldehyde or Ketone
+-OH and –OR’s must be attached to same carbon
+Note: Online resources may distinguish further between acetals and ketals
+
+--- slide 36 ---
+Practice
+Hemiacetals contain which two functional groups?
+aldehyde and ketone groups
+alcohol and aldehyde
+aldehyde and ether
+alcohol and ether
+
+--- slide 37 ---
+Hemiacetal
+acetal
+Hemiacetal
+None:
+OR and OH on different C’s
+Classify the following molecules as hemiacetals, acetals, or neither
+Practice
+
+--- slide 38 ---
+Naturally Occurring hemiacetals and acetals
+Lactose, the main carbohydrate in milk, is composed of both a cyclic hemiacetal and a cyclic acetal.
+
+--- slide 39 ---
+Reactions within the same molecule
+Cyclic hemiacetals are formed by an intramolecular reaction of a compound that contains both an OH group and an aldehyde (or ketone).
+5-membered and 6-membered rings (pentagons and hexagons) are most stable.
+
+--- slide 40 ---
+Attendance
+Top Secret Code Word for 9/23 is acetal
+
+--- slide 41 ---
+Glucose
+The most common simple carbohydrate, glucose, exists predominantly as a cyclic hemiacetal.
+
+--- slide 42 ---
+Draw the condensed structural formula of the acetal formed by adding CH3OH to butanal.
+butanal
+Practice
+
+--- slide 43 ---
+Reversible Reaction
+Equilibrium can be driven in either direction by Le Chatelier’s Principle
+Acetals can be converted back into aldehydes and ketones by hydrolysis
+Two alcohol molecules formed
+
+--- slide 44 ---
+The products of these two reactions are:
+(1) primary alcohol,   	(2)  carboxylic acid
+(1) secondary alcohol,  	(2)  carboxylic acid
+(1) primary alcohol,   	(2)  no reaction
+(1) secondary alcohol,  	(2)  no reaction
+Practice
+
+--- slide 45 ---
+More Practice
+The products of these two reactions are:
+(1) primary alcohol,   	(2)  carboxylic acid
+(1) secondary alcohol,  	(2)  carboxylic acid
+(1) primary alcohol,   	(2)  no reaction
+(1) secondary alcohol,  	(2)  no reaction
+
+--- slide 46 ---
+Chiral Molecules
+
+--- slide 47 ---
+
+--- slide 48 ---
+
+--- slide 49 ---
+Stereoisomers: Chirality
+Stereoisomers always have the same connectivity of atoms, but different arrangement in space
+A stereocenter is a carbon that is bonded to four different groups
+Chiral objects have non-superimposable mirror images
+
+--- slide 50 ---
+Achirality
+A molecule that is superimposable on its mirror image is achiral.
+Two socks from a pair are mirror images that are superimposable
+
+--- slide 51 ---
+Classify each object as chiral or achiral.
+Achiral
+Chiral
+Chiral
+Achiral
+Practice
+
+--- slide 52 ---
+Chirality in Molecules
+Draw molecule in 3D
+Draw mirror image
+Can you rotate the molecule to make it align on it’s mirror image?
+
+--- slide 53 ---
+Recognizing Chiral Centers
+A C of a multiple bond does not have four groups around it, so it is never a chirality center.
+
+--- slide 54 ---
+Types of Stereoisomers
+Enantiomers
+Enantiomers are stereoisomers that are mirror images, and not superimposable
+Diastereomers
+Diastereomers are stereoisomers that are not mirror images and not superimposable
+
+--- slide 55 ---
+How many chiral centers (stereocenters) are in the following molecules, if any:
+A)
+B)
+C)
+D)
+Practice
+[notes] 3 stereocenters (CH-OH)
+No chiral center
+One chiral center
+2 chiral centers
+
+--- slide 56 ---
+Biological Connections
+Many drugs are chiral, and often they must interact with a chiral receptor to be effective.
+One enantiomer of a drug may be effective in treating a disease whereas its mirror image may be ineffective.
+
+--- slide 57 ---
+Chirality Matters!
+Two different enantiomers can interact differently with smell receptors in the brain and have different perceived odors.
+
+--- slide 58 ---
+Chirality Matters!
+Naproxen (the pain reliever in Aleve) has a toxic enantiomer, so care must be taken in its  manufacture. 
+
+--- slide 59 ---
+Attendance
+Top Secret Code Word for 9/25 is Fischer
+
+--- slide 60 ---
+Fischer Projections
+Drawing Chiral Molecules
+
+--- slide 61 ---
+Fischer Projections
+A Fischer projection takes a 3D tetrahedral shape, and re-draws it:
+places the most oxidized group at the top.
+uses vertical lines for bonds that go back.
+uses horizontal lines for bonds that go forward.
+
+--- slide 62 ---
+Fischer Projections
+
+--- slide 63 ---
+Fischer Projection
+Draw the Fischer projection for the following dash-wedge structure:
+
+--- slide 64 ---
+Fischer Projections: D- and L- Notation
+L-  and D- system used to designate the handedness of molecules
+ D- because the OH group is on the right side (dexter)
+ L- because the OH group is on the left side (laevus)
+
+--- slide 65 ---
+D- and L- Notation
+The D,L- designation is determined by the position of the  OH group attached to the chiral carbon farthest from the carbonyl group.
+
+--- slide 66 ---
+Fischer Projection
+Identify the following as a D or L isomer.  
+
+--- slide 67 ---
+Diastereomers
+The A & C and the B & D pairs are diastereomers.
+Diastereomers are stereoisomers that are non-mirror images.
+[notes] http://www.proprofs.com/quiz-school/story.php?title=stereochemistry
+
+--- slide 68 ---
+Conclusions
+Aldehydes and Ketones are two carbonyl functional groups (C=O)
+The carbonyl functional group is polar
+Dipole-dipole intermolecular forces
+Aldehydes and ketones are proton-acceptors to form hydrogen bonds with water, but lack any H’s to form hydrogen bonds to other aldehydes and ketones
+Higher melting point and boiling points than alkanes, but lower than alcohols
+Aldehydes can be oxidized, ketones can’t.
+Aldehydes and ketones can be reduced to alcohols
+Alcohols can add to the carbonyl group making hemiacetals, hemiketals, acetals and ketals
+Stereoisomers have the same connectivity of atoms, but in different orientations in space.
+A chiral molecule must have at least one chiral center (stereocenter) 
+
+--- slide 69 ---
+Conclusions
+Alcohols can add to the carbonyl group making hemiacetals, hemiketals, acetals and ketals
+Stereoisomers have the same connectivity of atoms, but in different orientations in space.
+A chiral molecule must have at least one chiral center (stereocenter) 
+
+--- slide 70 ---
+Muddiest Point
+Think: What was most confusing about today? What do you still have a question about?
+Pair: Can a student near you answer your question?
+Ask the class

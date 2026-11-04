@@ -1,0 +1,347 @@
+# Lecture 13 and 14 (Week 7-Chapter 16) Carboxylic Acids and Esters [Autosaved].pptx  (51 slides)
+
+--- slide 1 ---
+Chapter 16
+Carboxylic acids and esters
+
+--- slide 2 ---
+Outline
+Two more carbonyl functional groups!
+Carboxylic acids
+Esters
+Nomenclature of carboxylic acids and ketones
+Physical Properties
+Melting Point/Boiling Point trends
+Solubility
+Reactions of Carboxylic Acids and Esters
+
+--- slide 3 ---
+Carboxylic Acids and Esters
+More carbonyl functional groups
+
+--- slide 4 ---
+Carbonyl Functional Groups
+Increasing Priority
+An acyl group is a carbonyl group whose C atom is bonded to an oxygen, nitrogen, or halogen
+
+--- slide 5 ---
+Acyl Groups
+Some compounds containing acyl groups:
+
+--- slide 6 ---
+Condensed Structural Formulas
+Esters are abbreviated as RCOOR′ or RCO2R′. 
+Carboxylic acids “Carboxyl groups” are abbreviated as RCOOH or RCO2H
+CH3COOCH2CH3
+CH3CH2COOH
+
+--- slide 7 ---
+Identify Functional Groups
+Circle and label the functional groups on the molecule below
+Benzene(Phenyl)
+Ester
+Amide
+Amine
+Carboxylic acid
+aspartame
+
+--- slide 8 ---
+Structures of Carboxylic Acids and Esters
+Can carboxylic acids be cyclic? _____
+No! A carboxylic acid is always terminal – at the end of a molecule
+Can esters be cyclic? _____
+Yes! The O can be part of the ring.
+
+--- slide 9 ---
+Isomers
+Can carboxylic acids and esters exhibit skeletal isomerism?
+Yes! With enough carbons, there can be skeletal isomers.
+Can carboxylic acids exhibit positional isomerism?
+No! Carboxylic acids are always terminal (Carbon 1).
+Can esters exhibit positional isomerism?
+Yes! Esters have two R groups, so the ester can shift between carbons on the chain.
+Can carboxylic acids and esters be functional group isomers?
+Yes! Carboxylic acids and esters with the same number of carbons can have the same molecular formula
+
+--- slide 10 ---
+Practice
+Identify the structures given below.
+ Carboxylic acid skeletal isomers
+ Carboxylic acid positional isomers
+ Ester skeletal isomers
+ Ester positional isomers
+ Functional Group isomers
+               O		                			 O         ||		                 		 ||
+CH3-CH2-C-O-CH3   and   CH3-C-O-CH2-CH3
+
+--- slide 11 ---
+Nomenclature of Carboxylic Acids and Esters
+
+--- slide 12 ---
+Nomenclature of Carboxylic Acids
+Find the longest chain containing the –COOH group
+-COOH is the highest priority functional group out of all functional groups
+-COOH is always terminal and so it will be Carbon #1 (C1). Omit 1 from the name.
+Change the “-e” ending of the parent alkanes to “-oic acid”
+Apply other nomenclature rules for determining the prefix
+6-carbons  hexane  hexanoic acid
+4,5-dimethylhexanoic acid
+
+--- slide 13 ---
+Benzoic Acid Derivatives
+The IUPAC name of a carboxyl group attached to a benzene ring is benzoic acid
+The C of the carboxyl group is attached to C1 in benzene
+Other aromatic nomenclature rules apply 
+
+--- slide 14 ---
+Chapter 16
+Carboxylic acids and Esters II
+
+--- slide 15 ---
+Some Common Names
+IUPAC: ethanoic acid
+Common: acetic acid
+Use: Vinegar
+IUPAC: methanoic acid
+Common: formic acid
+Use: Preservative. Leather tanning.
+
+--- slide 16 ---
+Practice
+Draw the structure given name, or name the structure shown.
+2-bromobenzoic acid
+2-methylpropanoic acid
+4-chlorohexanoic acid
+4-ethyl-5-methylhexanoic acid
+
+--- slide 17 ---
+Nomenclature of Esters
+1st 
+Names of esters (RCOOR’)are two words:
+1st word: Name of R’ (the R attached to the O) – with –yl ending
+2nd word: Name of acyl group (RCOO) with –oate suffix
+Each word can have prefixes to indicate position of substituents on the respective chain
+2nd word
+
+--- slide 18 ---
+Practice
+Name or draw the structure of the following
+propyl ethanoate (smell of pears)
+1-methylethyl butanoate
+2-chloroethyl benzoate
+Ethyl 2-methylbutanoate
+
+--- slide 19 ---
+Multiple Functional Groups: Priorities
+The functional group that is highest on the list is named as the compound, and any group lower on the list is named as a substituent. 
+
+--- slide 20 ---
+Attendance
+Top Secret Code Word for 9/30 is acid
+
+--- slide 21 ---
+Practice
+What is the IUPAC name for the compound below?
+4-ethyl-3-hydroxypentanoic acid
+2-ethyl-3-hydroxypentanoic acid
+1-carboxy-2-ethyl-3-pentanol
+1-carboxy-4-ethyl-3-pentanol
+None of the above
+
+--- slide 22 ---
+Properties of Carboxylic Acids and Esters
+[notes] Day 2
+
+--- slide 23 ---
+Pain Relievers
+Three common pain relievers that are also anti-inflammatory agents contain a carboxyl group:
+aspirin
+naproxen
+ibuprofen
+
+--- slide 24 ---
+Naturally Occurring Examples
+Citric acid, a tricarboxylic acid, occur in citrus fruits.
+Lemon juice contains 4–8% and orange juice about 1% citric acid. 
+
+--- slide 25 ---
+Esters in food
+Many low molecular mass esters have pleasant odors:
+CH3CH2CH2COOCH2CH3
+CH3CH2CH2COO(CH2)4CH3
+Ethyl butanoate (mango)
+pentyl butanoate (apricot)
+
+--- slide 26 ---
+Naturally Occurring Examples
+Fatty acids are long chain carboxylic acids derived from animal fats, or vegetable oils.
+
+--- slide 27 ---
+Carboxylic Acids: Types of intermolecular forces
+Can carboxylic acids form hydrogen bonds with other carboxylic acids?
+Yes! They have an H bonded to an O
+Can carboxylic acids have dipole-dipole intermolecular forces?
+Yes! The carbonyl group C=O bond, C-O bond, and O-H bonds are polar, and the dipole moments do not cancel.
+Can carboxylic acids have dispersion forces between molecules?
+Yes, every molecule can have dispersion intermolecular forces
+
+--- slide 28 ---
+Esters: Types of intermolecular forces
+Can esters form hydrogen bonds with other esters?
+No! Like ethers, aldehydes, and ketones, there is no H bonded to an O, therefore they can not form hydrogen bonds to esters, ethers, aldehydes or ketones.
+Can esters have dipole-dipole intermolecular forces?
+Yes! The carbonyl group C=O bond, C-O bond, and O-R’ bonds are polar, and the dipole moments do not cancel.
+Can esters have dispersion forces between molecules?
+Yes, every molecule can have dispersion intermolecular forces
+
+--- slide 29 ---
+Which is higher boiling point?
+Which would have a higher boiling point (assuming similar geometry and size):
+Carboxylic acids or alcohols?
+Esters or carboxylic acids?
+Esters or alcohols?
+Esters or alkanes?
+
+--- slide 30 ---
+Solubility
+Can carboxylic acids form hydrogen bonds with water?
+Yes! They can both donate protons (hydrogens) to water and accept protons from water.
+Can esters form hydrogen bonds with water?
+Yes! They can accept protons from water, much like aldehydes and ketones.
+Would you expect carboxylic acids and/or esters to be water soluble?
+Carboxylic Acids, for shorter carbon-chain molecules.
+
+--- slide 31 ---
+Practice
+Which compound below has the highest boiling point?
+CH3CO2CH3			Ester
+CH3CH2COCH3		Ketone
+CH3CH2CO2H			Carboxylic Acid
+CH3CH2CH2CH2OH	Alcohol
+
+--- slide 32 ---
+Solubility
+Carboxylic acids are more soluble in water than are alcohols, ethers, aldehydes, and ketones of comparable molecular mass.
+
+--- slide 33 ---
+Geometry
+Carbon has three electron groups  trigonal planar geometry
+Acyl groups have resonance structures between the carbonyl and adjoining oxygen or nitrogen lone pairs.
+Partial double bond character  bond can not rotate
+Polyethylene terephthalate (PETE)
+
+--- slide 34 ---
+Reactions of Carboxylic Acids
+
+--- slide 35 ---
+Terminology
+The carbon adjacent to the –COOH group is called the  (alpha) carbon.
+The carbon bonded to the a carbon is the b (beta) carbon.
+
+--- slide 36 ---
+Carboxylic Acids are Weak Acids
+Carboxylic acids are proton (H+) donors:
+They are weak acids compared to inorganic acids such as HCl or H2SO4.
+Only a small percentage of a carboxylic acid is ionized in aqueous solution.
+
+--- slide 37 ---
+Neutralization of Carboxylic Acids
+Carboxylic acids react with bases to form salts.
+The acid-base reaction turns a water-insoluble carboxylic acid into a water-soluble carboxylic acid salt.
+
+--- slide 38 ---
+Names for Conjugate Bases
+To name the metal salts of carboxylate ions, put the three pieces below together (named a lot like an ester)
+Sodium ethanoate
+(sodium acetate)
+potassium propanoate
+-oate suffix
+
+--- slide 39 ---
+MSG
+Infographic from
+Compound Interest:
+http://www.compoundchem.com/2014/08/25/msg/
+
+--- slide 40 ---
+Preparation of Carboxylic Acids
+Oxidation of primary alcohols
+We made similar products in the Alcohol Oxidation Lab
+
+--- slide 41 ---
+Reactions of Carboxylic Acids
+Part II
+
+--- slide 42 ---
+Preparation of Esters
+The condensation reaction of a carboxylic acid with an alcohol in the presence of a strong acid catalyst and heat is known as Fischer esterification.
+Condensation reactions are two molecules combining with loss of small molecule (water, HCl, methanol, etc.)
+Dehydration reactions are a subset of condensation reactions involving the loss of water
+The –OR′ group replaces the –OH group.
+Made these 2 weeks ago
+
+--- slide 43 ---
+Preparation of cyclic Esters
+Hydroxy acids can undergo intramolecular esterification to form cyclic esters (lactones).
+Internal esterification takes place in situations where a five- or six-membered ring can be formed
+
+--- slide 44 ---
+Practice
+The characteristic flavor of banana yogurt is the result of a laboratory-prepared ester by reacting ethanoic acid with 1-pentanol. What is the IUPAC of this ester?
+Pentyl ethanoate
+Ethyl pentanoate
+Pentyl acetate
+Pentanol ethanoate
+
+--- slide 45 ---
+Ester to Carboxylic Acid
+In a hydrolysis reaction an ester reacts with water to form a carboxylic acid and an alcohol.
+Hydrolysis reaction is a chemical reaction where water is used to break a covalent bond
+The –OH group replaces the –OR′ group.
+Esters hydrolyze only very slowly, even in boiling water.
+Hydrolysis becomes considerably more rapid, however, when the ester is heated in aqueous acid or base.
+
+--- slide 46 ---
+Carboxylic Acid to Ester and Back
+Ester hydrolysis is the reverse reaction of esterification. These reactions require strong catalysts or enzymes.
+Last Week Tonight in Lab:
+
+--- slide 47 ---
+Saponification (Soap Making)
+A base hydrolysis uses an aqueous base, and is called a saponification:
+This basic hydrolysis forms the carboxylate anion rather than the carboxylic acid product.
+If acyl R group is a long carbon chain, then the carboxylate anion is a soap molecule
+
+--- slide 48 ---
+Soap: Carboxylic Acid Salts
+[notes] Pronouced: my-cell
+
+--- slide 49 ---
+Reactions: Practice
+What two types of chemicals are mixed to form an ester?
+A carboxylic acid and a base
+A carboxylic acid and an alcohol
+A base and an alcohol
+Two different carboxylic acids
+[notes] Page 601 of text has reaction summary
+
+--- slide 50 ---
+Reactions: Practice
+Reactions that produce esters also produce _______.
+H2O
+H2
+H3O+
+O2
+[notes] Reaction is acid catalyzed. It does not produce acid
+
+--- slide 51 ---
+Conclusions
+Carboxylic Acids are weak acids
+Carboxylic acids can be neutralized to form a carboxylate salt
+Carboxylic acids can form hydrogen bonds with other carboxylic acids
+Higher boiling points than alcohols
+Carboxylic acids and esters can form hydrogen bonds with water
+Soluble for 5 carbons or less
+Primary alcohols can be oxidized into carboxylic acids
+Carboxylic acids can be esterified by adding an alcohol with acid catalyst.
+Esters can be hydrolyzed into a carboxylic acid by adding water with acid catalyst

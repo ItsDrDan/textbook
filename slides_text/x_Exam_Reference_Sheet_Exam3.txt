@@ -1,0 +1,149 @@
+            1 IA                                                                                                                                                                                                                                                                                                                                                   18 VIIIA
+    1         1.0079                                                                                                                                                                                                                                                                                                                                           2        4.0025
+
+1           H                                                                                       Periodic Table of Chemical Elements                                                                                                                                                                                                                              He
+        Hydrogen                                                                                                                                                                                                                                                                                                                                                    Helium
+            2.1                 2 IIA                                                                                                                                                                                                                      13 IIIA              14 IVA                15 VA             16 VIA                17 VIIA
+    3             6.941    4        9.0122                                                                                                                                                                                                             5         10.811    6         12.011      7        14.007    8         15.999      9           18.998   10       20.180
+
+2           Li                   Be                                                                                                                                                                                                                            B                   C                    N                   O                    F                   Ne
+         Lithium               Beryllium                                                                                                                                                                                                                     Boron              Carbon                Nitrogen           Oxygen                Fluorine              Neon
+            1.0                   1.5                                                                                                                                                                                                                          2.0                 2.5                  3.0                 3.5                  4.0
+
+
+    11        22.990       12       24.305                                                                                                                                                                                                             13        26.982    14        28.086      15       30.974    16        32.065      17          35.453   18       39.948
+
+3           Na                   Mg                                                                                                                                                                                                                           Al                  Si                    P                   S                    Cl                   Ar
+         Sodium             Magnesium                                                                                                                                                                                                                      Aluminum             Silicon          Phosphorus               Sulfur               Chlorine              Argon
+            0.9                   1.2                3 IIIA            4 IVB              5 VB               6 VIB               7 VIIB          8 VIIIB              9 VIIIB             10 VIIIB                11 IB               12 IIB                   1.5                 1.8                  2.1                 2.5                  3.0
+
+
+    19        39.098       20       40.078      21       44.956   22       47.867    23       50.942    24      51.996      25       54.938     26       55.845      27        58.933    28       58.693     29       63.546     30            65.39   31        69.723    32            72.64   33       74.922    34            78.96   35          79.904   36            83.8
+
+4           K                    Ca                    Sc                Ti                 V                 Cr                  Mn                  Fe                    Co                 Ni                  Cu                   Zn                   Ga                   Ge                    As                 Se                    Br                   Kr
+        Potassium               Calcium          Scandium          Titanium           Vanadium           Chromium            Manganese                Iron                 Cobalt             Nickel              Copper                Zinc                Gallium        Germanium                  Arsenic           Selenium               Bromine              Krypton
+            0.8                   1.0                  1.3               1.5                1.6               1.6                  1.5                 1.8                   1.8               1.8                 1.9                   1.6                   1.6                 1.8                  2.0                 2.4                  2.8                  3.0
+
+
+    37        85.468       38           87.62   39       88.906   40       91.224    41       92.906    42          95.94   43             96   44       101.07      45        102.91    46       106.42     47       107.87     48        112.41      49        114.82    50        118.71      51       121.76    52            127.6   53           126.9   54       131.29
+
+5           Rb                   Sr                    Y                Zr                 Nb                Mo                   Tc                  Ru                    Rh                 Pd                  Ag                   Cd                    In                  Sn                    Sb                 Te                     I                  Xe
+        Rubidium               Strontium             Yttrium       Zirconium              Niobium       Molybdenum          Technetium           Ruthenium            Rhodium             Palladium               Silver          Cadmium                   Indium                Tin                Antimony           Tellurium               Iodine              Xenon
+            0.8                   1.0                  1.2               1.4                1.6               1.8                  1.9                 2.2                   2.2               2.2                 1.9                   1.7                   1.7                 1.8                  1.9                 2.1                  2.5                  2.6
+
+
+    55        132.91       56       137.33            57-71       72       178.49    73       180.95    74      183.84      75       186.21     76       190.23      77        192.22    78       195.08     79       196.97     80        200.59      81        204.38    82            207.2   83       208.98    84             209    85             210   86            222
+
+6           Cs                   Ba              La-Lu                  Hf                 Ta                 W                   Re                  Os                     Ir                Pt                  Au                  Hg                     Tl                  Pb                    Bi                 Po                    At                  Rn
+         Cesium                 Barium           Lanthanide            Hafnium        Tantalum           Tungsten                Rhenium             Osmium               Iridium         Platinum                 Gold               Mercury               Thallium             Lead                 Bismuth           Polonium               Astatine             Radon
+            0.7                   0.9                                    1.3                1.5               1.7                  1.9                 2.2                   2.2               2.2                 2.4                   1.9                   1.8                 1.8                  1.9                 2.0                  2.2                  2.4
+
+
+    87             223     88            226         89-103       104          261   105          262   106          266    107          264    108          277     109           268   110           281   111           280   112            285    113           284   114            289    115          288   116            293    117            292   118           294
+
+7           Fr                   Ra              Ac-Lr                  Rf                 Db                 Sg                  Bh                  Hs                    Mt                 Ds                  Rg                   Cn                   Nh                   Fl                   Mc                  Lv                    Ts                  Og
+        Francium                Radium               Actinide     Rutherfordium           Dubnium        Seaborgium              Bohrium             Hassium          Meitnerium         Darmstadtium        Roentgenium          Copernicium               Nihonium            Flerovium            Moscovium          Livermorium           Tennessine           Oganesson
+            0.7                   0.9
+
+
+
+
+                                                                  57       138.91    58       140.12    59      140.91      60       144.24     61             145   62        150.36    63       151.96     64       157.25     65        158.93      66        162.50    67        164.93      68       167.26    69        168.93      70          173.04   71       174.97
+
+                                                                        La                 Ce                 Pr                  Nd                 Pm                    Sm                  Eu                  Gd                   Tb                   Dy                  Ho                     Er                Tm                    Yb                    Lu
+                                                                  Lanthanum               Cerium        Praseodymium Neodymium                  Promethium            Samarium            Europium           Gadolinium               Terbium          Dysprosium              Holmium                Erbium             Thulium              Ytterbium            Lutetium
+                                                                         1.1                1.1               1.1                  1.1                 1.1                   1.2               1.1                 1.2                   1.1                   1.2                 1.2                  1.2                 1.3                  1.1                  1.1
+
+
+                                                                  89           227   90       232.04    91      231.04      92       238.03     93           237     94            244   95            243   96            247   97             247    98            251   99             252    100          257   101            258    102            259   103           262
+
+        Z           mass
+                                                                        Ac                 Th                 Pa                   U                  Np                    Pu                Am                  Cm                    Bk                    Cf                  Es                   Fm                 Md                    No                    Lr
+                                                                   Actinium               Thorium       Protactinium             Uranium         Neptunium                Plutonium       Americium               Curium              Berkelium            Californium         Einsteinium            Fermium       Mendelevium                Nobelium            Lawrencium
+                                   man-                                  1.1                1.3               1.5                  1.4              1.4                      1.3            1.3                    1.3                   1.3                    1.3                1.3                   1.3            1.3                      1.3
+         Symbol                    made
+             Name
+        electronegativity
+CHEM 3A
+
+
+Conversion Factors                                     Other Polyatomic Ions
+Unit              Symbol      Def. or Equivalent
+                                                       acetate           CH3 COO –
+                     Distance
+1 mile            mi          1.6093 km                hydronium         H3 O +
+                              5280 ft                  hydroxide         OH –
+1 yard            yd          36 in, 3 ft              permanganate      MnO4 –
+1 foot            ft          12 in                    oxalate           C2 O 4 2 –
+1 inch            in          2.54 cm (exactly)
+                                                       ammonium          NH4+
+                      Volume                           cyanide           CN –
+1 liter           L            0.26417 gal
+                                                       chromate          CrO42 –
+1 gallon          gal          4 qt., 3.785 L
+1 quart           qt           2pt, 0.946 L            dichromate        CrO72 –
+1 pint            pt           2 cup                   peroxide          O 22 –
+1 cup             cup          8 fl oz, 16 tbls        mercury(I)        Hg22+
+1 cubic cm        cm3 or cc    1 mL
+                        Mass                           Physical Constants
+1 gram            g            0.002204 lbs.,
+                               0.03527 oz.             Unit              Symbol Def. or Equivalent
+1 ton (English)   ton          2000 lb
+                                                                        Physical Constants
+1 pound           lb           16 oz., 453.59 g
+1 metric ton      Mg           1000 kg                 Ideal Gas         R         0.082058
+1 kilogram        kg           1000g, 2.2046 lb        Constant                    L atm mol 1 K 1
+atomic            amu          1.6605 ⇥ 10 24 g                                    0.083145
+mass unit                                                                          L bar mol 1 K 1
+                                                                                   62.36 L Torr mol 1 K 1
+                      Energy                                                       8.3145 J mol 1 K 1
+1 joule           J            1 kg m2 s 2             Avogadro’s        NA        6.0221 ⇥ 1023
+                               0.23901 cal             Number
+                               0.0098692 L atm
+                                                       1 mole            mol      6.0221⇥1023 molecules,
+1 calorie         cal          4.184 J (exactly)
+                                                                                  formula units, or atoms
+1 kilocalorie     kcal, Cal    1000 cal
+                                                       Speed of light    c        2.9979⇥108 meter/s
+                     Pressure
+                                                       in a vacuum
+1 atmosphere      atm         760 Torr
+                              101325 Pa                Electron mass     me       9.109535⇥10 28 g
+1 Torr            Torr        1 mmHg,                  Electron                   1.60219⇥10 19 C
+                              1.3332 ⇥ 102 Pa          charge
+1 Pascal          Pa          1 Nm 2                   Proton mass       mp       1.672649⇥10 24 g
+1 bar             bar         1 ⇥ 105 Pa               Neutron mass      mn       1.674954⇥10 24 g
+                  Temperature
+Kelvin            K           C + 273.15
+Celsius            C        ( F 32)/1.8                Specific Heat Capacities (Csp )
+Fahrenheit         F        1.8 ⇥ C + 32
+                                                       Lead (Pb)                0.128 J g 1 C 1
+Strong Acids          Strong Bases                     Gold (Au)                0.128 J g 1 C 1
+HCl                   LiOH                             Copper (Cu)              0.385 J g 1 C 1
+HClO4                 NaOH
+                                                       Ethanol(CH3 CH2 OH)      2.42 J g 1 C 1
+HNO3                  KOH; Ca(OH)2
+H2 SO4                RbOH; Sr(OH)2                    Water (H2 O)             4.184 J g 1 C 1 (liquid)
+HBr                   CsOH; Ba(OH)2                                             2.04 J g 1 C 1 (solid)
+HI                                                                              2.09 J g 1 C 1 (gas)
+
+
+
+
+                                                   2                                    Revision 20170826
+                          Dilution Formula
+
+
+
+
+R = 0.08206 atm-L/mol-K
+
+
+
+
+                                                      𝑛
+                         𝑃𝑖 = 𝑃𝑡𝑜𝑡 ∙ 𝜒𝑖 = 𝑃𝑡𝑜𝑡 (𝑛 𝑖 )
+                                                      𝑡𝑜𝑡
+
+760 torr = 1 atm = 760 mmHg = 14.7 psi = 101,325 Pa
+

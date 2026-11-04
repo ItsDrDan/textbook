@@ -1,0 +1,561 @@
+# Lecture 26 Nucelic Acids and Protein Synthesis.pptx  (76 slides)
+
+--- slide 1 ---
+Attendance
+Top Secret Code Word for 11/13 is DNA
+
+--- slide 2 ---
+Chapter 21: Nucleic Acids
+
+--- slide 3 ---
+Building Blocks of Nucleic Acids
+Learning Objectives: 
+Identify the ribose sugar and bases that make up DNA and RNA.
+Describe the structural difference between a nucleoside and a nucleotide
+
+--- slide 4 ---
+Hereditary Information
+Biologists suspected that the transmission of hereditary information took place in the cell nucleus, more specifically in structures called chromosomes.
+Boveri-Sutton chromosome theory – 1902.
+Humans have 46 chromosomes (23 pairs), each made up of many genes.
+A gene is the portion of the DNA molecule responsible for the synthesis of a single protein.
+DNA is a nucleic acid
+
+--- slide 5 ---
+Nucleic Acids: Polymers
+Nucleic acids are 
+molecules that store information for cellular growth and reproduction.
+unbranched biopolymers composed of repeating monomers.
+There are two types of nucleic acids: 
+Deoxyribonucleic acid (DNA)
+Ribonucleic acid (RNA)
+
+--- slide 6 ---
+Nucleic Acids: DNA and RNA
+DNA (deoxyribonucleic acid):
+is found  within the cell nucleus.
+stores and transfers the genetic information of an organism from one generation to another.
+is passed from existing cells to new cells during cell division.
+RNA (ribonucleic acid):
+occurs in all part of cell.
+translates the genetic information contained in DNA into proteins needed for all cellular function.
+
+--- slide 7 ---
+Components of Nucleic Acids
+Nucleic acids are polymers of nucleotides
+Each nucleotide contains a base, a sugar, and phosphate.
+[notes] Phosphate has a T in it  NucleoTide
+BaSe and deoxyriboSe have S’s
+
+--- slide 8 ---
+Nucleotides:N-bases
+The N-containing base is one of 5 types.
+Based on purine or pyrimidine
+Which ones are in DNA?
+Which ones are in RNA?
+“Pyramids are built for U To C”
+“Pure As Gold” 
+[notes] Purine: Adenine, Guanine
+Pyrimidine: Thymine, Cytosine, Uracil
+
+--- slide 9 ---
+Nucleotides: Pentose Sugar
+RNA
+In RNA the monosaccharide is the aldopentose D-ribose.
+DNA
+In DNA, the monosaccharide is the aldopentose D-2-deoxyribose.
+C atoms are usually numbered with primes (‘) to distinguish them from the atoms in the bases.
+
+--- slide 10 ---
+Nucleosides: Overall Structure
+A nucleoside is formed by joining the anomeric carbon of the monosaccharide with a N atom of the base with a β-N-glycosidic bond.
+Condensation reaction
+[notes] Condensation reaction
+
+--- slide 11 ---
+Nucleotide: Nucleoside with Phosphate
+A nucleotide forms when the —OH on C5′ of a sugar in a nucleoside bonds to hydrogen phosphate.
+5′ 
+5′ 
+          Hydrogenphosphate and deoxycytidine 	               Deoxycytidine monophosphate (dCMP) 
+
+--- slide 12 ---
+Nucleotides: Overall Structure
+Nucleic acids are biopolymers of nucleotides.
+Each nucleotide is composed of:
+a phosphate,
+an aldopentose sugar,
+and a N-containing base.
+
+--- slide 13 ---
+Nucleoside & Nucleotide Nomenclature
+To name a nucleoside derived from a pyrimidine base, use the suffix “-idine”.
+To name a nucleoside derived from a purine base, use the suffix “-osine”.
+For deoxyribonucleosides, add the prefix “deoxy-”
+For Nucleotides: add “5’-monophosphate” to the end of the nucleoside name.	
+
+--- slide 14 ---
+Names of Nucleosides and Nucleotides
+
+--- slide 15 ---
+Which of the following nitrogen bases is not a pyrimidine?
+cytosine
+adenine
+thymine
+uracil
+Practice
+[notes] Answer: B
+
+--- slide 16 ---
+Practice	
+Nucleosides and nucleotides differ in that only a nucleotide contains _______.
+a base that contains nitrogen
+a sulfate group
+a phosphate group
+a five-carbon sugar
+[notes] Answer: C
+
+--- slide 17 ---
+Practice
+What’s the name of the nucleotide to the right?
+(The base is adenine)
+A) Adenosine 5’-monophosphate
+B) Deoxyadenosine 5’-monophosphate
+C) Adenidine 5’-monophosphate
+D) Deoxyadenidine 5’-monophosphate
+What would the abbreviation be?
+[notes] Adenosine is a purine. Gets a –osine ending
+
+AMP
+
+--- slide 18 ---
+AMP, ADP, and ATP
+Adding phosphate groups to AMP forms the diphosphate ADP and the triphosphate ATP.
+
+--- slide 19 ---
+Primary & Secondary Structure 
+Learning Objectives:
+Describe the primary structure of RNA and DNA: describe the linkages connecting the nucleic acids
+Describe the secondary structure of DNA
+Given one strand of DNA, draw the complementary base pairs on the other strand
+
+--- slide 20 ---
+Nucleic Acids: Primary Structure
+Nucleic acids (DNA and RNA) are polymers of nucleotides joined by phosphodiester linkages.
+Backbone consisting of alternating sugar and phosphate groups.
+Phosphates link 5’ to 3’ carbon
+
+--- slide 21 ---
+Primary Structure
+The identity and order of the bases distinguish one polynucleotide from another – primary  structure.
+A polynucleotide has one free phosphate group at the 5’ end and one free OH group at the 3’ end.
+In DNA, the sequence of the bases carries the genetic information of the organism.
+
+--- slide 22 ---
+Primary Structure: Identifying order
+Nucleic acids versus proteins:
+
+--- slide 23 ---
+Nucleic Acids Naming
+A nucleic acid polymer
+has a free 5′-phosphate group at one end and a free 3′ —OH group at the other end
+is read from the free 5′ end, using the letters of the bases  
+This polynucleotide would be named CATG, reading from the 5’ end to the 3’ end.
+
+--- slide 24 ---
+Nucleic Acids: Secondary Structure
+Amounts of A,T,G, and C present in DNA molecules helped determine the three-dimensional structure of the DNA molecules:
+Chargaff’s Rules:
+amounts of A and T are always equal
+amounts of C and G are always equal
+DNA consists of two polynucleotide strands that wind into a right-handed double helix.
+The two strands are anti-parallel.
+The sugar-phosphate groups lie on the outside of the helix and the bases lie on the inside.
+
+--- slide 25 ---
+DNA Structure History
+Rosalind Franklin was a Chemist & X-ray crystallographer who made contributions towards understanding the molecular structure of DNA and RNA (i.e. Photo 51)
+Rosalind’s colleagues, James Watson and Francis Crick were awarded the Noble Prize for the structure of DNA in 1962.
+Rosalind Franklin passed away in 1958 at age 37 (ovarian cancer). Must be alive to win Noble Prize.
+
+--- slide 26 ---
+Nucleic Acids – Secondary Structure 
+The two strands are connected by hydrogen bonds.
+The size of the interior of the DNA double helix, limits the base pairs that can hydrogen-bond to one another:
+Two large purines = Too big!
+Two small pyrimidines = Too small!
+The best pairing is between a purine and pyrimidine
+Out of the   6   base pair combinations only   2   are the most favorable.
+
+--- slide 27 ---
+Complementary Base Pairs
+A- T
+G-C
+Two hydrogen bonds
+Three hydrogen bonds
+
+--- slide 28 ---
+Practice: Complimentary Base Pairs
+Write the complementary base sequence for the strand of DNA section shown below:
+[notes] (Free Streaming on Sony Crackle – 4/2019)
+
+--- slide 29 ---
+DNA Replication
+Learning Objective: Describe the process of DNA replication
+
+--- slide 30 ---
+DNA Replication
+Each time a cell divides, an exact copy of the DNA of the parent cell is needed for the new daughter cell. 
+DNA replication involves
+unwinding the DNA
+pairing the bases in each strand with new bases to form new complementary strands
+producing two new DNA strands that exactly duplicate the original DNA
+
+--- slide 31 ---
+DNA Replication
+During DNA Replication
+an enzyme, helicase, unwinds the parent DNA at several sections
+At each open DNA section (called a replication fork), DNA polymerase catalyzes the formation of 5′–3′ ester bonds of the leading strand
+the lagging strand (growing in the 3′–5′ direction) is synthesized in short sections called Okazaki fragments 
+DNA ligase joins the Okazaki fragments to give a single 3′–5′ DNA strand
+Semi-conservative process: each new DNA double helix contains one strand of the parent.
+leading strand, growing continuously
+lagging strand, growing in small fragments
+[notes] leading strand, growing continuously
+lagging strand, growing in small fragments
+
+--- slide 32 ---
+DNA Replication
+Artistic depiction of DNA replication showing enzymes along strands
+
+--- slide 33 ---
+DNA Replication
+DNA replication usually occurs bi-directionally at multiple sites within the molecule
+
+--- slide 34 ---
+Practice
+Match the following to their definitions. 
+helicase			
+DNA polymerase
+replication fork
+Okazaki fragments
+A.  short segments formed by the lagging strand
+B.  the starting point for synthesis in unwound DNA sections
+C.  the enzyme that unwinds the DNA double helix
+D.  the enzyme that catalyzes the formation of
+     phosphodiester bonds of complementary bases
+
+--- slide 35 ---
+DNA vs. RNA
+Learning Objectives:
+Identify the different types of RNA
+
+--- slide 36 ---
+DNA vs. RNA
+Four major differences exist between RNA molecules and DNA molecules:
+Sugar: deoxyribose in DNA , ribose in RNA 
+Base: Thymine in DNA , Uracil in RNA 
+DNA is doubled-stranded, RNA is singled-stranded
+Size: DNA is larger, RNA is smaller 
+[notes] ,
+
+--- slide 37 ---
+RNA Structure
+A RNA molecule can fold back upon itself and form double-helical regions. 
+If the 2 portions of the strand are complementary, then hydrogen bonding occurs between base pairs, and a hairpin loop forms.
+
+--- slide 38 ---
+RNA
+transmits information from DNA to make proteins 
+Several types:
+Messenger RNA (mRNA) carries genetic information from DNA to the ribosomes.
+Transfer RNA (tRNA) brings amino acids to the ribosome to make the protein.
+Ribosomal RNA (rRNA) makes up 2/3 of ribosomes where protein synthesis takes place.
+Learning Goal: Identify the different types of RNA
+
+--- slide 39 ---
+Learning Objective: 
+Identify the different types of RNA
+Describe the synthesis of mRNA
+Use the genetic code to write the amino acid sequence for a segment of mRNA
+DNA Transcription & RNA Translation
+
+--- slide 40 ---
+Protein Synthesis
+Protein synthesis involves
+transcription, in which mRNA is formed from a gene on a DNA strand
+Occurs in cell nucleus
+translation, in which tRNA molecules bring amino acids to mRNA to build a protein
+Occurs in cytoplasm
+[notes] https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials_en.html
+
+“Expression”
+
+--- slide 41 ---
+Transcription: Synthesis of mRNA
+In transcription, 
+a section of DNA containing the gene unwinds
+one strand of DNA is copied, starting at the initiation point (which has the sequence TATAAA)
+an mRNA is synthesized using complementary base pairing, with uracil (U) replacing thymine(T)
+the newly formed mRNA moves out of the nucleus to ribosomes in the cytoplasm
+A gene is a segment of a DNA strand responsible for the production of a specific mRNA molecule.
+
+--- slide 42 ---
+Transcription: RNA Polymerase
+The enzyme RNA polymerase forms the linkages between the ribonucleotides and the template DNA strand.
+Transcription proceeds from the 3’ end to the 5’ end of the template.
+Transcription ends when the RNA polymerase enzyme encounters a sequence of bases that is “read” as a stop signal. 
+
+--- slide 43 ---
+Practice: Transcription
+What is the sequence of bases in mRNA produced
+from a section of the template strand of DNA that has
+the sequence of bases: 3′–C–T–A–A–G–G–5′?
+	  3′–C–T–A–A–G–G–5′
+      5’–G–A–U–U–C–C–3′
+[notes] GAUUCC
+
+--- slide 44 ---
+Post-Transcription
+In post-transcription, specific portions of mRNA (pre-mRNA) are deleted and the retained portions are spliced together.
+Genes are segmented in exons and introns.
+An exon is a gene segment that conveys (express) genetic information.
+An intron is a  gene segment that are in-between exons (not genetic info).
+Need to edit the pre-mRNA to get the mature mRNA
+    = remove introns and join exons – splicing using spliceosome.
+[notes] Introns are in-between the Extra important information
+
+--- slide 45 ---
+Post-Transcription
+Learning Goal: Describe the synthesis of mRNA
+[notes] Exons: Express important information
+Introns: In the middle
+
+--- slide 46 ---
+Regulation of Transcription
+Transcription is regulated by
+a specific mRNA synthesized when the cell requires a particular protein
+feedback control, in which the end products  speed up or slow the synthesis of mRNA
+enzyme induction, in which high levels of a reactant induce the transcription process to provide the necessary enzymes for that reactant
+[notes] A transcription factor must recognize and bind to promoter segments at the start of the gene.
+
+Activators bind with a transcription factor and increase the rate of transcription.
+
+Transcription factors at the promoter region bind RNA polymerase to DNA, which activates the transcription of a gene.
+
+--- slide 47 ---
+The Genetic Code
+The base sequence in mRNA determines the amino acid sequence in the synthesis of protein.
+The base sequence of an mRNA molecule involves 4 different bases - A, C, G, and U.
+A codon is a three-nucleotide sequence in an mRNA molecule that codes for a specific amino acid.
+There are 64 codons.
+Why 64 codons?
+There are 4 bases in DNA. There are three bases per codon
+4 x 4 x 4 = 64 combinations
+[notes] How many bases in DNA?
+How many bases per codon?
+How many combinations possible?
+
+--- slide 48 ---
+Attendance
+Top Secret Code Word for 11/18 is RNA
+
+--- slide 49 ---
+Practice
+Write the amino acids coded for by a section of mRNA with the following base sequence:
+	5ʹ  GCC GUA GAC  3ʹ 
+      Some possible codons to use are the following:
+	GGC 	=  Glycine			GAC	=  Aspartic acid
+	CUC	=  Leucine		GUA	=  Valine
+	GCC	=  Alanine			CGC	= Arginine
+Ala – Val - Asp
+Learning Goal: Use the genetic code to write the amino acid sequence for a segment of mRNA
+
+--- slide 50 ---
+Practice
+Write the amino acid coded for by a section of mRNA with the following base sequence:
+	5ʹ  AAC GGG UGU  3ʹ 
+Then Draw the Amino Acid Sequence at physiological pH
+
+--- slide 51 ---
+Translation
+Translation is the synthesis of proteins from mRNA
+mRNA contains the sequence of codons that determine the order of amino acids in the protein.
+Individual tRNAs bring specific amino acids to the peptide chain.
+Each tRNA contains an anticodon of three nucleotides that is complementary to the codon in mRNA and identifies individual amino acids.
+rRNA contains binding sites that provide the platform on which protein synthesis occurs.
+
+--- slide 52 ---
+tRNA
+tRNA:
+is drawn as a cloverleaf shape (but is really L-shaped)
+with an acceptor stem at the 3’ end, which carries the needed amino acid (bonds through free OH group)
+ and an anticodon, which  identifies the needed amino acid.
+[notes] Acceptor stem at the 3’ end
+Anticodon which identifies the amino acid
+
+--- slide 53 ---
+tRNA Activation
+The activation of tRNA
+occurs when a synthetase uses energy from ATP hydrolysis to attach an amino acid to a specific tRNA 
+prepares each tRNA to use a triplet called an anticodon to complement a codon on mRNA
+Each tRNA and each amino acid is recognized by an aminoacyl tRNA synthetase enzyme. 
+An amino acid is covalently attached to the tRNA forming an aminoacyl ester:
+
+--- slide 54 ---
+Ribosomes
+A ribosome is an rRNA–protein complex that serves as the site for the translation phase of protein synthesis.
+4 rRNA molecules and 80 proteins in two subunits.
+Each subunit: 65% rRNA and 35% protein.
+The active site is located in the large ribosomal subunit. 
+The active site is mostly rRNA.
+The predominance of rRNA at the active site gives it the impression of an enzyme – ribozyme.
+The mRNA binds to the small subunit of the ribosome.
+[notes] https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials_en.html
+
+--- slide 55 ---
+Translation - Initiation
+Initiation begins with mRNA binding to the P-site (peptidyl site) of the small ribosomal unit.
+A tRNA brings the first amino acid, always at the start codon AUG (methionine).
+
+--- slide 56 ---
+Translation - Elongation
+Elongation proceeds as the next tRNA molecule delivers the next amino acid.
+The 2nd amino acid binds at the A site (aminoacyl site). 
+
+--- slide 57 ---
+Translation - Elongation
+The enzyme peptidyl transferase links the P-site amino acid to the A-site amino acid to form a dipeptide. 
+The 1st tRNA, which is now empty, leaves.
+
+--- slide 58 ---
+Translation - Elongation
+The ribosome shifts on the mRNA by 3 base positions, i.e. a codon – translocation.
+The new dipeptide is now at the P-site and a 3rd tRNA can bind to the A-site.
+
+--- slide 59 ---
+Translation - Elongation
+A new peptide bond is formed.
+The 2nd tRNA is released and mRNA moves by one codon. 
+A 4th tRNA can bind to the newly empty P-site and so on – chain elongation.
+
+--- slide 60 ---
+Translation - Elongation
+A new peptide bond is formed – acyl transfer reaction.
+
+--- slide 61 ---
+Translation - Termination
+The polypeptide continues to grow via translocation until a stop codon (UAA, UAG, or UGA) is reached.
+The polypeptide is then released from the last tRNA through hydrolysis.
+The initial amino acid, methionine, is usually removed from the peptide chain.
+Now have the amino acid sequence = 1o structure
+ … then  2o, 3o, and 4o structures forms = protein is active
+
+--- slide 62 ---
+Translation
+Many ribosomes can move simultaneously along a single mRNA molecule – polysome or polyribosome.
+The multiple use of mRNA molecules reduces the amount of energy that the cell expends to synthesize needed protein.
+
+--- slide 63 ---
+Practice
+Match the following terms to their definition. 
+activation 	    		
+initiation  
+Translocation 
+termination
+A.  Ribosomes move along mRNA, adding amino acids to a growing peptide chain.
+B.  A completed peptide chain is released.
+C.  A tRNA attaches to its specific amino acid.
+D.  A tRNA binds to the AUG codon of the mRNA on the ribosome.
+
+--- slide 64 ---
+Practice
+A _____ is a(n) _____ complex that serves as the site for the translation phase of protein synthesis.
+ribosol; tRNA-protein
+ribosol; mRNA-protein
+ribosome; mRNA-protein
+ribosome; rRNA-protein
+
+--- slide 65 ---
+Genetic Mutations
+Learning Objective: Identify the type of change in DNA as a point mutation, deletion mutation or insertion mutation.
+
+--- slide 66 ---
+Genetic Mutations
+A mutation is an error in base sequence in a gene that is reproduced during DNA replication. 
+The error is passed on during transcription.
+The error causes a change in the amino acid sequence during the protein synthesis. 
+
+--- slide 67 ---
+Genetic Mutations
+Learning Goal: Identify the type of change in DNA as a point mutation, deletion mutation or insertion mutation.
+
+--- slide 68 ---
+Effects of Point Mutations
+Point mutations have the same number of bases in the mRNA so the mutation may be silent or result in a change of one amino acid. 
+Silent Mutation:
+No change
+One amino acid changed:
+
+--- slide 69 ---
+Effects of Frameshift Mutations
+Frameshift mutations insert or delete a base from the DNA.
+Frameshift mutations affect all the triplets following the mutation.
+[notes] Mutation mRNA sequence is screwy because they didn’t change the pairing. Fixed with powerpoint shapes.
+
+UUGGAGCA-UGCUA
+
+--- slide 70 ---
+Effects of Mutations: Stop
+A mutation could result production of a stop codon
+This a big change, since the remainder of the protein will not be synthesized, which can have catastrophic results.
+
+--- slide 71 ---
+Genetic Mutations
+Some mutations are random, while others are caused by mutagens.
+A mutagen is a substance or agent that causes a change in the structure of a gene.
+Type of mutagens:
+Radiation: UV light (skin cancer), X-rays, and radioactivity
+Chemical agents: HNO2 (deamination of heterocyclic nitrogen bases, C becomes U)
+Body has repair enzymes that recognize and replace altered bases.
+
+--- slide 72 ---
+Effects of Mutations
+Some mutations do not cause significant changes in the primary structure of a protein.
+For drastic changes in the amino acid sequence, the structure of the resulting protein may lose its biological activity.
+Proteins no longer catalyze (i.e., enzymes), certain substances may accumulate in the cells until they are poisonous.
+When a mutation causes a protein deficiency or defective protein synthesis and this mutation is passed through generations, it is a genetic disease.
+
+--- slide 73 ---
+Viruses
+Learning Objective: Describe the methods by which a virus infects a cell
+
+--- slide 74 ---
+Viruses
+Viruses
+are small particles of DNA or RNA that require a host cell to replicate
+cause a viral infection when the DNA or RNA enters a host cell
+are synthesized in the host cell from the viral RNA produced by viral DNA
+
+--- slide 75 ---
+Reverse Transcription
+In reverse transcription,
+a retrovirus, which contains viral RNA but no viral DNA, enters a cell
+the viral RNA uses reverse transcriptase to produce a viral DNA strand
+the viral DNA strand forms a complementary DNA strand
+the new DNA uses the nucleotides and enzymes in the host cell to synthesize new virus particles
+
+--- slide 76 ---
+Conclusions
+Nucleosides consist of one of five bases bonded to an aldopentose
+Purine Bases: Adenine, Guanine
+Pyrimidine Bases: Thymine, Cytosine, Uracil
+Aldopentoses: Ribose or deoxyribose
+Nucleotides are nucleosides bonded to a phosphate group
+Nucleic acids (DNA and RNA) are polymers of nucleotides
+DNA stores the genetic information for a cell.
+Replication is the process by which DNA makes a copy of itself when a cell divides.
+Transcription is the synthesis of RNA from DNA
+Translation is the synthesis of proteins from RNA
+Genetic mutations in the  DNA may cause serious changes in the resulting proteins made.
+Viruses do not have the ability to replicate on their own: they need a host cell

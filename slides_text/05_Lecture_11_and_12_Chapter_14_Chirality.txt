@@ -1,0 +1,163 @@
+# Lecture 11 and 12 (Chapter 14)- Chirality.pptx  (30 slides)
+
+--- slide 1 ---
+Aldehydes and KetonesIntroduction to Chirality 
+Chapter 14
+
+--- slide 2 ---
+Draw the condensed structural formula of the acetal formed by adding CH3OH to butanal.
+butanal
+Practice
+
+--- slide 3 ---
+Reversible Reaction
+Equilibrium can be driven in either direction by Le Chatelier’s Principle
+Acetals can be converted back into aldehydes and ketones by hydrolysis
+Two alcohol molecules formed
+
+--- slide 4 ---
+The products of these two reactions are:
+(1) primary alcohol,   	(2)  carboxylic acid
+(1) secondary alcohol,  	(2)  carboxylic acid
+(1) primary alcohol,   	(2)  no reaction
+(1) secondary alcohol,  	(2)  no reaction
+Practice
+
+--- slide 5 ---
+More Practice
+The products of these two reactions are:
+(1) primary alcohol,   	(2)  carboxylic acid
+(1) secondary alcohol,  	(2)  carboxylic acid
+(1) primary alcohol,   	(2)  no reaction
+(1) secondary alcohol,  	(2)  no reaction
+
+--- slide 6 ---
+Outline
+Aldehydes and Ketones: Two carbonyl functional groups
+Nomenclature of Aldehydes and Ketones
+Physical Properties of Aldehydes and Ketones
+Oxidation and Reduction reactions of aldehydes and ketones
+Hemiacetals, acetals (and hemiketals and ketals)
+Stereoisomers (September 15)
+Chirality 
+Enantiomers and Diastereomers
+Fischer Projections
+
+--- slide 7 ---
+Chiral Molecules
+Chapter 15.2
+
+--- slide 8 ---
+
+--- slide 9 ---
+Types of Constitutional Isomers
+
+--- slide 10 ---
+Stereoisomers: Chirality
+Stereoisomers always have the same connectivity of atoms, but different arrangement in space
+A stereocenter is a carbon that is bonded to four different groups
+Chiral objects have non-superimposable mirror images
+
+--- slide 11 ---
+Achirality
+A molecule that is superimposable on its mirror image is achiral.
+Two socks from a pair are mirror images that are superimposable
+
+--- slide 12 ---
+Practice
+Classify each object as chiral or achiral.
+Achiral
+Chiral
+Chiral
+Achiral
+
+--- slide 13 ---
+Chirality in Molecules
+Draw molecule in 3D
+Draw mirror image
+Can you rotate the molecule to make it align on it’s mirror image?
+
+--- slide 14 ---
+Recognizing Chiral Centers
+A C of a multiple bond does not have four groups around it, so it is never a chirality center.
+
+--- slide 15 ---
+Types of Stereoisomers
+Enantiomers
+Enantiomers are stereoisomers that are mirror images, and not superimposable
+Diastereomers
+Diastereomers are stereoisomers that are not mirror images and not superimposable
+
+--- slide 16 ---
+Practice
+Find the chiral centers (stereocenters) in the following molecules, if any:
+[notes] 3 stereocenters (CH-OH)
+No chiral center
+One chiral center
+2 chiral centers
+
+--- slide 17 ---
+Aldehydes and KetonesIntroduction to Chirality II 
+Chapter 14
+
+--- slide 18 ---
+Biological Connections
+Many drugs are chiral, and often they must interact with a chiral receptor to be effective.
+One enantiomer of a drug may be effective in treating a disease whereas its mirror image may be ineffective.
+
+--- slide 19 ---
+Chirality Matters!
+Two different enantiomers can interact differently with smell receptors in the brain and have different perceived odors.
+
+--- slide 20 ---
+Chirality Matters!
+Naproxen (the pain reliever in Aleve) has a toxic enantiomer, so care must be taken in its  manufacture. 
+
+--- slide 21 ---
+Fischer Projections
+Drawing Chiral Molecules
+
+--- slide 22 ---
+Fischer Projections
+A Fischer projection takes a 3D tetrahedral shape, and re-draws it:
+places the most oxidized group at the top.
+uses vertical lines for bonds that go back.
+uses horizontal lines for bonds that go forward.
+
+--- slide 23 ---
+Fischer Projections
+
+--- slide 24 ---
+Practice: Fischer Projection
+Draw the Fischer projection for the following dash-wedge structure:
+
+--- slide 25 ---
+Fischer Projections: D- and L- Notation
+L-  and D- system used to designate the handedness of molecules
+ D- because the OH group is on the right side (dexter)
+ L- because the OH group is on the left side (laevus)
+
+--- slide 26 ---
+D- and L- Notation
+The D,L- designation is determined by the position of the  OH group attached to the chiral carbon farthest from the carbonyl group.
+
+--- slide 27 ---
+Fischer Projection
+Identify the following as a D or L isomer.  
+
+--- slide 28 ---
+Diastereomers
+The A & C and the B & D pairs are diastereomers.
+Diastereomers are stereoisomers that are non-mirror images.
+
+--- slide 29 ---
+Conclusions
+Alcohols can add to the carbonyl group making hemiacetals, hemiketals, acetals and ketals
+Stereoisomers have the same connectivity of atoms, but in different orientations in space.
+A chiral molecule must have at least one chiral center (stereocenter) 
+
+--- slide 30 ---
+Muddiest Point
+Think: What was most confusing about today? What do you still have a question about?
+Pair: Can a student near you answer your question?
+Share 

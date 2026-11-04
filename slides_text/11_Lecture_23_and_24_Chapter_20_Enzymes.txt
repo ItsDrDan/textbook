@@ -1,0 +1,518 @@
+# Lecture 23 and 24 Chapter 20 - Enzymes.pptx  (70 slides)
+
+--- slide 1 ---
+Learning Objectives
+Describe enzymes and their role in enzyme catalyzed reactions
+Classify enzymes by the type of reaction they catalyze (given a chemical equation of an enzyme catalyzed reaction)
+Describe the effect of changes of temperature, pH, and concentration on enzyme activity
+Describe the role of allosteric enzymes, feedback control, and covalent modification in regulating enzyme activity.
+Describe competitive/non-competitive inhibition and reversible/irreversible inhibition
+Describe the types of cofactors found in enzymes.
+Chapter 20: Enzymes
+
+--- slide 2 ---
+Outline
+
+--- slide 3 ---
+Enzymes: Structure and FunctionLearning Objective: Describe enzymes and their role in enzyme catalyzed reactions
+
+--- slide 4 ---
+Enzyme Structure
+Enzymes are proteins that serve as biological catalysts for reactions in all living organisms
+Enzymes can have a non-protein part that is essential to enzyme’s catalytic activity.
+An inorganic substance (i.e. metal ion) that binds to an enzyme is called a cofactor 
+An organic molecule that binds to enzymes is called a coenzyme
+
+--- slide 5 ---
+Enzyme Structure: Globular
+Most enzymes are globular proteins: Globe-shaped/round
+
+--- slide 6 ---
+Enzyme Function: Catalysts
+Catalysts are un-changed in a chemical reaction
+Catalysts lower the activation energy for a reaction
+Catalysts provide an alternative pathway for a reaction
+Enzymes increase the rate of a reaction (106 to 1012 times faster)
+Enzymes are the most effective catalysts known
+
+--- slide 7 ---
+Enzyme Function: Specificity
+Enzymes are very specific.
+Three categories of specificity: 
+Absolute specificity: one substrate only
+Group specificity: one type of substrate
+Linkage specificity: one type of bond
+Enzymes are also specific with respect to stereochemistry.
+
+--- slide 8 ---
+Models of Enzyme Action
+An enzyme contains an active site that binds the substrate, forming an enzyme-substrate complex.
+The active site is formed due to the folding and bending of the protein.
+Once the reaction has occurred, the catalyst released the product(s). The catalyst is regenerated.
+Two models have been proposed to explain the specificity of a substrate for an enzyme’s active site.
+
+--- slide 9 ---
+Lock & Key Model
+In the lock-and-key model, the active site is a rigid cavity; to react the substrate must exactly match the shape of the active site.
+
+--- slide 10 ---
+Induced-Fit Model
+In the induced-fit model, the active site has a flexible shape, which can adjust to fit a variety of substrate shapes.
+
+--- slide 11 ---
+Practice
+Activator
+Coenzyme
+Cofactor
+Substrate
+Active Site
+The compound that has a reaction catalyzed by an enzyme is called a(n) _______.
+[notes] Answer: D
+
+--- slide 12 ---
+Attendance
+Top Secret Code Word for 11/4 is activation energy
+
+--- slide 13 ---
+Enzyme Classification
+Learning Objective:
+Classify enzymes by the type of reaction they catalyze (given a chemical equation of an enzyme catalyzed reaction)
+
+--- slide 14 ---
+Enzyme Classification: Names
+The name of an enzymes is based on the reaction it catalyzes or the substrate involved in the reaction.
+The names of most enzymes end with the suffix “-ase”
+The type of reaction of an enzyme is often used as a prefix.
+Often the identity of the substrate is used in addition of the type of reaction.
+Enzymes are classified into six categories by the type of reaction they catalyze.
+
+--- slide 15 ---
+Oxidoreductases
+Oxidoreductases catalyze oxidation-reduction reactions.
+When a substrate is oxidized or reduced, a cofactor (coenzyme) is required, which serves as the oxidizing or reducing agent.
+What is being oxidized? What is being reduced?
+[notes] NAD+ is the cofactor that oxidizes lactate to pyruvate with the aid of the enzyme lactate dehydrogenase:
+
+--- slide 16 ---
+Transferases
+Transferases catalyze the transfer of a functional group from one molecule to another.
+Transaminases: transfer of an amino group
+Kinases: transfer of phosphate group
+What type of transferase is shown here?
+
+--- slide 17 ---
+Hydrolases
+Hydrolases catalyze hydrolysis reactions – the cleavage of bonds with water.
+Proteases: hydrolysis of peptide bond in proteins
+Lipases: hydrolysis of ester bond in lipid
+Nucleases: hydrolysis of phosphate –ester bonds in nucleic acids
+What type of hydrolase is shown here?
+
+--- slide 18 ---
+Lyases
+Lyases catalyze the addition or removal of a small molecule. (no hydrolysis involved)
+Decarboxylases: remove CO2
+Deaminases: remove NH3
+Dehydratases: remove H2O
+Hydratases: add H2O
+
+--- slide 19 ---
+Isomerases
+Isomerases catalyze the conversion of one isomer to another.
+
+--- slide 20 ---
+Ligases
+Ligases catalyze bond formation accompanied by energy release from a hydrolysis reaction (ATP to ADP).
+This process is energetically unfavorable, so the energy released in a hydrolysis reaction is used to drive the reaction.
+Synthetases: form bond between two substrates
+Carboxylases: form bond between CO2 and substrate
+
+--- slide 21 ---
+Enzyme Classification Summary
+
+--- slide 22 ---
+Practice
+Match the type of reaction with an enzyme.
+aminase		
+dehydrogenase
+Isomerase
+synthetase
+A.  converts a cis-fatty acid to a trans-fatty acid
+B.  removes 2H atoms to form a double bond
+C.  combines two molecules to make a new compound 
+D.  adds NH3 
+
+--- slide 23 ---
+Enzyme Activity
+Learning Objective:
+Describe the effect of changes of temperature, pH, and concentration on enzyme activity
+[notes] Start here Wednesday?
+
+--- slide 24 ---
+Enzyme Activity
+The catalytic activity of an enzyme is measured by its turnover number: the maximum number of substrate molecules acted upon by one molecule of enzyme per unit time.
+Turnover numbers range from 10 to 10,000,000 molecules per second.
+Enzymes undergo all the reactions of proteins including denaturation
+Changes in temperature and/or pH will affect the enzyme catalytic activity.
+
+--- slide 25 ---
+The charge on acidic and basic amino acids located at the active site depends on pH. 
+Small changes in pH (less than one unit) can result in denaturation and subsequent loss of catalytic activity.
+Need buffers to keep pH around optimum pH.
+pH
+[notes] Changing pH can denature protein
+
+--- slide 26 ---
+pH: Optimum
+The optimum pH is the pH at which the enzyme exhibits maximum activity, usually within the physiological pH range of 7.0–7.5.
+Exception: 
+Pepsin: Optimum pH = 2.0 
+Trypsin: Optimum pH = 8.0
+
+--- slide 27 ---
+Temperature: Reaction Rate
+As temperature increases, the molecules move faster.
+The faster the molecules, the more collisions, the faster the reaction.
+The more molecules with enough energy, the more collisions with enough energy, the faster the reaction.
+
+--- slide 28 ---
+Temperature
+Too high temperatures cause disruptions in the tertiary structure of the enzyme – denaturation.
+Change in the  tertiary structure at the active site impedes catalytic action
+enzyme activity quickly decreases as the temperature climbs past this point
+The optimum temperature is the temperature at which the enzyme exhibits maximum activity, usually around 37 oC.
+
+--- slide 29 ---
+SubstrateConcentration
+As concentration increases, the number of collisions increases.
+The more collisions, the faster the reaction.
+There is a maximum reaction rate – saturation.
+When each enzyme is working at full capacity, the incoming substrate molecules must “wait their turn” for an empty active site.
+[notes] Each substrate must occupy an enzyme active site for a finite amount of time, and the products must leave the site before the cycle can be repeated.
+
+--- slide 30 ---
+EnzymeConcentration
+At a constant substrate concentration, enzyme activity increases with the increase in enzyme concentration.
+More substrate molecules can be accommodated in a given amount of time. 
+
+--- slide 31 ---
+Practice
+Describe the effect that each of the following changes would have on the rate of a reaction that involves the substrate sucrose and the intestinal enzyme sucrase.
+Decreasing the sucrase concentration
+Increasing the sucrose concentration
+Lowering the temperature to 10ºC
+Raising the pH from 6.0 to 8.0 (optimum pH is 6.2)
+[notes] Decrease rate
+Increase rate
+Decrease rate
+Decrease rate
+
+--- slide 32 ---
+Practice
+Trypsin, a peptidase that hydrolyzes polypeptides, functions in the small intestine at an optimum pH of 8. All except which of the following would decrease the rate of a trypsin-catalyzed reaction?
+Lowering the concentration of polypeptides
+Adding more trypsin
+Changing the pH to 3
+Running the reaction at 75 °C
+[notes] Answer: B
+
+--- slide 33 ---
+Enzyme Regulation
+Cells continually produce large amounts of an enzyme and plentiful amounts of a product.
+Too much enzyme for low substrate concentration is a waste of energy.
+Having more product than needed is also a waste of energy.
+The rates of enzyme-catalyzed reactions can be controlled by regulatory enzymes.
+The reaction rate can be increased when more of a particular substance is needed – activation.
+The reaction rate can be decreased when a substance is not needed – inhibition.
+
+--- slide 34 ---
+Allosteric Control: Negative
+Some enzymes change their conformation when a regulator molecule binds to it.
+Allosteric control is the binding of a regulator to a site on an enzyme that affects the enzyme’s ability to bind a substrate at its active site.
+Not all enzymes possess sites for allosteric binding. Those that do are called allosteric enzymes.
+Negative allosteric control occurs when a regulator makes the active site less able to bind the substrate, and the rate of reaction decreases.
+[notes] Nail in Shoe
+
+--- slide 35 ---
+Allosteric Control: Positive
+Positive allosteric control occurs when a regulator makes the active site more able to bind the substrate, and the rate of the reaction increases.
+[notes] Memory foam shoe insole
+
+--- slide 36 ---
+Feedback Control
+Feedback control is an enzyme-regulation process where  the product of a series of enzyme-catalyzed reactions inhibits an earlier reaction in the sequence.
+If D inhibits enzyme 1, the amount of A and B synthesized decreases when no more D is needed. 
+When more D is needed, enzyme 1 will no longer be inhibited.
+
+--- slide 37 ---
+Covalent Modification
+Covalent modification is a process in which enzyme activity is altered by covalently modifying the structure of the enzyme:
+by adding a chemical group 
+or removing a chemical group
+
+--- slide 38 ---
+Zymogens
+Some enzymes are synthesized in an inactive form – zymogens (or proenzymes).
+These inactive enzyme precursors are:
+transported to the part of the body where the active form is needed.
+and then “turned on” when needed by covalent modification.
+
+--- slide 39 ---
+Example: Insulin
+Covalent Modification: Covalent bonds are broken/formed to make enzyme active/inactive
+Insulin becomes biologically active when the polypeptide chain of 33 amino acids is removed by peptidases from the zymogen proinsulin.
+
+--- slide 40 ---
+Phosphorylation
+An inactive enzyme undergoes covalent modification in which an enzyme:
+can be activated by the addition of a phosphate group – phosphorylation with a kinase.
+can be deactivated by the removal of a phosphate group group – dephosphorylation with a phosphatase.
+
+--- slide 41 ---
+Enzyme Inhibitors
+Inhibitors are substances that slow down or stop the catalytic activity of an enzyme by binding to the enzyme.
+A reversible inhibitor binds to an enzyme but then enzyme activity is restored when the inhibitor is released.
+An irreversible inhibitor covalently binds to an enzyme, permanently destroying its activity.
+
+--- slide 42 ---
+Reversible Inhibitors
+Non-Competitive Inhibitor
+Bonds to the enzyme, but not to the active site.
+Distorts the shape of the enzyme - Prevents the binding of the substrate at the active site. 
+Cannot have its effect reversed by adding more substrate.
+Competitive Inhibitor
+Bonds to the enzyme in the active site.
+Has structure/polarity similar to that of substrate
+Effects reversed by increasing substrate concentration
+[notes] Start Here
+
+--- slide 43 ---
+Irreversible Inhibitors
+An irreversible inhibitor:
+covalently bonds with R groups of an amino acid that may be near the active site.
+changes the shape of the enzyme, which prevents the substrate from entering the active site.
+destroys enzyme activity.
+Lead poisoning from paint, mercury poisoning from fish, chemical warfare agents (nerve gases) and organophosphate insecticides
+
+--- slide 44 ---
+Example
+Penicillin is an antibiotic
+Penicillin inhibits transpeptidase, an enzyme that catalyzes the formation of peptide cross-links between polysaccharide strands in bacterial cell walls. 
+If the cell walls of bacteria are weak then it is easier to break the cell.
+
+--- slide 45 ---
+Practice	
+All except which of the following describe a competitive enzyme inhibitor?
+The effect of the inhibitor cannot be reversed by adding more substrate.
+The inhibitor has a structure similar to that of the substrate.
+The inhibitor competes with the substrate for the active site.
+The addition of more substrate reverses the inhibition.
+[notes] Answer: A
+
+--- slide 46 ---
+Cofactors
+Learning Objective: Describe the types of cofactors found in enzymes.
+
+--- slide 47 ---
+Enzyme Cofactors
+Some enzymes need to be combined with a a non-protein component in order to be active.
+A cofactor is an inorganic substance such as metal ions.
+A coenzyme is an organic molecule (vitamins).
+
+--- slide 48 ---
+Metal Ions
+Many enzymes require metal ion cofactors
+Cofactors can be tightly held or loosely bound, so that they can enter and leave the active site.
+The ions form coordinate covalent bonds with nitrogen or oxygen.
+Zn2+, a cofactor for carboxypeptidase, stabilizes the carbonyl oxygen during the hydrolysis of a peptide bond of a C-terminal aromatic amino acid.
+[notes] Iron: Heme (hemoglobin)
+Zinc, Magnesium: DNA polymerase
+
+--- slide 49 ---
+Vitamins
+Coenzymes are synthesized in the human body using building blocks obtained from other nutrients, such as vitamins.
+Vitamins cannot be synthesized by the body, therefore must be obtained from the diet.
+Only a few mg to mg are needed per day.
+
+--- slide 50 ---
+Vitamins: Overview
+Water-soluble Vitamins
+are carried in the bloodstream.
+are rapidly eliminated from the body in the urine. 
+must be constantly replenished. 
+are unlikely to be toxic.
+Fat-soluble Vitamins
+are carried in the blood by protein carriers.
+are stored in fat tissues.
+are needed in periodic doses.
+are more likely to be toxic.
+
+--- slide 51 ---
+Practice
+Which of these vitamins is fat soluble and which is water soluble?
+Both are fat soluble.
+Both are water soluble.
+Vitamin A is fat soluble and vitamin B6 is water soluble.
+Vitamin B6 is fat soluble and vitamin A is water soluble.
+
+--- slide 52 ---
+Water & Fat Soluble Vitamins
+Vitamins are divided into 2 classes: water-soluble and fat-soluble.
+Note: If you would like to know more information on each of the Vitamins… The slides after the conclusion on Canvas contain chemical information on every major vitamin
+
+--- slide 53 ---
+Conclusions
+Enzymes are proteins that catalyze biological reactions
+Enzymes are named after the reaction they catalyze, with the suffix –ase.
+Enzymes can be classified as catalysts for six different reaction types:
+Oxidoreductase
+Lipase
+Lyase
+Isomerase
+Hydrolase
+Transferases
+Enzymes can undergo denaturization, just like other proteins
+pH
+Temperature
+Inhibitors
+Enzyme activity is regulated in the body
+Covalent modification
+Feedback control
+Allosteric control
+Some enzymes need other pieces to function
+Metal-ions (Cofactors)
+Vitamins (Coenzymes)
+
+--- slide 54 ---
+Vitamin C – Ascorbic Acid
+Vitamin C:
+is found in blueberries, citrus fruits, strawberries, tomatoes.
+has an RDA of 75–90 mg.
+is required in collagen synthesis and healing of wounds
+is necessary to avoid scurvy: bleeding gums, weakened connective tissues, slow-healing wounds, and anemia.
+
+--- slide 55 ---
+The B Vitamins
+The B vitamins serve:
+as precursors for enzyme cofactors.
+as temporary carriers of atoms or functional groups in redox and group transfer reactions associated with metabolism of ingested food in order to obtain energy
+
+--- slide 56 ---
+Vitamin B1 – Thiamin
+Vitamin B1, associated with coenzyme thiamine pyrophosphate (TPP):
+is found in the liver, yeast, whole grain bread, cereals, and milk.
+has an RDA of 1.2 mg.
+is necessary to avoid beriberi, whose symptoms are fatigue, poor appetite, and weight loss.
+
+--- slide 57 ---
+Vitamin B2 – Riboflavin
+Vitamin B2, associated with coenzymes flavin adenine dinucleotide (FAD) and flavin mononucleotide (FMN):
+is found in the liver, beef, chicken, eggs, green leafy vegetables, dairy foods, peanuts, and whole grains.
+has an RDA of 1.2–1.8 mg.
+is necessary to avoid dermatitis; dry skin; red, sore tongue; and cataract.
+[notes] FAD!!
+
+--- slide 58 ---
+Vitamin B3 – Niacin
+Vitamin B3, associated with coenzymes nicotinamide adenine dinucleotide (NAD+) and nicotinamide adenine dinucleotide phosphate (NADP+):
+is found in brewer’s yeast, chicken, beef, fish, liver, brown rice, and whole grains.
+has an RDA of 14–18 mg.
+is necessary to avoid pellagra: dermatitis, muscle fatigue, loss of appetite, diarrhea, and mouth sores.
+[notes] NAD+
+
+--- slide 59 ---
+Vitamin B5 – Pantothenic Acid
+Vitamin B5, associated with coenzyme A:
+is found in salmon, beef, liver, eggs, brewer’s yeast, whole grains, and fresh vegetables.
+has an RDA of 5 mg.
+is necessary to avoid fatigue, retarded growth, muscle cramps, and anemia.
+[notes] CoA
+
+--- slide 60 ---
+Vitamin B6 – Pyridoxine
+Vitamin B6, associated with pyridoxal phosphate (PLP):
+is found in meat, liver, fish, nuts, whole grains, and spinach. 
+has an RDA of 1.3–2.0 mg.
+is necessary to avoid dermatitis, fatigue, retarded growth, muscle cramps, and anemia.
+
+--- slide 61 ---
+Vitamin B9 – Folic Acid
+Vitamin B9, associated with tetrahydrofolate (THF):
+is found in green leafy vegetables, beans, meat, seafood, yeast, asparagus, and whole grains enriched with folic acid.
+has an RDA of 400 mg.
+is necessary to avoid abnormal red blood cells, anemia, intestinal tract disturbances, loss of hair, growth impairment, and depression.
+
+--- slide 62 ---
+Vitamin B12 – Cobalamin
+Vitamin B12, associated with methylcobalamin:
+is found in liver, beef, kidney, chicken, fish, and milk products.
+has an RDA of 2.0–2.6 mg.
+is necessary to avoid pernicious anemia, malformed red blood cells, and nerve damage.
+
+--- slide 63 ---
+Vitamin H – Biotin
+Vitamin H, associated with biocytin:
+is found in liver, yeast, nuts, and eggs.
+has an RDA of 30 mg.
+is necessary to avoid dermatitis, loss of hair, fatigue, anemia, and depression.
+
+--- slide 64 ---
+Vitamin A
+Vitamin A, an antioxidant:
+has an RDA of 800 mg.
+is needed for retinol (vision), maintaining health of skin, and synthesis of RNA.
+deficiencies include night blindness, immune system repression, and slowed growth.
+
+--- slide 65 ---
+Vitamin D
+Vitamin D3, cholecalciferol:
+is synthesized in skin exposed to sunlight.
+has an RDA of 5–10 μg.
+regulates the absorption of phosphorus and calcium ions during bone growth.
+deficiency includes weakened bones.
+
+--- slide 66 ---
+Vitamin E
+Vitamin E, tocopherol:
+is found in whole grains and vegetables.
+has an RDA of 15 mg.
+is an antioxidant in cells.
+deficiencies are hemolysis and anemia.
+
+--- slide 67 ---
+Vitamin K
+Vitamin K, menaquinone:
+Is found in leafy green vegetables.
+is synthesized by intestinal bacteria.
+has an RDA of 90–120 μg.
+is needed for the synthesis of zymogens for blood clotting.
+Deficiencies are prolonged bleeding time and bruising.
+
+--- slide 68 ---
+Practice: Vitamins
+Identify each of the following as a water-soluble vitamin or fat-soluble vitamin.
+A.  folic acid
+B.  retinol (vitamin A)
+C.  vitamin C
+D.  vitamin E
+E.  niacin
+[notes] Water-soluble
+Fat-soluble
+Water-soluble
+Fat-soluble
+Water-soluble
+
+--- slide 69 ---
+Practice	
+Which of the following metal ions does not act as a cofactor?
+Mg2+
+Fe2+
+Ni2+
+Hg2+
+[notes] Answer: D
+
+--- slide 70 ---
+Muddiest Point
+Think: What was most confusing about today? What do you still have a question about?
+Pair: Can a student near you answer your question?
+Ask the class 
