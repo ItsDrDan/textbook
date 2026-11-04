@@ -1,0 +1,346 @@
+{"verdict":"allow","rev":9,"data":{"rev":9,"xml":"
+OER Criteria Analysis for the CHEM 3B LibreTexts Textbook
+ · 
+Summary
+To meet the SCCCD/California community college bar, the CHEM 3B book must be (1) legally open with clean TASL attribution and a compatible license, (2) accessible to WCAG 2.1 AA, (3) aligned to the CHEM 3B Course Outline of Record, and (4) free to students so sections can carry the ZTC schedule label.
+Two SCCCD Canvas shells were reviewed:
+Open Educational Resources (course 33246): FCC's OER resource hub, run by OER Liaison Sally Potter. It has no Modules — 14 Pages plus a Files area of flex-day slide decks. It defines OER vs. ZTC, lists the six CC licenses, and gives a 5-step remix workflow.
+CELA-308 \"OER 101\" (course 108299, Spring 2024): Reedley College's 6-module OER certificate course taught by OER Librarian Sarah Micu Kershaw. This is where the actual standards live: licensing, attribution (TASL), license compatibility, adaptation workflow, accessibility, UDL, and open pedagogy.
+Neither course contains a formal scored rubric for textbooks. The criteria below combine what the courses teach with the outside standards they point to (COOL4Ed accessibility review, BCcampus Accessibility Toolkit, Section 508/WCAG, CA Ed Code 66406.9).
+Top priorities for the book, in order:
+A front-matter Licensing & Attribution page naming the book's license (CC BY-NC-SA 4.0 if Ball et al. stays the core source), the Ball et al. source, and every other remixed source with TASL.
+Per-page or per-chapter attributions stating \"Adapted from…\" plus a log of what was changed.
+License audit of every image, game widget and figure: no ND, no all-rights-reserved, no unverified Wikimedia/Google images.
+Accessibility pass on every page: real headings, alt text on every structure/figure, captions, color-independent meaning, accessible embedded games, accessible math/chem notation.
+COR alignment map: each chapter tied to CHEM 3B SLOs/objectives (backward design).
+Zero cost to students: free online, low-cost print optional, so sections qualify for the ZTC icon.
+Course map
+Every module item in CELA-308 (69 items) and every Page in the FCC OER shell (14 pages) was read in full; the table lists the items that carry textbook requirements.
+CELA-308 OER 101 (course 108299)
+ | 
+Module | 
+Item | 
+What it requires of an OER textbook
+ | 
+Before Getting Started | 
+What to Expect; Instructor Notes | 
+Completion-based certificate; ~5 hrs/module. No textbook criteria.
+ | 
+1. What is Open Education? | 
+Defining OER; Defining Open Education | 
+OER = free and public domain or open license granting the 5Rs (Retain, Reuse, Revise, Remix, Redistribute).
+ | 
+1 | 
+Equity and OER | 
+OER should improve cultural relevance and serve diverse CCC students (67% diverse, ~50% lowest-income, ~40% first-gen).
+ | 
+1 | 
+Why Open Education | 
+OER should be continuously correctable, localized, with ancillaries that link back to the text.
+ | 
+2. Licensing and Copyrights | 
+Copyright and Public Domain | 
+Facts aren't copyrightable; US federal works are public domain; don't trust \"free\" image sites without checking.
+ | 
+2 | 
+Fair Use | 
+Prefer explicit CC permission over fair-use claims for anything you redistribute.
+ | 
+2 | 
+Attributing CC Licenses | 
+TASL for every reused item; \"Adapted from…\" for derivatives; attribution placed next to or at the foot of the content.
+ | 
+2 | 
+Licensing Your Own Work | 
+CC licenses are irrevocable; use CC License Chooser; put license + deed link in a copyright notice.
+ | 
+2 | 
+Intellectual Property Policy | 
+SCCCD faculty contract and AR govern who owns faculty-created works (screenshots only on page).
+ | 
+3. How to find OER | 
+Repositories; Discipline searching | 
+LibreTexts, OpenStax, ChemCollective, PhET named as vetted chemistry sources.
+ | 
+3 | 
+Exercise 1: Course Application | 
+Pick OER from the course outline & syllabus; justify process, use and benefit.
+ | 
+4. The five Rs | 
+Remixing vs. Collections | 
+A remix (\"smoothie\") still needs attribution of every part, e.g., chapter endnotes.
+ | 
+4 | 
+Adapting or Curating an OER | 
+Check license → get editable format → edit; keep a change log for the copyright notice.
+ | 
+4 | 
+How will OER improve your course? | 
+Backward design: outcomes → assessments → activities → materials.
+ | 
+4 | 
+Obtaining Image Permission | 
+Written permission (world rights, ebook, print) for any non-open image.
+ | 
+4 | 
+Combining Licenses When Adapting | 
+SA content forces same license; NC can't go commercial; ND can't be remixed.
+ | 
+4 | 
+Resources for Building OER | 
+LibreTexts endorsed: free, remixable, print/PDF/Canvas exports; author must check accessibility (BC Toolkit, 508 checklist).
+ | 
+4 | 
+Exercise 2: Course Revision | 
+Document the OER license and which of the 5Rs were applied.
+ | 
+5. UDL & OEP | 
+Accessibility | 
+Headings, true lists, alt text, captions, descriptive links, contrast, no color-only meaning, WCAG.
+ | 
+5 | 
+Online Accessibility Tools | 
+Check with WAVE; no skipped heading levels; alt text must be meaningful, not a file name.
+ | 
+5 | 
+Universal Design for Learning | 
+Multiple means of representation, expression and engagement.
+ | 
+5 | 
+Open Educational Practices | 
+Renewable assignments; students can help write questions or improve OER.
+ | 
+5 | 
+LibreText Adapt & Studio | 
+LibreTexts + H5P interactives endorsed.
+ | 
+5 | 
+Exercise 3: Course Accessibility | 
+Run WAVE on two modules, add 2+ OER media types, re-check.
+ | 
+6. Course Completion | 
+OER & AI | 
+CC licenses still apply when AI tools are used.
+ | 
+6 | 
+SCCCD | 
+FCC OER contacts: Sally Potter, Linda Kobashigawa.
+ | 
+6 | 
+Reedley College Course OER Form; Badge | 
+ZTC course registration form (Reedley); completion badge.
+FCC Open Educational Resources (course 33246)
+ | 
+Page | 
+Requirement it adds
+ | 
+What is OER? | 
+Hewlett definition; ZTC = free but not necessarily open (library, web, self-written).
+ | 
+The Licenses | 
+The six CC licenses; CC BY recommended for maximum reuse.
+ | 
+How to Remix and Reuse | 
+Find open source → copy → add attributions → publish publicly → link.
+ | 
+Data; Power Points (slide decks) | 
+Equity case; \"OER vs ZTC vs Low-Cost (<$20–40)\"; map content to COR SLOs; \"be aware of 508 compliance\".
+ | 
+OER Collections; Sources by Discipline | 
+Approved repositories (OpenStax, LibreTexts, MERLOT, OER Commons, COOL4Ed).
+ | 
+OER Instructors & Courses; Grants; LibGuides; English; Linguistics | 
+Rosters and discipline lists; no textbook criteria.
+Screenshots were saved for the FCC OER pages (What is OER?, The Licenses, How to Remix and Reuse, OER Instructors & Courses) and the CELA-308 start page. For the CELA-308 modules, the full page text was pulled instead, since a screenshot shows only one screen of each long page.
+Licensing and attribution
+The book's license is set by its most restrictive ShareAlike source: Ball et al. is CC BY-NC-SA, so the remix must be CC BY-NC-SA too (the same or a later version; check the exact version on the LibreTexts source pages).
+License compatibility for the remix
+ | 
+Source license | 
+Can it go in the CHEM 3B remix? | 
+Notes
+ | 
+Public domain / CC0 (e.g., NIH, CDC, NASA images) | 
+Yes | 
+Attribution still good practice; confirm the agency owns the image.
+ | 
+CC BY | 
+Yes | 
+Attribute with TASL.
+ | 
+CC BY-SA | 
+No, not alongside BY-NC-SA text | 
+SA requires the same license. Use it only as a separately licensed, clearly marked collection item, or skip it.
+ | 
+CC BY-NC | 
+Yes | 
+Book stays non-commercial.
+ | 
+CC BY-NC-SA | 
+Yes | 
+Core license of the book.
+ | 
+CC BY-ND / BY-NC-ND | 
+No remixing | 
+May only be linked, or included unchanged as a clearly separate item.
+ | 
+All rights reserved (publisher slides, Google images, YouTube without CC) | 
+No | 
+Link out (ZTC-style) or get written permission.
+This matters for selling games on Teachers Pay Teachers: anything derived from NC book content can't be sold. Games and widgets Dan writes from scratch remain his own and can carry a separate license.
+Attribution rules (TASL)
+Every reused item gets Title, Author, Source link, License link. Example: \"Alkanes\" by David W. Ball et al., from The Basics of GOB Chemistry, CC BY-NC-SA 3.0.
+Modified material says \"Adapted from…\" and briefly describes the changes.
+Text attributions go at the foot of each page or at the chapter end. Image attributions go in the caption or directly under the figure.
+Keep the original creator's copyright notice intact, and don't imply the original authors endorse the remix.
+Use the Open Attribution Builder (WA SBCTC) for consistent wording.
+Required notices in the book
+Licensing page (front matter): book license with deed link; \"Remixed and adapted by [author/FCC Chemistry] from…\" listing every source text; statement that third-party items keep their own licenses.
+Change log / adaptation statement: what was reordered, rewritten, added (Professor Tips, health-science examples, games) and removed, per the course's \"keep a list of changes\" guidance. Minor typo fixes don't need logging.
+Original content statement: new sections, figures and games written by the author, with the license applied to them.
+SCCCD intellectual property check: confirm under the faculty contract and AR that the author can openly license work made for the course.
+Images and media
+Use only CC, CC0 or public-domain images, with verified provenance; the course warns that Wikimedia uploads are sometimes mislabeled.
+Structures drawn by Dan's own game engine are original work; label them as such in the figure credits.
+Videos embedded or linked must be CC-licensed or simply linked, and must have accurate captions.
+Accessibility
+The legal target is WCAG 2.1 Level AA. Under DOJ's ADA Title II rule, as extended by an interim final rule on April 20, 2026, SCCCD must comply by April 26, 2027 if it counts as a 50,000+ population entity (April 26, 2028 if smaller). LMS content is explicitly covered, and Ed Code 66406.9 requires ZTC-labeled materials to comply with the ADA.
+ | 
+Area | 
+Requirement (from CELA-308 Module 5 + WCAG) | 
+How it applies to the CHEM 3B book
+ | 
+Headings | 
+Real H1→H2→H3 in order, no skipped levels, no fake headings made with bold or font size | 
+LibreTexts page title = H1; section titles H2; Examples and Professor Tips H3 or styled boxes, never bold text standing in for a heading.
+ | 
+Lists | 
+True bulleted/numbered lists, not typed asterisks | 
+Steps for naming, mechanisms and metabolism pathways as real ordered lists.
+ | 
+Alt text | 
+Concise, meaningful, not a file name; decorative images marked decorative | 
+Every structure: \"Skeletal structure of 2-methylbutane: four-carbon chain with a methyl on carbon 2.\" Complex pathways (glycolysis, Krebs) need a long description or text table.
+ | 
+Color | 
+Contrast ≥ 4.5:1 for text; no meaning by color alone | 
+Don't mark functional groups or acidic H only in red; add labels or bold. Check game palettes.
+ | 
+Links | 
+Descriptive link text, never \"click here\" | 
+\"Practice: Naming Alkanes game\" instead of a bare URL.
+ | 
+Video/audio | 
+Accurate captions; transcripts for audio | 
+YouTube @itsdrdan videos embedded in the book need edited captions, not raw auto-captions.
+ | 
+Math & chemistry notation | 
+Text-readable, not images of equations | 
+Use LibreTexts MathJax/mhchem (e.g., \\ce{CH3CH2OH}) so screen readers read formulas; no screenshots of equations.
+ | 
+Tables | 
+Header rows marked, captions, no merged-cell layouts | 
+Functional group and amino acid tables with proper headers.
+ | 
+Interactive games / H5P | 
+Keyboard operable, visible focus, labeled controls, screen-reader text, no time-only challenges or a way to extend time | 
+Highest-risk item: drag-and-drop Lewis/structure games need a keyboard path and text alternative; timed modes need an untimed option.
+ | 
+PDFs / print export | 
+Tagged, OCR'd, reading order set | 
+Check the LibreTexts PDF export; avoid scanned pages.
+ | 
+Fonts | 
+Readable sans-serif; resizable text | 
+LibreTexts default is fine; don't bake text into images.
+Tools to verify: WAVE (named in Exercise 3), the LibreTexts built-in accessibility check, the WebAIM Contrast Checker, keyboard-only testing of every game, and a screen-reader spot check (NVDA or VoiceOver). Reference checklists: COOL4Ed Accessibility Review Criteria, the BCcampus Accessibility Toolkit, the CUNY OER Accessibility Toolkit, and the CCC Accessibility Center.
+Quality, alignment and pedagogy
+The courses judge OER quality by alignment to the Course Outline of Record, accuracy, currency, cultural relevance and UDL. Neither shell gives a scored rubric, so the criteria below come from what they teach.
+COR alignment (backward design). Pull the CHEM 3B COR from eLumen (FCC public site). Map every course objective and SLO to a chapter or section, and show it in each chapter's learning objectives. Flag any objective with no content, and any content beyond the COR (the \"no chemistry-majors material\" rule).
+Learning objectives at the top of each chapter, phrased as measurable student actions that match the COR verbs.
+Accuracy and currency. Correct errors from the source, update clinical and nutrition data, and keep conventions consistent (enzyme classes, inhibitor types, essential amino acids). Ball et al. dates from about 2011, so review drug, diet and disease examples for currency.
+Cultural relevance and equity. Examples should fit FCC/Central Valley health-science students: nursing, dental hygiene, radiation technology, respiratory therapy, agriculture, and local health issues such as diabetes and valley fever. Use inclusive names and images, and avoid stereotypes.
+UDL: multiple means of representation, action and engagement. Text plus structures plus video plus interactive games, with practice in several formats and an answer key or immediate feedback.
+Ancillaries that link back to the text. End-of-chapter practice, Practice Games, and possibly H5P or ADAPT question banks, all with matching attributions.
+Open pedagogy (optional, valued). Renewable assignments where students write practice problems or clinical connection boxes that feed back into the book, licensed with student consent.
+Readability and consistency. Glossary of key terms, consistent figure styles, and a uniform Professor Tip / Clinical Connection format.
+Peer review. Have a colleague (e.g., another CHEM 3B instructor) and the FCC OER Liaison review it before adoption; record the review in the front matter.
+Living document. Version number, date and errata or feedback contact.
+ZTC labeling and California requirements
+Sections that use only this book (plus other free materials) can carry the ZTC icon in the schedule. California Ed Code 66406.9, operative July 1, 2024, requires community colleges to highlight such courses.
+ | 
+Requirement | 
+Source | 
+What the book must do
+ | 
+Highlight courses using only free digital materials (may have a low-cost print option) | 
+Ed Code 66406.9(a)(1)(A) | 
+Free online on LibreTexts with no paywalled homework; optional print at cost.
+ | 
+Free materials may be OER, library-licensed or other properly licensed materials, and must comply with the ADA and the Copyright Act | 
+66406.9(a)(1)(B) | 
+Clean licensing (see Licensing and attribution) + WCAG 2.1 AA (see Accessibility).
+ | 
+Tell students materials are free and not required to be purchased | 
+66406.9(a)(2) | 
+Syllabus and Canvas statement; book front matter says \"free to read online.\"
+ | 
+OER definition: public domain or open license (e.g., CC), including faculty-created content | 
+66406.9(b)(2) | 
+Apply a CC license to the whole book, including original sections and games.
+ | 
+OER vs ZTC vs Low-Cost (< $20–40) | 
+FCC flex-day slides | 
+If any required item costs money (paid homework, clicker), the section is not ZTC.
+ | 
+ZTC course registration | 
+CELA-308 Module 6 | 
+Reedley uses an OER Instructor Form. For FCC, confirm the ZTC flag process with Sally Potter or Linda Kobashigawa.
+Larger state ZTC degree-program funding and ASCCC OERI resolutions push for open (not merely free) materials and for transparency about what is used. A CC-licensed book meets both.
+Compliance checklist
+Tick these off as the book is built; each item names where it lives in the LibreTexts book.
+Front matter
+Title page: \"Introductory Organic and Biological Chemistry for FCC\", author/adapter, Fresno City College, version and date
+Licensing page: CC BY-NC-SA (version matched to source) with deed link and icon
+Source list with TASL for Ball et al. and every other remixed text
+Adaptation statement / change log (reordering to the CHEM 3B syllabus, Bonding Review chapter, Professor Tips, health-science examples, games)
+Third-party content notice (items keep their own licenses)
+Accessibility statement + contact for accessibility issues
+\"Free to read online, not required to be purchased\" statement (ZTC)
+COR alignment table: CHEM 3B SLOs/objectives → chapters
+Peer-review / acknowledgments page
+Errata and feedback link
+Every chapter (1–15)
+Learning objectives tied to COR wording
+Heading order H1→H2→H3, no skips; true lists
+Every figure: alt text + caption + credit line (TASL or \"Original figure\")
+Formulas and reactions written as text/MathJax, not images
+No color-only meaning; contrast checked
+Clinical/dental/nursing connection kept within CHEM 3B scope
+Practice problems + answers (not copied exam or homework items)
+Practice Games section: keyboard-accessible, labeled, untimed option, text alternative
+Embedded videos captioned; descriptive link text
+Page/chapter attribution footer: \"Adapted from [Ball et al. section] by …, CC BY-NC-SA\"
+WAVE run on each page: 0 errors, contrast errors fixed
+Back matter and final checks
+Glossary
+Consolidated attribution list / image credits (GitHub figures/openers/CREDITS.md mirrored in the book)
+PDF/print export checked for tags and reading order
+Screen-reader spot check of one chapter and one game
+SCCCD IP policy confirmed for open-licensing faculty work
+ZTC flag requested for CHEM 3B sections through FCC's OER Liaison
+Handoff notes for the textbook chat
+Paste this doc's link into the textbook chat and have it work through the Compliance checklist chapter by chapter.
+Licensing first: confirm the exact CC version on each Ball et al. LibreTexts page before writing the licensing page. Don't mix in CC BY-SA (e.g., Wikipedia) text or images.
+Figures: every PNG/SVG in the ItsDrDan/textbook repo needs alt text in the LibreTexts embed, plus a credit line.
+Games: biggest accessibility risk. Add keyboard controls, ARIA labels and an untimed mode before the Practice Games sections go live.
+COR: get the CHEM 3B COR from eLumen and build the alignment table; it's also the scope check against chemistry-majors material.
+Open questions:
+Does SCCCD count as a 50,000+ population entity (April 2027 deadline) or a smaller one (2028)? Ask the district.
+What is FCC's process for flagging CHEM 3B sections ZTC? Ask Sally Potter or Linda Kobashigawa.
+What does the SCCCD faculty contract's IP article say about open-licensing faculty-created course materials?
+Sources
+SCCCD Canvas: Open Educational Resources (course 33246) and CELA-308 OER 101 (course 108299), read Nov 3, 2026
+California Education Code 66406.9
+DOJ Extends Deadline for ADA Title II Compliance, Campus Technology, Apr 27, 2026
+Digital Accessibility Rule for Public Schools, Community Colleges, and Public Universities, United Educators, Apr 2026","complete":true},"frame":{"slug":"5b61c034-6fa2-4816-8e1c-a2839ee016cb","url":"https://claude.ai/artifact/CHV7YxesZToAY3EGK85Pmk","artifactUrl":"https://claude.ai/artifact/CHV7YxesZToAY3EGK85Pmk"}}

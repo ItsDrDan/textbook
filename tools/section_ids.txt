@@ -1,0 +1,116 @@
+597054 1.1: Covalent Bonds
+597055 1.2: Covalent Compounds - Formulas and Names
+597056 1.3: Drawing Lewis Structures
+597057 1.4: Characteristics of Covalent Bonds
+597058 1.5: Characteristics of Molecules
+597059 1.6: Organic Chemistry
+597060 1.7: Representing organic compounds
+597061 1.8: Intermolecular Interactions
+597065 2.1: Organic Chemistry
+597066 2.2: Structures and Names of Alkanes
+597067 2.3: Branched-Chain Alkanes
+597068 2.4: Condensed Structural and Line-Angle Formulas
+597069 2.5: IUPAC Nomenclature
+597070 2.6: Physical Properties of Alkanes
+597071 2.7: Chemical Properties of Alkanes
+597072 2.8: Halogenated Hydrocarbons
+597073 2.9: Cycloalkanes
+597078 3.1: Alkenes- Structures and Names
+597079 3.2: Cis-Trans Isomers (Geometric Isomers)
+597080 3.3: Physical Properties of Alkenes
+597081 3.4: Chemical Properties of Alkenes
+597082 3.5: Polymers
+597083 3.6: Alkynes
+597084 3.7: Aromatic Compounds- Benzene
+597085 3.8: Structure and Nomenclature of Aromatic Compounds
+597090 4.1: Organic Compounds with Functional Groups
+597091 4.2: Alcohols - Nomenclature and Classification
+597092 4.3: Physical Properties of Alcohols
+597093 4.4: Reactions that Form Alcohols
+597094 4.5: Reactions of Alcohols
+597095 4.6: Glycols and Glycerol
+597096 4.7: Phenols
+597097 4.8: Ethers
+597098 4.9: Organic Sulfur Compounds
+597102 5.1: Aldehydes and Ketones- Structure and Names
+597103 5.2: Properties of Aldehydes and Ketones
+597104 5.3: Nucleophilic Addition Reactions
+597105 5.4: Reduction and oxidation (redox) reactions
+597106 5.5: Introduction to stereochemistry
+597109 6.1: Carboxylic Acids - Structures and Names
+597110 6.2: The Formation of Carboxylic Acids
+597111 6.3: Physical Properties of Carboxylic Acids
+597112 6.4: Chemical Properties of Carboxylic Acids- Ionization and Neutralization
+597113 6.5: Esters - Structures and Names
+597114 6.6: Physical Properties of Esters
+597115 6.7: Preparation of Esters
+597116 6.8: Hydrolysis of Esters
+597117 6.9: Esters of Phosphoric Acid
+597118 6.10: Acid-base reactions
+597121 7.1: Amines - Structures and Names
+597122 7.2: Physical Properties of Amines
+597123 7.3: Amines as Bases
+597124 7.4: Amides- Structures and Names
+597125 7.5: Physical Properties of Amides
+597126 7.6: Formation of Amides
+597127 7.7: Chemical Properties of Amides- Hydrolysis
+597128 7.8: Heterocyclic Nitrogen Compounds
+597129 7.9: Amines in Plants- Alkaloids
+597130 7.10: Polyamides and Polyesters
+597134 8.1: Carbohydrates
+597135 8.2: Classes of Monosaccharides
+597136 8.3: Important Hexoses
+597137 8.4: Cyclic Structures of Monosaccharides
+597138 8.5: Properties of Monosaccharides
+597139 8.6: Disaccharides
+597140 8.7: Polysaccharides
+597144 9.1: Fatty Acids
+597145 9.2: Fats and Oils
+597146 9.3: Glycerophospholipids
+597147 9.4: Sphingolipids
+597148 9.5: Membranes and Membrane Lipids
+597149 9.6: Steroids
+597154 10.1: Properties of Amino Acids
+597155 10.2: Acid-Base Properties of Amino Acids
+597156 10.3: Reactions of Amino Acids
+597157 10.4: Peptides
+597158 10.5: Proteins
+597159 10.6: Primary structure of proteins
+597160 10.7: Secondary structure of proteins
+597161 10.8: Tertiary structure of proteins
+597162 10.9: Quaternary structure of proteins
+597163 10.10: Protein misfolding and denaturation
+597166 11.1: Enzymes
+597167 11.2: Enzyme Action
+597168 11.3: Enzyme Activity
+597169 11.4: Enzyme Inhibition
+597170 11.5: Enzyme Cofactors and Vitamins
+597171 11.6: Enzyme Regulation- Allosteric Control and Feedback Inhibition
+597175 12.1: Nucleotides
+597176 12.2: Nucleic Acid Structure
+597177 12.3: Replication and Expression of Genetic Information
+597178 12.4: Ribonucleic acid (RNA) and transcription
+597179 12.5: Protein Synthesis and the Genetic Code
+597180 12.6: Mutations and Genetic Diseases
+597181 12.7: Viruses
+597182 12.8: Genetic engineering
+597188 13.1: Basics of metabolism
+597189 13.2: ATP- the Universal Energy Currency
+597190 13.3: Digestion of food
+597191 13.4: Stage I of Catabolism
+597192 13.5: Stage II of Carbohydrate Catabolism
+597193 13.6: Oxidation of glucose -the glycolysis
+597200 14.1: Overview of Stage II of Catabolism
+597201 14.2: Stage III of Catabolism
+597202 14.3: Citric acid cycle
+597203 14.4: Oxidative Phosphorylation
+597207 15.1: Stage II of Lipid Catabolism
+597208 15.2: Stage II of Protein Catabolism
+597209 15.3: Oxidation of fatty acids
+597210 15.4: Degradation of amino acids
+597211 15.5: Lipoproteins for Lipid Transport
+597213 15.7: Ketone Bodies and Ketoacidosis
+597214 15.8: Biosynthesis of Fatty Acids
+597215 15.9: Digestion of Proteins
+597216 15.10: The Urea Cycle
+597217 15.11: Biosynthesis of Nonessential Amino Acids
