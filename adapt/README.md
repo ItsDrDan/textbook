@@ -1,58 +1,52 @@
-# CHEM 3B homework sets for LibreTexts ADAPT
+# CHEM 3B homework in LibreTexts ADAPT
 
-The 15 zip files here are homework question banks, one per chapter of *Introductory Organic and Biological Chemistry for FCC*. Each zip is a QTI 1.2 package, the same format Canvas exports. ADAPT stores these as "Native" questions.
+## What is already set up (Nov 4, 2026)
 
-| Chapter | Questions | Chapter | Questions |
-|---|---|---|---|
-| 1 Bonding Review | 19 | 9 Lipids | 41 |
-| 2 Alkanes and Cycloalkanes | 31 | 10 Amino Acids and Proteins | 36 |
-| 3 Alkenes, Alkynes and Aromatics | 13 | 11 Enzymes and Vitamins | 35 |
-| 4 Alcohols, Phenols, Ethers and Thiols | 25 | 12 Nucleic Acids and Protein Synthesis | 31 |
-| 5 Aldehydes, Ketones and Chirality | 42 | 13 Carbohydrate Metabolism | 11 |
-| 6 Carboxylic Acids and Esters | 20 | 14 Metabolism and Energy Production | 20 |
-| 7 Amines and Amides | 22 | 15 Metabolism of Lipids and Proteins | 19 |
-| 8 Carbohydrates | 40 | **Total** | **405** |
+- **Course:** "CHEM 3B: Introductory Organic and Biochemistry" in ADAPT (course 4605).
+- **15 chapter assignments,** named "CHEM 3B Chapter N: …", with 405 multiple-choice questions in total:
+  - Chapter 1: 19
+  - Chapter 2: 31
+  - Chapter 3: 13
+  - Chapter 4: 25
+  - Chapter 5: 42
+  - Chapter 6: 20
+  - Chapter 7: 22
+  - Chapter 8: 40
+  - Chapter 9: 41
+  - Chapter 10: 36
+  - Chapter 11: 35
+  - Chapter 12: 31
+  - Chapter 13: 11
+  - Chapter 14: 20
+  - Chapter 15: 19
+- **Assignment template:** "CHEM 3B Chapter Homework". All 15 assignments use it:
+  - real-time grading
+  - 3 attempts per question, with no attempt penalty
+  - hints on, with no hint penalty
+  - late work accepted but marked late
+  - assignment group: Homework
+- **Feedback:** a wrong answer shows a hint. A right answer shows the full explanation.
+- **Question bank:** the questions are also in My Questions, in one folder per chapter ("CHEM 3B Ch 01 …"). They are public under CC BY-NC-SA 4.0, with Daniel Kwasniewski as author.
+- **Already in the course:** the two older "… Import" assignments were there before this setup and were left alone.
 
-## What is in each question
+## What you still need to do in ADAPT
 
-- Every question is multiple choice, worth 1 point.
-- The answer order is shuffled, so the correct answer is not always A.
-- Each question has the explanation from the book's Try It practice as feedback.
+1. Set **available on / due dates** for each assignment, either in the assignment's properties or by bulk editing on the course's assignment list.
+2. Check **points per question**. The default is 10; change it if you want 1 point each.
+3. Link the course to Canvas: **Course Properties → LMS**. The FCC Canvas admin may need to turn on the ADAPT LTI tool once. After that, scores flow into the Canvas gradebook.
+4. Make the course **shown** to students when you are ready.
 
-## Where the questions came from
+## Files here
 
-- The questions come from the book's Try It bank (`bank/*.json`), which you wrote.
-- They are sorted into chapters by the same topics the Chapter Guides use.
-- Two kinds of questions were left out:
-  - Questions that need a drawn structure, a figure or structure answer choices, because they don't survive a text-only export. They are still in the Try It widgets and the Final Boss game.
-  - Questions taken from your Canvas quizzes.
+- **`CHEM3B_ChNN_…_QTI.zip`:** the same question sets in Canvas QTI format. Use them to re-import into ADAPT (**My Questions → Bulk Import → Canvas QTI**), or into Canvas (**Settings → Import Course Content → QTI .zip file**).
+- **`CHEM3B_ADAPT_question_list.csv`:** every question with its correct answer, for review.
+- **To rebuild after editing the Try It bank:** run `python3 tools/adapt_export.py`.
 
-`CHEM3B_ADAPT_question_list.csv` lists every question with its correct answer, so you can check a chapter before you assign it.
+## Questions that were left out
 
-## Importing into ADAPT (one-time setup)
+These questions are still in the Try It widgets and the Final Boss game:
 
-1. Sign in at adapt.libretexts.org with your LibreOne instructor account.
-2. Create a course: **My Courses → New Course**. Use something like "CHEM 3B – Introductory Organic and Biological Chemistry (FCC)".
-3. Open **My Questions** (the Question Bank). Choose **Bulk Import** (some versions say "Import Questions" or "QTI Import"), then upload one chapter's zip. Put each chapter in its own folder, such as "Ch 01 Bonding Review".
-4. In the course, create one assignment per chapter. Use **Add Questions → My Questions**, pick that chapter's folder, and select the questions you want (or all of them).
-5. Set the assignment options. Suggested settings: real-time feedback, 2–3 attempts per question, and late penalty per your syllabus.
-6. Link the course to Canvas with **Course Properties → LMS**. The FCC Canvas admin may need to turn on the ADAPT LTI tool once. After that, ADAPT scores flow into the Canvas gradebook.
+- Questions that need a drawn structure or figure, or have structures as answer choices.
+- Questions taken from your Canvas quizzes.
 
-**Note:** ADAPT's menu names change from time to time. If you can't find the QTI import, LibreTexts support can import the zips for you. Email them the files and say they are QTI 1.2 Canvas-format question banks.
-
-## Using them in Canvas instead
-
-The same zips import directly into Canvas:
-
-1. Go to **Settings → Import Course Content → QTI .zip file**.
-2. Each chapter becomes a question bank you can draw quizzes from.
-
-## Rebuilding
-
-After you edit the Try It bank, run:
-
-```
-python3 tools/adapt_export.py
-```
-
-This regenerates every zip and the question list.
+Chapters 3 and 13 are the thinnest sets for this reason.
