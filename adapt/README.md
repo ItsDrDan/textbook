@@ -50,11 +50,21 @@
 - They are built by `tools/render_thin.js` and `tools/adapt_thin.py`.
 - They were added to the Chapter 3, 13 and 15 assignments.
 
+## Structure and figure questions for every chapter (added Nov 4)
+
+- `CHEM3B_ChNN_more_QTI.zip` (Chapters 1–12, 14 and 15) hold 479 more questions that use drawn structures, graphs, pathways, Fischer and Haworth projections:
+  - Chapter 1: 82, Chapter 2: 21, Chapter 3: 38 (including 14 re-imported, see below), Chapter 4: 26, Chapter 5: 79, Chapter 6: 26, Chapter 7: 30, Chapter 8: 29, Chapter 9: 25, Chapter 10: 30, Chapter 11: 41, Chapter 12: 20, Chapter 14: 18, Chapter 15: 14.
+  - Every drawing is an image with a written description (alt text) for screen readers. The descriptions are written from the drawing data by `tools/struct_alt.py`: atoms, rings, positions, wedges, cis/trans layout, condensed formulas, and graph shapes. They describe the drawing without naming the answer.
+  - Tables and equations that stand alone are real text, not images.
+- `more_by_chapter.json` lists which questions go in which chapter.
+- To rebuild: `python3 tools/adapt_more.py ids <imgdir>`, then `node tools/render_thin.js <imgdir>/ids.json <imgdir>`, then `python3 tools/adapt_more.py build <imgdir>`.
+
 ## Questions that were left out
 
 These questions are still in the Try It widgets and the Final Boss game:
 
-- Questions that need a drawn structure or figure, or have structures as answer choices.
 - Questions taken from your Canvas quizzes.
 
-Other chapters still have structure-based questions that are not in ADAPT yet. The same image method can add them.
+## Shuffled structure choices
+
+When the answer choices are drawn structures, the A–D grid is shuffled for each question, so the right answer is not always "Structure A". Fourteen Chapter 3 questions from the first extra set had the right answer always in position A; they are re-imported in `CHEM3B_Ch03_more_QTI.zip` with a shuffled grid, and the old copies were taken out of the Chapter 3 assignment.
