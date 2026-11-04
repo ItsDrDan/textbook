@@ -103,6 +103,10 @@ ALT = {
  "fb-3B-0971_s": "Reaction: pyruvate (CH3–CO–COO−) is converted to acetaldehyde (CH3CHO); the arrow is labeled '− CO2'.",
 }
 
+def cs_perm(x):
+    """order of the drawn answer structures in the A-D grid (shuffled so the right one is not always A)"""
+    P = list(range(len(x['cs']))); random.Random(x['id'] + 'cs').shuffle(P); return P
+
 def esc(s): return html.escape(s, quote=False)
 
 def fig_html(f):
@@ -130,7 +134,8 @@ def item(x, meta, files):
         prompt += fig_html(x['f'])
     labels = [c for c in x['c']]
     if x.get('cs'):
-        labels = [f'Structure {"ABCDEF"[k]}' + ('' if str(c).startswith('§') else f': {c}') for k, c in enumerate(x['c'])]
+        P = cs_perm(x)   # grid cell k shows choice P[k], so choice j is drawn as letter P.index(j)
+        labels = [f'Structure {"ABCDEF"[P.index(j)]}' + ('' if str(c).startswith('§') else f': {c}') for j, c in enumerate(x['c'])]
     order = list(range(len(labels))); random.Random(x['id']).shuffle(order)
     key = order.index(0)
     resp = ''.join(f'<response_label ident="{ident}_{j}"><material><mattext texttype="text/html">{esc(labels[o])}</mattext></material></response_label>' for j, o in enumerate(order))
