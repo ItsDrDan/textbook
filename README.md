@@ -15,6 +15,9 @@ Everything here is served from GitHub Pages at `https://itsdrdan.github.io/textb
 | `tools/scheme.js` | Draws the inline-SVG reaction schemes used in the guides (`node tools/scheme.js`). |
 | `tools/sync-libretexts.js` | Paste into the browser console on chem.libretexts.org to push `pages/` into the book. |
 
+
+> **Important (Nov 5, 2026): the live LibreTexts book is now ahead of `pages/`.** A polish pass was made directly on LibreTexts: outbound links fixed, Ball transclusions forked, leftover Ball Exercises/Summary pages deleted, 13.3+13.4 merged (Chapter 13 renumbered 13.3–13.12), Chapter 15 overlaps trimmed and retitled, Rosa openers and Career Spotlights added to every chapter page, Key Ideas turned into Chapter Summaries. `tools/sync-libretexts.js` now **skips** any page edited on LibreTexts after the cutoff in the script, so running it cannot undo that work. Before rebuilding with `build_pages.py`, pull the live HTML back into `drafts/`/`sections/` first, or treat LibreTexts as the source of truth for those pages.
+
 ## License
 See `LICENSE.md`: content CC BY-NC-SA 4.0; source sections keep their own licenses (`pages/back_sources.html`).
 
