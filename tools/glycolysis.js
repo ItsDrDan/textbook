@@ -47,7 +47,7 @@ function dbl(x1, y1, x2, y2, gap = 3.4) { const dx = x2 - x1, dy = y2 - y1, L = 
 function shift(m, dx, dy) { return `<g transform="translate(${r1(dx)} ${r1(dy)})">${m.svg}</g>`; }
 
 /* pyranose (glucose): ring with substituents; c6 = label on C5 (up); hl = set of keys to highlight */
-function pyranose({ c6 = 'CH_2OH', hl = [] }) {
+function pyranose({ c6 = 'CH_2OH', c1 = 'OH', hl = [] }) {
   const ox = 20, oy = 46; const V = { C5: [ox + 30, oy], O: [ox + 92, oy], C1: [ox + 120, oy + 24], C2: [ox + 92, oy + 48], C3: [ox + 30, oy + 48], C4: [ox + 2, oy + 24] };
   let bg = '', o = '';
   const sub = (C, dir, s, key) => { const [x, y] = V[C], y2 = y + dir * 26, fs = 15; o += line(x, y + dir * 2, x, y2);
@@ -56,7 +56,7 @@ function pyranose({ c6 = 'CH_2OH', hl = [] }) {
   ring.forEach(([a, b]) => { if (a === 'O' || b === 'O') { const [x1, y1] = V[a], [x2, y2] = V[b]; const t = a === 'O' ? [x1 + 9, y1 + 7] : [x1, y1]; const u = b === 'O' ? [x2 - 9, y2] : [x2, y2]; o += line(a === 'O' ? x1 + 7 : x1, a === 'O' ? y1 + 5 : y1, b === 'O' ? x2 - 9 : x2, y2, 2.2); }
     else { const front = ['C1C2', 'C2C3', 'C3C4'].includes(a + b); o += line(...V[a], ...V[b], front ? 5 : 2.2); } });
   o += label(V.O[0], V.O[1], 'O', 16, { anchor: 'middle', color: RED }).svg;
-  sub('C5', -1, c6, 'c6'); sub('C1', 1, 'OH', 'c1'); sub('C2', 1, 'OH', 'c2'); sub('C3', -1, 'OH', 'c3'); sub('C4', 1, 'OH', 'c4');
+  sub('C5', -1, c6, 'c6'); sub('C1', 1, c1, 'c1'); sub('C2', 1, 'OH', 'c2'); sub('C3', -1, 'OH', 'c3'); sub('C4', 1, 'OH', 'c4');
   return { svg: bg + o, w: ox + 150, h: oy + 100 };
 }
 /* furanose (fructose): c6 on C5 up, c1 on C2 down, OH on C2 up */
@@ -152,20 +152,23 @@ const KEY = (x, y) => label(x, y, 'Ⓟ = phosphate group (–PO_3^2−)', 13, { 
 
 /* ---------- close-up of one step ---------- */
 function stepSVG(k, set) {
-  set = set || { STEPS, MOL, COEF, title: 'Step' }; const { STEPS: STP, MOL: ML } = set; const STEPS_ = STP, MOL_ = ML;
-  const st = STEPS_[k], [fid, fhl] = st.from, A = MOL_[fid].draw(fhl);
-  const prods = st.to.map(([id, hl]) => ({ id, m: MOL_[id].draw(hl) }));
-  const topPad = 64, arrowW = Math.max(190, textW(st.enz || '', 13) * 1.05 + 24), gapP = 40;
-  const H = Math.max(A.h, ...prods.map(p => p.m.h)) + topPad + 70 + (st.below || st.outBelow ? 44 : 0);
-  let o = '', x = 14; const midY = topPad + Math.max(A.h, ...prods.map(p => p.m.h)) / 2; const nfs = k === 4 ? 12.5 : 14;
+  set = set || { STEPS, MOL, COEF, title: 'Step' }; const STEPS_ = set.STEPS, MOL_ = set.MOL;
+  const st = STEPS_[k], froms = (st.froms || [st.from]).map(([id, hl]) => ({ id, m: MOL_[id].draw(hl || []) }));
+  const prods = st.to.map(([id, hl]) => ({ id, m: MOL_[id].draw(hl || []) }));
+  const all = [...froms, ...prods], tall = Math.max(...all.map(p => p.m.h)), titled = set.title !== '';
+  const topPad = titled ? 64 : 48, arrowW = Math.max(190, textW(st.enz || '', 13) * 1.05 + 24), gapP = 40;
+  const H = tall + topPad + 70 + (st.below || st.outBelow ? 44 : 0);
+  let o = '', x = 14; const midY = topPad + tall / 2; const nfs = all.length > 2 ? 12.5 : 14;
   const slot = (m, id) => Math.max(m.w, textW(MOL_[id].name, nfs) + 12);
-  o += label(14, 22, `${set.title || 'Step'} ${k}`, 18, { weight: 900, color: '#5b4790' }).svg + ((set.COEF||{})[k] ? label(90, 22, set.twice || '(happens twice per glucose)', 13, { color: MUTED, weight: 600 }).svg : '');
-  { const sw = slot(A, fid); o += shift(A, x + (sw - A.w) / 2, midY - A.h / 2); o += nameText(x + sw / 2, midY + A.h / 2 + 14, MOL_[fid], nfs); x += sw + 8; }
+  if (titled) o += label(14, 22, `${set.title || 'Step'} ${k}`, 18, { weight: 900, color: '#5b4790' }).svg + ((set.COEF || {})[k] ? label(90, 22, set.twice || '(happens twice per glucose)', 13, { color: MUTED, weight: 600 }).svg : '');
+  const place = (list) => list.forEach((p, i) => { if (i) { o += label(x - 4, midY, '+', 24, { anchor: 'middle', weight: 800 }).svg; x += 16; }
+    const sw = slot(p.m, p.id); o += shift(p.m, x + (sw - p.m.w) / 2, midY - p.m.h / 2) + nameText(x + sw / 2, midY + p.m.h / 2 + 14, MOL_[p.id], nfs); x += sw + (i < list.length - 1 ? gapP : 0); });
+  place(froms); x += 8;
   o += hArrow(x, x + arrowW, midY, st, { enz: st.enz }); x += arrowW + 14;
-  prods.forEach((p, i) => { if (i) { o += label(x - 4, midY, '+', 24, { anchor: 'middle', weight: 800 }).svg; x += 16; }
-    const sw = slot(p.m, p.id); o += shift(p.m, x + (sw - p.m.w) / 2, midY - p.m.h / 2) + nameText(x + sw / 2, midY + p.m.h / 2 + 14, MOL_[p.id], nfs); x += sw + (i < prods.length - 1 ? gapP : 0); });
+  place(prods);
   const W = x + 18; if (o.includes('>P</text>')) o += KEY(14, H - 12);
-  return svgWrap(W, H, o, `${set.name || 'Glycolysis'} step ${k}: ${MOL_[fid].name} to ${st.to.map(t => MOL_[t[0]].name).join(' and ')}. ${st.what}`);
+  const nm = l => l.map(p => MOL_[p.id].name).join(' and ');
+  return svgWrap(W, H, o, `${titled ? (set.name || 'Glycolysis') + ' step ' + k + ': ' : ''}${nm(froms)} to ${nm(prods)}. ${st.what || ''}`);
 }
 /* ---------- citric acid cycle and β-oxidation (same style) ---------- */
 const CR = (on) => ({ lab: 'COO^−', on }), CH2 = (on) => ({ lab: 'CH_2', on });
@@ -206,6 +209,63 @@ const BOX_STEPS = {
 };
 const CAC_SET = { STEPS: CAC_STEPS, MOL: CAC_MOL, COEF: {}, title: 'Citric acid cycle, step', name: 'Citric acid cycle' };
 const BOX_SET = { STEPS: BOX_STEPS, MOL: BOX_MOL, COEF: {}, title: 'β-Oxidation, step', name: 'β-Oxidation' };
+/* ---------- "Name the reaction" figures: one close-up per reaction, no step number ---------- */
+const NH3 = '^+H_3N', CH3 = (on) => ({ lab: 'CH_3', on }), ACY = (sx, on) => ({ c: 'C', top: 'O', r: sx, on });
+const X_MOL = Object.assign({}, MOL, CAC_MOL, BOX_MOL, {
+  g1p: { name: 'Glucose 1-phosphate', draw: hl => pyranose({ c1: 'OⓅ', hl }) },
+  lac: { name: 'Lactate', draw: h => chain([CR(), { c: 'C', l: 'HO', r: 'H', on: h.includes(1) }, CH3()]) },
+  glyc: { name: 'Glycerol', draw: h => chain([{ lab: 'CH_2OH' }, { c: 'C', l: 'HO', r: 'H' }, { lab: 'CH_2OH', on: h.includes(2) }]) },
+  g3pol: { name: 'Glycerol 3-phosphate', draw: h => chain([{ lab: 'CH_2OH' }, { c: 'C', l: 'HO', r: 'H', on: h.includes(1) }, { lab: 'CH_2OⓅ', on: h.includes(2) }]) },
+  dhap2: { name: 'Dihydroxyacetone phosphate', draw: h => chain([{ lab: 'CH_2OH' }, { c: 'C', rd: 'O', on: h.includes(1) }, { lab: 'CH_2OⓅ' }]) },
+  ala: { name: 'Alanine', draw: h => chain([CR(), { c: 'C', l: NH3, r: 'H', on: h.includes(1) }, CH3()]) },
+  glu: { name: 'Glutamate', draw: h => chain([CR(), { c: 'C', l: NH3, r: 'H', on: h.includes(1) }, CH2(), CH2(), CR()]) },
+  akg2: { name: 'α-Ketoglutarate', draw: h => chain([CR(), { c: 'C', rd: 'O', on: h.includes(1) }, CH2(), CH2(), CR()]) },
+  pyr2: { name: 'Pyruvate', draw: h => chain([CR(h.includes(0)), { c: 'C', rd: 'O', on: h.includes(1) }, CH3()]) },
+  acac: { name: 'Acetoacetate', draw: h => chain([CR(h.includes(0)), CH2(), { c: 'C', rd: 'O', on: h.includes(2) }, CH3()]) },
+  acetone: { name: 'Acetone', draw: h => chain([CH3(h.includes(0)), { c: 'C', rd: 'O' }, CH3()]) },
+  bhb: { name: 'β-Hydroxybutyrate', draw: h => chain([CR(), CH2(), { c: 'C', l: 'HO', r: 'H', on: h.includes(2) }, CH3()]) },
+  acald: { name: 'Acetaldehyde', draw: h => chain([{ c: 'C', top: 'O', r: 'H', on: h.includes(0) }, CH3()]) },
+  etoh: { name: 'Ethanol', draw: h => chain([{ lab: 'CH_2OH', on: h.includes(0) }, CH3()]) },
+  aacp: { name: 'Acetoacetyl ACP', draw: h => chain([ACY('S–ACP'), CH2(), { c: 'C', rd: 'O', on: h.includes(2) }, CH3()]) },
+  hbacp: { name: 'β-Hydroxybutyryl ACP', draw: h => chain([ACY('S–ACP'), CH2(h.includes(1)), { c: 'C', l: 'HO', r: 'H', on: h.includes(2) }, CH3()]) },
+  cacp: { name: 'Crotonyl ACP', draw: h => chain([ACY('S–ACP'), { c: 'C', l: 'H', dn: true, on: h.includes(1) }, { c: 'C', r: 'H', on: h.includes(2) }, CH3()]) },
+  bacp: { name: 'Butyryl ACP', draw: h => chain([ACY('S–ACP'), CH2(h.includes(1)), CH2(h.includes(2)), CH3()]) },
+  malcoa: { name: 'Malonyl CoA', draw: h => chain([ACY('S–CoA'), CH2(), CR(h.includes(2))]) },
+  acoa2: { name: 'Acetyl CoA', draw: h => chain([ACY('S–CoA', h.includes(0)), CH3(h.includes(1))]) },
+  aacoa: { name: 'Acetoacetyl CoA', draw: h => chain([ACY('S–CoA'), CH2(h.includes(1)), { c: 'C', rd: 'O', on: h.includes(2) }, CH3()]) },
+  oaa2: { name: 'Oxaloacetate', draw: h => chain([CR(h.includes(0)), { c: 'C', rd: 'O' }, CH2(), CR()]) },
+  urea: { name: 'Urea', draw: h => chain([{ lab: 'NH_2' }, { c: 'C', rd: 'O' }, { lab: 'NH_2' }]) },
+  arg: { name: 'Arginine', draw: h => chain([CR(), { c: 'C', l: NH3, r: 'H' }, CH2(), CH2(), CH2(), { lab: 'NH', on: h.includes(5) }, { c: 'C', rd: 'NH_2^+', on: h.includes(6) }, { lab: 'NH_2', on: h.includes(7) }]) },
+  orn: { name: 'Ornithine', draw: h => chain([CR(), { c: 'C', l: NH3, r: 'H' }, CH2(), CH2(), CH2(), { lab: 'NH_3^+', on: h.includes(5) }]) }
+});
+const X_RXN = {
+  'Succinate|Fumarate': CAC_STEPS[6], 'Fumarate|Malate': CAC_STEPS[7], 'Malate|Oxaloacetate': CAC_STEPS[8], 'Isocitrate|α-Ketoglutarate': CAC_STEPS[3],
+  'α-Ketoglutarate|Succinyl CoA': CAC_STEPS[4], 'Citrate|Isocitrate': CAC_STEPS[2], 'Oxaloacetate + Acetyl CoA|Citrate + CoA–SH': CAC_STEPS[1],
+  'Glucose|Glucose 6-phosphate': STEPS[1], 'Fructose 6-phosphate|Fructose 1,6-bisphosphate': STEPS[3], 'Glucose 6-phosphate|Fructose 6-phosphate': STEPS[2],
+  '3-Phosphoglycerate|2-Phosphoglycerate': STEPS[8], '2-Phosphoglycerate|Phosphoenolpyruvate': STEPS[9], '1,3-Bisphosphoglycerate + ADP|3-Phosphoglycerate + ATP': STEPS[7],
+  'Phosphoenolpyruvate + ADP|Pyruvate + ATP': STEPS[10], 'Fructose 1,6-bisphosphate|Dihydroxyacetone phosphate + Glyceraldehyde 3-phosphate': STEPS[4],
+  'Fatty acyl CoA|trans-Enoyl CoA': BOX_STEPS[1], 'trans-Enoyl CoA|L-β-Hydroxyacyl CoA': BOX_STEPS[2], 'L-β-Hydroxyacyl CoA|β-Ketoacyl CoA': BOX_STEPS[3],
+  'β-Ketoacyl CoA + CoA–SH|Acyl CoA (2 C shorter) + Acetyl CoA': BOX_STEPS[4],
+  'Pyruvate|Lactate': { from: ['pyr2', [1]], to: [['lac', [1]]], inn: 'NADH + H^+', out: 'NAD^+', enz: 'lactate dehydrogenase' },
+  'Pyruvate|Acetyl CoA': { from: ['pyr2', [0, 1]], to: [['acoa2', [0]]], inn: 'NAD^+', out: 'NADH + H^+', below: 'CoA–SH', outBelow: 'CO_2', enz: 'pyruvate dehydrogenase' },
+  'Glycerol|Glycerol 3-phosphate': { from: ['glyc', [2]], to: [['g3pol', [2]]], inn: 'ATP', out: 'ADP', enz: 'glycerol kinase' },
+  'Glucose 1-phosphate|Glucose 6-phosphate': { from: ['g1p', ['c1']], to: [['g6p', ['c6']]], enz: 'phosphoglucomutase' },
+  'Alanine + α-Ketoglutarate|Pyruvate + Glutamate': { froms: [['ala', [1]], ['akg2', [1]]], to: [['pyr2', [1]], ['glu', [1]]], enz: 'transaminase (PLP)' },
+  'Glutamate|α-Ketoglutarate + NH4^+': { from: ['glu', [1]], to: [['akg2', [1]]], inn: 'NAD^+', out: 'NADH + H^+', below: 'H_2O', outBelow: 'NH_4^+', enz: 'glutamate dehydrogenase' },
+  'Acetoacetate|Acetone': { from: ['acac', [0]], to: [['acetone', [0]]], outBelow: 'CO_2', enz: '(happens on its own, slowly)' },
+  'Pyruvate|Acetaldehyde': { from: ['pyr2', [0]], to: [['acald', [0]]], outBelow: 'CO_2', enz: 'pyruvate decarboxylase (yeast)' },
+  'Acetoacetate|β-Hydroxybutyrate': { from: ['acac', [2]], to: [['bhb', [2]]], inn: 'NADH + H^+', out: 'NAD^+', enz: 'β-hydroxybutyrate dehydrogenase' },
+  'Acetaldehyde|Ethanol': { from: ['acald', [0]], to: [['etoh', [0]]], inn: 'NADH + H^+', out: 'NAD^+', enz: 'alcohol dehydrogenase (yeast)' },
+  'Glycerol 3-phosphate|Dihydroxyacetone phosphate': { from: ['g3pol', [1]], to: [['dhap2', [1]]], inn: 'NAD^+', out: 'NADH + H^+', enz: 'glycerol 3-phosphate dehydrogenase' },
+  'β-Hydroxybutyryl ACP|Crotonyl ACP': { from: ['hbacp', [1, 2]], to: [['cacp', [1, 2]]], outOnly: 'H_2O', enz: 'dehydratase (lipogenesis)' },
+  'Crotonyl ACP|Butyryl ACP': { from: ['cacp', [1, 2]], to: [['bacp', [1, 2]]], inn: 'NADPH + H^+', out: 'NADP^+', enz: 'reductase (lipogenesis)' },
+  'Acetoacetyl ACP|β-Hydroxybutyryl ACP': { from: ['aacp', [2]], to: [['hbacp', [2]]], inn: 'NADPH + H^+', out: 'NADP^+', enz: 'reductase (lipogenesis)' },
+  'Pyruvate + CO2|Oxaloacetate': { from: ['pyr2', []], to: [['oaa2', [0]]], inn: 'ATP', out: 'ADP + Ⓟ_i', below: 'CO_2', enz: 'pyruvate carboxylase' },
+  'Acetyl CoA + CO2|Malonyl CoA': { from: ['acoa2', []], to: [['malcoa', [2]]], inn: 'ATP', out: 'ADP + Ⓟ_i', below: 'CO_2', enz: 'acetyl CoA carboxylase' },
+  '2 Acetyl CoA|Acetoacetyl CoA + CoA–SH': { from: ['acoa2', [1]], to: [['aacoa', [1, 2]]], below: 'acetyl CoA', outBelow: 'CoA–SH', enz: 'thiolase (ketogenesis step 1)' },
+  'Arginine + H2O|Urea + Ornithine': { from: ['arg', [5, 6, 7]], to: [['urea', []], ['orn', [5]]], below: 'H_2O', enz: 'arginase' }
+};
+const X_SET = { STEPS: X_RXN, MOL: X_MOL, title: '' };
 /* ---------- full pathway in two panels ---------- */
 function stepCircle(x, y, k) { return `<circle cx="${r1(x)}" cy="${r1(y)}" r="12" fill="#eef2f8" stroke="#9fb0c8" stroke-width="1.4"/>` + label(x, y, String(k), 13, { anchor: 'middle', color: MUTED, weight: 900 }).svg; }
 const italic = (x, y, t, anchor) => label(x, y, t, 13, { color: MUTED, weight: 700, italic: true, anchor }).svg;
@@ -235,7 +295,7 @@ function payoffSVG() {
   const H = y + 44; o += KEY(16, H - 12);
   return svgWrap(W, H, o, 'Glycolysis part 2, steps 6 to 10 with structures, each happening twice per glucose: glyceraldehyde 3-phosphate is oxidized by NAD+ and gains a phosphate, the phosphate is passed to ADP to make ATP, the phosphate moves from carbon 3 to carbon 2, water is removed to make phosphoenolpyruvate, and its phosphate goes to ADP to make ATP and pyruvate.');
 }
-module.exports = { stepSVG, investSVG, payoffSVG, STEPS, MOL, CAC_SET, BOX_SET };
+module.exports = { stepSVG, investSVG, payoffSVG, STEPS, MOL, CAC_SET, BOX_SET, X_SET };
 if (require.main === module) {
   const dir = path.join(__dirname, '..', 'figures', 'pathways', 'glycolysis'); fs.mkdirSync(dir, { recursive: true });
   const out = { invest: investSVG(), payoff: payoffSVG() };
@@ -245,5 +305,6 @@ if (require.main === module) {
   for (const [nm, set, n] of [['cac', CAC_SET, 8], ['box', BOX_SET, 4]]) { const d2 = path.join(dir, '..', nm); fs.mkdirSync(d2, { recursive: true }); const o2 = {};
     for (let k = 1; k <= n; k++) { o2['s' + k] = stepSVG(k, set); fs.writeFileSync(path.join(d2, 'step' + k + '.svg'), o2['s' + k]); }
     fs.writeFileSync(path.join(d2, nm + '_svgs.json'), JSON.stringify(o2)); }
+  { const d3 = path.join(dir, '..', 'reactions'); fs.mkdirSync(d3, { recursive: true }); const o3 = {}; const slug = k => k.toLowerCase().replace(/α/g, 'alpha').replace(/β/g, 'beta').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); for (const key of Object.keys(X_RXN)) { o3[key] = stepSVG(key, X_SET); fs.writeFileSync(path.join(d3, slug(key) + '.svg'), o3[key]); } fs.writeFileSync(path.join(d3, 'reactions_svgs.json'), JSON.stringify(o3)); console.log('reactions', Object.keys(o3).length); }
   console.log('wrote', Object.keys(out).length, 'figures; total', Object.values(out).reduce((a, b) => a + b.length, 0), 'bytes');
 }
