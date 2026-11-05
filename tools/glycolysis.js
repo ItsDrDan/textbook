@@ -77,6 +77,7 @@ function chain(rows) {
   const cx = 70, top = rows[0].top ? 44 : 18, gap = 46; let bg = '', o = ''; let minx = 1e9, maxx = -1e9;
   const H = (r) => (r.hl || []);
   rows.forEach((r, i) => { const y = top + i * gap, fs = 16;
+    if (r.on) { const L = r.lab ? textW(r.lab, fs) : 0; const lx = r.lab ? cx - firstW(r.lab, fs) / 2 - 6 : cx - (r.l ? 34 + textW(r.l, fs) + 6 : 14); const rx = r.lab ? cx - firstW(r.lab, fs) / 2 + L + 6 : cx + (r.r ? 34 + textW(r.r, fs) + 6 : r.rd ? 34 + textW(r.rd, fs) + 6 : 14); bg += hlRect(lx, y - 14, rx - lx, 28); }
     if (i > 0) { const yp = y - gap; if (rows[i - 1].dn) o += dbl(cx, yp + 11, cx, y - 11); else o += line(cx, yp + 11, cx, y - 11); }
     if (r.lab) { const L = label(cx - firstW(r.lab, fs) / 2, y, r.lab, fs); if (H(r).includes('all')) bg += hlRect(L.x0 - 5, y - 13, L.w + 10, 26); o += L.svg; minx = Math.min(minx, L.x0); maxx = Math.max(maxx, L.x1); return; }
     o += label(cx, y, 'C', fs, { anchor: 'middle' }).svg;
@@ -119,7 +120,7 @@ const STEPS = {
 const COEF = { 6: 2, 7: 2, 8: 2, 9: 2, 10: 2 };
 /* arrowhead as a filled path */
 const head = (x, y, ang, c = INK, s = 11) => { const a = ang * Math.PI / 180, p = (d, t) => [x + d * Math.cos(a + t), y + d * Math.sin(a + t)]; const [x1, y1] = p(-s, .42), [x2, y2] = p(-s, -.42); return `<path d="M${r1(x)} ${r1(y)}L${r1(x1)} ${r1(y1)}L${r1(x2)} ${r1(y2)}z" fill="${c}"/>`; };
-const sideColor = s => /NAD/.test(s) ? BLUE : /ATP|ADP/.test(s) ? '#8a5a00' : /H_2O/.test(s) ? GREEN : '#8a4a0e';
+const sideColor = s => /NAD/.test(s) ? BLUE : /FAD/.test(s) ? GREEN : /ATP|ADP|GTP|GDP/.test(s) ? '#8a5a00' : /H_2O/.test(s) ? '#1f6f8b' : /CO_2/.test(s) ? RED : /CoA/.test(s) ? '#5b4790' : '#8a4a0e';
 
 /* horizontal reaction arrow from x0 to x1 at y, with curved arrows above (in → out), optional below-in, or out only */
 function hArrow(x0, x1, y, st, opt = {}) {
@@ -128,8 +129,9 @@ function hArrow(x0, x1, y, st, opt = {}) {
   if (st.inn) { const a = xm - 46, b = xm + 46; o += `<path d="M${r1(a)} ${r1(y - lift + 6)} C ${r1(a + 6)} ${r1(y + 12)}, ${r1(b - 6)} ${r1(y + 12)}, ${r1(b)} ${r1(y - lift + 10)}" fill="none" stroke="${MUTED}" stroke-width="2.4"/>` + head(b, y - lift + 6, -62, MUTED, 10);
     o += label(a, y - lift - 6, st.inn, 16, { anchor: 'middle', color: sideColor(st.inn), weight: 800 }).svg + label(b + 4, y - lift - 6, st.out, 16, { anchor: 'middle', color: sideColor(st.out), weight: 800 }).svg; }
   if (st.outOnly) { const b = xm + 44; o += `<path d="M${r1(xm - 10)} ${r1(y - 2)} C ${r1(xm + 4)} ${r1(y - 22)}, ${r1(b - 14)} ${r1(y - lift + 8)}, ${r1(b)} ${r1(y - lift + 8)}" fill="none" stroke="${MUTED}" stroke-width="2.4"/>` + head(b + 2, y - lift + 8, 0, MUTED, 10) + label(b + 8, y - lift + 8, st.outOnly, 16, { color: sideColor(st.outOnly), weight: 800 }).svg; }
-  if (st.below) { const a = xm - 58; o += `<path d="M${r1(a)} ${r1(y + 46)} C ${r1(a + 30)} ${r1(y + 46)}, ${r1(xm - 14)} ${r1(y + 30)}, ${r1(xm - 3)} ${r1(y + 6)}" fill="none" stroke="${MUTED}" stroke-width="2.4"/>` + head(xm - 2, y + 3, -70, MUTED, 10) + label(a - 6, y + 46, st.below, 16, { anchor: 'end', color: sideColor(st.below), weight: 800 }).svg; }
-  if (opt.enz) o += label(xm, y + (st.below ? 74 : 24), opt.enz, 13, { anchor: 'middle', color: MUTED, weight: 600, italic: true }).svg;
+  if (st.outBelow) { const b = xm + 62; o += `<path d="M${r1(xm + 4)} ${r1(y + 4)} C ${r1(xm + 16)} ${r1(y + 30)}, ${r1(b - 30)} ${r1(y + 46)}, ${r1(b - 2)} ${r1(y + 46)}" fill="none" stroke="${MUTED}" stroke-width="2.4"/>` + head(b + 2, y + 46, 0, MUTED, 10) + label(b + 8, y + 46, st.outBelow, 16, { color: sideColor(st.outBelow), weight: 800 }).svg; }
+  if (st.below) { const a = xm - 58; o += `<path d="M${r1(a)} ${r1(y + 46)} C ${r1(a + 30)} ${r1(y + 46)}, ${r1(xm - 14)} ${r1(y + 30)}, ${r1(xm - 3)} ${r1(y + 6)}" fill="none" stroke="${MUTED}" stroke-width="2.4"/>` + head(xm - 2, y + 3, -70, MUTED, 10) + label(a - 4, y + 68, st.below, 16, { anchor: textW(st.below, 16) > 70 ? 'middle' : 'end', color: sideColor(st.below), weight: 800 }).svg; }
+  if (opt.enz) o += label(xm, y + (st.below || st.outBelow ? 92 : 24), opt.enz, 13, { anchor: 'middle', color: MUTED, weight: 600, italic: true }).svg;
   return o;
 }
 /* vertical version for the full pathway: arrow from y0 down to y1 at x; side arrows to the right */
@@ -149,21 +151,61 @@ const nameText = (x, y, m, fs = 14) => label(x, y, m.name, fs, { anchor: 'middle
 const KEY = (x, y) => label(x, y, 'Ⓟ = phosphate group (–PO_3^2−)', 13, { color: MUTED, weight: 700 }).svg;
 
 /* ---------- close-up of one step ---------- */
-function stepSVG(k) {
-  const st = STEPS[k], [fid, fhl] = st.from, A = MOL[fid].draw(fhl);
-  const prods = st.to.map(([id, hl]) => ({ id, m: MOL[id].draw(hl) }));
-  const topPad = 64, arrowW = 190, gapP = 40;
-  const H = Math.max(A.h, ...prods.map(p => p.m.h)) + topPad + 70 + (st.below ? 24 : 0);
+function stepSVG(k, set) {
+  set = set || { STEPS, MOL, COEF, title: 'Step' }; const { STEPS: STP, MOL: ML } = set; const STEPS_ = STP, MOL_ = ML;
+  const st = STEPS_[k], [fid, fhl] = st.from, A = MOL_[fid].draw(fhl);
+  const prods = st.to.map(([id, hl]) => ({ id, m: MOL_[id].draw(hl) }));
+  const topPad = 64, arrowW = Math.max(190, textW(st.enz || '', 13) * 1.05 + 24), gapP = 40;
+  const H = Math.max(A.h, ...prods.map(p => p.m.h)) + topPad + 70 + (st.below || st.outBelow ? 44 : 0);
   let o = '', x = 14; const midY = topPad + Math.max(A.h, ...prods.map(p => p.m.h)) / 2; const nfs = k === 4 ? 12.5 : 14;
-  const slot = (m, id) => Math.max(m.w, textW(MOL[id].name, nfs) + 12);
-  o += label(14, 22, `Step ${k}`, 18, { weight: 900, color: '#5b4790' }).svg + (COEF[k] ? label(90, 22, '(happens twice per glucose)', 13, { color: MUTED, weight: 600 }).svg : '');
-  { const sw = slot(A, fid); o += shift(A, x + (sw - A.w) / 2, midY - A.h / 2); o += nameText(x + sw / 2, midY + A.h / 2 + 14, MOL[fid], nfs); x += sw + 8; }
+  const slot = (m, id) => Math.max(m.w, textW(MOL_[id].name, nfs) + 12);
+  o += label(14, 22, `${set.title || 'Step'} ${k}`, 18, { weight: 900, color: '#5b4790' }).svg + ((set.COEF||{})[k] ? label(90, 22, set.twice || '(happens twice per glucose)', 13, { color: MUTED, weight: 600 }).svg : '');
+  { const sw = slot(A, fid); o += shift(A, x + (sw - A.w) / 2, midY - A.h / 2); o += nameText(x + sw / 2, midY + A.h / 2 + 14, MOL_[fid], nfs); x += sw + 8; }
   o += hArrow(x, x + arrowW, midY, st, { enz: st.enz }); x += arrowW + 14;
   prods.forEach((p, i) => { if (i) { o += label(x - 4, midY, '+', 24, { anchor: 'middle', weight: 800 }).svg; x += 16; }
-    const sw = slot(p.m, p.id); o += shift(p.m, x + (sw - p.m.w) / 2, midY - p.m.h / 2) + nameText(x + sw / 2, midY + p.m.h / 2 + 14, MOL[p.id], nfs); x += sw + (i < prods.length - 1 ? gapP : 0); });
-  const W = x + 18; o += KEY(14, H - 12);
-  return svgWrap(W, H, o, `Glycolysis step ${k}: ${MOL[fid].name} to ${st.to.map(t => MOL[t[0]].name).join(' and ')}. ${st.what}`);
+    const sw = slot(p.m, p.id); o += shift(p.m, x + (sw - p.m.w) / 2, midY - p.m.h / 2) + nameText(x + sw / 2, midY + p.m.h / 2 + 14, MOL_[p.id], nfs); x += sw + (i < prods.length - 1 ? gapP : 0); });
+  const W = x + 18; if (o.includes('>P</text>')) o += KEY(14, H - 12);
+  return svgWrap(W, H, o, `${set.name || 'Glycolysis'} step ${k}: ${MOL_[fid].name} to ${st.to.map(t => MOL_[t[0]].name).join(' and ')}. ${st.what}`);
 }
+/* ---------- citric acid cycle and β-oxidation (same style) ---------- */
+const CR = (on) => ({ lab: 'COO^−', on }), CH2 = (on) => ({ lab: 'CH_2', on });
+const CAC_MOL = {
+  oaa: { name: 'Oxaloacetate', draw: h => chain([CR(), { c: 'C', rd: 'O', on: h.includes(1) }, CH2(), CR()]) },
+  cit: { name: 'Citrate', draw: h => chain([CR(), CH2(h.includes(1)), { c: 'C', l: 'HO', r: 'COO^−', on: h.includes(2) }, CH2(h.includes(3)), CR(h.includes(4))]) },
+  icit: { name: 'Isocitrate', draw: h => chain([CR(), CH2(), { c: 'C', l: 'H', r: 'COO^−', on: h.includes(2) }, { c: 'C', l: 'HO', r: 'H', on: h.includes(3) }, CR()]) },
+  akg: { name: 'α-Ketoglutarate', draw: h => chain([CR(), CH2(), CH2(), { c: 'C', rd: 'O', on: h.includes(3) }, CR(h.includes(4))]) },
+  scoa: { name: 'Succinyl CoA', draw: h => chain([CR(), CH2(), CH2(), { c: 'C', rd: 'O' }, { lab: 'S–CoA', on: h.includes(4) }]) },
+  suc: { name: 'Succinate', draw: h => chain([CR(), CH2(h.includes(1)), CH2(h.includes(2)), CR(h.includes(3))]) },
+  fum: { name: 'Fumarate', draw: h => chain([CR(), { c: 'C', l: 'H', dn: true, on: h.includes(1) }, { c: 'C', r: 'H', on: h.includes(2) }, CR()]) },
+  mal: { name: 'Malate', draw: h => chain([CR(), { c: 'C', l: 'HO', r: 'H', on: h.includes(1) }, CH2(h.includes(2)), CR()]) }
+};
+const CAC_STEPS = {
+  1: { from: ['oaa', [1]], to: [['cit', [1, 2]]], below: 'acetyl CoA + H_2O', outBelow: 'CoA–SH', enz: 'citrate synthase', what: 'Acetyl CoA (2 C) joins oxaloacetate (4 C) to make citrate (6 C).' },
+  2: { from: ['cit', [2, 3]], to: [['icit', [2, 3]]], enz: 'aconitase', what: 'The –OH moves to the next carbon. Same atoms, rearranged.' },
+  3: { from: ['icit', [3, 4]], to: [['akg', [3, 4]]], inn: 'NAD^+', out: 'NADH + H^+', outBelow: 'CO_2', enz: 'isocitrate dehydrogenase', what: 'The alcohol is oxidized to a ketone (NAD⁺ takes the H) and one carbon leaves as CO₂.' },
+  4: { from: ['akg', [3, 4]], to: [['scoa', [4]]], inn: 'NAD^+', out: 'NADH + H^+', below: 'CoA–SH', outBelow: 'CO_2', enz: 'α-ketoglutarate dehydrogenase', what: 'Another carbon leaves as CO₂, NAD⁺ is reduced, and CoA is attached.' },
+  5: { from: ['scoa', [4]], to: [['suc', [3]]], inn: 'GDP + Ⓟ_i', out: 'GTP', outBelow: 'CoA–SH', enz: 'succinyl CoA synthetase', what: 'Breaking the thioester bond releases enough energy to make GTP.' },
+  6: { from: ['suc', [1, 2]], to: [['fum', [1, 2]]], inn: 'FAD', out: 'FADH_2', enz: 'succinate dehydrogenase', what: 'FAD removes two H, leaving a C=C double bond.' },
+  7: { from: ['fum', [1, 2]], to: [['mal', [1, 2]]], below: 'H_2O', enz: 'fumarase', what: 'Water adds across the C=C double bond.' },
+  8: { from: ['mal', [1]], to: [['oaa', [1]]], inn: 'NAD^+', out: 'NADH + H^+', enz: 'malate dehydrogenase', what: 'The alcohol is oxidized to a ketone, regenerating oxaloacetate.' }
+};
+const TOP = (on) => ({ c: 'C', top: 'O', r: 'S–CoA', on });
+const BOX_MOL = {
+  acyl: { name: 'Fatty acyl CoA', draw: h => chain([TOP(), CH2(h.includes(1)), CH2(h.includes(2)), { lab: 'R' }]) },
+  enoyl: { name: 'trans-Enoyl CoA', draw: h => chain([TOP(), { c: 'C', l: 'H', dn: true, on: h.includes(1) }, { c: 'C', r: 'H', on: h.includes(2) }, { lab: 'R' }]) },
+  hyd: { name: 'β-Hydroxyacyl CoA', draw: h => chain([TOP(), CH2(h.includes(1)), { c: 'C', l: 'HO', r: 'H', on: h.includes(2) }, { lab: 'R' }]) },
+  keto: { name: 'β-Ketoacyl CoA', draw: h => chain([TOP(h.includes(0)), CH2(h.includes(1)), { c: 'C', rd: 'O', on: h.includes(2) }, { lab: 'R' }]) },
+  acoa: { name: 'Acetyl CoA', draw: h => chain([TOP(h.includes(0)), { lab: 'CH_3' }]) },
+  short: { name: 'Fatty acyl CoA (2 C shorter)', draw: h => chain([TOP(h.includes(0)), { lab: 'R' }]) }
+};
+const BOX_STEPS = {
+  1: { from: ['acyl', [1, 2]], to: [['enoyl', [1, 2]]], inn: 'FAD', out: 'FADH_2', enz: 'acyl CoA dehydrogenase', what: 'FAD removes two H from the α and β carbons, forming a trans C=C.' },
+  2: { from: ['enoyl', [1, 2]], to: [['hyd', [1, 2]]], below: 'H_2O', enz: 'enoyl CoA hydratase', what: 'Water adds across the C=C; the –OH goes on the β carbon.' },
+  3: { from: ['hyd', [2]], to: [['keto', [2]]], inn: 'NAD^+', out: 'NADH + H^+', enz: 'β-hydroxyacyl CoA dehydrogenase', what: 'The 2° alcohol on the β carbon is oxidized to a ketone.' },
+  4: { from: ['keto', [1, 2]], to: [['acoa', [0]], ['short', [0]]], below: 'CoA–SH', enz: 'thiolase', what: 'CoA–SH cuts between the α and β carbons, releasing acetyl CoA.' }
+};
+const CAC_SET = { STEPS: CAC_STEPS, MOL: CAC_MOL, COEF: {}, title: 'Citric acid cycle, step', name: 'Citric acid cycle' };
+const BOX_SET = { STEPS: BOX_STEPS, MOL: BOX_MOL, COEF: {}, title: 'β-Oxidation, step', name: 'β-Oxidation' };
 /* ---------- full pathway in two panels ---------- */
 function stepCircle(x, y, k) { return `<circle cx="${r1(x)}" cy="${r1(y)}" r="12" fill="#eef2f8" stroke="#9fb0c8" stroke-width="1.4"/>` + label(x, y, String(k), 13, { anchor: 'middle', color: MUTED, weight: 900 }).svg; }
 const italic = (x, y, t, anchor) => label(x, y, t, 13, { color: MUTED, weight: 700, italic: true, anchor }).svg;
@@ -193,12 +235,15 @@ function payoffSVG() {
   const H = y + 44; o += KEY(16, H - 12);
   return svgWrap(W, H, o, 'Glycolysis part 2, steps 6 to 10 with structures, each happening twice per glucose: glyceraldehyde 3-phosphate is oxidized by NAD+ and gains a phosphate, the phosphate is passed to ADP to make ATP, the phosphate moves from carbon 3 to carbon 2, water is removed to make phosphoenolpyruvate, and its phosphate goes to ADP to make ATP and pyruvate.');
 }
-module.exports = { stepSVG, investSVG, payoffSVG, STEPS, MOL };
+module.exports = { stepSVG, investSVG, payoffSVG, STEPS, MOL, CAC_SET, BOX_SET };
 if (require.main === module) {
   const dir = path.join(__dirname, '..', 'figures', 'pathways', 'glycolysis'); fs.mkdirSync(dir, { recursive: true });
   const out = { invest: investSVG(), payoff: payoffSVG() };
   for (let k = 1; k <= 10; k++) out['s' + k] = stepSVG(k);
   for (const [k, v] of Object.entries(out)) fs.writeFileSync(path.join(dir, (k[0] === 's' ? 'step' + k.slice(1) : 'full-' + (k === 'invest' ? 'investment' : 'payoff')) + '.svg'), v);
   fs.writeFileSync(path.join(dir, 'glycolysis_svgs.json'), JSON.stringify(out));
+  for (const [nm, set, n] of [['cac', CAC_SET, 8], ['box', BOX_SET, 4]]) { const d2 = path.join(dir, '..', nm); fs.mkdirSync(d2, { recursive: true }); const o2 = {};
+    for (let k = 1; k <= n; k++) { o2['s' + k] = stepSVG(k, set); fs.writeFileSync(path.join(d2, 'step' + k + '.svg'), o2['s' + k]); }
+    fs.writeFileSync(path.join(d2, nm + '_svgs.json'), JSON.stringify(o2)); }
   console.log('wrote', Object.keys(out).length, 'figures; total', Object.values(out).reduce((a, b) => a + b.length, 0), 'bytes');
 }
