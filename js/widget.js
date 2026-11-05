@@ -5,7 +5,7 @@
                   practice.html?t=hydrocarbons&q=hydrogenation|addition   (regex filter on the question text)
    2) Reaction lab: practice.html?rxn=hydration,hydrohalogenation&mode=product   (generated from Bond Voyage templates)
       modes: identify | product | reactant | name | mix
-   Common: &title=...&kicker=...&game=orgrxn|origins|carbs|peptides|finalboss|lewis|flash&key=storage-suffix */
+   Common: &title=...&kicker=...&game=orgrxn|origins|carbs|peptides|finalboss|lewis|flash|lipidlab|enzyme|helix|marathon&key=storage-suffix */
 (function(){
 "use strict";
 const P=new URLSearchParams(location.search);
@@ -13,7 +13,8 @@ const $=s=>document.querySelector(s);
 const E=window.ENGINE,esc=E.esc,shuf=E.shuf,pick=E.pick;
 const GAMES={orgrxn:['Bond Voyage! Organic Reactions','https://itsdrdan.github.io/organicreactions/'],origins:['Organic Origins','https://itsdrdan.github.io/functionalgroups/'],
  carbs:['Sweet Structures','https://itsdrdan.github.io/carbohydrates/'],peptides:['Peptide Party','https://itsdrdan.github.io/aminoacids/'],finalboss:['Final Boss','https://itsdrdan.github.io/finalexam/?course=3B'],
- lewis:['Lewis Structure Studio','https://itsdrdan.github.io/lewisstructures/?course=3B'],flash:['Functional Group Flashcards','https://itsdrdan.github.io/organic/'],hub:['the Study Hub','https://itsdrdan.github.io/games/3b.html']};
+ lewis:['Lewis Structure Studio','https://itsdrdan.github.io/lewisstructures/?course=3B'],flash:['Functional Group Flashcards','https://itsdrdan.github.io/organic/'],hub:['the Study Hub','https://itsdrdan.github.io/games/3b.html'],
+ lipidlab:['Lipid Lab','https://itsdrdan.github.io/lipids/'],enzyme:['Enzyme Engine','https://itsdrdan.github.io/enzymes/'],helix:['Helix Hustle','https://itsdrdan.github.io/nucleicacids/'],marathon:['Metabolic Marathon','https://itsdrdan.github.io/metabolism/']};
 const TOPICS=[['structure','Structure & Functional Groups','🧩'],['hydrocarbons','Alkanes, Alkenes & Alkynes','⛓️'],['aromatic','Aromatic Compounds','💍'],['isomers','Isomers','🪞'],['chirality','Chirality','🤲'],
  ['properties','IMFs, Polarity & Acid–Base','🧲'],['alcohols','Alcohols, Phenols, Thiols & Ethers','🍷'],['carbonyls','Aldehydes & Ketones','🍋'],['acids_esters','Carboxylic Acids & Esters','🍌'],['amines','Amines & Amides','🐟'],
  ['carbs','Carbohydrates','🍬'],['lipids','Lipids','🫧'],['proteins','Amino Acids & Proteins','🧶'],['enzymes','Enzymes & Vitamins','⚙️'],['nucleic','Nucleic Acids','🧬'],['metabolism','Metabolism','⚡']];
