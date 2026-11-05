@@ -46,9 +46,9 @@ function build({ outer = true } = {}) {
     const om = bilayer(10, 900, 70, 0.00012, cx, 22); body += om.svg;
     body += curve('M912 50 q8 0 8 10 v20 q0 6 6 6 q-6 0 -6 6 v20 q0 10 -8 10', MUTED, 1.6) + T(934, 84, 'Outer', { a: 'start', fs: 14, w: 700, c: MUTED }) + T(934, 101, 'membrane', { a: 'start', fs: 14, w: 700, c: MUTED });
   }
-  body += T(outer ? 20 : 20, outer ? 158 : 168, 'Intermembrane space (high H^+)', { a: 'start', fs: 16, c: '#8a4d63', w: 800 });
+  body += T(20, outer ? 146 : 158, 'Intermembrane space (high H^+)', { a: 'start', fs: 16, c: '#8a4d63', w: 800 });
   // H+ crowd in intermembrane space
-  [[120, 190], [210, 172], [300, 196], [380, 168], [560, 172], [650, 196], [720, 168], [870, 196]].forEach(([x, y]) => body += hion(x, y));
+  [[110, 196], [215, 186], [300, 200], [380, 172], [560, 172], [650, 196], [720, 168], [870, 196]].forEach(([x, y]) => body += hion(x, y));
   const IMy = 300; // inner membrane centre
   const im = bilayer(10, 900, IMy, 0.0001, cx, 30, [[105, 205], [262, 302], [335, 410], [530, 615], [742, 788]]); body += im.svg;
   body += curve('M912 262 q8 0 8 10 v18 q0 6 6 6 q-6 0 -6 6 v18 q0 10 -8 10', MUTED, 1.6) + T(934, 292, 'Inner', { a: 'start', fs: 14, w: 700, c: MUTED }) + T(934, 309, 'membrane', { a: 'start', fs: 14, w: 700, c: MUTED });
