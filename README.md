@@ -18,6 +18,8 @@ Everything here is served from GitHub Pages at `https://itsdrdan.github.io/textb
 
 > **Important (Nov 5, 2026): the live LibreTexts book is now ahead of `pages/`.** A polish pass was made directly on LibreTexts: outbound links fixed, Ball transclusions forked, leftover Ball Exercises/Summary pages deleted, 13.3+13.4 merged (Chapter 13 renumbered 13.3–13.12), Chapter 15 overlaps trimmed and retitled, Rosa openers and Career Spotlights added to every chapter page, Key Ideas turned into Chapter Summaries. `tools/sync-libretexts.js` now **skips** any page edited on LibreTexts after the cutoff in the script, so running it cannot undo that work. Before rebuilding with `build_pages.py`, pull the live HTML back into `drafts/`/`sections/` first, or treat LibreTexts as the source of truth for those pages.
 
+> **Diagrams with text labels are images now (Nov 5, 2026, overnight pass).** LibreTexts' glossary script wraps glossary words in an HTML `<div>` even inside an inline SVG `<text>`, and browsers then drop the word ("D-Glucose" showed as "D-"). Every inline SVG that has text labels (about 290 figures on 83 pages) was uploaded as a file attached to its own page (`fig-p<pageid>-<n>.svg`) and replaced by an `<img>` with the SVG's aria-label as alt text. Rule for new figures: never paste an SVG with `<text>` into a page; upload it (or host it under `figures/`) and use `<img>`. The step and reaction close-ups in `figures/pathways/` come from `tools/glycolysis.js` and are linked from GitHub Pages.
+
 ## License
 See `LICENSE.md`: content CC BY-NC-SA 4.0; source sections keep their own licenses (`pages/back_sources.html`).
 
