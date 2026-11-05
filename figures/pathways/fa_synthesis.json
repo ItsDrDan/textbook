@@ -1,0 +1,104 @@
+{
+ "colw": 215,
+ "rowh": 120,
+ "font": 14,
+ "nodes": [
+  {
+   "id": "acoa",
+   "label": "Acetyl CoA\n(also loads onto ACP)",
+   "col": 0,
+   "row": 0
+  },
+  {
+   "id": "mcoa",
+   "label": "Malonyl CoA (3 C)",
+   "col": 0,
+   "row": 1
+  },
+  {
+   "id": "start",
+   "label": "Acetyl ACP +\nmalonyl ACP",
+   "col": 1,
+   "row": 1,
+   "kind": "start"
+  },
+  {
+   "id": "aceto",
+   "label": "Acetoacetyl ACP\n(4 C, β-keto)",
+   "col": 2,
+   "row": 0
+  },
+  {
+   "id": "hydroxy",
+   "label": "3-Hydroxybutyryl ACP\n(2° alcohol)",
+   "col": 3,
+   "row": 1
+  },
+  {
+   "id": "croton",
+   "label": "Crotonyl ACP\n(C=C)",
+   "col": 3,
+   "row": 2.2
+  },
+  {
+   "id": "butyryl",
+   "label": "Butyryl ACP\n(4 C, saturated)",
+   "col": 1,
+   "row": 2.2
+  },
+  {
+   "id": "palm",
+   "label": "Palmitate (16 C)\nafter 7 turns",
+   "col": 0,
+   "row": 3.2,
+   "kind": "energy"
+  }
+ ],
+ "edges": [
+  {
+   "from": "acoa",
+   "to": "mcoa",
+   "label": "carboxylation (ATP)"
+  },
+  {
+   "from": "mcoa",
+   "to": "start",
+   "label": "",
+   "labelSide": "below"
+  },
+  {
+   "from": "start",
+   "to": "aceto",
+   "label": "1. condensation (− CO₂)"
+  },
+  {
+   "from": "aceto",
+   "to": "hydroxy",
+   "label": "2. reduction (NADPH)"
+  },
+  {
+   "from": "hydroxy",
+   "to": "croton",
+   "label": "3. dehydration (− H₂O)"
+  },
+  {
+   "from": "croton",
+   "to": "butyryl",
+   "label": "4. reduction (NADPH)",
+   "labelSide": "below"
+  },
+  {
+   "from": "butyryl",
+   "to": "start",
+   "label": "+ malonyl ACP: next turn",
+   "kind": "dashed",
+   "labelSide": "above"
+  },
+  {
+   "from": "butyryl",
+   "to": "palm",
+   "label": "chain reaches 16 C"
+  }
+ ],
+ "pad": 70
+}

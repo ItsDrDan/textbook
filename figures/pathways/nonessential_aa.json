@@ -1,0 +1,148 @@
+{
+ "colw": 250,
+ "rowh": 80,
+ "font": 14,
+ "nodes": [
+  {
+   "id": "pg",
+   "label": "3-Phosphoglycerate\n(glycolysis)",
+   "col": 0,
+   "row": 0.5
+  },
+  {
+   "id": "pyr",
+   "label": "Pyruvate\n(glycolysis)",
+   "col": 0,
+   "row": 1.7
+  },
+  {
+   "id": "oaa",
+   "label": "Oxaloacetate\n(citric acid cycle)",
+   "col": 0,
+   "row": 2.9
+  },
+  {
+   "id": "akg",
+   "label": "α-Ketoglutarate\n(citric acid cycle)",
+   "col": 0,
+   "row": 4.1
+  },
+  {
+   "id": "phe",
+   "label": "Phenylalanine\n(essential, from food)",
+   "col": 0,
+   "row": 5.3,
+   "kind": "note"
+  },
+  {
+   "id": "ser",
+   "label": "Serine",
+   "col": 1,
+   "row": 0.5,
+   "kind": "tissue"
+  },
+  {
+   "id": "gly",
+   "label": "Glycine",
+   "col": 2,
+   "row": 0,
+   "kind": "tissue"
+  },
+  {
+   "id": "cys",
+   "label": "Cysteine\n(S from methionine)",
+   "col": 2,
+   "row": 1,
+   "kind": "tissue"
+  },
+  {
+   "id": "ala",
+   "label": "Alanine",
+   "col": 1,
+   "row": 1.7,
+   "kind": "tissue"
+  },
+  {
+   "id": "asp",
+   "label": "Aspartate",
+   "col": 1,
+   "row": 2.9,
+   "kind": "tissue"
+  },
+  {
+   "id": "asn",
+   "label": "Asparagine",
+   "col": 2,
+   "row": 2.9,
+   "kind": "tissue"
+  },
+  {
+   "id": "glu",
+   "label": "Glutamate",
+   "col": 1,
+   "row": 4.1,
+   "kind": "tissue"
+  },
+  {
+   "id": "gln",
+   "label": "Glutamine, proline,\narginine",
+   "col": 2,
+   "row": 4.1,
+   "kind": "tissue"
+  },
+  {
+   "id": "tyr",
+   "label": "Tyrosine",
+   "col": 1,
+   "row": 5.3,
+   "kind": "tissue"
+  }
+ ],
+ "edges": [
+  {
+   "from": "pg",
+   "to": "ser",
+   "label": "several steps"
+  },
+  {
+   "from": "ser",
+   "to": "gly",
+   "label": ""
+  },
+  {
+   "from": "ser",
+   "to": "cys",
+   "label": ""
+  },
+  {
+   "from": "pyr",
+   "to": "ala",
+   "label": "transamination (ALT)"
+  },
+  {
+   "from": "oaa",
+   "to": "asp",
+   "label": "transamination (AST)"
+  },
+  {
+   "from": "asp",
+   "to": "asn",
+   "label": "+ amide N"
+  },
+  {
+   "from": "akg",
+   "to": "glu",
+   "label": "transamination"
+  },
+  {
+   "from": "glu",
+   "to": "gln",
+   "label": "further steps"
+  },
+  {
+   "from": "phe",
+   "to": "tyr",
+   "label": "+ OH (O₂, NADPH)"
+  }
+ ]
+}
