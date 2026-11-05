@@ -1,0 +1,201 @@
+{
+ "colw": 175,
+ "rowh": 105,
+ "font": 14,
+ "nodes": [
+  {
+   "id": "halo",
+   "label": "Alkyl halide\nR–X",
+   "col": 0,
+   "row": 1
+  },
+  {
+   "id": "alkane",
+   "label": "Alkane",
+   "col": 0,
+   "row": 2.5
+  },
+  {
+   "id": "alkene",
+   "label": "Alkene\nC=C",
+   "col": 1,
+   "row": 2.5
+  },
+  {
+   "id": "alc",
+   "label": "Alcohol\n1° or 2°",
+   "col": 2,
+   "row": 2.5
+  },
+  {
+   "id": "ald",
+   "label": "Aldehyde",
+   "col": 3,
+   "row": 1.6
+  },
+  {
+   "id": "ket",
+   "label": "Ketone",
+   "col": 3,
+   "row": 3.5
+  },
+  {
+   "id": "hemi",
+   "label": "Hemiacetal →\nacetal",
+   "col": 3,
+   "row": 0.4,
+   "kind": "note"
+  },
+  {
+   "id": "acid",
+   "label": "Carboxylic\nacid",
+   "col": 4,
+   "row": 1.6
+  },
+  {
+   "id": "ester",
+   "label": "Ester",
+   "col": 5,
+   "row": 0.6
+  },
+  {
+   "id": "salt",
+   "label": "Carboxylate\nion (salt)",
+   "col": 5,
+   "row": 1.6
+  },
+  {
+   "id": "amide",
+   "label": "Amide",
+   "col": 5,
+   "row": 2.6
+  },
+  {
+   "id": "amine",
+   "label": "Amine",
+   "col": 4,
+   "row": 3.5
+  },
+  {
+   "id": "amm",
+   "label": "Ammonium\nion (salt)",
+   "col": 5,
+   "row": 3.5
+  },
+  {
+   "id": "co2",
+   "label": "CO₂ + H₂O",
+   "col": 0,
+   "row": 3.7,
+   "kind": "energy"
+  }
+ ],
+ "edges": [
+  {
+   "from": "alkane",
+   "to": "halo",
+   "label": "X₂, light"
+  },
+  {
+   "from": "alkene",
+   "to": "halo",
+   "label": "HX"
+  },
+  {
+   "from": "alkene",
+   "to": "alkane",
+   "label": "H₂, Pt/Ni"
+  },
+  {
+   "from": "alkane",
+   "to": "co2",
+   "label": "O₂ (burn)"
+  },
+  {
+   "from": "alkene",
+   "to": "alc",
+   "label": "H₂O, H⁺",
+   "labelSide": "above"
+  },
+  {
+   "from": "alc",
+   "to": "alkene",
+   "label": "H₂SO₄, heat",
+   "kind": "dashed",
+   "curve": true,
+   "labelSide": "below"
+  },
+  {
+   "from": "alc",
+   "to": "ald",
+   "label": "1°: [O]"
+  },
+  {
+   "from": "alc",
+   "to": "ket",
+   "label": "2°: [O]",
+   "labelSide": "above",
+   "labelPos": 0.4
+  },
+  {
+   "from": "ket",
+   "to": "alc",
+   "label": "H₂, Ni",
+   "kind": "dashed",
+   "curve": true,
+   "labelSide": "below",
+   "labelPos": 0.6
+  },
+  {
+   "from": "ald",
+   "to": "hemi",
+   "label": "+ ROH, H⁺"
+  },
+  {
+   "from": "ald",
+   "to": "acid",
+   "label": "[O]"
+  },
+  {
+   "from": "acid",
+   "to": "ester",
+   "label": "+ alcohol, H⁺",
+   "labelSide": "above",
+   "labelPos": 0.35
+  },
+  {
+   "from": "ester",
+   "to": "acid",
+   "label": "H₂O, H⁺",
+   "kind": "dashed",
+   "curve": true,
+   "labelSide": "below",
+   "labelPos": 0.65
+  },
+  {
+   "from": "ester",
+   "to": "salt",
+   "label": "NaOH (saponify)"
+  },
+  {
+   "from": "acid",
+   "to": "salt",
+   "label": "NaOH"
+  },
+  {
+   "from": "acid",
+   "to": "amide",
+   "label": "+ amine, heat"
+  },
+  {
+   "from": "amine",
+   "to": "amide",
+   "label": ""
+  },
+  {
+   "from": "amine",
+   "to": "amm",
+   "label": "+ HCl"
+  }
+ ]
+}
