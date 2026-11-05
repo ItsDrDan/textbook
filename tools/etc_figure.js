@@ -32,13 +32,14 @@ function bilayer(x0, x1, y0, k, cx, gap, skip = []) {
   return { svg: o, Y };
 }
 const ell = (cx, cy, rx, ry, lab, fsz = 22) => `<ellipse cx="${cx}" cy="${cy}" rx="${rx}" ry="${ry}" fill="${PINK}" fill-opacity=".92" stroke="${PINK_S}" stroke-width="2"/>` + (lab ? T(cx, cy + fsz * .35, lab, { fs: fsz, w: 900, c: '#5b2a3c' }) : '');
-const hion = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#f7e3ec" stroke="${PINK_S}" stroke-width="1.6"/>` + T(x - 2, y + 5, 'H^+', { fs: 14, w: 800, c: '#5b2a3c' });
+const hion = (x, y) => `<circle cx="${x}" cy="${y}" r="15" fill="#ffffff" stroke="#1d1d1f" stroke-width="2"/>` + T(x - 2, y + 5, 'H^+', { fs: 14, w: 900, c: '#1d1d1f' });
 const box = (x, y, w, h, lab, fill, stroke) => `<rect x="${x - w / 2}" y="${y - h / 2}" width="${w}" height="${h}" rx="7" fill="${fill}" stroke="${stroke}" stroke-width="1.8"/>` + T(x, y + 6, lab, { fs: 16 });
 const curve = (d, c = MUTED, w = 2.4) => `<path d="${d}" fill="none" stroke="${c}" stroke-width="${w}" stroke-linecap="round"/>`;
 
-function build({ outer = true } = {}) {
+function build({ outer = true, mark = null } = {}) {
+  const L = (item, lab) => mark === item && ['Q', 'cytc', 'synth'].includes(item) ? '?' : lab;
   const W = 1040, cx = 450; let o = '';
-  const topPad = outer ? 0 : -150; // shift everything up when no outer membrane
+  const topPad = outer ? 0 : -116; // shift everything up when no outer membrane
   const g = s => `<g transform="translate(0 ${topPad})">${s}</g>`;
   let body = '';
   if (outer) {
@@ -60,8 +61,8 @@ function build({ outer = true } = {}) {
   cplx += `<ellipse cx="${cII[0]}" cy="${cII[1] + 4}" rx="38" ry="56" fill="${PINK}" stroke="${PINK_S}" stroke-width="2"/>` + T(cII[0], cII[1] - 12, 'II', { fs: 20, w: 900, c: '#5b2a3c' }) + T(cII[0], cII[1] + 22, 'FADH_2', { fs: 14, w: 800, c: '#23704f' });
   cplx += ell(cIII[0], cIII[1], 36, 64, 'III');
   cplx += ell(cIV[0] - 20, cIV[1], 22, 60, '') + ell(cIV[0] + 20, cIV[1], 22, 60, '') + T(cIV[0], cIV[1] + 8, 'IV', { fs: 22, w: 900, c: '#5b2a3c' });
-  cplx += ell(cQ[0], cQ[1], 30, 15, 'Q', 15) + T(cQ[0], cQ[1] - 22, 'CoQ', { fs: 13, w: 800, c: MUTED });
-  cplx += ell(cC[0], cC[1], 38, 20, 'Cyt c', 15);
+  cplx += ell(cQ[0], cQ[1], 30, 15, L('Q', 'Q'), 15) + (mark === 'Q' ? '' : T(cQ[0], cQ[1] - 22, 'CoQ', { fs: 13, w: 800, c: MUTED }));
+  cplx += ell(cC[0], cC[1], 38, 20, L('cytc', 'Cyt c'), 15);
   // ATP synthase: membrane channel + stalk + head in matrix
   const sx = 765, sy = Y(sx);
   body += `<rect x="${sx - 22}" y="${sy - 44}" width="44" height="88" rx="16" fill="${PINK}" stroke="${PINK_S}" stroke-width="2"/>`;
@@ -70,7 +71,7 @@ function build({ outer = true } = {}) {
   // H+ flowing back through ATP synthase
   body += hion(sx - 44, sy - 92) + curve(`M${sx - 32} ${sy - 80} Q ${sx} ${sy - 80} ${sx} ${sy - 50}`, '#8a4d63', 2.6) + `<line x1="${sx}" y1="${sy - 40}" x2="${sx}" y2="${sy + 150}" stroke="#8a4d63" stroke-width="2.6"/>` + head(sx, sy + 158, 90, '#8a4d63', 12);
   body += T(sx + 36, sy - 66, 'H^+ flows back', { a: 'start', fs: 14, w: 800, c: '#8a4d63' }) + T(sx + 36, sy - 49, 'into the matrix', { a: 'start', fs: 14, w: 800, c: '#8a4d63' });
-  body += T(sx, sy + 190, 'ATP synthase', { fs: 15, w: 900, c: '#5b2a3c' });
+  body += T(sx, sy + 190, L('synth', 'ATP synthase'), { fs: 15, w: 900, c: '#5b2a3c' });
   body += box(sx + 120, sy + 98, 104, 30, 'ADP + P_i', '#fff6e2', '#c9a24a') + `<ellipse cx="${sx + 120}" cy="${sy + 160}" rx="40" ry="18" fill="#ffd36b" stroke="#b7791f" stroke-width="2"/>` + T(sx + 120, sy + 166, 'ATP', { fs: 17, w: 900 });
   body += curve(`M${sx + 88} ${sy + 110} Q ${sx + 66} ${sy + 132} ${sx + 84} ${sy + 152}`, '#8a5a00', 2.4) + head(sx + 86, sy + 155, 50, '#8a5a00', 10);
   // electron path (thick red): NADH -> I -> Q -> III -> cyt c -> IV -> O2 ; FADH2 at II -> Q
@@ -95,14 +96,19 @@ function build({ outer = true } = {}) {
   body += T(470, IMy - 108 + 0, '', {});
   body += T(470, outer ? 132 : 140, 'H^+ is pumped out by complexes I, III and IV', { fs: 14, w: 700, c: '#8a4d63', it: true });
   body += T(20, outer ? 576 : 566, 'Matrix (low H^+)', { a: 'start', fs: 16, c: '#2c5f9c', w: 800 });
-  const H = (outer ? 596 : 446);
+  if (mark) { const pos = { I: [cI[0] - 52, cI[1] - 70], II: [cII[0] - 48, cII[1] - 30], Q: [cQ[0] - 8, cQ[1] - 36], III: [cIII[0] - 44, cIII[1] - 60], cytc: [cC[0] - 50, cC[1] - 20], IV: [cIV[0] - 50, cIV[1] - 56], synth: [sx + 58, sy + 74] }[mark];
+    if (pos) { const [px, py] = pos, pts = Array.from({ length: 10 }, (_, i) => { const r = i % 2 ? 9 : 21, a = -Math.PI / 2 + i * Math.PI / 5; return `${r1(px + r * Math.cos(a))},${r1(py + r * Math.sin(a))}`; }).join(' ');
+      body += `<polygon points="${pts}" fill="#ffd36b" stroke="#b7791f" stroke-width="2.4" stroke-linejoin="round"/>`; } }
+  const H = (outer ? 596 : 480);
   o = g(body);
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="The electron transport chain in the inner mitochondrial membrane. NADH gives electrons to complex I and FADH2 (from succinate turning into fumarate) gives electrons to complex II. A red line traces the electrons through coenzyme Q, complex III, cytochrome c and complex IV to oxygen, which forms water. Complexes I, III and IV pump H+ from the matrix into the intermembrane space; H+ flows back through ATP synthase, which makes ATP from ADP and phosphate."><rect width="100%" height="100%" fill="#ffffff"/>${o}</svg>`;
 }
 if (require.main === module) {
   const dir = path.join(__dirname, '..', 'figures', 'pathways', 'etc'); fs.mkdirSync(dir, { recursive: true });
   fs.writeFileSync(path.join(dir, 'etc.svg'), build({ outer: true }));
-  fs.writeFileSync(path.join(dir, 'etc_game.svg'), build({ outer: false }));
+  const game = { none: build({ outer: false }) };
+  for (const m of ['I', 'II', 'Q', 'III', 'cytc', 'IV', 'synth']) game[m] = build({ outer: false, mark: m });
+  fs.writeFileSync(path.join(dir, 'etc_game.svg'), game.none); fs.writeFileSync(path.join(dir, 'etc_game.json'), JSON.stringify(game));
   console.log('ok');
 }
 module.exports = { build };
