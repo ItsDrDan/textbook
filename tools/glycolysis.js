@@ -157,7 +157,7 @@ function stepSVG(k, set) {
   const prods = st.to.map(([id, hl]) => ({ id, m: MOL_[id].draw(hl || []) }));
   const all = [...froms, ...prods], tall = Math.max(...all.map(p => p.m.h)), titled = set.title !== '';
   const topPad = titled ? 64 : 48, arrowW = Math.max(190, textW(st.enz || '', 13) * 1.05 + 24), gapP = 40;
-  const H = tall + topPad + 70 + (st.below || st.outBelow ? 44 : 0);
+  const H = tall + topPad + 70 + (st.below || st.outBelow ? 44 : 0) + (set.keyText ? 20 : 0);
   let o = '', x = 14; const midY = topPad + tall / 2; const nfs = all.length > 2 ? 12.5 : 14;
   const slot = (m, id) => Math.max(m.w, textW(MOL_[id].name, nfs) + 12);
   if (titled) o += label(14, 22, `${set.title || 'Step'} ${k}`, 18, { weight: 900, color: '#5b4790' }).svg + ((set.COEF || {})[k] ? label(90, 22, set.twice || '(happens twice per glucose)', 13, { color: MUTED, weight: 600 }).svg : '');
@@ -166,7 +166,7 @@ function stepSVG(k, set) {
   place(froms); x += 8;
   o += hArrow(x, x + arrowW, midY, st, { enz: st.enz }); x += arrowW + 14;
   place(prods);
-  const W = x + 18; if (o.includes('>P</text>')) o += KEY(14, H - 12);
+  const W = x + 18; let ky = H - 12; if (set.keyText) { o += label(14, ky, set.keyText, 13, { color: MUTED, weight: 700 }).svg; ky -= 20; } if (o.includes('>P</text>')) o += KEY(14, ky);
   const nm = l => l.map(p => MOL_[p.id].name).join(' and ');
   return svgWrap(W, H, o, `${titled ? (set.name || 'Glycolysis') + ' step ' + k + ': ' : ''}${nm(froms)} to ${nm(prods)}. ${st.what || ''}`);
 }
@@ -266,6 +266,25 @@ const X_RXN = {
   'Arginine + H2O|Urea + Ornithine': { from: ['arg', [5, 6, 7]], to: [['urea', []], ['orn', [5]]], below: 'H_2O', enz: 'arginase' }
 };
 const X_SET = { STEPS: X_RXN, MOL: X_MOL, title: '' };
+/* ---------- urea cycle: only the reacting end is drawn; R = rest of the amino acid ---------- */
+const RR = { lab: 'R' };
+const UREA_MOL = {
+  cp: { name: 'Carbamoyl phosphate', draw: h => chain([{ lab: 'NH_2' }, { c: 'C', rd: 'O' }, { lab: 'OⓅ', on: h.includes(2) }]) },
+  orn: { name: 'Ornithine', draw: h => chain([{ lab: 'NH_3^+', on: h.includes(0) }, RR]) },
+  cit: { name: 'Citrulline', draw: h => chain([{ lab: 'NH_2' }, { c: 'C', rd: 'O', on: h.includes(1) }, { lab: 'NH', on: h.includes(2) }, RR]) },
+  asp: { name: 'Aspartate', draw: h => chain([CR(), { c: 'C', l: NH3, r: 'H', on: h.includes(1) }, CH2(), CR()]) },
+  asuc: { name: 'Argininosuccinate', draw: h => chain([CR(), CH2(h.includes(1)), { c: 'C', l: 'H', r: 'COO^−', on: h.includes(2) }, { lab: 'NH', on: h.includes(3) }, { c: 'C', rd: 'NH_2^+', on: h.includes(4) }, { lab: 'NH' }, RR]) },
+  arg: { name: 'Arginine', draw: h => chain([{ lab: 'NH_2', on: h.includes(0) }, { c: 'C', rd: 'NH_2^+', on: h.includes(1) }, { lab: 'NH' }, RR]) },
+  fum: CAC_MOL.fum,
+  urea: { name: 'Urea', draw: h => chain([{ lab: 'NH_2', on: h.includes(0) }, { c: 'C', rd: 'O', on: h.includes(1) }, { lab: 'NH_2', on: h.includes(2) }]) }
+};
+const UREA_STEPS = {
+  1: { froms: [['cp', [2]], ['orn', [0]]], to: [['cit', [1, 2]]], outBelow: 'Ⓟ_i', enz: 'ornithine transcarbamoylase (in mitochondria)', what: 'Carbamoyl phosphate joins ornithine to make citrulline, and phosphate leaves.' },
+  2: { froms: [['cit', [1]], ['asp', [1]]], to: [['asuc', [2, 3, 4]]], inn: 'ATP', out: 'AMP + PP_i', enz: 'argininosuccinate synthetase', what: 'Citrulline and aspartate join into one molecule; aspartate brings the second nitrogen.' },
+  3: { from: ['asuc', [1, 2, 3]], to: [['arg', [0, 1]], ['fum', [1, 2]]], enz: 'argininosuccinate lyase', what: 'Argininosuccinate splits into arginine and fumarate (no water used).' },
+  4: { from: ['arg', [0, 1]], to: [['urea', [0, 1, 2]], ['orn', [0]]], below: 'H_2O', enz: 'arginase', what: 'Water splits off urea, and ornithine is made again for the next turn.' }
+};
+const UREA_SET = { STEPS: UREA_STEPS, MOL: UREA_MOL, COEF: {}, title: 'Urea cycle, step', name: 'Urea cycle', keyText: 'R = –CH_2CH_2CH_2–CH(NH_3^+)–COO^− (the rest of the amino acid)' };
 /* ---------- full pathway in two panels ---------- */
 function stepCircle(x, y, k) { return `<circle cx="${r1(x)}" cy="${r1(y)}" r="12" fill="#eef2f8" stroke="#9fb0c8" stroke-width="1.4"/>` + label(x, y, String(k), 13, { anchor: 'middle', color: MUTED, weight: 900 }).svg; }
 const italic = (x, y, t, anchor) => label(x, y, t, 13, { color: MUTED, weight: 700, italic: true, anchor }).svg;
@@ -295,14 +314,14 @@ function payoffSVG() {
   const H = y + 44; o += KEY(16, H - 12);
   return svgWrap(W, H, o, 'Glycolysis part 2, steps 6 to 10 with structures, each happening twice per glucose: glyceraldehyde 3-phosphate is oxidized by NAD+ and gains a phosphate, the phosphate is passed to ADP to make ATP, the phosphate moves from carbon 3 to carbon 2, water is removed to make phosphoenolpyruvate, and its phosphate goes to ADP to make ATP and pyruvate.');
 }
-module.exports = { stepSVG, investSVG, payoffSVG, STEPS, MOL, CAC_SET, BOX_SET, X_SET };
+module.exports = { stepSVG, investSVG, payoffSVG, STEPS, MOL, CAC_SET, BOX_SET, X_SET, UREA_SET };
 if (require.main === module) {
   const dir = path.join(__dirname, '..', 'figures', 'pathways', 'glycolysis'); fs.mkdirSync(dir, { recursive: true });
   const out = { invest: investSVG(), payoff: payoffSVG() };
   for (let k = 1; k <= 10; k++) out['s' + k] = stepSVG(k);
   for (const [k, v] of Object.entries(out)) fs.writeFileSync(path.join(dir, (k[0] === 's' ? 'step' + k.slice(1) : 'full-' + (k === 'invest' ? 'investment' : 'payoff')) + '.svg'), v);
   fs.writeFileSync(path.join(dir, 'glycolysis_svgs.json'), JSON.stringify(out));
-  for (const [nm, set, n] of [['cac', CAC_SET, 8], ['box', BOX_SET, 4]]) { const d2 = path.join(dir, '..', nm); fs.mkdirSync(d2, { recursive: true }); const o2 = {};
+  for (const [nm, set, n] of [['cac', CAC_SET, 8], ['box', BOX_SET, 4], ['urea', UREA_SET, 4]]) { const d2 = path.join(dir, '..', nm); fs.mkdirSync(d2, { recursive: true }); const o2 = {};
     for (let k = 1; k <= n; k++) { o2['s' + k] = stepSVG(k, set); fs.writeFileSync(path.join(d2, 'step' + k + '.svg'), o2['s' + k]); }
     fs.writeFileSync(path.join(d2, nm + '_svgs.json'), JSON.stringify(o2)); }
   { const d3 = path.join(dir, '..', 'reactions'); fs.mkdirSync(d3, { recursive: true }); const o3 = {}; const slug = k => k.toLowerCase().replace(/α/g, 'alpha').replace(/β/g, 'beta').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); for (const key of Object.keys(X_RXN)) { o3[key] = stepSVG(key, X_SET); fs.writeFileSync(path.join(d3, slug(key) + '.svg'), o3[key]); } fs.writeFileSync(path.join(d3, 'reactions_svgs.json'), JSON.stringify(o3)); console.log('reactions', Object.keys(o3).length); }
