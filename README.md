@@ -48,3 +48,7 @@ Reaction keys: combustion substitution hydrogenation halogenAdd hydrohalogenatio
 - Figure tools: `tools/draw.js` (structures, reaction schemes), `tools/pathway.js` (pathway/flow diagrams from a JSON spec), `tools/molsvg.py` (fused rings), `tools/preview.py` (render a page to PNG), `tools/check_fragment.py` (sanity checks).
 - Push to LibreTexts: upload the new `pages/` folder to this repo, then paste `tools/sync-libretexts.js` into the browser console on chem.libretexts.org (it updates every page listed in `pages/manifest.json`, creating "Practice Games" and "About This Book" if missing).
 - Authoring standards: `tools/AUTHOR_BRIEF.md`, `tools/REVIEW_BRIEF.md`, `tools/COR_outline.md`.
+
+## Page snapshot (updated Nov 5, 2026)
+
+`pages/live/` holds a full snapshot of every page as it stands on LibreTexts (see `pages/LIVE_SNAPSHOT.md`), and the matching `pages/sec_*.html` and chapter files were refreshed from it. LibreTexts is the source of truth: make edits there. Do not re-run older scripts that upload files from this repo to LibreTexts unless they are first updated from a fresh snapshot, or they may overwrite later fixes.
