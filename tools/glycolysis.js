@@ -314,7 +314,8 @@ function payoffSVG() {
   const H = y + 44; o += KEY(16, H - 12);
   return svgWrap(W, H, o, 'Glycolysis part 2, steps 6 to 10 with structures, each happening twice per glucose: glyceraldehyde 3-phosphate is oxidized by NAD+ and gains a phosphate, the phosphate is passed to ADP to make ATP, the phosphate moves from carbon 3 to carbon 2, water is removed to make phosphoenolpyruvate, and its phosphate goes to ADP to make ATP and pyruvate.');
 }
-module.exports = { stepSVG, investSVG, payoffSVG, STEPS, MOL, CAC_SET, BOX_SET, X_SET, UREA_SET };
+module.exports = { stepSVG, investSVG, payoffSVG, STEPS, MOL, CAC_SET, BOX_SET, X_SET, UREA_SET,
+  H: { label, line, dbl, head, chain, pyranose, furanose, shift, svgWrap, textW, firstW, hlRect, esc, r1, CAC_MOL, CAC_STEPS, KEY, sideColor, FONT, INK, BLUE, RED, GREEN, MUTED, P_FILL, P_STROKE, HL, HL_ST } };
 if (require.main === module) {
   const dir = path.join(__dirname, '..', 'figures', 'pathways', 'glycolysis'); fs.mkdirSync(dir, { recursive: true });
   const out = { invest: investSVG(), payoff: payoffSVG() };
