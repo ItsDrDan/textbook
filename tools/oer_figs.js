@@ -322,6 +322,31 @@ function respiration() {
 
 out.cac_wheel = cacWheel(); out.glucose_ring = glucoseRing(); out.hydrogenation = hydrogenation(); out.sphingolipids = sphingolipids();
 out.myelin_ms = myelin(); out.collagen = collagen(); out.atp_synthase = atpSynthase(); out.atp_rotation = atpRotation(); out.respiration = respiration();
+
+/* ---------------- 9. Loading a tRNA (12.4) ---------------- */
+function trnaLoading() {
+  const NH3 = '^+H_3N';
+  const MOL = {
+    aa: { name: 'Amino acid', draw: h => chain([{ c: 'C', top: 'O', r: 'O^−', hl: h.includes(0) ? ['r'] : [] }, { c: 'C', l: NH3, r: 'H' }, { lab: 'R' }]) },
+    aamp: { name: 'Aminoacyl–AMP', draw: h => chain([{ c: 'C', top: 'O', r: 'O–AMP', hl: h.includes(0) ? ['r'] : [] }, { c: 'C', l: NH3, r: 'H' }, { lab: 'R' }]) },
+    atrna: { name: 'Aminoacyl–tRNA (charged tRNA)', draw: h => chain([{ c: 'C', top: 'O', r: 'O–tRNA', hl: h.includes(0) ? ['r'] : [] }, { c: 'C', l: NH3, r: 'H' }, { lab: 'R' }]) }
+  };
+  const STEPS = {
+    1: { from: ['aa', [0]], to: [['aamp', [0]]], inn: 'ATP', out: 'PP_i', enz: 'aminoacyl-tRNA synthetase', what: 'ATP activates the amino acid: AMP is attached to its carboxyl group and pyrophosphate is released.' },
+    2: { from: ['aamp', [0]], to: [['atrna', [0]]], inn: 'tRNA', out: 'AMP', enz: 'same enzyme (aminoacyl-tRNA synthetase)', what: "The amino acid is moved onto the 3' –OH of its tRNA as an ester; AMP leaves." }
+  };
+  const set = { STEPS, MOL, COEF: {}, title: 'Step', name: 'Loading a tRNA' };
+  const a = G.stepSVG(1, set), b = G.stepSVG(2, set);
+  const dims = s => s.match(/viewBox="0 0 (\d+) (\d+)"/).slice(1).map(Number), inner = s => s.replace(/^<svg[^>]*>/, '').replace(/<\/svg>$/, '');
+  const [w1, h1] = dims(a), [w2, h2] = dims(b), W = Math.max(w1, w2) + 20, top = 44;
+  let o = TITLE(18, 28, 'Loading (charging) a tRNA with its amino acid');
+  o += `<g transform="translate(0 ${top})">${inner(a)}</g><g transform="translate(0 ${top + h1})">${inner(b)}</g>`;
+  const H = top + h1 + h2 + 52;
+  o += note(18, H - 38, "Each amino acid has its own synthetase, which matches it to the right tRNA. The ester bond to the");
+  o += note(18, H - 20, "tRNA's 3' end stores the energy used later to make the peptide bond.");
+  return svgWrap(Math.max(W, 900), H, o, "Loading a tRNA in two steps, both catalyzed by aminoacyl-tRNA synthetase. Step 1: an amino acid (carboxylate, alpha carbon with NH3+ and H, side chain R) reacts with ATP; pyrophosphate is released and AMP is attached to the carboxyl group, giving aminoacyl-AMP. Step 2: the amino acid is transferred to the 3' OH of its tRNA as an ester, giving aminoacyl-tRNA (a charged tRNA), and AMP is released. Each amino acid has its own synthetase that matches it to the right tRNA.");
+}
+out.trna_loading = trnaLoading();
 const dir = path.join(__dirname, '..', 'figures', 'pathways', 'oer'); fs.mkdirSync(dir, { recursive: true });
 for (const [k, v] of Object.entries(out)) fs.writeFileSync(path.join(dir, k + '.svg'), v);
 console.log(Object.keys(out).join(' '));
