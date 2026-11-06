@@ -257,25 +257,24 @@ function atpSynthase() {
   o += `<path d="M${cx - 150} ${hy - 6} C ${cx - 120} ${hy - 4}, ${cx - 120} ${hy + 24}, ${cx - 150} ${hy + 28}" fill="none" stroke="${MUTED}" stroke-width="2.4"/>` + head(cx - 154, hy + 28, 178, MUTED, 10);
   o += label(cx - 230, hy + 32, 'ATP + H_2O', 16, { weight: 800, color: '#8a5a00' }).svg;
   o += note(cx + 130, hy + 4, 'the turning γ stalk changes the shape of', { fs: 12.5 }) + note(cx + 130, hy + 20, 'each β subunit in turn: bind ADP + Ⓟ_i,', { fs: 12.5 }) + note(cx + 130, hy + 36, 'make ATP, release ATP', { fs: 12.5 });
-  o += note(16, H - 34, 'About 10 H⁺ pass through for one full turn of the rotor, and one turn makes 3 ATP (about 3 H⁺ per ATP, plus 1 to bring');
-  o += note(16, H - 16, 'phosphate into the matrix). Ⓟ_i = inorganic phosphate.');
-  return svgWrap(W, H, o, 'ATP synthase in the inner mitochondrial membrane. H+ ions in the intermembrane space, where their concentration is high, flow through the Fo part, between the a subunit (stator) and the ring of c subunits (rotor), into the matrix, where H+ concentration is low. The flow turns the rotor and the attached gamma stalk. A b stalk holds the F1 head still. The turning gamma stalk changes the shape of each beta subunit of the F1 head in turn, so ADP and inorganic phosphate bind, are joined into ATP, and ATP is released. About 10 H+ per turn make 3 ATP.');
+  o += note(16, H - 34, 'In human mitochondria the rotor has 8 c subunits: 8 H⁺ turn it once, and one turn makes 3 ATP. Counting the H⁺ used to bring');
+  o += note(16, H - 16, 'phosphate into the matrix, it takes about 4 H⁺ per ATP. Ⓟ_i = inorganic phosphate.');
+  return svgWrap(W, H, o, 'ATP synthase in the inner mitochondrial membrane. H+ ions in the intermembrane space, where their concentration is high, flow through the Fo part, between the a subunit (stator) and the ring of c subunits (rotor), into the matrix, where H+ concentration is low. The flow turns the rotor and the attached gamma stalk. A b stalk holds the F1 head still. The turning gamma stalk changes the shape of each beta subunit of the F1 head in turn, so ADP and inorganic phosphate bind, are joined into ATP, and ATP is released. In human mitochondria the rotor has 8 c subunits, so 8 H+ make one turn and 3 ATP; with phosphate transport about 4 H+ are used per ATP.');
 }
 function atpRotation() {
   const W = 930, H = 340; let o = TITLE(18, 30, 'How H⁺ flow turns the F_o rotor (view from above)');
   const pan = (px, n, title, step, loaded) => { let s = label(px + 135, 66, title, 13.5, { anchor: 'middle', weight: 900, color: '#3b4a63' }).svg;
-    const cx = px + 135, cy = 180, R = 74, nsub = 10;
+    const cx = px + 135, cy = 180, R = 70, nsub = 8;
     s += `<circle cx="${cx}" cy="${cy}" r="${R + 22}" fill="#f4f1fb" stroke="#c9bfe6" stroke-width="1.4"/>`;
     // stator a on right
     s += `<rect x="${cx + R + 6}" y="${cy - 30}" width="34" height="60" rx="10" fill="#cfe8dc" stroke="${GREEN}" stroke-width="2"/>` + label(cx + R + 23, cy, 'a', 16, { anchor: 'middle', weight: 900, color: GREEN }).svg;
-    for (let k = 0; k < nsub; k++) { const a = rad(k * 36 + step * 36); const x = cx + R * Math.cos(a), y = cy + R * Math.sin(a);
-      const loaded = (step === 0 && k === 0) || (step === 1 && (k === 0 || k === 9)) || (step === 2 && k >= 1 && k <= 8 ? false : false);
-      s += `<circle cx="${r1(x)}" cy="${r1(y)}" r="17" fill="#ece6fa" stroke="${PURPLE}" stroke-width="1.6"/>`;
+    for (let k = 0; k < nsub; k++) { const a = rad(k * 45 + step * 45); const x = cx + R * Math.cos(a), y = cy + R * Math.sin(a);
+      s += `<circle cx="${r1(x)}" cy="${r1(y)}" r="20" fill="#ece6fa" stroke="${PURPLE}" stroke-width="1.6"/>`;
       if (k === 0) { if (loaded) s += `<circle cx="${r1(x)}" cy="${r1(y)}" r="11" fill="#ffffff" stroke="#1d1d1f" stroke-width="1.4"/>` + `<text x="${r1(x - 5.5)}" y="${r1(y + 4)}" font-family="${FONT}" font-size="10" font-weight="900" fill="#1d1d1f">H<tspan font-size="7" dy="-4">+</tspan></text>`; else s += label(x, y + 1, 'c', 12, { anchor: 'middle', color: PURPLE, weight: 900 }).svg; } }
     s += `<circle cx="${cx}" cy="${cy}" r="14" fill="#d9cdf2" stroke="${PURPLE}" stroke-width="1.6"/>` + label(cx, cy, 'γ', 13, { anchor: 'middle', weight: 900, color: PURPLE }).svg;
     return s; };
   // panel 1: H+ arrives from IMS at the a/c interface and binds a c subunit
-  o += pan(20, 0, '1. H⁺ enters from the intermembrane space', 0);
+  o += pan(20, 0, '1. H⁺ enters from the intermembrane space', 0, true);
   o += Hion(20 + 135 + 74 + 4, 180 - 70) + `<path d="M${20 + 135 + 74 + 4} ${180 - 56} L ${20 + 135 + 76} ${180 - 22}" stroke="#1d1d1f" stroke-width="2.2"/>` + head(20 + 135 + 76, 180 - 18, 95, '#1d1d1f', 9);
   o += note(155, 310, 'it binds a c subunit next to a', { anchor: 'middle', fs: 13 });
   // panel 2: ring turns one step
@@ -283,10 +282,10 @@ function atpRotation() {
   o += `<path d="M${310 + 135 + 60} ${180 + 70} A 92 92 0 0 1 ${310 + 135 - 30} ${180 + 88}" fill="none" stroke="${PURPLE}" stroke-width="3"/>` + head(310 + 135 - 36, 180 + 86, 170, PURPLE, 11);
   o += note(445, 310, 'the loaded subunit moves into the membrane', { anchor: 'middle', fs: 13 });
   // panel 3: after almost a full turn, H+ released to matrix
-  o += pan(600, 9, '3. H⁺ leaves into the matrix', 0);
-  o += Hion(600 + 135 + 60, 180 + 86) + `<path d="M${600 + 135 + 68} ${180 + 50} L ${600 + 135 + 64} ${180 + 72}" stroke="#1d1d1f" stroke-width="2.2"/>`;
+  o += pan(600, 9, '3. H⁺ leaves into the matrix', 0, false);
+  o += Hion(600 + 135 + 86, 180 + 78) + `<path d="M${600 + 135 + 74} ${180 + 18} L ${600 + 135 + 82} ${180 + 60}" stroke="#1d1d1f" stroke-width="2.2"/>` + head(600 + 135 + 83, 180 + 64, 80, '#1d1d1f', 9);
   o += note(735, 310, 'after nearly a full turn, at the a subunit', { anchor: 'middle', fs: 13 });
-  return svgWrap(W, H, o, 'Three panels viewing the Fo rotor from above: a ring of ten c subunits around the central gamma stalk, with the a subunit (stator) on the right. Panel 1: an H+ ion from the intermembrane space binds a c subunit next to the a subunit. Panel 2: the ring turns one step, carrying the loaded subunit into the membrane. Panel 3: after nearly a full turn the subunit reaches the a subunit again and releases its H+ into the matrix. Each H+ that passes turns the ring and the gamma stalk one step.');
+  return svgWrap(W, H, o, 'Three panels viewing the Fo rotor from above: a ring of eight c subunits around the central gamma stalk, with the a subunit (stator) on the right. Panel 1: an H+ ion from the intermembrane space binds a c subunit next to the a subunit. Panel 2: the ring turns one step, carrying the loaded subunit into the membrane. Panel 3: after nearly a full turn the subunit reaches the a subunit again and releases its H+ into the matrix. Each H+ that passes turns the ring and the gamma stalk one step.');
 }
 
 /* ---------------- 8. Glucose catabolism overview (14.4) ---------------- */
