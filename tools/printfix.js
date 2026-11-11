@@ -55,7 +55,9 @@
     // No early exit on data-printfix: a file fixed by the first version may still have white-outline labels
     // without paint-order. Element-level checks keep this idempotent.
     svg = decodeSupEntities(svg);                              // some files store ⁺ as &#8314;
-    let out = svg.replace(/<text\b([^>]*)>([\s\S]*?)<\/text>/g, (m, a, inner) => fixTextEl(a, inner));
+    // Self-closing <text .../> (empty labels) must be matched on their own, or the lazy match swallows the next
+    // label up to its </text> (this hid the N of NH3+ on p.555).
+    let out = svg.replace(/<text\b([^>]*?)(\/>|>([\s\S]*?)<\/text>)/g, (m, a, end, inner) => end === '/>' ? m : fixTextEl(a, inner));
     if (out !== svg && !/data-printfix="1"/.test(out)) out = out.replace(/<svg\b/, '<svg data-printfix="1"');
     return out;
   }

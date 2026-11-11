@@ -48,3 +48,9 @@ Not changed (instructor's call): 11.x "Every enzyme is a protein" (ribozymes).
 - New cause found: some labels carry a white outline **without** paint-order (p.555 ethylammonium N: fill blue, stroke white). printfix v2 (2026-11-11) also splits those; v2 leaves v1-fixed files unchanged.
 - Blocked: after a PDF compile every figure file is cached and cannot be read by script, so the next repair run must happen **before** recompiling, after the cache clears (unknown TTL; >1 h observed).
 Next run: paste `tools/repair-print.js` signed in (dry run → `window.REPAIR_APPLY = true`), then recompile and re-run `python3 tools/pdf_hidden_scan.py` on the new Full.pdf. Target: 0 pages (except p.203) and 0 ⯑.
+
+## Repair from page history, 2026-11-11 (no waiting on the cache)
+
+- Figure files can be rebuilt from page history: each page's revision just before the Nov 5 "SVG → file" pass still holds the inline SVGs. Matched by alt text = aria-label (order as tie-break), serialized with the browser's HTML parser + XMLSerializer (keeps nested SVGs and viewBox case), checked against the live image's natural width/height (210/210 matched exactly) and parsed as XML.
+- Root cause of the remaining hidden labels (incl. p.555 NH3+): **self-closing `<text …/>`** (empty reaction-condition labels) made the old text regex swallow the next label. printfix v3 matches self-closing text separately. 31 figures were affected.
+- Uploaded 153 files (57 never fixed + 96 re-fixed with v3); all 153 audit to 0 hidden labels and 0 superscript characters before upload.
