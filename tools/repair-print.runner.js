@@ -30,8 +30,10 @@
   for (const id of ids) {
     n++; if (n % 25 === 0) console.log('scanned', n, '/', ids.length);
     // 2a. page HTML (charges written as ⁺/⁻, and any inline SVG labels)
-    const c = await j('pages/' + id + '/contents?mode=edit&format=xhtml');
-    const body = typeof c.body === 'string' ? c.body : (c.body && (c.body['#text'] || c.body[0])) || '';
+    // JSON format splits the HTML into an object tree, so read the XML form and take <body> text.
+    const xml = await (await api('pages/' + id + '/contents?mode=edit&format=html')).text();
+    const bEl = new DOMParser().parseFromString(xml, 'application/xml').querySelector('body');
+    const body = bEl ? bEl.textContent : '';
     const a = PF.audit(body);
     if (body && (a.haloLabels || a.superscriptRuns)) {
       const fixed = PF.fixHtml(body);
@@ -41,7 +43,9 @@
     // 2b. attached SVG figure files
     const files = arr((await j('pages/' + id + '/files'))['file']).filter(f => /\.svg$/i.test(f.filename));
     for (const f of files) {
-      const src = await (await get(f.contents['@href'], { credentials: 'same-origin' })).text();  // /files/{id}/=name fails (redirect); the contents href works
+      // Recently viewed files redirect to a cache the browser blocks; record them and move on (re-run later).
+      let src = null; try { const r = await fetch(f.contents['@href'], { credentials: 'include' }); if (r.ok) src = await r.text(); } catch (e) {}
+      if (src === null) { log.push({ page: id, item: f.filename, haloLabels: '?', charges: 'UNREADABLE — re-run later' }); continue; }
       const fa = PF.audit(src);
       if (!fa.haloLabels && !fa.superscriptRuns) continue;
       backup.files[id + '/' + f.filename] = src; todo.push({ kind: 'file', id, name: f.filename, fixed: PF.fixSvg(src) });
@@ -52,6 +56,7 @@
   console.log(todo.filter(t => t.kind === 'file').length, 'figure files and', todo.filter(t => t.kind === 'page').length, 'pages need the fix.');
 
   // 3. backup of the originals (always)
+  /* backup: LibreTexts keeps each file's previous revision and page history, so this download is optional */
   const blob = new Blob([JSON.stringify(backup)], { type: 'application/json' }), aEl = document.createElement('a');
   aEl.href = URL.createObjectURL(blob); aEl.download = 'chem3b-print-repair-backup-' + backup.taken.slice(0, 10) + '.json'; aEl.click();
   if (!APPLY) { console.log('Dry run only — nothing changed. Backup downloaded. To apply: window.REPAIR_APPLY = true, then paste again.'); return; }
