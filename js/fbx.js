@@ -341,7 +341,7 @@ function fbxMount(root,items,opts){
    if(P.deck.length||P.n)S.note='🎉 You have seen every question'+(P.topic==='all'?'':' in this topic')+'. The deck is reshuffled!';
    P.deck=P.deck.filter(id=>!ids.has(id)).concat(fresh);i=P.deck.findIndex(id=>ids.has(id))}
   return byId[P.deck.splice(i,1)[0]]}
- function show(q){S.q=q;S.order=opts.shuffle===false?[0,1,2,3]:shuf([0,1,2,3]);S.sel=null;S.tries=0;S.done=false;S.hinted=false;P.cur=q?q.id:null;save();
+ function show(q){S.q=q;S.order=opts.shuffle===false?[0,1,2,3]:shuf([0,1,2,3]);S.sel=null;S.tries=0;S.done=false;S.hinted=false;S.lastWhy='';P.cur=q?q.id:null;save();
   note(S.note);S.note='';E('hint').hidden=true;E('hint').innerHTML='';fb('','');
   const ck=E('check'),hb=E('hintb'),nx=E('next');nx.classList.remove('go');
   if(!q){E('meta').innerHTML='';E('q').innerHTML='<div class="fbx-empty">No questions for this topic yet.</div>';E('opts').innerHTML='';ck.disabled=hb.disabled=true;score();return}
@@ -355,15 +355,18 @@ function fbxMount(root,items,opts){
   const b=optBtn(S.sel);
   if(S.sel===0)return finish(true);
   b.classList.remove('sel');b.classList.add('wrong');b.disabled=true;b.setAttribute('aria-pressed','false');S.sel=null;
-  if(S.tries===0){S.tries=1;fb('bad','🔎 Not quite. Try again!'+(S.hinted?'':' Stuck? Tap 💡 Hint.'));return}
+  const why=whyNot(S.q,+b.dataset.k);S.lastWhy=why;
+  if(S.tries===0){S.tries=1;fb('bad','🔎 Not quite. '+(why?why+' ':'')+'Try again!'+(S.hinted?'':' Stuck? Tap 💡 Hint.'));return}
   S.tries=2;finish(false)}
+ /* Per-option feedback: optional q.x array, indexed like q.c (q.x[0] unused), explains why a distractor is wrong. */
+ function whyNot(q,k){const x=q&&Array.isArray(q.x)?q.x[k]:null;return x?'<span class="fbx-why">'+x+'</span>':''}
  function finish(solved){const q=S.q,t=tk(q),first=solved&&S.tries===0;S.done=true;
   root.querySelectorAll('.fbx-opt').forEach(b=>{b.disabled=true;if(+b.dataset.k===0){b.classList.add('right');b.classList.remove('sel')}});
   P.n++;const a=P.byT[t]||(P.byT[t]=[0,0]);a[1]++;
   if(first){a[0]++;P.first++;P.streak++;P.best=Math.max(P.best,P.streak)}else{P.streak=0;P.miss=P.miss.filter(m=>m[0]!==q.id);P.miss.push([q.id,P.n+FBX_REVIEW_GAP])}
   P.cur=null;save();
   const L='ABCD'[S.order.indexOf(0)],txt=String(q.c[0]).startsWith('§')?'':' ('+q.c[0]+')',later='<small>🔁 This question will come back later for review.</small>';
-  fb(solved?'good':'info',first?'✅ <b>Correct!</b> '+q.w:solved?'✅ <b>Got it on the second try.</b> '+q.w+later:`👀 The answer is <b>${L}</b>${txt}. ${q.w}${later}`);
+  fb(solved?'good':'info',first?'✅ <b>Correct!</b> '+q.w:solved?'✅ <b>Got it on the second try.</b> '+q.w+later:`👀 The answer is <b>${L}</b>${txt}. ${S.lastWhy?S.lastWhy+' ':''}${q.w}${later}`);
   E('check').disabled=true;E('hintb').disabled=true;E('next').classList.add('go');buildSel();score();
   try{if(opts.onAnswer)opts.onAnswer(q,first,{solved,revealed:!solved,tries:S.tries+(solved?1:0),hinted:S.hinted,review:S.again,topic:tname(t),topicId:t})}catch(e){console.error(e)}
   const f=E('fb'),r=f.getBoundingClientRect();if(r.bottom>innerHeight&&f.scrollIntoView)f.scrollIntoView({behavior:'smooth',block:'nearest'})}
