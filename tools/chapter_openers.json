@@ -5,15 +5,18 @@
   "readiness": [
    {
     "q": "How many valence electrons does a nitrogen atom have?",
-    "a": "5 (nitrogen is in group 15, also called 5A)."
+    "a": "5 (nitrogen is in group 15, also called 5A).",
+    "review": "1.1"
    },
    {
     "q": "Which bond is more polar, C&ndash;H or O&ndash;H?",
-    "a": "O&ndash;H. The electronegativity difference between O and H is much larger than between C and H."
+    "a": "O&ndash;H. The electronegativity difference between O and H is much larger than between C and H.",
+    "review": "1.4"
    },
    {
     "q": "Is NaCl held together by ionic or covalent bonding?",
-    "a": "Ionic. Sodium transfers an electron to chlorine, giving Na<sup>+</sup> and Cl<sup>&minus;</sup> ions."
+    "a": "Ionic. Sodium transfers an electron to chlorine, giving Na<sup>+</sup> and Cl<sup>&minus;</sup> ions.",
+    "review": "1.2"
    }
   ]
  },
@@ -23,15 +26,18 @@
   "readiness": [
    {
     "q": "How many bonds does carbon make in a neutral molecule?",
-    "a": "Four."
+    "a": "Four.",
+    "review": "1.1"
    },
    {
     "q": "In the Lewis structure of CH<sub>4</sub>, how many bonding pairs and lone pairs are on carbon, and what is the shape?",
-    "a": "Four bonding pairs and no lone pairs; tetrahedral, with bond angles of about 109.5&deg;."
+    "a": "Four bonding pairs and no lone pairs; tetrahedral, with bond angles of about 109.5&deg;.",
+    "review": "1.5"
    },
    {
     "q": "Which has the higher boiling point, CH<sub>4</sub> or C<sub>4</sub>H<sub>10</sub>? Why?",
-    "a": "C<sub>4</sub>H<sub>10</sub>. The larger molecule has stronger London dispersion forces."
+    "a": "C<sub>4</sub>H<sub>10</sub>. The larger molecule has stronger London dispersion forces.",
+    "review": "1.8"
    }
   ]
  },
@@ -41,15 +47,18 @@
   "readiness": [
    {
     "q": "Name CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>.",
-    "a": "Butane."
+    "a": "Butane.",
+    "review": "2.5"
    },
    {
     "q": "How many hydrogen atoms are in a saturated alkane with five carbons?",
-    "a": "12 (C<sub>n</sub>H<sub>2n+2</sub> gives C<sub>5</sub>H<sub>12</sub>)."
+    "a": "12 (C<sub>n</sub>H<sub>2n+2</sub> gives C<sub>5</sub>H<sub>12</sub>).",
+    "review": "2.2"
    },
    {
     "q": "Are CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> and CH<sub>3</sub>CH(CH<sub>3</sub>)CH<sub>3</sub> the same compound or isomers?",
-    "a": "Structural isomers: both are C<sub>4</sub>H<sub>10</sub>, but the atoms are connected differently."
+    "a": "Structural isomers: both are C<sub>4</sub>H<sub>10</sub>, but the atoms are connected differently.",
+    "review": "2.3"
    }
   ]
  },
@@ -59,15 +68,18 @@
   "readiness": [
    {
     "q": "Which can hydrogen-bond with itself, CH<sub>3</sub>CH<sub>2</sub>OH or CH<sub>3</sub>OCH<sub>3</sub>?",
-    "a": "Ethanol, CH<sub>3</sub>CH<sub>2</sub>OH. It has an H on oxygen; dimethyl ether does not."
+    "a": "Ethanol, CH<sub>3</sub>CH<sub>2</sub>OH. It has an H on oxygen; dimethyl ether does not.",
+    "review": "1.8"
    },
    {
     "q": "What forms when water adds across the C=C of ethene (acid catalyst)?",
-    "a": "Ethanol, CH<sub>3</sub>CH<sub>2</sub>OH."
+    "a": "Ethanol, CH<sub>3</sub>CH<sub>2</sub>OH.",
+    "review": "3.4"
    },
    {
     "q": "What parent name is used for a continuous chain of three carbons?",
-    "a": "Prop- (as in propane)."
+    "a": "Prop- (as in propane).",
+    "review": "2.2"
    }
   ]
  },
@@ -77,15 +89,18 @@
   "readiness": [
    {
     "q": "Is 2-propanol a 1&deg;, 2&deg; or 3&deg; alcohol?",
-    "a": "2&deg;: the carbon bearing the OH is bonded to two other carbons."
+    "a": "2&deg;: the carbon bearing the OH is bonded to two other carbons.",
+    "review": "4.2"
    },
    {
     "q": "What does oxidation of a 2&deg; alcohol give?",
-    "a": "A ketone (2-propanol gives propanone, acetone)."
+    "a": "A ketone (2-propanol gives propanone, acetone).",
+    "review": "4.5"
    },
    {
     "q": "Can a 3&deg; alcohol be oxidized by the usual oxidizing agents?",
-    "a": "No. The carbon bearing the OH has no hydrogen to lose."
+    "a": "No. The carbon bearing the OH has no hydrogen to lose.",
+    "review": "4.5"
    }
   ]
  },
@@ -95,15 +110,18 @@
   "readiness": [
    {
     "q": "What does complete oxidation of ethanol give?",
-    "a": "Acetic acid (ethanoic acid), by way of acetaldehyde."
+    "a": "Acetic acid (ethanoic acid), by way of acetaldehyde.",
+    "review": "4.5"
    },
    {
     "q": "What are the products when an acid reacts with NaOH?",
-    "a": "A salt and water (neutralization)."
+    "a": "A salt and water (neutralization).",
+    "review": "6.4"
    },
    {
     "q": "Which functional group has a C=O with a hydrogen on the carbonyl carbon?",
-    "a": "An aldehyde."
+    "a": "An aldehyde.",
+    "review": "5.1"
    }
   ]
  },
@@ -113,15 +131,18 @@
   "readiness": [
    {
     "q": "A Br&oslash;nsted&ndash;Lowry base is a proton ______.",
-    "a": "Acceptor."
+    "a": "Acceptor.",
+    "review": "6.10"
    },
    {
     "q": "Which two compounds react, with an acid catalyst and heat, to form an ester?",
-    "a": "A carboxylic acid and an alcohol; water is released."
+    "a": "A carboxylic acid and an alcohol; water is released.",
+    "review": "6.7"
    },
    {
     "q": "What forms when ammonia, NH<sub>3</sub>, accepts an H<sup>+</sup>?",
-    "a": "The ammonium ion, NH<sub>4</sub><sup>+</sup>."
+    "a": "The ammonium ion, NH<sub>4</sub><sup>+</sup>.",
+    "review": "7.3"
    }
   ]
  },
@@ -131,15 +152,18 @@
   "readiness": [
    {
     "q": "What forms when an alcohol adds to the C=O of an aldehyde?",
-    "a": "A hemiacetal."
+    "a": "A hemiacetal.",
+    "review": "5.3"
    },
    {
     "q": "What makes a carbon atom chiral?",
-    "a": "It has four different groups attached."
+    "a": "It has four different groups attached.",
+    "review": "5.5"
    },
    {
     "q": "Which gives a positive Tollens&rsquo; test, an aldehyde or a simple ketone?",
-    "a": "The aldehyde."
+    "a": "The aldehyde.",
+    "review": "5.4"
    }
   ]
  },
@@ -149,15 +173,18 @@
   "readiness": [
    {
     "q": "What are the products of hydrolyzing an ester with NaOH?",
-    "a": "A carboxylate salt and an alcohol (saponification)."
+    "a": "A carboxylate salt and an alcohol (saponification).",
+    "review": "6.8"
    },
    {
     "q": "Is a long hydrocarbon chain polar or nonpolar? Does it dissolve in water?",
-    "a": "Nonpolar; it does not dissolve in water."
+    "a": "Nonpolar; it does not dissolve in water.",
+    "review": "2.6"
    },
    {
     "q": "In a cis double bond, are the two chain parts on the same side or opposite sides?",
-    "a": "The same side."
+    "a": "The same side.",
+    "review": "3.2"
    }
   ]
  },
@@ -167,15 +194,18 @@
   "readiness": [
    {
     "q": "At pH 7, is a carboxylic acid group mostly &ndash;COOH or &ndash;COO<sup>&minus;</sup>?",
-    "a": "&ndash;COO<sup>&minus;</sup>. Its p<em>K</em><sub>a</sub> (about 2&ndash;5) is well below 7."
+    "a": "&ndash;COO<sup>&minus;</sup>. Its p<em>K</em><sub>a</sub> (about 2&ndash;5) is well below 7.",
+    "review": "6.10"
    },
    {
     "q": "At pH 7, is a typical amine group mostly &ndash;NH<sub>2</sub> or &ndash;NH<sub>3</sub><sup>+</sup>?",
-    "a": "&ndash;NH<sub>3</sub><sup>+</sup>. The p<em>K</em><sub>a</sub> of its protonated form (about 9&ndash;11) is above 7."
+    "a": "&ndash;NH<sub>3</sub><sup>+</sup>. The p<em>K</em><sub>a</sub> of its protonated form (about 9&ndash;11) is above 7.",
+    "review": "7.3"
    },
    {
     "q": "What bond forms when an amine reacts with a carboxylic acid (with heat)?",
-    "a": "An amide bond."
+    "a": "An amide bond.",
+    "review": "7.6"
    }
   ]
  },
@@ -189,11 +219,13 @@
    },
    {
     "q": "Which level of protein structure is the sequence of amino acids?",
-    "a": "Primary structure."
+    "a": "Primary structure.",
+    "review": "10.6"
    },
    {
     "q": "What happens to a protein&rsquo;s shape when it is heated strongly?",
-    "a": "It denatures: the secondary and tertiary structure unfold, but the peptide bonds stay intact."
+    "a": "It denatures: the secondary and tertiary structure unfold, but the peptide bonds stay intact.",
+    "review": "10.10"
    }
   ]
  },
@@ -203,15 +235,18 @@
   "readiness": [
    {
     "q": "Which five-carbon sugar is in RNA?",
-    "a": "Ribose (DNA contains deoxyribose)."
+    "a": "Ribose (DNA contains deoxyribose).",
+    "review": "8.2"
    },
    {
     "q": "What attractions hold the two strands of DNA together?",
-    "a": "Hydrogen bonds between paired bases."
+    "a": "Hydrogen bonds between paired bases.",
+    "review": "1.8"
    },
    {
     "q": "What kind of bond links the amino acids in a protein?",
-    "a": "Peptide (amide) bonds."
+    "a": "Peptide (amide) bonds.",
+    "review": "10.4"
    }
   ]
  },
@@ -221,15 +256,18 @@
   "readiness": [
    {
     "q": "In biochemistry, is a molecule that gains hydrogen atoms oxidized or reduced?",
-    "a": "Reduced."
+    "a": "Reduced.",
+    "review": "5.4"
    },
    {
     "q": "Which enzyme class includes kinases, which move a phosphate from ATP onto another molecule?",
-    "a": "Transferases."
+    "a": "Transferases.",
+    "review": "11.1"
    },
    {
     "q": "What is the molecular formula of glucose?",
-    "a": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>."
+    "a": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>.",
+    "review": "8.3"
    }
   ]
  },
@@ -239,15 +277,18 @@
   "readiness": [
    {
     "q": "What does glycolysis produce (net) from one glucose?",
-    "a": "2 pyruvate, 2 ATP and 2 NADH."
+    "a": "2 pyruvate, 2 ATP and 2 NADH.",
+    "review": "13.5"
    },
    {
     "q": "Which is the reduced form, NAD<sup>+</sup> or NADH?",
-    "a": "NADH."
+    "a": "NADH.",
+    "review": "13.1"
    },
    {
     "q": "Without enough oxygen, what does muscle convert pyruvate into?",
-    "a": "Lactate."
+    "a": "Lactate.",
+    "review": "13.5"
    }
   ]
  },
@@ -257,15 +298,18 @@
   "readiness": [
    {
     "q": "How many ATP does one acetyl CoA give through the citric acid cycle and electron transport (course values)?",
-    "a": "10 ATP."
+    "a": "10 ATP.",
+    "review": "14.5"
    },
    {
     "q": "Is palmitic acid (16 carbons, no C=C) saturated or unsaturated?",
-    "a": "Saturated."
+    "a": "Saturated.",
+    "review": "9.1"
    },
    {
     "q": "Which element is found in amino acids but not in carbohydrates or fats?",
-    "a": "Nitrogen."
+    "a": "Nitrogen.",
+    "review": "10.1"
    }
   ]
  }

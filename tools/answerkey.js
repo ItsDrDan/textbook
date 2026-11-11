@@ -12,9 +12,15 @@
   // keyed page carries its own print rule. LibreTexts keeps <style> in page bodies (wraps it in CDATA comments).
   const STYLE = '<style type="text/css">@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }</style>\n';
   const stripStyle = b => b.replace(/^<style type="text\/css">(\/\*<!\[CDATA\[\*\/)?@media print \{ (\.hideprint, )?details\.hideprint[\s\S]*?<\/style>\n?/, '');
+  function dropKey(b) {
+    const s = b.indexOf('<div class="showprint answer-key">'); if (s < 0) return b;
+    const re = /<\/?div\b[^>]*>/g; re.lastIndex = s; let d = 0, m;
+    while ((m = re.exec(b))) { d += m[0][1] === '/' ? -1 : 1; if (d === 0) return b.slice(0, s).replace(/\n$/, '') + b.slice(m.index + m[0].length); }
+    return b;
+  }
   function answerKey(body) {
     body = stripStyle(body);
-    body = body.replace(/\n?<div class="showprint answer-key">[\s\S]*$/, '');   // drop an earlier key (always last)
+    body = dropKey(body);   // drop an earlier key (only that block: LibreTexts may add wrapper closings after it)
     const items = []; let k = 0;
     const out = body.replace(/<details\b([^>]*)>\s*<summary>Answer<\/summary>([\s\S]*?)<\/details>/g, (m, attrs, content, off) => {
       k++;
