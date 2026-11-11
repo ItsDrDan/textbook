@@ -29,6 +29,8 @@
 - **Question bank:** the questions are also in My Questions, in one folder per chapter ("CHEM 3B Ch 01 …"). They are public under CC BY-NC-SA 4.0, with Daniel Kwasniewski as author.
 - **Already in the course:** the two older "… Import" assignments were there before this setup and were left alone.
 
+- **Now in the course (Nov 4, after the structure questions):** 914 questions across the 15 assignments: Ch1 101, Ch2 52, Ch3 60, Ch4 51, Ch5 121, Ch6 46, Ch7 52, Ch8 69, Ch9 66, Ch10 66, Ch11 76, Ch12 51, Ch13 31, Ch14 38, Ch15 34. Each student gets a random 50 (Ch 1, 3, 5, 8–11), 40 (Ch 2, 4, 6, 7, 12) or 25 (Ch 13–15) of them, worth 100 points per chapter. 515 questions have one of Dr. Dan's videos in the Hint button.
+
 ## What you still need to do in ADAPT
 
 1. Set **available on / due dates** for each assignment, either in the assignment's properties or by bulk editing on the course's assignment list.
