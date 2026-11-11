@@ -27,3 +27,4 @@ If you change a convention, update every "Depends on it" location in the same pa
 | IMF = dispersion, dipole–dipole, H bonding only (ionic and network solids compared separately) | 1.8 | 1.2, 2.x–9.x property rankings |
 | Solubility cut-offs: alcohols ≤4 C, carboxylic acids ≤~5 C | 4.3, 6.3 | 4.12, 6.12 problems |
 | No curved-arrow mechanisms, no R/S, no E/Z, no Henderson–Hasselbalch, no conformers | For Instructors page | all chapters |
+| Spanish only as glossary term equivalents ("Español: …"); never Spanish sentences or passages | Glossary intro (488232) | any new page or box; glossary_es.py |
