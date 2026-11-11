@@ -30,7 +30,7 @@ Corrections made on 2026-11-11 (same file names, so the book updates automatical
 - **Slide49:** 3 H₂O changed to 3 NaOH in both saponification equations. The arrow keeps "Heat".
 - **Slide68:** cut-off labels completed ("Maximum rate", "Optimum pH"). The image is 70 px wider.
 
-The alt text on LibreTexts for Slide15, Slide42 and Slide49 still describes the old versions; see the PR TODO for replacement text.
+The alt text on LibreTexts for Slide15, Slide42 and Slide49 was updated the same day to match.
 
 ## Other images used by pages but not stored here
 These images are hotlinked from Wikimedia in adapted pages. Fix them on LibreTexts:
