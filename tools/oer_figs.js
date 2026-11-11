@@ -73,7 +73,7 @@ function eqArrow(x0, x1, y) { // two half-arrows (equilibrium)
 function glucoseRing() {
   const m1 = chain([{ c: 'C', top: 'O', r: 'H', hl: ['top', 'r'] }, { c: 'C', l: 'H', r: 'OH' }, { c: 'C', l: 'HO', r: 'H' }, { c: 'C', l: 'H', r: 'OH' }, { c: 'C', l: 'H', r: 'OH', hl: ['r'] }, { lab: 'CH_2OH' }]);
   const a = pyranose({ c1: 'OH', hl: ['c1'] });
-  let o = TITLE(18, 30, 'Glucose: open-chain aldehyde ⇌ cyclic hemiacetal');
+  let o = TITLE(18, 30, 'Glucose: open-chain aldehyde and cyclic hemiacetal in equilibrium');
   const y0 = 62, gx = 50; o += shift(m1, gx, y0);
   const nums = ['1', '2', '3', '4', '5', '6']; nums.forEach((n, i) => o += label(gx + 70 + 13, y0 + 44 + i * 46 - 13, n, 11, { color: '#8a94a6', weight: 800 }).svg);
   const midY = y0 + m1.h / 2; o += eqArrow(285, 405, midY);

@@ -61,3 +61,8 @@ Next run: paste `tools/repair-print.js` signed in (dry run → `window.REPAIR_AP
 - Second history-rebuild pass over all pages for figures not updated in the first: 144 rebuilt, 85 uploaded (incl. 597086-2/3/4/6/7/8); 0 size mismatches, 0 XML errors, 0 hidden labels after fix. Identical re-uploads create no new revision (expected).
 - ⇌ (U+21CC, `&#8652;`) is not in the PDF fonts: 29 occurrences on 12 live pages replaced by MathJax `\(\rightleftharpoons\)` (verified render on 4.10); drafts synced.
 - GitHub-hosted figures with superscript charges fixed in repo: `figures/pathways/oer/atp_synthase.svg`, `atp_rotation.svg`, `respiration.svg`, `sections/reactions/roadmap.svg`; `tools/oer_figs.js` now writes through printfix. printfix v4: a space right after a raised charge is written as a no-break space (renderers dropped it: "H⁺flow").
+
+## PDF check, export compiled 2026-11-11 00:3x — R01/R02 resolved
+- Hidden-label scan: only p.203 (known false positive: table text with white outline). 0 hidden figure labels.
+- ⯑: 1 left (p.371, ⇌ in the glucose_ring.svg title, GitHub-hosted). Title reworded to "… in equilibrium" in the SVG and in tools/oer_figs.js; the figure already draws equilibrium arrows. Expected next export: 0.
+- Status: R01 verified, R02 verified pending this last figure.
