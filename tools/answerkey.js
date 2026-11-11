@@ -8,7 +8,12 @@
    Usage (Node):  node tools/answerkey.js drafts/*.html      (rewrites files in place)
    Browser:       window.AnswerKey.answerKey(html) -> {html, n, labels}                                      */
 (function (root) {
+  // The full-book PDF compile does not load LibreTexts' .hideprint/.showprint rules (single-page print does), so each
+  // keyed page carries its own print rule. LibreTexts keeps <style> in page bodies (wraps it in CDATA comments).
+  const STYLE = '<style type="text/css">@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }</style>\n';
+  const stripStyle = b => b.replace(/^<style type="text\/css">(\/\*<!\[CDATA\[\*\/)?@media print \{ (\.hideprint, )?details\.hideprint[\s\S]*?<\/style>\n?/, '');
   function answerKey(body) {
+    body = stripStyle(body);
     body = body.replace(/\n?<div class="showprint answer-key">[\s\S]*$/, '');   // drop an earlier key (always last)
     const items = []; let k = 0;
     const out = body.replace(/<details\b([^>]*)>\s*<summary>Answer<\/summary>([\s\S]*?)<\/details>/g, (m, attrs, content, off) => {
@@ -35,7 +40,7 @@
       let lab = l; if (seen[l] > 1) { cnt[l] = (cnt[l] || 0) + 1; lab = l + ' (' + String.fromCharCode(96 + cnt[l]) + ')'; }
       return `<div class="answer-key-item"><p><strong>${lab}</strong></p>${c}</div>`;
     }).join('\n') + '\n</div>\n';
-    return { html: out.replace(/\s*$/, '') + key, n: items.length, labels: items.map(i => i[0]) };
+    return { html: STYLE + out.replace(/\s*$/, '') + key, n: items.length, labels: items.map(i => i[0]) };
   }
   const api = { answerKey };
   if (typeof module !== 'undefined' && module.exports) {

@@ -76,3 +76,8 @@ Next run: paste `tools/repair-print.js` signed in (dry run → `window.REPAIR_AP
 - Instructor choices: every numbered section is required reading; no time estimates until measured.
 - "Your Route Through Chapter N" box at the top of each chapter page: prerequisites (one line), a 3-question readiness check with click-to-reveal answers (print: in the page's answer key), "Preparing for class" (read N.1 to the last numbered section, Try It questions as you go) and "Reviewing for an exam" (Chapter Guide → Practice Problems with reread-and-retry → Practice Games), plus "Your instructor decides which problems and how much homework are assigned each week."
 - Content source: `tools/chapter_openers.json`. Section links are /@go/page/ ids taken from each chapter's subpages.
+
+## PDF check, export compiled 2026-11-11 morning (1,424 pp.)
+- ⯑: **0**. Hidden-label scan (chunked, `scan2` in pdf_hidden_scan style): only p.222 table false positive. R01/R02 verified.
+- Chapter openers present (15).
+- R04 problem: the **full-book compile does not apply LibreTexts' `.hideprint` rule** (single-page print does), so inline answers printed AND the key printed (+149 pp.). Fix: every keyed page now starts with its own `<style>` (`@media print { .hideprint, details.hideprint { display:none !important } }`, plus a screen rule hiding the key); LibreTexts keeps `<style>` in page bodies (CDATA-wrapped). Applied live to 89 pages (74 keyed + 15 chapter pages); `tools/answerkey.js` now emits it and stays idempotent after LibreTexts' CDATA wrapping. Needs a recompile to confirm; if the compile ignores page `<style>` too, fall back to removing the keys (tools/answerkey.js can strip).
