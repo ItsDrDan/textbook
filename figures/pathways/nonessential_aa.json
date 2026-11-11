@@ -144,5 +144,6 @@
    "to": "tyr",
    "label": "+ OH (O₂, NADPH)"
   }
- ]
+ ],
+ "alt": "Where the body gets the carbon skeletons of nonessential amino acids. 3-Phosphoglycerate (glycolysis) gives serine, which gives glycine and, with sulfur from methionine, cysteine. Pyruvate (glycolysis) gives alanine by transamination (ALT). Oxaloacetate (citric acid cycle) gives aspartate by transamination (AST), and aspartate plus an amide N gives asparagine. Alpha-ketoglutarate (citric acid cycle) gives glutamate by transamination, which leads in further steps to glutamine, proline and arginine. Phenylalanine (essential, from food) gives tyrosine by adding an OH (O2, NADPH)."
 }
