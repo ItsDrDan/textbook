@@ -297,6 +297,13 @@ function fEnzyme(f){const P=f.panels||[{kind:f.kind,cap:f.cap}],W=150,H=148;cons
 const FIG={cycle:fCycle,path:fPath,table:fTable,eq:fEq,plot:fPlot,mo:fMO,modiag:fMODiag,particles:fParticles,cylinder:fScale,buret:fScale,ruler:fScale,balance:fScale,targets:fTargets,fischer:fFischer,haworth:fHaworth,orbitals:fOrbitals,ptgrid:fPtGrid,cell:fCell,spectrum:fSpectrum,enzyme:fEnzyme};
 function figBlock(fs){if(!fs)return '';return `<span class="fbx-figs">${fs.map(f=>{try{return `<span class="fbx-fig">${FIG[f.type](f)}</span>`}catch(e){return ''}}).join('')}</span>`}
 const qHTML=q=>q.q+structBlock(q.s)+figBlock(q.f);
+/* spoken description of a drawn molecule, so structure-only answer choices can be told apart by screen-reader users */
+function molDesc(m){if(!m||!m.a)return 'structure';const lab=a=>String(a[0]),nC=m.a.filter(a=>lab(a)==='C').length,other={},bo={2:0,3:0};
+ m.a.forEach(a=>{const l=lab(a);if(l!=='C'&&l!=='H')other[l]=(other[l]||0)+1});(m.b||[]).forEach(b=>{if(b[2]===2||b[2]===3)bo[b[2]]++});
+ const parts=[(m.skel?'skeletal':'Lewis')+' structure'];if(nC)parts.push(nC+' carbon'+(nC>1?'s':''));
+ Object.keys(other).forEach(l=>parts.push((other[l]>1?other[l]+' ':'')+l));if(bo[2])parts.push(bo[2]+' double bond'+(bo[2]>1?'s':''));if(bo[3])parts.push(bo[3]+' triple bond'+(bo[3]>1?'s':''));
+ return parts.join(', ')}
+const optLabel=(q,k,L)=>String(q.c[k]).startsWith('§')?`Choice ${L}: ${molDesc(q.cs&&q.cs[k])}`:'';
 const optHTML=(q,k)=>(String(q.c[k]).startsWith('§')?'':q.c[k])+(q.cs&&q.cs[k]?`<span class="fbx-optmol">${molSVG(q.cs[k],0.8)}</span>`:'');
 /* ---------- FBX practice UI (hand-written; the drawing code above is extracted from Final Boss) ---------- */
 const FBX_DIFF=['','● Easy','●● Medium','●●● Hard'];
@@ -348,7 +355,7 @@ function fbxMount(root,items,opts){
   ck.disabled=false;hb.disabled=!q.h;const t=tk(q);
   E('meta').innerHTML=`${S.again?'<span class="fbx-chip again">🔁 Review</span>':''}<span class="fbx-chip">${TI[t]?TI[t]+' ':''}${esc(tname(t))}</span>${q.k?'<span class="fbx-chip calc">🧮 Calculator</span>':''}<span class="fbx-chip lvl">${FBX_DIFF[q.d]||''}</span>`;
   E('q').innerHTML=qHTML(q);
-  E('opts').innerHTML=S.order.map((k,i)=>`<button type="button" class="fbx-opt" data-k="${k}" aria-pressed="false"><span class="fbx-L">${'ABCD'[i]}</span><span class="fbx-ot">${optHTML(q,k)}</span></button>`).join('');
+  E('opts').innerHTML=S.order.map((k,i)=>{const al=optLabel(q,k,'ABCD'[i]);return `<button type="button" class="fbx-opt" data-k="${k}" aria-pressed="false"${al?` aria-label="${esc(al)}"`:''}><span class="fbx-L">${'ABCD'[i]}</span><span class="fbx-ot">${optHTML(q,k)}</span></button>`}).join('');
   score()}
  function optBtn(k){return E('opts').querySelector(`.fbx-opt[data-k="${k}"]`)}
  function check(){if(S.done||!S.q)return;if(S.sel==null){fb('bad','👆 Tap an answer first, then press Check.');return}
@@ -379,6 +386,6 @@ function fbxMount(root,items,opts){
   reset(){P=blank();save();buildSel();S.q=null;show(pick())},
   destroy(){root.removeEventListener('click',onClick);root.innerHTML='';root.classList.remove('fbx');delete root.__fbx}};
  root.__fbx=api;return api}
-window.FBX={version:FBX_VERSION,mount:fbxMount,qHTML,optHTML,molSVG,figBlock,structBlock};
+window.FBX={version:FBX_VERSION,mount:fbxMount,qHTML,optHTML,optLabel,molDesc,molSVG,figBlock,structBlock};
 
 })();

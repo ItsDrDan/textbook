@@ -266,6 +266,8 @@ def cumulative_block(ch, BASE):
         out.append(f'<details><summary>Answer</summary><div>{p["a"]}</div></details>')
         out.append('</div>')
     q = {'t': ','.join(topics), 'n': '12', 'fresh': '1', 'title': f'Cumulative mix, Chapters 1-{ch}', 'game': 'finalboss'}
+    if ch >= 13:  # Ch 13-15 list the same 16 topics; a distinct key keeps each mix's saved progress separate
+        q['key'] = f'mix-ch01-{ch:02d}'
     url = BASE + 'practice.html?' + up.urlencode(q, safe=',|-')
     title = f'Try It: Cumulative mix, Chapters 1&ndash;{ch}'
     out.append('<div class="box-note" style="border-left:6px solid #86509b;">\n'

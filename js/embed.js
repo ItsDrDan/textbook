@@ -20,9 +20,15 @@
     var h = pageHeight(); if (!h) return;
     if (Math.abs(h - lastSent) < 2) return;
     lastSent = h;
+    var before = window.innerHeight, asked = h;
     try { window.parent.postMessage({ subject: 'lti.frameResize', height: h }, '*'); } catch (e) {}
-    // If the host grows the frame to (about) what we asked for, it honors resize: switch on the embedded tweaks.
-    setTimeout(function () { if (!honored && Math.abs(window.innerHeight - lastSent) < 40) enable(); }, 400);
+    // Switch on the embedded tweaks (incl. overflow:hidden) only once the host has really resized the frame for us:
+    // the frame height must have changed after this message AND now match what we asked for. A frame that merely
+    // happens to be about the right height already (fixed-height iframe on a host that ignores the message) does not count.
+    setTimeout(function () {
+      var now = window.innerHeight;
+      if (!honored && Math.abs(now - before) >= 2 && Math.abs(now - asked) < 40) enable();
+    }, 400);
   }
   function schedule() { if (pending) return; pending = true; requestAnimationFrame(sync); }
 
