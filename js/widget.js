@@ -23,10 +23,10 @@ if(title)$('#title').textContent=title;if(kicker)$('#kicker').textContent=kicker
 const g=GAMES[P.get('game')];if(g){const a=$('#gameLink');a.href=g[1];a.textContent='Play '+g[0]+' ↗';a.hidden=false}
 document.title=(title||'Practice')+' — CHEM 3B';
 const track=(mode,topic,correct)=>{try{if(window.ddTrack)ddTrack({game:'textbook',course:'3B',mode,topic,correct:!!correct})}catch(e){}};
-const keyRaw=[...P.entries()].filter(([k])=>['t','ids','q','rxn','mode'].includes(k)).map(([k,v])=>k+'='+v).join('&');
-/* Keys up to 80 characters are unchanged (saved progress is kept). Longer keys (the cumulative mixes) used to be cut at 80
-   characters, so Ch 1–5 … 1–15 all shared one save; they now end in a hash of the full string. */
-const keySuffix=P.get('key')||(keyRaw.length<=80?keyRaw:keyRaw.slice(0,40)+'#'+hash(keyRaw).toString(36));
+const keyFull=P.get('key')||[...P.entries()].filter(([k])=>['t','ids','q','rxn','mode'].includes(k)).map(([k,v])=>k+'='+v).join('&');
+const keySuffix=keyFull.slice(0,80); /* kept as before: seeds the stable sample below */
+/* storage key: unchanged for suffixes up to 80 chars (keeps saved progress); longer ones get a hash so different widgets no longer collide */
+const storeSuffix=keyFull.length<=80?keyFull:keyFull.slice(0,40)+'~'+hash(keyFull).toString(36);
 
 /* ---------- 1) exam bank ---------- */
 async function bankMode(){
@@ -47,7 +47,7 @@ async function bankMode(){
  else if(n&&items.length>n){/* stable sample so the same widget shows the same set each visit */items=items.map((q,i)=>[q,hash(q.id+keySuffix)]).sort((a,b)=>a[1]-b[1]).slice(0,n).map(a=>a[0])}
  if(!items.length){host.innerHTML='<div class="rl-card">No questions matched this widget. (Check the ?t= / ?ids= settings.)</div>';return}
  host.innerHTML='';
- window.FBX.mount(host,items,{topics:TOPICS,storageKey:'tb-fbx-'+keySuffix,onAnswer:(q,first,info)=>track('Try it (bank)',info.topic,first)});
+ window.FBX.mount(host,items,{topics:TOPICS,storageKey:'tb-fbx-'+storeSuffix,onAnswer:(q,first,info)=>track('Try it (bank)',info.topic,first)});
  if(topics.length===1){const s=host.querySelector('.fbx-tsel');if(s)s.hidden=true}
 }
 function hash(s){let h=2166136261;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}return h>>>0}

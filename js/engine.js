@@ -322,7 +322,7 @@ const ALIAS={'methanol':['methyl alcohol','wood alcohol'],'ethanol':['ethyl alco
  'methylamine':['methanamine','aminomethane'],'ethylamine':['ethanamine','aminoethane'],'propylamine':['1-propanamine','propan-1-amine','n-propylamine'],'dimethylamine':['n-methylmethanamine'],'chlorocyclohexane':['cyclohexyl chloride'],'bromocyclohexane':['cyclohexyl bromide'],'1,2-dibromoethane':['ethylene dibromide'],'1,2-dichloroethane':['ethylene dichloride'],'2,2-dimethoxypropane':['acetone dimethyl acetal']};
 const normName=t=>String(t).toLowerCase().replace(/[‐‑‒–—―−]/g,'-').replace(/[\s\-,'’()_.]/g,'');
 function nameSets(name){const full=new Set(),part=new Set();const prim=name.replace(/\s*\([^)]*\)/g,'').trim();const paren=(name.match(/\(([^)]*)\)/)||[])[1];
- const add=x=>full.add(x);add(prim);if(paren){add(paren);if(/ ion$/.test(prim))add(paren+' ion')}
+ const add=x=>full.add(x);add(prim);if(paren){add(paren);add(name.trim());if(/ ion$/.test(prim))add(paren+' ion')}
  const m=prim.match(/^(.*?)(\d+)-(meth|eth|prop|but|pent|hex|hept|oct)(an)?(ol|one|ene|yne|amine)$/);
  if(m){const [,pre,loc,stem,an,suf]=m;add(`${pre.replace(/-$/,'')}${stem}${an||''}-${loc}-${suf}`);if(loc==='1'&&!pre)part.add(`${stem}${an||''}${suf}`)}
  const m2=prim.match(/^(.*)prop(ene|yne)$/);if(m2){add(`${m2[1]}prop-1-${m2[2]}`);if(!m2[1])add(`1-prop${m2[2]}`)}
