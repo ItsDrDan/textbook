@@ -28,6 +28,7 @@ GAMES = {
  'hub':      ('CHEM 3B Daily 5', 'https://itsdrdan.github.io/games/3b.html', 'Five quick questions a day from all the CHEM 3B games (Organic and Biochemistry panels).'),
  'lipidlab': ('Lipid Lab', 'https://itsdrdan.github.io/lipids/', 'Read fatty-acid chains (saturation, shorthand, omega, melting point), build and break triacylglycerols, classify lipids, and work membrane and clinical questions.'),
  'enzyme':   ('Enzyme Engine', 'https://itsdrdan.github.io/enzymes/', 'Classify enzymes, spot the inhibitor from active-site pictures, read activity graphs, and match vitamins to coenzymes.'),
+ 'helix':    ('Helix Hustle', 'https://itsdrdan.github.io/nucleicacids/', 'DNA and RNA structure, base pairing, replication, transcription and translation.'),
  'metab':    ('Metabolic Marathon', 'https://itsdrdan.github.io/metabolism/', 'Order the pathways, count NADH, FADH\u2082 and ATP, name the reaction type, follow fuel through fed and fasting states, and match enzymes to vitamins.'),
 }
 
@@ -95,32 +96,32 @@ PLAN = {
              ('PRACTICE', {'t':'carbs','n':'14'}, 'Carbohydrates', 'Everything in this chapter, from monosaccharides to polysaccharides.', 640, 'carbs')],
     games=['carbs','finalboss'],
     gametips={'carbs':'Work the modes in order: Classify Sugars, Fischer Projections, Haworth Rings, Stereochemistry, Di- & Polysaccharides, Sugar Reactions.','finalboss':'Topic Training → “Carbohydrates”.'}),
- 9: dict(schemes=[], widgets=[(r'Triacylglycerols', {'t':'lipids','q':'fatty acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega','n':'10'}, 'Fatty acids and triacylglycerols', 'Saturated vs. unsaturated, melting points, hydrogenation and saponification.', 620, 'finalboss'),
-             ('PRACTICE', {'t':'lipids','n':'14'}, 'Lipids', 'Fatty acids, fats and oils, membrane lipids and steroids.', 640, 'finalboss')],
+ 9: dict(schemes=[], widgets=[(r'Triacylglycerols', {'t':'lipids','q':'fatty acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega','n':'10'}, 'Fatty acids and triacylglycerols', 'Saturated vs. unsaturated, melting points, hydrogenation and saponification.', 620, 'lipidlab'),
+             ('PRACTICE', {'t':'lipids','n':'14'}, 'Lipids', 'Fatty acids, fats and oils, membrane lipids and steroids.', 640, 'lipidlab')],
     games=['lipidlab','finalboss','hub'],
     gametips={'lipidlab':'Fatty Acid ID first, then Build & Break (hydrolysis and saponification), Lipid Line-up and Membranes.','finalboss':'Topic Training → “Lipids”.','hub':'The Biochemistry Daily 5 mixes in lipid questions.'}),
  10: dict(schemes=[], widgets=[(r'Zwitterions', {'t':'proteins','q':'amino acid|R group|side chain|zwitter|isoelectric|pI|nonpolar|polar','n':'10'}, 'Amino acids and charge', 'R-group classes, zwitterions and charge at different pH.', 620, 'peptides'),
              ('PRACTICE', {'t':'proteins','n':'14'}, 'Amino acids and proteins', 'Peptide bonds, naming peptides and the four levels of protein structure.', 640, 'peptides')],
     games=['peptides','finalboss'],
     gametips={'peptides':'Amino Acids & R Groups first, then Condense & Hydrolyze (remove the water yourself), Name That Peptide and Protein Structure.','finalboss':'Topic Training → “Amino Acids & Proteins”.'}),
- 11: dict(schemes=[], widgets=[(r'^4\. Inhibition', {'t':'enzymes','q':'inhibit|active site|substrate|activation energy|denatur|optimum|rate|temperature|pH','n':'10'}, 'Enzyme activity and inhibition', 'Read activity plots, spot the inhibitor type and predict what temperature and pH do.', 640, 'finalboss'),
-             ('PRACTICE', {'t':'enzymes','n':'14'}, 'Enzymes and vitamins', 'Enzyme classes, cofactors, vitamins and regulation.', 640, 'finalboss')],
+ 11: dict(schemes=[], widgets=[(r'^4\. Inhibition', {'t':'enzymes','q':'inhibit|active site|substrate|activation energy|denatur|optimum|rate|temperature|pH','n':'10'}, 'Enzyme activity and inhibition', 'Read activity plots, spot the inhibitor type and predict what temperature and pH do.', 640, 'enzyme'),
+             ('PRACTICE', {'t':'enzymes','n':'14'}, 'Enzymes and vitamins', 'Enzyme classes, cofactors, vitamins and regulation.', 640, 'enzyme')],
     games=['enzyme','finalboss','hub'],
     gametips={'enzyme':'Classify the Enzyme, then Spot the Inhibitor and Read the Plot; finish with Cofactors & Vitamins.','finalboss':'Topic Training → “Enzymes & Vitamins”.','hub':'The Biochemistry Daily 5 includes enzyme plots.'}),
- 12: dict(schemes=[], widgets=[(r'^2\. Structure', {'t':'nucleic','q':'DNA|base pair|nucleotide|purine|pyrimidine|replication|double helix|complement','n':'10'}, 'DNA structure and replication', 'Nucleotides, base pairing, antiparallel strands and replication.', 620, 'finalboss'),
+ 12: dict(schemes=[], widgets=[(r'^2\. Structure', {'t':'nucleic','q':'DNA|base pair|nucleotide|purine|pyrimidine|replication|double helix|complement','n':'10'}, 'DNA structure and replication', 'Nucleotides, base pairing, antiparallel strands and replication.', 620, 'helix'),
              ('PRACTICE', {'t':'nucleic','q':'codon|translation|transcription|mRNA|tRNA|ribosome|mutation|genetic code','n':'10'}, 'From gene to protein', 'Transcription, translation, codons and mutations.', 620, 'peptides')],
-    games=['peptides','finalboss'],
-    gametips={'peptides':'Codon Decoder mode: translate mRNA with the codon chart.','finalboss':'Topic Training → “Nucleic Acids”.'}),
- 13: dict(schemes=[], widgets=[(r'^4\. Fates of pyruvate', {'t':'metabolism','q':'glycoly|pyruvate|lactate|acetyl CoA|NAD|ATP|cori|fermentation','n':'10'}, 'Glycolysis and pyruvate', 'Net ATP and NADH, coenzymes, and what happens to pyruvate with and without oxygen.', 620, 'finalboss'),
-             ('PRACTICE', {'t':'metabolism','q':'glycogen|gluconeo|insulin|glucagon|digest|amylase|blood glucose|pentose|catabol|anabol','n':'10'}, 'Carbohydrate metabolism', 'Digestion, glycogen, gluconeogenesis and blood-glucose control.', 620, 'finalboss')],
+    games=['helix','peptides','finalboss'],
+    gametips={'helix':'Every mode fits this chapter. Start with base pairing, then replication, transcription and translation.','peptides':'Codon Decoder mode: translate mRNA with the codon chart.','finalboss':'Topic Training → “Nucleic Acids”.'}),
+ 13: dict(schemes=[], widgets=[(r'^4\. Fates of pyruvate', {'t':'metabolism','q':'glycoly|pyruvate|lactate|acetyl CoA|NAD|ATP|cori|fermentation','n':'10'}, 'Glycolysis and pyruvate', 'Net ATP and NADH, coenzymes, and what happens to pyruvate with and without oxygen.', 620, 'marathon'),
+             ('PRACTICE', {'t':'metabolism','q':'glycogen|gluconeo|insulin|glucagon|digest|amylase|blood glucose|pentose|catabol|anabol','n':'10'}, 'Carbohydrate metabolism', 'Digestion, glycogen, gluconeogenesis and blood-glucose control.', 620, 'marathon')],
     games=['metab','finalboss','hub'],
     gametips={'metab':'Pathway Order (glycolysis, fates of pyruvate, Cori cycle), Count the Coenzymes (glycolysis and fermentation) and Fuel Fates (fed versus fasting).','finalboss':'Topic Training → “Metabolism”.','hub':'Biochemistry Daily 5.'}),
- 14: dict(schemes=[], widgets=[(r'^3\. ATP from one glucose', {'t':'metabolism','q':'citric|krebs|electron transport|ATP synthase|oxidative phosph|NADH|FADH|coenzyme Q|cytochrome|mitochondri','n':'12'}, 'Citric acid cycle and electron transport', 'Count the NADH, FADH₂ and ATP, and follow the electrons to O₂.', 620, 'finalboss'),
-             ('PRACTICE', {'t':'metabolism','q':'kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER','n':'8'}, 'Energy and redox', 'Food energy and keeping oxidation and reduction straight.', 620, 'finalboss')],
+ 14: dict(schemes=[], widgets=[(r'^3\. ATP from one glucose', {'t':'metabolism','q':'citric|krebs|electron transport|ATP synthase|oxidative phosph|NADH|FADH|coenzyme Q|cytochrome|mitochondri','n':'12'}, 'Citric acid cycle and electron transport', 'Count the NADH, FADH₂ and ATP, and follow the electrons to O₂.', 620, 'marathon'),
+             ('PRACTICE', {'t':'metabolism','q':'kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER','n':'8'}, 'Energy and redox', 'Food energy and keeping oxidation and reduction straight.', 620, 'marathon')],
     games=['metab','finalboss','hub'],
     gametips={'metab':'Pathway Order (citric acid cycle, electron transport), Count the Coenzymes (ATP per acetyl CoA and per glucose) and Name the Reaction (succinate → fumarate → malate → oxaloacetate).','finalboss':'Topic Training → “Metabolism”.','hub':'Biochemistry Daily 5.'}),
- 15: dict(schemes=[], widgets=[(r'Oxidation \(in the mitochondria\)', {'t':'metabolism','q':'fatty acid|β-oxid|beta-oxid|beta oxid|acetyl CoA|ketone bod|ketosis|ketoacid|lipogen','n':'10'}, 'β-Oxidation and ketone bodies', 'Count the cycles, acetyl CoA and ATP from a fatty acid; know when ketone bodies form.', 620, 'finalboss'),
-             ('PRACTICE', {'t':'metabolism','q':'urea|transamin|deamin|ammoni|nitrogen|amino acid|glucogenic|ketogenic|essential','n':'10'}, 'Amino acid metabolism', 'Transamination, deamination, the urea cycle and nitrogen balance.', 620, 'finalboss')],
+ 15: dict(schemes=[], widgets=[(r'Oxidation \(in the mitochondria\)', {'t':'metabolism','q':'fatty acid|β-oxid|beta-oxid|beta oxid|acetyl CoA|ketone bod|ketosis|ketoacid|lipogen','n':'10'}, 'β-Oxidation and ketone bodies', 'Count the cycles, acetyl CoA and ATP from a fatty acid; know when ketone bodies form.', 620, 'marathon'),
+             ('PRACTICE', {'t':'metabolism','q':'urea|transamin|deamin|ammoni|nitrogen|amino acid|glucogenic|ketogenic|essential','n':'10'}, 'Amino acid metabolism', 'Transamination, deamination, the urea cycle and nitrogen balance.', 620, 'marathon')],
     games=['metab','finalboss','hub'],
     gametips={'metab':'Pathway Order (β-oxidation, ketone bodies, the fate of nitrogen), Count the Coenzymes for any fatty acid, Name the Reaction (transamination, deamination) and Fuel Fates (fasting, diabetes).','finalboss':'Topic Training → “Metabolism” (and “Amino Acids & Proteins”).','hub':'Biochemistry Daily 5.'}),
 }
@@ -266,6 +267,8 @@ if __name__ == '__main__':
         srcf = f'/home/claude/textbook/sections/src_{pid}.html'
         head = open(srcf).read().rstrip() if os.path.exists(srcf) else TR[pid].rstrip()
         body = head + '\n' + src.strip() + '\n'
+        import videos   # embedded Amoeba Sisters / Dr. Dan videos (tools/videos.py); insert() replaces any old block
+        if int(pid) in videos.SEC: body = videos.insert(body, 'section', videos.block(videos.SEC[int(pid)], 'section'))
         fn = f'sec_{pid}.html'; open(os.path.join(out, fn), 'w').write(body)
         manifest.append({'file': fn, 'pageId': int(pid), 'what': 'Section ' + titles.get(pid, pid) + ' (+ Lecture Connection)'})
     json.dump(manifest, open(os.path.join(out, 'manifest.json'), 'w'), indent=1)
