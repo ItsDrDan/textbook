@@ -34,13 +34,18 @@
         : attrs + ' class="hideprint"';
       return `<details${cls}><summary>Answer</summary>${content}</details>`;
     });
+    // Wrap each answer in <div class="hideprint">: the full-book compile rewrites <details> that sit loose in section text
+    // (not inside a problem box) and the class on <details> is lost, so the wrapper is what hides it in print.
+    const wrapped = out
+      .replace(/<div class="hideprint answer-inline">(<details\b[^>]*\bhideprint\b[^>]*>[\s\S]*?<\/details>)<\/div>/g, '$1')   // unwrap
+      .replace(/<details\b[^>]*\bhideprint\b[^>]*>[\s\S]*?<\/details>/g, d => `<div class="hideprint answer-inline">${d}</div>`);
     if (!items.length) return { html: body, n: 0, labels: [] };
     const seen = {}; items.forEach(it => { seen[it[0]] = (seen[it[0]] || 0) + 1; }); const cnt = {};
     const key = '\n<div class="showprint answer-key"><h2>Answers</h2>\n' + items.map(([l, c]) => {
       let lab = l; if (seen[l] > 1) { cnt[l] = (cnt[l] || 0) + 1; lab = l + ' (' + String.fromCharCode(96 + cnt[l]) + ')'; }
       return `<div class="answer-key-item"><p><strong>${lab}</strong></p>${c}</div>`;
     }).join('\n') + '\n</div>\n';
-    return { html: STYLE + out.replace(/\s*$/, '') + key, n: items.length, labels: items.map(i => i[0]) };
+    return { html: STYLE + wrapped.replace(/\s*$/, '') + key, n: items.length, labels: items.map(i => i[0]) };
   }
   const api = { answerKey };
   if (typeof module !== 'undefined' && module.exports) {
