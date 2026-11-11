@@ -30,7 +30,9 @@ def render(atoms, bonds, alt, pad=22):
             lab = a[2]; col = a[3] if len(a) > 3 and a[3] else BLUE
             anchor = 'middle'
             txt = lab.replace('2', '<tspan font-size="13" dy="4">2</tspan><tspan dy="-4"> </tspan>').replace('+', '<tspan font-size="13" dy="-8">+</tspan>')
-            out.append(f'<text x="{x:.1f}" y="{y + 6.5:.1f}" text-anchor="{anchor}" fill="{col}" font-size="19" font-weight="800" font-family="{FONT}" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke">{txt}</text>')
+            # White halo as a separate copy under the letter; Prince (LibreTexts PDF) ignores paint-order (ledger R01).
+            at = f'x="{x:.1f}" y="{y + 6.5:.1f}" text-anchor="{anchor}" font-size="19" font-weight="800" font-family="{FONT}"'
+            out.append(f'<text {at} fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" aria-hidden="true">{txt}</text><text {at} fill="{col}">{txt}</text>')
     xs = [p[0] for p in pts]; ys = [p[1] for p in pts]
     x0, y0 = min(xs) - pad - 10, min(ys) - pad; w = max(xs) - min(xs) + 2 * pad + 20; h = max(ys) - min(ys) + 2 * pad
     sc = 0.85

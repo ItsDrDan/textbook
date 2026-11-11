@@ -21,7 +21,9 @@ function arrow(cond){const parts=String(cond||'').split(/,\s*/).filter(Boolean);
  const W=Math.max(90,top.length*8+20,bot.length*8+20);
  return {w:W,h:50,draw:(x,y,base)=>{const cy=base-h0/2;return `<text x="${(x+W/2).toFixed(1)}" y="${(cy-9).toFixed(1)}" text-anchor="middle" font-size="13" font-weight="800" fill="#3b5f7a" font-family="Nunito,Inter,Helvetica,Arial,sans-serif">${esc(top)}</text><line x1="${(x+8).toFixed(1)}" y1="${cy.toFixed(1)}" x2="${(x+W-14).toFixed(1)}" y2="${cy.toFixed(1)}" stroke="#2d3f4b" stroke-width="2.6" stroke-linecap="round"/><path d="M${(x+W-16).toFixed(1)} ${(cy-6.5).toFixed(1)} L${(x+W-4).toFixed(1)} ${cy.toFixed(1)} L${(x+W-16).toFixed(1)} ${(cy+6.5).toFixed(1)} Z" fill="#2d3f4b"/><text x="${(x+W/2).toFixed(1)}" y="${(cy+20).toFixed(1)}" text-anchor="middle" font-size="13" font-weight="800" fill="#3b5f7a" font-family="Nunito,Inter,Helvetica,Arial,sans-serif">${esc(bot)}</text>`}}}
 const plus={w:28,h:30,draw:(x,y,base)=>`<text x="${(x+14).toFixed(1)}" y="${(base-h0/2+9).toFixed(1)}" text-anchor="middle" font-size="24" font-weight="900" fill="#6b7a85" font-family="Nunito,Inter,Helvetica,Arial,sans-serif">+</text>`};
-function scheme(r,alt){
+const PF=require('./printfix.js'); // ledger R01/R02: print-safe labels and charges
+function scheme(r,alt){return PF.fixSvg(scheme0(r,alt))}
+function scheme0(r,alt){
  const seq=[];const put=(p,i)=>{if(i)seq.push(plus);if(p.coef>1&&p.smi)seq.push(panel({t:String(p.coef)}));seq.push(panel(p))};r.reactants.forEach(put);seq.push(arrow(r.cond));r.products.forEach(put); // coefficients drawn for structures (e.g. 2 alcohols in acetal formation)
  const gap=10,W=seq.reduce((a,p)=>a+p.w,0)+gap*(seq.length-1)+24,H=Math.max(...seq.map(p=>p.h))+24;h0=H;
  let x=12;const base=H-12;let body='';seq.forEach(p=>{body+=p.draw(x,0,base);x+=p.w+gap});

@@ -118,12 +118,15 @@ const ECOL={O:'#c0392b',N:'#2f5fc4',Cl:'#2e8b57',Br:'#8a5a1c',F:'#2e8b57',C:'#2d
 const EW={C:12,O:14,N:14,S:12,F:11,Cl:20,Br:22,I:6};
 function atomLabel(g,adj,pos,i,force){const a=g.atoms[i];if(a.el==='C'&&!force&&adj[i].length)return '';
  const h=hCount(g,adj,i),x=pos[i].x,y=pos[i].y,col=ECOL[a.el]||'#2d3f4b',w=EW[a.el]||13;
- const T=(tx,anchor,xx,extra)=>`<text x="${xx.toFixed(1)}" y="${(y+6.5).toFixed(1)}" text-anchor="${anchor}" fill="${col}" font-size="19" font-weight="800" font-family="Inter,Helvetica,Arial,sans-serif" stroke="#fff" stroke-width="5" stroke-linejoin="round" paint-order="stroke" ${extra||''}>${tx}</text>`;
+ /* Halo drawn as its own white copy UNDER the letter (not paint-order): PrinceXML, used for the
+    LibreTexts PDF, ignores paint-order and would paint the white outline over the letter (ledger R01). */
+ const T=(tx,anchor,xx,extra)=>{const at=`x="${xx.toFixed(1)}" y="${(y+6.5).toFixed(1)}" text-anchor="${anchor}" font-size="19" font-weight="800" font-family="Inter,Helvetica,Arial,sans-serif" ${extra||''}`;
+  return `<text ${at} fill="#fff" stroke="#fff" stroke-width="5" stroke-linejoin="round" aria-hidden="true">${tx}</text><text ${at} fill="${col}">${tx}</text>`};
  const hs=h>0?'H'+(h>1?`<tspan dy="5" font-size="13">${h}</tspan>`:''):'';
  const left=adj[i].length===1&&pos[adj[i][0].n].x>x+.1&&h>0;
  let s=T(a.el,'middle',x);
  if(hs){s+=left?T(hs,'end',x-w/2-1):T(hs,'start',x+w/2+1)}
- if(a.charge){const cx=left||!hs?x+w/2+1:x+w/2+(h>1?22:14);s+=`<text x="${cx.toFixed(1)}" y="${(y-5).toFixed(1)}" fill="${col}" font-size="15" font-weight="900" font-family="Inter,Helvetica,Arial,sans-serif" stroke="#fff" stroke-width="4" paint-order="stroke">${a.charge>0?'+':'−'}</text>`}
+ if(a.charge){const cx=left||!hs?x+w/2+1:x+w/2+(h>1?22:14);{const at=`x="${cx.toFixed(1)}" y="${(y-5).toFixed(1)}" font-size="15" font-weight="900" font-family="Inter,Helvetica,Arial,sans-serif"`,ch=a.charge>0?'+':'−';s+=`<text ${at} fill="#fff" stroke="#fff" stroke-width="4" aria-hidden="true">${ch}</text><text ${at} fill="${col}">${ch}</text>`}}
  return s}
 function bondsSVG(g,pos,lab,col){let s='';g.bonds.forEach(b=>{let x1=pos[b.a].x,y1=pos[b.a].y,x2=pos[b.b].x,y2=pos[b.b].y;const dx=x2-x1,dy=y2-y1,l=Math.hypot(dx,dy)||1,ux=dx/l,uy=dy/l,px=-uy,py=ux;
   if(lab[b.a]){x1+=ux*11;y1+=uy*11}if(lab[b.b]){x2-=ux*11;y2-=uy*11}
