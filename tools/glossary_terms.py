@@ -231,7 +231,7 @@ G = [
 ("lock-and-key model", "The model in which the active site has a fixed shape that fits only one substrate."),
 ("induced-fit model, induced fit", "The model in which the active site changes shape slightly to fit the substrate as it binds."),
 ("oxidoreductase", "An enzyme class that catalyzes oxidation–reduction reactions, such as dehydrogenases and oxidases."),
-("transferase", "An enzyme class that moves a functional group from one molecule to another, such as kinases, aminotransferases and citrate synthase."),
+("transferase", "An enzyme class that moves a functional group from one molecule to another, such as kinases, aminotransferases and thiolase."),
 ("hydrolase", "An enzyme class that breaks bonds by adding water, such as lipases, proteases and amylases."),
 ("lyase", "An enzyme class that adds or removes groups across a double bond without water or ATP, such as fumarase and decarboxylases."),
 ("isomerase", "An enzyme class that rearranges atoms within a molecule."),
