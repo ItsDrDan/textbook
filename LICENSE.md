@@ -10,6 +10,6 @@ Each such section is identified individually; see `pages/back_sources.html` (the
 
 **Other software** in this repository (`js/widget.js`, `js/embed.js`, `css/`, `practice.html`, `tools/*.js`, `tools/*.py`) is the author's own work. Unless a file says otherwise, it is provided free for educational use; contact the author for other uses. It is not part of the book's CC license. `tools/axe.min.js` is axe-core by Deque Systems, Mozilla Public License 2.0.
 
-**Images:** see `figures/CREDITS.md` for the source, license and attribution of each figure group. Third-party photographs keep their own licenses (`figures/openers/CREDITS.md`). The lecture-slide figures (`figures/Slide*.png`) are under review and must not be treated as openly licensed until `figures/CREDITS.md` says otherwise.
+**Images:** see `figures/CREDITS.md` for the source, license and attribution of each figure group. Third-party photographs keep their own licenses (`figures/openers/CREDITS.md`).
 
 Embedded study games and videos are linked from their own repositories and channels and are not part of this license.
