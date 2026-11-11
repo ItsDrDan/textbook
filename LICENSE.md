@@ -6,6 +6,10 @@ Some content is reproduced or adapted from other sources and is subject to separ
 
 Each such section is identified individually; see `pages/back_sources.html` (the book's "Source Attributions by Section" page) for the title, author, source link and license of each one.
 
-**Software** in this repository (`js/`, `css/`, `practice.html`, `tools/*.js`, `tools/*.py`) is the author's own work. Unless a file says otherwise it is provided free for educational use; contact the author for other uses. `tools/axe.min.js` is axe-core by Deque Systems, Mozilla Public License 2.0.
+**Game code is not openly licensed.** `js/engine.js` (the drawing and reaction engine from the Bond Voyage! game) and `js/fbx.js` (the Exam Practice module from the Final Boss game) are copied from the author's study games. Like the games themselves, they are © Daniel Kwasniewski (ItsDrDan), all rights reserved: free to use while playing, but reuse only by permission. No Creative Commons license applies to them, even where a page shows their output.
+
+**Other software** in this repository (`js/widget.js`, `js/embed.js`, `css/`, `practice.html`, `tools/*.js`, `tools/*.py`) is the author's own work. Unless a file says otherwise, it is provided free for educational use; contact the author for other uses. It is not part of the book's CC license. `tools/axe.min.js` is axe-core by Deque Systems, Mozilla Public License 2.0.
+
+**Images:** see `figures/CREDITS.md` for the source, license and attribution of each figure group. Third-party photographs keep their own licenses (`figures/openers/CREDITS.md`). The lecture-slide figures (`figures/Slide*.png`) are under review and must not be treated as openly licensed until `figures/CREDITS.md` says otherwise.
 
 Embedded study games and videos are linked from their own repositories and channels and are not part of this license.

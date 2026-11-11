@@ -8,8 +8,8 @@ Everything here is served from GitHub Pages at `https://itsdrdan.github.io/textb
 | `practice.html` | The **Try It** widget that the book embeds (iframe). Two engines: exam-bank questions and a reaction lab. See the comment at the top of `js/widget.js` for the URL options. |
 | `js/engine.js` | Structure drawing, compound library, reaction templates and name checking, extracted from Bond Voyage! (`ItsDrDan/organicreactions`). Edit there first, then copy here. |
 | `js/fbx.js` | The Exam Practice module shared by the games (Final Boss question renderer). |
-| `bank/*.json` | The Final Boss CHEM 3B question bank, split by topic (985 questions). Ids are `fb-3B-NNNN` (index in the Final Boss bank). |
-| `figures/` | The 41 structure figures exported from the lecture slides, referenced by the Chapter Guides. |
+| `bank/*.json` | The Final Boss CHEM 3B question bank, split by topic (1,057 questions). Ids are `fb-3B-NNNN` (index in the Final Boss bank). |
+| `figures/` | Book figures: lecture-slide exports (`Slide*.png`), RDKit structure renders (`structures/`, see `INDEX.md` for alt text), concept maps, pathway diagrams and chapter-opener photos. Credits and license status: `figures/CREDITS.md`. |
 | `pages/` | Built HTML for the LibreTexts pages (15 Chapter Guides + 15 Practice Games pages) and `manifest.json`. |
 | `tools/build_pages.py` | Rebuilds `pages/` from the Chapter Guide drafts (edit the `PLAN` dict to move or change widgets). |
 | `tools/scheme.js` | Draws the inline-SVG reaction schemes used in the guides (`node tools/scheme.js`). |
@@ -21,7 +21,8 @@ Everything here is served from GitHub Pages at `https://itsdrdan.github.io/textb
 > **Diagrams with text labels are images now (Nov 5, 2026, overnight pass).** LibreTexts' glossary script wraps glossary words in an HTML `<div>` even inside an inline SVG `<text>`, and browsers then drop the word ("D-Glucose" showed as "D-"). Every inline SVG that has text labels (about 290 figures on 83 pages) was uploaded as a file attached to its own page (`fig-p<pageid>-<n>.svg`) and replaced by an `<img>` with the SVG's aria-label as alt text. Rule for new figures: never paste an SVG with `<text>` into a page; upload it (or host it under `figures/`) and use `<img>`. The step and reaction close-ups in `figures/pathways/` come from `tools/glycolysis.js` and are linked from GitHub Pages.
 
 ## License
-See `LICENSE.md`: content CC BY 4.0 unless otherwise indicated; sections adapted from Ball, Hill & Scott and from Fundamentals of GOB (LibreTexts) are CC BY-NC-SA 4.0 (`pages/back_sources.html`).
+See `LICENSE.md` and `figures/CREDITS.md`. Game code (`js/engine.js`, `js/fbx.js`) is all rights reserved, not CC. Note: `pages/back_sources.html` is stale (it labels the author's own work CC BY-NC-SA); the live LibreTexts page is current.
+Book content is CC BY 4.0 unless otherwise indicated; sections adapted from Ball, Hill & Scott and from Fundamentals of GOB (LibreTexts) are CC BY-NC-SA 4.0.
 
 ## First-time setup
 1. Create the GitHub repo **ItsDrDan/textbook** and push this folder to `main`.
