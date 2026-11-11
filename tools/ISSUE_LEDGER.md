@@ -66,3 +66,8 @@ Next run: paste `tools/repair-print.js` signed in (dry run → `window.REPAIR_AP
 - Hidden-label scan: only p.203 (known false positive: table text with white outline). 0 hidden figure labels.
 - ⯑: 1 left (p.371, ⇌ in the glucose_ring.svg title, GitHub-hosted). Title reworded to "… in equilibrium" in the SVG and in tools/oer_figs.js; the figure already draws equilibrium arrows. Expected next export: 0.
 - Status: R01 verified, R02 verified pending this last figure.
+
+## 2026-11-11: C05 follow-up and R04
+- **C05 audit** (every "32 ATP" on all 198 pages): four places used 32 with no shuttle stated and were fixed live: 14.7 Problem 14.13 (question now says liver / malate–aspartate; answer adds the 30 for glycerol-3-phosphate), 15.3 per-carbon check and 3-glucose solution, 15.12 hexanoate example, 14.4 respiratory note (now 30–32). Others already state the shuttle, give 30–32, or give 32 as a premise. Fatty-acid checks re-verified: laurate 78, palmitate 106, stearate 120 (2.5/1.5, −2 activation).
+- **R04 done (live, 74 pages, 1,502 answers).** LibreTexts print CSS: `.hideprint` hidden in print, `.showprint` hidden on screen. Inline `<details>` answers get `hideprint`; each page ends with a print-only "Answers" list labelled by box title (fallback: first words of the question). Verified with a single-page Prince print of 5.7 (batch.libretexts.org/print/url=…): questions without answers on pp. 1–9, all 78 answers at the end. Generator: `tools/answerkey.js` (idempotent; regenerates the key from the inline answers). `build_pages.py` now runs it on every built page; `pages/*.html` updated.
+- Note: LibreTexts strips HTML comments on save; the key is found as the last `<div class="showprint answer-key">` on the page.

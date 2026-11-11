@@ -272,3 +272,10 @@ if __name__ == '__main__':
         fn = f'sec_{pid}.html'; open(os.path.join(out, fn), 'w').write(body)
         manifest.append({'file': fn, 'pageId': int(pid), 'what': 'Section ' + titles.get(pid, pid) + ' (+ Lecture Connection)'})
     json.dump(manifest, open(os.path.join(out, 'manifest.json'), 'w'), indent=1)
+
+# R04: print-friendly answers. Answers stay click-to-reveal online; in the PDF they move to an "Answers"
+# list at the end of each page (tools/answerkey.js). Runs on every built page so the key never drifts.
+import subprocess, glob as _glob
+_pages = sorted(_glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'pages', '*.html')))
+if _pages:
+    subprocess.run(['node', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'answerkey.js')] + _pages, check=False)
