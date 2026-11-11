@@ -1,0 +1,272 @@
+{
+ "1": {
+  "pageId": 597039,
+  "prerequisites": "count valence electrons from the periodic table, tell ionic from covalent bonding, and use the electronegativity trend (CHEM 3A).",
+  "readiness": [
+   {
+    "q": "How many valence electrons does a nitrogen atom have?",
+    "a": "5 (nitrogen is in group 15, also called 5A)."
+   },
+   {
+    "q": "Which bond is more polar, C&ndash;H or O&ndash;H?",
+    "a": "O&ndash;H. The electronegativity difference between O and H is much larger than between C and H."
+   },
+   {
+    "q": "Is NaCl held together by ionic or covalent bonding?",
+    "a": "Ionic. Sodium transfers an electron to chlorine, giving Na<sup>+</sup> and Cl<sup>&minus;</sup> ions."
+   }
+  ]
+ },
+ "2": {
+  "pageId": 597040,
+  "prerequisites": "draw Lewis structures in which carbon makes four bonds and explain London dispersion forces (Chapter 1).",
+  "readiness": [
+   {
+    "q": "How many bonds does carbon make in a neutral molecule?",
+    "a": "Four."
+   },
+   {
+    "q": "In the Lewis structure of CH<sub>4</sub>, how many bonding pairs and lone pairs are on carbon, and what is the shape?",
+    "a": "Four bonding pairs and no lone pairs; tetrahedral, with bond angles of about 109.5&deg;."
+   },
+   {
+    "q": "Which has the higher boiling point, CH<sub>4</sub> or C<sub>4</sub>H<sub>10</sub>? Why?",
+    "a": "C<sub>4</sub>H<sub>10</sub>. The larger molecule has stronger London dispersion forces."
+   }
+  ]
+ },
+ "3": {
+  "pageId": 597041,
+  "prerequisites": "name straight-chain and branched alkanes and recognize structural isomers (Chapter 2).",
+  "readiness": [
+   {
+    "q": "Name CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>.",
+    "a": "Butane."
+   },
+   {
+    "q": "How many hydrogen atoms are in a saturated alkane with five carbons?",
+    "a": "12 (C<sub>n</sub>H<sub>2n+2</sub> gives C<sub>5</sub>H<sub>12</sub>)."
+   },
+   {
+    "q": "Are CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> and CH<sub>3</sub>CH(CH<sub>3</sub>)CH<sub>3</sub> the same compound or isomers?",
+    "a": "Structural isomers: both are C<sub>4</sub>H<sub>10</sub>, but the atoms are connected differently."
+   }
+  ]
+ },
+ "4": {
+  "pageId": 597042,
+  "prerequisites": "recognize hydrogen bonding (Chapter 1), name a parent chain (Chapter 2), and predict the product of hydration of an alkene (Chapter 3).",
+  "readiness": [
+   {
+    "q": "Which can hydrogen-bond with itself, CH<sub>3</sub>CH<sub>2</sub>OH or CH<sub>3</sub>OCH<sub>3</sub>?",
+    "a": "Ethanol, CH<sub>3</sub>CH<sub>2</sub>OH. It has an H on oxygen; dimethyl ether does not."
+   },
+   {
+    "q": "What forms when water adds across the C=C of ethene (acid catalyst)?",
+    "a": "Ethanol, CH<sub>3</sub>CH<sub>2</sub>OH."
+   },
+   {
+    "q": "What parent name is used for a continuous chain of three carbons?",
+    "a": "Prop- (as in propane)."
+   }
+  ]
+ },
+ "5": {
+  "pageId": 597043,
+  "prerequisites": "classify alcohols as 1&deg;, 2&deg; or 3&deg; and predict what oxidation of each gives (Chapter 4).",
+  "readiness": [
+   {
+    "q": "Is 2-propanol a 1&deg;, 2&deg; or 3&deg; alcohol?",
+    "a": "2&deg;: the carbon bearing the OH is bonded to two other carbons."
+   },
+   {
+    "q": "What does oxidation of a 2&deg; alcohol give?",
+    "a": "A ketone (2-propanol gives propanone, acetone)."
+   },
+   {
+    "q": "Can a 3&deg; alcohol be oxidized by the usual oxidizing agents?",
+    "a": "No. The carbon bearing the OH has no hydrogen to lose."
+   }
+  ]
+ },
+ "6": {
+  "pageId": 597044,
+  "prerequisites": "predict the oxidation products of 1&deg; alcohols and aldehydes (Chapters 4&ndash;5) and write a neutralization (CHEM 3A).",
+  "readiness": [
+   {
+    "q": "What does complete oxidation of ethanol give?",
+    "a": "Acetic acid (ethanoic acid), by way of acetaldehyde."
+   },
+   {
+    "q": "What are the products when an acid reacts with NaOH?",
+    "a": "A salt and water (neutralization)."
+   },
+   {
+    "q": "Which functional group has a C=O with a hydrogen on the carbonyl carbon?",
+    "a": "An aldehyde."
+   }
+  ]
+ },
+ "7": {
+  "pageId": 597045,
+  "prerequisites": "use the Br&oslash;nsted&ndash;Lowry definition of a base (CHEM 3A) and write esterification (Chapter 6).",
+  "readiness": [
+   {
+    "q": "A Br&oslash;nsted&ndash;Lowry base is a proton ______.",
+    "a": "Acceptor."
+   },
+   {
+    "q": "Which two compounds react, with an acid catalyst and heat, to form an ester?",
+    "a": "A carboxylic acid and an alcohol; water is released."
+   },
+   {
+    "q": "What forms when ammonia, NH<sub>3</sub>, accepts an H<sup>+</sup>?",
+    "a": "The ammonium ion, NH<sub>4</sub><sup>+</sup>."
+   }
+  ]
+ },
+ "8": {
+  "pageId": 597046,
+  "prerequisites": "recognize aldehydes, ketones and hemiacetals and identify a chiral carbon (Chapter 5).",
+  "readiness": [
+   {
+    "q": "What forms when an alcohol adds to the C=O of an aldehyde?",
+    "a": "A hemiacetal."
+   },
+   {
+    "q": "What makes a carbon atom chiral?",
+    "a": "It has four different groups attached."
+   },
+   {
+    "q": "Which gives a positive Tollens&rsquo; test, an aldehyde or a simple ketone?",
+    "a": "The aldehyde."
+   }
+  ]
+ },
+ "9": {
+  "pageId": 597047,
+  "prerequisites": "write ester hydrolysis and saponification (Chapter 6), tell polar from nonpolar molecules (Chapter 1), and recognize cis and trans double bonds (Chapter 3).",
+  "readiness": [
+   {
+    "q": "What are the products of hydrolyzing an ester with NaOH?",
+    "a": "A carboxylate salt and an alcohol (saponification)."
+   },
+   {
+    "q": "Is a long hydrocarbon chain polar or nonpolar? Does it dissolve in water?",
+    "a": "Nonpolar; it does not dissolve in water."
+   },
+   {
+    "q": "In a cis double bond, are the two chain parts on the same side or opposite sides?",
+    "a": "The same side."
+   }
+  ]
+ },
+ "10": {
+  "pageId": 597048,
+  "prerequisites": "recognize amines, carboxylic acids and amides (Chapters 6&ndash;7) and relate pH to whether a group holds or loses H<sup>+</sup>.",
+  "readiness": [
+   {
+    "q": "At pH 7, is a carboxylic acid group mostly &ndash;COOH or &ndash;COO<sup>&minus;</sup>?",
+    "a": "&ndash;COO<sup>&minus;</sup>. Its p<em>K</em><sub>a</sub> (about 2&ndash;5) is well below 7."
+   },
+   {
+    "q": "At pH 7, is a typical amine group mostly &ndash;NH<sub>2</sub> or &ndash;NH<sub>3</sub><sup>+</sup>?",
+    "a": "&ndash;NH<sub>3</sub><sup>+</sup>. The p<em>K</em><sub>a</sub> of its protonated form (about 9&ndash;11) is above 7."
+   },
+   {
+    "q": "What bond forms when an amine reacts with a carboxylic acid (with heat)?",
+    "a": "An amide bond."
+   }
+  ]
+ },
+ "11": {
+  "pageId": 597049,
+  "prerequisites": "describe the levels of protein structure and denaturation (Chapter 10) and explain what a catalyst does (CHEM 3A).",
+  "readiness": [
+   {
+    "q": "What does a catalyst do to the activation energy of a reaction?",
+    "a": "It lowers it. The overall energy change of the reaction stays the same."
+   },
+   {
+    "q": "Which level of protein structure is the sequence of amino acids?",
+    "a": "Primary structure."
+   },
+   {
+    "q": "What happens to a protein&rsquo;s shape when it is heated strongly?",
+    "a": "It denatures: the secondary and tertiary structure unfold, but the peptide bonds stay intact."
+   }
+  ]
+ },
+ "12": {
+  "pageId": 597050,
+  "prerequisites": "recognize ribose and deoxyribose (Chapter 8), hydrogen bonding (Chapter 1) and peptide bonds (Chapter 10).",
+  "readiness": [
+   {
+    "q": "Which five-carbon sugar is in RNA?",
+    "a": "Ribose (DNA contains deoxyribose)."
+   },
+   {
+    "q": "What attractions hold the two strands of DNA together?",
+    "a": "Hydrogen bonds between paired bases."
+   },
+   {
+    "q": "What kind of bond links the amino acids in a protein?",
+    "a": "Peptide (amide) bonds."
+   }
+  ]
+ },
+ "13": {
+  "pageId": 597051,
+  "prerequisites": "draw glucose (Chapter 8), name the enzyme classes (Chapter 11) and define oxidation and reduction as loss or gain of hydrogen.",
+  "readiness": [
+   {
+    "q": "In biochemistry, is a molecule that gains hydrogen atoms oxidized or reduced?",
+    "a": "Reduced."
+   },
+   {
+    "q": "Which enzyme class includes kinases, which move a phosphate from ATP onto another molecule?",
+    "a": "Transferases."
+   },
+   {
+    "q": "What is the molecular formula of glucose?",
+    "a": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>."
+   }
+  ]
+ },
+ "14": {
+  "pageId": 597052,
+  "prerequisites": "list the products of glycolysis and the roles of NAD<sup>+</sup>, FAD and ATP (Chapter 13).",
+  "readiness": [
+   {
+    "q": "What does glycolysis produce (net) from one glucose?",
+    "a": "2 pyruvate, 2 ATP and 2 NADH."
+   },
+   {
+    "q": "Which is the reduced form, NAD<sup>+</sup> or NADH?",
+    "a": "NADH."
+   },
+   {
+    "q": "Without enough oxygen, what does muscle convert pyruvate into?",
+    "a": "Lactate."
+   }
+  ]
+ },
+ "15": {
+  "pageId": 597053,
+  "prerequisites": "count ATP from acetyl CoA, NADH and FADH<sub>2</sub> with the course values (Chapter 14) and draw fatty acids (Chapter 9) and amino acids (Chapter 10).",
+  "readiness": [
+   {
+    "q": "How many ATP does one acetyl CoA give through the citric acid cycle and electron transport (course values)?",
+    "a": "10 ATP."
+   },
+   {
+    "q": "Is palmitic acid (16 carbons, no C=C) saturated or unsaturated?",
+    "a": "Saturated."
+   },
+   {
+    "q": "Which element is found in amino acids but not in carbohydrates or fats?",
+    "a": "Nitrogen."
+   }
+  ]
+ }
+}
