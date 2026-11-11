@@ -28,7 +28,8 @@
       const up = `<tspan dy="-0.5em" font-size="70%">${plain(run)}</tspan>`;
       // Bring the baseline back down if more text follows inside this node.
       return rest.length ? up + '<tspan dy="0.35em"></tspan>' : up;
-    }).replace(/<tspan dy="0\.35em"><\/tspan>([^<]+)/g, '<tspan dy="0.35em">$1</tspan>'));
+    }).replace(/<tspan dy="0\.35em"><\/tspan>([^<]+)/g, (m, t) => '<tspan dy="0.35em">' + t.replace(/^ /, '&#160;') + '</tspan>'));
+    // (a leading plain space in a tspan is dropped by some renderers: "H+ flow" printed as "H+flow")
   }
 
   // --- one <text> element --------------------------------------------------------------------------

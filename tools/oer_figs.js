@@ -348,5 +348,6 @@ function trnaLoading() {
 }
 out.trna_loading = trnaLoading();
 const dir = path.join(__dirname, '..', 'figures', 'pathways', 'oer'); fs.mkdirSync(dir, { recursive: true });
-for (const [k, v] of Object.entries(out)) fs.writeFileSync(path.join(dir, k + '.svg'), v);
+const PF = require('./printfix.js'); // print-safe charges/labels for the LibreTexts PDF (ledger R01/R02)
+for (const [k, v] of Object.entries(out)) fs.writeFileSync(path.join(dir, k + '.svg'), PF.fixSvg(v));
 console.log(Object.keys(out).join(' '));

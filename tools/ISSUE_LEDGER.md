@@ -54,3 +54,10 @@ Next run: paste `tools/repair-print.js` signed in (dry run → `window.REPAIR_AP
 - Figure files can be rebuilt from page history: each page's revision just before the Nov 5 "SVG → file" pass still holds the inline SVGs. Matched by alt text = aria-label (order as tie-break), serialized with the browser's HTML parser + XMLSerializer (keeps nested SVGs and viewBox case), checked against the live image's natural width/height (210/210 matched exactly) and parsed as XML.
 - Root cause of the remaining hidden labels (incl. p.555 NH3+): **self-closing `<text …/>`** (empty reaction-condition labels) made the old text regex swallow the next label. printfix v3 matches self-closing text separately. 31 figures were affected.
 - Uploaded 153 files (57 never fixed + 96 re-fixed with v3); all 153 audit to 0 hidden labels and 0 superscript characters before upload.
+
+## PDF check, export compiled 2026-11-11 (late), and follow-up fixes
+
+- Hidden-label scan: 3 pages (p.203 false positive; pp.246/248 = 3.9 Chapter Guide figures, which the 153-file pass had skipped). ⯑: 56 on 29 pages.
+- Second history-rebuild pass over all pages for figures not updated in the first: 144 rebuilt, 85 uploaded (incl. 597086-2/3/4/6/7/8); 0 size mismatches, 0 XML errors, 0 hidden labels after fix. Identical re-uploads create no new revision (expected).
+- ⇌ (U+21CC, `&#8652;`) is not in the PDF fonts: 29 occurrences on 12 live pages replaced by MathJax `\(\rightleftharpoons\)` (verified render on 4.10); drafts synced.
+- GitHub-hosted figures with superscript charges fixed in repo: `figures/pathways/oer/atp_synthase.svg`, `atp_rotation.svg`, `respiration.svg`, `sections/reactions/roadmap.svg`; `tools/oer_figs.js` now writes through printfix. printfix v4: a space right after a raised charge is written as a no-break space (renderers dropped it: "H⁺flow").
