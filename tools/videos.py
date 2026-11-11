@@ -24,7 +24,7 @@ V = {
  '8FqlTslU22s': ('Viruses', '6:49', AS, 'What a virus is made of and how it uses a host cell to copy itself.'),
  'CDw4WPng2iE': ('Genetic Engineering', '8:25', AS, 'How scientists insert a gene into another organism, for example to make human insulin.'),
  'a5jmdh9AnS4': ('PCR (Polymerase Chain Reaction)', '7:54', AS, 'How PCR makes millions of copies of a DNA segment, used in medical testing.'),
- '23ZzI6WZS28': ('What is ATP?', '5:52', AS, 'ATP as the cell’s energy currency, and how breaking a phosphate bond releases energy.'),
+ '23ZzI6WZS28': ('What is ATP?', '5:52', AS, 'ATP as the cell’s energy currency, and why hydrolysis of ATP to ADP and phosphate releases energy overall (breaking the bond itself takes energy; more is released as the more stable products form).'),
  '1UvuBYUbFk0': ('Digestive System', '8:43', AS, 'The organs of digestion and where carbohydrates, fats and proteins are broken down.'),
  'YbdkbCU20_M': ('Fermentation', '8:34', AS, 'What happens to pyruvate without oxygen: lactic acid and alcoholic fermentation.'),
  'Iz0Q9nTZCw4': ('Homeostasis and Negative/Positive Feedback', '6:24', AS, 'How the body keeps blood glucose steady with insulin and glucagon.'),
