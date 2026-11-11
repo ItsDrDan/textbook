@@ -25,7 +25,8 @@ html,body{margin:0;background:var(--bg,#f5f6fb);color:var(--ink,#1f2a44);font-fa
 .tb h1{font-family:var(--font-display,Fredoka,sans-serif);font-weight:600;font-size:22px;margin:0;line-height:1.15;text-wrap:balance}
 .tb-game{font-weight:800;color:var(--accent,#4b57d1);text-decoration:none;border:2px solid var(--accent-soft,#eef0fe);background:var(--accent-soft,#eef0fe);border-radius:999px;padding:6px 12px;white-space:nowrap}
 .tb-game:hover{border-color:var(--accent,#4b57d1)}
-.tb-foot{margin-top:10px;font-size:12px;color:var(--faint,#6f7890)}
+@media (max-width:360px){.tb-game{white-space:normal;max-width:100%}}
+.tb-foot{margin-top:10px;font-size:12px;color:#5b6478}
 .tb-foot a{color:inherit}
 /* FBX card tweaks: tighter for an embed */
 .fbx .fbx-card{background:var(--surface,#fff);border:1px solid var(--line,#e3e6f0);border-radius:var(--r-lg,20px);box-shadow:var(--shadow);padding:14px}
