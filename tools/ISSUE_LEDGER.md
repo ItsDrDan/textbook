@@ -39,3 +39,12 @@ Status values: confirmed · under investigation · corrected (source) · correct
 
 Drafts synced so a rebuild does not undo these: `drafts/Ch05_Practice_Problems…`, `drafts/Ch13_Chapter_Guide…`. `pages/` is build output and still has the old text until the next `build_pages.py` run.
 Not changed (instructor's call): 11.x "Every enzyme is a protein" (ribozymes).
+
+## PDF check, export compiled 2026-11-11 (1,275 pp.)
+
+- All C01–C08 text changes present. ⯑ glyphs: 146 → 82 (37 pages: 290, 317, 322, 326, 339, 342, 371, 373, 399, 401, 434, 439, 440, 454, 477, 478, 480, 487, 491, 493, 495, 498, 519, 520, 554, 556, 557, 558, 562, 563, 564, 568, 573, 1052, 1117, 1122, 1128).
+- Figures now printing: acetaminophen p.110, eugenol p.125, chloroalkane p.195, benzocaine p.262, amide reactions p.555.
+- Hidden-label scan (`tools/pdf_hidden_scan.py`, pdfplumber: glyph with coloured fill + white outline and no clean copy on top): **47 pages**, list in `tools/pdf_hidden_labels_2026-11-11.json`. p.203 is a false positive (table text); p.319 is real (pKa chart labels).
+- New cause found: some labels carry a white outline **without** paint-order (p.555 ethylammonium N: fill blue, stroke white). printfix v2 (2026-11-11) also splits those; v2 leaves v1-fixed files unchanged.
+- Blocked: after a PDF compile every figure file is cached and cannot be read by script, so the next repair run must happen **before** recompiling, after the cache clears (unknown TTL; >1 h observed).
+Next run: paste `tools/repair-print.js` signed in (dry run → `window.REPAIR_APPLY = true`), then recompile and re-run `python3 tools/pdf_hidden_scan.py` on the new Full.pdf. Target: 0 pages (except p.203) and 0 ⯑.

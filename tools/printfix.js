@@ -37,19 +37,26 @@
     inner = svgTextSup(inner);
     const po = attr(attrs, 'paint-order') || ((attr(attrs, 'style') || '').match(/paint-order\s*:\s*([^;]+)/) || [])[1];
     const stroke = attr(attrs, 'stroke');
-    if (!po || !/^\s*stroke/.test(po) || !stroke || stroke === 'none') return `<text${attrs}>${inner}</text>`;
+    const isWhite = v => /^(#fff|#ffffff|white|rgb\(255,\s*255,\s*255\))$/i.test((v || '').trim());
+    const fill = attr(attrs, 'fill');
+    // Halo copies we made (aria-hidden) and plain labels are left alone. A white outline is a halo whether or not
+    // paint-order is set: without paint-order even browsers paint it on top, and Prince always does (p.555 NH3+).
+    const halo = !/aria-hidden="true"/.test(attrs) && stroke && stroke !== 'none' && !isWhite(fill) &&
+                 ((po && /^\s*stroke/.test(po)) || isWhite(stroke));
+    if (!halo) return `<text${attrs}>${inner}</text>`;
     let base = drop(attrs, ['paint-order']).replace(/\sstyle="([^"]*)"/, (m, st) => {
       const s2 = st.replace(/paint-order\s*:\s*[^;]+;?/g, '').trim(); return s2 ? ` style="${s2}"` : ''; });
-    const halo = drop(base, ['fill', 'aria-label', 'role', 'id']) + ` fill="${stroke}" aria-hidden="true"`;
+    const haloEl = drop(base, ['fill', 'aria-label', 'role', 'id']) + ` fill="${stroke}" aria-hidden="true"`;
     const letter = drop(base, ['stroke', 'stroke-width', 'stroke-linejoin', 'stroke-linecap', 'stroke-opacity']);
-    return `<text${halo}>${inner}</text><text${letter}>${inner}</text>`;
+    return `<text${haloEl}>${inner}</text><text${letter}>${inner}</text>`;
   }
 
   function fixSvg(svg) {
-    if (/data-printfix="1"/.test(svg)) return svg;            // already processed
+    // No early exit on data-printfix: a file fixed by the first version may still have white-outline labels
+    // without paint-order. Element-level checks keep this idempotent.
     svg = decodeSupEntities(svg);                              // some files store ⁺ as &#8314;
     let out = svg.replace(/<text\b([^>]*)>([\s\S]*?)<\/text>/g, (m, a, inner) => fixTextEl(a, inner));
-    if (out !== svg) out = out.replace(/<svg\b/, '<svg data-printfix="1"');
+    if (out !== svg && !/data-printfix="1"/.test(out)) out = out.replace(/<svg\b/, '<svg data-printfix="1"');
     return out;
   }
 
@@ -67,7 +74,7 @@
   function audit(text) {
     const s = decodeSupEntities(text);
     return {
-      haloLabels: (s.match(/<text\b[^>]*paint-order\s*[:=]\s*"?\s*stroke/g) || []).length,
+      haloLabels: (s.match(/<text\b[^>]*>/g) || []).filter(t => !/aria-hidden="true"/.test(t) && (/paint-order\s*[:=]\s*"?\s*stroke/.test(t) || (/\sstroke="(#fff|#ffffff|white)"/i.test(t) && !/\sfill="(#fff|#ffffff|white)"/i.test(t)))).length,
       superscriptRuns: (s.match(RUN) || []).length,
     };
   }
