@@ -123,3 +123,11 @@ Instructor decision: edit source text in place wherever licenses allow (Ball/Fun
 | M02 | in place | Stable page ids and @go links kept (no sections split or renumbered); new problems appended with new numbers; version history + errata list in About This Book (v1.1). |
 | M03 | defined | Release gate per chapter: (1) figures render in the latest PDF (✓ all chapters, 11-11 export); (2) assessed answer keys independently checked (✗ pending audit matrix); (3) learning route complete: opener → sections → summary → guide → problems (✓); (4) essential content available in print and online (✓ except 43 cached inline answers pending LibreTexts). Chapters are therefore "ready except gate 2". |
 | answerkey.js | fixed | Old-key removal now cuts only the key block (LibreTexts adds wrapper closings after it, which the old regex deleted). |
+
+## 2026-11-11 evening: ADAPT course 4605 updated in place
+Edited in the ADAPT question editor ("Automatically update the question" for own assignments, reason recorded on each), matching the bank and the adapt/ export files:
+- fb-3B-0063 (ADAPT 354321, Ch 5): "the S form of ibuprofen" → "ibuprofen" (no R/S).
+- fb-3B-0192 (ADAPT 354486, Ch 10): feedback adds Arg as the conditionally essential tenth.
+- fb-3B-0884 (ADAPT 355079, Ch 11): feedback says "allosteric regulation", not "allosteric (noncompetitive) regulation".
+- fb-3B-0895 (ADAPT 355090, Ch 11): answer is "Irreversible (noncompetitive) inhibition … permanently changes the enzyme's shape"; distractor "Noncompetitive inhibition" → "Reversible inhibition"; feedback explains heavy metals are also noncompetitive.
+Verified in My Questions and in the Ch 5/10/11 assignment views; correct answers unchanged. fb-3B-0396 is not in the ADAPT course.
