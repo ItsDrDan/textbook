@@ -201,3 +201,45 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
 - Images: 2.5 Ex 2a/2b redrawn (new files 512698, 512699; old ones showed an isopropyl group); 15.3 activation image without curved arrows (file 512700); 10.6 curved-arrow resonance image removed; 3.8 ibuprofen now uses the correct isobutyl drawing (file 512427).
 - Open (not in these tiers): Tier 3 clinical-currency rewrites, Tier 4 restructuring (Ch 15 order, Ch 13–14/12 duplication, 7.8/10.3 copies), Tier 6 ADAPT rebalance; duplicate "Figure 5.5.3" labels in 5.5; penicillin image still shows methicillin; 8.6 Exercise 1 image shows β,β (alt now matches); lab experiment numbers vs For Instructors (instructor decision); Bond Voyage drawings for the new Reactions-at-a-Glance rows.
 - Checked the 23:44 compile (Full (6).pdf, now `CHEM3B-Full.pdf`, 1,347 pp; the 22:33 one is `CHEM3B-Full-2026-11-11-2233.pdf`). The fresh-eyes Tier 1/2/5 text prints (118 distinctive new phrases checked; the only ones not in print are alt text and inline answers marked hideprint). None of the old wording remains ("Nine are essential" on p1280 is 15.11's intended nine-plus-arginine sentence). Visually checked: 2.5 Ex 2a/2b redraws (p170), 5.5 isomer list (p415), 15.3 activation figure without arrows (p1230). Whole-book checks pass: CC BY statement on p2, every "Dr. Dan" is the Study Hub name, no raw MathJax, hidden-label scan only p224 (known), images 2,234 vs 2,238 (−4 as expected: 5.5 Figure 1, 10.6 resonance image, 1.6 MyPyramid image, 3.8 ibuprofen JPEG → SVG).
+
+## 2026-11-12 — Fresh-eyes Tiers 3, 4, 6 and leftovers (PR audit/2026-11-fresh-eyes-tiers-3-4-6)
+- **Book: 332 edits on 108 live pages.** Edit list: `tools/fresh_eyes_round2_fixes_2026-11-12.json`. Per-chapter notes: `tools/fresh_eyes_notes/round2/`. All 108 pages match `pages/live/` by SHA-256; LibreTexts renumbered section ids on 597180, 597200 and 597232, and the repo copies carry that.
+  - **Tier 3, clinical currency:**
+    - HIV in 12.7 now covers integrase-based single-pill regimens, PrEP and U=U, with person-first wording.
+    - 12.8 covers CRISPR/Casgevy, STR profiling, and corrected flu vaccine, Bt and chymosin facts.
+    - PKU and CF are updated (F508del, CFTR modulators).
+    - Lipid panels are no longer described as always fasting (9.6, 9.7, 9.8, 15.6).
+    - 9.6 Ball text is updated; it now uses "gender-affirming hormone therapy".
+    - Prediabetes is named (8.3, 8.4, 8.8). GLP-1 and SGLT2 notes are added in 13.7, and euglycemic DKA in 15.7.
+    - Osmosis and IV fluids are added in 9.5.
+    - Anesthetics (4.8), nicotine dose and pediatric e-liquid risk (7.3), and formaldehyde "known carcinogen" (5.2) are updated.
+    - Breathalyzer (4.5, 5.4), CO pulse-oximetry pitfall (2.7), HCFC/HFC/HFO (2.8), and California lead sources (11.4) are updated.
+    - Lactase non-persistence (11.7) and the organophosphate Valley Connection (7.11; please confirm the 3 CCR §6728 citation) are added.
+    - Career boxes are modernized.
+  - **Tier 4, in-page structure:**
+    - Duplicated source text is replaced or trimmed: 7.8, 10.3, 9.5, 10.6, 14.1, 14.2, 13.4, and Ch 12 (12.3, 12.9).
+    - Majors-level text is trimmed: 14.4 ETC, 15.8/15.11, 5.4 Jones/hydrates, 6.2 acid reduction (P6.63–6.64 rewritten), 1.7 hybridization, 11.4/11.5 Ball tables, 13.6.
+    - Missing exercise answers are added (2.5, 2.8, 3.1, 3.2, 3.8, 8.1, 8.2, 8.6, 10.2, 12.2, 12.3, 12.5).
+    - Alt text that gave away answers is fixed.
+    - 5.5 figure numbers are unique.
+    - Broken and off-book links are repointed.
+    - 4-4-9 food energy is added to 14.5.
+    - Organic Origins and Flashcards are added to the 1.11 games page.
+- **Images:**
+  - 12.2 Exercise 2 guanine now has its NH2 (file 512701).
+  - 12.5 tRNA charging now shows ATP → AMP + PPi instead of H2O (file 512702).
+  - 8.6 Exercise 1: the drawing shows β,β, which is correct; the answer is added and the alt text no longer gives it away.
+  - The penicillin caption now explains methicillin.
+- **Tier 6, question bank and ADAPT:**
+  - Bank now holds 1,110 items:
+    - 65 new: fb-3B-2061–2125.
+    - 13 rewritten: 0161, 0199, 0237–0239, 0246, 0445, 0641, 0914–0917, 0926.
+  - ADAPT course 4605 is updated live; see `adapt/README.md` (2026-11-12): 100 added, 13 updated in place, 2 moved, 32 removed; 1,031 questions now.
+  - `tools/adapt_export.py` no longer imports `build_pages`, so it cannot rebuild pages from the stale drafts, and it places orphans explicitly.
+  - Final Boss v40 (ItsDrDan/finalexam 117d327) has the same 13 rewrites and 65 new items.
+- **Open:**
+  - Page moves and retitles: the Ch 15 lipid/protein order, 13.7 after 13.9, 12.9 after 12.2/12.4, and retitles of 13.6 (PPP), 5.3, 14.1, 14.2, 12.3. The plan, with cross-reference counts, is in `tools/fresh_eyes_notes/round2/ch13-15-notes.md`.
+  - Lab experiment numbers wait for the final lab manual.
+  - The 5.4 image still says "CrO3 + H2SO4".
+  - Image files no longer used on their pages could be deleted (listed in the round 2 notes).
+  - Video hints for the new ADAPT questions.

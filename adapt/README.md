@@ -70,3 +70,15 @@ These questions are still in the Try It widgets and the Final Boss game:
 ## Shuffled structure choices
 
 When the answer choices are drawn structures, the A–D grid is shuffled for each question, so the right answer is not always "Structure A". Fourteen Chapter 3 questions from the first extra set had the right answer always in position A; they are re-imported in `CHEM3B_Ch03_more_QTI.zip` with a shuffled grid, and the old copies were taken out of the Chapter 3 assignment.
+
+## Update of 2026-11-12 (fresh-eyes review, Tier 6)
+
+- **Live course now holds 1,031 questions:** Ch1 106, Ch2 65, Ch3 79, Ch4 54, Ch5 93, Ch6 59, Ch7 57, Ch8 76, Ch9 75, Ch10 75, Ch11 82, Ch12 58, Ch13 53, Ch14 51, Ch15 48. Random-draw sizes per student are unchanged.
+- **Added (100 new ADAPT questions, created through the ADAPT API and placed in the chapter folders, CC BY 4.0):**
+  - 65 new bank items, fb-3B-2061 to 2125: course-outline gaps and Central Valley / current-clinical contexts.
+  - 35 older text items that the exporter never picked up.
+- **Updated in place (13, "automatically update" for own assignments, reason recorded):** fb-3B-0161, 0199, 0237, 0238, 0239, 0246, 0445, 0641, 0914, 0915, 0916, 0917, 0926. 0914–0916 are now text-only.
+- **Moved:** fb-3B-0237 and 0238 (now alkene/alcohol items) from Chapter 2 to Chapter 3.
+- **Removed from assignments (32; still in the bank and in My Questions):** 18 chirality wedge/dash near-duplicates (Ch 5), 9 fatty-acid ATP variants (Ch 15), 5 molar-mass drill items (Ch 1). The list is in `adapt_target_2026-11-12.json` ("retire").
+- **Exporter:** `tools/adapt_export.py` now reads only `PLAN` from `build_pages.py`; it no longer runs the page build. An explicit `{id: chapter}` map places items that no widget regex catches. The run prints a warning if any usable item is left in no chapter. `adapt_target_2026-11-12.json` is the per-chapter target, and the live course matches it. The one exception: fb-3B-1011 and 1012 stay in Chapter 13, where they were already live, although the exporter files them under Ch 14 and Ch 15.
+- The new questions have no video hint yet. The "Watch Dr. Dan's lesson" hints on older questions are unchanged.
