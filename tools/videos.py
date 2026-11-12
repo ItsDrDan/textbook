@@ -88,7 +88,7 @@ def frame(vid):
         f'<a style="text-decoration:underline" href="https://www.youtube.com/watch?v={vid}&amp;t={s}s" target="_blank" rel="noopener">{fmt(s)} {e(l)}</a>' for s, l in M)
         + '</small></p>') if len(M) > 1 else ''
     return (f'<p><strong>{e(t)}</strong> ({ln}, {e(ch)})<br />{e(why)}</p>'
-            f'<div style="max-width:640px"><div style="width:100%;height:0px;position:relative;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/{vid}?rel=0" '
+            f'<div style="max-width:640px"><div style="width:100%;position:relative;aspect-ratio:16/9"><iframe src="https://www.youtube.com/embed/{vid}?rel=0" '
             f'title="{e(t)} ({e(ch)}, YouTube video)" frameborder="0" style="width:100%;height:100%;position:absolute;left:0;top:0" '
             f'allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe></div></div>' + jump +
             f'<p><small>{note} Turn on captions with the CC button. Video not loading? <a href="https://www.youtube.com/watch?v={vid}" target="_blank" rel="noopener">Watch it on YouTube</a>.</small></p>')
