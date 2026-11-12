@@ -1,0 +1,917 @@
+{
+ "597069": [
+  {
+   "old": "alt=\"Condensed formula CH3CHCH2CH3 with a CH3 branch drawn below the second carbon (2-methylbutane).\"",
+   "new": "alt=\"Condensed formula CH3CHCH2CH2CH3 with a CH3 branch drawn below the second carbon (2-methylpentane).\"",
+   "count": 1
+  },
+  {
+   "old": "alt=\"Condensed formula CH3CHCH2CHCH3 with CH3 branches drawn below the second and fourth carbons (2,4-dimethylpentane).\"",
+   "new": "alt=\"Condensed formula CH3CHCH2CH2CHCH3 with CH3 branches drawn below the second and fifth carbons (2,5-dimethylhexane).\"",
+   "count": 1
+  },
+  {
+   "old": "alt=\"A seven-carbon parent chain numbered 1 through 7 in red, with a carbon attached above carbon 3 and a two-carbon ethyl group attached above carbon 4.\"",
+   "new": "alt=\"A seven-carbon parent chain numbered 1 through 7 in red, with a one-carbon methyl group attached above carbon 2 and a two-carbon ethyl group attached above carbon 4.\"",
+   "count": 1
+  },
+  {
+   "old": "alt=\"The completed structure of 4-ethyl-3-methylheptane drawn two ways: as an expanded formula with the methyl on carbon 3 and ethyl on carbon 4 drawn out, 'or' as a condensed formula CH3CH2CHCHCH2CH2CH3 with CH3 and CH2CH3 branches written below.\"",
+   "new": "alt=\"The completed structure of 4-ethyl-2-methylheptane drawn two ways: as a structural formula with a CH3 branch on carbon 2 and a CH2CH3 branch on carbon 4 of a seven-carbon chain, 'or' as the condensed formula CH3CH(CH3)CH2CH(CH2CH3)CH2CH2CH3.\"",
+   "count": 1
+  }
+ ],
+ "597072": [
+  {
+   "old": "alt=\"Condensed formula CH3CHCH2CH3 with Br attached below the second carbon (2-bromobutane).\"",
+   "new": "alt=\"Condensed formula CH3CHCH2CH2CH3 with Br attached below the second carbon (2-bromopentane).\"",
+   "count": 1
+  },
+  {
+   "old": "alt=\"Condensed formula CH3CHCHCH2CH3 with CH3 below the second carbon and Br below the third carbon (3-bromo-2-methylpentane).\"",
+   "new": "alt=\"Condensed formula CH3CHCH2CHCH2CH3 with CH3 below the second carbon and Br below the fourth carbon (4-bromo-2-methylhexane).\"",
+   "count": 1
+  },
+  {
+   "old": " It can also be used as an emergency general anesthetic.",
+   "new": "",
+   "count": 1
+  }
+ ],
+ "597040": [
+  {
+   "old": "are small halogenated hydrocarbons, the compounds at the end of this chapter.",
+   "new": "are small halogenated ethers, close relatives of the halogenated hydrocarbons at the end of this chapter.",
+   "count": 1
+  }
+ ],
+ "597085": [
+  {
+   "old": "alt=\"Structure of ibuprofen as drawn: a benzene ring with a four-carbon branched alkyl group (a CH bearing CH3 and CH2CH3) on one carbon and a CH(CH3)COOH group on the opposite carbon.\"",
+   "new": "alt=\"Structure of ibuprofen: a benzene ring with a 2-methylpropyl (isobutyl) group, CH2CH(CH3)2, on one carbon and a CH(CH3)COOH group on the opposite carbon.\"",
+   "count": 1
+  },
+  {
+   "old": "style=\"width: 200px; height: 88px;\" class=\"internal\" src=\"/@api/deki/files/27357/ibuprofen.jpg\" fileid=\"27357\" width=\"200px\" height=\"88px\"",
+   "new": "width=\"171\" style=\"max-width:100%;height:auto;\" class=\"internal\" src=\"/@api/deki/files/512427/fig-p597063-3.svg\" fileid=\"512427\"",
+   "count": 1
+  }
+ ],
+ "597059": [
+  {
+   "old": " Most of these organizations also recommend decreasing the total amount of fat in the diet.",
+   "new": "",
+   "count": 1
+  },
+  {
+   "old": "Recently, certain fats called trans fats have been implicated in the presence of heart disease. These are fats from animal sources and are also produced when liquid oils are exposed to partial hydrogenation, an industrial process that increases their saturation. Trans fats are used in many prepared and fried foods. Because they bring with them the health risks that naturally occurring saturated fats do, there has been some effort to better quantify the presence of trans fats in food products. <abbr title=\"United States\">US</abbr> law now requires that food labels list the amount of trans fat in each serving.",
+   "new": "Trans fats are also linked to heart disease. Small amounts occur naturally in meat and dairy foods, but most of the trans fat in the American diet once came from partially hydrogenated oils. These were made by partial hydrogenation, an industrial process that adds hydrogen to some of the C=C double bonds of a liquid oil (Sections 3.2 and 3.4). Trans fats raise LDL (&ldquo;bad&rdquo;) cholesterol and lower HDL (&ldquo;good&rdquo;) cholesterol, so they are even worse for the heart than saturated fats. <abbr title=\"United States\">US</abbr> food labels list the amount of trans fat in each serving, and the <abbr title=\"Food and Drug Administration\">FDA</abbr> has removed partially hydrogenated oils from the U.S. food supply.",
+   "count": 1
+  },
+  {
+   "old": "<figure><img alt=\"The USDA MyPyramid graphic: a figure climbing stairs beside a pyramid of colored vertical bands for grains, vegetables, fruits, milk, and meat and beans, with food pictures along the base.\" height=\"266\" width=\"348\" class=\"internal\" src=\"/@api/deki/files/201783/food_pyramid.jpg\" fileid=\"201783\" />\n<figcaption>MyPlate is a reminder that everything you eat and drink matters. Source: Image courtesy of the <abbr title=\"The U.S. Department of Agriculture\">USDA</abbr>, www.mypyramid.gov/downloads/MiniPoster.pdf.</figcaption>\n</figure>",
+   "new": "",
+   "count": 1
+  }
+ ],
+ "597270": [
+  {
+   "old": "<p>Each chapter has three kinds of pages.</p>",
+   "new": "<p>Each chapter opens with a landing page: a &ldquo;Your Route Through Chapter N&rdquo; box with a three-question readiness check and a suggested study path, and the start of that chapter&rsquo;s part of Rosa&rsquo;s Story. After the landing page come three kinds of pages.</p>",
+   "count": 1
+  },
+  {
+   "old": " The games pages embed the free study games from Dr. Dan's Chemistry Study Hub that fit the chapter.</li>",
+   "new": " Each Practice Problems page also names the chapter&rsquo;s graded homework in LibreTexts ADAPT (see How to use it, below). The games pages embed the free study games from Dr. Dan's Chemistry Study Hub that fit the chapter.</li>",
+   "count": 1
+  },
+  {
+   "old": "boxes (green, one per chapter)",
+   "new": "boxes (green, at least one per chapter)",
+   "count": 1
+  },
+  {
+   "old": "<a style=\"text-decoration:underline\" href=\"/@go/page/597163\">10.10</a> heat illness in outdoor workers; <a style=\"text-decoration:underline\" href=\"/@go/page/597169\">11.4</a> organophosphate pesticides and acetylcholinesterase; ",
+   "new": "<a style=\"text-decoration:underline\" href=\"/@go/page/597162\">10.9</a> nitrate in well water and &ldquo;blue baby&rdquo; hemoglobin; <a style=\"text-decoration:underline\" href=\"/@go/page/597163\">10.10</a> heat illness in outdoor workers; <a style=\"text-decoration:underline\" href=\"/@go/page/597169\">11.4</a> organophosphate pesticides and acetylcholinesterase; <a style=\"text-decoration:underline\" href=\"/@go/page/597170\">11.5</a> almonds and vitamin E; ",
+   "count": 1
+  },
+  {
+   "old": "<li>Finish with the Practice Problems. If a problem is hard, the matching game on the Practice Games page gives you unlimited fresh versions of the same skill.</li>",
+   "new": "<li>Work the Practice Problems. They are not graded, so use them to find what you still need to review.</li>\n<li>Then do the chapter&rsquo;s homework in LibreTexts ADAPT. This is the graded, auto-checked homework; the box at the top of each Practice Problems page names the assignment. If your instructor uses it, open it from your course in Canvas so your score reaches the gradebook.</li>\n<li>Use the Practice Games page for extra practice. If a problem is hard, the matching game gives you unlimited fresh versions of the same skill.</li>",
+   "count": 1
+  },
+  {
+   "old": "Every chapter opens with learning objectives written to the outline's wording, and the Lecture Connection blocks and Practice Problems cover every unit item.",
+   "new": "Each section page lists its learning objectives, each Chapter Guide lists the chapter&rsquo;s objectives mapped to the outline, and the Lecture Connection blocks and Practice Problems cover every unit item.",
+   "count": 1
+  },
+  {
+   "old": "a three-question readiness check",
+   "new": "a readiness check",
+   "count": 1
+  }
+ ],
+ "597396": [
+  {
+   "old": "<li>Auto-graded homework for each chapter is being built in LibreTexts ADAPT; contact the author for access.</li>",
+   "new": "<li>Auto-graded homework for every chapter is available in LibreTexts ADAPT. The box at the top of each Practice Problems page names the chapter&rsquo;s assignment: each student gets a random set of questions drawn from a larger bank, with three attempts per question and a hint after a wrong answer, and opens it from Canvas so the score reaches the gradebook. Every question is public in ADAPT under CC BY 4.0 (author Daniel Kwasniewski), so you can copy the assignments into your own ADAPT course.</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>No reaction mechanisms with curved arrows, no R/S, no pK<sub>a</sub> values or Henderson&ndash;Hasselbalch calculations. Acid strength is a ranking (carboxylic acid &gt; phenol &gt; alcohol)",
+   "new": "<li>No reaction mechanisms with curved arrows, no R/S, no E/Z names, no meso compounds, no pK<sub>a</sub> values or Henderson&ndash;Hasselbalch calculations. No Newman projections or chair flips (one chair drawing of cyclohexane illustrates that rings are not flat); a conformation is taught only as &ldquo;the same molecule, not an isomer.&rdquo; Acid strength is a ranking (carboxylic acid &gt; phenol &asymp; thiol &gt; alcohol &asymp; water)",
+   "count": 1
+  }
+ ],
+ "597272": [
+  {
+   "old": "<a title=\"Organic Chemistry\" href=\"/@go/page/597059\">1.6</a>, <a title=\"Organic Chemistry\" href=\"/@go/page/597065\">2.1</a>, <a title=\"Organic Compounds with Functional Groups\" href=\"/@go/page/597090\">4.1</a>",
+   "new": "<a title=\"Organic Chemistry\" href=\"/@go/page/597059\">1.6</a>, <a title=\"Organic Compounds with Functional Groups\" href=\"/@go/page/597090\">4.1</a>",
+   "count": 1
+  },
+  {
+   "old": "<a title=\"Chemical Properties of Alkenes\" href=\"/@go/page/597081\">3.4</a>, <a title=\"Aromatic Compounds- Benzene\" href=\"/@go/page/597084\">3.7</a>, <a title=\"Reactions of Alcohols\" href=\"/@go/page/597094\">4.5</a></td>",
+   "new": "<a title=\"Chemical Properties of Alkanes\" href=\"/@go/page/597071\">2.7</a>, <a title=\"Chemical Properties of Alkenes\" href=\"/@go/page/597081\">3.4</a>, <a title=\"Aromatic Compounds- Benzene\" href=\"/@go/page/597084\">3.7</a>, <a title=\"Reactions of Alcohols\" href=\"/@go/page/597094\">4.5</a></td>",
+   "count": 1
+  },
+  {
+   "old": "polycyclic aromatic hydrocarbons</td><td data-th=\"Book sections\"><a title=\"Aromatic Compounds- Benzene\" href=\"/@go/page/597084\">3.7</a>",
+   "new": "polycyclic aromatic hydrocarbons</td><td data-th=\"Book sections\"><a title=\"Physical Properties of Alkenes\" href=\"/@go/page/597080\">3.3</a>, <a title=\"Aromatic Compounds- Benzene\" href=\"/@go/page/597084\">3.7</a>",
+   "count": 1
+  },
+  {
+   "old": "constitutional isomers</td><td data-th=\"Book sections\"><a title=\"Organic Compounds with Functional Groups\" href=\"/@go/page/597090\">4.1</a>, <a title=\"Alcohols - Nomenclature and Classification\" href=\"/@go/page/597091\">4.2</a>",
+   "new": "constitutional isomers</td><td data-th=\"Book sections\"><a title=\"Alcohols - Nomenclature and Classification\" href=\"/@go/page/597091\">4.2</a>, <a title=\"Introduction to stereochemistry\" href=\"/@go/page/597106\">5.5</a>",
+   "count": 1
+  },
+  {
+   "old": "<a title=\"Hydrolysis of Esters\" href=\"/@go/page/597116\">6.8</a>, <a title=\"Esters of Phosphoric Acid\" href=\"/@go/page/597117\">6.9</a>",
+   "new": "<a title=\"Hydrolysis of Esters\" href=\"/@go/page/597116\">6.8</a>",
+   "count": 1
+  },
+  {
+   "old": "<a title=\"Carbohydrates\" href=\"/@go/page/597134\">8.1</a>, <a title=\"Important Hexoses\" href=\"/@go/page/597136\">8.3</a>",
+   "new": "<a title=\"Carbohydrates\" href=\"/@go/page/597134\">8.1</a>, <a title=\"Important Hexoses\" href=\"/@go/page/597136\">8.3</a>, <a title=\"Properties of Monosaccharides\" href=\"/@go/page/597138\">8.5</a>",
+   "count": 1
+  },
+  {
+   "old": "Properties of lipids</td><td data-th=\"Book sections\"><a title=\"Fats and Oils\" href=\"/@go/page/597145\">9.2</a>",
+   "new": "Properties of lipids</td><td data-th=\"Book sections\"><a title=\"Fatty Acids\" href=\"/@go/page/597144\">9.1</a>",
+   "count": 1
+  },
+  {
+   "old": "<a title=\"Reactions of Amino Acids\" href=\"/@go/page/597156\">10.3</a>, <a title=\"Peptides\" href=\"/@go/page/597157\">10.4</a>",
+   "new": "<a title=\"Peptides\" href=\"/@go/page/597157\">10.4</a>, <a title=\"Primary structure of proteins\" href=\"/@go/page/597159\">10.6</a>",
+   "count": 1
+  },
+  {
+   "old": "<a title=\"Biosynthesis of Nonessential Amino Acids\" href=\"/@go/page/597217\">15.11</a></td></tr>",
+   "new": "<a title=\"Biosynthesis of Nonessential Amino Acids\" href=\"/@go/page/597217\">15.11</a></td></tr>\n<tr><td data-th=\"Outline item\">17.5</td><td data-th=\"Topic\">Overlap of molecules between metabolic pathways (glucogenic and ketogenic carbon skeletons)</td><td data-th=\"Book sections\"><a title=\"Fates of the Amino Acid Carbon Skeletons\" href=\"/@go/page/597210\">15.4</a></td></tr>",
+   "count": 1
+  }
+ ],
+ "597086": [
+  {
+   "old": "<h2 class=\"editable\">Reactions at a Glance: Alkenes</h2>",
+   "new": "<h2 class=\"editable\">Reactions at a Glance: Alkenes and Benzene</h2>",
+   "count": 1
+  },
+  {
+   "old": "making an alcohol.</td><td><a href=\"/@go/page/597081\">Section 3.4</a></td></tr>",
+   "new": "making an alcohol.</td><td><a href=\"/@go/page/597081\">Section 3.4</a></td></tr>\n<tr><td><strong>Addition polymerization</strong></td><td>Many alkene molecules (monomers) add to one another: each C=C opens and bonds to the next monomer, with no atoms lost. n CH<sub>2</sub>=CH<sub>2</sub> &rarr; &ndash;(CH<sub>2</sub>&ndash;CH<sub>2</sub>)<sub>n</sub>&ndash; (polyethylene).</td><td><a href=\"/@go/page/597082\">Section 3.5</a></td></tr>\n<tr><td><strong>Halogenation of benzene (substitution)</strong></td><td>Br<sub>2</sub> with FeBr<sub>3</sub> (or Cl<sub>2</sub> with FeCl<sub>3</sub>) replaces one ring H with Br (or Cl): bromobenzene + HBr. The aromatic ring survives.</td><td><a href=\"/@go/page/597084\">Section 3.7</a></td></tr>\n<tr><td><strong>Nitration of benzene (substitution)</strong></td><td>HNO<sub>3</sub> with H<sub>2</sub>SO<sub>4</sub> replaces one ring H with &ndash;NO<sub>2</sub>: nitrobenzene + H<sub>2</sub>O.</td><td><a href=\"/@go/page/597084\">Section 3.7</a></td></tr>\n<tr><td><strong>Sulfonation of benzene (substitution)</strong></td><td>SO<sub>3</sub> in H<sub>2</sub>SO<sub>4</sub> replaces one ring H with &ndash;SO<sub>3</sub>H: benzenesulfonic acid (SO<sub>3</sub> is added whole, so there is no other product).</td><td><a href=\"/@go/page/597084\">Section 3.7</a></td></tr>",
+   "count": 1
+  }
+ ],
+ "597093": [
+  {
+   "old": "The main reason for methanol&rsquo;s toxicity is that we have liver enzymes that catalyze its oxidation to formaldehyde, the simplest member of the ",
+   "new": "Methanol itself is only mildly toxic; the danger comes from what liver enzymes make from it. They first oxidize it to formaldehyde, the simplest member of the ",
+   "count": 1
+  },
+  {
+   "old": "<p>Formaldehyde reacts rapidly with the components of cells, coagulating proteins in much the same way that cooking coagulates an egg. This property of formaldehyde accounts for much of the toxicity of methanol.</p>",
+   "new": "<p>The formaldehyde is quickly oxidized further to formic acid, which is present in the body as the formate ion. Formate is the main poison: it causes metabolic acidosis (blood pH below normal) and damages the optic nerve, which is why methanol can cause blindness. The first-line antidote is fomepizole, a drug that blocks alcohol dehydrogenase so that methanol is not converted to these products; ethanol was the older alternative (Section 4.5).</p>",
+   "count": 1
+  }
+ ],
+ "597105": [
+  {
+   "old": "Methanal produced by the oxidation of methanol is a poisonous substance that damages many tissues and causes blindness.",
+   "new": "Methanol is oxidized to methanal (formaldehyde) and then to formic acid. Formic acid, present in the body as formate, is the main poison: it causes metabolic acidosis and damages the optic nerve, which can cause blindness.",
+   "count": 1
+  },
+  {
+   "old": "In cases of methanol poisoning, ethanol is injected intravenously into the patient to compete with methanol for alcohol dehydrogenase enzyme. This way, methanol is excreted before converting to poisonous methanal in the body.",
+   "new": "In methanol poisoning, the first-line antidote is fomepizole, a drug that blocks alcohol dehydrogenase. Ethanol, which competes with methanol for the same enzyme, was the older alternative. Either way, methanol is excreted unchanged before it can be converted to its toxic products.",
+   "count": 1
+  }
+ ],
+ "597106": [
+  {
+   "old": "<li>Name the three kinds of constitutional isomers (skeletal, positional and functional group) and the kinds of stereoisomers used in this course (cis&ndash;trans isomers, enantiomers and diastereomers).</li>",
+   "new": "<li>Name the three kinds of constitutional isomers (skeletal, positional and functional group) and the kinds of stereoisomers used in this course (cis&ndash;trans isomers, enantiomers and diastereomers).</li>\n<li>Identify and count the chiral carbons in a molecule, and use 2<sup><em>n</em></sup> to find the maximum number of stereoisomers.</li>\n<li>Tell whether two stereoisomers are enantiomers or diastereomers.</li>\n<li>Read a Fischer projection and assign D or L from the chiral carbon farthest from the C=O.</li>",
+   "count": 1
+  },
+  {
+   "old": "<figure><img alt=\"Flowchart classifying isomers. Starting from 'same molecular formula?', compounds with different connectivity are constitutional isomers (skeletal, functional group, or positional, each with examples), while those with the same connectivity are stereoisomers, which are either conformational isomers (rotation about single bonds) or configurational isomers; configurational isomers are enantiomers (nonsuperimposable mirror images) or diastereomers (including cis-trans isomers), illustrated with small structures and molecular models.\" class=\"internal\" src=\"/@api/deki/files/429016/clipboard_e41c1145cb3eec56b1a0ce415ecac6ad6.png\" fileid=\"429016\" />\n<figcaption>Figure \\(\\PageIndex{1}\\): Classification of isomers. (Copyright; Public domain)</figcaption>\n</figure>",
+   "new": "<figure>\n<ul>\n<li><strong>Same molecular formula?</strong> If not, the compounds are not isomers.</li>\n<li><strong>Constitutional isomers</strong>: the atoms are bonded in a different order.\n<ul>\n<li>Skeletal isomers: different carbon skeletons (butane and 2-methylpropane).</li>\n<li>Functional group isomers: different functional groups (propan-1-ol and methoxyethane).</li>\n<li>Positional isomers: the same functional group in a different position (propan-1-ol and propan-2-ol).</li>\n</ul>\n</li>\n<li><strong>Stereoisomers</strong>: the atoms are bonded in the same order but arranged differently in space.\n<ul>\n<li>Cis&ndash;trans isomers: groups on the same side or on opposite sides of a C=C or a ring (cis- and trans-but-2-ene).</li>\n<li>Enantiomers: nonsuperimposable mirror images (D- and L-glyceraldehyde).</li>\n<li>Diastereomers: stereoisomers with two or more chiral carbons that are not mirror images.</li>\n</ul>\n</li>\n<li><strong>Not isomers: conformations.</strong> The shapes a molecule takes by rotating about its single bonds are the same molecule, not isomers.</li>\n</ul>\n<figcaption>Figure \\(\\PageIndex{1}\\): Classification of isomers used in this course.</figcaption>\n</figure>",
+   "count": 1
+  },
+  {
+   "old": "<p>For example, D-glyceraldehyde and L-glyceraldehyde shown above are enantiomers of each other. Imagine there is a mirror between D- and L-glyceraldehyde shown above. You will notice that they are mirror images of each other. If you try to overlap L-glyceraldehyde onto D-glyceraldehyde, two groups may overlap, but the other two will not overlap, no matter how you may rotate the molecule. D- and L- represent two different configurations of glyceraldehyde shown in Figure \\(\\PageIndex{2}\\). Enantiomers are chiral molecules.</p>",
+   "new": "<p>For example, D-glyceraldehyde and L-glyceraldehyde are enantiomers of each other; their Fischer projections are in Figure 5.5.4, later in this section. Imagine a mirror between them: each one is the mirror image of the other. If you try to lay L-glyceraldehyde on top of D-glyceraldehyde, two groups may overlap, but the other two will not, no matter how you rotate the molecule. D- and L- name the two different configurations of glyceraldehyde. Enantiomers are chiral molecules.</p>",
+   "count": 1
+  },
+  {
+   "old": "<p>For example, cis-but-2-ene and trans-but-2-ene shown in Figure \\(\\PageIndex{2}\\) are diastereomers because they have the same formula, and the same atom-connectivity, but methyl groups are oriented in the same direction in cis- and in opposite directions in trans-isomer, they do not mirror each other. The cis- and trans- represent two different configurations of but-2-ene as shown in Figure \\(\\PageIndex{2}\\).</p>",
+   "new": "<p>For example, the four stereoisomers of 2,3,4-trihydroxybutanal in Figure 5.5.3, later in this section, each have two chiral carbons. Pairs that differ at only one of the two chiral carbons are not mirror images, so they are diastereomers. Cis- and trans-but-2-ene (Figure \\(\\PageIndex{2}\\)) stay in their own category, cis&ndash;trans isomers.</p>",
+   "count": 1
+  },
+  {
+   "old": "Only one of them, (&ndash;)-menthol, gives the strong minty cooling; its enantiomer, (+)-menthol, smells musty and barely cools.",
+   "new": "Only one of them, the natural menthol made by mint plants, gives the strong minty cooling; its enantiomer (mirror image) smells musty and barely cools.",
+   "count": 1
+  }
+ ],
+ "597108": [
+  {
+   "old": "True. Stereoisomers that are mirror images are enantiomers; any stereoisomers that are <em>not</em> mirror images (for example cis and trans isomers) are diastereomers.",
+   "new": "True. Stereoisomers that are mirror images are enantiomers; stereoisomers with chiral carbons that are <em>not</em> mirror images (they differ at some, but not all, of their chiral carbons) are diastereomers. In this course, cis and trans isomers are kept in their own category, cis&ndash;trans isomers.",
+   "count": 1
+  }
+ ],
+ "597102": [
+  {
+   "old": "the ketone bodies of Chapter 15 are ketones with an acid or a second alcohol.",
+   "new": "the ketone bodies of Chapter 15 include acetoacetic acid (a ketone and a carboxylic acid) and &beta;-hydroxybutyric acid (an alcohol and a carboxylic acid, with no ketone despite its name).",
+   "count": 1
+  }
+ ],
+ "597127": [
+  {
+   "old": "<p>Amide bonds in drugs survive stomach acid for the hour or two they spend there and are broken down later, mainly in the liver, which is why amide drugs such as acetaminophen survive the stomach when given by mouth and why amide anesthetics such as lidocaine last longer than ester anesthetics. Ester drugs, by contrast, are attacked quickly by esterases in plasma. Liver disease slows amide hydrolysis, so a patient's liver enzymes (ALT/AST) matter when these drugs are dosed; that judgment belongs to the prescriber, but the chemistry behind it is this section.</p>",
+   "new": "<p>Amide bonds survive the hour or two a drug spends in stomach acid, which is one reason amide drugs such as acetaminophen can be given by mouth. Amide drugs are then cleared mainly by enzymes in the liver, and not always by cutting the amide bond: acetaminophen is mostly cleared by attaching a glucuronide or sulfate group to its phenol OH, and lidocaine is broken down by liver enzymes. Ester drugs, by contrast, are hydrolyzed quickly by esterases in plasma. Liver disease slows the metabolism of amide drugs, so a patient's liver function matters when these drugs are dosed; that judgment belongs to the prescriber.</p>",
+   "count": 1
+  }
+ ],
+ "597121": [
+  {
+   "old": "alt=\"CH3CH2NCH3 (ethyl in red, methyl in green) with a CH3 (green) below the N: ethyldimethylamine, with the groups color-coded for naming.\"",
+   "new": "alt=\"CH3CHNCH3 with a CH3 below the CH and a CH3 above the N: isopropyldimethylamine, a tertiary amine, with the isopropyl group in red and the two methyl groups in green.\"",
+   "count": 1
+  },
+  {
+   "old": "alt=\"CH3CH-CHCH3 with NH2 below the second carbon and CH3 below the third: 3-methyl-2-butanamine.\"",
+   "new": "alt=\"CH3CH-CHCH2CH3 with NH2 below the second carbon and CH3 below the third: 3-methyl-2-pentanamine.\"",
+   "count": 1
+  }
+ ],
+ "597113": [
+  {
+   "old": "(<em>Z</em>)-3-hexenyl acetate",
+   "new": "cis-3-hexenyl acetate",
+   "count": 1
+  }
+ ],
+ "597114": [
+  {
+   "old": "<strong>alkane &lt; ester &asymp; aldehyde/ketone &lt; alcohol &lt; carboxylic acid</strong>",
+   "new": "<strong>alkane &lt; ester &lt; aldehyde/ketone &lt; alcohol &lt; carboxylic acid</strong> (esters boil a little lower than aldehydes and ketones of similar size)",
+   "count": 1
+  },
+  {
+   "old": "Esters therefore boil lower than alcohols and carboxylic acids and about the same as aldehydes and ketones of similar size, but higher than alkanes.",
+   "new": "Esters therefore boil lower than alcohols and carboxylic acids, a little lower than aldehydes and ketones of similar size, and higher than alkanes.",
+   "count": 1
+  }
+ ],
+ "597111": [
+  {
+   "old": "<strong>alkane &lt; ester &asymp; aldehyde/ketone &lt; alcohol &lt; carboxylic acid</strong>",
+   "new": "<strong>alkane &lt; ester &lt; aldehyde/ketone &lt; alcohol &lt; carboxylic acid</strong> (esters boil a little lower than aldehydes and ketones of similar size)",
+   "count": 1
+  }
+ ],
+ "597119": [
+  {
+   "old": "Esters have no O&ndash;H, so they boil near aldehydes and ketones and only accept hydrogen bonds from water. Ranking at similar mass: <strong>alkane &lt; ester &asymp; aldehyde/ketone &lt; alcohol &lt; carboxylic acid</strong>",
+   "new": "Esters have no O&ndash;H, so they boil a little lower than aldehydes and ketones and only accept hydrogen bonds from water. Ranking at similar mass: <strong>alkane &lt; ester &lt; aldehyde/ketone &lt; alcohol &lt; carboxylic acid</strong>",
+   "count": 1
+  },
+  {
+   "old": "so its boiling point is near that of an aldehyde of similar mass.",
+   "new": "so its boiling point is a little lower than that of an aldehyde of similar mass.",
+   "count": 1
+  }
+ ],
+ "597120": [
+  {
+   "old": "nearly the same boiling point; esters sit near aldehydes and well below alcohols.",
+   "new": "nearly the same boiling point. Esters boil a little lower than aldehydes of similar mass (pentanal, 103 &deg;C) and well below alcohols.",
+   "count": 2
+  },
+  {
+   "old": ": counting the COOH carbon, both acids have the same branched five-carbon skeleton (the skeleton of 2-methylbutane); only the place where the COOH group sits on that skeleton differs.",
+   "new": ": both are C<sub>5</sub>H<sub>10</sub>O<sub>2</sub> acids with a four-carbon chain ending in the COOH group (always C1); only the position of the methyl branch differs (C2 vs. C3).",
+   "count": 2
+  }
+ ],
+ "597126": [
+  {
+   "old": "Esterification and ester hydrolysis (Chapter 6) are the same reaction type; all acyl compounds (acids, esters, amides) share it.",
+   "new": "Esterification and ester hydrolysis (Chapter 6) are the same reaction type, called <strong>nucleophilic acyl substitution</strong>: the group on the acyl carbon (&ndash;OH or &ndash;OR) is replaced by another group. All acyl compounds (acids, esters, amides) share it.",
+   "count": 1
+  }
+ ],
+ "597100": [
+  {
+   "old": "A tertiary alcohol does not react.</td><td><a href=\"/@go/page/597094\">Section 4.5</a></td></tr>\n</tbody></table>",
+   "new": "A tertiary alcohol does not react.</td><td><a href=\"/@go/page/597094\">Section 4.5</a></td></tr>\n<tr><td><strong>Hydration (making an alcohol)</strong></td><td>H<sub>2</sub>O with an acid catalyst adds across a C=C as H and OH (Markovnikov&rsquo;s rule); an alkene becomes an alcohol (the reverse of dehydration).</td><td><a href=\"/@go/page/597093\">Section 4.4</a></td></tr>\n<tr><td><strong>Combustion of an alcohol</strong></td><td>O<sub>2</sub> and a flame: the alcohol burns to CO<sub>2</sub> and H<sub>2</sub>O. Count the alcohol&rsquo;s own oxygen when balancing.</td><td><a href=\"/@go/page/597094\">Section 4.5</a></td></tr>\n<tr><td><strong>Oxidation of a thiol</strong></td><td>[O]: two thiols lose their S&ndash;H hydrogens and join as a disulfide, 2 R&ndash;SH &rarr; R&ndash;S&ndash;S&ndash;R. [H] reverses it.</td><td><a href=\"/@go/page/597098\">Section 4.9</a></td></tr>\n</tbody></table>",
+   "count": 1
+  }
+ ],
+ "597107": [
+  {
+   "old": "and H<sub>2</sub>O is released.</td><td><a href=\"/@go/page/597104\">Section 5.3</a></td></tr>\n</tbody></table>",
+   "new": "and H<sub>2</sub>O is released.</td><td><a href=\"/@go/page/597104\">Section 5.3</a></td></tr>\n<tr><td><strong>Hydrolysis of an acetal or hemiacetal</strong></td><td>H<sub>2</sub>O and an acid catalyst split an acetal into the aldehyde or ketone and two alcohols; a hemiacetal splits into the carbonyl compound and one alcohol.</td><td><a href=\"/@go/page/597104\">Section 5.3</a></td></tr>\n</tbody></table>",
+   "count": 1
+  }
+ ],
+ "597164": [
+  {
+   "old": "Nine are essential (must come from food);",
+   "new": "Ten are essential (must come from food; this course counts arginine as the tenth);",
+   "count": 1
+  }
+ ],
+ "597144": [
+  {
+   "old": "CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>(CH<sub>2</sub>CH=CH)<sub>4</sub>(CH<sub>2</sub>)<sub>2</sub>COOH",
+   "new": "CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>(CH=CHCH<sub>2</sub>)<sub>4</sub>(CH<sub>2</sub>)<sub>2</sub>COOH",
+   "count": 1
+  }
+ ],
+ "597139": [
+  {
+   "old": "If galactosemia is recognized in early infancy, its effects can be prevented by the exclusion of milk and all other sources of galactose from the diet. As a child with galactosemia grows older, he or she usually develops an alternate pathway for metabolizing galactose, so the need to restrict milk is not permanent.",
+   "new": "If galactosemia is recognized in early infancy (U.S. newborns are screened for it), its life-threatening effects can be prevented by removing milk and all other sources of galactose from the diet. This galactose-restricted diet is continued for life.",
+   "count": 1
+  },
+  {
+   "old": "however, adults usually have a less active form of the enzyme, and about 70% of the world&rsquo;s adult population has some deficiency in its production.",
+   "new": "however, in many people the small intestine makes much less lactase after early childhood (see the Valley Connection below for how common this is).",
+   "count": 1
+  },
+  {
+   "old": " Up to 20% of the <abbr title=\"United States\">US</abbr> population suffers some degree of lactose intolerance.",
+   "new": "",
+   "count": 1
+  },
+  {
+   "old": "the OH groups at the linkages point down (alpha) from ring 1 and up (beta) from ring 2, and ring 3 has a free anomeric OH.",
+   "new": "the bond from ring 1's anomeric carbon to the linking O points up (beta), the bond from ring 2's anomeric carbon to the next linking O points down (alpha), and ring 3 has a free anomeric OH.",
+   "count": 1
+  },
+  {
+   "old": "the linking O from ring 1 points up (beta) and from ring 2 points down (alpha), and ring 3 has a free anomeric OH.",
+   "new": "the bond from ring 1's anomeric carbon to the linking O points up (beta), the bond from ring 2's anomeric carbon to the next linking O also points up (beta), and ring 3 has a free anomeric OH.",
+   "count": 1
+  }
+ ],
+ "597163": [
+  {
+   "old": "coagulates the proteins inside, which is why it sterilizes.",
+   "new": "coagulates the proteins inside, which is why it disinfects (it kills most microbes but does not sterilize).",
+   "count": 1
+  },
+  {
+   "old": "<p>Prions are small proteins found in nerve tissue. Their exact functions are unknown, but when they misfold, they can cause more normal proteins to misfold. This protein misfolding is related to diseases such as mad cow disease in cows, Creutzfeldt&ndash;Jakob disease in humans, Alzheimer's disease, and familial amyloid cardiomyopathy or polyneuropathy, as well as intracellular aggregation diseases such as Huntington's and Parkinson's disease.</p>",
+   "new": "<p>Prions are misfolded forms of a normal protein found in nerve tissue (the prion protein). A misfolded prion can make normal copies of the same protein misfold too, so the damage spreads. Prions cause mad cow disease in cattle and Creutzfeldt&ndash;Jakob disease (CJD) in humans.</p>\n\n<p>Other diseases also involve misfolded proteins that clump together, but they are not prion diseases. Examples are Alzheimer's disease (&beta;-amyloid plaques), Parkinson's disease, Huntington's disease, and familial amyloid cardiomyopathy or polyneuropathy.</p>",
+   "count": 1
+  },
+  {
+   "old": "the misfolded form is rich in sticky &beta;-sheet, it converts normal copies into the same shape, and the aggregates survive the heat of ordinary sterilization.",
+   "new": "the misfolded form is rich in sticky &beta;-sheet and clumps together. Prions go further: a prion converts normal copies of its protein into the same shape, and prion aggregates survive the heat of ordinary sterilization.",
+   "count": 1
+  }
+ ],
+ "597146": [
+  {
+   "old": "Pulmonary surfactants, composed of a mixture of lecithin and sphingomyelin lipids, are released into the lungs of newborn babies that reduce the surface tension and ease the inflation of alveoli. Lecithins are mixtures of glycerophospholipids, including phosphatidylcholine, phosphatidylethanolamine, phosphatidylinositol, phosphatidylserine (shown in Figure \\(\\PageIndex{2}\\)) and phosphatidic acid shown in the figure on the right.",
+   "new": "Lung (pulmonary) surfactant lines the alveoli. It lowers the surface tension of the watery lining and makes the alveoli easier to inflate. Surfactant is mostly phospholipid, with some proteins. Its main component is a lecithin (phosphatidylcholine) with two saturated tails, dipalmitoylphosphatidylcholine (DPPC); other phospholipids are also present. Remember that lecithin means phosphatidylcholine. Phosphatidic acid, shown in the figure on the right, is the simplest glycerophospholipid: its phosphate carries no amino alcohol.",
+   "count": 1
+  },
+  {
+   "old": "In the cases of premature birth, before 28 weeks of gestation, the level of the surfactant is insufficient, causing the air sacs to collapse and have to reopen with each breathing,",
+   "new": "Babies born too early (preterm) may not yet make enough surfactant. The risk is highest in babies born before about 28 weeks of gestation and is still significant up to about 34 weeks. Without enough surfactant, the air sacs collapse and have to reopen with each breath,",
+   "count": 1
+  },
+  {
+   "old": "The lecithin to sphingomyelin ratio in mature fetal lungs is ~2.5, the ratio 2.4 to 1.6 poses a low risk, and less than 1.5 poses a high risk of infant respiratory distress syndrome. Treatment includes steroids given to the mother or infant to assist the development of lungs, the application of surfactants, and the use of a ventilator to help breathing.",
+   "new": "One older test of fetal lung maturity measures the lecithin-to-sphingomyelin (L/S) ratio in the amniotic fluid; an L/S ratio of about 2 or more suggests the lungs are mature. Prevention and treatment include corticosteroids given to the mother before an expected preterm birth (to speed lung development), surfactant given into the baby's lungs, and breathing support such as a ventilator.",
+   "count": 1
+  }
+ ],
+ "597154": [
+  {
+   "old": ">almost as strong a base as sodium hydroxide</td>",
+   "new": ">the most strongly basic side chain (a guanidinium group); +1 at pH 7.4</td>",
+   "count": 1
+  },
+  {
+   "old": "or extra nitrogen that can hydrogen-bond or carry a charge)",
+   "new": "or an extra amine-type nitrogen that can hydrogen-bond or carry a charge)",
+   "count": 1
+  },
+  {
+   "old": "<li><strong>Basic:</strong> contains an N (or N<sup>+</sup>) on the side chain with an available lone pair. His, Lys, Arg.</li>",
+   "new": "<li><strong>Basic:</strong> the side chain has an amine-type nitrogen that can pick up H<sup>+</sup>. Only three are basic: His, Lys, Arg. The amide N of Asn and Gln and the ring N of Trp do not pick up H<sup>+</sup>, so they are not basic.</li>",
+   "count": 1
+  }
+ ],
+ "597155": [
+  {
+   "old": "<p>Think of the two ends as switches: the carboxyl switch flips from &ndash;COOH to &ndash;COO<sup>&minus;</sup> at about pH 2, and the amino switch flips from &ndash;NH<sub>3</sub><sup>+</sup> to &ndash;NH<sub>2</sub> at about pH 9&ndash;10. Between the two flips (which includes blood at pH 7.4) the zwitterion is the main form.</p>",
+   "new": "<p>Only strong acid puts an H<sup>+</sup> back on the carboxylate, and only strong base takes the H<sup>+</sup> off the ammonium group. In between, including blood at pH 7.4, the zwitterion is the main form.</p>",
+   "count": 1
+  },
+  {
+   "old": "The pI sits halfway between the pH at which the carboxyl group gives up its H<sup>+</sup> (about 2) and the pH at which the ammonium group gives up its H<sup>+</sup> (about 9&ndash;10), which is why neutral amino acids have pI values near 6.",
+   "new": "Amino acids with a neutral R group have pI values near 6.",
+   "count": 1
+  }
+ ],
+ "597157": [
+  {
+   "old": "the aspartate side chain, an acidic R group with pI near 3, is also",
+   "new": "the aspartate side chain, an acidic R group (a carboxylic acid, which loses its H<sup>+</sup> at body pH), is also",
+   "count": 1
+  }
+ ],
+ "597159": [
+  {
+   "old": "The peptide bond has two resonance contributors, as shown below.",
+   "new": "The C&ndash;N peptide bond behaves partly like a double bond.",
+   "count": 1
+  },
+  {
+   "old": "Due to the resonance, the peptide bond has about 40% double bond character. There is no free rotation around the peptide bond due to its double bond character.",
+   "new": "Because of this, the peptide bond is planar and does not rotate.",
+   "count": 1
+  },
+  {
+   "old": "; shown in blue in the structure above)",
+   "new": ")",
+   "count": 1
+  },
+  {
+   "old": "<p class=\"mt-align-center\"><img alt=\"Two resonance contributors of the peptide bond connected by a double-headed arrow: on the left a C=O double bond and a C-N single bond; on the right, red curved arrows move electrons so the C-N becomes a double bond (N plus) and the oxygen carries a negative charge.\" class=\"internal\" src=\"/@api/deki/files/431968/clipboard_ec460cf1acff2449ad2cd8f4913cb30e9.png\" fileid=\"431968\" /></p>",
+   "new": "",
+   "count": 1
+  }
+ ],
+ "597158": [
+  {
+   "old": "The term <em>hydrophobic interaction</em> is often misused as a synonym for dispersion forces. Hydrophobic interactions arise because",
+   "new": "In this course, these attractions between nonpolar side chains are called <em>hydrophobic interactions</em>. They arise because",
+   "count": 1
+  }
+ ],
+ "597145": [
+  {
+   "old": "Lipase does this during digestion; complete metabolism",
+   "new": "Lipases inside fat cells do this completely when stored fat is used for energy. During digestion, pancreatic lipase in the small intestine stops partway: it releases 2 fatty acids and leaves a monoacylglycerol (Chapter 15). Complete metabolism",
+   "count": 1
+  }
+ ],
+ "597150": [
+  {
+   "old": "<strong>Problem.</strong> During digestion, lipase hydrolyzes a triacylglycerol",
+   "new": "<strong>Problem.</strong> Inside a fat cell, lipases completely hydrolyze a triacylglycerol",
+   "count": 1
+  },
+  {
+   "old": "hydrolysis followed by neutralization).</p>",
+   "new": "hydrolysis followed by neutralization). Digestion in the small intestine is different: pancreatic lipase removes only the two outer fatty acids (from C1 and C3) and leaves a monoacylglycerol (Chapter 15).</p>",
+   "count": 1
+  }
+ ],
+ "597151": [
+  {
+   "old": "(a) Write the products when it is hydrolyzed by lipase in the intestine.",
+   "new": "(a) Write the products when it is completely hydrolyzed with water and an acid catalyst.",
+   "count": 1
+  },
+  {
+   "old": "(a) is hydrolysis (water splits the three esters; the enzyme catalyzes it at body pH).",
+   "new": "(a) is hydrolysis (water splits the three esters; the acid is a catalyst). In the intestine, pancreatic lipase would stop partway, leaving a monoacylglycerol (Chapter 15).",
+   "count": 2
+  },
+  {
+   "old": "Lipase hydrolyzes the ester bonds, releasing fatty acids and glycerol.",
+   "new": "Lipase hydrolyzes the ester bonds, releasing fatty acids (and glycerol when hydrolysis is complete).",
+   "count": 2
+  }
+ ],
+ "597140": [
+  {
+   "old": "branches about every 10&ndash;15 units (more branched",
+   "new": "branches about every 8&ndash;12 units (more branched",
+   "count": 1
+  },
+  {
+   "old": "Glucose is hydrolyzed from the chain ends, and a highly branched molecule has many ends,",
+   "new": "The enzyme glycogen phosphorylase breaks glucose units off the chain ends, and a highly branched molecule has many ends,",
+   "count": 1
+  },
+  {
+   "old": "the liver hydrolyzes glucose from the many branch ends of its glycogen",
+   "new": "the liver breaks glucose units off the many branch ends of its glycogen",
+   "count": 1
+  }
+ ],
+ "597141": [
+  {
+   "old": "&alpha;(1&rarr;6) branches about every 10 glucose units and is stored in liver.",
+   "new": "&alpha;(1&rarr;6) branches about every 8 to 12 glucose units and is stored in liver.",
+   "count": 1
+  }
+ ],
+ "597137": [
+  {
+   "old": "<li>Explain what is meant by mutarotation.</li>",
+   "new": "<li>Explain what is meant by mutarotation.</li>\n    <li>Convert a Fischer projection to a Haworth projection and back, and label the &alpha; and &beta; anomers.</li>",
+   "count": 1
+  }
+ ],
+ "597169": [
+  {
+   "old": "<p><em>Chemotherapy</em> is the strategic use of chemicals (that is, drugs) to destroy infectious microorganisms or cancer cells without causing excessive damage to the other, healthy cells of the host. From bacteria to humans, the metabolic pathways of all living organisms are quite similar, so the search for safe and effective chemotherapeutic agents is a formidable task. Many well-established chemotherapeutic drugs function by inhibiting a critical enzyme in the cells of the invading organism.</p>",
+   "new": "<p>An <em>antibiotic</em> is a drug that kills bacteria or stops their growth. Many antibiotics work by inhibiting an enzyme that bacteria need but human cells do not have, so the drug harms the bacteria and leaves the patient&rsquo;s own cells alone.</p>",
+   "count": 1
+  },
+  {
+   "old": "\n\n<p>An <em>antibiotic</em> is a compound that kills bacteria; it may come from a natural source such as molds or be synthesized with a structure analogous to a naturally occurring antibacterial compound. Antibiotics constitute no well-defined class of chemically related substances, but many of them work by effectively inhibiting a variety of enzymes essential to bacterial growth.</p>",
+   "new": "",
+   "count": 1
+  },
+  {
+   "old": "<p>Penicillin, one of the most widely used antibiotics in the world, was fortuitously discovered by Alexander Fleming in 1928, when he noticed antibacterial properties in a mold growing on a bacterial culture plate. In 1938, Ernst Chain and Howard Florey began an intensive effort to isolate penicillin from the mold and study its properties. The large quantities of penicillin needed for this research became available through development of a corn-based nutrient medium that the mold loved and through the discovery of a higher-yielding strain of mold at a United States Department of Agriculture research center near Peoria, Illinois. Even so, it was not until 1944 that large quantities of penicillin were being produced and made available for the treatment of bacterial infections.</p>",
+   "new": "<p>Penicillin was discovered by Alexander Fleming in 1928, in a mold growing on a bacterial culture plate. It became the first antibiotic produced in large amounts, in the 1940s.</p>",
+   "count": 1
+  },
+  {
+   "old": "<p>Penicillin functions by interfering with the synthesis of cell walls of reproducing bacteria. It does so by inhibiting an enzyme&mdash;transpeptidase&mdash;that catalyzes the last step in bacterial cell-wall biosynthesis. The defective walls cause bacterial cells to burst. Human cells are not affected because they have cell membranes, not cell walls.</p>",
+   "new": "<p>Penicillin blocks the bacterial enzymes (transpeptidases) that cross-link the cell wall. The enzyme becomes covalently bonded to the drug, so penicillin is a good example of an <strong>irreversible inhibitor</strong>. With a weak wall, the bacterial cell bursts. Human cells have no cell wall and no transpeptidase, so they are not affected.</p>",
+   "count": 1
+  },
+  {
+   "old": "<p>Several naturally occurring penicillins have been isolated. They are distinguished by different R groups connected to a common structure: a four-member cyclic amide (called a lactam ring) fused to a five-member ring. The addition of appropriate organic compounds to the culture medium leads to the production of the different kinds of penicillin.</p>",
+   "new": "<p>All penicillins share a <strong>&beta;-lactam ring</strong>, a strained four-membered cyclic amide fused to a five-membered ring; they differ only in the R group (structures below). The cephalosporins are related &beta;-lactam antibiotics.</p>",
+   "count": 1
+  },
+  {
+   "old": "<p>The penicillins are effective against gram-positive bacteria (bacteria capable of being stained by Gram&rsquo;s stain) and a few gram-negative bacteria (including the intestinal bacterium <em>Escherichia coli</em>). They are effective in the treatment of diphtheria, gonorrhea, pneumonia, syphilis, many pus infections, and certain types of boils. Penicillin G was the earliest penicillin to be used on a wide scale. However, it cannot be administered orally because it is quite unstable; the acidic pH of the stomach converts it to an inactive derivative. The major oral penicillins&mdash;penicillin V, ampicillin, and amoxicillin&mdash;on the other hand, are acid stable.</p>",
+   "new": "<p>Penicillins work best against <strong>Gram-positive</strong> bacteria, which have a thick peptidoglycan cell wall and stain purple with Gram&rsquo;s stain; some, such as amoxicillin, also act on certain Gram-negative bacteria. Penicillin G is destroyed by stomach acid and is given by injection; penicillin V, ampicillin and amoxicillin are acid-stable and are taken by mouth.</p>\n\n<p><strong>Resistance.</strong> Some bacteria make &beta;-lactamase (penicillinase), an enzyme that hydrolyzes the amide in the &beta;-lactam ring and destroys the drug. Others, such as methicillin-resistant <em>Staphylococcus aureus</em> (MRSA), change the target enzyme so the drug no longer binds. Every unneeded antibiotic dose favors resistant bacteria, which is why hospitals and clinics practice <strong>antibiotic stewardship</strong>: the right drug, at the right dose, only when it is needed.</p>\n\n<p><strong>Allergy.</strong> A true penicillin allergy can cause <strong>anaphylaxis</strong>, a life-threatening reaction, so the allergy history is checked before every dose. However, most people whose charts say &ldquo;penicillin allergy&rdquo; turn out not to be allergic when they are tested, and an allergy evaluation can let them receive the most effective drug.</p>",
+   "count": 1
+  },
+  {
+   "old": "\n\n<p>Some strains of bacteria become resistant to penicillin through a mutation that allows them to synthesize an enzyme&mdash;penicillinase&mdash;that breaks the antibiotic down (by cleavage of the amide linkage in the lactam ring). To combat these strains, scientists have synthesized penicillin analogs (such as methicillin) that are not inactivated by penicillinase.</p>",
+   "new": "",
+   "count": 1
+  },
+  {
+   "old": "\n\n<p>Some people (perhaps 5% of the population) are allergic to penicillin and therefore must be treated with other antibiotics. Their allergic reaction can be so severe that a fatal coma may occur if penicillin is inadvertently administered to them. Fortunately, several other antibiotics have been discovered. Most, including aureomycin and streptomycin, are the products of microbial synthesis. Others, such as the semisynthetic penicillins and tetracyclines, are made by chemical modifications of antibiotics; and some, like chloramphenicol, are manufactured entirely by chemical synthesis. They are as effective as penicillin in destroying infectious microorganisms. Many of these antibiotics exert their effects by blocking protein synthesis in microorganisms.</p>",
+   "new": "",
+   "count": 1
+  },
+  {
+   "old": "\n\n<p>Initially, antibiotics were considered miracle drugs, substantially reducing the number of deaths from blood poisoning, pneumonia, and other infectious diseases. Some seven decades ago, a person with a major infection almost always died. Today, such deaths are rare. Seven decades ago, pneumonia was a dreaded killer of people of all ages. Today, it kills only the very old or those ill from other causes. Antibiotics have indeed worked miracles in our time, but even miracle drugs have limitations. Not long after the drugs were first used, disease organisms began to develop strains resistant to them. In a race to stay ahead of resistant bacterial strains, scientists continue to seek new antibiotics. The penicillins have now been partially displaced by related compounds, such as the cephalosporins and vancomycin. Unfortunately, some strains of bacteria have already shown resistance to these antibiotics.</p>",
+   "new": "",
+   "count": 1
+  },
+  {
+   "old": "; the end product of a pathway on its first enzyme (feedback inhibition, Section 11.6)</td>",
+   "new": "</td>",
+   "count": 1
+  },
+  {
+   "old": "in or away from the active site, which in this course we treat as irreversible inhibition;",
+   "new": "in or away from the active site, which in this course count as both irreversible and noncompetitive inhibitors;",
+   "count": 1
+  },
+  {
+   "old": "<td>Irreversible; binds &ndash;SH groups in or away from the active site</td>",
+   "new": "<td>Irreversible and noncompetitive; binds &ndash;SH groups in or away from the active site</td>",
+   "count": 1
+  },
+  {
+   "old": "Irreversible inhibitors to know: heavy metals, organophosphates, penicillin and aspirin.",
+   "new": "Irreversible inhibitors to know: heavy metals (which also count as noncompetitive), organophosphates, penicillin and aspirin.",
+   "count": 1
+  }
+ ],
+ "597166": [
+  {
+   "old": "&quot;Synthase&quot; (no ATP) is a lyase; &quot;synthetase&quot; (ATP) is a ligase.</p>",
+   "new": "As a general rule, &quot;synthase&quot; (no ATP) is a lyase and &quot;synthetase&quot; (ATP) is a ligase. The one exception in this course is <strong>citrate synthase</strong> (Chapter 14): it is classified as a <strong>ligase</strong>.</p>",
+   "count": 1
+  },
+  {
+   "old": "also <em>aldolase</em> and <em>synthase</em> (no ATP)</td>",
+   "new": "also <em>aldolase</em> and most <em>synthases</em> (no ATP; citrate synthase is the course exception, a ligase)</td>",
+   "count": 1
+  }
+ ],
+ "597173": [
+  {
+   "old": "aldolase, synthase), <strong>isomerase</strong>",
+   "new": "aldolase, most synthases), <strong>isomerase</strong>",
+   "count": 1
+  },
+  {
+   "old": "(ATP is spent and two molecules become one; synthetase, carboxylase).",
+   "new": "(ATP is spent and two molecules become one; synthetase, carboxylase; plus citrate synthase, the course exception).",
+   "count": 1
+  },
+  {
+   "old": "The name &quot;synthase&quot; (no ATP) is a lyase; &quot;synthetase&quot; (ATP) is a ligase.</li>",
+   "new": "As a rule, a &quot;synthase&quot; (no ATP) is a lyase and a &quot;synthetase&quot; (ATP) is a ligase; the one exception in this course is citrate synthase (Chapter 14), which is classified as a ligase.</li>",
+   "count": 1
+  },
+  {
+   "old": "maximum rate lowered (cyanide; feedback regulators).",
+   "new": "maximum rate lowered (cyanide; heavy-metal ions also count here). Feedback inhibition by a pathway&rsquo;s end product is allosteric regulation (Section 11.6), not one of these three inhibitor types.",
+   "count": 1
+  },
+  {
+   "old": "(heavy metals on &ndash;SH groups in or away from the active site,",
+   "new": "(heavy metals on &ndash;SH groups in or away from the active site, which count as both irreversible and noncompetitive;",
+   "count": 1
+  },
+  {
+   "old": "are poisons that bond to &ndash;SH groups and inhibit enzymes irreversibly.</li>",
+   "new": "are poisons that bond to &ndash;SH groups and inhibit enzymes irreversibly (and noncompetitively).</li>",
+   "count": 1
+  }
+ ],
+ "597171": [
+  {
+   "old": "(the same idea as noncompetitive inhibition in Section 11.4)",
+   "new": "(like a noncompetitive inhibitor, the regulator binds away from the active site, but it is the cell&rsquo;s own reversible switch, not a drug or poison; feedback inhibition, below, works this way)",
+   "count": 1
+  }
+ ],
+ "597174": [
+  {
+   "old": "so the inhibition is irreversible and the cell must make new enzyme.",
+   "new": "so the inhibition is irreversible, and because the metal does not compete with the substrate it also counts as noncompetitive; the cell must make new enzyme.",
+   "count": 2
+  }
+ ],
+ "597183": [
+  {
+   "old": "and the mRNA is hydrolyzed; it never enters the nucleus and cannot be reverse-transcribed by human cells, which have no reverse transcriptase.",
+   "new": "and the mRNA is hydrolyzed within days. It stays in the cytoplasm and never enters the nucleus, where our DNA is kept; it is not converted into DNA or added to our genes.",
+   "count": 1
+  },
+  {
+   "old": "based on where the mRNA goes and what human cells can and cannot do with it.",
+   "new": "based on where the mRNA goes and how long it lasts.",
+   "count": 1
+  },
+  {
+   "old": "Human cells have no reverse transcriptase to copy RNA into DNA and no way to insert it into a chromosome, and the mRNA is hydrolyzed within days.",
+   "new": "It is not converted into DNA or added to our genes, and nucleases break it down (hydrolyze it) within days.",
+   "count": 2
+  }
+ ],
+ "597185": [
+  {
+   "old": "Which enzyme is carried by HIV and has no counterpart in a healthy human cell, which makes it a safe drug target?",
+   "new": "Which enzyme does HIV carry to copy its RNA genome into DNA, making it a major target of HIV drugs?",
+   "count": 1
+  },
+  {
+   "old": "Reverse transcriptase copies the viral RNA genome into DNA, a step human cells never perform; drugs that inhibit it stop the virus without blocking a human enzyme.",
+   "new": "Reverse transcriptase copies the viral RNA genome into DNA so it can be inserted into the host&rsquo;s chromosomes. HIV drugs that inhibit it fit the viral enzyme much better than any human enzyme, so they stop the virus with few effects on the patient&rsquo;s cells.",
+   "count": 2
+  },
+  {
+   "old": "(b) which enzyme would be needed to copy RNA into DNA and why human cells cannot do it;",
+   "new": "(b) whether the cell turns the vaccine mRNA into DNA;",
+   "count": 1
+  },
+  {
+   "old": "(b) Copying RNA into DNA requires <strong>reverse transcriptase</strong>, an enzyme carried by retroviruses; human cells do not make it, so the information cannot flow backward from the mRNA into the chromosomes.",
+   "new": "(b) No. The vaccine mRNA is only read by ribosomes in the cytoplasm; it is not converted into DNA and is not added to the chromosomes in the nucleus. (Copying RNA into DNA is what retroviruses such as HIV do with their own enzyme, <strong>reverse transcriptase</strong>; the vaccine contains no such enzyme.)",
+   "count": 2
+  }
+ ],
+ "597180": [
+  {
+   "old": "Figure \\(\\PageIndex{1}\\): Three Types of Point Mutations.",
+   "new": "Figure \\(\\PageIndex{1}\\): Three Types of Mutations: substitution (a point mutation), insertion and deletion.",
+   "count": 1
+  },
+  {
+   "old": "<caption>Types of point mutations and their effects</caption>",
+   "new": "<caption>Types of mutations and their effects</caption>",
+   "count": 1
+  },
+  {
+   "old": "(by errors during replication, occurring approximately once for every 10 billion nucleotides)",
+   "new": "(by replication errors that escape proofreading and repair, about 1 in every 10 billion nucleotides copied)",
+   "count": 1
+  }
+ ],
+ "597177": [
+  {
+   "old": "so with the cell's repair enzymes the error rate is about one in a billion base pairs.",
+   "new": "so with the cell's repair enzymes the final error rate is only about 1 in 10 billion nucleotides.",
+   "count": 1
+  }
+ ],
+ "597192": [
+  {
+   "old": "As indicated earlier, the 58% of released energy that is not conserved enters",
+   "new": "The other 65% of the released energy is not conserved. It enters",
+   "count": 1
+  },
+  {
+   "old": "<p>There are two types of diabetes. In immune-mediated diabetes, insufficient amounts of insulin are produced. This type of diabetes develops early in life and is also known as <em>Type 1 diabetes</em>, as well as insulin-dependent or juvenile-onset diabetes. Symptoms are rapidly reversed by the administration of insulin, and Type 1 diabetics can lead active lives provided they receive insulin as needed. Because insulin is a protein that is readily digested in the small intestine, it cannot be taken orally and must be injected at least once a day.</p>",
+   "new": "<p>There are two main types of diabetes. In <em>type 1 diabetes</em>, the body&rsquo;s immune system destroys the insulin-making &beta; cells of the pancreas, so little or no insulin is made. It is most often found in children and young adults, but it can start at any age. People with type 1 diabetes need insulin every day for life, given by injection or by an insulin pump. Insulin is a protein, so it would be digested in the stomach and small intestine if it were swallowed.</p>",
+   "count": 1
+  },
+  {
+   "old": "<p>In Type 1 diabetes, insulin-producing cells of the pancreas are destroyed by the body&rsquo;s immune system. Researchers are still trying to find out why. Meanwhile, they have developed a simple blood test capable of predicting who will develop Type 1 diabetes several years before the disease becomes apparent. The blood test reveals the presence of antibodies that destroy the body&rsquo;s insulin-producing cells.</p>",
+   "new": "<p>A blood test for the antibodies that attack the &beta; cells can show who is at high risk of type 1 diabetes, sometimes years before symptoms begin.</p>",
+   "count": 1
+  },
+  {
+   "old": "<p><em>Type 2 diabetes</em>, also known as noninsulin-dependent or adult-onset diabetes, is by far the more common, representing about 95% of diagnosed diabetic cases. (Current CDC estimates are about 38 million Americans with diabetes, 90&ndash;95% of them type 2; see Section 13.8.) Type 2 diabetics usually produce sufficient amounts of insulin, but either the insulin-producing cells in the pancreas do not release enough of it, or it is not used properly because of defective insulin receptors or a lack of insulin receptors on the target cells. In many of these people, the disease can be controlled with a combination of diet and exercise alone. For some people who are overweight, losing weight is sufficient to bring their blood sugar level into the normal range, after which medication is not required if they exercise regularly and eat wisely.</p>",
+   "new": "<p><em>Type 2 diabetes</em> is by far the more common type: about 90&ndash;95% of people with diabetes have type 2. (Current CDC estimates are about 38 million Americans with diabetes; Section 13.7 gives the figures for Valley counties.) In type 2 diabetes the body still makes insulin, but muscle, fat, and liver cells respond poorly to it (<em>insulin resistance</em>), and over time the pancreas cannot make enough extra insulin to keep up. It usually develops slowly in adults, but it is now also seen in teenagers and children. Healthy eating, regular physical activity, and weight loss (for people who are overweight) lower blood glucose, and for some people they are enough on their own.</p>",
+   "count": 1
+  },
+  {
+   "old": "<p>Those who require medication may use oral antidiabetic drugs that stimulate the islet cells to secrete insulin. First-generation antidiabetic drugs stimulated the release of insulin. Newer second-generation drugs, such as glyburide, do as well, but they also increase the sensitivity of cell receptors to insulin. Some individuals with Type 2 diabetes do not produce enough insulin and thus do not respond to these oral medications; they must use insulin. In both Type 1 and Type 2 diabetes, the blood sugar level must be carefully monitored and adjustments made in diet or medication to keep the level as normal as possible (70&ndash;120 mg/dL).</p>",
+   "new": "<p>Many people with type 2 diabetes also take medicine. <strong>Metformin</strong>, usually the first drug used, lowers the amount of glucose the liver releases and helps cells respond better to insulin (Section 13.9). <strong>Sulfonylureas</strong>, such as glyburide (shown above), make the pancreas release more insulin; because they push insulin out even when the person has not eaten, they can cause low blood glucose. <strong>GLP-1 receptor agonists</strong> (for example, semaglutide) increase insulin release after meals, slow stomach emptying, and reduce appetite. <strong>SGLT2 inhibitors</strong> make the kidneys excrete more glucose in the urine. Many people with type 2 diabetes eventually need insulin as well. In every type of diabetes, blood glucose is checked often and diet and medicine are adjusted to keep it as close to normal as is safe. A normal fasting blood glucose is 70&ndash;99 mg/dL (Section 13.7).</p>",
+   "count": 1
+  }
+ ],
+ "597193": [
+  {
+   "old": "The accumulation of lactate makes muscles tire and sore.",
+   "new": "During hard exercise, lactate and H<sup>+</sup> build up in the muscle. The H<sup>+</sup>, not the lactate, contributes to the burning feeling and fatigue; lactate itself is a fuel, not a poison (Section 13.4). The soreness felt a day or two later comes from small injuries to the muscle fibers, not from lactate.",
+   "count": 1
+  }
+ ],
+ "597203": [
+  {
+   "old": "In each step, the electrons are transferred from a substance with a higher reduction potential to one with a lower reduction potential. Energy is released in each step proportional to the difference in the reduction potential.",
+   "new": "In each step, the electrons are passed to a carrier that holds them more tightly, that is, one with a higher (more positive) reduction potential. Energy is released in each step, and the bigger the difference between the two carriers, the more energy is released.",
+   "count": 1
+  },
+  {
+   "old": "At each step, electrons pass from a substance with a higher reduction potential to one with a lower one. Energy is released proportional to the difference in the reduction potentials.",
+   "new": "At each step, electrons pass to a carrier that holds them more tightly (a higher, more positive reduction potential); O<sub>2</sub> at the end of the chain holds them most tightly of all. Energy is released at each step, and more is released when the difference between the two carriers is larger.",
+   "count": 1
+  },
+  {
+   "old": "Adults usually do not have brown fat except those who live and work in a cold climate.",
+   "new": "Adults keep only small deposits of brown fat, mainly around the neck and shoulders (Section 15.6).",
+   "count": 1
+  }
+ ],
+ "597202": [
+  {
+   "old": "Recall that \\(\\ce{C=O}\\) is stronger bond (~800 kJ/mol bond dissociation energy) compared to \\(\\ce{C=C}\\) bond (~600 kJ/mole bond dissociation energy). \\(\\ce{NADH}\\) is more energetic than \\(\\ce{FADH2}\\). Therefore, any oxidation reaction involving carbonyl (\\(\\ce{C=O}\\)) group produces \\(\\ce{NADH}\\) and any oxidation involving \\(\\ce{C=C}\\) bond produces \\(\\ce{FADH2}\\).",
+   "new": "The rule is empirical: an oxidation that turns an alcohol into a carbonyl (\\(\\ce{C=O}\\)) group produces \\(\\ce{NADH}\\), and an oxidation that turns a \\(\\ce{C-C}\\) single bond into a \\(\\ce{C=C}\\) double bond produces \\(\\ce{FADH2}\\). \\(\\ce{NADH}\\) is worth more ATP than \\(\\ce{FADH2}\\) (2.5 versus 1.5, Section 14.4).",
+   "count": 1
+  }
+ ],
+ "597204": [
+  {
+   "old": "Burning one mole of glucose in a calorimeter releases about <strong>686 kcal</strong>.",
+   "new": "Burning one mole of glucose in a calorimeter releases about <strong>670 kcal</strong> (2,808 kJ, the value used in Section 13.1).",
+   "count": 1
+  },
+  {
+   "old": "an efficiency of 234/686 &asymp; <strong>34%</strong>. The remaining two-thirds leave as heat,",
+   "new": "an efficiency of 234/670 &asymp; <strong>35%</strong>. The remaining 65% (about two-thirds) leaves as heat,",
+   "count": 1
+  },
+  {
+   "old": "but 34% is the figure usually quoted.)",
+   "new": "but about 35% is the figure this book uses.)",
+   "count": 1
+  },
+  {
+   "old": "<li>About 34% of the 686 kcal/mol in glucose is captured as ATP; the rest is heat.</li>",
+   "new": "<li>About 35% of the 670 kcal/mol in glucose is captured as ATP; the rest is heat.</li>",
+   "count": 1
+  },
+  {
+   "old": "what percentage of the 686 kcal/mol is lost as heat?",
+   "new": "what percentage of the 670 kcal/mol is lost as heat?",
+   "count": 1
+  },
+  {
+   "old": "686 &minus; 234 = 452 kcal lost as heat, which is 452/686 = 66% (efficiency about 34%).",
+   "new": "670 &minus; 234 = 436 kcal lost as heat, which is 436/670 = 65% (efficiency about 35%).",
+   "count": 2
+  }
+ ],
+ "597205": [
+  {
+   "old": "Our cells are about <strong>34% efficient</strong>",
+   "new": "Our cells are about <strong>35% efficient</strong>",
+   "count": 1
+  }
+ ],
+ "597206": [
+  {
+   "old": "(d) Our cells convert about 34% of the energy in glucose",
+   "new": "(d) Our cells convert about 35% of the energy in glucose",
+   "count": 1
+  }
+ ],
+ "597195": [
+  {
+   "old": "an adult liver holds roughly 100 g of glycogen, enough for 12&ndash;24 hours.",
+   "new": "an adult liver holds roughly 100 g of glycogen, which is largely used up within about 12 to 24 hours.",
+   "count": 1
+  }
+ ],
+ "597197": [
+  {
+   "old": "When glycogen runs out after roughly 24 hours, gluconeogenesis is the only source left.",
+   "new": "When liver glycogen is largely used up, within about 12 to 24 hours, gluconeogenesis is the only source left.",
+   "count": 1
+  },
+  {
+   "old": "once glycogen is gone (about 24 h).",
+   "new": "once liver glycogen is used up (within about 12 to 24 hours).",
+   "count": 1
+  }
+ ],
+ "597219": [
+  {
+   "old": "With glycogen gone (about 12&ndash;18 hours),",
+   "new": "With liver glycogen largely used up (within about 12 to 24 hours),",
+   "count": 2
+  }
+ ],
+ "597209": [
+  {
+   "old": "alt=\"Adenosine triphosphate (ATP) reacts with a fatty acid carboxylate (the acylate attacks the alpha phosphate, red arrow) to give acyl adenylate (R-C(=O)-O-PO2 minus-O-Ad) plus pyrophosphate (PPi).\"",
+   "new": "alt=\"First part of fatty acid activation: a fatty acid carboxylate plus adenosine triphosphate (ATP) gives acyl adenylate (the fatty acid joined to AMP, R-C(=O)-O-PO2 minus-O-Ad) plus pyrophosphate (PPi).\"",
+   "count": 1
+  },
+  {
+   "old": "pyrophosphate is released, as shown below.",
+   "new": "pyrophosphate is released, as shown below. Overall, activation is: fatty acid + ATP + CoA &rarr; fatty acyl CoA + AMP + PP<sub>i</sub>.",
+   "count": 1
+  }
+ ],
+ "597218": [
+  {
+   "old": "liver, first step in the mitochondrial matrix and the rest in the cytosol.",
+   "new": "liver; the entry step (carbamoyl phosphate) and step 1 (citrulline) in the mitochondrial matrix, steps 2&ndash;4 in the cytosol.",
+   "count": 2
+  }
+ ],
+ "597191": [
+  {
+   "old": "<p><strong>Clinical Connection: Nursing (a)</strong></p>",
+   "new": "<p><strong>&ldquo;Practice: Why does carbohydrate digestion not take place&hellip;&rdquo;</strong></p>",
+   "count": 1
+  },
+  {
+   "old": "<p><strong>Clinical Connection: Nursing (b)</strong></p>",
+   "new": "<p><strong>&ldquo;Practice: Starch is converted to glucose during digestion&hellip;&rdquo;</strong></p>",
+   "count": 1
+  }
+ ],
+ "597200": [
+  {
+   "old": "<p><strong>Example 1: Carbon balance of one glucose</strong></p><div>Acetyl CoA.",
+   "new": "<p><strong>&ldquo;Practice: Through which intermediate does pyruvate enter&hellip;&rdquo;</strong></p><div>Acetyl CoA.",
+   "count": 1
+  }
+ ],
+ "597208": [
+  {
+   "old": "<p><strong>Example 1: Transamination</strong></p><div>(a) Type:",
+   "new": "<p><strong>&ldquo;Practice: Fill in the four columns for each reaction&hellip;&rdquo;</strong></p><div>(a) Type:",
+   "count": 1
+  }
+ ],
+ "597210": [
+  {
+   "old": "<p><strong>Professor Tip</strong></p><div>Alanine: glucogenic",
+   "new": "<p><strong>&ldquo;Practice: Transamination removes alanine&rsquo;s amino group&hellip;&rdquo;</strong></p><div>Alanine: glucogenic",
+   "count": 1
+  }
+ ]
+}
