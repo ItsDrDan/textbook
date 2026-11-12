@@ -325,3 +325,7 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - `drafts/` is kept, because README, LICENSE and `tools/answerkey.js` refer to it.
   - Three unused figures on LibreTexts could not be deleted (the deletion was blocked by the assistant's permission settings), so the instructor needs to remove them: fig-p597099-2.svg (512463, pKa scale), glycine_vs_acetic_acid_pKa.svg (512663) and fig-p597203-1.svg (512622).
 - **Needs the instructor:** page 597203 (14.4) has 15 unreferenced attachments that look like contract and licensing documents. They are SCFT contract, SCCCD AR3710 and CC compatibility chart scans (files 512635–512649). Check them and remove them if they were uploaded by mistake.
+- 2026-11-12, attachment cleanup on LibreTexts (instructor request). Deleted 18 unreferenced files; LibreTexts keeps deleted files in its archive.
+  - From 14.4 (597203): 9 SCFT contract and SCCCD AR3710 scans (512635–512639, 512641–512643, 512645) and 6 CC remix / adapter license charts (512640, 512644, 512646–512649). These were uploaded there by mistake.
+  - Unused figures: 512622 (14.4), 512463 (4.10 pKa scale) and 512663 (6.10 pKa comparison).
+  - Verified after deletion: 597203 and 597118 keep only their page thumbnails, and 597099 keeps its two figures still in use.
