@@ -131,3 +131,9 @@ Edited in the ADAPT question editor ("Automatically update the question" for own
 - fb-3B-0884 (ADAPT 355079, Ch 11): feedback says "allosteric regulation", not "allosteric (noncompetitive) regulation".
 - fb-3B-0895 (ADAPT 355090, Ch 11): answer is "Irreversible (noncompetitive) inhibition … permanently changes the enzyme's shape"; distractor "Noncompetitive inhibition" → "Reversible inhibition"; feedback explains heavy metals are also noncompetitive.
 Verified in My Questions and in the Ch 5/10/11 assignment views; correct answers unchanged. fb-3B-0396 is not in the ADAPT course.
+
+## 2026-11-11 late: instructor decisions applied
+- **Question bank license: CC BY 4.0** (LICENSE.md, README, adapt/README.md; Final Boss LICENSE has a CC BY 4.0 carve-out for the CHEM 3B questions, game still all rights reserved).
+- **Per-choice explanations (b2e68a8): approved** by the instructor ("all of them good").
+- **Scope:** "major product" and resonance-counting items stay. **Meso compounds removed:** fb-3B-0778, 0779, 0787, 0790, 0804–0809, 0811, 0812 deleted from bank/ (now 1,045), the ADAPT export files and Final Boss (v38). Meso wording taken out of 0402, 0777, 0782, 0810, 0813 (bank, exports, Final Boss, and the ADAPT course). **Still to do in ADAPT (instructor):** remove the 12 from "CHEM 3B Chapter 5" (assignment 223786; ADAPT ids 354867, 354868, 354876, 354878, 354891–354896, 354898, 354899). Removal was blocked for the assistant.
+- **9.3 lipids (597146):** the four glycerophospholipid images (from Malik's book) no longer loaded on LibreTexts. Redrawn with RDKit (POPC, POPE, POPS, POPI), uploaded to the page (files 512693–512696), figure now credited "Structures drawn by Daniel Kwasniewski; CC BY 4.0." Repo copies match live (SHA-256).
