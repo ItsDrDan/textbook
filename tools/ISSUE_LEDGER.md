@@ -185,3 +185,10 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
 - One-line mentions removed: 4.7, 4.9, 4.11, 4.12, 6.4, 6.11 (and concept-map alt), 13.4, 14.7. Glossary row and index entry removed. About This Book and For Instructors scope notes now name pKa as not covered.
 - Repo: Ch 6 concept map label "weak acids: pKa ≈ 4–5" → "weak acids: RCOO⁻ in body" (svg edited directly; generator updated; node not available here). Copies synced in `pages/`, `sections/`, `drafts/`.
 - Already pKa-free: question bank, Final Boss 3B items. Open: the ADAPT export list (`adapt/CHEM3B_ADAPT_question_list.csv`) still shows fb-3B-0078 with "pKa of about 3.9"; live ADAPT not checked. Also noted: `pages/live/597396 2.html` is a tracked Finder duplicate (left untouched).
+
+## 2026-11-11 night: PDF check of the 21:28 compile, and the last pKa traces
+- Checked the 21:28 compile (Full (4).pdf, now `CHEM3B-Full.pdf`, 1,347 pp; the 19:51 one is `CHEM3B-Full-2026-11-11-1951.pdf`). Everything from PRs #6–#8 prints (4.10 ranking table p345, 6.10 table p498, Ch 10 answers p774/p857, FADH2 sentence p1166, scope note p21). Whole-book checks pass: p2 license, no stray "Dr. Dan", no raw MathJax, hidden-label scan only p224 (known), 891 figures (the 4.10 pKa-scale figure was removed on purpose).
+- Last pKa traces fixed on LibreTexts:
+  - Figure 4.10.1 (file 512462, now revision 3): the drawing's "weak acid, pKa ≈ 10" label → "weak acid". The SVG is now kept in the repo at `figures/pages/fig-p597099-1.svg`.
+  - 6.10 (597118): page tag "pKa" removed (it fed the back-of-book Index). It was the only pKa-related tag in all 199 pages; the other four tags are kept.
+  - 10.11 (597164) Example 1 check: "(around pH 2) … (around pH 9–10)" → "in fairly acidic solution … only in basic solution" (`tools/pka_traces_fixes_2026-11-11.json`). Live SHA-256 matches `pages/live/`; `pages/ch10_guide.html` and the draft are updated.
