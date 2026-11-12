@@ -1,0 +1,1650 @@
+{
+ "488231": [
+  {
+   "old": "ose tissue, 15.6</li>\n<li>ae",
+   "new": "ose tissue, 15.2</li>\n<li>ae",
+   "count": 1
+  },
+  {
+   "old": " acid pool, 15.9</li>\n<li>am",
+   "new": " acid pool, 15.7</li>\n<li>am",
+   "count": 1
+  },
+  {
+   "old": "ransferase, 15.2</li>\n<li>am",
+   "new": "ransferase, 15.8</li>\n<li>am",
+   "count": 1
+  },
+  {
+   "old": ">anticodon, 12.5</li>\n<li>an",
+   "new": ">anticodon, 12.6</li>\n<li>an",
+   "count": 1
+  },
+  {
+   "old": " oxidation, 15.3</li>\n<li>bi",
+   "new": " oxidation, 15.4</li>\n<li>bi",
+   "count": 1
+  },
+  {
+   "old": ">carnitine, 15.1</li>\n<li>ca",
+   "new": ">carnitine, 15.3</li>\n<li>ca",
+   "count": 1
+  },
+  {
+   "old": "hylomicron, 15.1</li>\n<li>ci",
+   "new": "hylomicron, 15.3</li>\n<li>ci",
+   "count": 1
+  },
+  {
+   "old": "s mellitus, 13.7</li>\n<li>di",
+   "new": "s mellitus, 13.9</li>\n<li>di",
+   "count": 1
+  },
+  {
+   "old": "toacidosis, 15.3</li>\n<li>di",
+   "new": "toacidosis, 15.4</li>\n<li>di",
+   "count": 1
+  },
+  {
+   "old": "sification, 15.1</li>\n<li>en",
+   "new": "sification, 15.3</li>\n<li>en",
+   "count": 1
+  },
+  {
+   "old": "bilization, 15.6</li>\n<li>fa",
+   "new": "bilization, 15.2</li>\n<li>fa",
+   "count": 1
+  },
+  {
+   "old": " synthesis, 15.8</li>\n<li>fe",
+   "new": " synthesis, 15.6</li>\n<li>fe",
+   "count": 1
+  },
+  {
+   "old": "t mutation, 12.6</li>\n<li>fr",
+   "new": "t mutation, 12.7</li>\n<li>fr",
+   "count": 1
+  },
+  {
+   "old": "i>glucagon, 13.7</li>\n<li>gl",
+   "new": "i>glucagon, 13.9</li>\n<li>gl",
+   "count": 1
+  },
+  {
+   "old": "amino acid, 15.4</li>\n<li>gl",
+   "new": "amino acid, 15.10</li>\n<li>gl",
+   "count": 1
+  },
+  {
+   "old": "neogenesis, 13.9</li>\n<li>gl",
+   "new": "neogenesis, 13.8</li>\n<li>gl",
+   "count": 1
+  },
+  {
+   "old": "ycogenesis, 13.8</li>\n<li>gl",
+   "new": "ycogenesis, 13.7</li>\n<li>gl",
+   "count": 1
+  },
+  {
+   "old": "ogenolysis, 13.8</li>\n<li>gl",
+   "new": "ogenolysis, 13.7</li>\n<li>gl",
+   "count": 1
+  },
+  {
+   "old": "li>insulin, 13.7</li>\n<li>in",
+   "new": "li>insulin, 13.9</li>\n<li>in",
+   "count": 1
+  },
+  {
+   "old": "toacidosis, 15.3</li>\n<li>ke",
+   "new": "toacidosis, 15.4</li>\n<li>ke",
+   "count": 1
+  },
+  {
+   "old": "amino acid, 15.4</li>\n<li>ke",
+   "new": "amino acid, 15.10</li>\n<li>ke",
+   "count": 1
+  },
+  {
+   "old": "one bodies, 15.3</li>\n<li>ke",
+   "new": "one bodies, 15.4</li>\n<li>ke",
+   "count": 1
+  },
+  {
+   "old": "li>ketosis, 15.3</li>\n<li>kr",
+   "new": "li>ketosis, 15.4</li>\n<li>kr",
+   "count": 1
+  },
+  {
+   "old": "<li>lipase, 15.1</li>\n<li>li",
+   "new": "<li>lipase, 15.3</li>\n<li>li",
+   "count": 1
+  },
+  {
+   "old": "ipogenesis, 15.8</li>\n<li>lipolysis, 15.6</li>\n<li>li",
+   "new": "ipogenesis, 15.6</li>\n<li>lipolysis, 15.2</li>\n<li>li",
+   "count": 1
+  },
+  {
+   "old": "li>mutagen, 12.6</li>\n<li>mu",
+   "new": "li>mutagen, 12.7</li>\n<li>mu",
+   "count": 1
+  },
+  {
+   "old": "i>mutation, 12.6</li>\n</ul>\n",
+   "new": "i>mutation, 12.7</li>\n</ul>\n",
+   "count": 1
+  },
+  {
+   "old": "en balance, 15.9</li>\n<li>ni",
+   "new": "en balance, 15.7</li>\n<li>ni",
+   "count": 1
+  },
+  {
+   "old": "eamination, 15.4</li>\n<li>ox",
+   "new": "eamination, 15.10</li>\n<li>ox",
+   "count": 1
+  },
+  {
+   "old": "i>\n<li>PCR, 12.8</li>\n<li>pe",
+   "new": "i>\n<li>PCR, 12.9</li>\n<li>pe",
+   "count": 1
+  },
+  {
+   "old": "t mutation, 12.6</li>\n<li>po",
+   "new": "t mutation, 12.7</li>\n<li>po",
+   "count": 1
+  },
+  {
+   "old": "n reaction, 12.8</li>\n<li>po",
+   "new": "n reaction, 12.9</li>\n<li>po",
+   "count": 1
+  },
+  {
+   "old": "binant DNA, 12.8</li>\n<li>re",
+   "new": "binant DNA, 12.9</li>\n<li>re",
+   "count": 1
+  },
+  {
+   "old": "i>ribosome, 12.5</li>\n<li>RN",
+   "new": "i>ribosome, 12.6</li>\n<li>RN",
+   "count": 1
+  },
+  {
+   "old": "n mutation, 12.6</li>\n<li>su",
+   "new": "n mutation, 12.7</li>\n<li>su",
+   "count": 1
+  },
+  {
+   "old": "ansaminase, 15.2</li>\n<li>tr",
+   "new": "ansaminase, 15.8</li>\n<li>tr",
+   "count": 1
+  },
+  {
+   "old": "samination, 15.4</li>\n<li>tr",
+   "new": "samination, 15.10</li>\n<li>tr",
+   "count": 1
+  },
+  {
+   "old": ">\n<li>urea, 15.2</li>\n<li>urea cycle, 15.2</li>\n</ul>\n",
+   "new": ">\n<li>urea, 15.8</li>\n<li>urea cycle, 15.8</li>\n</ul>\n",
+   "count": 1
+  },
+  {
+   "old": "\n<li>virus, 12.7</li>\n<li>vi",
+   "new": "\n<li>virus, 12.8</li>\n<li>vi",
+   "count": 1
+  },
+  {
+   "old": "<li>diabetic ketoacidosis, 15.4</li>",
+   "new": "<li>diabetic ketoacidosis, 15.5</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>ketoacidosis, 15.4</li>",
+   "new": "<li>ketoacidosis, 15.5</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>ketone bodies, 15.4</li>",
+   "new": "<li>ketone bodies, 15.5</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>ketosis, 15.4</li>",
+   "new": "<li>ketosis, 15.5</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>urea, 15.8</li>",
+   "new": "<li>urea, 15.9</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>urea cycle, 15.8</li>",
+   "new": "<li>urea cycle, 15.9</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>transamination, 15.10</li>",
+   "new": "<li>transamination, 15.8</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>oxidative deamination, 15.10</li>",
+   "new": "<li>oxidative deamination, 15.8</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>chylomicron, 15.3</li>",
+   "new": "<li>chylomicron, 15.1</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>lipase, 15.3</li>",
+   "new": "<li>lipase, 15.1</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>emulsification, 15.3</li>",
+   "new": "<li>emulsification, 15.1</li>",
+   "count": 1
+  }
+ ],
+ "488232": [
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597212\">Section 15.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">aero",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597212\">Section 15.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">aero",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597215\">Section 15.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">amin",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597215\">Section 15.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">amin",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597208\">Section 15.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">ammo",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597208\">Section 15.8</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">ammo",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597179\">Section 12.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">anti",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597179\">Section 12.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">anti",
+   "count": 1
+  },
+  {
+   "old": "09\">Section 15.3</a></td><td",
+   "new": "09\">Section 15.4</a></td><td",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">cata",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">cata",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">cis&",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">cis&",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597195\">Section 13.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">dias",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597195\">Section 13.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">dias",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">enan",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">enan",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597180\">Section 12.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">fruc",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597180\">Section 12.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">fruc",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597179\">Section 12.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">glob",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597179\">Section 12.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">glob",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597195\">Section 13.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">gluc",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597195\">Section 13.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">gluc",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597210\">Section 15.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">gluc",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597210\">Section 15.10</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">gluc",
+   "count": 1
+  },
+  {
+   "old": "97\">Section 13.9</a></td><td",
+   "new": "97\">Section 13.8</a></td><td",
+   "count": 1
+  },
+  {
+   "old": "mage\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597196\">Section 13.8</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">glycogen",
+   "new": "mage\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597196\">Section 13.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">glycogen",
+   "count": 1
+  },
+  {
+   "old": "mage\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597196\">Section 13.8</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">glycol, ",
+   "new": "mage\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597196\">Section 13.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">glycol, ",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597195\">Section 13.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">inte",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597195\">Section 13.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">inte",
+   "count": 1
+  },
+  {
+   "old": "mage\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597213\">Section 15.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">ketogeni",
+   "new": "mage\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597213\">Section 15.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">ketogeni",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597210\">Section 15.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">keto",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597210\">Section 15.10</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">keto",
+   "count": 1
+  },
+  {
+   "old": "mage\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597213\">Section 15.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">ketose</",
+   "new": "mage\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597213\">Section 15.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">ketose</",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597213\">Section 15.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">lact",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597213\">Section 15.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">lact",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">lipi",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">lipi",
+   "count": 1
+  },
+  {
+   "old": "14\">Section 15.8</a></td><td",
+   "new": "14\">Section 15.6</a></td><td",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597212\">Section 15.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">lipo",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597212\">Section 15.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">lipo",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597180\">Section 12.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">muta",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597180\">Section 12.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">muta",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597180\">Section 12.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">NAD+",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597180\">Section 12.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">NAD+",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597215\">Section 15.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">nitr",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597215\">Section 15.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">nitr",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597208\">Section 15.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">oxid",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597208\">Section 15.8</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">oxid",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597180\">Section 12.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">pola",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597180\">Section 12.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">pola",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597182\">Section 12.8</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">poly",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597182\">Section 12.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">poly",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597182\">Section 12.8</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">redu",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597182\">Section 12.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">redu",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597179\">Section 12.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">RNA,",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597179\">Section 12.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">RNA,",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597208\">Section 15.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">tran",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597208\">Section 15.8</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">tran",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597216\">Section 15.10</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">urea",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597216\">Section 15.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">urea",
+   "count": 1
+  },
+  {
+   "old": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597216\">Section 15.10</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">viru",
+   "new": "\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597216\">Section 15.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>\n<tr><td data-th=\"Word(s)\">viru",
+   "count": 1
+  },
+  {
+   "old": "81\">Section 12.7</a></td><td",
+   "new": "81\">Section 12.8</a></td><td",
+   "count": 1
+  },
+  {
+   "old": "<a href=\"/@go/page/597193\">Section 13.6</a>",
+   "new": "<a href=\"/@go/page/597193\">Section 13.5</a>",
+   "count": 1
+  },
+  {
+   "old": ">chylomicron</td><td data-th=\"Definition\">The large lipoprotein particle made in intestinal cells that carries dietary triacylglycerols into the lymph and blood.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> quilomicr&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.3</a>",
+   "new": ">chylomicron</td><td data-th=\"Definition\">The large lipoprotein particle made in intestinal cells that carries dietary triacylglycerols into the lymph and blood.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> quilomicr&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597211\">Section 15.1</a>",
+   "count": 1
+  },
+  {
+   "old": ">emulsification</td><td data-th=\"Definition\">Breaking fat into tiny droplets, done by bile salts, so that water-soluble lipase can reach it.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> emulsificaci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.3</a>",
+   "new": ">emulsification</td><td data-th=\"Definition\">Breaking fat into tiny droplets, done by bile salts, so that water-soluble lipase can reach it.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> emulsificaci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597211\">Section 15.1</a>",
+   "count": 1
+  },
+  {
+   "old": ">lipase</td><td data-th=\"Definition\">An enzyme that hydrolyzes the ester bonds of triacylglycerols, such as pancreatic lipase in digestion and hormone-sensitive lipase in fat cells.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> lipasa</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597207\">Section 15.3</a>",
+   "new": ">lipase</td><td data-th=\"Definition\">An enzyme that hydrolyzes the ester bonds of triacylglycerols, such as pancreatic lipase in digestion and hormone-sensitive lipase in fat cells.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> lipasa</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597211\">Section 15.1</a>",
+   "count": 1
+  }
+ ],
+ "597050": [
+  {
+   "old": "12.1</a> to <a href=\"/@go/page/597183\">12.9</a>, and answer the Try It ",
+   "new": "12.1</a> to <a href=\"/@go/page/597182\">12.9</a>, and answer the Try It ",
+   "count": 1
+  }
+ ],
+ "597051": [
+  {
+   "old": "13.1</a> to <a href=\"/@go/page/597197\">13.9</a>, and answer the Try It ",
+   "new": "13.1</a> to <a href=\"/@go/page/597195\">13.9</a>, and answer the Try It ",
+   "count": 1
+  }
+ ],
+ "597053": [
+  {
+   "old": "ry numbered section, <a href=\"/@go/page/597207\">15.1</a> to <a href=\"/@",
+   "new": "ry numbered section, <a href=\"/@go/page/597211\">15.1</a> to <a href=\"/@",
+   "count": 1
+  }
+ ],
+ "597166": [
+  {
+   "old": "es (Section 12.7).</p>\n\n<tab",
+   "new": "es (Section 12.8).</p>\n\n<tab",
+   "count": 1
+  }
+ ],
+ "597176": [
+  {
+   "old": "on (Section 12.8).</li>\n</ul",
+   "new": "on (Section 12.9).</li>\n</ul",
+   "count": 1
+  },
+  {
+   "old": "em; Section 12.9 goes deeper",
+   "new": "em; Section 12.5 goes deeper",
+   "count": 1
+  },
+  {
+   "old": "ns; Section 12.9)</td></tr>\n",
+   "new": "ns; Section 12.5)</td></tr>\n",
+   "count": 1
+  }
+ ],
+ "597177": [
+  {
+   "old": "ns 12.4 and 12.9.</p>\n\n<span",
+   "new": "ns 12.4 and 12.5.</p>\n\n<span",
+   "count": 1
+  },
+  {
+   "old": " in Section 12.5.</p>\n\n<div ",
+   "new": " in Section 12.6.</p>\n\n<div ",
+   "count": 1
+  },
+  {
+   "old": "rd (Section 12.7).</p>\n<tabl",
+   "new": "rd (Section 12.8).</p>\n<tabl",
+   "count": 1
+  },
+  {
+   "old": "\n<p>Section 12.9 describes e",
+   "new": "\n<p>Section 12.5 describes e",
+   "count": 1
+  }
+ ],
+ "597178": [
+  {
+   "old": " in Section 12.9; here we fo",
+   "new": " in Section 12.5; here we fo",
+   "count": 1
+  },
+  {
+   "old": "es (Section 12.9).</li>\n<li>",
+   "new": "es (Section 12.5).</li>\n<li>",
+   "count": 1
+  }
+ ],
+ "597179": [
+  {
+   "old": "ks (Section 12.8).</li>\n</ul",
+   "new": "ks (Section 12.9).</li>\n</ul",
+   "count": 1
+  }
+ ],
+ "597180": [
+  {
+   "old": " in Section 12.8.</p>\n\n<span",
+   "new": " in Section 12.9.</p>\n\n<span",
+   "count": 1
+  }
+ ],
+ "597181": [
+  {
+   "old": "ly (Section 12.9).</li>\n<li>",
+   "new": "ly (Section 12.5).</li>\n<li>",
+   "count": 1
+  },
+  {
+   "old": "R) (Section 12.8).</p>\n</div",
+   "new": "R) (Section 12.9).</p>\n</div",
+   "count": 1
+  }
+ ],
+ "597182": [
+  {
+   "old": "ns (Section 12.6), screen fo",
+   "new": "ns (Section 12.7), screen fo",
+   "count": 1
+  }
+ ],
+ "597183": [
+  {
+   "old": "tion>Figure 12.9.1: An RNA hai",
+   "new": "tion>Figure 12.5.1: An RNA hai",
+   "count": 1
+  },
+  {
+   "old": "on (Section 12.5). In human ",
+   "new": "on (Section 12.6). In human ",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 12.9.2: A tRNA dra",
+   "new": "tion>Figure 12.5.2: A tRNA dra",
+   "count": 1
+  },
+  {
+   "old": " in Section 12.5; Figure 12.9.3 shows how t",
+   "new": " in Section 12.6; Figure 12.5.3 shows how t",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 12.9.3: How the th",
+   "new": "tion>Figure 12.5.3: How the th",
+   "count": 1
+  },
+  {
+   "old": "de (Section 12.5), UGG codes",
+   "new": "de (Section 12.6), UGG codes",
+   "count": 1
+  },
+  {
+   "old": "see Section 12.8). Saliva al",
+   "new": "see Section 12.9). Saliva al",
+   "count": 1
+  }
+ ],
+ "597184": [
+  {
+   "old": "age/597183\">12.9</a>.</p>\n\n<",
+   "new": "age/597183\">12.5</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "age/597179\">12.5</a>.</p>\n\n<",
+   "new": "age/597179\">12.6</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "age/597180\">12.6</a>.</p>\n\n<",
+   "new": "age/597180\">12.7</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "age/597181\">12.7</a>.</p>\n\n<",
+   "new": "age/597181\">12.8</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "in (Section 12.6; Chapter 10",
+   "new": "in (Section 12.7; Chapter 10",
+   "count": 1
+  },
+  {
+   "old": "es (Section 12.7).</li>\n<li>",
+   "new": "es (Section 12.8).</li>\n<li>",
+   "count": 1
+  },
+  {
+   "old": "sm (Section 12.8).</li>\n<li>",
+   "new": "sm (Section 12.9).</li>\n<li>",
+   "count": 1
+  },
+  {
+   "old": "ls (Section 12.7). Radiograp",
+   "new": "ls (Section 12.8). Radiograp",
+   "count": 1
+  },
+  {
+   "old": "NA (Section 12.6).</li>\n</ul",
+   "new": "NA (Section 12.7).</li>\n</ul",
+   "count": 1
+  },
+  {
+   "old": "age/597182\">12.8</a>.</p>\n\n<",
+   "new": "age/597182\">12.9</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "79\">Section 12.5</a>, <a hre",
+   "new": "79\">Section 12.6</a>, <a hre",
+   "count": 1
+  },
+  {
+   "old": "80\">Section 12.6</a>, <a hre",
+   "new": "80\">Section 12.7</a>, <a hre",
+   "count": 1
+  },
+  {
+   "old": "82\">Section 12.8</a>. Rosa&r",
+   "new": "82\">Section 12.9</a>. Rosa&r",
+   "count": 1
+  }
+ ],
+ "597185": [
+  {
+   "old": " in Section 12.5 to decode t",
+   "new": " in Section 12.6 to decode t",
+   "count": 1
+  },
+  {
+   "old": "go/page/597181\">12.7</a>).</div></de",
+   "new": "go/page/597181\">12.8</a>).</div></de",
+   "count": 1
+  },
+  {
+   "old": "go/page/597180\">12.6</a>).</div></de",
+   "new": "go/page/597180\">12.7</a>).</div></de",
+   "count": 1
+  },
+  {
+   "old": "go/page/597181\">12.7</a>).</div></di",
+   "new": "go/page/597181\">12.8</a>).</div></di",
+   "count": 1
+  },
+  {
+   "old": "go/page/597180\">12.6</a>).</div></di",
+   "new": "go/page/597180\">12.7</a>).</div></di",
+   "count": 1
+  }
+ ],
+ "597191": [
+  {
+   "old": "15\">Section 15.9</a> and fat",
+   "new": "15\">Section 15.7</a> and fat",
+   "count": 1
+  },
+  {
+   "old": "07\">Section 15.1</a>.</p>\n<p",
+   "new": "07\">Section 15.3</a>.</p>\n<p",
+   "count": 1
+  },
+  {
+   "old": "in Sections 15.9 and 15.1; the figure",
+   "new": "in Sections 15.7 and 15.3; the figure",
+   "count": 1
+  },
+  {
+   "old": "es (Section 15.1), but for S",
+   "new": "es (Section 15.3), but for S",
+   "count": 1
+  },
+  {
+   "old": " of Section 13.7 are made.</",
+   "new": " of Section 13.9 are made.</",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.9 and fat dig",
+   "new": " in Section 15.7 and fat dig",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.1.</li>\n</ul>",
+   "new": " in Section 15.3.</li>\n</ul>",
+   "count": 1
+  },
+  {
+   "old": "fats in <a href=\"/@go/page/597207\">Section 15.3</a>.",
+   "new": "fats in <a href=\"/@go/page/597211\">Section 15.1</a>.",
+   "count": 1
+  },
+  {
+   "old": "taught in full in Sections 15.7 and 15.3;",
+   "new": "taught in full in Sections 15.7 and 15.1;",
+   "count": 1
+  },
+  {
+   "old": "plus monoglycerides (Section 15.3)",
+   "new": "plus monoglycerides (Section 15.1)",
+   "count": 1
+  },
+  {
+   "old": "fat digestion in Section 15.3.",
+   "new": "fat digestion in Section 15.1.",
+   "count": 1
+  }
+ ],
+ "597192": [
+  {
+   "old": "es; Section 13.7 gives the f",
+   "new": "es; Section 13.9 gives the f",
+   "count": 1
+  },
+  {
+   "old": "in (Section 13.9). <strong>S",
+   "new": "in (Section 13.8). <strong>S",
+   "count": 1
+  },
+  {
+   "old": "dL (Section 13.7).</p>\n</div",
+   "new": "dL (Section 13.9).</p>\n</div",
+   "count": 1
+  },
+  {
+   "old": "g>, Section 13.9).</li>\n<li>",
+   "new": "g>, Section 13.8).</li>\n<li>",
+   "count": 1
+  }
+ ],
+ "597193": [
+  {
+   "old": "ss (Section 13.9).</p>\n<p><s",
+   "new": "ss (Section 13.8).</p>\n<p><s",
+   "count": 1
+  },
+  {
+   "old": " in Section 13.7.</p>\n\n<div ",
+   "new": " in Section 13.9.</p>\n\n<div ",
+   "count": 1
+  }
+ ],
+ "597194": [
+  {
+   "old": " in Section 13.8.)</li>\n<li>",
+   "new": " in Section 13.7.)</li>\n<li>",
+   "count": 1
+  },
+  {
+   "old": "is (Section 13.8), so you wi",
+   "new": "is (Section 13.7), so you wi",
+   "count": 1
+  }
+ ],
+ "597195": [
+  {
+   "old": "tion>Figure 13.7.1: The three ",
+   "new": "tion>Figure 13.9.1: The three ",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 13.7.2: The fed&nd",
+   "new": "tion>Figure 13.9.2: The fed&nd",
+   "count": 1
+  },
+  {
+   "old": "is, Section 13.8), muscle an",
+   "new": "is, Section 13.7), muscle an",
+   "count": 1
+  },
+  {
+   "old": "se, Section 13.8) and is kep",
+   "new": "se, Section 13.7) and is kep",
+   "count": 1
+  },
+  {
+   "old": "g> (Section 13.9) becomes th",
+   "new": "g> (Section 13.8) becomes th",
+   "count": 1
+  },
+  {
+   "old": "olysis, Section 13.8)</td><td>Activa",
+   "new": "olysis, Section 13.7)</td><td>Activa",
+   "count": 1
+  },
+  {
+   "old": "enesis, Section 13.8)</td><td>Activa",
+   "new": "enesis, Section 13.7)</td><td>Activa",
+   "count": 1
+  }
+ ],
+ "597196": [
+  {
+   "old": "tion>Figure 13.8.1: The glycog",
+   "new": "tion>Figure 13.7.1: The glycog",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 13.8.2: The hormon",
+   "new": "tion>Figure 13.7.2: The hormon",
+   "count": 1
+  },
+  {
+   "old": "is (Section 13.9) to take ov",
+   "new": "is (Section 13.8) to take ov",
+   "count": 1
+  },
+  {
+   "old": "is, Section 13.9). Such a pa",
+   "new": "is, Section 13.8). Such a pa",
+   "count": 1
+  }
+ ],
+ "597197": [
+  {
+   "old": "se (Section 13.8). In prolon",
+   "new": "se (Section 13.7). In prolon",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 13.9.1: Three gluc",
+   "new": "tion>Figure 13.8.1: Three gluc",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 13.9.2: Glycolysis",
+   "new": "tion>Figure 13.8.2: Glycolysis",
+   "count": 1
+  },
+  {
+   "old": "ors Section 13.8 exactly. Gl",
+   "new": "ors Section 13.7 exactly. Gl",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 13.9.3: The Cori c",
+   "new": "tion>Figure 13.8.3: The Cori c",
+   "count": 1
+  }
+ ],
+ "597198": [
+  {
+   "old": "tes: Section <a href=\"/@go/page/597195\">13.7</a>.</p>\n\n</div><div class=\"mt-section\"",
+   "new": "tes: Section <a href=\"/@go/page/597195\">13.9</a>.</p>\n\n</div><div class=\"mt-section\"",
+   "count": 1
+  },
+  {
+   "old": "rol: Section <a href=\"/@go/page/597195\">13.7</a>.</p>\n\n</div><div class=\"mt-section\"",
+   "new": "rol: Section <a href=\"/@go/page/597195\">13.9</a>.</p>\n\n</div><div class=\"mt-section\"",
+   "count": 1
+  },
+  {
+   "old": "age/597197\">13.9</a>.</p>\n\n<",
+   "new": "age/597197\">13.8</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "age/597196\">13.8</a>.</p>\n\n<",
+   "new": "age/597196\">13.7</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "ll (Section 13.7).</li>\n<li>",
+   "new": "ll (Section 13.9).</li>\n<li>",
+   "count": 1
+  },
+  {
+   "old": "se, Section 13.8, is also a ",
+   "new": "se, Section 13.7, is also a ",
+   "count": 1
+  },
+  {
+   "old": "t:</strong> <a href=\"/@go/page/597195\">Section 13.7</a>, <a href=\"/@go/page/597196\">Section 13.8</a>, <a href=\"/@go/page/597197\">Section 13.9</a>. Rosa&rsquo;s sto",
+   "new": "t:</strong> <a href=\"/@go/page/597196\">Section 13.7</a>, <a href=\"/@go/page/597197\">Section 13.8</a>, <a href=\"/@go/page/597195\">Section 13.9</a>. Rosa&rsquo;s sto",
+   "count": 1
+  }
+ ],
+ "597199": [
+  {
+   "old": "go/page/597195\">13.7</a>).</div></de",
+   "new": "go/page/597195\">13.9</a>).</div></de",
+   "count": 1
+  },
+  {
+   "old": "go/page/597196\">13.8</a>).</div></de",
+   "new": "go/page/597196\">13.7</a>).</div></de",
+   "count": 1
+  },
+  {
+   "old": "go/page/597195\">13.7</a>).</div></di",
+   "new": "go/page/597195\">13.9</a>).</div></di",
+   "count": 1
+  },
+  {
+   "old": "go/page/597196\">13.8</a>).</div></di",
+   "new": "go/page/597196\">13.7</a>).</div></di",
+   "count": 1
+  }
+ ],
+ "597200": [
+  {
+   "old": " in Section 15.3. Below, the",
+   "new": " in Section 15.4. Below, the",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.3. This page ",
+   "new": " in Section 15.4. This page ",
+   "count": 1
+  },
+  {
+   "old": "se (Section 13.9).</p>\n<figu",
+   "new": "se (Section 13.8).</p>\n<figu",
+   "count": 1
+  }
+ ],
+ "597202": [
+  {
+   "old": "on (Section 15.3). All other",
+   "new": "on (Section 15.4). All other",
+   "count": 1
+  }
+ ],
+ "597203": [
+  {
+   "old": "rs (Section 15.6).</p>\n\n<fig",
+   "new": "rs (Section 15.2).</p>\n\n<fig",
+   "count": 1
+  }
+ ],
+ "597207": [
+  {
+   "old": "09\">Section 15.3</a>; what t",
+   "new": "09\">Section 15.4</a>; what t",
+   "count": 1
+  },
+  {
+   "old": "13\">Section 15.7</a>.</p><p ",
+   "new": "13\">Section 15.5</a>.</p><p ",
+   "count": 1
+  },
+  {
+   "old": "in Sections 15.3 and 15.7; the figure",
+   "new": "in Sections 15.4 and 15.5; the figure",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.3.</p>\n\n\n\n<di",
+   "new": " in Section 15.4.</p>\n\n\n\n<di",
+   "count": 1
+  },
+  {
+   "old": "am (Section 15.5).</li>\n<li>",
+   "new": "am (Section 15.1).</li>\n<li>",
+   "count": 1
+  },
+  {
+   "old": "er (Section 15.3). Section 15.6 covers stor",
+   "new": "er (Section 15.4). Section 15.2 covers stor",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 15.1.1: Fat digest",
+   "new": "tion>Figure 15.3.1: Fat digest",
+   "count": 1
+  },
+  {
+   "old": "ds (Section 15.8), blocks th",
+   "new": "ds (Section 15.6), blocks th",
+   "count": 1
+  },
+  {
+   "old": "<div class=\"mt-section\" id=\"section_3\"><h3 class=\"editable\">Digesting fats</h3>\n<p>About 98% of dietary lipids are <strong>triacylglycerols (TAG)</strong>, the triesters of glycerol and three fatty acids from Chapter 9. Excess energy from carbohydrates and proteins is also stored as TAG in <strong>adipocytes</strong> (fat cells). TAGs are insoluble in water, so the water-soluble enzymes of saliva have little effect on them, and only about 10% are hydrolyzed by gastric lipase in the stomach. Digesting the rest is a two-part problem: the fat globules must be broken into small particles so that a water-soluble enzyme can reach them, and then the ester bonds must be hydrolyzed.</p>\n<ul>\n<li><strong>Emulsification.</strong> <strong>Bile salts</strong>, made in the liver from cholesterol and secreted from the gallbladder into the small intestine, act like soaps: a steroid ring that dissolves in fat plus an ionic group that dissolves in water. They break the fat globules into small droplets, giving a water-soluble enzyme far more fat surface to reach. (After lipase acts, bile salts and the products form even smaller clusters called <strong>micelles</strong>, which carry them to the intestinal cell.) No bonds are broken yet; this is a physical change.</li>\n<li><strong>Incomplete hydrolysis.</strong> <strong>Pancreatic lipase</strong> (a <em>hydrolase</em>) hydrolyzes the ester linkages between glycerol and the fatty acid units. In the intestine this hydrolysis is <em>incomplete</em>: it removes the two outer fatty acids and leaves a <strong>monoacylglycerol</strong>. Set up the table: reaction type, hydrolysis (water splits an ester); how can you tell, an ester became a carboxylic acid plus an alcohol; enzyme class, hydrolase; coenzyme, none. Compare saponification in Chapter 9: same ester hydrolysis, but at body pH with an enzyme instead of hot NaOH.</li>\n<li><strong>Repackaging and absorption.</strong> Micelles of free fatty acids and monoacylglycerols pass through the membranes of intestinal cells. Inside, the fatty acids recombine with the monoacylglycerols to re-form TAG, which is coated with phospholipids and proteins to make <strong>chylomicrons</strong>, water-soluble particles that carry TAG through the lymphatic system into the bloodstream (Section 15.1).</li>\n<li><strong>Storage, then complete hydrolysis.</strong> Stored TAG sits in adipocytes, whose cytoplasm is mostly one large fat droplet, beneath the skin and around the organs. When carbohydrate cannot meet energy needs, the hormones <strong>glucagon</strong> and <strong>epinephrine</strong> activate a lipase in adipose tissue that <em>completely</em> hydrolyzes stored TAG to <strong>glycerol + 3 fatty acids</strong>. The fatty acids bind the plasma protein <strong>albumin</strong> for transport; glycerol dissolves in blood and goes to the liver (Section 15.4). Section 15.2 covers storage and mobilization in detail.</li>\n</ul>\n<figure class=\"figure\"><img class=\"internal\" alt=\"Flow of dietary fat digestion and absorption. In the small intestine, bile salts emulsify large fat droplets into small ones; pancreatic lipase, a hydrolase, hydrolyzes each triacylglycerol to two fatty acids and a 2-monoacylglycerol; these form micelles with bile salts and are absorbed into intestinal cells, where triacylglycerols are rebuilt and packaged into chylomicrons that travel through lymph to the blood. At capillaries, lipoprotein lipase hydrolyzes the triacylglycerols again, releasing fatty acids to muscle (for energy) and adipose tissue (for storage).\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512625/fig-p597207-1.svg\" fileid=\"512625\" /><figcaption>Figure 15.3.1: Fat digestion and absorption. Bile salts emulsify, pancreatic lipase (a hydrolase) cuts two ester bonds, micelles deliver the pieces to the intestinal cell, chylomicrons carry rebuilt triacylglycerol through lymph to the blood, and lipoprotein lipase releases fatty acids at the tissues. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>\n\n</div><div class=\"mt-section\" id=\"section_4\"><h3 class=\"editable\">Activation and the carnitine shuttle</h3>",
+   "new": "<div class=\"mt-section\" id=\"section_4\"><h3 class=\"editable\">Activation and the carnitine shuttle</h3>",
+   "count": 1
+  },
+  {
+   "old": "<p>The lecture starts this chapter one step before the section above does, with digestion: how a water-insoluble fat gets emulsified, hydrolyzed, repackaged, stored, and finally mobilized. Then it treats fatty acid breakdown as",
+   "new": "<p>How a water-insoluble fat gets emulsified, hydrolyzed, repackaged into lipoproteins, and transported is covered in <a href=\"/@go/page/597211\">Section 15.1</a>, and how it is stored and finally mobilized in <a href=\"/@go/page/597212\">Section 15.2</a>; this page covers activation and the carnitine shuttle. The lecture treats fatty acid breakdown as",
+   "count": 1
+  },
+  {
+   "old": "<li>Bile salts emulsify dietary fat, and pancreatic lipase hydrolyzes triacylglycerols to fatty acids and monoglycerides, which are reassembled and carried in chylomicrons.</li>",
+   "new": "<li>Fatty acids reach the cells from digested dietary fat carried in lipoproteins (<a href=\"/@go/page/597211\">Section 15.1</a>) or from mobilized fat stores (<a href=\"/@go/page/597212\">Section 15.2</a>).</li>",
+   "count": 1
+  }
+ ],
+ "597208": [
+  {
+   "old": "10\">Section 15.4</a>.</p><se",
+   "new": "10\">Section 15.10</a>.</p><se",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.4; the figure",
+   "new": " in Section 15.10; the figure",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.10 and the car",
+   "new": " in Section 15.9 and the car",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.4.</p>\n\n<div ",
+   "new": " in Section 15.10.</p>\n\n<div ",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 15.2.1: Transamina",
+   "new": "tion>Figure 15.8.1: Transamina",
+   "count": 1
+  },
+  {
+   "old": "ea (Section 15.10). Run in re",
+   "new": "ea (Section 15.9). Run in re",
+   "count": 1
+  },
+  {
+   "old": "es (Section 15.10).</p>\n</div",
+   "new": "es (Section 15.9).</p>\n</div",
+   "count": 1
+  }
+ ],
+ "597209": [
+  {
+   "old": "13\">Section 15.7</a>.</p></d",
+   "new": "13\">Section 15.5</a>.</p></d",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.7; the figure",
+   "new": " in Section 15.5; the figure",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.7.</p>\n</div>",
+   "new": " in Section 15.5.</p>\n</div>",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 15.3.1: One turn o",
+   "new": "tion>Figure 15.4.1: One turn o",
+   "count": 1
+  },
+  {
+   "old": "on (Section 15.1) costs the ",
+   "new": "on (Section 15.3) costs the ",
+   "count": 1
+  },
+  {
+   "old": "se (Section 15.6), it dissol",
+   "new": "se (Section 15.2), it dissol",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 15.3.2: Glycerol m",
+   "new": "tion>Figure 15.4.2: Glycerol m",
+   "count": 1
+  },
+  {
+   "old": "ng (Section 13.9). Two glyce",
+   "new": "ng (Section 13.8). Two glyce",
+   "count": 1
+  }
+ ],
+ "597210": [
+  {
+   "old": "08\">Section 15.2</a>, and th",
+   "new": "08\">Section 15.8</a>, and th",
+   "count": 1
+  },
+  {
+   "old": "16\">Section 15.10</a>.</p></d",
+   "new": "16\">Section 15.9</a>.</p></d",
+   "count": 1
+  },
+  {
+   "old": "in Sections 15.2 and 15.10; the figure",
+   "new": "in Sections 15.8 and 15.9; the figure",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.2, the urea c",
+   "new": " in Section 15.8, the urea c",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.10, and this p",
+   "new": " in Section 15.9, and this p",
+   "count": 1
+  },
+  {
+   "old": "ea (Section 15.10). You are n",
+   "new": "ea (Section 15.9). You are n",
+   "count": 1
+  },
+  {
+   "old": "is (Section 13.9): these ami",
+   "new": "is (Section 13.8): these ami",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 15.4.1: The metabo",
+   "new": "tion>Figure 15.10.1: The metabo",
+   "count": 1
+  }
+ ],
+ "597211": [
+  {
+   "old": "is, Section 15.8) out to adi",
+   "new": "is, Section 15.6) out to adi",
+   "count": 1
+  },
+  {
+   "old": "ut (Section 15.1). The diffe",
+   "new": "ut (Section 15.3). The diffe",
+   "count": 1
+  },
+  {
+   "old": "on (Section 15.3); adipocyte",
+   "new": "on (Section 15.4); adipocyte",
+   "count": 1
+  },
+  {
+   "old": "et (Section 15.6). Between m",
+   "new": "et (Section 15.2). Between m",
+   "count": 1
+  },
+  {
+   "old": "oA (Section 15.4); omega-3 f",
+   "new": "oA (Section 15.10); omega-3 f",
+   "count": 1
+  },
+  {
+   "old": "not a list to memorize for the exam.</p>\n",
+   "new": "not a list to memorize for the exam.</p>\n\n<div class=\"mt-section\" id=\"section_3\"><h3 class=\"editable\">Digesting fats</h3>\n<p>About 98% of dietary lipids are <strong>triacylglycerols (TAG)</strong>, the triesters of glycerol and three fatty acids from Chapter 9. Excess energy from carbohydrates and proteins is also stored as TAG in <strong>adipocytes</strong> (fat cells). TAGs are insoluble in water, so the water-soluble enzymes of saliva have little effect on them, and only about 10% are hydrolyzed by gastric lipase in the stomach. Digesting the rest is a two-part problem: the fat globules must be broken into small particles so that a water-soluble enzyme can reach them, and then the ester bonds must be hydrolyzed.</p>\n<ul>\n<li><strong>Emulsification.</strong> <strong>Bile salts</strong>, made in the liver from cholesterol and secreted from the gallbladder into the small intestine, act like soaps: a steroid ring that dissolves in fat plus an ionic group that dissolves in water. They break the fat globules into small droplets, giving a water-soluble enzyme far more fat surface to reach. (After lipase acts, bile salts and the products form even smaller clusters called <strong>micelles</strong>, which carry them to the intestinal cell.) No bonds are broken yet; this is a physical change.</li>\n<li><strong>Incomplete hydrolysis.</strong> <strong>Pancreatic lipase</strong> (a <em>hydrolase</em>) hydrolyzes the ester linkages between glycerol and the fatty acid units. In the intestine this hydrolysis is <em>incomplete</em>: it removes the two outer fatty acids and leaves a <strong>monoacylglycerol</strong>. Set up the table: reaction type, hydrolysis (water splits an ester); how can you tell, an ester became a carboxylic acid plus an alcohol; enzyme class, hydrolase; coenzyme, none. Compare saponification in Chapter 9: same ester hydrolysis, but at body pH with an enzyme instead of hot NaOH.</li>\n<li><strong>Repackaging and absorption.</strong> Micelles of free fatty acids and monoacylglycerols pass through the membranes of intestinal cells. Inside, the fatty acids recombine with the monoacylglycerols to re-form TAG, which is coated with phospholipids and proteins to make <strong>chylomicrons</strong>, water-soluble particles that carry TAG through the lymphatic system into the bloodstream (see the lipoprotein classes above).</li>\n<li><strong>Storage, then complete hydrolysis.</strong> Stored TAG sits in adipocytes, whose cytoplasm is mostly one large fat droplet, beneath the skin and around the organs. When carbohydrate cannot meet energy needs, the hormones <strong>glucagon</strong> and <strong>epinephrine</strong> activate a lipase in adipose tissue that <em>completely</em> hydrolyzes stored TAG to <strong>glycerol + 3 fatty acids</strong>. The fatty acids bind the plasma protein <strong>albumin</strong> for transport; glycerol dissolves in blood and goes to the liver (<a href=\"/@go/page/597209\">Section 15.4</a>). <a href=\"/@go/page/597212\">Section 15.2</a> covers storage and mobilization in detail.</li>\n</ul>\n<figure class=\"figure\"><img class=\"internal\" alt=\"Flow of dietary fat digestion and absorption. In the small intestine, bile salts emulsify large fat droplets into small ones; pancreatic lipase, a hydrolase, hydrolyzes each triacylglycerol to two fatty acids and a 2-monoacylglycerol; these form micelles with bile salts and are absorbed into intestinal cells, where triacylglycerols are rebuilt and packaged into chylomicrons that travel through lymph to the blood. At capillaries, lipoprotein lipase hydrolyzes the triacylglycerols again, releasing fatty acids to muscle (for energy) and adipose tissue (for storage).\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512625/fig-p597207-1.svg\" fileid=\"512625\" /><figcaption>Figure 15.1.2: Fat digestion and absorption. Bile salts emulsify, pancreatic lipase (a hydrolase) cuts two ester bonds, micelles deliver the pieces to the intestinal cell, chylomicrons carry rebuilt triacylglycerol through lymph to the blood, and lipoprotein lipase releases fatty acids at the tissues. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>\n\n</div>\n",
+   "count": 1
+  },
+  {
+   "old": "the same ester hydrolysis that pancreatic lipase performed in the gut (Section 15.3).",
+   "new": "the same ester hydrolysis that pancreatic lipase performed in the gut (see Digesting fats, above).",
+   "count": 1
+  },
+  {
+   "old": "<ul>\n    <li>Describe the difference in composition and function between the five classes of lipoproteins.</li>",
+   "new": "<ul>\n    <li>Describe how dietary fat is digested and absorbed: emulsification by bile salts, hydrolysis by pancreatic lipase to a monoacylglycerol and two fatty acids, and repackaging into chylomicrons.</li>\n    <li>Describe the difference in composition and function between the five classes of lipoproteins.</li>",
+   "count": 1
+  },
+  {
+   "old": "<p class=\"boxtitle\">Summary</p>\n<ul>\n<li>Lipids travel in the blood",
+   "new": "<p class=\"boxtitle\">Summary</p>\n<ul>\n<li>Bile salts emulsify dietary fat, and pancreatic lipase hydrolyzes triacylglycerols to fatty acids and monoglycerides, which are reassembled and carried in chylomicrons.</li>\n<li>Lipids travel in the blood",
+   "count": 1
+  }
+ ],
+ "597212": [
+  {
+   "old": " in Section 15.5: <strong>ch",
+   "new": " in Section 15.1: <strong>ch",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 15.6.1: Fat storag",
+   "new": "tion>Figure 15.2.1: Fat storag",
+   "count": 1
+  },
+  {
+   "old": "is, Section 15.8) &rarr; VLD",
+   "new": "is, Section 15.6) &rarr; VLD",
+   "count": 1
+  },
+  {
+   "old": "in (Section 15.7).</li>\n<li>",
+   "new": "in (Section 15.5).</li>\n<li>",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 15.6.2: Fat mobili",
+   "new": "tion>Figure 15.2.2: Fat mobili",
+   "count": 1
+  }
+ ],
+ "597213": [
+  {
+   "old": " in Section 13.7).<sup>3</su",
+   "new": " in Section 13.9).<sup>3</su",
+   "count": 1
+  },
+  {
+   "old": "se, Section 13.9), the exces",
+   "new": "se, Section 13.8), the exces",
+   "count": 1
+  },
+  {
+   "old": "tion>Figure 15.7.1: The three ",
+   "new": "tion>Figure 15.5.1: The three ",
+   "count": 1
+  }
+ ],
+ "597214": [
+  {
+   "old": "DL (Section 15.5). Because a",
+   "new": "DL (Section 15.1). Because a",
+   "count": 1
+  },
+  {
+   "old": "le, Section 15.1), so the ne",
+   "new": "le, Section 15.3), so the ne",
+   "count": 1
+  }
+ ],
+ "597215": [
+  {
+   "old": "y (Sections 15.2 and 15.4). Amino aci",
+   "new": "y (Sections 15.8 and 15.10). Amino aci",
+   "count": 1
+  },
+  {
+   "old": " in Section 15.2, show up ea",
+   "new": " in Section 15.8, show up ea",
+   "count": 1
+  }
+ ],
+ "597216": [
+  {
+   "old": "tion>Figure 15.10.1: The urea c",
+   "new": "tion>Figure 15.9.1: The urea c",
+   "count": 1
+  }
+ ],
+ "597217": [
+  {
+   "old": "on (Section 15.2). These rou",
+   "new": "on (Section 15.8). These rou",
+   "count": 1
+  },
+  {
+   "old": "it (Section 15.10), but not f",
+   "new": "it (Section 15.9), but not f",
+   "count": 1
+  },
+  {
+   "old": " of Section 15.2 running in ",
+   "new": " of Section 15.8 running in ",
+   "count": 1
+  }
+ ],
+ "597218": [
+  {
+   "old": "the figure: Sections <a href=\"/@go/page/597207\">15.1</a>, <a title=\"Oxidation of fatty acids\" href=\"/@go/page/597209\">15.3</a>, <a href=\"/@go/page/597211\">15.5</a>, and 15.6.</p>\n\n</div><div",
+   "new": "the figure: Sections <a href=\"/@go/page/597211\">15.1</a>, <a href=\"/@go/page/597212\">15.2</a>, <a href=\"/@go/page/597207\">15.3</a>, and <a title=\"Oxidation of fatty acids\" href=\"/@go/page/597209\">15.4</a>.</p>\n\n</div><div",
+   "count": 1
+  },
+  {
+   "old": "age/597209\">15.3</a>.</p>\n\n\n",
+   "new": "age/597209\">15.4</a>.</p>\n\n\n",
+   "count": 1
+  },
+  {
+   "old": "age/597213\">15.7</a>.</p>\n\n<",
+   "new": "age/597213\">15.5</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "and tables: Sections <a href=\"/@go/page/597208\">15.2</a>, <a href=\"/@go/page/597210\">15.4</a>, and 15.10.</p>\n\n</div><div",
+   "new": "and tables: Sections <a href=\"/@go/page/597208\">15.8</a>, <a href=\"/@go/page/597216\">15.9</a>, and <a href=\"/@go/page/597210\">15.10</a>.</p>\n\n</div><div",
+   "count": 1
+  },
+  {
+   "old": "age/597212\">15.6</a>; glycer",
+   "new": "age/597212\">15.2</a>; glycer",
+   "count": 1
+  },
+  {
+   "old": "ure: Section <a href=\"/@go/page/597209\">15.3</a>.</p>\n\n</div><div class=\"mt-section\"",
+   "new": "ure: Section <a href=\"/@go/page/597209\">15.4</a>.</p>\n\n</div><div class=\"mt-section\"",
+   "count": 1
+  },
+  {
+   "old": "age/597207\">15.1</a>.</p>\n\n<",
+   "new": "age/597207\">15.3</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "ATP. Section <a href=\"/@go/page/597209\">15.3</a>.</p>\n\n</div><div class=\"mt-section\"",
+   "new": "ATP. Section <a href=\"/@go/page/597209\">15.4</a>.</p>\n\n</div><div class=\"mt-section\"",
+   "count": 1
+  },
+  {
+   "old": "age/597214\">15.8</a>.</p>\n\n<",
+   "new": "age/597214\">15.6</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "age/597215\">15.9</a> and <a ",
+   "new": "age/597215\">15.7</a> and <a ",
+   "count": 1
+  },
+  {
+   "old": "age/597210\">15.4</a>.</p>\n\n<",
+   "new": "age/597210\">15.10</a>.</p>\n\n<",
+   "count": 1
+  },
+  {
+   "old": "oo (Section 15.7).</li>\n<li>",
+   "new": "oo (Section 15.5).</li>\n<li>",
+   "count": 1
+  },
+  {
+   "old": "ge (Section 15.2); blood ure",
+   "new": "ge (Section 15.8); blood ure",
+   "count": 1
+  },
+  {
+   "old": "hy (Section 15.10).</li>\n<li>",
+   "new": "hy (Section 15.9).</li>\n<li>",
+   "count": 1
+  },
+  {
+   "old": "te (Section 15.3). The numbe",
+   "new": "te (Section 15.4). The numbe",
+   "count": 1
+  },
+  {
+   "old": "09\">Section 15.3</a>, <a hre",
+   "new": "09\">Section 15.4</a>, <a hre",
+   "count": 1
+  },
+  {
+   "old": "13\">Section 15.7</a>, <a hre",
+   "new": "13\">Section 15.5</a>, <a hre",
+   "count": 1
+  },
+  {
+   "old": "16\">Section 15.10</a>. This i",
+   "new": "16\">Section 15.9</a>. This i",
+   "count": 1
+  },
+  {
+   "old": "Sections <a href=\"/@go/page/597211\">15.1</a>, <a href=\"/@go/page/597212\">15.2</a>, <a href=\"/@go/page/597207\">15.3</a>, and <a title=\"Oxidation of fatty acids\" href=\"/@go/page/597209\">15.4</a>.</p>",
+   "new": "Sections <a href=\"/@go/page/597211\">15.1</a>, <a href=\"/@go/page/597212\">15.2</a>, and <a title=\"Oxidation of fatty acids\" href=\"/@go/page/597209\">15.4</a>.</p>",
+   "count": 1
+  }
+ ],
+ "597219": [
+  {
+   "old": "tion <a href=\"/@go/page/597213\">15.7</a>).</div></details></div></di",
+   "new": "tion <a href=\"/@go/page/597213\">15.5</a>).</div></details></div></di",
+   "count": 1
+  },
+  {
+   "old": "go/page/597209\">15.3</a> and <a href=\"/@go/page/597213\">15.7</a>).</div></de",
+   "new": "go/page/597209\">15.4</a> and <a href=\"/@go/page/597213\">15.5</a>).</div></de",
+   "count": 1
+  },
+  {
+   "old": "ew: Section 15.3.</div></det",
+   "new": "ew: Section 15.4.</div></det",
+   "count": 1
+  },
+  {
+   "old": "tion <a href=\"/@go/page/597213\">15.7</a>).</div></div>\n<div class=\"a",
+   "new": "tion <a href=\"/@go/page/597213\">15.5</a>).</div></div>\n<div class=\"a",
+   "count": 1
+  },
+  {
+   "old": "go/page/597209\">15.3</a> and <a href=\"/@go/page/597213\">15.7</a>).</div></di",
+   "new": "go/page/597209\">15.4</a> and <a href=\"/@go/page/597213\">15.5</a>).</div></di",
+   "count": 1
+  },
+  {
+   "old": "ew: Section 15.3.</div></div",
+   "new": "ew: Section 15.4.</div></div",
+   "count": 1
+  }
+ ],
+ "597270": [
+  {
+   "old": "this course (4.10, 7.11, 11.7, 12.9, 13.6&ndash;13.9, 14.5 and 15.6).</li>\n<li><",
+   "new": "this course (4.10, 7.11, 11.7, 12.5, 13.6&ndash;13.9, 14.5 and 15.2).</li>\n<li><",
+   "count": 1
+  },
+  {
+   "old": "age/597182\">12.8</a> PCR tes",
+   "new": "age/597182\">12.9</a> PCR tes",
+   "count": 1
+  },
+  {
+   "old": "age/597195\">13.7</a> diabete",
+   "new": "age/597195\">13.9</a> diabete",
+   "count": 1
+  },
+  {
+   "old": "age/597213\">15.7</a> diabeti",
+   "new": "age/597213\">15.5</a> diabeti",
+   "count": 1
+  }
+ ],
+ "597271": [
+  {
+   "old": "tr>\n<tr><td>12.5: Protein Sy",
+   "new": "tr>\n<tr><td>12.6: Protein Sy",
+   "count": 1
+  },
+  {
+   "old": "tr>\n<tr><td>12.6: Mutations ",
+   "new": "tr>\n<tr><td>12.7: Mutations ",
+   "count": 1
+  },
+  {
+   "old": "tr>\n<tr><td>12.7: Viruses</t",
+   "new": "tr>\n<tr><td>12.8: Viruses</t",
+   "count": 1
+  },
+  {
+   "old": "tr>\n<tr><td>12.8: Genetic en",
+   "new": "tr>\n<tr><td>12.9: Genetic en",
+   "count": 1
+  },
+  {
+   "old": "></td></tr>\n<tr><td>15.1: Fatty Acid Activation and Transport</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/The_Basics_of_General_Organic_and_Biological_Chemistry_(Ball_et_al.)/20%3A_Energy_Metabolism/20.06%3A_Stage_II_of_Lipid_Catabolism\">20.06: Stage II of Lipid Catabolism</a></td><td><em>The Basics of General, Organic, and Biological Chemistry</em></td><td>David W. Ball, John W. Hill and Rhonda J. Scott (Saylor Foundation edition, on LibreTexts)</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.2: Removing the Nitrogen - Transamination and Oxidative Deamination</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/The_Basics_of_General_Organic_and_Biological_Chemistry_(Ball_et_al.)/20%3A_Energy_Metabolism/20.07%3A_Stage_II_of_Protein_Catabolism\">20.07: Stage II of Protein Catabolism</a></td><td><em>The Basics of General, Organic, and Biological Chemistry</em></td><td>David W. Ball, John W. Hill and Rhonda J. Scott (Saylor Foundation edition, on LibreTexts)</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.3: Oxidation of fatty acids</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Introduction_to_Organic_and_Biochemistry_(Malik)/09%3A_Food_to_energy_metabolic_pathways/9.06%3A_Oxidation_of_fatty_acids\">9.06: Oxidation of fatty acids</a></td><td><em>Introduction to Organic and Biochemistry</em></td><td>Muhammad Arif Malik (LibreTexts)</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">Public domain (CC0)</a></td></tr>\n<tr><td>15.4: Fates of the Amino Acid Carbon Skeletons</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Introduction_to_Organic_and_Biochemistry_(Malik)/09%3A_Food_to_energy_metabolic_pathways/9.07%3A_Degradation_of_amino_acids\">9.07: Degradation of amino acids</a></td><td><em>Introduction to Organic and Biochemistry</em></td><td>Muhammad Arif Malik (LibreTexts)</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">Public domain (CC0)</a></td></tr>\n<tr><td>15.5: Lipoproteins for Lipid Transport</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/24%3A_Lipid_Metabolism/24.02%3A_Lipoproteins_for_Lipid_Transport\">24.02: Lipoproteins for Lipid Transport</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.7: Ketone Bodies and Ketoacidosis</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/24%3A_Lipid_Metabolism/24.06%3A_Ketone_Bodies_and_Ketoacidosis\">24.06: Ketone Bodies and Ketoacidosis</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.8: Biosynthesis of Fatty Acids</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/24%3A_Lipid_Metabolism/24.07%3A_Biosynthesis_of_Fatty_Acids\">24.07: Biosynthesis of Fatty Acids</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.9: Digestion of Proteins</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/25%3A_Protein_and_Amino_Acid_Metabolism/25.01%3A_Digestion_of_Proteins\">25.01: Digestion of Proteins</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.10: The Urea Cycle</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/25%3A_Protein_and_Amino_Acid_Metabolism/25.04%3A_The_Urea_Cycle\">25.04: The Urea Cycle</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.1",
+   "new": "></td></tr>\n<tr><td>15.1: Lipoproteins for Lipid Transport</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/24%3A_Lipid_Metabolism/24.02%3A_Lipoproteins_for_Lipid_Transport\">24.02: Lipoproteins for Lipid Transport</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.3: Fatty Acid Activation and Transport</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/The_Basics_of_General_Organic_and_Biological_Chemistry_(Ball_et_al.)/20%3A_Energy_Metabolism/20.06%3A_Stage_II_of_Lipid_Catabolism\">20.06: Stage II of Lipid Catabolism</a></td><td><em>The Basics of General, Organic, and Biological Chemistry</em></td><td>David W. Ball, John W. Hill and Rhonda J. Scott (Saylor Foundation edition, on LibreTexts)</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.4: Oxidation of fatty acids</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Introduction_to_Organic_and_Biochemistry_(Malik)/09%3A_Food_to_energy_metabolic_pathways/9.06%3A_Oxidation_of_fatty_acids\">9.06: Oxidation of fatty acids</a></td><td><em>Introduction to Organic and Biochemistry</em></td><td>Muhammad Arif Malik (LibreTexts)</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">Public domain (CC0)</a></td></tr>\n<tr><td>15.5: Ketone Bodies and Ketoacidosis</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/24%3A_Lipid_Metabolism/24.06%3A_Ketone_Bodies_and_Ketoacidosis\">24.06: Ketone Bodies and Ketoacidosis</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.6: Biosynthesis of Fatty Acids</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/24%3A_Lipid_Metabolism/24.07%3A_Biosynthesis_of_Fatty_Acids\">24.07: Biosynthesis of Fatty Acids</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.7: Digestion of Proteins</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/25%3A_Protein_and_Amino_Acid_Metabolism/25.01%3A_Digestion_of_Proteins\">25.01: Digestion of Proteins</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.8: Removing the Nitrogen - Transamination and Oxidative Deamination</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/The_Basics_of_General_Organic_and_Biological_Chemistry_(Ball_et_al.)/20%3A_Energy_Metabolism/20.07%3A_Stage_II_of_Protein_Catabolism\">20.07: Stage II of Protein Catabolism</a></td><td><em>The Basics of General, Organic, and Biological Chemistry</em></td><td>David W. Ball, John W. Hill and Rhonda J. Scott (Saylor Foundation edition, on LibreTexts)</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.9: The Urea Cycle</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Fundamentals_of_General_Organic_and_Biological_Chemistry_(LibreTexts)/25%3A_Protein_and_Amino_Acid_Metabolism/25.04%3A_The_Urea_Cycle\">25.04: The Urea Cycle</a></td><td><em>Fundamentals of General, Organic, and Biological Chemistry</em></td><td>LibreTexts</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/licenses/by-nc-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA 3.0</a></td></tr>\n<tr><td>15.10: Fates of the Amino Acid Carbon Skeletons</td><td><a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"/Bookshelves/Introductory_Chemistry/Introduction_to_Organic_and_Biochemistry_(Malik)/09%3A_Food_to_energy_metabolic_pathways/9.07%3A_Degradation_of_amino_acids\">9.07: Degradation of amino acids</a></td><td><em>Introduction to Organic and Biochemistry</em></td><td>Muhammad Arif Malik (LibreTexts)</td><td><a style=\"text-decoration:underline\" href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">Public domain (CC0)</a></td></tr>\n<tr><td>15.1",
+   "count": 1
+  },
+  {
+   "old": "ic Control; 12.9: Structure and Function of RNA; 13.6: Entry of Other Sugars into Glycolysis; 13.7: Regulation of Glucose Metabolism and Metabolism During Stress; 13.8: Glycogen Metabolism- Glycogenesis and Glycogenolysis; 13.9: Gluconeogenesis- Glucose Synthesis from Noncarbohydrates; 14.5: Energy Output in Complete Glucose Catabolism; 15.6: Storage and Mobilization of Triacylglycerols. License: <a",
+   "new": "ic Control; 12.5: Structure and Function of RNA; 13.6: Entry of Other Sugars into Glycolysis; 13.7: Glycogen Metabolism- Glycogenesis and Glycogenolysis; 13.8: Gluconeogenesis- Glucose Synthesis from Noncarbohydrates; 13.9: Regulation of Glucose Metabolism and Metabolism During Stress; 14.5: Energy Output in Complete Glucose Catabolism; 15.2: Storage and Mobilization of Triacylglycerols. License: <a",
+   "count": 1
+  },
+  {
+   "old": "<tr><td>12.3: Replication and Expression of Genetic Information</td>",
+   "new": "<tr><td>12.3: DNA Replication</td>",
+   "count": 1
+  },
+  {
+   "old": "; 13.6: Entry of Other Sugars into Glycolysis;",
+   "new": "; 13.6: Other Sugars and the Pentose Phosphate Pathway;",
+   "count": 1
+  },
+  {
+   "old": "<tr><td>15.1: Lipoproteins for Lipid Transport</td>",
+   "new": "<tr><td>15.1: Digestion of Lipids and Lipoprotein Transport</td>",
+   "count": 1
+  },
+  {
+   "old": "<tr><td>5.3: Nucleophilic Addition Reactions</td>",
+   "new": "<tr><td>5.3: Adding Alcohols to Aldehydes and Ketones: Hemiacetals and Acetals</td>",
+   "count": 1
+  }
+ ],
+ "597272": [
+  {
+   "old": "age/597196\">13.8</a>, <a tit",
+   "new": "age/597196\">13.7</a>, <a tit",
+   "count": 1
+  },
+  {
+   "old": "age/597197\">13.9</a>, <a tit",
+   "new": "age/597197\">13.8</a>, <a tit",
+   "count": 1
+  },
+  {
+   "old": "=\"/@go/page/597209\">15.3</a>, <a title=\"The ",
+   "new": "=\"/@go/page/597209\">15.4</a>, <a title=\"The ",
+   "count": 1
+  },
+  {
+   "old": "Urea Cycle\" href=\"/@go/page/597216\">15.10</a></td></tr>\n<tr><td data-th=\"Cour",
+   "new": "Urea Cycle\" href=\"/@go/page/597216\">15.9</a></td></tr>\n<tr><td data-th=\"Cour",
+   "count": 1
+  },
+  {
+   "old": "age/597179\">12.5</a>, <a tit",
+   "new": "age/597179\">12.6</a>, <a tit",
+   "count": 1
+  },
+  {
+   "old": "=\"/@go/page/597180\">12.6</a></td></tr>\n</tbo",
+   "new": "=\"/@go/page/597180\">12.7</a></td></tr>\n</tbo",
+   "count": 1
+  },
+  {
+   "old": "age/597183\">12.9</a></td></t",
+   "new": "age/597183\">12.5</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "age/597179\">12.5</a></td></t",
+   "new": "age/597179\">12.6</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "=\"/@go/page/597180\">12.6</a></td></tr>\n<tr><",
+   "new": "=\"/@go/page/597180\">12.7</a></td></tr>\n<tr><",
+   "count": 1
+  },
+  {
+   "old": "age/597181\">12.7</a>, <a tit",
+   "new": "age/597181\">12.8</a>, <a tit",
+   "count": 1
+  },
+  {
+   "old": "age/597182\">12.8</a></td></t",
+   "new": "age/597182\">12.9</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "age/597195\">13.7</a></td></t",
+   "new": "age/597195\">13.9</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "age/597196\">13.8</a></td></t",
+   "new": "age/597196\">13.7</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "age/597197\">13.9</a></td></t",
+   "new": "age/597197\">13.8</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "k sections\"><a title=\"Stage II of Lipid Catabolism\" href=\"/@go/page/597207\">15.1</a>, <a title=\"Oxidation of fatty acids\" href=\"/@go/page/597209\">15.3</a>, <a title=\"Lipoproteins for Lipid Transport\" href=\"/@go/page/597211\">15.5</a>, <a title=\"Storage and Mobilization of Triacylglycerols\" href=\"/@go/page/597212\">15.6</a></td></tr>\n<",
+   "new": "k sections\"><a title=\"Lipoproteins for Lipid Transport\" href=\"/@go/page/597211\">15.1</a>, <a title=\"Storage and Mobilization of Triacylglycerols\" href=\"/@go/page/597212\">15.2</a>, <a title=\"Stage II of Lipid Catabolism\" href=\"/@go/page/597207\">15.3</a>, <a title=\"Oxidation of fatty acids\" href=\"/@go/page/597209\">15.4</a></td></tr>\n<",
+   "count": 1
+  },
+  {
+   "old": "rt\" href=\"/@go/page/597207\">15.1</a>, <a title=\"Oxidation of",
+   "new": "rt\" href=\"/@go/page/597207\">15.3</a>, <a title=\"Oxidation of",
+   "count": 1
+  },
+  {
+   "old": "age/597209\">15.3</a></td></t",
+   "new": "age/597209\">15.4</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "age/597213\">15.7</a></td></t",
+   "new": "age/597213\">15.5</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "age/597214\">15.8</a></td></t",
+   "new": "age/597214\">15.6</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "age/597215\">15.9</a></td></t",
+   "new": "age/597215\">15.7</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "k sections\"><a title=\"Stage II of Protein Catabolism\" href=\"/@go/page/597208\">15.2</a>, <a title=\"Degradation of amino acids\" href=\"/@go/page/597210\">15.4</a>, <a title=\"The Urea Cycle\" href=\"/@go/page/597216\">15.10</a></td></tr>\n<",
+   "new": "k sections\"><a title=\"Stage II of Protein Catabolism\" href=\"/@go/page/597208\">15.8</a>, <a title=\"The Urea Cycle\" href=\"/@go/page/597216\">15.9</a>, <a title=\"Degradation of amino acids\" href=\"/@go/page/597210\">15.10</a></td></tr>\n<",
+   "count": 1
+  },
+  {
+   "old": "age/597210\">15.4</a></td></t",
+   "new": "age/597210\">15.10</a></td></t",
+   "count": 1
+  },
+  {
+   "old": "title=\"Replication and Expression of Genetic Information\" href=\"/@go/page/597177\"",
+   "new": "title=\"DNA Replication\" href=\"/@go/page/597177\"",
+   "count": 2
+  },
+  {
+   "old": "title=\"Entry of Other Sugars into Glycolysis\" href=\"/@go/page/597194\"",
+   "new": "title=\"Other Sugars and the Pentose Phosphate Pathway\" href=\"/@go/page/597194\"",
+   "count": 2
+  },
+  {
+   "old": "title=\"Lipoproteins for Lipid Transport\" href=\"/@go/page/597211\"",
+   "new": "title=\"Digestion of Lipids and Lipoprotein Transport\" href=\"/@go/page/597211\"",
+   "count": 1
+  },
+  {
+   "old": "title=\"Nucleophilic Addition Reactions\" href=\"/@go/page/597104\"",
+   "new": "title=\"Adding Alcohols to Aldehydes and Ketones: Hemiacetals and Acetals\" href=\"/@go/page/597104\"",
+   "count": 2
+  },
+  {
+   "old": "title=\"Stage II of Lipid Catabolism\" href=\"/@go/page/597207\"",
+   "new": "title=\"Fatty Acid Activation and Transport\" href=\"/@go/page/597207\"",
+   "count": 1
+  },
+  {
+   "old": "title=\"Stage II of Protein Catabolism\" href=\"/@go/page/597208\"",
+   "new": "title=\"Removing the Nitrogen - Transamination and Oxidative Deamination\" href=\"/@go/page/597208\"",
+   "count": 1
+  },
+  {
+   "old": "title=\"Degradation of amino acids\" href=\"/@go/page/597210\"",
+   "new": "title=\"Fates of the Amino Acid Carbon Skeletons\" href=\"/@go/page/597210\"",
+   "count": 1
+  },
+  {
+   "old": "href=\"/@go/page/597212\">15.2</a>, <a title=\"Fatty Acid Activation and Transport\" href=\"/@go/page/597207\">15.3</a>, <a title=\"Oxidation of fatty acids\" href=\"/@go/page/597209\">15.4</a></td>",
+   "new": "href=\"/@go/page/597212\">15.2</a>, <a title=\"Oxidation of fatty acids\" href=\"/@go/page/597209\">15.4</a></td>",
+   "count": 1
+  }
+ ]
+}

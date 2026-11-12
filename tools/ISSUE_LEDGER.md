@@ -243,3 +243,35 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - The 5.4 image still says "CrO3 + H2SO4".
   - Image files no longer used on their pages could be deleted (listed in the round 2 notes).
   - Video hints for the new ADAPT questions.
+
+## 2026-11-12 — Section moves and video hints (PR audit/2026-11-section-moves-hints)
+- **Checked the 00:50 compile.** It is Full (7).pdf, now `CHEM3B-Full.pdf` (1,327 pp); the 23:44 compile is `CHEM3B-Full-2026-11-11-2344.pdf`.
+  - All round-2 (Tier 3/4) text prints; the only misses are alt text and hideprint answers.
+  - p2 license present; every "Dr. Dan" is the Study Hub name; no raw MathJax.
+  - Hidden-label scan flags only p224 (known).
+  - Images: 2,179, down from 2,234 because the duplicated Ball figures were removed.
+- **Moves on LibreTexts.** Page ids are unchanged, so every /@go/page link still works. Titles and paths were set through the deki move API, and the sibling order through `PUT pages/{id}/order?afterid=`, which drives the prev/next arrows. No redirect stubs appear in the chapter listings.
+  - **Ch 12:** RNA structure moved up. 12.9 → 12.5; 12.5–12.8 → 12.6–12.9. 12.3 is retitled "DNA Replication".
+  - **Ch 13:** 13.8 → 13.7 and 13.9 → 13.8. Regulation (old 13.7) → 13.9, the capstone. 13.6 is retitled "Other Sugars and the Pentose Phosphate Pathway".
+  - **Ch 15, lipid block:**
+    - 15.1 Digestion of Lipids and Lipoprotein Transport (old 15.5). The "Digesting fats" lecture block and its figure moved here from old 15.1.
+    - 15.2 Storage/Mobilization (old 15.6).
+    - 15.3 Activation and Transport (old 15.1).
+    - 15.4 β-oxidation (old 15.3).
+    - 15.5 Ketone bodies (old 15.7).
+    - 15.6 Lipogenesis (old 15.8).
+  - **Ch 15, protein block:**
+    - 15.7 Protein digestion (old 15.9).
+    - 15.8 Transamination/Deamination (old 15.2).
+    - 15.9 Urea cycle (old 15.10).
+    - 15.10 Carbon skeletons (old 15.4).
+    - 15.11 is unchanged.
+  - **5.3** is retitled "Adding Alcohols to Aldehydes and Ketones- Hemiacetals and Acetals".
+- **Cross-references: 312 edits on 44 pages** (`tools/section_moves_2026-11-12.json`).
+  - What changed: "Section N" text, link text and titles, hard-coded figure labels on moved pages, Chapter Guides, Index, Glossary, Course Outline Alignment, Source Attributions, About and chapter landing pages. Pre-existing wrong Index/Glossary pointers were also fixed.
+  - What was kept: Practice Problem, Cumulative and Case numbers, Ball/LibreTexts source numbering, and data values. The keep log has 204 entries.
+  - The bank, ADAPT and Final Boss contain no section references, so they needed no changes.
+  - SHA-256 of all 44 pages matches `pages/live/`. LibreTexts normalized 597207 (section ids) and 597211 (one closing tag); the repo copies reproduce that. The edits are mirrored into `pages/*.html` and `sections/`.
+  - CONVENTIONS.md and LIVE_SNAPSHOT.md are updated.
+- **ADAPT video hints.** 38 of the 100 new questions now carry Dr. Dan's lesson video with a start time and jump links (`tools/adapt_hints_new_2026_11_12.py`, `adapt/adapt_new_hints_2026-11-12.json`). Matches were reviewed by hand: 5 skipped, 1 corrected. The other 62 have no matching lesson video.
+  - A scan of all 1,031 questions found 8 hints with a doubled "Hint" heading, from the 2026-11-12 PATCHes; all 8 are repaired. Lesson learned: send the hint without ADAPT's mt-section wrapper, because ADAPT adds it on save.
