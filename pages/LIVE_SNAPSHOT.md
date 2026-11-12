@@ -2,6 +2,8 @@
 
 Exported from chem.libretexts.org on 2026-11-06T06:19:59.058Z. One file per page, named by LibreTexts page id. These are the current source of truth; edit LibreTexts, not these files, and do not re-upload them.
 
+**Patched 2026-11-11 (not a full re-export):** the LibreTexts edits made that day were applied to these files with the same rules, so they match the live text for those changes: "Dr. Dan" became "Daniel Kwasniewski" in credit lines ("Dr. Dan's Chemistry Study Hub" and "ItsDrDan" unchanged); ten essential amino acids on 597154 and 597219; tyrosine on 597085; opener captions on 597040, 597043, 597045, 597046, 597048 and 597052; own-work credit lines now say CC BY 4.0, as live. Other live edits made after 2026-11-06 (for example the Practice Problems answer reasoning added 2026-11-11) are not in this snapshot.
+
 | Page id | Title |
 |---|---|
 | [488223](live/488223.html) | Introductory Organic and Biological Chemistry for FCC |
