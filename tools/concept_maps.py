@@ -34,7 +34,7 @@ M = {
   ("+ alcohol","Hemiacetal",[("+ alcohol","acetal"),("in one molecule","sugar rings")]),
   ("handedness","Chirality",[("4 different groups","chiral carbon"),("mirror images","enantiomers, D/L")])]),
 6:("Carboxylic acids and esters","Acyl group C(=O)–",[
-  ("–COOH","Carboxylic acids",[("weak acids","pKa ≈ 4–5"),("+ base","carboxylate salts")]),
+  ("–COOH","Carboxylic acids",[("weak acids","RCOO⁻ in body"),("+ base","carboxylate salts")]),
   ("acid + alcohol","Esterification",[("condensation","loses H2O")]),
   ("–COO–","Esters",[("smell","fruity"),("no O–H","lower bp than acids")]),
   ("split by water","Hydrolysis",[("acid","acid + alcohol"),("base","carboxylate salt (saponification)")]),

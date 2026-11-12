@@ -17,7 +17,8 @@ If you change a convention, update every "Depends on it" location in the same pa
 | Omega numbering and 18:1 shorthand | 9.1 | 9.7, 9.8 |
 | Oligopeptide 2–20, polypeptide 21–40, protein >40 aa | 10.4 | 10.6, 10.11 |
 | Four R-group interactions: hydrophobic, H bonds, salt bridges, disulfides (no metal coordinate bonds) | 10.5, 10.8 | 10.10, 10.11 |
-| Side chain charge: compare pH with side-chain pKa; pI gives net charge of the free amino acid only | 10.1, 10.2 | 10.12 problems (C02), Find-the-Error 10.81 |
+| No pKa (instructor, 2026-11-11). Acid strength is a ranking: carboxylic acid > phenol ≈ thiol > alcohol ≈ water, shown by NaHCO3 (acids only) and NaOH (acids, phenols, thiols). At body pH, –COOH → –COO⁻ and amines → –NH3⁺; phenols and alcohols stay neutral; in strong acid, –COOH keeps its H | 4.10, 6.10 | 4.7, 4.11, 6.11, 6.12, 13.4, 14.7 |
+| Side chain charge at pH 7.4 by category: acidic (Asp, Glu) −, basic (Lys, Arg) +, His mostly neutral; pI gives net charge of the free amino acid only | 10.1, 10.2 | 10.12 problems (C02), Find-the-Error 10.81 |
 | Point mutation = substitution; insertion and deletion separate | 12.6 | 12.10 guide |
 | DNA written 5′-GTAC-3′ (no "d"); template read 3′→5′, RNA built 5′→3′; coding strand | 12.2, 12.4 | 12.3, 12.11 problems, Find-the-Error 12.76 |
 | Ten essential amino acids (arginine counted) | 15.11 | 15.12 guide |
