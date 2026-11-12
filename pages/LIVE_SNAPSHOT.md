@@ -67,7 +67,7 @@ Exported from chem.libretexts.org on 2026-11-12T01:23:12.606Z. One file per page
 | [597043](live/597043.html) | 5: Aldehydes and Ketones |
 | [597102](live/597102.html) | 5.1: Aldehydes and Ketones- Structure and Names |
 | [597103](live/597103.html) | 5.2: Properties of Aldehydes and Ketones |
-| [597104](live/597104.html) | 5.3: Nucleophilic Addition Reactions |
+| [597104](live/597104.html) | 5.3: Adding Alcohols to Aldehydes and Ketones- Hemiacetals and Acetals |
 | [597105](live/597105.html) | 5.4: Reduction and oxidation (redox) reactions |
 | [597106](live/597106.html) | 5.5: Introduction to stereochemistry |
 | [597107](live/597107.html) | 5.6: Chapter Guide - Aldehydes and Ketones |
@@ -151,13 +151,13 @@ Exported from chem.libretexts.org on 2026-11-12T01:23:12.606Z. One file per page
 | [597050](live/597050.html) | 12: Nucleic Acids and Protein Synthesis |
 | [597175](live/597175.html) | 12.1: Nucleotides |
 | [597176](live/597176.html) | 12.2: Nucleic Acid Structure |
-| [597177](live/597177.html) | 12.3: Replication and Expression of Genetic Information |
+| [597177](live/597177.html) | 12.3: DNA Replication |
 | [597178](live/597178.html) | 12.4: Ribonucleic acid (RNA) and transcription |
-| [597179](live/597179.html) | 12.5: Protein Synthesis and the Genetic Code |
-| [597180](live/597180.html) | 12.6: Mutations and Genetic Diseases |
-| [597181](live/597181.html) | 12.7: Viruses |
-| [597182](live/597182.html) | 12.8: Genetic engineering |
-| [597183](live/597183.html) | 12.9: Structure and Function of RNA |
+| [597183](live/597183.html) | 12.5: Structure and Function of RNA |
+| [597179](live/597179.html) | 12.6: Protein Synthesis and the Genetic Code |
+| [597180](live/597180.html) | 12.7: Mutations and Genetic Diseases |
+| [597181](live/597181.html) | 12.8: Viruses |
+| [597182](live/597182.html) | 12.9: Genetic engineering |
 | [597184](live/597184.html) | 12.10: Chapter Guide - Nucleic Acids and Protein Synthesis |
 | [597185](live/597185.html) | 12.11: Practice Problems |
 | [597242](live/597242.html) | 12.12: Practice Games |
@@ -167,10 +167,10 @@ Exported from chem.libretexts.org on 2026-11-12T01:23:12.606Z. One file per page
 | [597191](live/597191.html) | 13.3: Digestion (Stage I of Catabolism) |
 | [597192](live/597192.html) | 13.4: Stage II of Carbohydrate Catabolism |
 | [597193](live/597193.html) | 13.5: Oxidation of glucose -the glycolysis |
-| [597194](live/597194.html) | 13.6: Entry of Other Sugars into Glycolysis |
-| [597195](live/597195.html) | 13.7: Regulation of Glucose Metabolism and Metabolism During Stress |
-| [597196](live/597196.html) | 13.8: Glycogen Metabolism- Glycogenesis and Glycogenolysis |
-| [597197](live/597197.html) | 13.9: Gluconeogenesis- Glucose Synthesis from Noncarbohydrates |
+| [597194](live/597194.html) | 13.6: Other Sugars and the Pentose Phosphate Pathway |
+| [597196](live/597196.html) | 13.7: Glycogen Metabolism- Glycogenesis and Glycogenolysis |
+| [597197](live/597197.html) | 13.8: Gluconeogenesis- Glucose Synthesis from Noncarbohydrates |
+| [597195](live/597195.html) | 13.9: Regulation of Glucose Metabolism and Metabolism During Stress |
 | [597198](live/597198.html) | 13.10: Chapter Guide - Carbohydrate Metabolism |
 | [597199](live/597199.html) | 13.11: Practice Problems |
 | [597243](live/597243.html) | 13.12: Practice Games |
@@ -184,16 +184,16 @@ Exported from chem.libretexts.org on 2026-11-12T01:23:12.606Z. One file per page
 | [597206](live/597206.html) | 14.7: Practice Problems |
 | [597244](live/597244.html) | 14.8: Practice Games |
 | [597053](live/597053.html) | 15: Metabolism of Lipids and Proteins |
-| [597207](live/597207.html) | 15.1: Fatty Acid Activation and Transport |
-| [597208](live/597208.html) | 15.2: Removing the Nitrogen - Transamination and Oxidative Deamination |
-| [597209](live/597209.html) | 15.3: Oxidation of fatty acids |
-| [597210](live/597210.html) | 15.4: Fates of the Amino Acid Carbon Skeletons |
-| [597211](live/597211.html) | 15.5: Lipoproteins for Lipid Transport |
-| [597212](live/597212.html) | 15.6: Storage and Mobilization of Triacylglycerols |
-| [597213](live/597213.html) | 15.7: Ketone Bodies and Ketoacidosis |
-| [597214](live/597214.html) | 15.8: Biosynthesis of Fatty Acids |
-| [597215](live/597215.html) | 15.9: Digestion of Proteins |
-| [597216](live/597216.html) | 15.10: The Urea Cycle |
+| [597211](live/597211.html) | 15.1: Digestion of Lipids and Lipoprotein Transport |
+| [597212](live/597212.html) | 15.2: Storage and Mobilization of Triacylglycerols |
+| [597207](live/597207.html) | 15.3: Fatty Acid Activation and Transport |
+| [597209](live/597209.html) | 15.4: Oxidation of fatty acids |
+| [597213](live/597213.html) | 15.5: Ketone Bodies and Ketoacidosis |
+| [597214](live/597214.html) | 15.6: Biosynthesis of Fatty Acids |
+| [597215](live/597215.html) | 15.7: Digestion of Proteins |
+| [597208](live/597208.html) | 15.8: Removing the Nitrogen - Transamination and Oxidative Deamination |
+| [597216](live/597216.html) | 15.9: The Urea Cycle |
+| [597210](live/597210.html) | 15.10: Fates of the Amino Acid Carbon Skeletons |
 | [597217](live/597217.html) | 15.11: Biosynthesis of Nonessential Amino Acids |
 | [597218](live/597218.html) | 15.12: Chapter Guide - Metabolism of Lipids and Proteins |
 | [597219](live/597219.html) | 15.13: Practice Problems |
