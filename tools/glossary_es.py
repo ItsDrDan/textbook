@@ -1,5 +1,5 @@
 # Spanish equivalents for the glossary headwords, in the same alphabetical order as the glossary rows.
-# Shown after each definition as "Español: ...". Written by Dr. Dan's book project; CC BY-NC-SA 4.0.
+# Shown after each definition as "Español: ...". Written by Daniel Kwasniewski's book project; CC BY 4.0.
 ES = [
 "acetal", "acetil-CoA", "aquiral", "hidrólisis ácida", "energía de activación", "sitio activo", "transporte activo", "grupo acilo",
 "polímero de adición", "reacción de adición", "tejido adiposo", "aeróbico", "alcohol", "alcohol deshidrogenasa", "aldehído", "aldosa",

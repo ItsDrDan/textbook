@@ -11,7 +11,7 @@ If you change a convention, update every "Depends on it" location in the same pa
 | Six traditional enzyme classes (EC 7 translocases mentioned, not assessed); citrate synthase = ligase; aconitase = lyase | 11.1; 14.3 table | 14.6 guide, Glossary (ligase, transferase), bank fb-3B-2030, ADAPT ch14 copy, Final Boss copy |
 | Cofactor = inorganic ion; coenzyme = organic, usually vitamin-derived | 11.5 | 11.4 tip, 11.8 guide, Glossary |
 | Feedback inhibition = allosteric regulation (11.6), not filed under noncompetitive inhibition | 11.6 | 11.4 tip |
-| Heavy metals: irreversible inhibitors that bind –SH (also disrupt disulfides/salt bridges); never cofactors | 11.4, 10.10 | 11.8 guide |
+| Heavy metals: irreversible **and** noncompetitive inhibitors that bind –SH (also disrupt disulfides/salt bridges); never cofactors | 11.4, 10.10 | 11.8 guide, bank fb-3B-0895 |
 | IUPAC names on exams; common names recognized; pent-2-ene and 2-pentene both accepted | 2.3, 2.5, 3.1, 7.1, 7.5 | Practice Problems naming sections |
 | Hydrolyzable / non-hydrolyzable lipids (= saponifiable / nonsaponifiable) | 9.6 | 9.7 guide, concept map ch09 |
 | Omega numbering and 18:1 shorthand | 9.1 | 9.7, 9.8 |

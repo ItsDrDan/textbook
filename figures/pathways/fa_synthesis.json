@@ -100,5 +100,6 @@
    "label": "chain reaches 16 C"
   }
  ],
- "pad": 70
+ "pad": 70,
+ "alt": "Fatty acid synthesis cycle. Acetyl CoA is carboxylated (using ATP) to malonyl CoA (3 C); acetyl CoA also loads onto ACP. Acetyl ACP plus malonyl ACP go through four steps: 1. condensation, releasing CO2, gives acetoacetyl ACP (4 C, beta-keto); 2. reduction by NADPH gives 3-hydroxybutyryl ACP (2° alcohol); 3. dehydration, releasing H2O, gives crotonyl ACP (C=C); 4. reduction by NADPH gives butyryl ACP (4 C, saturated). Adding another malonyl ACP starts the next turn; after 7 turns the chain reaches 16 C, palmitate."
 }

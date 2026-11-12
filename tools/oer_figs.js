@@ -1,4 +1,4 @@
-/* Original replacements for CC BY-SA figures (Dr. Dan, CC BY 4.0).
+/* Original replacements for CC BY-SA figures (Daniel Kwasniewski, CC BY 4.0).
    node tools/oer_figs.js -> figures/pathways/oer/*.svg
    Same visual language as tools/glycolysis.js (plain SVG, no ids/styles/markers). */
 const fs = require('fs'), path = require('path');

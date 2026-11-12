@@ -1,5 +1,5 @@
 """Rosa's Story: a running patient case, one part per chapter, inserted into each Chapter Guide before Practice.
-Fictional patient. Written for this book by Dr. Dan (Daniel Kwasniewski), Fresno City College, CC BY-NC-SA 4.0."""
+Fictional patient. Written for this book by Daniel Kwasniewski, Fresno City College, CC BY 4.0."""
 import re, os
 HERE = os.path.dirname(os.path.abspath(__file__))
 ID = {}

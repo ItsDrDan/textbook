@@ -41,7 +41,7 @@ for ch,pid,title,scen,qs in SETS:
     h=f'<div class="mt-section"><h2 class="editable">Board-Style Case Set: {title}</h2>\n<p><em>Health-care licensing exams such as the National Board Dental Hygiene Examination use case sets: a short patient scenario followed by several questions. Read the case, then answer each question.</em></p>\n<div class="box-note" style="border-left:6px solid #2d8a6a;"><p class="boxtitle">The case</p><p>{scen}</p></div>\n'
     for i,(q,opts,ans,why) in enumerate(qs,1):
         h+=f'<div class="box-exercise"><p class="boxtitle">Case Set Question {ch}.{i}</p><p>{q}</p><ol style="list-style-type:upper-alpha">'+''.join(f'<li>{o}</li>' for o in opts)+f'</ol><details><summary>Answer</summary><div><strong>{L[ans]}.</strong> {why}</div></details></div>\n'
-    h+='<p style="font-size:0.9em;color:#555;">Case set by Dr. Dan (Daniel Kwasniewski), Fresno City College, CC BY-NC-SA 4.0.</p></div>\n'
+    h+='<p style="font-size:0.9em;color:#555;">Case set by Daniel Kwasniewski, Fresno City College, CC BY 4.0.</p></div>\n'
     out[pid]=h
 json.dump({str(k):v for k,v in out.items()},open('/home/claude/textbook/sections/boardsets/boardsets.json','w'))
 print(len(out))

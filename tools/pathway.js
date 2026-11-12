@@ -73,5 +73,5 @@ for(const n of spec.nodes){
 }
 out+=labels;
 if(spec.title) out=`<text x="${PAD+4}" y="${PAD+18}" font-size="${FS+2}" font-weight="800" fill="${INK}" font-family="${FONT}">${esc(spec.title)}</text>`+out;
-const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" style="max-width:100%;height:auto;display:block;margin:0 auto" role="img" aria-label="${esc(spec.alt||spec.title||'pathway diagram')}"><rect width="100%" height="100%" rx="14" fill="#ffffff" stroke="#e2dccd" stroke-width="2" stroke-dasharray="6 4"/>${out}</svg>`;
+const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" style="max-width:100%;height:auto;display:block;margin:0 auto" role="img" aria-label="${esc(spec.alt||spec.title||'pathway diagram')}"><title>${esc(spec.alt||spec.title||'pathway diagram')}</title><rect width="100%" height="100%" rx="14" fill="#ffffff" stroke="#e2dccd" stroke-width="2" stroke-dasharray="6 4"/>${out}</svg>`;
 process.stdout.write(svg);

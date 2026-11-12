@@ -123,3 +123,17 @@ Instructor decision: edit source text in place wherever licenses allow (Ball/Fun
 | M02 | in place | Stable page ids and @go links kept (no sections split or renumbered); new problems appended with new numbers; version history + errata list in About This Book (v1.1). |
 | M03 | defined | Release gate per chapter: (1) figures render in the latest PDF (✓ all chapters, 11-11 export); (2) assessed answer keys independently checked (✗ pending audit matrix); (3) learning route complete: opener → sections → summary → guide → problems (✓); (4) essential content available in print and online (✓ except 43 cached inline answers pending LibreTexts). Chapters are therefore "ready except gate 2". |
 | answerkey.js | fixed | Old-key removal now cuts only the key block (LibreTexts adds wrapper closings after it, which the old regex deleted). |
+
+## 2026-11-11 evening: ADAPT course 4605 updated in place
+Edited in the ADAPT question editor ("Automatically update the question" for own assignments, reason recorded on each), matching the bank and the adapt/ export files:
+- fb-3B-0063 (ADAPT 354321, Ch 5): "the S form of ibuprofen" → "ibuprofen" (no R/S).
+- fb-3B-0192 (ADAPT 354486, Ch 10): feedback adds Arg as the conditionally essential tenth.
+- fb-3B-0884 (ADAPT 355079, Ch 11): feedback says "allosteric regulation", not "allosteric (noncompetitive) regulation".
+- fb-3B-0895 (ADAPT 355090, Ch 11): answer is "Irreversible (noncompetitive) inhibition … permanently changes the enzyme's shape"; distractor "Noncompetitive inhibition" → "Reversible inhibition"; feedback explains heavy metals are also noncompetitive.
+Verified in My Questions and in the Ch 5/10/11 assignment views; correct answers unchanged. fb-3B-0396 is not in the ADAPT course.
+
+## 2026-11-11 late: instructor decisions applied
+- **Question bank license: CC BY 4.0** (LICENSE.md, README, adapt/README.md; Final Boss LICENSE has a CC BY 4.0 carve-out for the CHEM 3B questions, game still all rights reserved).
+- **Per-choice explanations (b2e68a8): approved** by the instructor ("all of them good").
+- **Scope:** "major product" and resonance-counting items stay. **Meso compounds removed:** fb-3B-0778, 0779, 0787, 0790, 0804–0809, 0811, 0812 deleted from bank/ (now 1,045), the ADAPT export files and Final Boss (v38). Meso wording taken out of 0402, 0777, 0782, 0810, 0813 (bank, exports, Final Boss, and the ADAPT course). **Still to do in ADAPT (instructor):** remove the 12 from "CHEM 3B Chapter 5" (assignment 223786; ADAPT ids 354867, 354868, 354876, 354878, 354891–354896, 354898, 354899). Removal was blocked for the assistant.
+- **9.3 lipids (597146):** the four glycerophospholipid images (from Malik's book) no longer loaded on LibreTexts. Redrawn with RDKit (POPC, POPE, POPS, POPI), uploaded to the page (files 512693–512696), figure now credited "Structures drawn by Daniel Kwasniewski; CC BY 4.0." Repo copies match live (SHA-256).

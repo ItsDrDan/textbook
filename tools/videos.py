@@ -1,10 +1,10 @@
-"""Embedded YouTube videos: an Amoeba Sisters or Dr. Dan "Watch first" video at the top of chapter pages,
+"""Embedded YouTube videos: an Amoeba Sisters or Daniel Kwasniewski "Watch first" video at the top of chapter pages,
 and topic videos inside sections (placed right after the Learning Objectives box).
 python3 tools/videos.py -> /tmp/.../video_spec.json  {pageId: {"where": "chapter"|"section", "html": "..."}}"""
 import json, html, sys
 CH = {1: 597039, 2: 597040, 3: 597041, 4: 597042, 5: 597043, 6: 597044, 7: 597045, 8: 597046, 9: 597047, 10: 597048,
       11: 597049, 12: 597050, 13: 597051, 14: 597052, 15: 597053}
-AS, DD = 'Amoeba Sisters', 'Dr. Dan (ItsDrDan)'
+AS, DD = 'Amoeba Sisters', 'Daniel Kwasniewski (ItsDrDan)'
 # id: (title, length, channel, one-line reason)
 V = {
  '3jwAGWky98c': ('Properties of Water', '6:51', AS, 'A friendly look at why water is polar and how hydrogen bonds give it its special properties. Keep it in mind for the intermolecular forces in this chapter.'),
@@ -74,14 +74,14 @@ SEC = {597056: ['CGmbd2YwflY'], 597057: ['Wz23sE4KUBE'], 597058: ['wD3b-7J0Xy0',
        597180: ['vl6Vlf2thvI'], 597181: ['8FqlTslU22s'], 597182: ['CDw4WPng2iE', 'a5jmdh9AnS4'], 597190: ['1UvuBYUbFk0'],
        597193: ['YbdkbCU20_M'], 597195: ['Iz0Q9nTZCw4']}
 
-# key moments (timestamps) for Dr. Dan's videos, from the study hub (ItsDrDan/games data/hub.js)
+# key moments (timestamps) for Daniel Kwasniewski's videos, from the study hub (ItsDrDan/games data/hub.js)
 MOM = json.load(open(__import__('os').path.join(__import__('os').path.dirname(__import__('os').path.abspath(__file__)), 'video_moments.json')))
 
 def frame(vid):
     t, ln, ch, why = V[vid]
     e = html.escape
     note = ('Video by the Amoeba Sisters on YouTube, embedded here. It is not covered by this book’s Creative Commons license.'
-            if ch == AS else 'Video by Dr. Dan on the ItsDrDan YouTube channel.')
+            if ch == AS else 'Video by Daniel Kwasniewski on the ItsDrDan YouTube channel.')
     M = MOM.get(vid, []) if ch != AS else []
     fmt = lambda x: f'{x // 60}:{x % 60:02d}'
     jump = ('<p><small><strong>Jump to (opens YouTube):</strong> ' + ' &middot; '.join(

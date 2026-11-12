@@ -66,10 +66,10 @@ function rxnLab(){
  const keys=(P.get('rxn')||'').split(',').filter(k=>E.TPL[k]);
  const modeParam=P.get('mode')||'mix';
  const host=$('#host');
- host.innerHTML=`<div class="rl-card"><div class="rl-top"><div class="rl-pills"><span class="rl-pill ok" id="rlOk">✅ 0 / 0 first try</span><span class="rl-pill st" id="rlSt">🔥 Streak 0</span></div><span class="rl-pill" id="rlMode"></span></div>
+ host.innerHTML=`<div class="rl-card"><div class="rl-top"><div class="rl-pills"><span class="rl-pill ok" id="rlOk" aria-live="polite">✅ 0 / 0 first try</span><span class="rl-pill st" id="rlSt">🔥 Streak 0</span></div><span class="rl-pill" id="rlMode"></span></div>
  <div id="rlRxn"></div><div class="rl-prompt" id="rlPrompt"></div><div id="rlAns"></div>
  <div class="rl-btns"><button class="rl-btn" id="rlCheck">Check</button><button class="rl-btn hint" id="rlHint">💡 Hint</button><button class="rl-btn next" id="rlNext">New Question ▸</button></div>
- <div class="rl-hint" id="rlHintBox" hidden></div><div class="rl-fb" id="rlFb"></div><div class="rl-ref" id="rlRef"></div></div>`;
+ <div class="rl-hint" id="rlHintBox" hidden></div><div class="rl-fb" id="rlFb" role="status" aria-live="polite"></div><div class="rl-ref" id="rlRef"></div></div>`;
  const S={n:0,first:0,streak:0,q:null,sel:null,tries:0,done:false,hinted:false};
  const stats=()=>{$('#rlOk').textContent=`✅ ${S.first} / ${S.n} first try`;$('#rlSt').textContent=`🔥 Streak ${S.streak}`};
  const fb=(k,h)=>{const f=$('#rlFb');f.className='rl-fb '+k;f.innerHTML=h};
@@ -78,21 +78,25 @@ function rxnLab(){
  function distractors(correct,avoid,wantN){const seen=new Set([correct.name,...avoid.map(p=>p.name)]),same=[],other=[],cn=carbons(correct.smi);
   for(let i=0;i<60&&same.length<wantN+3;i++){const r=E.TPL[pick(Object.keys(E.TPL))]();[...r.reactants,...r.products].filter(p=>p.smi&&!seen.has(p.name)).forEach(p=>{seen.add(p.name);(carbons(p.smi)===cn?same:other).push(p)})}
   return shuf(same).concat(shuf(other)).slice(0,wantN)}
+ /* explanation for a wrong structure choice: name it and say why it does not fit */
+ function wrongStruct(d,role){return role==='product'
+  ?`That structure is <b>${esc(d.name)}</b>. Apply this reaction to the starting materials shown: it does not produce ${esc(d.name)}.`
+  :`That structure is <b>${esc(d.name)}</b>. Run this reaction on ${esc(d.name)} and you would not get the product shown.`}
  function newQ(){
   let mode=modeParam==='mix'?pick(['identify','product','name','reactant']):modeParam;
   const ok=r=>mode==='identify'?true:mode==='product'?!!r.draw:mode==='name'?!!r.draw:(r.rev&&!r.rev.alts&&r.rev.idx.length===1);
   let r=E.genRxn(ok,keys);if(!r){mode='identify';r=E.genRxn(null,keys)}
   if(!r){$('#rlPrompt').textContent='No reactions set for this widget (check ?rxn=).';return}
-  S.q={r,mode};S.sel=null;S.tries=0;S.done=false;S.hinted=false;$('#rlHintBox').hidden=true;fb('','');$('#rlRef').innerHTML='';$('#rlNext').classList.remove('go');$('#rlCheck').disabled=false;$('#rlHint').disabled=false;
+  S.q={r,mode};S.lastWhy='';S.sel=null;S.tries=0;S.done=false;S.hinted=false;$('#rlHintBox').hidden=true;fb('','');$('#rlRef').innerHTML='';$('#rlNext').classList.remove('go');$('#rlCheck').disabled=false;$('#rlHint').disabled=false;
   const ans=$('#rlAns');
   if(mode==='identify'){const mc=E.mcType(r);S.q.mc=mc;$('#rlMode').textContent='Identify the reaction';$('#rlRxn').innerHTML=E.rxnHTML(r,{re:'struct',pr:'struct'});$('#rlPrompt').textContent=mc.prompt;
-   S.q.opts=mc.options.map(o=>({html:o.html,ok:o.key===mc.answer}));S.q.hint=mc.hint;S.q.why=mc.why}
+   S.q.opts=mc.options.map(o=>({html:o.html,ok:o.key===mc.answer,why:o.key===mc.answer||!mc.whyNot?'':mc.whyNot(o.key)}));S.q.hint=mc.hint;S.q.why=mc.why}
   else if(mode==='product'){const i=r.draw[0],p=r.products[i];$('#rlMode').textContent='Predict the product';$('#rlRxn').innerHTML=E.rxnHTML(r,{re:'struct',pr:'hidden'});
    $('#rlPrompt').textContent=(r.draw.length>1?'Which structure is the organic product that replaces the “?” (one of the two organic products)?':'Which structure is the organic product (the “?”)?');
-   S.q.opts=shuf([{html:E.structHTML(p.smi),ok:true},...distractors(p,r.products.filter(x=>x.smi),3).map(d=>({html:E.structHTML(d.smi),ok:false}))]);S.q.hint=r.hint;S.q.why=`<b>${esc(p.name)}</b>. ${r.rule}`}
+   S.q.opts=shuf([{html:E.structHTML(p.smi),ok:true},...distractors(p,r.products.filter(x=>x.smi),3).map(d=>({html:E.structHTML(d.smi),ok:false,why:wrongStruct(d,'product')}))]);S.q.hint=r.hint;S.q.why=`<b>${esc(p.name)}</b>. ${r.rule}`}
   else if(mode==='reactant'){const i=r.rev.idx[0],p=r.reactants[i];$('#rlMode').textContent='Find the reactant';$('#rlRxn').innerHTML=E.rxnHTML(r,{re:'hidden',pr:'struct',hideIdx:[i]});
    $('#rlPrompt').textContent='Which starting material (the “?”) gives the product shown?';
-   S.q.opts=shuf([{html:E.structHTML(p.smi),ok:true},...distractors(p,r.reactants.filter(x=>x.smi),3).map(d=>({html:E.structHTML(d.smi),ok:false}))]);S.q.hint=r.hint;S.q.why=`<b>${esc(p.name)}</b>. ${r.rule}`}
+   S.q.opts=shuf([{html:E.structHTML(p.smi),ok:true},...distractors(p,r.reactants.filter(x=>x.smi),3).map(d=>({html:E.structHTML(d.smi),ok:false,why:wrongStruct(d,'reactant')}))]);S.q.hint=r.hint;S.q.why=`<b>${esc(p.name)}</b>. ${r.rule}`}
   else{const i=pick(r.draw),p=r.products[i];S.q.comp=p;$('#rlMode').textContent='Name the product';$('#rlRxn').innerHTML=E.rxnHTML(r,{re:'bare',pr:'bare'});
    $('#rlPrompt').textContent=`Type the name of the ${r.draw.length>1?E.groupWord(p)+' product':'organic product'}.`;S.q.hint=E.nameHintFor(p);S.q.why=r.rule}
   if(S.q.opts){ans.innerHTML=`<div class="rl-opts">${S.q.opts.map((o,k)=>`<button class="rl-opt" data-k="${k}" aria-pressed="false"><span class="rl-L">${'ABCD'[k]}</span><span class="rl-ot">${o.html}</span></button>`).join('')}</div>`}
@@ -101,14 +105,15 @@ function rxnLab(){
  function finish(solved){const first=solved&&S.tries===0;S.done=true;S.n++;if(first){S.first++;S.streak++}else S.streak=0;
   document.querySelectorAll('.rl-opt').forEach(b=>{b.disabled=true;if(S.q.opts[+b.dataset.k].ok){b.classList.add('right');b.classList.remove('sel')}});
   const ansTxt=S.q.comp?` The name is <b>${esc(S.q.comp.name)}</b>.`:'';
-  fb(solved?'good':'info',(first?'✅ <b>Correct!</b> ':solved?'✅ <b>Got it.</b> ':'👀 <b>Here is the answer.</b>'+ansTxt+' ')+S.q.why);
+  fb(solved?'good':'info',(first?'✅ <b>Correct!</b> ':solved?'✅ <b>Got it.</b> ':'👀 <b>Here is the answer.</b>'+ansTxt+' '+(S.lastWhy?S.lastWhy+' ':''))+S.q.why);
   $('#rlRef').innerHTML=`<b>Reaction type:</b> ${esc(S.q.r.type)} (${esc(S.q.r.cls.toLowerCase())})`;
   $('#rlCheck').disabled=true;$('#rlHint').disabled=true;$('#rlNext').classList.add('go');stats();track('Try it (reaction lab)',S.q.r.type,first)}
  function check(){if(S.done||!S.q)return;
   if(S.q.opts){if(S.sel==null){fb('bad','👆 Tap an answer first, then press Check.');return}
    if(S.q.opts[S.sel].ok)return finish(true);
    const b=document.querySelector(`.rl-opt[data-k="${S.sel}"]`);b.classList.remove('sel');b.classList.add('wrong');b.disabled=true;S.sel=null;
-   if(S.tries===0){S.tries=1;fb('bad','🔎 Not quite. Try again!'+(S.hinted?'':' Stuck? Tap 💡 Hint.'));return}S.tries=2;return finish(false)}
+   const why=S.q.opts[+b.dataset.k].why||'';S.lastWhy=why;
+   if(S.tries===0){S.tries=1;fb('bad','🔎 Not quite. '+(why?why+' ':'')+'Try again!'+(S.hinted?'':' Stuck? Tap 💡 Hint.'));return}S.tries=2;return finish(false)}
   const v=$('#rlInput').value,res=E.checkName(v,S.q.comp);
   if(res.ok){if(res.note)$('#rlRef').innerHTML=res.note;return finish(true)}
   if(S.tries===0){S.tries=1;fb('bad','🔎 '+res.msg+' Try once more.');return}S.tries=2;finish(false)}

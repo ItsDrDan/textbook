@@ -46,7 +46,7 @@ def scheme_fig(ids, num, caption):
     for i in ids:
         s = SCH[i]
         parts.append(f'<div style="margin:6px 0;">{s["svg"]}<p style="font-size:0.9em;margin:2px 0 8px;text-align:center;"><strong>{html.escape(s["type"])}</strong> ({html.escape(s["cls"].lower())}): {html.escape(s["rule"])}</p></div>')
-    return (f'<figure class="figure" style="margin:12px 0;">{"".join(parts)}<figcaption>Figure {num}: {caption} (Structures drawn by the Bond Voyage! reaction engine.)</figcaption></figure>\n')
+    return (f'<figure class="figure" style="margin:12px 0;">{"".join(parts)}<figcaption>Figure {num}: {caption} (Structures drawn by Daniel Kwasniewski with the Bond Voyage! reaction engine; CC BY 4.0.)</figcaption></figure>\n')
 
 def games_box(ch):
     return (f'<div class="box-note" style="border-left:6px solid #86509b;">\n<p class="boxtitle">Keep Practicing</p>\n'
@@ -109,7 +109,7 @@ PLAN = {
     games=['enzyme','finalboss','hub'],
     gametips={'enzyme':'Classify the Enzyme, then Spot the Inhibitor and Read the Plot; finish with Cofactors & Vitamins.','finalboss':'Topic Training → “Enzymes & Vitamins”.','hub':'The Biochemistry Daily 5 includes enzyme plots.'}),
  12: dict(schemes=[], widgets=[(r'^2\. Structure', {'t':'nucleic','q':'DNA|base pair|nucleotide|purine|pyrimidine|replication|double helix|complement','n':'10'}, 'DNA structure and replication', 'Nucleotides, base pairing, antiparallel strands and replication.', 620, 'helix'),
-             ('PRACTICE', {'t':'nucleic','q':'codon|translation|transcription|mRNA|tRNA|ribosome|mutation|genetic code','n':'10'}, 'From gene to protein', 'Transcription, translation, codons and mutations.', 620, 'peptides')],
+             ('PRACTICE', {'t':'nucleic','q':'codon|translation|transcription|mRNA|tRNA|ribosome|mutation|genetic code','n':'10'}, 'From gene to protein', 'Transcription, translation, codons and mutations.', 620, 'helix')],
     games=['helix','peptides','finalboss'],
     gametips={'helix':'Every mode fits this chapter. Start with base pairing, then replication, transcription and translation.','peptides':'Codon Decoder mode: translate mRNA with the codon chart.','finalboss':'Topic Training → “Nucleic Acids”.'}),
  13: dict(schemes=[], widgets=[(r'^4\. Fates of pyruvate', {'t':'metabolism','q':'glycoly|pyruvate|lactate|acetyl CoA|NAD|ATP|cori|fermentation','n':'10'}, 'Glycolysis and pyruvate', 'Net ATP and NADH, coenzymes, and what happens to pyruvate with and without oxygen.', 620, 'marathon'),
@@ -179,7 +179,7 @@ def build_games_page(ch):
     parts.append('<h2>Quick Checks from This Chapter</h2>\n<p>The same short practice sets that appear in the Chapter Guide, in one place.</p>\n')
     for (rx, params, title, blurb, h, game) in plan['widgets']:
         parts.append(widget(params, title, blurb, h, game))
-    parts.append('<p style="font-size:0.9em;color:#555;">Games and practice sets by ItsDrDan (Dr. Dan, Fresno City College): <a href="https://itsdrdan.github.io/games/" target="_blank" rel="noopener">Dr. Dan\'s Chemistry Study Hub</a>. Game design and chemistry by ItsDrDan; code written with AI assistance and checked by the author.</p>\n')
+    parts.append('<p style="font-size:0.9em;color:#555;">Games and practice sets by ItsDrDan (Daniel Kwasniewski, Fresno City College): <a href="https://itsdrdan.github.io/games/" target="_blank" rel="noopener">Dr. Dan\'s Chemistry Study Hub</a>. Game design and chemistry by ItsDrDan; code written with AI assistance and checked by the author.</p>\n')
     return ''.join(parts)
 
 LEWIS_PAGE = """<div class="box-objectives"><p class="boxtitle">What this page is for</p><p>Drawing Lewis structures is the one skill from this chapter that every later chapter leans on: functional groups (Chapter 2 onward), polarity and hydrogen bonding (Section 1.8), acid&ndash;base behavior of amines and carboxylic acids, and the shapes of biomolecules all start from a correct Lewis structure. This page gives you unlimited practice with instant checking.</p></div>
@@ -194,7 +194,7 @@ LEWIS_PAGE = """<div class="box-objectives"><p class="boxtitle">What this page i
 <p style="font-size:0.9em;"><a href="https://itsdrdan.github.io/lewisstructures/?course=3B" target="_blank" rel="noopener">Open Lewis Structure Studio in a new tab</a> (recommended on a phone or small screen).</p>
 <div class="box-note" style="border-left:6px solid #0e6ea8;"><p class="boxtitle">Professor Tip</p><p>On the exam you will draw structures on paper with no checker. After each game round, redraw the same molecule from memory on paper, including lone pairs, and only then compare. Students who practice this way stop losing points for missing lone pairs on O and N, which is the most common Lewis-structure error in CHEM 3B.</p></div>
 <p>The other games and quick checks for this chapter are on the <strong>Practice Games</strong> page that follows.</p>
-<p style="font-size:0.9em;color:#555;">Lewis Structure Studio by ItsDrDan (Dr. Dan, Fresno City College): <a href="https://itsdrdan.github.io/games/" target="_blank" rel="noopener">Dr. Dan\'s Chemistry Study Hub</a>. Game design and chemistry by ItsDrDan; code written with AI assistance and checked by the author. The game is a free tool embedded by link and is not part of the licensed text.</p>
+<p style="font-size:0.9em;color:#555;">Lewis Structure Studio by ItsDrDan (Daniel Kwasniewski, Fresno City College): <a href="https://itsdrdan.github.io/games/" target="_blank" rel="noopener">Dr. Dan\'s Chemistry Study Hub</a>. Game design and chemistry by ItsDrDan; code written with AI assistance and checked by the author. The game is a free tool embedded by link and is not part of the licensed text.</p>
 """
 
 if __name__ == '__main__':
@@ -267,7 +267,7 @@ if __name__ == '__main__':
         srcf = f'/home/claude/textbook/sections/src_{pid}.html'
         head = open(srcf).read().rstrip() if os.path.exists(srcf) else TR[pid].rstrip()
         body = head + '\n' + src.strip() + '\n'
-        import videos   # embedded Amoeba Sisters / Dr. Dan videos (tools/videos.py); insert() replaces any old block
+        import videos   # embedded Amoeba Sisters / Daniel Kwasniewski videos (tools/videos.py); insert() replaces any old block
         if int(pid) in videos.SEC: body = videos.insert(body, 'section', videos.block(videos.SEC[int(pid)], 'section'))
         fn = f'sec_{pid}.html'; open(os.path.join(out, fn), 'w').write(body)
         manifest.append({'file': fn, 'pageId': int(pid), 'what': 'Section ' + titles.get(pid, pid) + ' (+ Lecture Connection)'})
