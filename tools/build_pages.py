@@ -46,7 +46,7 @@ def scheme_fig(ids, num, caption):
     for i in ids:
         s = SCH[i]
         parts.append(f'<div style="margin:6px 0;">{s["svg"]}<p style="font-size:0.9em;margin:2px 0 8px;text-align:center;"><strong>{html.escape(s["type"])}</strong> ({html.escape(s["cls"].lower())}): {html.escape(s["rule"])}</p></div>')
-    return (f'<figure class="figure" style="margin:12px 0;">{"".join(parts)}<figcaption>Figure {num}: {caption} (Structures drawn by the Bond Voyage! reaction engine.)</figcaption></figure>\n')
+    return (f'<figure class="figure" style="margin:12px 0;">{"".join(parts)}<figcaption>Figure {num}: {caption} (Structures drawn by Daniel Kwasniewski with the Bond Voyage! reaction engine; CC BY 4.0.)</figcaption></figure>\n')
 
 def games_box(ch):
     return (f'<div class="box-note" style="border-left:6px solid #86509b;">\n<p class="boxtitle">Keep Practicing</p>\n'
@@ -109,7 +109,7 @@ PLAN = {
     games=['enzyme','finalboss','hub'],
     gametips={'enzyme':'Classify the Enzyme, then Spot the Inhibitor and Read the Plot; finish with Cofactors & Vitamins.','finalboss':'Topic Training → “Enzymes & Vitamins”.','hub':'The Biochemistry Daily 5 includes enzyme plots.'}),
  12: dict(schemes=[], widgets=[(r'^2\. Structure', {'t':'nucleic','q':'DNA|base pair|nucleotide|purine|pyrimidine|replication|double helix|complement','n':'10'}, 'DNA structure and replication', 'Nucleotides, base pairing, antiparallel strands and replication.', 620, 'helix'),
-             ('PRACTICE', {'t':'nucleic','q':'codon|translation|transcription|mRNA|tRNA|ribosome|mutation|genetic code','n':'10'}, 'From gene to protein', 'Transcription, translation, codons and mutations.', 620, 'peptides')],
+             ('PRACTICE', {'t':'nucleic','q':'codon|translation|transcription|mRNA|tRNA|ribosome|mutation|genetic code','n':'10'}, 'From gene to protein', 'Transcription, translation, codons and mutations.', 620, 'helix')],
     games=['helix','peptides','finalboss'],
     gametips={'helix':'Every mode fits this chapter. Start with base pairing, then replication, transcription and translation.','peptides':'Codon Decoder mode: translate mRNA with the codon chart.','finalboss':'Topic Training → “Nucleic Acids”.'}),
  13: dict(schemes=[], widgets=[(r'^4\. Fates of pyruvate', {'t':'metabolism','q':'glycoly|pyruvate|lactate|acetyl CoA|NAD|ATP|cori|fermentation','n':'10'}, 'Glycolysis and pyruvate', 'Net ATP and NADH, coenzymes, and what happens to pyruvate with and without oxygen.', 620, 'marathon'),
