@@ -284,3 +284,13 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - combustion (Types of Chemical Reactions, 12:01) for incomplete combustion and CO.
   - Running total: 61 of the 101 new questions have a video hint. The other 40 have no lesson that teaches their topic (eicosanoids, recombinant DNA, PCR, zymogens, the A1C/lactose context items, amino acid codes). They keep their text hint.
   - Tool: `tools/adapt_hints_new_2026_11_12.py` (MANUAL map). Data: `adapt/adapt_new_hints_2026-11-12_pass2.json`. That tool/data commit ("ADAPT hints pass 2") went straight to main by mistake; this PR only adds the ledger entry.
+- 2026-11-12 (01:23 compile checked; Full (8).pdf, now `CHEM3B-Full.pdf`, 1,327 pp; the 00:50 one is `CHEM3B-Full-2026-11-12-0050.pdf`). This is the first compile with the section moves.
+  - **Print order is correct** in the table of contents, the chapter listings and the bodies:
+    - 12.5 RNA is at p960 and 12.9 genetic engineering at p986.
+    - 13.7/13.8/13.9 are at p1075/1083/1092.
+    - Ch 15 runs 15.1 digestion and lipoproteins (p1203) through 15.6 lipogenesis, then 15.7 protein digestion (p1240) through 15.11.
+    - 5.3 prints its new title.
+  - **15.1 (pp1204–1205) checked visually:** Figure 15.1.1 is the lipoprotein classes, then "Digesting fats" with Figure 15.1.2, then "Delivery and storage". Its cross-references read 15.4, 15.2 and 15.6.
+  - **Hard-coded figure labels follow the new numbers:** 12.5.1, 13.7.1, 13.9.1, 15.2.1, 15.4.1, 15.10.1.
+  - **Old titles appear only in "Adapted from" credits** (source-book titles).
+  - **Whole-book checks pass:** p2 license; "Dr. Dan" only in the Study Hub name; no raw MathJax; hidden-label scan flags only p224; 2,179 images (unchanged).
