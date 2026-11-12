@@ -275,3 +275,12 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - CONVENTIONS.md and LIVE_SNAPSHOT.md are updated.
 - **ADAPT video hints.** 38 of the 100 new questions now carry Dr. Dan's lesson video with a start time and jump links (`tools/adapt_hints_new_2026_11_12.py`, `adapt/adapt_new_hints_2026-11-12.json`). Matches were reviewed by hand: 5 skipped, 1 corrected. The other 62 have no matching lesson video.
   - A scan of all 1,031 questions found 8 hints with a doubled "Hint" heading, from the 2026-11-12 PATCHes; all 8 are repaired. Lesson learned: send the hint without ADAPT's mt-section wrapper, because ADAPT adds it on save.
+- 2026-11-12 (later): **Video hints, pass 2.**
+  - For the 62 new ADAPT questions the keyword rules missed, I searched the lesson transcripts (ItsDrDan/games `data/transcripts.json`) and checked each candidate by hand.
+  - 23 questions now get a lesson video, starting at the matching chapter marker. Examples:
+    - "how to name benzene as a substituent" (ethers video, 9:02) for phenyl naming;
+    - the bicarbonate/CO2 part of Properties of Acids and Bases (15:28) for the NaHCO3 tests;
+    - "like dissolves like" (Solubility, 5:29) for the vitamin E and phenol solubility questions;
+    - combustion (Types of Chemical Reactions, 12:01) for incomplete combustion and CO.
+  - Running total: 61 of the 101 new questions have a video hint. The other 40 have no lesson that teaches their topic (eicosanoids, recombinant DNA, PCR, zymogens, the A1C/lactose context items, amino acid codes). They keep their text hint.
+  - Tool: `tools/adapt_hints_new_2026_11_12.py` (MANUAL map). Data: `adapt/adapt_new_hints_2026-11-12_pass2.json`. That tool/data commit ("ADAPT hints pass 2") went straight to main by mistake; this PR only adds the ledger entry.
