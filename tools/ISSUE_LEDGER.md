@@ -140,3 +140,9 @@ Verified in My Questions and in the Ch 5/10/11 assignment views; correct answers
 
 ## 2026-11-11 night: Practice Problems answer check (M01, all chapters)
 All 1,231 questions on the 15 Practice Problems pages (1,123 numbered, 84 Cumulative, 24 Case Set) were re-solved independently and compared with the book's answers. **No wrong answer key.** Inline answers and answer keys agree everywhere. 24 explanation, option-wording, table or alt-text issues were found and fixed on LibreTexts (13 pages, 39 replacements, listed in `tools/practice_problem_fixes_2026-11-11.json`; the findings, with reasons, are in `tools/PRACTICE_PROBLEMS_CHECK_2026-11-11.md`). Repo copies match live (SHA-256). Generators (`tools/cumulative.py`, `sections/boardsets/boardsets.json`) and `drafts/` carry the same fixes. Not changed: section 1.5 (597058) also says an OH carries "about four or five carbons" into water.
+
+## 2026-11-11 late night: PDF recheck follow-ups
+- Recompiled PDF (Full (2).pdf, 1,350 pp, 18:59) checked: the title page carries the CC BY statement; credit lines read Daniel Kwasniewski (only "Dr. Dan's Chemistry Study Hub" remains, by decision); no nine-essential, tyrosine, Table 4.5.x or meso text; Figure 4.2.1 prints; the hidden-label scan is clean (only the known alkene-table false positive). It predates the Practice Problems fixes.
+- 1.5 (597058): the rule of thumb now reads "about four carbons" for an O–H (Chapter 4), and about five for –COOH (Chapter 6), matching CONVENTIONS.md.
+- 9.3 (597146): the lipid drawings printed four across and were illegible. They were re-rendered tight with no built-in label (file revision 2) and laid out two per row.
+- Open (instructor): the conformations scope. Sections 1.7, 2.3, 2.9, 2.10 and 5.5 use "conformation" or "chair"; Problems 2.60/2.64 had those words removed on 2026-11-11.
