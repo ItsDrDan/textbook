@@ -10,7 +10,13 @@
 "use strict";
 const P=new URLSearchParams(location.search);
 const $=s=>document.querySelector(s);
-const E=window.ENGINE,esc=E.esc,shuf=E.shuf,pick=E.pick;
+/* small helpers kept here so each mode loads only the script it needs: bank mode -> fbx.js, reaction lab -> engine.js */
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const shuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+const pick=a=>a[Math.floor(Math.random()*a.length)];
+const load=(src,ready)=>ready()?Promise.resolve():new Promise((res,rej)=>{const s=document.createElement('script');s.src=src;s.onload=()=>ready()?res():rej(new Error(src+' did not initialise'));s.onerror=()=>rej(new Error('Could not load '+src));document.head.appendChild(s)});
+const loadFail=e=>{console.error(e);$('#host').innerHTML='<div class="rl-card">Sorry, the practice questions could not load. Please refresh the page.</div>'};
+let E=null; /* window.ENGINE, set once engine.js has loaded (reaction lab only) */
 const GAMES={orgrxn:['Bond Voyage! Organic Reactions','https://itsdrdan.github.io/organicreactions/'],origins:['Organic Origins','https://itsdrdan.github.io/functionalgroups/'],
  carbs:['Sweet Structures','https://itsdrdan.github.io/carbohydrates/'],peptides:['Peptide Party','https://itsdrdan.github.io/aminoacids/'],finalboss:['Final Boss','https://itsdrdan.github.io/finalexam/?course=3B'],
  lewis:['Lewis Structure Studio','https://itsdrdan.github.io/lewisstructures/?course=3B'],flash:['Functional Group Flashcards','https://itsdrdan.github.io/organic/'],hub:['the Study Hub','https://itsdrdan.github.io/games/3b.html'],
@@ -34,8 +40,10 @@ async function bankMode(){
  const ids=(P.get('ids')||'').split(',').filter(Boolean);
  let topics=(P.get('t')||'').split(',').filter(Boolean);
  if(!topics.length&&ids.length){/* ids alone: we don't know their topics, so load everything (cached by the browser) */topics=TOPICS.map(t=>t[0])}
- let items=[];
- for(const t of topics){try{const r=await fetch('bank/'+t+'.json');if(r.ok)items=items.concat(await r.json())}catch(e){console.error(e)}}
+ const fbxReady=load('js/fbx.js',()=>window.FBX);
+ /* fetch all topic files at once; concatenating in the listed order keeps the result identical to the old one-by-one loop */
+ const lists=await Promise.all(topics.map(t=>fetch('bank/'+t+'.json').then(r=>r.ok?r.json():[]).catch(e=>{console.error(e);return []})));
+ let items=[].concat(...lists);
  if(ids.length){const want=new Set(ids);items=items.filter(q=>want.has(q.id))}
  const rx=P.get('q');if(rx){let re;try{re=new RegExp(rx,'i')}catch(e){re=null}if(re)items=items.filter(q=>re.test(q.q+' '+q.c.join(' ')+' '+q.w))}
  const dmax=+P.get('dmax');if(dmax)items=items.filter(q=>!q.d||q.d<=dmax);
@@ -46,6 +54,7 @@ async function bankMode(){
   items=shuf(pick)}
  else if(n&&items.length>n){/* stable sample so the same widget shows the same set each visit */items=items.map((q,i)=>[q,hash(q.id+keySuffix)]).sort((a,b)=>a[1]-b[1]).slice(0,n).map(a=>a[0])}
  if(!items.length){host.innerHTML='<div class="rl-card">No questions matched this widget. (Check the ?t= / ?ids= settings.)</div>';return}
+ try{await fbxReady}catch(e){return loadFail(e)}
  host.innerHTML='';
  window.FBX.mount(host,items,{topics:TOPICS,storageKey:'tb-fbx-'+storeSuffix,onAnswer:(q,first,info)=>track('Try it (bank)',info.topic,first)});
  if(topics.length===1){const s=host.querySelector('.fbx-tsel');if(s)s.hidden=true}
@@ -112,5 +121,5 @@ function rxnLab(){
   if(e.target.id==='rlCheck')check();else if(e.target.id==='rlHint'){if(S.done)return;S.hinted=true;const h=$('#rlHintBox');h.innerHTML='💡 '+S.q.hint;h.hidden=false;$('#rlHint').disabled=true}else if(e.target.id==='rlNext')newQ()});
  newQ()}
 
-if(P.get('rxn'))rxnLab();else bankMode();
+if(P.get('rxn'))load('js/engine.js',()=>window.ENGINE).then(()=>{E=window.ENGINE;rxnLab()}).catch(loadFail);else bankMode().catch(loadFail);
 })();

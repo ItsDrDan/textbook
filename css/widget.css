@@ -95,3 +95,5 @@ html,body{margin:0;background:var(--bg,#f5f6fb);color:var(--ink,#1f2a44);font-fa
 .rl-ref{margin-top:8px;font-size:13px;color:var(--muted)}
 .rl-ref b{color:var(--ink)}
 .fbx .fbx-tsel[hidden]{display:none}
+/* keyboard focus (fallback in case the shared brand stylesheet does not load) */
+.fbx .fbx-opt:focus-visible,.rl-opt:focus-visible,.fbx .fbx-btn:focus-visible,.rl-btn:focus-visible{outline:3px solid #9fb0ff;outline-offset:2px}
