@@ -294,3 +294,34 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - **Hard-coded figure labels follow the new numbers:** 12.5.1, 13.7.1, 13.9.1, 15.2.1, 15.4.1, 15.10.1.
   - **Old titles appear only in "Adapted from" credits** (source-book titles).
   - **Whole-book checks pass:** p2 license; "Dr. Dan" only in the Study Hub name; no raw MathJax; hidden-label scan flags only p224; 2,179 images (unchanged).
+
+## 2026-11-12 — Polish batch (PR audit/2026-11-polish)
+- **Live: 85 edits on 46 pages.** Edit list: `tools/polish_fixes_2026-11-12.json`. Notes: `tools/polish_notes/`.
+  - All 46 pages match `pages/live/` by SHA-256. LibreTexts normalized 597193 (section ids) and the 10 answer-key pages (it moved the closing tags after the key); the repo copies reproduce that.
+  - The same edits are mirrored into `pages/*.html`, `sections/` and the `pages/ch*_games.html` copies.
+- **Chapter Guides 12.10, 13.10 and 15.12:** Key Ideas are reordered to follow the moved sections. Ch 15 is now a lipid block, then a protein block, and its Common Mistakes are reordered to match. Numbered exercises and examples keep their order, so the answer keys still match.
+- **Rosa story copies:** Parts 2–15 in the Chapter Guides are replaced by a link to the chapter opening page plus a one-line recap of the facts the Case Questions use (same pattern as Part 1). The 14 guide copies were checked first and matched the landing pages.
+- **Ch 13–14 duplication:**
+  - 13.4 keeps the fates of pyruvate. The 13.5 copy is now a pointer, and its unique items (the link-reaction video, yeast fermentation diagrams, oxygen debt) moved to 13.4.
+  - 14.4's insulin box is removed (13.9 covers insulin).
+  - 14.4's duplicate 32-ATP table is now a pointer to 14.5.
+  - Figure numbering gaps and clashes are fixed in 13.4, 14.1, 14.2, 14.4, 9.5 and 12.3.
+  - Remaining overlaps are listed in `tools/polish_notes/metab-notes.md`.
+- **New drawn reaction examples:** 3.9 (polymerization, bromination, nitration, sulfonation), 4.11 (hydration, combustion of ethanol, thiol → disulfide) and 5.6 (acetal hydrolysis). RDKit SVGs, files 512703–512710, with alt text and captions.
+- **Image fixes:**
+  - 5.4 oxidation figure now shows [O] instead of CrO3 + H2SO4 (file 512711).
+  - The 2.10 combustion SVGs' aria-label is complete (files 512433/512435, revision 2).
+  - The 7.1 Exercise 3 alt text no longer says "(ortho)".
+- **R04, answers printing under questions:** the 17 source-text exercise answers (`<dl>` Answer blocks on 1.1, 1.3, 1.5, 1.8, 2.5, 2.8, 3.1, 3.2, 3.8 and 6.9) are now hideprint toggles on the web. In print they appear in a "Answers to Exercises" key at the end of each page. All 1,569 other answer toggles were already hideprint.
+- **Practice Games pages 1.11–12.12:** "Every short practice set" → "Selected short practice sets". Each games page links 2 sets; the chapters have 3–8.
+- **About This Book:**
+  - New paragraph for students who work, care for family or are learning English: short sessions, Key Ideas first, the Glossary's Spanish equivalents, translated captions, browser read-aloud and translate.
+  - The Valley Connection list now includes 7.11.
+- **Checks:**
+  - The 7.11 citation 3 CCR §6728 is confirmed: "Medical Supervision", with baseline and periodic red-cell and plasma cholinesterase testing for organophosphate/carbamate handlers.
+  - axe-core 4.10 over all 199 page bodies: 0 WCAG 2.1 A/AA violations. Best-practice rules flag only one h2→h4 jump (597079 Example box) and two bold "Solution" labels (597060); these were left as they are.
+- **Cleanup:**
+  - Removed the Finder duplicates `pages/live/597396 2.html` and `drafts/README 2.md`.
+  - `drafts/` is kept, because README, LICENSE and `tools/answerkey.js` refer to it.
+  - Three unused figures on LibreTexts could not be deleted (the deletion was blocked by the assistant's permission settings), so the instructor needs to remove them: fig-p597099-2.svg (512463, pKa scale), glycine_vs_acetic_acid_pKa.svg (512663) and fig-p597203-1.svg (512622).
+- **Needs the instructor:** page 597203 (14.4) has 15 unreferenced attachments that look like contract and licensing documents. They are SCFT contract, SCCCD AR3710 and CC compatibility chart scans (files 512635–512649). Check them and remove them if they were uploaded by mistake.
