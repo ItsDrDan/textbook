@@ -48,3 +48,36 @@ for i, ch in NEW.items():
         if re.search(rx, text): res[i] = hint(vid, x); break
 json.dump(res, open(os.path.join(ROOT, 'adapt', 'adapt_new_hints_2026-11-12.json'), 'w'), ensure_ascii=False, indent=0)
 print(len(res), 'of', len(NEW), 'new questions matched a lesson video')
+
+# Second pass (2026-11-12): hand-picked lessons for questions the keyword rules missed, found by searching the
+# lesson transcripts (ItsDrDan/games data/transcripts.json) and checked by hand. start = seconds, None = pick the best chapter marker.
+VID.update({'2MsgPQYwsjA': ('Types of Chemical Reactions', '16:27'), 'drIkMSVAE0A': ('Solubility', '18:56')})
+MANUAL = {
+ 'fb-3B-0010': ('gSKpPWYVnTU', 167), 'fb-3B-0405': ('gSKpPWYVnTU', 167), 'fb-3B-0027': ('gSKpPWYVnTU', 167),
+ 'fb-3B-0407': ('xbsGe976lZ4', 643), 'fb-3B-0014': ('veiUgkx_Dlc', 109), 'fb-3B-2061': ('veiUgkx_Dlc', 109),
+ 'fb-3B-2067': ('Dcun-l5jM9w', 0), 'fb-3B-2125': ('2MsgPQYwsjA', 721), 'fb-3B-0032': ('nN-RMEEbjLI', 542),
+ 'fb-3B-2070': ('CdA3Ov94lw0', 569), 'fb-3B-2072': ('vf1I8M32OXQ', 561), 'fb-3B-2123': ('CdA3Ov94lw0', 186),
+ 'fb-3B-2071': ('drIkMSVAE0A', 329), 'fb-3B-2119': ('drIkMSVAE0A', 329),
+ 'fb-3B-2075': ('_3MEHX5yvzQ', 928), 'fb-3B-2077': ('_3MEHX5yvzQ', 928), 'fb-3B-2087': ('M7VkdbGkPXY', 0),
+ 'fb-3B-2092': ('ec1npXqFdDM', 123), 'fb-3B-2106': ('ec1npXqFdDM', 55), 'fb-3B-2107': ('ec1npXqFdDM', 55), 'fb-3B-2108': ('ec1npXqFdDM', 55),
+ 'fb-3B-2120': ('IsypcIC7XqA', None), 'fb-3B-2110': ('vfSSUIcgzTY', 0),
+}
+def hint_at(vid, x, start):
+    if start is None: return hint(vid, x)
+    title, ln = VID[vid]; e = html.escape; moms = MOM.get(vid, [])
+    lab = [l for t, l in moms if t <= start][-1:] 
+    p = f'<p><strong>Need help? Watch Dr. Dan&rsquo;s lesson:</strong> {e(title)}' + (f' ({ln})' if ln != '—' else '')
+    if start: p += f'<br>It starts at <strong>{mmss(start)}</strong>' + (f', in the part about &ldquo;{e(lab[0])}.&rdquo;' if lab else '.') + ' Press play to begin there.'
+    p += '</p>'
+    q = f'?rel=0&amp;start={start}' if start else '?rel=0'
+    out = p + (f'<div style="max-width:560px"><div style="width:100%;height:0px;position:relative;padding-bottom:56.25%"><iframe src="https://www.youtube.com/embed/{vid}{q}" '
+               f'title="{e(title)} (Dr. Dan, YouTube video)" frameborder="0" style="width:100%;height:100%;position:absolute;left:0;top:0" '
+               f'allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"></iframe></div></div>')
+    if moms:
+        out += '<p><small><strong>Jump to (opens YouTube):</strong> ' + ' &middot; '.join(
+            f'<a href="https://www.youtube.com/watch?v={vid}&amp;t={t}s" target="_blank" rel="noopener">{mmss(t)} {e(l)}</a>' for t, l in moms) + '</small></p>'
+    tt = f'&amp;t={start}s' if start else ''
+    return out + f'<p><small>Captions: use the CC button. Video not loading? <a href="https://www.youtube.com/watch?v={vid}{tt}" target="_blank" rel="noopener">Watch it on YouTube</a>.</small></p>'
+res2 = {i: hint_at(v, bank[i], s) for i, (v, s) in MANUAL.items() if i not in res}
+json.dump(res2, open(os.path.join(ROOT, 'adapt', 'adapt_new_hints_2026-11-12_pass2.json'), 'w'), ensure_ascii=False, indent=0)
+print(len(res2), 'more hints from the hand-picked pass')
