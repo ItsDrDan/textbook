@@ -21,7 +21,7 @@ Everything here is served from GitHub Pages at `https://itsdrdan.github.io/textb
 > **Diagrams with text labels are images now (Nov 5, 2026, overnight pass).** LibreTexts' glossary script wraps glossary words in an HTML `<div>` even inside an inline SVG `<text>`, and browsers then drop the word ("D-Glucose" showed as "D-"). Every inline SVG that has text labels (about 290 figures on 83 pages) was uploaded as a file attached to its own page (`fig-p<pageid>-<n>.svg`) and replaced by an `<img>` with the SVG's aria-label as alt text. Rule for new figures: never paste an SVG with `<text>` into a page; upload it (or host it under `figures/`) and use `<img>`. The step and reaction close-ups in `figures/pathways/` come from `tools/glycolysis.js` and are linked from GitHub Pages.
 
 ## License
-See `LICENSE.md` and `figures/CREDITS.md`. Game code (`js/engine.js`, `js/fbx.js`) is all rights reserved, not CC. Note: `pages/back_sources.html` is stale (it labels the author's own work CC BY-NC-SA); the live LibreTexts page is current.
+See `LICENSE.md` and `figures/CREDITS.md`. Game code (`js/engine.js`, `js/fbx.js`) is all rights reserved, not CC. The question bank (`bank/`) and its ADAPT copies are CC BY 4.0; the study games themselves are all rights reserved. `pages/` and `sections/` were refreshed from LibreTexts on 2026-11-11.
 Book content is CC BY 4.0 unless otherwise indicated; sections adapted from Ball, Hill & Scott and from Fundamentals of GOB (LibreTexts) are CC BY-NC-SA 4.0.
 
 ## First-time setup
