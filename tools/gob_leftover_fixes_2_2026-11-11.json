@@ -1,0 +1,82 @@
+{
+ "597203": [
+  {
+   "old": "Coenzyme-Q not only can accept two electrons and two protons, but it can also accept one electron to become semiubiquinone, a resonance-stabilized radical anion.</p>",
+   "new": "Coenzyme-Q can accept two electrons and two protons, and it can also carry just one electron at a time.</p>",
+   "count": 1
+  }
+ ],
+ "597202": [
+  {
+   "old": "by the same mechanism as in steps #7 and step#10 of glycolysis.",
+   "new": "in the same way as in steps 7 and 10 of glycolysis.",
+   "count": 1
+  },
+  {
+   "old": "reactant of step#1 and begins",
+   "new": "reactant of step 1 and begins",
+   "count": 1
+  },
+  {
+   "old": "reaction#1 and reaction#3 in glycolysis (Section 13.6)",
+   "new": "reactions 1 and 3 in glycolysis (Section 13.5)",
+   "count": 1
+  },
+  {
+   "old": "reaction#7 and reaction#10, remove",
+   "new": "reactions 7 and 10, remove",
+   "count": 1
+  },
+  {
+   "old": "reaction#5 in the citric acid cycle",
+   "new": "reaction 5 in the citric acid cycle",
+   "count": 1
+  },
+  {
+   "old": "There is only one reaction described in food catabolism in this book, i.e., reaction#6 in the citric acid cycle that involved oxidation of \\(\\ce{C-C}\\) to \\(\\ce{C=C}\\) bond and produced \\(\\ce{FADH2}\\).",
+   "new": "Two reactions in this book oxidize a \\(\\ce{C-C}\\) bond to a \\(\\ce{C=C}\\) bond and produce \\(\\ce{FADH2}\\): reaction 6 in the citric acid cycle and the first reaction of &beta;-oxidation (Section 15.3).",
+   "count": 1
+  }
+ ],
+ "597193": [
+  {
+   "old": "due to the equilibrium reaction#5. So, reaction#6 and reactions after this",
+   "new": "due to the equilibrium in reaction 5. So, reaction 6 and the reactions after it",
+   "count": 1
+  },
+  {
+   "old": "one in step#1 and the other in step#3.",
+   "new": "one in step 1 and the other in step 3.",
+   "count": 1
+  },
+  {
+   "old": "In this step, the enzyme phosphoglycerate mutase first transfers its phosphate group to the \\(\\ce{-OH}\\) at position#2 and then receives the phosphate from position#3 of the intermediate, resulting in the isomerization of 3-Phosphoglycerate to 2-phosphoglycerate.",
+   "new": "In this step, the enzyme phosphoglycerate mutase moves the phosphate group from carbon 3 to carbon 2.",
+   "count": 1
+  },
+  {
+   "old": "comprises reactions#1 to 5.",
+   "new": "comprises reactions 1 to 5.",
+   "count": 1
+  },
+  {
+   "old": "comprising reactions#6 to 10,",
+   "new": "comprising reactions 6 to 10,",
+   "count": 1
+  }
+ ],
+ "597084": [
+  {
+   "old": "The reagent that attaches to the ring is an <strong>electrophile</strong> (&quot;electron-lover&quot;): an electron-poor species that is attracted to the electron-rich ring. On its own Br<sub>2</sub> is not a strong enough electrophile, which is why benzene gives no reaction in the bromine test. The catalyst (FeBr<sub>3</sub> for bromine, H<sub>2</sub>SO<sub>4</sub> for nitric acid) makes the reagent a much stronger electrophile, and the substitution proceeds.",
+   "new": "On its own Br<sub>2</sub> is not reactive enough to substitute on the ring, which is why benzene gives no reaction in the bromine test. The catalyst (FeBr<sub>3</sub> for bromine, H<sub>2</sub>SO<sub>4</sub> for nitric acid) makes the reagent reactive enough, and the substitution proceeds.",
+   "count": 1
+  }
+ ],
+ "597086": [
+  {
+   "old": "The catalyst makes the reagent a strong enough electrophile; without it,",
+   "new": "The catalyst makes the reagent reactive enough; without it,",
+   "count": 1
+  }
+ ]
+}
