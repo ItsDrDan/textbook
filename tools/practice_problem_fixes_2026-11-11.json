@@ -1,0 +1,223 @@
+{
+ "597165": [
+  {
+   "old": "deprotonated at pH 7 (their pI values are about 3)",
+   "new": "deprotonated at pH 7 (their side-chain pK<sub>a</sub> values, about 3.9 for Asp and 4.1 for Glu, are well below 7)",
+   "count": 2
+  },
+  {
+   "old": "(the pH would be below the pI of Asp and Glu)",
+   "new": "(the pH would be below the side-chain pK<sub>a</sub> of Asp and Glu, about 4)",
+   "count": 2
+  }
+ ],
+ "597174": [
+  {
+   "old": "(Chapter 10) are treated in this course as irreversible inhibitors.",
+   "new": "(Chapter 10) also act away from the active site; in this course they count as both noncompetitive and irreversible inhibitors.",
+   "count": 2
+  },
+  {
+   "old": "<li>as a cofactor for the enzyme that hydroxylates proline in collagen</li>",
+   "new": "<li>by the enzyme that hydroxylates proline in collagen (it keeps the enzyme&rsquo;s Fe<sup>2+</sup> cofactor reduced)</li>",
+   "count": 1
+  },
+  {
+   "old": "(an ester, Chapter 7)",
+   "new": "(an ester, Chapter 6; see also Section 7.11)",
+   "count": 2
+  }
+ ],
+ "597199": [
+  {
+   "old": "is a required cofactor of the pyruvate dehydrogenase",
+   "new": "is a required coenzyme (as thiamine pyrophosphate) of the pyruvate dehydrogenase",
+   "count": 2
+  },
+  {
+   "old": "restores the cofactor so",
+   "new": "restores the coenzyme so",
+   "count": 2
+  },
+  {
+   "old": "(c) Acetyl CoA is the product that pyruvate becomes in Stage 3; if it is already plentiful,",
+   "new": "(c) Acetyl CoA, made from pyruvate at the end of Stage 2, is the fuel for Stage 3; if it is already plentiful,",
+   "count": 2
+  },
+  {
+   "old": "Coenzyme/nucleotide: none (P<sub>i</sub> is the reagent).",
+   "new": "Coenzyme/nucleotide: no nucleotide; P<sub>i</sub> is the reagent, and the enzyme carries pyridoxal phosphate (PLP, from vitamin B<sub>6</sub>) as a bound coenzyme.",
+   "count": 2
+  }
+ ],
+ "597206": [
+  {
+   "old": "requires a cofactor made from thiamine",
+   "new": "requires a coenzyme made from thiamine (thiamine pyrophosphate)",
+   "count": 2
+  },
+  {
+   "old": "<strong>cyanide binds so tightly that the block is essentially irreversible</strong> at toxic doses.",
+   "new": "<strong>cyanide binds very tightly</strong>; it is still a reversible inhibitor, which is why the antidote hydroxocobalamin can pull it off (Problem 14.52).",
+   "count": 2
+  },
+  {
+   "old": "X must act at or after CoQ (III, IV, or ATP synthase).",
+   "new": "X must act at Complex II or downstream of it (II, CoQ, III, IV, or ATP synthase), not at Complex I.",
+   "count": 2
+  }
+ ],
+ "597219": [
+  {
+   "old": "glucagon signals the liver to hydrolyze glycogen&rsquo;s &alpha;-glycosidic (acetal) bonds (Chapter 8) and release glucose",
+   "new": "glucagon signals the liver to break glycogen&rsquo;s &alpha;-glycosidic (acetal) bonds (Chapter 8) by phosphorolysis (glycogen phosphorylase uses P<sub>i</sub>, not water) and release glucose",
+   "count": 2
+  },
+  {
+   "old": "but the cycle then <strong>releases both acetyl carbons as CO<sub>2</sub></strong> before any oxaloacetate is regenerated, so",
+   "new": "but each turn of the cycle then <strong>releases two carbons as CO<sub>2</sub></strong>, as many as acetyl CoA brought in, so",
+   "count": 2
+  }
+ ],
+ "597075": [
+  {
+   "old": "the same compound in two <em>conformations</em>; they differ only by rotation",
+   "new": "the same molecule drawn at two moments of free rotation; they differ only by rotation",
+   "count": 2
+  },
+  {
+   "old": "That is the test: conformations interconvert by rotation, isomers only by breaking bonds.",
+   "new": "That is the test: drawings of the same molecule interconvert by rotation, isomers only by breaking bonds.",
+   "count": 2
+  },
+  {
+   "old": "<li>It is puckered into a chair so that every bond angle is close to 109.5&deg;.</li>",
+   "new": "<li>It is puckered (not flat) so that every bond angle is close to 109.5&deg;.</li>",
+   "count": 1
+  },
+  {
+   "old": "puckering into the chair gives angles near 109.5&deg;",
+   "new": "puckering the ring gives angles near 109.5&deg;",
+   "count": 2
+  },
+  {
+   "old": "but the ring can flex between chair shapes.",
+   "new": "but the ring can still flex.",
+   "count": 2
+  },
+  {
+   "old": "draw a six-corner zigzag.",
+   "new": "draw a six-carbon zigzag.",
+   "count": 2
+  },
+  {
+   "old": "sticking off the second and fourth corners.",
+   "new": "sticking off the second and fourth carbons.",
+   "count": 2
+  },
+  {
+   "old": "A four-corner zigzag with one short line off the second corner",
+   "new": "A four-carbon zigzag with one short line off the second carbon",
+   "count": 1
+  },
+  {
+   "old": "A four-corner zigzag with two short lines off the second corner",
+   "new": "A four-carbon zigzag with two short lines off the second carbon",
+   "count": 1
+  },
+  {
+   "old": "A six-corner zigzag with no branches",
+   "new": "A six-carbon zigzag with no branches",
+   "count": 1
+  },
+  {
+   "old": "A three-corner zigzag with two short lines off the middle corner",
+   "new": "A three-carbon zigzag with two short lines off the middle carbon",
+   "count": 1
+  },
+  {
+   "old": "drawn as a zigzag with four corners and ends)",
+   "new": "drawn as a four-carbon zigzag)",
+   "count": 2
+  }
+ ],
+ "597087": [
+  {
+   "old": "a short line (methyl) off the fourth corner.",
+   "new": "a short line (methyl) off the fourth carbon.",
+   "count": 2
+  },
+  {
+   "old": "alt=\"Line structure of geraniol: a chain of eight carbons with a double bond near each end; the left-hand double-bond carbon carries two methyl groups, the right-hand double-bond carbon carries one methyl group, and the chain ends in CH2-OH\"",
+   "new": "alt=\"Line structure of geraniol: an eight-carbon chain ending in CH2-OH at C1, with C=C double bonds at C2-C3 and C6-C7 and methyl branches on C3 and C7 (10 carbons in all)\"",
+   "count": 1
+  }
+ ],
+ "597120": [
+  {
+   "old": "(e) <strong>Skeletal</strong>: the methyl branch is on a different carbon, which changes the carbon skeleton (it is not a positional isomer, because the position of the functional group, C1, is the same in both).",
+   "new": "(e) <strong>Positional</strong>: counting the COOH carbon, both acids have the same branched five-carbon skeleton (the skeleton of 2-methylbutane); only the place where the COOH group sits on that skeleton differs.",
+   "count": 2
+  }
+ ],
+ "597063": [
+  {
+   "old": "and the lone pairs on O and on both nitrogens can accept one.",
+   "new": "and the C=O oxygen and the amine nitrogen can accept one (the amide nitrogen&rsquo;s lone pair is shared with the C=O, so it is a poor acceptor).",
+   "count": 2
+  },
+  {
+   "old": "The double bond cannot rotate, so it puts a rigid bend in what is otherwise a flexible zigzag chain.",
+   "new": "The double bond cannot rotate, and in oleic acid it is cis, so it puts a rigid bend in what is otherwise a flexible zigzag chain (a trans double bond would leave the chain nearly straight).",
+   "count": 2
+  },
+  {
+   "old": "compared with isopropyl alcohol, based on this table alone?",
+   "new": "compared with rubbing alcohol (isopropyl alcohol, bp 82 &deg;C)? Use the table.",
+   "count": 1
+  }
+ ],
+ "597142": [
+  {
+   "old": "no human enzyme hydrolyzes the &beta;(1&rarr;4) link,",
+   "new": "no human enzyme hydrolyzes the &beta;(1&rarr;4) link between glucose units,",
+   "count": 2
+  },
+  {
+   "old": "<div>D-galactitol</div>",
+   "new": "<div>Galactitol (dulcitol). Reduction turns the C1 aldehyde into CH<sub>2</sub>OH, giving a sugar alcohol; no D or L is written for galactitol.</div>",
+   "count": 2
+  }
+ ],
+ "597133": [
+  {
+   "old": "its amide links are separated by runs of six carbons and",
+   "new": "its amide links are separated by runs of CH<sub>2</sub> groups (six from the diamine, four from the diacid) and",
+   "count": 2
+  }
+ ],
+ "597101": [
+  {
+   "old": "about four or five carbons into water",
+   "new": "about four carbons into water",
+   "count": 2
+  },
+  {
+   "old": "<caption>Laboratory test results for four unknowns</caption>",
+   "new": "<caption>Laboratory test results for three unknowns</caption>",
+   "count": 1
+  },
+  {
+   "old": "on three unknown liquids, each",
+   "new": "on three unknowns, each",
+   "count": 1
+  }
+ ],
+ "597108": [
+  {
+   "old": "the alcohol is somewhat more soluble because",
+   "new": "the alcohol is slightly more soluble because",
+   "count": 2
+  }
+ ]
+}
