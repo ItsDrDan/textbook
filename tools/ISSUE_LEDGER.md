@@ -165,3 +165,13 @@ Kept: the name "nucleophilic addition" in 5.3 (it's the section's reaction name)
   - 15.3 (597209): "Resonance stabilization … lowering the activation energy" sentence in β-oxidation reaction 1 removed.
 - Repo copies (`pages/live/`, `pages/sec_*.html`, `sections/`) updated; live SHA-256 matches `pages/live/` for all five. `drafts/` has none of these strings.
 - Open (instructor): 3.7 "electrophilic aromatic substitution"/"electrophile" wording, explained plainly and marked "mechanism not needed"; left as is pending a decision.
+
+## 2026-11-11 night: GOB-scope leftovers, round 2
+Fixed on LibreTexts (5 pages, 14 replacements; `tools/gob_leftover_fixes_2_2026-11-11.json`):
+- 3.7 (597084) and Ch 3 Guide (597086): the "electrophile (electron-lover)" definition and "stronger electrophile" sentences are now "reactive enough". The reaction name "electrophilic aromatic substitution" is kept (instructor decision, same as "nucleophilic addition" in 5.3).
+- 13.5 (597193): "reaction#5/step#1/reactions#1 to 5" typos → "reaction 5", etc.; the phosphoglycerate mutase detail (via position 2 then 3) → "moves the phosphate group from carbon 3 to carbon 2".
+- 14.3 (597202): "by the same mechanism as in steps #7 and step#10" → "in the same way as in steps 7 and 10"; "#" typos fixed; **wrong cross-reference "glycolysis (Section 13.6)" → 13.5**; **"only one reaction in this book makes FADH2 (CAC reaction 6)" was wrong (β-oxidation step 1, 15.3, also does) and now names both**.
+- 14.4 (597203): semiubiquinone "resonance-stabilized radical anion" → "can also carry just one electron at a time".
+- Repo copies (`pages/live/`, `pages/sec_*.html`, `pages/ch03_guide.html`, `sections/`, `drafts/Ch03_…Guide`) updated; live SHA-256 matches `pages/live/` for all five.
+- Removed untracked `figures/CREDITS 2.md` (identical copy of CREDITS.md) and `PR_DESCRIPTION.md` (old PR #1 text).
+- 9.3 (597146) image credits checked against the source, Malik 6.4: Malik gives no credit for three images either. Two are plain structure drawings (lysophospholipid, phosphatidic acid), probably Malik's own (his book is CC0). The labeled POPC space-filling model ("Choline / Phosphate / Glycerol / Palmitic acid / Oleic acid", file 435596) has no known source; it is not Commons "Phospholipid TvanBrussel" or "POPC labeled.svg". Open: credit or redraw.
