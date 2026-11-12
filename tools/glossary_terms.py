@@ -1,6 +1,6 @@
 # Glossary for Introductory Organic and Biological Chemistry for FCC (CHEM 3B).
 # Each entry: (words — first is the headword, others are synonyms the pop-up should also match, definition)
-# Definitions written by Dr. Dan (Daniel Kwasniewski), Fresno City College, CC BY-NC-SA 4.0.
+# Definitions written by Daniel Kwasniewski, Fresno City College, CC BY 4.0.
 G = [
 # ---------- Chapter 1: bonding review and intermolecular forces ----------
 ("Lewis structure", "A drawing of a molecule that shows every valence electron: shared pairs as bonds (lines) and unshared pairs as dots."),
