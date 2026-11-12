@@ -54,9 +54,9 @@ Every structure has a text description (use it as alt text) and, where needed, a
 | ch06-carboxylic-acids-esters | `figures/structures/ch06-carboxylic-acids-esters/aspirin.png` | Aspirin (ester) | C9H8O4 | Structure of aspirin, C9H8O4 (ester). |  |
 | ch07-amines-amides | `figures/structures/ch07-amines-amides/acetamide.png` | Acetamide | C2H5NO | Structure of acetamide, C2H5NO. |  |
 | ch07-amines-amides | `figures/structures/ch07-amines-amides/acetaminophen.png` | Acetaminophen (amide) | C8H9NO2 | Structure of acetaminophen, C8H9NO2 (amide). |  |
-| ch07-amines-amides | `figures/structures/ch07-amines-amides/methylamine.png` | Methylamine (1°) | CH5N | Structure of methylamine, CH5N (1°). | **Needs redraw:** the degree sign is missing from the baked-in label ("(1  )"). |
-| ch07-amines-amides | `figures/structures/ch07-amines-amides/dimethylamine.png` | Dimethylamine (2°) | C2H7N | Structure of dimethylamine, C2H7N (2°). | **Needs redraw:** the degree sign is missing from the baked-in label. |
-| ch07-amines-amides | `figures/structures/ch07-amines-amides/trimethylamine.png` | Trimethylamine (3°) | C3H9N | Structure of trimethylamine, C3H9N (3°). | **Needs redraw:** the degree sign is missing from the baked-in label. |
+| ch07-amines-amides | `figures/structures/ch07-amines-amides/methylamine.png` | Methylamine (1°) | CH5N | Structure of methylamine, CH5N (1°). | Redrawn 2026-11-11: label now shows the degree sign. |
+| ch07-amines-amides | `figures/structures/ch07-amines-amides/dimethylamine.png` | Dimethylamine (2°) | C2H7N | Structure of dimethylamine, C2H7N (2°). | Redrawn 2026-11-11: label now shows the degree sign. |
+| ch07-amines-amides | `figures/structures/ch07-amines-amides/trimethylamine.png` | Trimethylamine (3°) | C3H9N | Structure of trimethylamine, C3H9N (3°). | Redrawn 2026-11-11: label now shows the degree sign. |
 | ch07-amines-amides | `figures/structures/ch07-amines-amides/aniline.png` | Aniline | C6H7N | Structure of aniline, C6H7N. |  |
 | ch07-amines-amides | `figures/structures/ch07-amines-amides/pyridine.png` | Pyridine (heterocycle) | C5H5N | Structure of pyridine, C5H5N (heterocycle). |  |
 | ch07-amines-amides | `figures/structures/ch07-amines-amides/lidocaine.png` | Lidocaine (amide-type dental anesthetic) | C14H22N2O | Structure of lidocaine, C14H22N2O (amide-type dental anesthetic). |  |
@@ -90,8 +90,8 @@ Every structure has a text description (use it as alt text) and, where needed, a
 | ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/niacin.png` | Niacin (vitamin B3) | C6H5NO2 | Structure of niacin, C6H5NO2 (vitamin B3). |  |
 | ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/pyridoxine.png` | Pyridoxine (vitamin B6) | C8H11NO3 | Structure of pyridoxine, C8H11NO3 (vitamin B6). |  |
 | ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/retinol.png` | Retinol (vitamin A) | C20H30O | Structure of retinol, C20H30O (vitamin A). |  |
-| ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/cholecalciferol.png` | Vitamin D3 (cholecalciferol) | C27H44O | Structure of vitamin D3, C27H44O (cholecalciferol). | **Needs redraw:** the 3-OH is hashed (3R, the 3-epimer); vitamin D3 has the 3β (3S) OH. |
-| ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/biotin.png` | Biotin (vitamin B7) | C10H16N2O3S | Structure of biotin, C10H16N2O3S (vitamin B7). | **Needs redraw:** the ring fusion is drawn trans; biotin is all-cis. |
+| ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/cholecalciferol.png` | Vitamin D3 (cholecalciferol) | C27H44O | Structure of vitamin D3, C27H44O (cholecalciferol). | Redrawn 2026-11-11 with the 3β (3S) OH, the natural configuration. |
+| ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/biotin.png` | Biotin (vitamin B7) | C10H16N2O3S | Structure of biotin, C10H16N2O3S (vitamin B7). | Redrawn 2026-11-11 with the natural all-cis (3aS,4S,6aR) ring fusion. |
 | ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/folic-acid.png` | Folic acid (vitamin B9) | C19H19N7O6 | Structure of folic acid, C19H19N7O6 (vitamin B9). |  |
 | ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/riboflavin.png` | Riboflavin (vitamin B2) | C17H20N4O6 | Structure of riboflavin, C17H20N4O6 (vitamin B2). |  |
 | ch11-enzymes-vitamins | `figures/structures/ch11-enzymes-vitamins/vitamin-k1.png` | Vitamin K1 (phylloquinone) | C31H46O2 | Structure of vitamin K1, C31H46O2 (phylloquinone). |  |
