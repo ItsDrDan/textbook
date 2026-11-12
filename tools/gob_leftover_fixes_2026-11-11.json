@@ -1,0 +1,47 @@
+{
+ "597061": [
+  {
+   "old": "one O&ndash;H or N&ndash;H can pull roughly four or five carbons into water; beyond that the nonpolar part wins (Chapter 4).",
+   "new": "one O&ndash;H or N&ndash;H can carry only about four carbons into water (Chapter 4), and a &ndash;COOH group about five (Chapter 6); beyond that the nonpolar part wins.",
+   "count": 1
+  }
+ ],
+ "597105": [
+  {
+   "old": "in sulfuric acid (\\(\\ce{H2SO4}\\)). The mechanism with Jones reagent is shown below.</p>\n\n<p class=\"mt-align-center\"><img alt=\"Mechanism of alcohol oxidation by chromic acid (Jones reagent): the alcohol oxygen attacks chromium to form a chromate ester, then a base removes the carbon's H while the C=O forms and the chromium species leaves; red curved arrows show the electron movement.\" class=\"internal\" src=\"/@api/deki/files/443557/clipboard_ecb6d1c9aa4b76447f030d5551d8e6557.png\" fileid=\"443557\" /></p>\n\n",
+   "new": "in sulfuric acid (\\(\\ce{H2SO4}\\)). In each case the oxidizing agent removes two hydrogens, the H of the O&ndash;H and the H on the carbon that carries the O&ndash;H, and a C=O bond forms in their place.</p>\n\n",
+   "count": 1
+  },
+  {
+   "old": "because they do not have hydrogen on the carbonyl carbon needed to carry out step#4 of the mechanism.</p>",
+   "new": "because the carbonyl carbon has no hydrogen left to remove.</p>",
+   "count": 1
+  },
+  {
+   "old": "there is no hydrogen on the carbon to which alcohol is attached to carry out step#4.</p>",
+   "new": "there is no hydrogen on the carbon to which the &ndash;OH is attached.</p>",
+   "count": 1
+  }
+ ],
+ "597209": [
+  {
+   "old": " as the acyl-\\(\\ce{CoA}\\) is oxidized in this reaction. Resonance stabilization of the \\(\\ce{C=C}\\) bond by conjugated \\(\\ce{C=O}\\) group makes the product stable, lowering the activation energy for the reaction.</p>",
+   "new": " as the acyl-\\(\\ce{CoA}\\) is oxidized in this reaction.</p>",
+   "count": 1
+  }
+ ],
+ "597138": [
+  {
+   "old": "fructose undergoes a structural rearrangement (called tautomerization) to an aldose, and the aldose then reacts.",
+   "new": "fructose rearranges into an aldose, and the aldose then reacts.",
+   "count": 1
+  }
+ ],
+ "597118": [
+  {
+   "old": "<p>Terminal alkyne has acidic protons but they are weak acids (\\(\\ce{pK_a \\;\\text ~25}\\)). A base like \\(\\ce{^{-}OH}\\) is not a strong enough base to remove all of the alkyne protons, as shown by the following equilibrium reaction.</p>\n\n<p>\\[\\ce{\\underset{pK_a \\;\\text 25}{R-C&equiv;CH} + ^{-}OH &lt;&lt;=&gt; R-C&equiv;C^{-} + \\underset{pK_a \\;\\text 15.7}{H2O}}\\nonumber \\]</p>\n\n<p>An amide anion (\\(\\ce{^{-}NH2}\\) in the form of \\(\\ce{NaNH2}\\)) is a sufficiently strong base to neutralize alkyne, as shown below.</p>\n\n<p>\\[\\ce{\\underset{pK_a \\;\\text 25}{R-C&equiv;CH} + ^{-}NH2 -&gt; R-C&equiv;C^{-} + \\underset{pK_a \\;\\text 38}{NH3}}\\nonumber \\]</p>\n\n<p>Alcohols (\\(\\ce{R-OH, pK_a \\;\\text ~16}\\)) are also weak acids and not fully neutralized with bases like \\(\\ce{^{-}OH}\\), as shown below.</p>\n\n<p>\\[\\ce{\\underset{pK_a \\;\\text 16}{R-OH} + ^{-}OH &lt;=&gt; R-O^{-} + \\underset{pK_a \\;\\text 15.7}{H2O}}\\nonumber \\]</p>\n\n<p>A hydride ion (\\(\\ce{H^{-}}\\) in the form of \\(\\ce{NaH}\\)) is a sufficiently strong base to neutralize alcohols, as shown below.</p>\n\n<p>\\[\\ce{\\underset{pK_a \\;\\text 16}{R-OH} + H^{-} -&gt; R-O^{-} + \\underset{pK_a \\;\\text 35}{H2}}\\nonumber \\]</p>\n",
+   "new": "<p>Alcohols (\\(\\ce{R-OH, pK_a \\;\\text ~16}\\)) are also weak acids and not fully neutralized with bases like \\(\\ce{^{-}OH}\\), as shown below.</p>\n\n<p>\\[\\ce{\\underset{pK_a \\;\\text 16}{R-OH} + ^{-}OH &lt;=&gt; R-O^{-} + \\underset{pK_a \\;\\text 15.7}{H2O}}\\nonumber \\]</p>\n\n<p>In water and in the body, alcohols therefore stay almost entirely as neutral R&ndash;OH molecules.</p>\n",
+   "count": 1
+  }
+ ]
+}

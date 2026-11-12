@@ -154,3 +154,14 @@ Whole-book scan: no Newman/staggered/eclipsed, axial/equatorial or ring-flip con
 - 10.1 (597154): Cahn–Ingold–Prelog/R/S sentence → "all chiral amino acids in human proteins are L". 14.3 (597202): (S)/(R)-malate → L-malate.
 - 7.6/7.12 (597126/597132): "nucleophilic acyl substitution" dropped. 1.7 (597060): "sp³ hybridized C" → "tetrahedral C". 13.8 (597196): "good leaving group" → activated UDP-glucose wording. 8.5 (597138): "tautomerism" → plain description.
 Kept: the name "nucleophilic addition" in 5.3 (it's the section's reaction name), the KMnO₄/NaBH₄ lab and reduction reagents, the pentose phosphate pathway, the Cori cycle, cAMP, and "transition state" in enzyme catalysis.
+
+## 2026-11-11 night: PDF check of the 19:51 compile, and GOB-scope leftovers
+- Checked the 19:51 compile (Full (3).pdf, now `CHEM3B-Full.pdf`, 1,349 pp; the 18:59 one is `CHEM3B-Full-2026-11-11-1859.pdf`). All 39 Practice Problems replacements and all 22 GOB-scope replacements print (2.60 no longer says "chair"); 9.3 Figure 9.3.2 prints two per row and is legible; 1.5 reads "about four carbons". Whole-book checks pass: CC BY statement on p2, every "Dr. Dan" is the Study Hub name, no raw MathJax, figure count unchanged (892; 13.1 is one page shorter), hidden-label scan flags only p224 (known).
+- The scan found GOB-scope leftovers outside the fixed pages. Fixed on LibreTexts (5 pages, 7 replacements; `tools/gob_leftover_fixes_2026-11-11.json`):
+  - 1.8 (597061): Professor Tip said an O–H/N–H carries "roughly four or five carbons"; now about four, and about five for –COOH (CONVENTIONS.md, matches 1.5).
+  - 5.4 (597105): "The mechanism with Jones reagent is shown below" and its curved-arrow image (file 443557) removed and replaced by a plain statement (the agent removes the O–H H and the C–H H; C=O forms); "step#4 of the mechanism" (ketones, tertiary alcohols) reworded as "no hydrogen left to remove".
+  - 6.10 (597118): the terminal-alkyne/NaNH₂ and NaH (hydride as base) passages removed; the alcohol + OH⁻ equilibrium is kept, with one sentence: alcohols stay as neutral R–OH in water and the body.
+  - 8.5 (597138): "(called tautomerization)" removed: "fructose rearranges into an aldose".
+  - 15.3 (597209): "Resonance stabilization … lowering the activation energy" sentence in β-oxidation reaction 1 removed.
+- Repo copies (`pages/live/`, `pages/sec_*.html`, `sections/`) updated; live SHA-256 matches `pages/live/` for all five. `drafts/` has none of these strings.
+- Open (instructor): 3.7 "electrophilic aromatic substitution"/"electrophile" wording, explained plainly and marked "mechanism not needed"; left as is pending a decision.
