@@ -6,7 +6,12 @@ import json, re, os, zipfile, csv, html, uuid, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, 'tools'))
 OUT = os.path.join(ROOT, 'adapt'); os.makedirs(OUT, exist_ok=True)
-import build_pages as B
+import ast, types
+# Read only the PLAN table from build_pages.py. Importing the module would run the whole page build
+# (it rewrites pages/*.html from the stale drafts and needs node), which must never happen here.
+_src = open(os.path.join(ROOT, 'tools', 'build_pages.py'), encoding='utf-8').read()
+_plan = next(n for n in ast.parse(_src).body if isinstance(n, ast.Assign) and any(getattr(t, 'id', None) == 'PLAN' for t in n.targets))
+B = types.SimpleNamespace(PLAN=eval(compile(ast.Expression(_plan.value), 'build_pages.PLAN', 'eval'), {'dict': dict}))
 
 NAMES = {1: 'Bonding Review', 2: 'Alkanes and Cycloalkanes', 3: 'Alkenes, Alkynes and Aromatics', 4: 'Alcohols, Phenols, Ethers and Thiols',
          5: 'Aldehydes, Ketones and Chirality', 6: 'Carboxylic Acids and Esters', 7: 'Amines and Amides', 8: 'Carbohydrates', 9: 'Lipids',
@@ -47,6 +52,21 @@ for ch in range(1, 16):
                 elif rx and not rx.search(plain(x['q']) + ' ' + plain(' '.join(map(str, x['c'])))): continue
                 picked.append(x); used.add(x['id'])
     SETS[ch] = picked
+
+# Items no widget regex catches (2026-11-12 fresh-eyes review): explicit chapter for each, so none is silently dropped.
+# CHEM 3A drill items (strong acid/base, molar mass: 0233-0235, 0409, 0410, 0905, 0906) are left out on purpose.
+EXPLICIT = {**{f'fb-3B-{n:04d}': 1 for n in (5, 6, 7, 8, 10, 405, 403, 407, 228, 229)},
+            **{f'fb-3B-{n:04d}': 2 for n in (14, 17, 20, 351, 240, 241, 256, 2063, 2065, 2066)},
+            **{f'fb-3B-{n:04d}': 3 for n in (21, 22, 23, 347, 242, 346, 25, 27, 32, 211, 396, 921, 2068)},
+            'fb-3B-0255': 5, 'fb-3B-0254': 6, 'fb-3B-0221': 6, 'fb-3B-0232': 7,
+            **{f'fb-3B-{n:04d}': 12 for n in (139, 287, 938)}}
+LEFT_OUT = {f'fb-3B-{n:04d}' for n in (233, 234, 235, 409, 410, 905, 906)}
+for t, items in bank.items():
+    for x in items:
+        if x['id'] in EXPLICIT and x['id'] not in used and usable(x):
+            SETS[EXPLICIT[x['id']]].append(x); used.add(x['id'])
+unmatched = [x['id'] for items in bank.values() for x in items if usable(x) and x['id'] not in used and x['id'] not in LEFT_OUT]
+if unmatched: print('WARNING: usable bank items in no chapter set:', ', '.join(sorted(unmatched)))
 
 def esc(s): return html.escape(s, quote=False)
 
