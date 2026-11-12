@@ -1,0 +1,136 @@
+{
+ "597209": [
+  {
+   "old": "<p>The activation of a fatty acid begins with an SN<sub>2</sub> reaction of acylate anion as a nucleophile with \\(\\ce{ATP}\\). It produces acyl-adenylate and pyrophosphate, as shown below.</p>",
+   "new": "<p>Activation begins when the fatty acid (as its carboxylate ion) reacts with \\(\\ce{ATP}\\): an AMP unit is attached to the fatty acid (acyl-adenylate) and pyrophosphate is released, as shown below.</p>",
+   "count": 1
+  },
+  {
+   "old": "<p>Acyl-adenylate goes through a nucleophilic acyl substitution reaction with coenzyme A (\\(\\ce{HS-CoA}\\)) attacking as a nucleophile and AMP as leaving group.</p>",
+   "new": "<p>Coenzyme A (\\(\\ce{HS-CoA}\\)) then takes the place of the AMP, giving the fatty acyl CoA (a thioester) and releasing AMP.</p>",
+   "count": 1
+  },
+  {
+   "old": " This is a nucleophilic (conjugate) addition reaction. The \\(\\ce{C=O}\\) makes the \\(\\beta\\)\\(\\ce{C}\\) more electrophilic by withdrawing electrons from it by resonance. That is why the incoming \\(\\ce{H2O}\\), acting as the nucleophile, adds its \\(\\ce{-OH}\\) to the \\(\\beta\\)\\(\\ce{C}\\).</p>",
+   "new": " This is a hydration, an addition of water like the hydration of an alkene (Chapter 3); here the \\(\\ce{-OH}\\) always ends up on the \\(\\beta\\) carbon.</p>",
+   "count": 1
+  },
+  {
+   "old": "<p>The fourth reaction is a nucleophilic acyl substitution reaction in which an anion of coenzyme A (\\(\\ce{^{-}S-CoA}\\)) acts as a nucleophile, the ketone (\\(\\ce{C=O}\\)) as electrophile and \\(\\ce{^{-}CH2-CO-S-CoA}\\) as the leaving group. \\(\\ce{^{-}CH2-CO-S-CoA}\\) is a good leaving group because the negative charge is resonance stabilized and mainly resides on \\(\\ce{O}\\) of carbonyl (\\(\\ce{C=O}\\)) group. A proton later neutralizes the negative charge.</p>",
+   "new": "<p>In the fourth reaction, coenzyme A (\\(\\ce{HS-CoA}\\)) splits the bond between the \\(\\alpha\\) and \\(\\beta\\) carbons (thiolysis). The two-carbon end leaves as acetyl CoA, and the rest of the chain, now two carbons shorter, stays attached to the new CoA, ready for the next turn.</p>",
+   "count": 1
+  },
+  {
+   "old": "by an SN<sub>2</sub> reaction of a primary alcohol group of glycerol acting as a nucleophile, phosphorus in the phosphate of ATP as an electrophile, and ADP as a leaving group.",
+   "new": "by glycerol kinase, which transfers a phosphate group from ATP to an end (primary) &ndash;OH of glycerol and releases ADP.",
+   "count": 1
+  }
+ ],
+ "597188": [
+  {
+   "old": "<p>The \\(\\ce{-S-CoA}\\) group in \\(\\ce{Ac-S-CoA}\\) is a good leaving group that easily transfers the acyl group to other compounds during biosynthesis.",
+   "new": "<p>Acetyl CoA (\\(\\ce{Ac-S-CoA}\\)) is an activated carrier: it easily hands its acetyl group to other compounds during biosynthesis.",
+   "count": 1
+  },
+  {
+   "old": "<li>Enzymes and their co-factors also usually neutralize the ionic groups on the substrate that otherwise repel the charged or partially charged electrophile or nucleophile from approaching the substrate. This way, the electrostatic factors hindering the reaction are minimized.</li>",
+   "new": "<li>Charged side chains (and cofactors) in the active site can pair with charged groups on the substrate, for example a positive arginine side chain holding a negative carboxylate. This helps hold the substrate in place.</li>",
+   "count": 1
+  },
+  {
+   "old": "<li>Enzymes usually have functional groups in their active sites that catalyze the reaction of the substrate by activating it as a nucleophile, electrophile, acid, or base catalyst.</li>",
+   "new": "<li>Side chains in the active site can act as acids or bases, adding or removing H<sup>+</sup> to speed up the reaction.</li>",
+   "count": 1
+  },
+  {
+   "old": "is bound by the enzyme in such a way that i) the charge of its two carboxylate&nbsp;(\\(\\ce{-COO^{-}}\\)) groups are neutralized by arginine</span><span style=\"font-size:1.1rem;\"> side chains of the enzyme, ii) histidine side acts as a base catalyst </span><span style=\"font-size:1.1rem;\">and removes the proton from the \\(\\ce{-OH}\\) group of the substrate, and at the same time, iii) the \\(\\ce{H}\\) on the \\(\\ce{C}\\) carrying the \\(\\ce{-OH}\\) group is exposed to </span><span style=\"font-size:1.1rem;\">nicotinamide ring of \\(\\ce{NAD^{+}}\\) , which removes that hydrogen as a hydride ion (\\(\\ce{H^{-}}\\))</span>",
+   "new": "is held by the enzyme so that positive arginine side chains bind its two carboxylate&nbsp;(\\(\\ce{-COO^{-}}\\)) groups, a histidine side chain takes the H<sup>+</sup> from its \\(\\ce{-OH}\\) group, and \\(\\ce{NAD^{+}}\\) takes the H from the same carbon, oxidizing the alcohol to a ketone</span>",
+   "count": 1
+  },
+  {
+   "old": "catalyzed by the enzyme citrate synthase as illustrated in Figure \\(\\PageIndex{6}\\).</p>\n\n<ol>\n    <li>The substrate is bonded by the enzyme in such a way that the two substrates are at a bonding distance. The \\(\\ce{-CH3}\\) hydrogens of acetyl-\\(\\ce{CoA}\\) are acidic protons due to being \\(\\alpha\\) to the carbonyl group. The aspartate side chain (Asp<sup>375</sup>) acts as a base catalyst and removes the acidic proton from \\(\\ce{-CH3}\\) group of acetyl-\\(\\ce{CoA}\\). The proton transfer to aspartate is facilitated by another proton transfer from histidine (His<sup>274</sup>) to the \\(\\ce{C=O}\\) group converting it into its enol form -a nucleophile.</li>\n    <li>The enol returns its proton to the histidine side chain in the second step activating the \\(\\ce{C=C}\\) bond of the enol for a nucleophilic attack on the electrophilic ketone (\\(\\ce{C=O}\\)) group of the oxaloacetate substrate. This step is facilitated by the transfer of a proton from another histidine (His<sup>320</sup>) to the \\(\\ce{C=O}\\) group involved in the reaction. The result is the conversion of the \\(\\ce{C=O}\\) group into an \\(\\ce{-OH}\\) group of citroyl-\\(\\ce{CoA}\\) intermediate.</li>\n    <li>Citroyl-\\(\\ce{CoA}\\) intermediate is hydrogen-bonded to a histidine (His<sup>274</sup>). This hydrogen bond activates the thioester group for a hydrolysis reaction. Water molecule hydrolyzes the thioester group releasing the citrate product from the enzyme in this reaction step.</li>\n</ol>",
+   "new": "catalyzed by the enzyme citrate synthase as illustrated in Figure \\(\\PageIndex{6}\\). The enzyme holds oxaloacetate and acetyl CoA side by side in its active site, and its side chains add and remove H<sup>+</sup> so that the two-carbon acetyl group joins the four-carbon oxaloacetate; water then releases citrate and CoA.</p>",
+   "count": 1
+  }
+ ],
+ "597104": [
+  {
+   "old": "where the carbonyl \\(\\ce{\\overset{\\delta{+}}{C}}\\) is an electrophile. However, this electrophile does not have a leaving group on it. It can add a nucleophile but usually needs either base-promoted or acid catalysis conditions. These two mechanisms are described next.</p>",
+   "new": "with a partial positive carbon and a partial negative oxygen. Unlike an ester or an amide, an aldehyde or ketone has no group on the carbonyl carbon that can be swapped off, so instead other molecules add across the C=O, usually with an acid catalyst.</p>",
+   "count": 1
+  }
+ ],
+ "597105": [
+  {
+   "old": "<p>This is because alkene is an electrophile but \\(\\ce{H-H}\\) is a nonpolar bond that is not a nucleophile. Finely divided",
+   "new": "<p>This is because the H&ndash;H bond is strong and nonpolar, so \\(\\ce{H2}\\) does not add to the double bond on its own. Finely divided",
+   "count": 1
+  }
+ ],
+ "597154": [
+  {
+   "old": " Modern stereochemistry assignments using the Cahn-Ingold-Prelog priority rules used ubiquitously in chemistry show that all of the naturally occurring chiral amino acids are S except Cys which is R.</p>",
+   "new": " All of the chiral amino acids found in human proteins are the L form.</p>",
+   "count": 1
+  }
+ ],
+ "597202": [
+  {
+   "old": "and only (S)-malate (not its enantiomer (R)-malate) is produced.",
+   "new": "and only one enantiomer of malate, L-malate, is produced.",
+   "count": 1
+  }
+ ],
+ "597126": [
+  {
+   "old": "<li>Chemists call amidation a <strong>nucleophilic acyl substitution</strong>: the amine nitrogen (the nucleophile, an electron-pair donor) takes the place of the &ndash;OH on the acyl carbon.",
+   "new": "<li>In amidation the amine nitrogen takes the place of the &ndash;OH on the acyl (C=O) carbon.",
+   "count": 1
+  }
+ ],
+ "597132": [
+  {
+   "old": "(a nucleophilic acyl substitution; the salt forms first;",
+   "new": "(the amine N replaces the acid&rsquo;s &ndash;OH; the salt forms first;",
+   "count": 1
+  }
+ ],
+ "597060": [
+  {
+   "old": "another sp<sup>3</sup> hybridized \\(\\ce{C}\\)",
+   "new": "another tetrahedral \\(\\ce{C}\\)",
+   "count": 3
+  }
+ ],
+ "597196": [
+  {
+   "old": "UDP-glucose, in which the nucleotide uridine diphosphate is a good leaving group.",
+   "new": "UDP-glucose, in which the glucose is attached to the nucleotide uridine diphosphate (UDP) and is easy to hand on.",
+   "count": 1
+  },
+  {
+   "old": "UDP-glucose, in which UDP is a good leaving group, so bond formation is energetically downhill.",
+   "new": "UDP-glucose, in which the glucose is attached to UDP and is easy to hand on, so bond formation is energetically downhill.",
+   "count": 2
+  }
+ ],
+ "597138": [
+  {
+   "old": "in a reaction known as <em>tautomerism</em>.",
+   "new": "(in basic solution a ketose rearranges into an aldose, which then reacts).",
+   "count": 1
+  }
+ ],
+ "597075": [
+  {
+   "old": "the same molecule drawn at two moments of free rotation; they differ only by rotation",
+   "new": "the same compound in two <em>conformations</em> (shapes reached by rotation about a single bond); they differ only by rotation",
+   "count": 2
+  },
+  {
+   "old": "That is the test: drawings of the same molecule interconvert by rotation, isomers only by breaking bonds.",
+   "new": "That is the test: conformations interconvert by rotation, isomers only by breaking bonds.",
+   "count": 2
+  }
+ ]
+}
