@@ -1426,6 +1426,11 @@
    "old": "<div class=\"box-note\" style=\"border-left:6px solid #86509b;\">\n<p class=\"boxtitle\">Try It: DNA structure and base pairing</p>\n<p>Nucleotides, base pairing, antiparallel strands and the rules of Chargaff. Your progress is saved in this browser.</p>\n<p><iframe src=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;q=DNA%7Cbase%20pair%7Cnucleotide%7Cpurine%7Cpyrimidine%7Cdouble%20helix%7Ccomplement%7Cchargaff&amp;n=10&amp;title=DNA%20structure%20and%20base%20pairing\" width=\"100%\" height=\"620\" style=\"border:0;border-radius:12px;background:#f5f6fb;\" title=\"Try It: DNA structure and base pairing\" loading=\"lazy\"></iframe></p>\n<p style=\"font-size:0.9em;\">Not loading? <a style=\"text-decoration:underline\" href=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;q=DNA%7Cbase%20pair%7Cnucleotide%7Cpurine%7Cpyrimidine%7Cdouble%20helix%7Ccomplement%7Cchargaff&amp;n=10&amp;title=DNA%20structure%20and%20base%20pairing\" target=\"_blank\" rel=\"noopener\">Open this practice in a new tab</a>.</p>\n</div>\n",
    "new": "",
    "count": 1
+  },
+  {
+   "old": "src=\"/@api/deki/files/139719/E2c.jpg\" fileid=\"139719\"",
+   "new": "src=\"/@api/deki/files/512701/E2c.jpg\" fileid=\"512701\"",
+   "count": 1
   }
  ],
  "597177": [
@@ -1476,6 +1481,11 @@
   {
    "old": "This first amino acid is usually removed enzymatically before the polypeptide chain is completed; the vast majority of polypeptides do not begin with methionine.</li>",
    "new": "In many proteins this first methionine is removed by an enzyme, so the finished protein often does not begin with methionine.</li>",
+   "count": 1
+  },
+  {
+   "old": "src=\"/@api/deki/files/26476/19.12.jpg\" fileid=\"26476\"",
+   "new": "src=\"/@api/deki/files/512702/19.12.jpg\" fileid=\"512702\"",
    "count": 1
   }
  ],
