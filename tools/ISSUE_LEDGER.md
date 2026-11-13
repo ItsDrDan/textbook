@@ -635,3 +635,15 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - Missing-glyph boxes in the whole book: 0. Batch M text, the eight print-key entries and the renumbered figures are unchanged from the 01:14 compile. p2 licence present; no raw MathJax or "Copyright" leftovers.
   - Words under 6 pt: 32 pages, unchanged (open; list in tools/REVIEW_2026-11-13.md).
 
+- **2026-11-13 Batch N (the rest of the 2026-11-13 review that needed no redraw), live and verified (all 45 pages read back identical):**
+  - **Published: 83 edits on 45 pages** (tools/batchN_2026-11-13.json, built by tools/batchN_build.py; expected hashes in tools/batchN_sha_2026-11-13.json). pages/live holds the post-edit pages; mirrors updated.
+  - **Instructor decisions, 2026-11-13:**
+    - "Hydride" replaced everywhere with "two electrons and an H+" wording (Glossary, 11.5, 11.8, 11.9, 13.1 alt, 13.6, 13.11 ×2, 14.2, 14.5, 14.7). The NaBH4 "hydride reagent" in 5.4 and "group 14 hydrides" in 1.8 stay.
+    - The curved arrow on the 8.4 ring-closure slide (Slide36, Figure 8.4.3) stays as an allowed exception. CONVENTIONS.md records both.
+    - Credit lines added where the caption had none: lecture slides 4.2.2, 5.1.1, 5.5.8, 6.4.1; 4.5 Exercise 1(b) redraw; Ball line on 1.4 Figure 5 and 11.4 Figure 1; Malik line on 14.4 Figure 3.
+  - Content: 2.9 cyclopropane; 1.8 and P1.65 "most covalent compounds"; 1.4 C–Br; 2.6 branching; 10.11 Key Idea 2; 4.5 Valley answer; P4.53; Cumulative 13.4.
+  - Figures and numbering: 1.6 captions and text no longer promise molecular models; 1.6 Exercise 1 alt relettered with no giveaway; 9.2 soap alt; Tables 13.7.1–2 and 13.8.1–2; 1.5 examples and exercises 1–3; 1.8 Example 2.
+  - Pointers and wording: Case Set 14.3 and P10.81; Glossary and Index for allosteric (11.6), reactive oxygen species (13.6), alcohol dehydrogenase (4.5); 8.3 sucralose link; 2.3; 3.8 stray bullet; 5.1; 7.10 and 7.6 "nylon-6,6"; 12.3 and 12.4 end labels; 12.10 box moved; 10.6/10.7 "shown here"; 13.5 credit prefix; About This Book Valley list (+7).
+  - **Correction to the review:** the "65 captioned figures with no credit" count was too high. Most were inner panels of composite figures whose outer caption carries the credit. Twelve captions truly lacked one; eight are fixed here and the four 9.3 structure labels sit under a credited figure.
+  - **Still open:** 3.4 Example 3(c); 11.1 Figure 1 (script-only viewer); About This Book version entry; uncaptioned images with unknown source (3.3 lycopene, 4.7 Traversi painting and Phenol-3D-balls, 4.8 Morton painting, 13.4 sulfonylureas, 12.8 AZT and raltegravir captions); 6.8 and 7.11 captions that repeat the alt text; 1.7 Figure 1–2 alt letters; 9.3 snake photo position; 10.10 source numbering; nine missing Index entries and 12 weaker Glossary pointers; hot-linked images in 10.7 and 11.6; nine dead links; six figures under about 5.3 pt; bank and ADAPT findings.
+
