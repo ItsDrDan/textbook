@@ -82,3 +82,15 @@ When the answer choices are drawn structures, the A–D grid is shuffled for eac
 - **Removed from assignments (32; still in the bank and in My Questions):** 18 chirality wedge/dash near-duplicates (Ch 5), 9 fatty-acid ATP variants (Ch 15), 5 molar-mass drill items (Ch 1). The list is in `adapt_target_2026-11-12.json` ("retire").
 - **Exporter:** `tools/adapt_export.py` now reads only `PLAN` from `build_pages.py`; it no longer runs the page build. An explicit `{id: chapter}` map places items that no widget regex catches. The run prints a warning if any usable item is left in no chapter. `adapt_target_2026-11-12.json` is the per-chapter target, and the live course matches it. The one exception: fb-3B-1011 and 1012 stay in Chapter 13, where they were already live, although the exporter files them under Ch 14 and Ch 15.
 - The new questions have no video hint yet. The "Watch Dr. Dan's lesson" hints on older questions are unchanged.
+
+## Update of 2026-11-12 (night): live check after the review
+- **Licence fields:** checked all 1,031 live questions. Each is CC BY 4.0, author Daniel Kwasniewski, with no attribution needed.
+- **pKa removed live:** five questions still had the pre-11-11 pKa wording in ADAPT, although the bank had been rewritten. They were updated in place to the bank version (reason recorded, "automatically update", hints unchanged):
+  - fb-3B-0078 (ADAPT 354359)
+  - fb-3B-0864 (355041)
+  - fb-3B-0865 (355042)
+  - fb-3B-0870 (355047)
+  - fb-3B-0871 (355048)
+- **Re-scan:** no question text, hint or solution in the course mentions pKa, and every assignment uses the latest revision of each question.
+- **Video hints:** the 537 "Watch Dr. Dan's lesson" hints are left as they are (instructor decision). The QTI LICENSE.txt notes that linked videos are not covered by CC BY.
+- **Editing note:** PATCH /api/questions/{id} only saves when the body is built from the open editor form (CreateQuestion questionForm, server fields removed) with qti_prompt, qti_randomize_order, qti_simple_choice_N, qti_json_type, folder_id, tags: [] and the unwrapped hint. A body built from the API view returns "We were not able to save this question."
