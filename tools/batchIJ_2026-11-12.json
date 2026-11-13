@@ -1,0 +1,598 @@
+{
+ "uploads": [
+  {
+   "page": "597176",
+   "name": "fig-p597176-base-pairs-v2.jpg",
+   "path": "figures/pages/batchI/fig-p597176-base-pairs-v2.jpg",
+   "key": "bp",
+   "old_fileid": null
+  },
+  {
+   "page": "597200",
+   "name": "fig-p597200-acetyl-coa-v2.jpg",
+   "path": "figures/pages/batchI/fig-p597200-acetyl-coa-v2.jpg",
+   "key": "acoa",
+   "old_fileid": null
+  },
+  {
+   "page": "597137",
+   "name": "fig-p597137-glucose-cyclization-v2.jpg",
+   "path": "figures/pages/batchI/fig-p597137-glucose-cyclization-v2.jpg",
+   "key": "glc",
+   "old_fileid": null
+  },
+  {
+   "page": "597146",
+   "name": "fig-p597146-popc-condensed.svg",
+   "path": "figures/pages/batchF/fig-p597146-popc-condensed.svg",
+   "key": "popc",
+   "old_fileid": null
+  },
+  {
+   "page": "597193",
+   "name": "fig-p597193-glycolysis-flow.svg",
+   "path": "figures/pages/batchF/fig-p597193-glycolysis-flow.svg",
+   "key": "gflow",
+   "old_fileid": null
+  },
+  {
+   "page": "597204",
+   "name": "fig-p597204-yield-flow.svg",
+   "path": "figures/pages/batchF/fig-p597204-yield-flow.svg",
+   "key": "yflow",
+   "old_fileid": null
+  }
+ ],
+ "edits": {
+  "597139": [
+   {
+    "old": "The average American consumes more than 100 lb of sucrose every year. About two-thirds of this amount is ingested in soft drinks, presweetened cereals, and other highly processed foods.",
+    "new": "In the United States, about 68 lb of refined cane and beet sugar (sucrose) per person was available for consumption in 2023, down from about 102 lb in 1972 (<a style=\"text-decoration:underline\" href=\"https://www.ers.usda.gov/data-products/charts-of-note/110515\" rel=\"noopener\" target=\"_blank\">USDA Economic Research Service</a>).",
+    "count": 1,
+    "note": "1a: replace undated '>100 lb sucrose' and unverified 'two-thirds' with USDA ERS 2023 per-capita availability"
+   }
+  ],
+  "597140": [
+   {
+    "old": "Although the use of noncellulose synthetic fibers is increasing, rayon (made from cellulose) and cotton still account for over 70% of textile production.",
+    "new": "Cotton and rayon (made from cellulose) were once the main textile fibers, but synthetic fibers now dominate: in 2024, polyester made up about 59% of world fiber production, cotton about 19%, and rayon and other cellulose-based fibers about 6% (<a style=\"text-decoration:underline\" href=\"https://www.textileexchange.org/resources/materials-market-report-2025/\" rel=\"noopener\" target=\"_blank\">Textile Exchange, Materials Market Report 2025</a>).",
+    "count": 1,
+    "note": "1b: outdated '>70% cotton+rayon' replaced with 2024 Textile Exchange shares"
+   }
+  ],
+  "597093": [
+   {
+    "old": "<span>Nearly 2 billion gallons of methanol are produced each year in the United States by the catalytic reduction",
+    "new": "<span>Large amounts of methanol are produced industrially by the catalytic reduction",
+    "count": 1,
+    "note": "1c: undated '2 billion gallons' production figure could not be verified from EIA/Methanol Institute; rephrased timelessly"
+   },
+   {
+    "old": "Ingestion of as little as 15 mL of methanol can cause blindness, and 30 mL (1 oz) can cause death. However, the usual fatal dose is 100 to 150 mL.",
+    "new": "Ingestion of as little as 10 mL of methanol can cause permanent blindness, and about 30 mL (1 oz) can be fatal, although the fatal dose varies widely from person to person (<a style=\"text-decoration:underline\" href=\"https://www.gov.uk/government/publications/methanol-properties-incident-management-and-toxicology/methanol-toxicological-overview\" rel=\"noopener\" target=\"_blank\">UK Health Security Agency, Methanol: toxicological overview</a>).",
+    "count": 1,
+    "note": "1c: methanol toxic doses updated to a verifiable source; unverified 'usual fatal dose 100-150 mL' removed"
+   },
+   {
+    "old": "treats every small 1&deg; alcohol the same way.</p>\n</div>",
+    "new": "treats every small 1&deg; alcohol the same way.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example: Read the alcohol label</p>\n<p><strong>Problem.</strong> A hand-sanitizer label reads &ldquo;ethyl alcohol 62%.&rdquo; A swab packet reads &ldquo;70% isopropyl alcohol.&rdquo; A bottle of vodka is labeled 80 proof. (a) Does the sanitizer meet the CDC&rsquo;s advice? (b) What percent alcohol is the vodka, and could it replace hand sanitizer?</p>\n<p><strong>Solution.</strong> (a) The CDC advises a hand sanitizer with <strong>at least 60% alcohol</strong> when soap and water are not available. 62% is above 60%, so yes. The 70% swab is also above 60%; its 30% water helps the alcohol denature bacterial proteins, as described above. (b) Proof is twice the percent: 80 &divide; 2 = <strong>40% ethanol</strong>. That is below 60%, so it is too dilute to work as a hand sanitizer.</p>\n<p><strong>Check.</strong> Going the other way, 62% ethanol would be 124 proof. More alcohol is not always better: pure alcohol evaporates before it can do its job, which is why swabs are 70%, not 100%.</p>\n</div>",
+    "count": 1,
+    "note": "Item 11: 4.4 worked label example (CDC >=60%, 70% swab, 80 proof = 40%) after the Nursing box; titled 'Example:' unnumbered to match the page's existing unnumbered 'Example: Predict the alcohol'"
+   }
+  ],
+  "597182": [
+   {
+    "old": "nearly 12,500 cases in 2024, the most on record, and more than 5,500 provisional cases in just the first half of 2025.<sup>1</sup>",
+    "new": "nearly 12,500 cases in 2024, a record at the time, and cases kept rising in 2025.<sup>1</sup>",
+    "count": 1,
+    "note": "1d: (Valley fever, not measles: page has no measles statistic) dated half-year provisional 2025 figure cut; no verifiable final 2025 total found; existing Source 1 supports the rewrite"
+   }
+  ],
+  "597072": [
+   {
+    "old": "(the gray, pink, and purple areas at the center)",
+    "new": "(the purple and blue areas at the center)",
+    "count": 1,
+    "note": "1e: caption colours match the image/alt (purple and blue)"
+   },
+   {
+    "old": "The largest ozone hole ever observed occurred on 24 September 2006.",
+    "new": "The image shows the ozone hole on 24 September 2006; the 2006 hole is the largest on record when averaged over the September&ndash;October season, while the largest single-day area was measured on 9 September 2000 (<a style=\"text-decoration:underline\" href=\"https://science.nasa.gov/earth/earth-observatory/ozone-hole-2015-86869/\" rel=\"noopener\" target=\"_blank\">NASA Earth Observatory</a>).",
+    "count": 1,
+    "note": "1e: 'largest ever observed' claim made precise (2006 = largest seasonal average, still the record per NASA 2025; 2000 = largest single day)"
+   },
+   {
+    "old": "Ozone watch (opens in new window)</a>",
+    "new": "Ozone Watch</a>",
+    "count": 1,
+    "note": "1e: remove web residue '(opens in new window)' from caption link"
+   }
+  ],
+  "597070": [
+   {
+    "old": "Oil Spill(opens in new window)</a>",
+    "new": "Oil Spill</a>",
+    "count": 1,
+    "note": "1e: remove web residue '(opens in new window)' from caption link"
+   },
+   {
+    "old": "style=\"text-align:center;\">&ndash;164</td>",
+    "new": "style=\"text-align:center;\">&ndash;162</td>",
+    "count": 1,
+    "note": "2: methane bp -164 -> -162 (book standard; CRC -161.5). 4.3 (597092) Table 1 already reads -162, no edit"
+   }
+  ],
+  "597082": [
+   {
+    "old": "hundreds of thousands of hip and knee joints are replaced in <abbr title=\"United States\">US</abbr> hospitals each year.",
+    "new": "more than 1 million hip and knee joints are replaced in the <abbr title=\"United States\">US</abbr> each year (<a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4551172/\" rel=\"noopener\" target=\"_blank\">Maradit Kremers et al., <em>J Bone Joint Surg Am</em>, 2015</a>).",
+    "count": 1,
+    "note": "1f: update joint-replacement volume to >1 million/year (US)"
+   },
+   {
+    "old": "People crippled by arthritis or injuries gain",
+    "new": "People whose joints are damaged by arthritis or injuries gain",
+    "count": 1,
+    "note": "1f: respectful wording"
+   }
+  ],
+  "597085": [
+   {
+    "old": "carcinogenic compounds, benzopyrene, occurs",
+    "new": "carcinogenic compounds, benzo[a]pyrene, occurs",
+    "count": 1,
+    "note": "1g: correct name benzo[a]pyrene"
+   },
+   {
+    "old": " It is estimated that more than 1,000 t of benzopyrene are emitted into the air over the United States each year.",
+    "new": "",
+    "count": 1,
+    "note": "1g: unsourced 1,000 t emission figure deleted (EPA NEI reports PAH/POM totals, no current B[a]P-only national figure found)"
+   },
+   {
+    "old": "milligrams of benzopyrene per kilogram",
+    "new": "milligrams of benzo[a]pyrene per kilogram",
+    "count": 1,
+    "note": "1g: correct name benzo[a]pyrene"
+   }
+  ],
+  "597059": [
+   {
+    "old": "The most current version is the MyPlate illustration that gives a simple, visual picture of how much of what kind of foods make up a good, balanced diet. It recommends",
+    "new": "The MyPlate illustration, introduced in 2011, gives a simple, visual picture of how much of what kind of foods make up a good, balanced diet; the 2025&ndash;2030 <em>Dietary Guidelines for Americans</em>, released in January 2026, present their advice with a new food pyramid graphic instead (<a style=\"text-decoration:underline\" href=\"https://realfood.gov/\" rel=\"noopener\" target=\"_blank\">realfood.gov</a>). MyPlate recommends",
+    "count": 1,
+    "note": "1h: MyPlate no longer 'most current'; 2025-2030 DGA (Jan 2026) uses a new food pyramid"
+   }
+  ],
+  "597270": [
+   {
+    "old": "<a style=\"text-decoration:underline\" href=\"/@go/page/597131\">7.11</a> organophosphate pesticides and farmworker health; ",
+    "new": "",
+    "count": 1,
+    "note": "4: remove 7.11 entry from after 10.10"
+   },
+   {
+    "old": "and ammonium nitrate haze; ",
+    "new": "and ammonium nitrate haze; <a style=\"text-decoration:underline\" href=\"/@go/page/597131\">7.11</a> organophosphate pesticides and farmworker health; ",
+    "count": 1,
+    "note": "4: reinsert 7.11 entry after 7.3 (section order)"
+   }
+  ],
+  "597183": [
+   {
+    "old": "(activation, initiation, elongation, termination) and how the spliceosome",
+    "new": "(activation, initiation, elongation, termination; previewed here and taught in Section 12.6) and how the spliceosome",
+    "count": 1,
+    "note": "5: mark objective as preview"
+   },
+   {
+    "old": "<li>Translation runs in four stages:",
+    "new": "<li>Translation (previewed here; taught in Section 12.6) runs in four stages:",
+    "count": 1,
+    "note": "5: mark summary bullet as preview"
+   },
+   {
+    "old": "<p>Match each term to its description: (1) P site",
+    "new": "<p><em>Preview of Section 12.6:</em> Match each term to its description: (1) P site",
+    "count": 1,
+    "note": "5: mark Exercise 6 as preview"
+   }
+  ],
+  "597155": [
+   {
+    "old": "<p>Amino acids undergo reactions characteristic of carboxylic acids and amines. The reactivity of these functional groups is particularly important in linking amino acids together to form peptides and proteins, as you will see later in this chapter. Simple chemical tests that are used to detect amino acids take advantage of the reactivity of these functional groups. An example is the ninhydrin test in which the amine functional group of &alpha;-amino acids reacts with ninhydrin to form purple-colored compounds. Ninhydrin is used to detect fingerprints because it reacts with amino acids from the proteins in skin cells transferred to the surface by the individual leaving the fingerprint.</p>\n\n<p class=\"mt-align-center\"><img alt=\"Ninhydrin (a fused bicyclic structure with two C=O groups and two OH groups on the same carbon) beside a photograph of a purple fingerprint developed with ninhydrin.\" height=\"221\" width=\"422\" class=\"internal\" src=\"/@api/deki/files/25912/ninhydrin.jpg\" fileid=\"25912\" /></p>\n\n",
+    "new": "",
+    "count": 1,
+    "note": "6: remove duplicate ninhydrin paragraph + uncaptioned fingerprint image (kept in 10.3); image unnumbered, no xrefs depend on it"
+   }
+  ],
+  "597120": [
+   {
+    "old": "<strong>Problem 6.5</strong></p><div>A.</div>",
+    "new": "<strong>Problem 6.5</strong></p><div>A. An ester is named alcohol part + acid part: the methyl comes from methanol and the benzoate from benzoic acid. Benzyl alcohol and methanoic acid would give benzyl methanoate instead.</div>",
+    "count": 1,
+    "note": "7: Problem 6.5 key copy now matches inline answer"
+   },
+   {
+    "old": "<strong>Problem 6.6</strong></p><div>B.</div>",
+    "new": "<strong>Problem 6.6</strong></p><div>B. Saponification uses a strong base such as NaOH, so the acid is formed as its salt (a carboxylate) rather than the free carboxylic acid; acid hydrolysis is what gives the free acid.</div>",
+    "count": 1,
+    "note": "7: Problem 6.6 key copy now matches inline answer"
+   },
+   {
+    "old": "<strong>Problem 6.9</strong></p><div>True.</div>",
+    "new": "<strong>Problem 6.9</strong></p><div>True. Only a small fraction (often about 1%) of the molecules give up H<sup>+</sup> to water to form the carboxylate ion; most stay as the neutral acid, which is why it is a weak acid.</div>",
+    "count": 1,
+    "note": "7: Problem 6.9 key copy now matches inline answer"
+   }
+  ],
+  "597133": [
+   {
+    "old": "<strong>Problem 7.4</strong></p><div>A.</div>",
+    "new": "<strong>Problem 7.4</strong></p><div>A. The amine is a base, so its nitrogen lone pair picks up H<sup>+</sup> from HCl, forming the salt CH<sub>3</sub>CH<sub>2</sub>NH<sub>3</sub><sup>+</sup> Cl<sup>&minus;</sup>, ethylammonium chloride.</div>",
+    "count": 1,
+    "note": "7: Problem 7.4 key copy now matches inline answer"
+   },
+   {
+    "old": "<strong>Problem 7.6</strong></p><div>A.</div>",
+    "new": "<strong>Problem 7.6</strong></p><div>A. The C=O side is a three-carbon chain (propanamide), and the CH<sub>3</sub> is on the nitrogen, shown by <em>N</em>-methyl. It has a C=O, so it is an amide, not an amine.</div>",
+    "count": 1,
+    "note": "7: Problem 7.6 key copy now matches inline answer"
+   },
+   {
+    "old": "<strong>Problem 7.7</strong></p><div>B.</div>",
+    "new": "<strong>Problem 7.7</strong></p><div>B. A heterocycle has a ring atom other than carbon; pyridine&rsquo;s ring nitrogen has a lone pair that makes it a basic amine. It has no C=O, so it is not an amide.</div>",
+    "count": 1,
+    "note": "7: Problem 7.7 key copy now matches inline answer"
+   },
+   {
+    "old": "<strong>Problem 7.9</strong></p><div>True.</div>",
+    "new": "<strong>Problem 7.9</strong></p><div>True. OH<sup>&minus;</sup> breaks the amide C&ndash;N bond; the acid part ends up as its carboxylate salt (because the solution is basic) and the nitrogen part is released as the amine or ammonia.</div>",
+    "count": 1,
+    "note": "7: Problem 7.9 key copy now matches inline answer"
+   },
+   {
+    "old": "<strong>Problem 7.23</strong></p><div>benzamide</div>",
+    "new": "<strong>Problem 7.23</strong></p><div>benzamide. The amide is built from benzoic acid, so the <em>-oic acid</em> ending changes to <em>-amide</em>; C<sub>6</sub>H<sub>5</sub>CONH<sub>2</sub> is benzamide.</div>",
+    "count": 1,
+    "note": "7: Problem 7.23 key copy now matches inline answer"
+   }
+  ],
+  "597114": [
+   {
+    "old": "butanoic acid, a carboxylic acid, 164 degrees C.",
+    "new": "butanoic acid, a carboxylic acid, 163 degrees C.",
+    "count": 1,
+    "note": "8: alt text 164 -> 163 to match text and 6.3 table (the SVG image itself still labels 164 °C, in both its bar label and <desc>)"
+   },
+   {
+    "old": "src=\"https://itsdrdan.github.io/textbook/figures/pathways/ester_bp.svg\"",
+    "new": "src=\"https://itsdrdan.github.io/textbook/figures/pathways/ester_bp.svg?v=20261113\"",
+    "count": 1,
+    "note": "6.6 chart cache-bust (163 °C)"
+   }
+  ],
+  "597092": [
+   {
+    "old": "more than four = treat as insoluble</strong>.</p>",
+    "new": "more than four = treat as insoluble</strong>.</p>\n<p>&ldquo;Soluble&rdquo; in this rule means that a useful amount dissolves, not that the two liquids mix in every proportion. Alcohols with one to three carbons are <em>miscible</em> with water. 1-Butanol is not: only about 7&ndash;8 g dissolves in 100 mL of water, and the rest forms a separate layer. That is still enough to count as soluble on exams.</p>",
+    "count": 1,
+    "note": "Item 1: 4.3 reconcile the 4-carbon cut-off with ~8 g/100 mL (soluble, not miscible)"
+   }
+  ],
+  "597097": [
+   {
+    "old": "(about 8 g/100 mL of water).</p>",
+    "new": "(about 8 g/100 mL of water).</p>\n<p>In this course both still count as <strong>soluble</strong> (four carbons or fewer, Section 4.3). &ldquo;Soluble&rdquo; means a useful amount dissolves; it does not mean <em>miscible</em>. Ethanol and dimethyl ether mix with water in any proportion, but diethyl ether and 1-butanol dissolve only to about 8 g per 100 mL, and any more forms a separate layer.</p>",
+    "count": 1,
+    "note": "Item 1: 4.8 same reconciliation after the source's 8 g/100 mL sentence"
+   }
+  ],
+  "597188": [
+   {
+    "old": "<section class=\"box-warning\">\n<span id=\"Broader_definition_of_oxidation_and_reduction\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Broader definition of oxidation and reduction</h5>\n\n<p>Oxidation and reduction are not limited to making or breaking a bond with oxygen or hydrogen; broader definitions are the following.</p>",
+    "new": "<section class=\"box-note\">\n<span id=\"Broader_definition_of_oxidation_and_reduction\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Optional: a broader definition of oxidation and reduction</h5>\n\n<p><em>This box is optional and is not tested. For this course, the rule from Section 5.4 is enough: oxidation adds C&ndash;O bonds or removes C&ndash;H bonds, and reduction does the reverse.</em></p>\n\n<p>Oxidation and reduction are not limited to making or breaking a bond with oxygen or hydrogen; broader definitions are the following.</p>",
+    "count": 1,
+    "note": "Item 2: 13.1 re-box the 'Broader definition' paragraph as an optional note (box-warning -> box-note, retitled, one-line 'not tested' lead-in); source text kept"
+   }
+  ],
+  "597104": [
+   {
+    "old": "<p>The carbonyl group of an aldehyde or a ketone is a polar double bond just like the acyl group of a carboxylic acid derivative, i.e., ",
+    "new": "<p><strong>Start from Chapter 3.</strong> In hydration (Section 3.4), water adds across a C=C double bond: the H of H&ndash;OH goes to one carbon, the OH goes to the other, and the double bond becomes a single bond. An alcohol, R&ndash;O&ndash;H, does the same thing to the C=O of an aldehyde or ketone. The alcohol&rsquo;s H goes to the carbonyl oxygen, its OR goes to the carbonyl carbon, and C=O becomes C&ndash;O. The only change is that the pieces are H and OR instead of H and OH.</p>\n\n<p>The carbonyl group of an aldehyde or a ketone is a polar double bond, ",
+    "count": 1,
+    "note": "Item 3: 5.3 add a Chapter 3 hydration bridge before the opening paragraph and trim 'just like the acyl group of a carboxylic acid derivative, i.e.,' (rest of source paragraph kept)"
+   }
+  ],
+  "597200": [
+   {
+    "old": "that break down the products of stage I of catabolism (monosaccharides, fatty acids, and amino acids) to produce a common end product, acetyl-coenzyme A (acetyl-CoA) in stage <span class=\"acronym-ignore\">II</span> of catabolism.</p>",
+    "new": "that break down the products of Stage 1 of catabolism (monosaccharides, fatty acids, and amino acids) to produce a common end product, acetyl-coenzyme A (acetyl-CoA) in Stage 2 of catabolism.</p>",
+    "count": 1,
+    "note": "Item 4: 14.1 Roman to Arabic stage numerals in source paragraph (Arabic is the style of 13.1, 13.3, 14.1 LC, 14.4, 14.6)"
+   },
+   {
+    "old": "<p>Two Stage II pathways feed this chapter.",
+    "new": "<p>Two Stage 2 pathways feed this chapter.",
+    "count": 1,
+    "note": "Item 4: 14.1 'Stage II pathways' -> 'Stage 2 pathways'"
+   },
+   {
+    "old": "<h2 class=\"editable\">Lecture Connection</h2>\n<p>Chapter 13 covered Stage 1",
+    "new": "<h2 class=\"editable\">Lecture Connection</h2>\n<p><strong>Stage map:</strong> Stage 1, digestion (food &rarr; monomers) &rarr; Stage 2, monomers &rarr; acetyl CoA &rarr; Stage 3, citric acid cycle + electron transport (most of the ATP).</p>\n<p>Chapter 13 covered Stage 1",
+    "count": 1,
+    "note": "Item 4: 14.1 one-line stage map at the top of the Lecture Connection"
+   },
+   {
+    "old": "(opens in new window)",
+    "new": "",
+    "count": 1,
+    "note": "link residue removed"
+   },
+   {
+    "old": "<img alt=\"The structure of acetyl-coenzyme A with its parts bracketed: the acetyl group (CH3-C(=O)-, red) joined through a thioester to the sulfur of coenzyme A, whose chain contains pantothenic acid (a vitamin) and a phosphorylated ADP ending in adenine.\" class=\"internal\" src=\"/@api/deki/files/512750/fig-p597200-acetyl-coa.jpg\" fileid=\"512750\" />",
+    "new": "<img alt=\"The structure of acetyl-coenzyme A with its parts bracketed: the acetyl group (CH3-C(=O)-, red) joined through a thioester to the sulfur of coenzyme A, whose chain contains pantothenic acid (a vitamin) and a phosphorylated ADP ending in adenine.\" class=\"internal\" src=\"/@api/deki/files/{{acoa}}/fig-p597200-acetyl-coa-v2.jpg\" fileid=\"{{acoa}}\" />",
+    "count": 1,
+    "note": "14.1.1 phosphate O- charges"
+   }
+  ],
+  "597201": [
+   {
+    "old": "is the beginning of stage III of catabolism.",
+    "new": "is the beginning of Stage 3 of catabolism.",
+    "count": 1,
+    "note": "Item 4 (optional companion): 14.2 source sentence 'stage III' -> 'Stage 3' for the same consistency"
+   },
+   {
+    "old": "(opens in new window)",
+    "new": "",
+    "count": 2,
+    "note": "link residue removed"
+   }
+  ],
+  "597209": [
+   {
+    "old": "due to their higher energy density.</p>",
+    "new": "due to their higher energy density.</p>\n<p><strong>Same sum, two groupings.</strong> The Lecture Connection below counts the same molecules in a different order. For palmitate (16 C), the formula above gives 7 cycles &times; 14 + 10 &minus; 2 = 98 + 10 &minus; 2 = <strong>106 ATP</strong>. The lecture method gives 8 acetyl CoA &times; 10 (80) + 7 NADH &times; 2.5 (17.5) + 7 FADH<sub>2</sub> &times; 1.5 (10.5) &minus; 2 = <strong>106 ATP</strong>. Each &ldquo;14 per cycle&rdquo; is one NADH and one FADH<sub>2</sub> (4 ATP) plus one acetyl CoA (10 ATP); the extra 10 is the eighth acetyl CoA released by the last cycle. Both methods give 120 ATP for stearate.</p>",
+    "count": 1,
+    "note": "Item 5: 15.4 show the source '14 per cycle + 10 - 2' and the lecture count are the same sum (palmitate 106)"
+   }
+  ],
+  "597216": [
+   {
+    "old": "uric acid crystals accumulate in the joints.",
+    "new": "uric acid crystals accumulate in the joints. In humans, uric acid does not come from amino-acid nitrogen; that nitrogen leaves as urea, measured as BUN. Uric acid is made when the body breaks down purines (adenine and guanine from nucleotides), so serum uric acid is a separate lab value from BUN.",
+    "count": 1,
+    "note": "Item 6: 15.9 gout box, uric acid from purines not amino-acid nitrogen; separate from BUN"
+   }
+  ],
+  "597136": [
+   {
+    "old": "18 mg/dL = 1 mmol/L, so 90 mg/dL is 5.0 mmol/L.",
+    "new": "18 mg/dL = 1 mmol/L, so 90 mg/dL is 90 &divide; 18 = 5.0 mmol/L. To go the other way, multiply: 7.0 mmol/L &times; 18 = 126 mg/dL, the fasting diabetes cutoff, and 3.9 mmol/L &times; 18 &asymp; 70 mg/dL, the hypoglycemia line.",
+    "count": 1,
+    "note": "Item 7: 8.3 extend the existing one-way example (90 mg/dL -> 5.0 mmol/L) to both directions; batch F had not added this"
+   }
+  ],
+  "597149": [
+   {
+    "old": "and loss of vitamins A, D, E, and K.</p>\n</div>",
+    "new": "and loss of vitamins A, D, E, and K.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 1: Read Rosa&rsquo;s lipid panel</p>\n<p><strong>Problem.</strong> Rosa&rsquo;s panel (Chapter 9 opening page) reports LDL 142 mg/dL, HDL 38 mg/dL and triglycerides 230 mg/dL, but not her total cholesterol. Use the lab formula to find it, then compare each value with the targets in the box above.</p>\n<p><strong>Solution.</strong> The lab formula is LDL = total cholesterol &minus; HDL &minus; triglycerides/5. First, 230/5 = 46 mg/dL. Rearrange: total cholesterol = LDL + HDL + triglycerides/5 = 142 + 38 + 46 = <strong>226 mg/dL</strong>. Compare: total 226 (target below 200, high); LDL 142 (target below 100, high); HDL 38 (below 40, low); triglycerides 230 (target below 150, high).</p>\n<p><strong>Check.</strong> Put the answer back in the formula: 226 &minus; 38 &minus; 46 = 142 mg/dL, the reported LDL. Labs stop using this formula when triglycerides are above 400 mg/dL, because the triglycerides/5 estimate is no longer reliable.</p>\n</div>",
+    "count": 1,
+    "note": "Item 8: 9.6 boxed LDL (Friedewald) worked example with Rosa's numbers (from 9.0 opener 597047 / 9.7 guide), solving total cholesterol = 226"
+   }
+  ],
+  "597189": [
+   {
+    "old": "This is the pattern for every kinase step you will meet.</p>\n</div>",
+    "new": "This is the pattern for every kinase step you will meet.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 2: Making ATP from creatine phosphate</p>\n<p><strong>Problem.</strong> In a sprinting muscle, creatine kinase moves a phosphate from creatine phosphate to ADP. Use the table above to find &Delta;G&deg;&prime; for creatine phosphate + ADP &rarr; creatine + ATP.</p>\n<p><strong>Solution.</strong> Add two reactions. Creatine phosphate + H<sub>2</sub>O &rarr; creatine + P<sub>i</sub> releases 10.3 kcal/mol (&minus;10.3, from the table). Making ATP is the reverse of ATP hydrolysis, so ADP + P<sub>i</sub> &rarr; ATP + H<sub>2</sub>O needs 7.3 kcal/mol (+7.3). Sum: creatine phosphate + ADP &rarr; creatine + ATP, &Delta;G&deg;&prime; = &minus;10.3 + 7.3 = <strong>&minus;3.0 kcal/mol</strong>. The negative sign means the reaction is favorable.</p>\n<p><strong>Check.</strong> This works because creatine phosphate sits <em>above</em> ATP in the table. A compound below ATP cannot make ATP this way: glucose 6-phosphate gives &minus;3.3 + 7.3 = +4.0 kcal/mol, which is unfavorable. (Use 7.3 kcal/mol for ATP, as in Example 1 and the Professor Tip.)</p>\n</div>",
+    "count": 1,
+    "note": "Item 9: 13.2 Example 2, creatine phosphate + ADP coupling, -10.3 + 7.3 = -3.0 kcal/mol (table: creatine phosphate -10.3, glucose 6-phosphate -3.3; table prints ATP as -7.5, page convention 7.3)"
+   }
+  ],
+  "597203": [
+   {
+    "old": "Fewer protons pumped means less ATP: 2.5 per NADH, 1.5 per FADH<sub>2</sub>.</p>",
+    "new": "Fewer protons pumped means less ATP: 2.5 per NADH, 1.5 per FADH<sub>2</sub>.</p>\n<div class=\"box-note\">\n<p class=\"boxtitle\">Proton bookkeeping: where 2.5 and 1.5 come from</p>\n<ul>\n<li>For each pair of electrons: Complex I moves about 4 H<sup>+</sup>, Complex III about 4, and Complex IV about 2 (it moves 4 for each O<sub>2</sub>, which takes two electron pairs).</li>\n<li>NADH (I, III and IV): 4 + 4 + 2 = <strong>about 10 H<sup>+</sup></strong>. FADH<sub>2</sub> (III and IV only): 4 + 2 = <strong>about 6 H<sup>+</sup></strong>.</li>\n<li>ATP synthase uses about 3 H<sup>+</sup> to make one ATP, and about 1 more H<sup>+</sup> brings ADP and P<sub>i</sub> in as the ATP goes out. That is <strong>about 4 H<sup>+</sup> per ATP</strong> delivered to the cell.</li>\n<li>NADH: 10 &divide; 4 = <strong>2.5 ATP</strong>. FADH<sub>2</sub>: 6 &divide; 4 = <strong>1.5 ATP</strong>.</li>\n</ul>\n<p>You do not need to memorize the proton counts. They show where the course values 2.5 and 1.5 come from.</p>\n</div>",
+    "count": 1,
+    "note": "Item 10: 14.4 proton bookkeeping box after 'Why 2.5 and 1.5'; consistent with page (Complex I pumps four H+; Complex IV 4 H+ per O2) and 14.5 (about 10 per NADH, about 4 per ATP)"
+   },
+   {
+    "old": "https://itsdrdan.github.io/textbook/figures/pathways/etc/etc.svg\"",
+    "new": "https://itsdrdan.github.io/textbook/figures/pathways/etc/etc_inner.svg\"",
+    "count": 1,
+    "note": "14.4 ETC: inner-membrane version prints larger"
+   },
+   {
+    "old": "<div class=\"row\">\n<figure><img src=\"https://itsdrdan.github.io/textbook/figures/pathways/oer/atp_synthase.svg\" alt=\"ATP synthase in the inner mitochondrial membrane. H+ ions in the intermembrane space, where their concentration is high, flow through the Fo part, between the a subunit (stator) and the ring of c subunits (rotor), into the matrix, where H+ concentration is low. The flow turns the rotor and the attached gamma stalk. A b stalk holds the F1 head still. The turning gamma stalk changes the shape of each beta subunit of the F1 head in turn, so ADP and inorganic phosphate bind, are joined into ATP, and ATP is released. In human mitochondria the rotor has 8 c subunits, so 8 H+ make one turn and 3 ATP; with phosphate transport about 4 H+ are used per ATP.\" style=\"width:560px;max-width:100%;height:auto\" />a</figure>\n\n<figure><img src=\"https://itsdrdan.github.io/textbook/figures/pathways/oer/atp_rotation.svg\" alt=\"Three panels viewing the Fo rotor from above: a ring of eight c subunits around the central gamma stalk, with the a subunit (stator) on the right. Panel 1: an H+ ion from the intermembrane space binds a c subunit next to the a subunit. Panel 2: the ring turns one step, carrying the loaded subunit into the membrane. Panel 3: after nearly a full turn the subunit reaches the a subunit again and releases its H+ into the matrix. Each H+ that passes turns the ring and the gamma stalk one step.\" style=\"width:600px;max-width:100%;height:auto\" />b</figure>\n\n<figure><img src=\"https://upload.wikimedia.org/wikipedia/commons/6/62/ATPsyn.gif\" alt=\"Animation of ATP synthase turning as protons flow through it and ATP is released from the head.\" />c</figure>\n</div>",
+    "new": "<figure><img src=\"https://itsdrdan.github.io/textbook/figures/print/atp_synthase-v3-1.svg\" alt=\"ATP synthase in the inner mitochondrial membrane. H+ ions in the intermembrane space, where their concentration is high, flow through the Fo part, between the a subunit (stator) and the ring of c subunits (rotor), into the matrix, where H+ concentration is low. The flow turns the rotor and the attached gamma stalk. A b stalk holds the F1 head still. The turning gamma stalk changes the shape of each beta subunit of the F1 head in turn, so ADP and inorganic phosphate bind, are joined into ATP, and ATP is released. In human mitochondria the rotor has 8 c subunits, so 8 H+ make one turn and 3 ATP; with phosphate transport about 4 H+ are used per ATP.\" style=\"display:block;margin:0;width:700px;max-width:100%;height:auto\" /><img src=\"https://itsdrdan.github.io/textbook/figures/print/atp_synthase-v3-2.svg\" alt=\"\" style=\"display:block;margin:0;width:700px;max-width:100%;height:auto\" />a</figure>\n\n<figure><img src=\"https://itsdrdan.github.io/textbook/figures/pathways/oer/atp_rotation.svg\" alt=\"Three panels viewing the Fo rotor from above: a ring of eight c subunits around the central gamma stalk, with the a subunit (stator) on the right. Panel 1: an H+ ion from the intermembrane space binds a c subunit next to the a subunit. Panel 2: the ring turns one step, carrying the loaded subunit into the membrane. Panel 3: after nearly a full turn the subunit reaches the a subunit again and releases its H+ into the matrix. Each H+ that passes turns the ring and the gamma stalk one step.\" style=\"width:600px;max-width:100%;height:auto\" />b</figure>\n\n<figure><img src=\"https://upload.wikimedia.org/wikipedia/commons/6/62/ATPsyn.gif\" alt=\"Animation of ATP synthase turning as protons flow through it and ATP is released from the head.\" />c</figure>\n",
+    "count": 1,
+    "note": "14.4 Fig 2: parts a, b, c stacked; ATP synthase as two full-width print strips"
+   },
+   {
+    "old": "<strong>a)</strong> \\(\\ce{ATP}\\)-synthase in the inner mitochondrial membrane (Diagram: Daniel Kwasniewski, CC BY 4.0),",
+    "new": "<strong>a)</strong> \\(\\ce{ATP}\\)-synthase in the inner mitochondrial membrane; in human mitochondria the rotor has 8 c subunits, so 8 H<sup>+</sup> turn it once and one turn makes 3 ATP (Diagram: Daniel Kwasniewski, CC BY 4.0),",
+    "count": 1,
+    "note": "14.4 Fig 2 caption keeps the removed footnote"
+   }
+  ],
+  "597094": [
+   {
+    "old": "and a little 1-butene (one alkyl group). (Structures drawn by Daniel Kwasniewski with the Bond Voyage! engine; CC BY 4.0.)</figcaption></figure>",
+    "new": "and a little 1-butene (one alkyl group). (Structures drawn by Daniel Kwasniewski with the Bond Voyage! engine; CC BY 4.0.)</figcaption></figure>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example: Zaitsev&rsquo;s rule in a ring</p>\n<p><strong>Problem.</strong> Predict the major and minor alkenes when 2-methylcyclohexanol is dehydrated with H<sub>2</sub>SO<sub>4</sub> and heat.</p>\n<p><strong>Solution.</strong> Number the ring so the OH carbon is C1 and the CH<sub>3</sub> is on C2. The OH carbon has two ring neighbors. C2 is a CH (one H). C6 is a CH<sub>2</sub> (two H atoms). Removing the H from C2 puts the C=C between C1 and C2, next to the methyl; the product is <strong>1-methylcyclohexene</strong>, whose C=C carries three carbon groups (two ring carbons and the CH<sub>3</sub>). Removing an H from C6 puts the C=C on the other side; renumbered so the C=C is C1&ndash;C2, this is <strong>3-methylcyclohexene</strong>, whose C=C carries only two carbon groups. Zaitsev&rsquo;s rule: 1-methylcyclohexene is major, 3-methylcyclohexene is minor.</p>\n<p><strong>Check.</strong> Both products are C<sub>7</sub>H<sub>12</sub>, which is 2-methylcyclohexanol (C<sub>7</sub>H<sub>14</sub>O) minus H<sub>2</sub>O. In a ring, the ring carbons count as alkyl groups on the C=C, and the neighbor with fewer hydrogens (C2) gives the major product, just as in the open-chain example.</p>\n</div>",
+    "count": 1,
+    "note": "Item 12: 4.5 ring Zaitsev example (2-methylcyclohexanol) after Figure 4.5.2; text only, no mechanism, no E/Z"
+   }
+  ],
+  "597095": [
+   {
+    "old": "which is why it is the glycol allowed in foods and medicines.</p>",
+    "new": "which is why it is the glycol allowed in foods and medicines.</p>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 1: Follow ethylene glycol one step at a time</p>\n<p><strong>Problem.</strong> Ethylene glycol, HOCH<sub>2</sub>CH<sub>2</sub>OH, has two 1&deg; alcohol groups. Use the 1&deg; alcohol pattern from Section 4.5 (alcohol &rarr; aldehyde &rarr; carboxylic acid) to show how the body turns it into oxalic acid.</p>\n<p><strong>Solution.</strong> Oxidize one end at a time; each arrow is one [O] step.</p>\n<ol>\n<li>HOCH<sub>2</sub>CH<sub>2</sub>OH &rarr; HOCH<sub>2</sub>CHO (glycolaldehyde): the first CH<sub>2</sub>OH becomes an aldehyde.</li>\n<li>HOCH<sub>2</sub>CHO &rarr; HOCH<sub>2</sub>COOH (glycolic acid): that aldehyde becomes a carboxylic acid.</li>\n<li>HOCH<sub>2</sub>COOH &rarr; OHC&ndash;COOH (glyoxylic acid): the second CH<sub>2</sub>OH becomes an aldehyde.</li>\n<li>OHC&ndash;COOH &rarr; HOOC&ndash;COOH (<strong>oxalic acid</strong>): the second aldehyde becomes a carboxylic acid.</li>\n</ol>\n<p><strong>Check.</strong> Each step adds a C&ndash;O bond or removes a C&ndash;H bond, so each is an oxidation. Both ends follow the same alcohol &rarr; aldehyde &rarr; acid pattern as ethanol. At body pH the &ndash;COOH groups lose H<sup>+</sup>, so the final product is oxalate, <sup>&minus;</sup>OOC&ndash;COO<sup>&minus;</sup>, the ion that precipitates with Ca<sup>2+</sup>. The acids made along the way, especially glycolic acid, cause the metabolic acidosis.</p>\n</div>",
+    "count": 1,
+    "note": "Item 13: 4.6 stepwise ethylene glycol oxidation (4 [O] steps to oxalic acid) after the toxicity paragraph; condensed formulas only"
+   }
+  ],
+  "597103": [
+   {
+    "old": "            <td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">49</td>\n        </tr>",
+    "new": "            <td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">49</td>\n        </tr>\n        <tr>\n            <td data-th=\"Compound\" style=\"text-align:center;\">CH<sub>3</sub>COCH<sub>3</sub></td>\n            <td data-th=\"Family\" style=\"text-align:center;\">ketone</td>\n            <td data-th=\"Molar Mass\" style=\"text-align:center;\">58</td>\n            <td data-th=\"Type of Intermolecular Forces\" style=\"text-align:center;\">strong dipole</td>\n            <td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">56</td>\n        </tr>",
+    "count": 1,
+    "note": "Item 14: 5.2 Table 5.2.1 add propanone row (58 g/mol, strong dipole, 56 C) after the aldehyde row, same 5 columns"
+   },
+   {
+    "old": "(propanal and propanone, for example) have very similar boiling points",
+    "new": "(propanal, 49 &deg;C, and propanone, 56 &deg;C, both in the section&rsquo;s table) have very similar boiling points",
+    "count": 1,
+    "note": "Item 14 (companion): 5.2 Lecture Connection points to the new row"
+   }
+  ],
+  "597058": [
+   {
+    "old": "so only CO<sub>2</sub> is nonpolar. &#10003;</p>\n</div>",
+    "new": "so only CO<sub>2</sub> is nonpolar. &#10003;</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 3: Three organic molecules, same two questions</p>\n<p><strong>Problem.</strong> Is each molecule polar? Can it hydrogen bond with itself? (a) ethanol, CH<sub>3</sub>CH<sub>2</sub>OH; (b) diethyl ether, CH<sub>3</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>3</sub>; (c) hexane, CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>.</p>\n<p><strong>Solution.</strong> (a) Ethanol has polar C&ndash;O and O&ndash;H bonds. The oxygen has two bonds and two lone pairs, so it is bent, and the two bond dipoles do not cancel. <strong>Polar.</strong> It has an H on O, so it <strong>can</strong> hydrogen bond with itself (Section 1.8).</p>\n<p>(b) Diethyl ether has two polar C&ndash;O bonds. The oxygen is bent, so they do not cancel. <strong>Polar</strong>, but less so than ethanol. It has no H on O, so it <strong>cannot</strong> hydrogen bond with itself; it can only accept a hydrogen bond from water.</p>\n<p>(c) Hexane has only C&ndash;C and C&ndash;H bonds, which are essentially nonpolar. <strong>Nonpolar</strong>, no hydrogen bonding.</p>\n<p><strong>Check.</strong> Ask the two questions in order. An oxygen with two lone pairs is always bent, so small molecules with a C&ndash;O&ndash;C or C&ndash;O&ndash;H group are polar; a hydrocarbon is not.</p>\n</div>",
+    "count": 1,
+    "note": "Item 15: 1.5 Lecture Connection Example 3 (ethanol / diethyl ether / hexane) after Example 2"
+   },
+   {
+    "old": "title=\"Electronegativity and Polarity (Part 2: Polar Molecules) (Daniel Kwasniewski (ItsDrDan), YouTube video)\"",
+    "new": "title=\"Electronegativity and Polarity (Part II: Polar Molecules) (Daniel Kwasniewski (ItsDrDan), YouTube video)\"",
+    "count": 1,
+    "note": "embed title matches YouTube"
+   }
+  ],
+  "597159": [
+   {
+    "old": "so the order in the name must match the order in the sequence.</p>\n</div>",
+    "new": "so the order in the name must match the order in the sequence.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 2: A pentapeptide in one-letter code</p>\n<p><strong>Problem.</strong> A peptide is written KGDAF. (a) Name the residues and give the N- and C-terminus. (b) How many peptide bonds does it have? (c) What is its net charge at pH 7.4?</p>\n<p><strong>Solution.</strong> (a) K = lysine, G = glycine, D = aspartate (aspartic acid), A = alanine, F = phenylalanine: Lys-Gly-Asp-Ala-Phe. Sequences are written N to C, so <strong>lysine</strong> is the N-terminus and <strong>phenylalanine</strong> is the C-terminus. (b) Five residues are joined by <strong>4 peptide bonds</strong>. (c) Count every charged group at pH 7.4: N-terminal &ndash;NH<sub>3</sub><sup>+</sup> (+1), C-terminal &ndash;COO<sup>&minus;</sup> (&minus;1), lysine side chain (basic, +1), aspartate side chain (acidic, &minus;1). Gly, Ala and Phe have neutral side chains. Net charge = +1 &minus; 1 + 1 &minus; 1 = <strong>0</strong>.</p>\n<p><strong>Check.</strong> Peptide bonds = residues &minus; 1, so 5 &minus; 1 = 4, and complete hydrolysis would use 4 water molecules. The two termini cancel each other, so only the side chains decide the net charge; here one basic (+1) and one acidic (&minus;1) side chain also cancel. With 5 residues it is an oligopeptide.</p>\n</div>",
+    "count": 1,
+    "note": "Item 16: 10.6 Example 2, KGDAF: termini, 4 peptide bonds, net charge 0 at pH 7.4 by course categories"
+   }
+  ],
+  "597204": [
+   {
+    "old": "which is why hypoxic tissue becomes acidotic so quickly.</p>\n</div>",
+    "new": "which is why hypoxic tissue becomes acidotic so quickly.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 4: Reading the burrito&rsquo;s label</p>\n<p><strong>Problem.</strong> The burrito in &ldquo;Energy in food&rdquo; above has 30 g carbohydrate, 8 g protein and 12 g fat (260 Calories). (a) What percent of its Calories come from fat? (b) About how long would Rosa need to walk to use 260 Calories? Assume brisk walking (3.5 mph) burns about 140 Calories per 30 minutes, the CDC estimate for a 154-lb person.</p>\n<p><strong>Solution.</strong> (a) Fat Calories = 12 g &times; 9 kcal/g = 108 Calories. Percent from fat = 108 &divide; 260 &times; 100 &asymp; <strong>42%</strong>. (b) 140 Calories per 30 minutes is about 4.7 Calories per minute. 260 &divide; 4.7 &asymp; <strong>55 minutes</strong> of walking. Rosa&rsquo;s 30-minute evening walk uses about 140 Calories, roughly half the burrito.</p>\n<p><strong>Check.</strong> Fat is only 12 of the 50 grams, yet it supplies 42% of the Calories, because each gram of fat gives 9 kcal instead of 4. A heavier person burns more per minute and a lighter person less, so the walking time is an estimate.</p>\n</div>",
+    "count": 1,
+    "note": "Item 17: 14.5 Example 4 after Example 3: fat-Calorie % of the page's own burrito (42%) and walking minutes (~55) using CDC 140 kcal/30 min at 3.5 mph"
+   },
+   {
+    "old": "<img class=\"internal\" alt=\"Bookkeeping flow for one glucose. Glycolysis in the cytosol gives 2 pyruvate, 2 ATP and 2 NADH. The two cytosolic NADH enter the mitochondrion through the malate&ndash;aspartate shuttle (worth 5 ATP) or the glycerol-3-phosphate shuttle (worth 3 ATP). Pyruvate dehydrogenase gives 2 acetyl-CoA and 2 NADH. Two turns of the citric acid cycle give 6 NADH, 2 FADH2 and 2 GTP. All NADH and FADH2 go to the electron transport chain, which makes 2.5 ATP per NADH and 1.5 ATP per FADH2. The total is 32 ATP with the malate&ndash;aspartate shuttle or 30 with the glycerol-3-phosphate shuttle.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512623/fig-p597204-1.svg\" fileid=\"512623\" />",
+    "new": "<img width=\"760\" class=\"internal\" alt=\"Bookkeeping flow for one glucose. Glycolysis in the cytosol gives 2 pyruvate, 2 ATP and 2 NADH. The two cytosolic NADH enter the mitochondrion through the malate&ndash;aspartate shuttle (worth 5 ATP) or the glycerol-3-phosphate shuttle (worth 3 ATP). Pyruvate dehydrogenase gives 2 acetyl-CoA and 2 NADH. Two turns of the citric acid cycle give 6 NADH, 2 FADH2 and 2 GTP. All NADH and FADH2 go to the electron transport chain, which makes 2.5 ATP per NADH and 1.5 ATP per FADH2. The total is 32 ATP with the malate&ndash;aspartate shuttle or 30 with the glycerol-3-phosphate shuttle.\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{yflow}}/fig-p597204-yield-flow.svg\" fileid=\"{{yflow}}\" />",
+    "count": 1,
+    "note": "14.5 yield flow cropped to content (prints larger)"
+   }
+  ],
+  "597124": [
+   {
+    "old": "    <li><img alt=\"CH3CH2CH2CH2CH2-C(=O)-NH2.\" class=\"internal\" src=\"/@api/deki/files/128177/clipboard_ea72761843b67752dc441426669d9cc0b.png\" fileid=\"128177\" /></li>\n</ol>",
+    "new": "    <li><img alt=\"CH3CH2CH2CH2CH2-C(=O)-NH2.\" class=\"internal\" src=\"/@api/deki/files/128177/clipboard_ea72761843b67752dc441426669d9cc0b.png\" fileid=\"128177\" /></li>\n</ol>\n\n<dl>\n    <dt><strong class=\"emphasis bold\">Answer a:</strong></dt>\n    <dd>\n    <p>butanamide (common name butyramide)</p>\n    </dd>\n    <dt><strong class=\"emphasis bold\">Answer b:</strong></dt>\n    <dd>\n    <p>hexanamide</p>\n    </dd>\n</dl>",
+    "count": 1,
+    "note": "Item 18: 7.4 Exercise 7.4.1 answers in the source's own 'Answer a:/b:' dl style (CH3CH2CH2CONH2 = butanamide; C5H11CONH2 = hexanamide)"
+   },
+   {
+    "old": "unlike benzamide (mp 132 &deg;C; see Section 7.5).</p>\n</div>",
+    "new": "unlike benzamide (mp 132 &deg;C; see Section 7.5).</p>\n</div>\n<p><strong>Check yourself: name and classify these amides.</strong> (a) CH<sub>3</sub>CH<sub>2</sub>CONH<sub>2</sub> (b) CH<sub>3</sub>CONHCH<sub>3</sub> (c) HCON(CH<sub>3</sub>)<sub>2</sub></p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>(a) Propanamide (common name propionamide), a 1&deg; amide. (b) N-methylethanamide (N-methylacetamide), a 2&deg; amide. (c) N,N-dimethylmethanamide (N,N-dimethylformamide), a 3&deg; amide; the parent acid is methanoic (formic) acid.</div></details></div>",
+    "count": 1,
+    "note": "Item 18: 7.4 'Check yourself: name these amides' (3 items) after Example 1, in the page-family Practice + answer-inline style"
+   },
+   {
+    "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "the section text above keeps its own license and attribution.</p>\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p><strong>&ldquo;Check yourself: name and classify these amides&hellip;&rdquo;</strong></p><div>(a) Propanamide (common name propionamide), a 1&deg; amide. (b) N-methylethanamide (N-methylacetamide), a 2&deg; amide. (c) N,N-dimethylmethanamide (N,N-dimethylformamide), a 3&deg; amide; the parent acid is methanoic (formic) acid.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "Item 18: 7.4 print answer key (page had none) mirroring the inline answer, same markup as 14.4"
+   }
+  ],
+  "597128": [
+   {
+    "old": "Nicotine shows both kinds at once.</p>\n</div>",
+    "new": "Nicotine shows both kinds at once.</p>\n</div>\n<p><strong>Check yourself: name the ring.</strong> (a) A six-membered aromatic ring with two nitrogens, found in cytosine. (b) A five-membered aromatic ring with two nitrogens, found in histidine. (c) A six-membered ring fused to a five-membered ring, with four nitrogens, found in caffeine. (d) A benzene ring fused to a five-membered ring with one N&ndash;H, found in serotonin. (e) Which of these rings has a nitrogen that is <em>not</em> basic: pyridine or pyrrole?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>(a) Pyrimidine. (b) Imidazole. (c) Purine. (d) Indole. (e) Pyrrole: its N&ndash;H nitrogen has given its lone pair to the aromatic ring; the pyridine nitrogen keeps its lone pair and is weakly basic.</div></details></div>",
+    "count": 1,
+    "note": "Item 18: 7.8 'Check yourself: name the ring' (5 items) after the Professor Tip, before Figure 7.8.2"
+   },
+   {
+    "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "the section text above keeps its own license and attribution.</p>\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p><strong>&ldquo;Check yourself: name the ring&hellip;&rdquo;</strong></p><div>(a) Pyrimidine. (b) Imidazole. (c) Purine. (d) Indole. (e) Pyrrole: its N&ndash;H nitrogen has given its lone pair to the aromatic ring; the pyridine nitrogen keeps its lone pair and is weakly basic.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "Item 18: 7.8 print answer key (page had none)"
+   }
+  ],
+  "597061": [
+   {
+    "old": "title=\"Dipole-Dipole, Hydrogen Bonding, and Ion-Dipole (Daniel Kwasniewski (ItsDrDan), YouTube video)\"",
+    "new": "title=\"Dipole-Dipole, Hydrogen Bonding, and Ion-Dipole: Properties of Intermolecular Forces (Part 3) (Daniel Kwasniewski (ItsDrDan), YouTube video)\"",
+    "count": 1,
+    "note": "embed title matches YouTube"
+   }
+  ],
+  "597158": [
+   {
+    "old": "(opens in new window)",
+    "new": "",
+    "count": 1,
+    "note": "link residue removed"
+   }
+  ],
+  "597179": [
+   {
+    "old": "(opens in new window)",
+    "new": "",
+    "count": 1,
+    "note": "link residue removed"
+   }
+  ],
+  "597156": [
+   {
+    "old": "src=\"/@api/deki/files/25912/ninhydrin.jpg\" fileid=\"25912\" /></p>",
+    "new": "src=\"/@api/deki/files/25912/ninhydrin.jpg\" fileid=\"25912\" /></p>\n<p class=\"mt-align-center\"><small>(Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</small></p>",
+    "count": 1,
+    "note": "10.3 ninhydrin figure credit"
+   }
+  ],
+  "597176": [
+   {
+    "old": "<img class=\"internal\" height=\"343\" width=\"521\" alt=\"Base pairing: (a) thymine paired with adenine by two hydrogen bonds, and (b) cytosine paired with guanine by three hydrogen bonds, each drawn both as a chemical structure (with the distance between the chain attachment points, about 1.08 nm) and as a ball-and-stick model in green, blue, red and pink.\" src=\"/@api/deki/files/512746/fig-p597176-base-pairs.jpg\" fileid=\"512746\" />",
+    "new": "<img class=\"internal\" height=\"343\" width=\"521\" alt=\"Base pairing: (a) thymine paired with adenine by two hydrogen bonds, and (b) cytosine paired with guanine by three hydrogen bonds, each drawn both as a chemical structure (with the distance between the chain attachment points, about 1.08 nm) and as a ball-and-stick model in green, blue, red and pink.\" src=\"/@api/deki/files/{{bp}}/fig-p597176-base-pairs-v2.jpg\" fileid=\"{{bp}}\" />",
+    "count": 1,
+    "note": "12.2.3 base pairs: cytosine NH2 and C4=N3, purine C4=C5"
+   }
+  ],
+  "597137": [
+   {
+    "old": "<img alt=\"Cyclization of D-glucose in three panels: (a) the Fischer projection with carbons numbered 1 to 6; (b) a three-dimensional representation in which the chain curls so the OH on carbon 5 approaches the aldehyde carbon 1 (curved arrow); (c) the resulting six-membered ring (Haworth projection) with the ring oxygen and the new OH on carbon 1.\" class=\"internal\" src=\"/@api/deki/files/512739/fig-p597137-glucose-cyclization.jpg\" fileid=\"512739\" />",
+    "new": "<img alt=\"Cyclization of D-glucose in three panels: (a) the Fischer projection with carbons numbered 1 to 6; (b) a three-dimensional representation in which the chain curls so the OH on carbon 5 comes close to the aldehyde carbon 1; (c) the resulting six-membered ring (Haworth projection) with the ring oxygen and the new OH on carbon 1.\" class=\"internal\" src=\"/@api/deki/files/{{glc}}/fig-p597137-glucose-cyclization-v2.jpg\" fileid=\"{{glc}}\" />",
+    "count": 1,
+    "note": "8.4.1(b) curved-arrow mechanism removed"
+   }
+  ],
+  "597146": [
+   {
+    "old": "<img alt=\"Condensed structure of a phosphatidylcholine: glycerol carbon 1 esterified to palmitate ((CH2)14CH3), carbon 2 esterified to oleate ((CH2)7CH=CH(CH2)7CH3), and carbon 3 bonded through O to a phosphate (P in red) that links to O(CH2)2N(CH3)3 plus.\" class=\"internal\" src=\"/@api/deki/files/435618/clipboard_e6440016b590ae18ecdeb38e59d169e5b.png\" fileid=\"435618\" />",
+    "new": "<img width=\"560\" style=\"max-width:100%;height:auto;\" alt=\"Condensed formula of 1-palmitoyl-2-oleoyl-phosphatidylcholine: glycerol carbons CH2, CH and CH2 in a column; the top CH2 is bonded through O to C(=O) of the palmitoyl chain CH3(CH2)14; the CH is bonded through O to C(=O) of the oleoyl chain CH3(CH2)7CH=CH(CH2)7; the bottom CH2 is bonded through O to a phosphate (P=O, O minus) that links through O to (CH2)2N+(CH3)3, the choline group.\" class=\"internal\" src=\"/@api/deki/files/{{popc}}/fig-p597146-popc-condensed.svg\" fileid=\"{{popc}}\" />",
+    "count": 1,
+    "note": "9.3.1 condensed formula: CH3(CH2)n written correctly (own redraw)"
+   }
+  ],
+  "597193": [
+   {
+    "old": "<img class=\"internal\" alt=\"Glycolysis in two phases. Energy-investment phase: glucose is phosphorylated by hexokinase using ATP to glucose-6-phosphate, isomerized to fructose-6-phosphate, phosphorylated again by phosphofructokinase-1 using a second ATP to fructose-1,6-bisphosphate, and split by aldolase into dihydroxyacetone phosphate and glyceraldehyde-3-phosphate; triose phosphate isomerase converts DHAP into a second glyceraldehyde-3-phosphate. Energy-payoff phase, run twice per glucose: glyceraldehyde-3-phosphate is oxidized by its dehydrogenase with NAD+ and inorganic phosphate to 1,3-bisphosphoglycerate; phosphoglycerate kinase transfers a phosphate to ADP giving ATP and 3-phosphoglycerate; a mutase moves the phosphate to give 2-phosphoglycerate; enolase removes water to give phosphoenolpyruvate; pyruvate kinase transfers the phosphate to ADP giving ATP and pyruvate. Net per glucose: 2 ATP, 2 NADH, 2 pyruvate.\" width=\"692\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512607/fig-p597193-1.svg\" fileid=\"512607\" />",
+    "new": "<img width=\"760\" class=\"internal\" alt=\"Glycolysis in two phases. Energy-investment phase: glucose is phosphorylated by hexokinase using ATP to glucose 6-phosphate, isomerized to fructose 6-phosphate, phosphorylated again by phosphofructokinase-1 using a second ATP to fructose 1,6-bisphosphate, and split by aldolase into dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate; triose phosphate isomerase converts DHAP into a second glyceraldehyde 3-phosphate. Energy-payoff phase, run twice per glucose: glyceraldehyde 3-phosphate is oxidized by its dehydrogenase with NAD+ and inorganic phosphate to 1,3-bisphosphoglycerate; phosphoglycerate kinase transfers a phosphate to ADP giving ATP and 3-phosphoglycerate; a mutase moves the phosphate to give 2-phosphoglycerate; enolase removes water to give phosphoenolpyruvate; pyruvate kinase transfers the phosphate to ADP giving ATP and pyruvate. Net per glucose: 2 ATP, 2 NADH and 2 pyruvate, with no oxygen needed.\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{gflow}}/fig-p597193-glycolysis-flow.svg\" fileid=\"{{gflow}}\" />",
+    "count": 1,
+    "note": "13.5.2 glycolysis flow redrawn landscape"
+   }
+  ],
+  "597145": [
+   {
+    "old": "figures/Slide47.png\" alt=\"",
+    "new": "figures/Slide47.png?v=20261113\" alt=\"",
+    "count": 1,
+    "note": "Slide 47 cache-bust (Glyceryl tripalmitate)"
+   },
+   {
+    "old": "Right: glyceryl palmitate (tripalmitin)",
+    "new": "Right: glyceryl tripalmitate (tripalmitin)",
+    "count": 1,
+    "note": "Slide 47 alt name"
+   }
+  ]
+ }
+}

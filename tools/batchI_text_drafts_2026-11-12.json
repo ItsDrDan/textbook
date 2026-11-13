@@ -1,0 +1,292 @@
+{
+ "597139": [
+  {
+   "old": "The average American consumes more than 100 lb of sucrose every year. About two-thirds of this amount is ingested in soft drinks, presweetened cereals, and other highly processed foods.",
+   "new": "In the United States, about 68 lb of refined cane and beet sugar (sucrose) per person was available for consumption in 2023, down from about 102 lb in 1972 (<a style=\"text-decoration:underline\" href=\"https://www.ers.usda.gov/data-products/charts-of-note/110515\" rel=\"noopener\" target=\"_blank\">USDA Economic Research Service</a>).",
+   "count": 1,
+   "note": "1a: replace undated '>100 lb sucrose' and unverified 'two-thirds' with USDA ERS 2023 per-capita availability",
+   "sources": [
+    "https://www.ers.usda.gov/data-products/charts-of-note/110515 — refined cane and beet sugar availability 102.3 lb/person (1972), 68.4 lb (2023); chart 'Caloric sweetener availability dropped nearly 20 percent since 1999', ERS 12/2/2024"
+   ]
+  }
+ ],
+ "597140": [
+  {
+   "old": "Although the use of noncellulose synthetic fibers is increasing, rayon (made from cellulose) and cotton still account for over 70% of textile production.",
+   "new": "Cotton and rayon (made from cellulose) were once the main textile fibers, but synthetic fibers now dominate: in 2024, polyester made up about 59% of world fiber production, cotton about 19%, and rayon and other cellulose-based fibers about 6% (<a style=\"text-decoration:underline\" href=\"https://www.textileexchange.org/resources/materials-market-report-2025/\" rel=\"noopener\" target=\"_blank\">Textile Exchange, Materials Market Report 2025</a>).",
+   "count": 1,
+   "note": "1b: outdated '>70% cotton+rayon' replaced with 2024 Textile Exchange shares",
+   "sources": [
+    "https://www.textileexchange.org/resources/materials-market-report-2025/ — Textile Exchange Materials Market Report 2025 (2024 data); figures confirmed via https://transition-pathways.europa.eu/textiles/library-and-support-resources/materials-market-report-2025-tracking-global-fibre-and-raw — 132 Mt total; polyester 78 Mt (59%); cotton 24.5 Mt (19%); man-made cellulosics 8.4 Mt (6%)"
+   ]
+  }
+ ],
+ "597093": [
+  {
+   "old": "<span>Nearly 2 billion gallons of methanol are produced each year in the United States by the catalytic reduction",
+   "new": "<span>Large amounts of methanol are produced industrially by the catalytic reduction",
+   "count": 1,
+   "note": "1c: undated '2 billion gallons' production figure could not be verified from EIA/Methanol Institute; rephrased timelessly",
+   "sources": []
+  },
+  {
+   "old": "Ingestion of as little as 15 mL of methanol can cause blindness, and 30 mL (1 oz) can cause death. However, the usual fatal dose is 100 to 150 mL.",
+   "new": "Ingestion of as little as 10 mL of methanol can cause permanent blindness, and about 30 mL (1 oz) can be fatal, although the fatal dose varies widely from person to person (<a style=\"text-decoration:underline\" href=\"https://www.gov.uk/government/publications/methanol-properties-incident-management-and-toxicology/methanol-toxicological-overview\" rel=\"noopener\" target=\"_blank\">UK Health Security Agency, Methanol: toxicological overview</a>).",
+   "count": 1,
+   "note": "1c: methanol toxic doses updated to a verifiable source; unverified 'usual fatal dose 100-150 mL' removed",
+   "sources": [
+    "https://www.gov.uk/government/publications/methanol-properties-incident-management-and-toxicology/methanol-toxicological-overview — 'as little as 4 to 10 mL of methanol in adults may cause permanent blindness'; minimal lethal oral dose 300-1,000 mg/kg (about 27-89 mL for a 70 kg adult; lowest reported 15 mL of 40% solution)"
+   ]
+  }
+ ],
+ "597182": [
+  {
+   "old": "nearly 12,500 cases in 2024, the most on record, and more than 5,500 provisional cases in just the first half of 2025.<sup>1</sup>",
+   "new": "nearly 12,500 cases in 2024, a record at the time, and cases kept rising in 2025.<sup>1</sup>",
+   "count": 1,
+   "note": "1d: (Valley fever, not measles: page has no measles statistic) dated half-year provisional 2025 figure cut; no verifiable final 2025 total found; existing Source 1 supports the rewrite",
+   "sources": [
+    "https://www.cdph.ca.gov/Programs/OPA/Pages/NR25-010.aspx — CDPH NR25-010 'Valley fever cases continue to rise in 2025 following record high in 2024' (existing Source 1)",
+    "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/ValleyFeverProvisionalDashboard.aspx — dashboard checked; final 2025 total not available in text form"
+   ]
+  }
+ ],
+ "597072": [
+  {
+   "old": "(the gray, pink, and purple areas at the center)",
+   "new": "(the purple and blue areas at the center)",
+   "count": 1,
+   "note": "1e: caption colours match the image/alt (purple and blue)",
+   "sources": []
+  },
+  {
+   "old": "The largest ozone hole ever observed occurred on 24 September 2006.",
+   "new": "The image shows the ozone hole on 24 September 2006; the 2006 hole is the largest on record when averaged over the September&ndash;October season, while the largest single-day area was measured on 9 September 2000 (<a style=\"text-decoration:underline\" href=\"https://science.nasa.gov/earth/earth-observatory/ozone-hole-2015-86869/\" rel=\"noopener\" target=\"_blank\">NASA Earth Observatory</a>).",
+   "count": 1,
+   "note": "1e: 'largest ever observed' claim made precise (2006 = largest seasonal average, still the record per NASA 2025; 2000 = largest single day)",
+   "sources": [
+    "https://science.nasa.gov/earth/earth-observatory/ozone-hole-2015-86869/ — 'largest single-day ozone hole recorded by satellite was 29.9 million km2 on September 9, 2000'; 'largest September-October average on record was 26.6 million km2 in 2006'",
+    "https://science.nasa.gov/solar-system/nasa-noaa-rank-2025-ozone-hole-as-5th-smallest-since-1992 — 2025 release: 2025 hole 'about 30% smaller than the largest hole ever observed, which occurred in 2006'"
+   ]
+  },
+  {
+   "old": "Ozone watch (opens in new window)</a>",
+   "new": "Ozone Watch</a>",
+   "count": 1,
+   "note": "1e: remove web residue '(opens in new window)' from caption link",
+   "sources": []
+  }
+ ],
+ "597070": [
+  {
+   "old": "Oil Spill(opens in new window)</a>",
+   "new": "Oil Spill</a>",
+   "count": 1,
+   "note": "1e: remove web residue '(opens in new window)' from caption link",
+   "sources": []
+  },
+  {
+   "old": "style=\"text-align:center;\">&ndash;164</td>",
+   "new": "style=\"text-align:center;\">&ndash;162</td>",
+   "count": 1,
+   "note": "2: methane bp -164 -> -162 (book standard; CRC -161.5). 4.3 (597092) Table 1 already reads -162, no edit",
+   "sources": [
+    "CRC Handbook of Chemistry and Physics: methane normal bp -161.5 C (per brief/ledger)"
+   ]
+  }
+ ],
+ "597082": [
+  {
+   "old": "hundreds of thousands of hip and knee joints are replaced in <abbr title=\"United States\">US</abbr> hospitals each year.",
+   "new": "more than 1 million hip and knee joints are replaced in the <abbr title=\"United States\">US</abbr> each year (<a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC4551172/\" rel=\"noopener\" target=\"_blank\">Maradit Kremers et al., <em>J Bone Joint Surg Am</em>, 2015</a>).",
+   "count": 1,
+   "note": "1f: update joint-replacement volume to >1 million/year (US)",
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC4551172/ — Maradit Kremers H et al., 'Prevalence of Total Hip and Knee Replacement in the United States', JBJS Am 2015;97(17):1386-97: 'over 1 million total hip and total knee replacement procedures performed each year in the United States'",
+    "AJRR 2026 report (615,330 procedures submitted in 2025) is a voluntary registry, not a national total, so not used"
+   ]
+  },
+  {
+   "old": "People crippled by arthritis or injuries gain",
+   "new": "People whose joints are damaged by arthritis or injuries gain",
+   "count": 1,
+   "note": "1f: respectful wording",
+   "sources": []
+  }
+ ],
+ "597085": [
+  {
+   "old": "carcinogenic compounds, benzopyrene, occurs",
+   "new": "carcinogenic compounds, benzo[a]pyrene, occurs",
+   "count": 1,
+   "note": "1g: correct name benzo[a]pyrene",
+   "sources": []
+  },
+  {
+   "old": " It is estimated that more than 1,000 t of benzopyrene are emitted into the air over the United States each year.",
+   "new": "",
+   "count": 1,
+   "note": "1g: unsourced 1,000 t emission figure deleted (EPA NEI reports PAH/POM totals, no current B[a]P-only national figure found)",
+   "sources": [
+    "https://archive.epa.gov/airtoxics/nata/web/pdf/appendix-h.pdf — EPA reports 16-PAH totals (1997 basis), not B[a]P alone; figure not verifiable"
+   ]
+  },
+  {
+   "old": "milligrams of benzopyrene per kilogram",
+   "new": "milligrams of benzo[a]pyrene per kilogram",
+   "count": 1,
+   "note": "1g: correct name benzo[a]pyrene",
+   "sources": []
+  }
+ ],
+ "597059": [
+  {
+   "old": "The most current version is the MyPlate illustration that gives a simple, visual picture of how much of what kind of foods make up a good, balanced diet. It recommends",
+   "new": "The MyPlate illustration, introduced in 2011, gives a simple, visual picture of how much of what kind of foods make up a good, balanced diet; the 2025&ndash;2030 <em>Dietary Guidelines for Americans</em>, released in January 2026, present their advice with a new food pyramid graphic instead (<a style=\"text-decoration:underline\" href=\"https://realfood.gov/\" rel=\"noopener\" target=\"_blank\">realfood.gov</a>). MyPlate recommends",
+   "count": 1,
+   "note": "1h: MyPlate no longer 'most current'; 2025-2030 DGA (Jan 2026) uses a new food pyramid",
+   "sources": [
+    "https://realfood.gov/ — official USDA site for DGA 2025-2030, 'New Pyramid' graphic",
+    "https://nutritionsource.hsph.harvard.edu/2026/01/09/dietary-guidelines-for-americans-2025-2030-progress-on-added-sugar-protein-hype-saturated-fat-contradictions/ — Harvard T.H. Chan Nutrition Source, 9 Jan 2026: DGA 2025-2030 released by USDA/HHS that week with an inverted 'New Food Pyramid'",
+    "https://www.foodnavigator.com/Article/2026/01/20/us-dietary-guidelines-sideline-myplate-causing-concern/ — guidelines sideline MyPlate in favour of the pyramid (MyPlate not formally retired)"
+   ]
+  }
+ ],
+ "597062": [
+  {
+   "old": "<strong>Electronegativity and Polarity (Part II: Polar Molecules)</strong>",
+   "new": "<strong>Electronegativity and Polarity (Part 2: Polar Molecules)</strong>",
+   "count": 1,
+   "note": "3: match 1.5 embed title (NB: YouTube title itself is 'Part II')",
+   "sources": [
+    "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=0fzuzHnkPAc&format=json — YouTube title 'Electronegativity and Polarity (Part II: Polar Molecules)'"
+   ]
+  },
+  {
+   "old": "<strong>Dipole-Dipole, Hydrogen Bonding, and Ion-Dipole: Properties of Intermolecular Forces (Part 3)</strong>",
+   "new": "<strong>Dipole-Dipole, Hydrogen Bonding, and Ion-Dipole</strong>",
+   "count": 1,
+   "note": "3: match 1.8 embed title (NB: YouTube title is the longer one with 'Properties of Intermolecular Forces (Part 3)')",
+   "sources": [
+    "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=CdA3Ov94lw0&format=json — YouTube title 'Dipole-Dipole, Hydrogen Bonding, and Ion-Dipole: Properties of Intermolecular Forces (Part 3)'"
+   ]
+  }
+ ],
+ "597270": [
+  {
+   "old": "<a style=\"text-decoration:underline\" href=\"/@go/page/597131\">7.11</a> organophosphate pesticides and farmworker health; ",
+   "new": "",
+   "count": 1,
+   "note": "4: remove 7.11 entry from after 10.10",
+   "sources": []
+  },
+  {
+   "old": "and ammonium nitrate haze; ",
+   "new": "and ammonium nitrate haze; <a style=\"text-decoration:underline\" href=\"/@go/page/597131\">7.11</a> organophosphate pesticides and farmworker health; ",
+   "count": 1,
+   "note": "4: reinsert 7.11 entry after 7.3 (section order)",
+   "sources": []
+  }
+ ],
+ "597183": [
+  {
+   "old": "(activation, initiation, elongation, termination) and how the spliceosome",
+   "new": "(activation, initiation, elongation, termination; previewed here and taught in Section 12.6) and how the spliceosome",
+   "count": 1,
+   "note": "5: mark objective as preview",
+   "sources": []
+  },
+  {
+   "old": "<li>Translation runs in four stages:",
+   "new": "<li>Translation (previewed here; taught in Section 12.6) runs in four stages:",
+   "count": 1,
+   "note": "5: mark summary bullet as preview",
+   "sources": []
+  },
+  {
+   "old": "<p>Match each term to its description: (1) P site",
+   "new": "<p><em>Preview of Section 12.6:</em> Match each term to its description: (1) P site",
+   "count": 1,
+   "note": "5: mark Exercise 6 as preview",
+   "sources": []
+  }
+ ],
+ "597155": [
+  {
+   "old": "<p>Amino acids undergo reactions characteristic of carboxylic acids and amines. The reactivity of these functional groups is particularly important in linking amino acids together to form peptides and proteins, as you will see later in this chapter. Simple chemical tests that are used to detect amino acids take advantage of the reactivity of these functional groups. An example is the ninhydrin test in which the amine functional group of &alpha;-amino acids reacts with ninhydrin to form purple-colored compounds. Ninhydrin is used to detect fingerprints because it reacts with amino acids from the proteins in skin cells transferred to the surface by the individual leaving the fingerprint.</p>\n\n<p class=\"mt-align-center\"><img alt=\"Ninhydrin (a fused bicyclic structure with two C=O groups and two OH groups on the same carbon) beside a photograph of a purple fingerprint developed with ninhydrin.\" height=\"221\" width=\"422\" class=\"internal\" src=\"/@api/deki/files/25912/ninhydrin.jpg\" fileid=\"25912\" /></p>\n\n",
+   "new": "",
+   "count": 1,
+   "note": "6: remove duplicate ninhydrin paragraph + uncaptioned fingerprint image (kept in 10.3); image unnumbered, no xrefs depend on it",
+   "sources": []
+  }
+ ],
+ "597120": [
+  {
+   "old": "<strong>Problem 6.5</strong></p><div>A.</div>",
+   "new": "<strong>Problem 6.5</strong></p><div>A. An ester is named alcohol part + acid part: the methyl comes from methanol and the benzoate from benzoic acid. Benzyl alcohol and methanoic acid would give benzyl methanoate instead.</div>",
+   "count": 1,
+   "note": "7: Problem 6.5 key copy now matches inline answer",
+   "sources": []
+  },
+  {
+   "old": "<strong>Problem 6.6</strong></p><div>B.</div>",
+   "new": "<strong>Problem 6.6</strong></p><div>B. Saponification uses a strong base such as NaOH, so the acid is formed as its salt (a carboxylate) rather than the free carboxylic acid; acid hydrolysis is what gives the free acid.</div>",
+   "count": 1,
+   "note": "7: Problem 6.6 key copy now matches inline answer",
+   "sources": []
+  },
+  {
+   "old": "<strong>Problem 6.9</strong></p><div>True.</div>",
+   "new": "<strong>Problem 6.9</strong></p><div>True. Only a small fraction (often about 1%) of the molecules give up H<sup>+</sup> to water to form the carboxylate ion; most stay as the neutral acid, which is why it is a weak acid.</div>",
+   "count": 1,
+   "note": "7: Problem 6.9 key copy now matches inline answer",
+   "sources": []
+  }
+ ],
+ "597133": [
+  {
+   "old": "<strong>Problem 7.4</strong></p><div>A.</div>",
+   "new": "<strong>Problem 7.4</strong></p><div>A. The amine is a base, so its nitrogen lone pair picks up H<sup>+</sup> from HCl, forming the salt CH<sub>3</sub>CH<sub>2</sub>NH<sub>3</sub><sup>+</sup> Cl<sup>&minus;</sup>, ethylammonium chloride.</div>",
+   "count": 1,
+   "note": "7: Problem 7.4 key copy now matches inline answer",
+   "sources": []
+  },
+  {
+   "old": "<strong>Problem 7.6</strong></p><div>A.</div>",
+   "new": "<strong>Problem 7.6</strong></p><div>A. The C=O side is a three-carbon chain (propanamide), and the CH<sub>3</sub> is on the nitrogen, shown by <em>N</em>-methyl. It has a C=O, so it is an amide, not an amine.</div>",
+   "count": 1,
+   "note": "7: Problem 7.6 key copy now matches inline answer",
+   "sources": []
+  },
+  {
+   "old": "<strong>Problem 7.7</strong></p><div>B.</div>",
+   "new": "<strong>Problem 7.7</strong></p><div>B. A heterocycle has a ring atom other than carbon; pyridine&rsquo;s ring nitrogen has a lone pair that makes it a basic amine. It has no C=O, so it is not an amide.</div>",
+   "count": 1,
+   "note": "7: Problem 7.7 key copy now matches inline answer",
+   "sources": []
+  },
+  {
+   "old": "<strong>Problem 7.9</strong></p><div>True.</div>",
+   "new": "<strong>Problem 7.9</strong></p><div>True. OH<sup>&minus;</sup> breaks the amide C&ndash;N bond; the acid part ends up as its carboxylate salt (because the solution is basic) and the nitrogen part is released as the amine or ammonia.</div>",
+   "count": 1,
+   "note": "7: Problem 7.9 key copy now matches inline answer",
+   "sources": []
+  },
+  {
+   "old": "<strong>Problem 7.23</strong></p><div>benzamide</div>",
+   "new": "<strong>Problem 7.23</strong></p><div>benzamide. The amide is built from benzoic acid, so the <em>-oic acid</em> ending changes to <em>-amide</em>; C<sub>6</sub>H<sub>5</sub>CONH<sub>2</sub> is benzamide.</div>",
+   "count": 1,
+   "note": "7: Problem 7.23 key copy now matches inline answer",
+   "sources": []
+  }
+ ],
+ "597114": [
+  {
+   "old": "butanoic acid, a carboxylic acid, 164 degrees C.",
+   "new": "butanoic acid, a carboxylic acid, 163 degrees C.",
+   "count": 1,
+   "note": "8: alt text 164 -> 163 to match text and 6.3 table (the SVG image itself still labels 164 °C, in both its bar label and <desc>)",
+   "sources": []
+  }
+ ]
+}
