@@ -434,3 +434,14 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Fig 8.4.1(b) shows a curved-arrow mechanism (excluded by the book's scope rules).
     - 14.1.1 phosphate charges; 9.3.1 condensed formula.
   - **Slide26 live (2026-11-12):** PR #21 merged; Pages build aae37a5 serves the new Slide26. The cache-bust edit on 597167 is published, and `pages/live` matches live by SHA-256.
+- 2026-11-12, batch C1 of the 2026-11-12 review: figure numbering (branch content/2026-11-batchC1).
+  - **Live: 91 edits on 38 pages.**
+    - Scanner: `tools/figscan.py`. Edit list: `tools/batchC1_fignum_2026-11-12.json`, built by `tools/batchC1_build.py`. Label map: `tools/batchC1_label_map_2026-11-12.json`. Review sheet: `tools/BATCH_C1_REVIEW_2026-11-12.md`.
+  - **Rule:** \PageIndex source captions keep their numbers. Hard-numbered Lecture Connection figures continue after the page's last source figure (29 section pages). Chapter Guide two-part numbers became three-part (1.9, 2.10, 3.9, 4.11, 5.6, 6.11, 7.12).
+  - **Special cases:**
+    - 1.6: the ethyne image is now captioned Figure 1.6.3.
+    - 5.4: source figures 2–4 became 1–3.
+    - 9.1: source figure 2 became 1 (references 2a/2b → 1a/1b).
+    - Cross-references follow their figures: 8.3 ×2 (→ 8.3.3) and the 12.1 Professor Tip (→ 12.1.6).
+  - **Verified:** every new string is live, and all 38 `pages/live` copies match live by SHA-256 (`tools/batchC1_live_sha_2026-11-12.json`). Mirrored into 73 `pages/` and `sections/` files.
+  - **Re-scan:** only 1.7, 9.4, 14.2 and 14.4 are still flagged, and those are false positives (a paragraph beginning "Figure \(\PageIndex{n}\) shows…").
