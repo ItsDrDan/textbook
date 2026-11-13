@@ -526,3 +526,15 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - The About bullet was rewritten: the ShareAlike statement is now true, and the stray "also:" and run-on clause are gone.
   - All pages verified by SHA-256 and mirrored.
   - The author confirmed the 40 `canvas-quiz` bank items are their own.
+- 2026-11-12, batch F (elevation), published on 31 pages; the author picked the top 15 plus the Valley/clinical hooks. All 73 review suggestions were re-checked against the live pages first (1 done, 44 partly, 28 absent; tools/F_ELEVATION_SHORTLIST_2026-11-12.md).
+  - **F1 (15 items):**
+    - Worked examples on 12.4, 5.4, 10.2, 2.7, 2.5, 12.7, 11.6 and 9.2.
+    - 1.8 donor/acceptor table; 13.9 ADA 15-15 rule; 14.2 Table 1 yield cells.
+    - Four new house figures (tools/batchF_figs.py; files 512764–512767): 11.4.2 rate vs [S] with inhibitors, 12.3.4 replication fork, 8.4.5 Fischer→Haworth in three steps, 12.6.4 elongation cycle with P/A sites.
+  - **F2 (17 hooks, 24 edits):**
+    - New Valley boxes on 4.9, 10.3, 15.7, 12.7, 11.5, 3.5 and 2.6.
+    - Clinical additions on 7.9, 7.10, 9.3, 11.7, 8.5, 11.3 and 15.5.
+    - Short additions on 14.4, 1.8, 6.9 and 10.1.
+    - Every statistic, law or protocol is cited; unverifiable claims were dropped. Spot-checked against the source documents: CDPH 7,137 fentanyl deaths (2023); AB 1830 0.7 mg/lb from 1 Jan 2026.
+    - 12.7 heel-stick timing aligned with CDPH (12–48 h).
+  - Verified by SHA-256 and mirrored. The server escaped `&` in one 2.6 URL and re-nested 4.9's sections after the new box (renders the same); the repo copies follow live.

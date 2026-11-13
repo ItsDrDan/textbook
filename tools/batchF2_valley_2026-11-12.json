@@ -1,0 +1,252 @@
+{
+ "597129": [
+  {
+   "old": "which is why it fits the same receptor.</p>",
+   "new": "which is why it fits the same receptor.</p>\n<p><strong>Fentanyl and naloxone.</strong> Fentanyl is a fully synthetic opioid: it is made in a lab, not taken from the poppy, so strictly it is not an alkaloid. You can still classify both of its nitrogens. The N in its six-membered ring is a <strong>tertiary (3&deg;) amine</strong>, the basic group that lets it be given as a salt (fentanyl citrate). The other N is a <strong>tertiary amide</strong>: it is bonded to the C=O carbon, a benzene ring and a ring carbon, so it carries no H. In California, fentanyl was involved in 7,137 overdose deaths in 2023.<sup>1</sup> <strong>Naloxone</strong> (Narcan) rapidly reverses an opioid overdose, and on March 29, 2023, the FDA approved the 4 mg nasal spray for sale without a prescription,<sup>2</sup> so nurses and dental hygienists may be the ones who show patients and families how to use it.</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Department of Public Health, <a style=\"text-decoration:underline\" href=\"https://www.cdph.ca.gov/Programs/CCDPHP/sapb/CDPH%20Document%20Library/2023_Opioid_Overdose_Deaths.pdf\" rel=\"noopener\" target=\"_blank\">Opioid-Related Overdose Deaths in California, 2023</a>, 2025. 2. U.S. Food and Drug Administration, <a style=\"text-decoration:underline\" href=\"https://www.fda.gov/news-events/press-announcements/fda-approves-first-over-counter-naloxone-nasal-spray\" rel=\"noopener\" target=\"_blank\">FDA Approves First Over-the-Counter Naloxone Nasal Spray</a>, 2023.</p>\n",
+   "count": 1,
+   "note": "Item 1: fentanyl (3° amine + 3° amide) and naloxone paragraph added inside the existing Clinical Connection: Nursing box, with Sources line",
+   "sources": [
+    "https://www.cdph.ca.gov/Programs/CCDPHP/sapb/CDPH%20Document%20Library/2023_Opioid_Overdose_Deaths.pdf — 7,137 fentanyl-related overdose deaths in California in 2023 (CDPH brief, Oct 2025)",
+    "https://www.fda.gov/news-events/press-announcements/fda-approves-first-over-counter-naloxone-nasal-spray — naloxone rapidly reverses opioid overdose; Narcan 4 mg nasal spray approved OTC March 29, 2023"
+   ]
+  }
+ ],
+ "597098": [
+  {
+   "old": "so leaks can be smelled.</p>",
+   "new": "so leaks can be smelled.</p>\n<div class=\"valley-connection\" role=\"note\" aria-label=\"Valley Connection\" style=\"background:#eef7ee;border-left:6px solid #2f7d4f;border-radius:8px;padding:14px 18px;margin:22px 0;color:#1f2a24;\"><div class=\"mt-section\"><h3 style=\"margin-top:0;color:#1f5c38;\" class=\"editable\">Valley Connection: Garlic, Onions and the Smell of Sulfur</h3>\n<p>Whole garlic and onions smell mild. Cutting or crushing them breaks the cells and lets an enzyme turn odorless sulfur compounds into volatile ones, including small thiols, and that is the sharp smell you notice. California grows most of the nation&rsquo;s garlic (86%, by a 2007 UC Davis estimate), including fields in the Valley counties of Fresno, Kern and Kings.<sup>1</sup> In 2022 the state&rsquo;s garlic crop was worth $309 million, and California supplies 99% or more of the garlic the United States exports.<sup>2</sup></p>\n<p><strong>The connection.</strong> Your nose picks up thiols at extremely low concentrations. That is exactly why a thiol is the warning odor added to natural gas and propane (above): the &ldquo;gas smell&rdquo; and the garlic smell are both the &ndash;SH group at work.</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. UC Davis News, <a style=\"text-decoration:underline\" href=\"https://www.ucdavis.edu/news/natural-fungicide-gives-garlic-growers-hope\" rel=\"noopener\" target=\"_blank\">Natural Fungicide Gives Garlic Growers Hope</a>, 2007. 2. California Department of Food and Agriculture, <a style=\"text-decoration:underline\" href=\"https://www.cdfa.ca.gov/Statistics/PDFs/2022-2023_california_agricultural_statistics_review.pdf\" rel=\"noopener\" target=\"_blank\">California Agricultural Statistics Review 2022&ndash;2023</a>, 2023.</p>\n</div></div>",
+   "count": 1,
+   "note": "Item 2: Valley Connection on garlic/onion thiols + link to gas odorant, after the paragraph that names thiol smells",
+   "sources": [
+    "https://www.ucdavis.edu/news/natural-fungicide-gives-garlic-growers-hope — California produces 86% of U.S. garlic; garlic acreage in Kern, Kings and Fresno counties (2007)",
+    "https://www.cdfa.ca.gov/Statistics/PDFs/2022-2023_california_agricultural_statistics_review.pdf — 2022 California garlic value $309 million; CA supplies ≥99% of U.S. garlic exports"
+   ]
+  }
+ ],
+ "597156": [
+  {
+   "old": "<p>A protein is least soluble at its isoelectric point",
+   "new": "<div class=\"valley-connection\" role=\"note\" aria-label=\"Valley Connection\" style=\"background:#eef7ee;border-left:6px solid #2f7d4f;border-radius:8px;padding:14px 18px;margin:22px 0;color:#1f2a24;\"><div class=\"mt-section\"><h3 style=\"margin-top:0;color:#1f5c38;\" class=\"editable\">Valley Connection: Milk, Casein and Cheese</h3>\n<p>A protein is least soluble at its isoelectric point",
+   "count": 1,
+   "note": "Item 3a: opens a Valley Connection box around the existing casein paragraph",
+   "sources": []
+  },
+  {
+   "old": "the change in charge is enough.</p>",
+   "new": "the change in charge is enough.</p>\n<p><strong>Dairy country.</strong> Dairy is California&rsquo;s top farm commodity: milk brought in $10.4 billion in 2022, and California led the nation in milk production with 18.2% of the U.S. supply.<sup>1</sup> Tulare County was the state&rsquo;s leading agricultural county that year, and California ranked first in the country in making Hispanic-style cheeses.<sup>1</sup> Cheese makers and your lab bench use the same idea: in <strong>Experiment 12</strong> you add acid to milk until it reaches pH 4.6, the casein curdles at its pI, and you collect it (see In the Lab below).</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Department of Food and Agriculture, <a style=\"text-decoration:underline\" href=\"https://www.cdfa.ca.gov/Statistics/PDFs/2022-2023_california_agricultural_statistics_review.pdf\" rel=\"noopener\" target=\"_blank\">California Agricultural Statistics Review 2022&ndash;2023</a>, 2023.</p>\n</div></div>",
+   "count": 1,
+   "note": "Item 3b: closes the box; adds dairy stats + link to Experiment 12",
+   "sources": [
+    "https://www.cdfa.ca.gov/Statistics/PDFs/2022-2023_california_agricultural_statistics_review.pdf — dairy = CA leading commodity, $10.4 B milk 2022; CA #1 milk state, 18.2% of U.S. supply; Tulare leading ag county 2022 ($8.61 B); CA #1 in Hispanic cheese production"
+   ]
+  }
+ ],
+ "597154": [
+  {
+   "old": "Chapter 15 returns to this.",
+   "new": "Chapter 15 returns to this. To remember the ten essential amino acids, use <strong>PVT TIM HALL</strong>: <strong>P</strong>henylalanine, <strong>V</strong>aline, <strong>T</strong>hreonine, <strong>T</strong>ryptophan, <strong>I</strong>soleucine, <strong>M</strong>ethionine, <strong>H</strong>istidine, <strong>A</strong>rginine, <strong>L</strong>eucine and <strong>L</strong>ysine, the ten marked &ldquo;yes&rdquo; in the Essential? column of the table below.",
+   "count": 1,
+   "note": "Item 4 (10.1): PVT TIM HALL mnemonic appended to the paragraph that introduces essential amino acids; matches the ten \"yes\" rows of the table (V, L, I, M, F, W, T, K, R, H)",
+   "sources": []
+  }
+ ],
+ "597215": [
+  {
+   "old": "wasting from illness may not.</p>\n</div>",
+   "new": "wasting from illness may not.</p>\n</div>\n<div class=\"valley-connection\" role=\"note\" aria-label=\"Valley Connection\" style=\"background:#eef7ee;border-left:6px solid #2f7d4f;border-radius:8px;padding:14px 18px;margin:22px 0;color:#1f2a24;\"><div class=\"mt-section\"><h3 style=\"margin-top:0;color:#1f5c38;\" class=\"editable\">Valley Connection: Beans and Corn Tortillas</h3>\n<p>A plate of beans with corn tortillas is a classic pair of <strong>complementary proteins</strong>. Corn (maize) protein is low in two essential amino acids, lysine and tryptophan. Bean protein is a good source of lysine and tryptophan but is low in the sulfur-containing amino acids, such as methionine.<sup>1</sup> Each food fills in what the other lacks, so eaten together they give the amino acid pool a much better balance of the essential amino acids, the ones the body cannot make (Section 15.11).<sup>1</sup> This matters for patients who eat little meat, eggs or dairy, whether by choice, by budget or by tradition.</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Food and Agriculture Organization of the United Nations, <a style=\"text-decoration:underline\" href=\"https://www.fao.org/4/t0395e/T0395E0c.htm\" rel=\"noopener\" target=\"_blank\">Maize in Human Nutrition, Chapter 8: Improvement of maize diets</a>, 1992.</p>\n</div></div>",
+   "count": 1,
+   "note": "Item 4 (15.7): Valley Connection on beans + corn tortillas, placed after the Dental Hygiene box (before In the Lab)",
+   "sources": [
+    "https://www.fao.org/4/t0395e/T0395E0c.htm — maize protein deficient in lysine and tryptophan; legume protein rich in lysine and tryptophan but low in sulfur amino acids; the two complement each other"
+   ]
+  }
+ ],
+ "597180": [
+  {
+   "old": "be provided to all newborns.</p>\n</blockquote>",
+   "new": "be provided to all newborns.</p>\n</blockquote>\n\n<div class=\"valley-connection\" role=\"note\" aria-label=\"Valley Connection\" style=\"background:#eef7ee;border-left:6px solid #2f7d4f;border-radius:8px;padding:14px 18px;margin:22px 0;color:#1f2a24;\"><div class=\"mt-section\"><h3 style=\"margin-top:0;color:#1f5c38;\" class=\"editable\">Valley Connection: Every California Newborn Gets the Heel Stick</h3>\n<p>California law requires that every baby born in the state be screened; parents may decline only if screening conflicts with their religious beliefs or practices.<sup>1</sup> Between 12 and 48 hours after birth, a provider takes a few drops of blood from the baby&rsquo;s heel onto a blood-spot card, which goes to a state-contracted laboratory.<sup>1</sup> The California Newborn Screening Program tests for more than 80 serious but treatable conditions,<sup>1</sup> including PKU, sickle cell anemia, cystic fibrosis, classic galactosemia and congenital hypothyroidism.<sup>2</sup> About 1 in every 600 newborns tested is diagnosed with one of them.<sup>1</sup> A positive screen is not a diagnosis: it means the baby needs more testing to confirm whether the condition is really there.<sup>1</sup></p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Department of Public Health, <a style=\"text-decoration:underline\" href=\"https://www.cdph.ca.gov/Programs/CFH/DGDS/Pages/nbs/default.aspx\" rel=\"noopener\" target=\"_blank\">California Newborn Screening Program</a>, accessed 2026. 2. California Department of Public Health, <a style=\"text-decoration:underline\" href=\"https://www.cdph.ca.gov/Programs/CFH/DGDS/Pages/nbs/NBS-Disorders-Detectable.aspx\" rel=\"noopener\" target=\"_blank\">NBS Program Disorders Detectable</a>, accessed 2026.</p>\n</div></div>",
+   "count": 1,
+   "note": "Item 5: Valley Connection on the California Newborn Screening Program, right after the PKU paragraph and its \"Every state...\" blockquote (not near the other drafter's worked example)",
+   "sources": [
+    "https://www.cdph.ca.gov/Programs/CFH/DGDS/Pages/nbs/default.aspx — CA law requires every baby be screened (religious opt-out only); heel blood 12–48 h after birth on blood-spot card; >80 conditions; ~1 in 600 diagnosed; positive screen needs more testing",
+    "https://www.cdph.ca.gov/Programs/CFH/DGDS/Pages/nbs/NBS-Disorders-Detectable.aspx — list includes classic PKU, sickle cell anemia (S,S disease), cystic fibrosis, classic galactosemia, primary congenital hypothyroidism"
+   ]
+  },
+  {
+   "old": "a heel stick, usually collected 24 to 48 hours after birth,",
+   "new": "a heel stick, collected 12 to 48 hours after birth in California,",
+   "count": 1,
+   "note": "12.7 PKU timing aligned with CDPH (12-48 h)",
+   "sources": [
+    "https://www.cdph.ca.gov/Programs/CFH/DGDS/Pages/nbs/default.aspx"
+   ]
+  }
+ ],
+ "597203": [
+  {
+   "old": "by January 1, 2013.<sup>6</sup></p>",
+   "new": "by January 1, 2013.<sup>6</sup></p>\n<p><strong>At work.</strong> CO is also a job hazard. OSHA lists warehouses and forklift operators among the places and jobs where workers can breathe harmful levels of CO,<sup>7</sup> and Iowa investigators traced a series of poisonings to propane-powered forklifts run in poorly ventilated warehouses and production areas.<sup>8</sup> In Valley packing sheds, cold-storage rooms and warehouses, where doors are kept shut, the protections are the same: good ventilation, well-maintained engines and heaters, CO monitors, and electric or battery-powered equipment where it can be used safely.<sup>7,8</sup></p>",
+   "count": 1,
+   "note": "Item 6a: \"At work\" paragraph on forklifts/warehouses/packing sheds added to the CO Valley Connection after \"The law\" paragraph",
+   "sources": [
+    "https://www.osha.gov/sites/default/files/publications/CARBONMONOXIDE-FACTSHEET.pdf — OSHA fact sheet: warehouses and forklift operators at risk; ventilation, maintain equipment/space heaters, switch to electric/battery equipment, personal CO monitors",
+    "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4849a2.htm — MMWR 1999 (48:49): CO poisonings from LPG (propane) forklifts in inadequately ventilated warehouse and production facilities, Iowa 1998; recommends maintenance, ventilation, CO monitoring"
+   ]
+  },
+  {
+   "old": "Prevention Act of 2010)</a>, 2010.",
+   "new": "Prevention Act of 2010)</a>, 2010. 7. Occupational Safety and Health Administration, <a style=\"text-decoration:underline\" href=\"https://www.osha.gov/sites/default/files/publications/CARBONMONOXIDE-FACTSHEET.pdf\" rel=\"noopener\" target=\"_blank\">Carbon Monoxide Poisoning (fact sheet)</a>. 8. Centers for Disease Control and Prevention, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/mmwr/preview/mmwrhtml/mm4849a2.htm\" rel=\"noopener\" target=\"_blank\">Carbon Monoxide Poisoning Associated with Use of LPG-Powered (Propane) Forklifts in Industrial Settings &ndash; Iowa, 1998</a>, <em>MMWR</em>, 1999.",
+   "count": 1,
+   "note": "Item 6b: appends sources 7 and 8 to the box's Sources list",
+   "sources": []
+  }
+ ],
+ "597170": [
+  {
+   "old": "Vitamin E (FCS3-644)</a>, 2024.</p>\n</div></div>",
+   "new": "Vitamin E (FCS3-644)</a>, 2024.</p>\n</div></div>\n<div class=\"valley-connection\" role=\"note\" aria-label=\"Valley Connection\" style=\"background:#eef7ee;border-left:6px solid #2f7d4f;border-radius:8px;padding:14px 18px;margin:22px 0;color:#1f2a24;\"><div class=\"mt-section\"><h3 style=\"margin-top:0;color:#1f5c38;\" class=\"editable\">Valley Connection: Folic Acid in the Tortilla</h3>\n<p>The folate row of the vitamin table lists <strong>neural-tube defects</strong>. As THF, folate carries the one-carbon units used to make nucleotides, so the fast-dividing cells of an embryo need plenty of it very early in pregnancy. CDC notes that Hispanic/Latina women have a high risk of having a baby with a neural-tube defect.<sup>1</sup> In 2016 the FDA allowed folic acid to be added to corn masa flour on a voluntary basis,<sup>2</sup> but CDC reports that, in data from 2011&ndash;2020, voluntary fortification had not yet improved folate levels among Hispanic/Latina women.<sup>1</sup></p>\n<p><strong>California&rsquo;s law.</strong> AB 1830, signed September 28, 2024, made fortification required: starting January 1, 2026, corn masa flour made, sold or used in California must contain 0.7 mg of folic acid per pound, and wet corn masa products may contain 0.4 mg per pound.<sup>3</sup> Masa is the dough behind corn tortillas and tamales, so a staple food now carries the vitamin.</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Centers for Disease Control and Prevention, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/folic-acid/improving-intake/index.html\" rel=\"noopener\" target=\"_blank\">Improving Folic Acid Intake</a>, accessed 2026. 2. Centers for Disease Control and Prevention, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/folic-acid/about/intake-and-sources.html\" rel=\"noopener\" target=\"_blank\">Folic Acid: Sources and Recommended Intake</a>, accessed 2026. 3. California Department of Public Health, <a style=\"text-decoration:underline\" href=\"https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/AB1830FAQ.aspx\" rel=\"noopener\" target=\"_blank\">FAQs: AB 1830, Corn Masa Flour and Wet Corn Masa Products: Folic Acid Fortification</a>, accessed 2026.</p>\n</div></div>",
+   "count": 1,
+   "note": "Item 7: separate Valley Connection on folic acid and corn masa (AB 1830), right after the almonds/vitamin E box",
+   "sources": [
+    "https://www.cdc.gov/folic-acid/improving-intake/index.html — \"Hispanic/Latina women have a high risk of having a child born with a neural tube defect\"; voluntary masa fortification has not yet improved folate status (2011–2020)",
+    "https://www.cdc.gov/folic-acid/about/intake-and-sources.html — FDA allowed voluntary folic acid fortification of corn masa flour in 2016",
+    "https://www.cdph.ca.gov/Programs/CEH/DFDCS/Pages/FDBPrograms/FoodSafetyProgram/AB1830FAQ.aspx — AB 1830 (Ch. 912, Stats. 2024) signed Sept 28, 2024; from Jan 1, 2026 corn masa flour must contain 0.7 mg folic acid/lb; wet masa may contain 0.4 mg/lb"
+   ]
+  }
+ ],
+ "597117": [
+  {
+   "old": "the names and chemistry come later.",
+   "new": "the names and chemistry come later. Many insecticides carry the same pattern: <strong>organophosphate</strong> pesticides such as chlorpyrifos are esters of phosphoric acid or of thiophosphoric acid, in which an S takes the place of the doubly bonded O on phosphorus (P=S), and each still has C&ndash;O&ndash;P links. The Valley Connection &ldquo;Organophosphate Pesticides and Farmworker Health&rdquo; in <a href=\"/@go/page/597131\">Section 7.11</a> explains how they block an enzyme in the nervous system.",
+   "count": 1,
+   "note": "Item 8: two sentences in the Lecture Connection paragraph that teaches the C–O–P pattern; links forward to the 7.11 (597131) Valley box \"Organophosphate Pesticides and Farmworker Health\". No use statistic included.",
+   "sources": []
+  }
+ ],
+ "597082": [
+  {
+   "old": "add a bond sticking out of each end.</p>\n</div>",
+   "new": "add a bond sticking out of each end.</p>\n</div>\n<div class=\"valley-connection\" role=\"note\" aria-label=\"Valley Connection\" style=\"background:#eef7ee;border-left:6px solid #2f7d4f;border-radius:8px;padding:14px 18px;margin:22px 0;color:#1f2a24;\"><div class=\"mt-section\"><h3 style=\"margin-top:0;color:#1f5c38;\" class=\"editable\">Valley Connection: Plastics on the Farm</h3>\n<p>Walk past a Valley field and you will see addition polymers everywhere. Growers lay <strong>polyethylene mulch film</strong> over planting beds to control weeds and help yields,<sup>1</sup> water rows through thin plastic <strong>drip tape</strong>,<sup>1</sup> and carry irrigation water in <strong>PVC</strong> pipe. Both polymers come from the reaction in the table: polyethylene from ethylene (ethene), CH<sub>2</sub>=CH<sub>2</sub>, and poly(vinyl chloride) from vinyl chloride (chloroethene), CH<sub>2</sub>=CHCl. Their backbones are all C&ndash;C single bonds, with no ester or amide links for water to hydrolyze, so they last for seasons in sun and soil; used mulch film and drip tape can be collected and recycled.<sup>1</sup></p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. NOAA, Monterey Bay National Marine Sanctuary, <a style=\"text-decoration:underline\" href=\"https://montereybay.noaa.gov/resourcepro/resmanissues/agricultural-field-plastics.html\" rel=\"noopener\" target=\"_blank\">Agricultural Field Plastics</a>, accessed 2026.</p>\n</div></div>",
+   "count": 1,
+   "note": "Item 9: Valley Connection on mulch film, drip tape and PVC pipe as addition polymers, after the Professor Tip that follows the polymer table",
+   "sources": [
+    "https://montereybay.noaa.gov/resourcepro/resmanissues/agricultural-field-plastics.html — polyethylene mulch film used for weed control and productivity; drip irrigation tape; used drip tape and film can be recycled (no statewide ag-plastic statistic found)"
+   ]
+  }
+ ],
+ "597070": [
+  {
+   "old": "rid the room of the heavier gas.</p>",
+   "new": "rid the room of the heavier gas.</p>\n<div class=\"valley-connection\" role=\"note\" aria-label=\"Valley Connection\" style=\"background:#eef7ee;border-left:6px solid #2f7d4f;border-radius:8px;padding:14px 18px;margin:22px 0;color:#1f2a24;\"><div class=\"mt-section\"><h3 style=\"margin-top:0;color:#1f5c38;\" class=\"editable\">Valley Connection: Propane Tanks in the Country</h3>\n<p>Many rural homes, farms and shops in the Valley are not on a natural-gas line and run on propane from a tank. In Fresno County about 14,400 households, 4.3% of occupied homes, heat mainly with bottled, tank or LP gas, compared with 2.9% statewide.<sup>1</sup> Propane, C<sub>3</sub>H<sub>8</sub> (44 g/mol), is heavier than air (about 29 g/mol on average), so a leak does not rise and drift out a window the way methane does. It sinks, spreads along the floor, and collects in basements, crawl spaces, ditches and other low spots until it can reach a mixture that will ignite. The thiol odorant added to propane (Section 4.9) is what lets you smell it first.</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. U.S. Census Bureau, American Community Survey 2024 1-year estimates, Table B25040 (House Heating Fuel), via <a style=\"text-decoration:underline\" href=\"https://censusreporter.org/data/table/?table=B25040&geo_ids=05000US06019,04000US06&primary_geo_id=05000US06019\" rel=\"noopener\" target=\"_blank\">Census Reporter</a>, accessed 2026.</p>\n</div></div>",
+   "count": 1,
+   "note": "Item 10: Valley Connection on rural propane use and why leaks pool, right after the bottled-gas density paragraph",
+   "sources": [
+    "https://censusreporter.org/data/table/?table=B25040&geo_ids=05000US06019,04000US06&primary_geo_id=05000US06019 — ACS 2024 1-yr B25040: Fresno County 14,391 of 331,460 occupied units (4.3%) heat with bottled/tank/LP gas; California 401,981 of 13,797,638 (2.9%)"
+   ]
+  }
+ ],
+ "597130": [
+  {
+   "old": "digestive enzymes can take proteins apart.</p>",
+   "new": "digestive enzymes can take proteins apart.</p>\n<div class=\"box-note\">\n<p class=\"boxtitle\">Clinical Connection: Nursing</p>\n<p><strong>Absorbable and nonabsorbable sutures.</strong> The ester-versus-amide difference decides how long a stitch lasts. <strong>Polyglycolic acid</strong> sutures are a polyester: water in tissue fluid hydrolyzes their ester bonds, the strand gradually loses strength and is absorbed, and no one has to take it out.<sup>1</sup> <strong>Nylon</strong> sutures are a polyamide. Amides are much harder to hydrolyze than esters (Section 7.7), so nylon is a <em>nonabsorbable</em> suture: it stays in the tissue until it is removed.<sup>2</sup> When you chart a wound closure, the suture type tells you whether a removal visit is needed.</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Szabelski J, Karpi&#324;ski R, <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC11432777/\" rel=\"noopener\" target=\"_blank\">Short-Term Hydrolytic Degradation of Mechanical Properties of Absorbable Surgical Sutures: A Comparative Study</a>, <em>J Funct Biomater</em>, 2024. 2. Melega MV, et al., <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC8429610/\" rel=\"noopener\" target=\"_blank\">Comparison Between Nylon and Polyglactin Sutures in Pediatric Cataract Surgery: A Randomized Controlled Clinical Trial</a>, <em>Front Med</em>, 2021.</p>\n</div>",
+   "count": 1,
+   "note": "Item 11: new Clinical Connection: Nursing box on PGA (ester, hydrolyzed, absorbed) vs nylon (amide, nonabsorbable), after the ester/amide paragraph",
+   "sources": [
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC11432777/ — absorbable sutures degrade by hydrolysis of ester bonds (PGA named); absorbable sutures avoid later removal",
+    "https://pmc.ncbi.nlm.nih.gov/articles/PMC8429610/ — \"Nylon is a monofilament and non-absorbable material composed of polyamides\"; nylon sutures often must be removed"
+   ]
+  }
+ ],
+ "597061": [
+  {
+   "old": "swabs are 70% rather than 100%.</p>",
+   "new": "swabs are 70% rather than 100%.</p>\n<p><strong>Sweat works the same way.</strong> Water molecules are held in a dense network of hydrogen bonds, so water has a high heat of vaporization: every gram of sweat that evaporates carries a large amount of heat away from the skin. For people who work outdoors in Valley summers, that cooling has limits, and California&rsquo;s heat-illness rule for outdoor workplaces requires employers to have shade available when the temperature exceeds 80 &deg;F and to use high-heat procedures at 95 &deg;F and above.<sup>1</sup></p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Source:</strong> 1. California Code of Regulations, Title 8, &sect;3395, <a style=\"text-decoration:underline\" href=\"https://www.law.cornell.edu/regulations/california/8-CCR-3395\" rel=\"noopener\" target=\"_blank\">Heat Illness Prevention in Outdoor Places of Employment</a>.</p>\n",
+   "count": 1,
+   "note": "Item 12: two sentences on sweat/heat of vaporization + Cal/OSHA outdoor heat rule, at the end of the isopropyl-swab Nursing box",
+   "sources": [
+    "https://www.law.cornell.edu/regulations/california/8-CCR-3395 — 8 CCR 3395(d)(1) \"Shade shall be present when the temperature exceeds 80 degrees Fahrenheit\"; (e) high-heat procedures at ≥95 °F"
+   ]
+  }
+ ],
+ "597146": [
+  {
+   "old": "a job shared by respiratory therapists and NICU nurses.",
+   "new": "a job shared by respiratory therapists and NICU nurses. The products used are natural surfactants taken from animal lungs: beractant (Survanta), poractant alfa (Curosurf) and calfactant (Infasurf).<sup>1</sup> To prevent the problem, a pregnant patient at risk of delivering within seven days, between 24 and 34 weeks, is usually given two injections of the corticosteroid betamethasone 24 hours apart.<sup>2</sup>",
+   "count": 1,
+   "note": "Item 13a: surfactant product names + antenatal steroid course added to the Nursing box sentence about endotracheal surfactant",
+   "sources": [
+    "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ef9e3a5-fc39-4ae1-0dad-6b47a1684635 — Survanta (beractant) intratracheal suspension (bovine)",
+    "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99bef307-00bd-4379-9f45-ede1380e74d4 — Curosurf (poractant alfa) intratracheal suspension (porcine)",
+    "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=315c128a-272d-4c57-bfbe-1a8b3402af08 — Infasurf (calfactant) intratracheal suspension (calf lung)",
+    "https://rmfcd2-prod.rmf.harvard.edu/Risk-Prevention-and-Education/Guidelines-and-Algorithms-Catalog-Page/Guidelines-Algorithms/2026/OB-Guideline-Files/Guideline11-Use-of-Antenatal-Corticosteroids-for-Fetal-Maturation — CRICO OB Guideline 11 (2026, cites ACOG): patients between 24 and 34 weeks at risk for delivery within seven days; betamethasone 12 mg IM, two doses 24 h apart"
+   ]
+  },
+  {
+   "old": "which is why they look milky white.</p>",
+   "new": "which is why they look milky white.</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. U.S. National Library of Medicine, DailyMed labels: <a style=\"text-decoration:underline\" href=\"https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7ef9e3a5-fc39-4ae1-0dad-6b47a1684635\" rel=\"noopener\" target=\"_blank\">Survanta (beractant)</a>, <a style=\"text-decoration:underline\" href=\"https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=99bef307-00bd-4379-9f45-ede1380e74d4\" rel=\"noopener\" target=\"_blank\">Curosurf (poractant alfa)</a>, <a style=\"text-decoration:underline\" href=\"https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=315c128a-272d-4c57-bfbe-1a8b3402af08\" rel=\"noopener\" target=\"_blank\">Infasurf (calfactant)</a>. 2. CRICO (Harvard Medical Institutions), <a style=\"text-decoration:underline\" href=\"https://rmfcd2-prod.rmf.harvard.edu/Risk-Prevention-and-Education/Guidelines-and-Algorithms-Catalog-Page/Guidelines-Algorithms/2026/OB-Guideline-Files/Guideline11-Use-of-Antenatal-Corticosteroids-for-Fetal-Maturation\" rel=\"noopener\" target=\"_blank\">OB Guideline 11: Use of Antenatal Corticosteroids for Fetal Maturation</a>, 2026.</p>\n",
+   "count": 1,
+   "note": "Item 13b: Sources line at the end of the same Nursing box",
+   "sources": []
+  }
+ ],
+ "597172": [
+  {
+   "old": "whenever another medication is started or stopped.",
+   "new": "whenever another medication is started or stopped. Know one example of each kind. The antibiotic <strong>rifampin</strong> is a strong <em>inducer</em> of CYP3A, an enzyme family that clears many drugs,<sup>1</sup> and the herbal supplement <strong>St. John&rsquo;s wort</strong> can weaken birth control pills, warfarin and some statins such as simvastatin.<sup>2</sup> Going the other way, <strong>grapefruit juice</strong> <em>inhibits</em> CYP3A4 in the small intestine, so more of a drug such as simvastatin gets into the blood.<sup>3</sup>",
+   "count": 1,
+   "note": "Item 14a: inducer (rifampin, St John's wort) and inhibitor (grapefruit juice) examples added to the Nursing box drug-interaction paragraph",
+   "sources": [
+    "https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers — FDA Table 2-3: rifampin listed as strong CYP3A inducer",
+    "https://www.nccih.nih.gov/health/st-johns-wort — St. John's wort can weaken birth control pills, warfarin, certain statins incl. simvastatin",
+    "https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix — grapefruit juice blocks CYP3A4 in the small intestine; more drug enters the blood; simvastatin (Zocor) named"
+   ]
+  },
+  {
+   "old": "is injected, never swallowed.</p>",
+   "new": "is injected, never swallowed.</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. U.S. Food and Drug Administration, <a style=\"text-decoration:underline\" href=\"https://www.fda.gov/drugs/drug-interactions-labeling/drug-development-and-drug-interactions-table-substrates-inhibitors-and-inducers\" rel=\"noopener\" target=\"_blank\">Drug Development and Drug Interactions: Table of Substrates, Inhibitors and Inducers</a>, accessed 2026. 2. National Center for Complementary and Integrative Health, <a style=\"text-decoration:underline\" href=\"https://www.nccih.nih.gov/health/st-johns-wort\" rel=\"noopener\" target=\"_blank\">St. John&rsquo;s Wort</a>, accessed 2026. 3. U.S. Food and Drug Administration, <a style=\"text-decoration:underline\" href=\"https://www.fda.gov/consumers/consumer-updates/grapefruit-juice-and-some-drugs-dont-mix\" rel=\"noopener\" target=\"_blank\">Grapefruit Juice and Some Drugs Don&rsquo;t Mix</a>, accessed 2026.</p>\n",
+   "count": 1,
+   "note": "Item 14b: Sources line at end of the same Nursing box",
+   "sources": []
+  }
+ ],
+ "597168": [
+  {
+   "old": "<td>Many kinds of cell damage (hemolysis, liver, heart); not specific</td></tr>\n</tbody>\n</table>",
+   "new": "<td>Many kinds of cell damage (hemolysis, liver, heart); not specific</td></tr>\n</tbody>\n</table>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 3: Read the enzyme panel</p>\n<p><strong>Problem.</strong> Use the table to name the damaged tissue in each patient. (a) A 58-year-old with crushing chest pain has a rising troponin I and a high CK-MB. (b) A student who took far too much acetaminophen has very high ALT and AST. (c) A patient with severe pain in the upper abdomen has high lipase and amylase.</p>\n<p><strong>Solution.</strong> (a) <strong>Heart.</strong> Troponin is the most specific cardiac marker, and CK-MB is the heart form of creatine kinase, so the panel points to a myocardial infarction (MI, heart attack). (b) <strong>Liver.</strong> ALT is mostly in liver, and the table lists acetaminophen overdose among the causes of a rise in ALT and AST. (c) <strong>Pancreas.</strong> Lipase and amylase are pancreatic hydrolases that digest fat and starch, and they rise in acute pancreatitis.</p>\n<p><strong>Check.</strong> Match each enzyme to where it lives, not just to the symptom. A high LDH alone could not answer any of these, because LDH is found in nearly every tissue and is not specific.</p>\n</div>",
+   "count": 1,
+   "note": "Item 15: Example 3 \"Read the enzyme panel\" (three mini cases) right after the blood-enzyme table, using the table's wording; no numbers",
+   "sources": []
+  }
+ ],
+ "597138": [
+  {
+   "old": "one cause of neonatal <em>jaundice</em>.",
+   "new": "one cause of neonatal <em>jaundice</em>. On a lab report, bilirubin that already carries glucuronic acid is called <em>conjugated</em> or <em>direct</em> bilirubin; almost all jaundice in a baby&rsquo;s first days is <em>unconjugated</em> (indirect) bilirubin, because the newborn liver is short of the enzyme that attaches glucuronic acid (a glucuronosyltransferase) and fetal red blood cells are broken down faster.<sup>1</sup>",
+   "count": 1,
+   "note": "Item 16a: conjugated/direct vs unconjugated/indirect bilirubin sentence, appended to the existing Nursing box sentence on glucuronidation and neonatal jaundice (kept in that box rather than a second Nursing box at the table row)",
+   "sources": [
+    "https://www.msdmanuals.com/professional/pediatrics/metabolic-electrolyte-and-toxic-disorders-in-neonates/neonatal-hyperbilirubinemia — UGT conjugates bilirubin with glucuronic acid; \"Almost all hyperbilirubinemia in the immediate neonatal period is unconjugated, which is also termed indirect bilirubin\"; causes: shorter neonatal RBC life span, deficient UGT"
+   ]
+  },
+  {
+   "old": "(an osmotic laxative).</p>",
+   "new": "(an osmotic laxative).</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Source:</strong> 1. MSD Manual Professional Version, <a style=\"text-decoration:underline\" href=\"https://www.msdmanuals.com/professional/pediatrics/metabolic-electrolyte-and-toxic-disorders-in-neonates/neonatal-hyperbilirubinemia\" rel=\"noopener\" target=\"_blank\">Neonatal Hyperbilirubinemia</a>, accessed 2026.</p>\n",
+   "count": 1,
+   "note": "Item 16b: Source line at end of the same Nursing box",
+   "sources": []
+  }
+ ],
+ "597213": [
+  {
+   "old": "patients in a dental chair can show these signs too.</p>\n</div>",
+   "new": "patients in a dental chair can show these signs too.</p>\n</div>\n\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example: Reading the anion gap in DKA</p>\n<p><strong>Problem.</strong> A patient with type 1 diabetes arrives with fruity breath and deep, rapid breathing. The lab reports Na<sup>+</sup> 138, Cl<sup>&minus;</sup> 100 and HCO<sub>3</sub><sup>&minus;</sup> 10 (all in mEq/L). Calculate the anion gap and explain what fills it.</p>\n<p><strong>Solution.</strong> The <strong>anion gap</strong> = Na<sup>+</sup> &minus; (Cl<sup>&minus;</sup> + HCO<sub>3</sub><sup>&minus;</sup>) = 138 &minus; (100 + 10) = <strong>28 mEq/L</strong>. A typical value is about 12, and DKA is diagnosed with a gap above about 10 to 12 (each lab sets its own normal range).<sup>1,2</sup> Blood must have equal positive and negative charge, so a large gap means negative ions the panel does not measure. In DKA these are the carboxylate ions of the ketone bodies <strong>acetoacetate</strong> and <strong>&beta;-hydroxybutyrate</strong>. Each ketone acid that releases H<sup>+</sup> uses up a bicarbonate, which is why the HCO<sub>3</sub><sup>&minus;</sup> fell to 10 while the gap grew.<sup>1</sup></p>\n<p><strong>Check.</strong> Acetone is not counted: it has no acid group and no charge (see the Think about it question above).</p>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. MSD Manual Professional Version, <a style=\"text-decoration:underline\" href=\"https://www.msdmanuals.com/professional/endocrine-and-metabolic-disorders/acid-base-regulation-and-disorders/acid-base-disorders\" rel=\"noopener\" target=\"_blank\">Acid-Base Disorders</a>, accessed 2026. 2. MSD Manual Professional Version, <a style=\"text-decoration:underline\" href=\"https://www.msdmanuals.com/professional/endocrine-and-metabolic-disorders/diabetes-mellitus-and-disorders-of-carbohydrate-metabolism/diabetic-ketoacidosis-dka\" rel=\"noopener\" target=\"_blank\">Diabetic Ketoacidosis (DKA)</a>, accessed 2026.</p>\n</div>",
+   "count": 1,
+   "note": "Item 17: worked anion-gap example after the Nursing box (before the Dental Hygiene box); arithmetic only, no pKa",
+   "sources": [
+    "https://www.msdmanuals.com/professional/endocrine-and-metabolic-disorders/acid-base-regulation-and-disorders/acid-base-disorders — anion gap = Na+ − (Cl− + HCO3−); typical 12 mEq/L (normal 10–12 in worked example)",
+    "https://www.msdmanuals.com/professional/endocrine-and-metabolic-disorders/diabetes-mellitus-and-disorders-of-carbohydrate-metabolism/diabetic-ketoacidosis-dka — DKA criteria include anion gap >10 to 12 mEq/L; serum HCO3 <15–18; acetoacetic and β-hydroxybutyric acids are the major ketoacids",
+    "https://www.msdmanuals.com/professional/endocrine-and-metabolic-disorders/acid-base-regulation-and-disorders/metabolic-acidosis — ketoacids acetoacetic acid and beta-hydroxybutyrate are unmeasured anions"
+   ]
+  }
+ ]
+}
