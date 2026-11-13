@@ -30,6 +30,8 @@ def rep(p, old, new, note):
 def img_fix(tag):
     """Images inside a wrapped figure must shrink with it."""
     if 'style="' in tag:
+        if 'max-width' in tag:  # side-by-side composites keep their own share (e.g. max-width:48%)
+            return tag
         return re.sub(r'style="([^"]*)"', lambda m: 'style="' + m.group(1).rstrip('; ') + ';max-width:100%;height:auto;"', tag, 1)
     return tag.replace('<img', '<img style="max-width:100%;height:auto;"', 1)
 
@@ -90,11 +92,10 @@ B = [('597057', 'Linus Pauling was one of', 28),
      ('597061', 'Sodium Chloride. Solid NaCl', 40), ('597061', 'Two separate DNA molecules f', 28),
      ('597070', 'Oil Spills. Crude oil coats', 30), ('597073', 'Ball-and-Spring Model of Cyc', 31),
      ('597092', 'Hydrogen Bonding between Eth', 36), ('597105', "Tollens' test for aldehydes", 30),
-     ('597130', 'Nylon spatula', 22), ('597136', 'Food sources of three import', 45),
-     ('597136', 'Fischer projection of D-gluc', 22), ('597146', 'Lipid bilayer cross-section', 36),
+     ('597130', 'Nylon spatula', 22), ('597136', 'Fischer projection of D-gluc', 22), ('597146', 'Lipid bilayer cross-section', 36),
      ('597148', 'Spontaneously Formed Polar L', 26), ('597158', 'A Ball-and-Stick Model of an', 33),
      ('597159', 'Illustration of disulfide li', 38), ('597163', 'Illustration of plaque forma', 40),
-     ('597181', 'Viruses. Viruses come in a v', 40), ('597096', '(Left) Structure of Phenol', 40)]
+     ('597181', 'Viruses. Viruses come in a v', 40)]
 skipped = []
 for p, snip, w in B:
     t = T(p)
