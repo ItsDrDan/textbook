@@ -1,0 +1,184 @@
+{
+ "uploads": [
+  {
+   "page": "597160",
+   "name": "fig-p597160-insulin.gif",
+   "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Insulin_1AI0_animation.gif",
+   "key": "insulin"
+  },
+  {
+   "page": "597171",
+   "name": "fig-p597171-allosteric.jpeg",
+   "path": "figures/pages/batchP/fig-p597171-allosteric.jpeg",
+   "key": "allo"
+  }
+ ],
+ "edits": {
+  "597081": [
+   {
+    "old": "(a) Draw the line structure of 3-methyl-1-butene. (b) Classify carbon 3 as",
+    "new": "(a) Draw the line structure of 1-butene. (b) Classify carbon 3 as",
+    "count": 1,
+    "note": "T1 3.4 Example 3: alkene swapped to 1-butene"
+   },
+   {
+    "old": "suffix <em>-1-ene</em> (double bond starting at C1), prefix <em>3-methyl</em>. Draw a four-carbon zigzag, make the first bond double, and add a methyl branch at C3:</p>",
+    "new": "suffix <em>-1-ene</em> (double bond starting at C1), no branches. Draw a four-carbon zigzag and make the first bond double:</p>",
+    "count": 1,
+    "note": "T1 3.4 Example 3(a)"
+   },
+   {
+    "old": "aria-label=\"Line structure of 3-methyl-1-butene: a double bond at one end of a four-carbon zigzag, with a methyl branch on the third carbon\"",
+    "new": "aria-label=\"Line structure of 1-butene: a four-carbon zigzag with a double bond at one end\"",
+    "count": 1,
+    "note": "T1 3.4 Example 3 figure label"
+   },
+   {
+    "old": "<line x1=\"62.4\" y1=\"-6.2\" x2=\"65.6\" y2=\"29.6\" stroke=\"#2d3f4b\" stroke-width=\"2.4\" stroke-linecap=\"round\"></line></svg><figcaption>Figure 3.4.2: 3-Methyl-1-butene.",
+    "new": "</svg><figcaption>Figure 3.4.2: 1-Butene.",
+    "count": 1,
+    "note": "T1 3.4 Example 3 figure: methyl branch removed from the drawing; caption"
+   },
+   {
+    "old": "(b) C3 is bonded to C2, C4, and the methyl carbon: three carbon neighbors, so it is <strong>tertiary (3&deg;)</strong>.",
+    "new": "(b) C3 is bonded to C2 and C4: two carbon neighbors, so it is <strong>secondary (2&deg;)</strong>.",
+    "count": 1,
+    "note": "T1 3.4 Example 3(b)"
+   },
+   {
+    "old": "so the new H goes to C1 and the OH to C2: CH<sub>3</sub>CH(OH)CH(CH<sub>3</sub>)CH<sub>3</sub>, <strong>3-methyl-2-butanol</strong>.",
+    "new": "so the new H goes to C1 and the OH to C2: CH<sub>3</sub>CH(OH)CH<sub>2</sub>CH<sub>3</sub>, <strong>2-butanol</strong>.",
+    "count": 1,
+    "note": "T1 3.4 Example 3(c)"
+   },
+   {
+    "old": "Product formula C<sub>5</sub>H<sub>12</sub>O = alkene C<sub>5</sub>H<sub>10</sub> + H<sub>2</sub>O. The alcohol in Example 2 is this same compound. Dehydrating it (Example 2) gives mostly 2-methyl-2-butene, not this alkene, so addition",
+    "new": "Product formula C<sub>4</sub>H<sub>10</sub>O = alkene C<sub>4</sub>H<sub>8</sub> + H<sub>2</sub>O. Dehydrating 2-butanol gives mostly 2-butene (Zaitsev, as in Example 2), not 1-butene, so addition",
+    "count": 1,
+    "note": "T1 3.4 Example 3 check"
+   }
+  ],
+  "597166": [
+   {
+    "old": "</strong>Structure of the alcohol dehydrogenase protein (E.C.1.1.1.1) (EE ISOZYME) complexed with nicotinamide adenine dinucleotide (NAD) and zinc (PDB: 1CDO).</em></p>",
+    "new": "</strong>Interactive 3-D model of the enzyme alcohol dehydrogenase (EC 1.1.1.1) with its coenzyme NAD and zinc ions bound. The model can be rotated in the online book; it does not appear in print. (Structure: Protein Data Bank entry 1CDO, shown with the GLmol viewer.)</em></p>",
+    "count": 1,
+    "note": "T3 11.1 Figure 1: script-only viewer; caption now says it is an online model and names the source"
+   }
+  ],
+  "597270": [
+   {
+    "old": "<li><strong>1.1 (November 11, 2026).</strong>",
+    "new": "<li><strong>1.2 (November 13, 2026).</strong> Sections were reordered and renumbered so that each chapter builds in teaching order: old 12.9 is now 12.5 and old 12.5&ndash;12.8 are 12.6&ndash;12.9; old 13.7 is now 13.9 and old 13.8&ndash;13.9 are 13.7&ndash;13.8; Chapter 15 is now a lipid block (15.1&ndash;15.6) followed by a protein block (15.7&ndash;15.11). Page links did not change. Also in this version: corrections from a full accuracy check of every chapter, clinical updates, seven more Valley Connections, new figures and worked examples, larger print figures, and a print answer key on every section with exercises.</li>\n<li><strong>1.1 (November 11, 2026).</strong>",
+    "count": 1,
+    "note": "T4 About: version 1.2 entry records the renumbering"
+   },
+   {
+    "old": "<strong>Version 1.1, November 2026</strong> (last updated November 11, 2026).",
+    "new": "<strong>Version 1.2, November 2026</strong> (last updated November 13, 2026).",
+    "count": 1,
+    "note": "T4 About: version line"
+   }
+  ],
+  "488226": [
+   {
+    "old": "Version 1.1, November 2026",
+    "new": "Version 1.2, November 2026",
+    "count": 1,
+    "note": "T4 Title page: version 1.2"
+   }
+  ],
+  "597080": [
+   {
+    "old": "<em>The bright red color of tomatoes is due to lycopene&mdash;a polyene.</em>",
+    "new": "<em>The bright red color of tomatoes is due to lycopene&mdash;a polyene. (Structure: Jeff Dahl, public domain, via <a href=\"https://commons.wikimedia.org/wiki/File:Lycopene.svg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>.)</em>",
+    "count": 1,
+    "note": "T3 3.3: lycopene structure credit"
+   }
+  ],
+  "597096": [
+   {
+    "old": "antiseptics were used.</em></p>",
+    "new": "antiseptics were used. (Gaspare Traversi, public domain, via <a href=\"https://commons.wikimedia.org/wiki/File:1753_Traversi_Operation_anagoria.JPG\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>.)</em></p>",
+    "count": 1,
+    "note": "T3 4.7: Traversi painting credit"
+   }
+  ],
+  "597097": [
+   {
+    "old": "Source: Painting of William Morton by Ernest Board.</figcaption>",
+    "new": "Source: Painting of William Morton by Ernest Board (public domain, via <a href=\"https://commons.wikimedia.org/wiki/File:Morton_Ether_1846.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>).</figcaption>",
+    "count": 1,
+    "note": "T3 4.8: Morton painting licence"
+   }
+  ],
+  "597146": [
+   {
+    "old": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of venom being collected from a snake: a handler holds the snake's head so that its fangs pierce a film stretched over a glass, and venom drips inside.\" class=\"internal wrap-right\" src=\"/@api/deki/files/512762/fig-p597146-venom.jpg\" fileid=\"512762\" />The hydrophobic tails of fatty acids",
+    "new": "The hydrophobic tails of fatty acids",
+    "count": 1,
+    "note": "T3 9.3: snake photo taken out of the bilayer paragraph"
+   },
+   {
+    "old": "<div class=\"mt-section\"><h4 class=\"box-legend editable\">Snake venom</h4>\n\n<p>",
+    "new": "<div class=\"mt-section\"><h4 class=\"box-legend editable\">Snake venom</h4>\n\n<p><img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of venom being collected from a snake: a handler holds the snake's head so that its fangs pierce a film stretched over a glass, and venom drips inside.\" class=\"internal wrap-right\" src=\"/@api/deki/files/512762/fig-p597146-venom.jpg\" fileid=\"512762\" />",
+    "count": 1,
+    "note": "T3 9.3: snake photo placed in the Snake venom box, beside its credit"
+   },
+   {
+    "old": "The structure of the lysophospholipid example is shown in the figure on the left.",
+    "new": "The structure of the lysophospholipid example is shown here.",
+    "count": 1,
+    "note": "T4 9.3: left/right fails in print"
+   },
+   {
+    "old": "class=\"internal wrap-right\" width=\"205\" src=\"/@api/deki/files/512768/fig-p597146-phosphatidylcholine.svg\"",
+    "new": "class=\"internal wrap-right\" width=\"300\" src=\"/@api/deki/files/512768/fig-p597146-phosphatidylcholine.svg\"",
+    "count": 1,
+    "note": "T3 9.3: labelled sketch printed with 4.5-5.2 pt labels; wider so they print at about 6.5-7.5 pt"
+   }
+  ],
+  "597202": [
+   {
+    "old": "figures/print/fig-p597202-1-v2-1.svg\"",
+    "new": "figures/print/fig-p597202-1-v2-1.svg?v=20261113b\"",
+    "count": 1,
+    "note": "14.3.2 strip cache-bust (small label enlarged; printed at 4.8 pt)"
+   },
+   {
+    "old": "figures/print/fig-p597202-1-v2-2.svg\"",
+    "new": "figures/print/fig-p597202-1-v2-2.svg?v=20261113b\"",
+    "count": 1,
+    "note": "14.3.2 strip cache-bust (small label enlarged; printed at 4.8 pt)"
+   },
+   {
+    "old": "figures/print/fig-p597202-1-v2-3.svg\"",
+    "new": "figures/print/fig-p597202-1-v2-3.svg?v=20261113b\"",
+    "count": 1,
+    "note": "14.3.2 strip cache-bust (small label enlarged; printed at 4.8 pt)"
+   }
+  ],
+  "597160": [
+   {
+    "old": "class=\"default\" src=\"https://upload.wikimedia.org/wikipedia/commons/3/30/Insulin_1AI0_animation.gif\" />",
+    "new": "class=\"internal\" src=\"/@api/deki/files/{{insulin}}/fig-p597160-insulin.gif\" fileid=\"{{insulin}}\" />",
+    "count": 1,
+    "note": "T3 10.7 Figure 4: image was hot-linked from Wikimedia; now a file on this page"
+   },
+   {
+    "old": "Rotating 3d cartoon model of the human insulin monomer",
+    "new": "Cartoon model of the human insulin monomer (it rotates in the online book)",
+    "count": 1,
+    "note": "T3 10.7 Figure 4 caption: the animation does not rotate in print"
+   }
+  ],
+  "597171": [
+   {
+    "old": "src=\"https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1950/2017/05/31183107/figure-06-05-05.jpeg\"",
+    "new": "class=\"internal\" src=\"/@api/deki/files/{{allo}}/fig-p597171-allosteric.jpeg\" fileid=\"{{allo}}\"",
+    "count": 1,
+    "note": "T3 11.6 Figure 1: image was hot-linked from an outside server; now a file on this page"
+   }
+  ]
+ }
+}
