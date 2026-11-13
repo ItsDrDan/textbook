@@ -544,3 +544,12 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - Still open:
     - ADAPT fb-3B-0078: the bank, payloads and question list are clean; the live ADAPT copy is unchecked (needs sign-in).
     - Lab experiment numbers (Experiments 1–14 cited on about 16 pages): need the lab manual.
+- 2026-11-12 night, full-book PDF (22:14, 1,324 pp; saved as Study Games/CHEM3B-Full-2026-11-12-2215.pdf) compared with the 00:50 PDF:
+  - Pages with figure text under 4.6 pt fell from 29 to 18; the rest are known redraws or concept maps.
+  - "Copyright" credit leftovers fell from 41 pages to 4. No margin overflow, no garbled "Exerc" headings.
+  - Batch H fixes the new findings (78 pages, verified by SHA-256 and mirrored):
+    - H1: 1,553 answer-key and exercise labels keep with their answers (page-break-after:avoid). Test print of 2.11: 0 stranded labels.
+    - H2: the 12.4 tRNA-loading strips moved below the side-by-side row; labels now print at 7 pt, up from 4.
+    - H3: the 13.1 metabolism overview (CC BY-SA 4.0, the last ShareAlike image) is replaced by an original diagram (file 512769).
+    - H4: the last six "Copyright:/;" prefixes in body text are cleaned (13.1 ×4, 9.3 Fig 3 ×2).
+    - H5: 12.6 elongation figure amino-acid labels enlarged (same file 512767).
