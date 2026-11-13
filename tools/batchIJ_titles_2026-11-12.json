@@ -1,0 +1,30 @@
+{
+ "597271": [
+  {
+   "old": "5.4: Reduction and oxidation (redox) reactions",
+   "new": "5.4: Reduction and Oxidation (Redox) Reactions",
+   "count": 1,
+   "note": "section title case"
+  },
+  {
+   "old": "5.5: Introduction to stereochemistry",
+   "new": "5.5: Introduction to Stereochemistry",
+   "count": 1,
+   "note": "section title case"
+  }
+ ],
+ "597272": [
+  {
+   "old": "title=\"Reduction and oxidation (redox) reactions\"",
+   "new": "title=\"Reduction and Oxidation (Redox) Reactions\"",
+   "count": 2,
+   "note": "link title case"
+  },
+  {
+   "old": "title=\"Introduction to stereochemistry\"",
+   "new": "title=\"Introduction to Stereochemistry\"",
+   "count": 2,
+   "note": "link title case"
+  }
+ ]
+}
