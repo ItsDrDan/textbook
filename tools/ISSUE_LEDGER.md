@@ -500,3 +500,12 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Not stripped (no clean cut row; need a redraw): 13.5 glycolysis flow chart, 14.4 ATP synthase, 14.4 electron transport chain, 14.5 wide figure. Skipped: 9.4 sphingolipids, 7.12 roadmap. Concept maps print at about 5 pt.
   - **D3c published (PR #30 merged):** v2 strips on 8 pages (12.4, 13.5 both glycolysis halves, 13.6, 13.8, 14.3, 15.6, 15.10, 15.11); 13.8.2 width 760 → 660. All 8 pages verified by SHA-256 against pages/live and mirrored. Print tests on 13.5, 13.8 and 14.3: strips line up at one scale with no edge jogs; 14.3.2 prints full width.
     - The superseded strip files (figures/print/*-<k>.svg for the redone figures, figures/pathways/glycolysis/print/) are no longer used by any page; they are left in place.
+  - **D5 published (13 pages):** six exercise boxes with the `<header><h5|h4 class="editable">` form converted to the standard `box-legend` form (1.1, 1.3, 1.5, 1.8 ×2, 6.9; the 6.9 box used `h4`, so it got an addendum, batchD5b). 1.7 "Four ways" table images 218/218/141 → 160/160/104 px; Table 11.1.2 reaction image width 440. 30 drawn-example labels (2.10, 3.9, 4.11, 5.6, 6.11, 7.12) get `page-break-after:avoid`.
+    - Verified by SHA-256 and mirrored. One-page compiles: the 1.1 exercise headings print normally, and both tables fit inside the margin. The stranded-label rule needs a full-book compile to confirm.
+  - **D4 published (18 pages), the author's picks of the recommended wraps:**
+    - Group A: 19 small screen-floated images now float in print too (inline float, `max-width:45%`, class `wrap-left/right`). Seven large 13.1/14.4 diagrams lose the float and show full width on screen and in print.
+    - Group B: 15 captioned figures wrap right (inline float, width 22–40%).
+    - Every edited page gets the phone rule (un-float below 640 px) in its style block, added where missing.
+    - Dropped after test prints: the 1.7 n-hexane three-panel figure, the 8.3 food-sources and 4.7 phenol composites, and the 1.8 NaCl pair (side-by-side images stack in print). 14.4 heme image gets `clear:both` so text is not squeezed between two floats.
+    - The server reorders `width`/`height` attributes on some image tags on save; pages/live copies match live by SHA-256 after copying that order.
+    - **PRINT FACT:** an image's `max-width` percentage inside a figure is not honoured by the PDF service, so side-by-side composites stack vertically.
