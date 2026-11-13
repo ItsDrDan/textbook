@@ -408,3 +408,4 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - Slide48: the practice reaction "+ 3H2O / KOH" → "+ 3KOH" with heat under the arrow.
   - Slides 48 and 49: "Glyceryl palmitate" → "Glyceryl tripalmitate" (the name used in 9.7; deferred from batch A).
   - **Not yet live:** GitHub Pages serves `main`, so the new PNGs appear when the PR is merged. After that, publish `tools/batchB1_slides_fixes_2026-11-12.json` (built by `tools/batchB1_slides_build.py`; 15 edits on 597121, 597123 and 597145). It updates the alt text and adds `?v=20261112` to the slide srcs so cached copies refresh.
+  - **Live (2026-11-12):** PRs #18 and #19 merged; the Pages build of 274e7c8 serves the six slides byte-identical to the repo. The 15 alt-text and cache-bust edits are published on 597121, 597123 and 597145 and verified, and `pages/live` matches live by SHA-256.
