@@ -110,7 +110,7 @@ G = [
 ("esterification", "The condensation of a carboxylic acid with an alcohol, using an acid catalyst, to give an ester and water."),
 ("condensation reaction", "A reaction that joins two molecules and releases a small molecule, usually water; esters, amides, peptides, glycosidic bonds and nucleic acids form this way."),
 ("hydrolysis", "A reaction that breaks a bond by adding water; the reverse of condensation. Digestion is hydrolysis."),
-("acid hydrolysis", "Hydrolysis of an ester or amide with water and an acid catalyst, giving a carboxylic acid and an alcohol (or amine)."),
+("acid hydrolysis", "Hydrolysis of an ester or amide with water and an acid catalyst, giving a carboxylic acid and an alcohol (from an ester) or an ammonium salt (from an amide)."),
 ("saponification", "Hydrolysis of an ester with a strong base such as NaOH, giving an alcohol and a carboxylate salt; saponifying fats makes soap."),
 ("soap", "A sodium or potassium salt of a long-chain fatty acid; its nonpolar tail dissolves grease and its ionic head dissolves in water."),
 ("thioester", "An ester of a thiol, R–CO–S–R′, such as acetyl CoA; thioester bonds are high-energy bonds in metabolism."),

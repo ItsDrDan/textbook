@@ -335,3 +335,34 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - **Figure wrap (trial, 1.8 only):** Figure 1.8.9 is `<figure class="wrap-right" style="float:right;width:36%;margin:0 0 8px 16px">`, with a screen-only `@media (max-width: 640px)` rule in the page style block that removes the float on phones. Prints with text beside it.
   - **Repo:** `pages/live` matches live for all 46 pages (SHA-256); `pages/`, `sections/`, `drafts/` and `tools/videos.py` carry the same wrapper. The ADAPT hint generators were left as they are (hints are not printed).
   - **Not changed:** nine plain `<iframe width="560" height="315">` embeds (597062, 597074, 597141, 597192, 597193, 597202, 597209).
+- 2026-11-12, batch A of the 2026-11-12 review: wrong content in text (branch content/2026-11-batchA).
+  - **Live: 96 edits on 61 pages.** Edit list: `tools/batchA_content_fixes_2026-11-12.json`, built and count-checked by `tools/batchA_build.py`. Before/after sheet: `tools/BATCH_A_REVIEW_2026-11-12.md`.
+  - **Verified:** a dry run against the live book found every old string at the expected count. After publishing, every new string is present and no old string remains. All 61 `pages/live` copies match live by SHA-256.
+  - **Fixed:**
+    - 1.5 shapes caption (bond counts).
+    - 3.8 steroid ring count.
+    - 11.5 vitamin K zymogen wording.
+    - 13.1: FADH2/FAD single/double bond pair; ATP pool "roughly 50–250 g" (estimates vary); "digestion" of glucose → oxidation; Latin → Greek roots (also 13.10, 13.11).
+    - 14.4: FADH2, O2, and "nearly all" of the oxygen.
+    - 15.9: urea overall equation now NH4+ + HCO3− + aspartate; urease/arginase wording; the reference to the missing gout photo (Figure 2) and its orphan caption are removed.
+    - 15.10: references to the moved Figure 1 now point to Section 15.8 / Figure 15.8.1.
+    - 5.2 and 5.4: Tollens and dichromate equations balanced; Disulfiram (Antabuse).
+    - 4.2 "two or more carbons".
+    - Ch 7 opener: benzocaine claim, which contradicted P7.54(d).
+    - 7.3 nail-biting parenthetical removed.
+    - 7.9 heroin wording.
+    - 9.6 cholesterol about 35 g.
+    - 11.1 Enzyme Commission.
+    - 13.6 Exercise 4 starting materials.
+    - 12.7: Tay-Sachs "by about age four" (NINDS); the cystic fibrosis pointer.
+    - 15.5 DKA potassium and ketone-body timing.
+    - 1.2, 1.4, 1.6, 1.7, 1.8 chemistry wording.
+    - 6.1, 6.5, 6.7, 6.10 wording and equilibrium arrows.
+    - 8.5, 8.9, 9.4, 10.2/10.6 HbS charge, 10.12 table title, 11.2 equilibrium, 11.3 lab sentence, 11.5/11.8 "helper in blood clotting", 14.6 stages, 15.13 P15.9, Glossary acid hydrolysis.
+    - Number mismatches: 2.6 octane 126, 4.3 methane −162, 4.8, 4.10, 4.11/5.2 ethyl methyl ether 7 °C, 4.12 (−24 °C, butyl methyl ether), 5.7, Ch 5 opener (RBC 120 days), 6.3 (1.1 g), 6.12 (187 °C), 7.2 (mp 81), 8.7 (25–30), 9.8 (69 °C), 10.2 lysine pI 9.7.
+    - Missing answers added: 2.9.1, 3.4.1 (inline and in the answer key), 11.2.1.
+  - **Repo:** the same edits are mirrored into 122 files in `pages/`, `sections/` and `drafts/`, and into the generators `tools/cumulative.py`, `glossary_terms.py` and `patient_case.py`. `tools/alt_scan.json` and `tools/pka_removal_2026-11-11.py` are historical records and were left unchanged.
+  - **Needs the instructor:** the 7.7 video chapter title "…Carboxylic Acid and Amide" is fixed in the book; also fix it on YouTube.
+  - **Deferred:**
+    - To batch B (the text matches labels baked into images): 9.2 "Glyceryl palmitate" alt text, and the 6.6 163/164 °C chart.
+    - New, not yet fixed: 2.6 (597070) Table 2.6.1 also lists methane at −164 °C.
