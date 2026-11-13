@@ -57,17 +57,17 @@
   "597093": [
    {
     "old": "<div class=\"mt-section\"><h4 class=\"editable\">Solution</h4>",
-    "new": "<div class=\"mt-section\" style=\"page-break-inside:avoid\"><h4 class=\"editable\">Solution</h4>",
+    "new": "<div class=\"mt-section\"><h4 style=\"page-break-after:avoid\" class=\"editable\">Solution</h4>",
     "count": 1,
-    "note": "4.4 keep Example Solution together"
+    "note": "4.4 keep Example Solution heading with its text (the server strips attributes on mt-section divs)"
    }
   ],
   "597155": [
    {
     "old": "<div class=\"mt-section\"><h4 class=\"editable\">Solution</h4>",
-    "new": "<div class=\"mt-section\" style=\"page-break-inside:avoid\"><h4 class=\"editable\">Solution</h4>",
+    "new": "<div class=\"mt-section\"><h4 style=\"page-break-after:avoid\" class=\"editable\">Solution</h4>",
     "count": 1,
-    "note": "10.2 keep Example Solution together"
+    "note": "10.2 keep Example Solution heading with its text (the server strips attributes on mt-section divs)"
    }
   ]
  }

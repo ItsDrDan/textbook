@@ -581,3 +581,11 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Schematics: 6.3 acetic acid dimer, 9.5 RBC tonicity, 8.7 amylose/glycogen/cellulose, 13.7 glycogen branches, 15.4 acyl CoA α/β numbering, 9.1 linoleic C/ω numbering, 1.3 Lewis structure errors, 7.3 lidocaine neutral form (qualitative, no pKa).
   - Captions renumbered so new figures stay in page order: 6.8.2→6.8.3, 3.4.1→3.4.2, 13.7.1–2→13.7.2–3, 15.4.3–4→15.4.4–5, 9.1.4–5→9.1.5–6 (numbers appear only in their own captions).
   - Server normalised "–" to `&ndash;` in five new alt texts; pages/live holds the server form.
+
+- **2026-11-13 Batch L (full-book PDF check of 2026-11-12 23:50), live and verified (SHA-256 on all 7 pages):**
+  - The PDF had 1,337 pages, no overflow, no "Copyright" or "Exerc" leftovers, and tiny-text pages down to 7 (from 18). The batch K figures print at 6.8–11 pt.
+  - 14.3.1: the citric acid cycle wheel (printed at ~2 pt) is replaced by a landscape loop, file 512791 (tools/batchL_figs.py).
+  - 7.12: Reaction Roadmap redrawn with rows packed, type 16/13, aspect 2.57 (tools/batchL_roadmap.py); the page links `?v=20261113` and it goes live on merge (GitHub Pages).
+  - 9.3.1: condensed formula moved below the three-across row, so it prints full width; caption now says "(below)".
+  - Stranded labels: 1.3 "Check" and the 8.9 "Case Set Question 8.2" title now carry `page-break-after:avoid`. The 4.4/10.2 Example "Solution" h4s carry the same. The server strips attributes on `div.mt-section`, so the first try on the div did not stick.
+  - Left as is: the 15.9 urea-cycle enzyme labels and the 14.4.7 rotor panels (~4.4 pt, readable when zoomed).
