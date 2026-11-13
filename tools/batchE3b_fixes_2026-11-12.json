@@ -1,0 +1,16 @@
+{
+ "597209": [
+  {
+   "old": "<p><img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of two polar bears walking across snow.\" class=\"internal wrap-right\" src=\"/@api/deki/files/512758/fig-p597209-polar-bears.jpg\" fileid=\"512758\" /><img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of two orcas (killer whales) leaping out of the sea.\" class=\"internal wrap-right\" src=\"/@api/deki/files/512759/fig-p597209-orcas.jpg\" fileid=\"512759\" /><img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"Photograph of two camels standing in a desert.\" class=\"internal wrap-left\" src=\"/@api/deki/files/512760/fig-p597209-camels.jpg\" fileid=\"512760\" /><img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of a large flock of snow geese taking flight.\" class=\"internal wrap-right\" src=\"/@api/deki/files/512761/fig-p597209-snow-geese.jpg\" fileid=\"512761\" />",
+   "new": "<p class=\"mt-align-center\"><img width=\"170\" style=\"max-width:24%;height:auto;margin:0 2px;vertical-align:middle;\" alt=\"Photograph of two polar bears walking across snow.\" class=\"internal\" src=\"/@api/deki/files/512758/fig-p597209-polar-bears.jpg\" fileid=\"512758\" /><img width=\"170\" style=\"max-width:24%;height:auto;margin:0 2px;vertical-align:middle;\" alt=\"Photograph of two orcas (killer whales) leaping out of the sea.\" class=\"internal\" src=\"/@api/deki/files/512759/fig-p597209-orcas.jpg\" fileid=\"512759\" /><img width=\"170\" style=\"max-width:24%;height:auto;margin:0 2px;vertical-align:middle;\" alt=\"Photograph of two camels standing in a desert.\" class=\"internal\" src=\"/@api/deki/files/512760/fig-p597209-camels.jpg\" fileid=\"512760\" /><img width=\"170\" style=\"max-width:24%;height:auto;margin:0 2px;vertical-align:middle;\" alt=\"Photograph of a large flock of snow geese taking flight.\" class=\"internal\" src=\"/@api/deki/files/512761/fig-p597209-snow-geese.jpg\" fileid=\"512761\" /></p>\n<p class=\"mt-align-center\"><small>Photos: polar bears, U.S. Fish and Wildlife Service; orcas, Robert Pittman, NOAA; snow geese, N. Horne, U.S. Fish and Wildlife Service (all public domain); camels, Bgag, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">CC0</a>. All via Wikimedia Commons.</small></p>\n\n<p>",
+   "count": 1,
+   "note": "15.4 four photos in one row above the text (floats squeezed the text)"
+  },
+  {
+   "old": "\n<p style=\"clear:both\"><small>Photos: polar bears, U.S. Fish and Wildlife Service; orcas, Robert Pittman, NOAA; snow geese, N. Horne, U.S. Fish and Wildlife Service (all public domain); camels, Bgag, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">CC0</a>. All via Wikimedia Commons.</small></p>",
+   "new": "",
+   "count": 1,
+   "note": "15.4 move photo credit"
+  }
+ ]
+}
