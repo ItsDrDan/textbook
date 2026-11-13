@@ -68,8 +68,8 @@ Exported from chem.libretexts.org on 2026-11-12T01:23:12.606Z. One file per page
 | [597102](live/597102.html) | 5.1: Aldehydes and Ketones- Structure and Names |
 | [597103](live/597103.html) | 5.2: Properties of Aldehydes and Ketones |
 | [597104](live/597104.html) | 5.3: Adding Alcohols to Aldehydes and Ketones- Hemiacetals and Acetals |
-| [597105](live/597105.html) | 5.4: Reduction and oxidation (redox) reactions |
-| [597106](live/597106.html) | 5.5: Introduction to stereochemistry |
+| [597105](live/597105.html) | 5.4: Reduction and Oxidation (Redox) Reactions |
+| [597106](live/597106.html) | 5.5: Introduction to Stereochemistry |
 | [597107](live/597107.html) | 5.6: Chapter Guide - Aldehydes and Ketones |
 | [597108](live/597108.html) | 5.7: Practice Problems |
 | [597235](live/597235.html) | 5.8: Practice Games |
