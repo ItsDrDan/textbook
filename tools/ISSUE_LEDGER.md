@@ -544,6 +544,11 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - Still open:
     - ADAPT fb-3B-0078: the bank, payloads and question list are clean; the live ADAPT copy is unchecked (needs sign-in).
     - Lab experiment numbers (Experiments 1–14 cited on about 16 pages): need the lab manual.
+- 2026-11-12 night, ADAPT live check (course 4605, signed in):
+  - All 1,031 questions are CC BY 4.0, author Daniel Kwasniewski.
+  - Five questions still used pKa live (fb-3B-0078, 0864, 0865, 0870, 0871); they were updated in place to the pKa-free bank versions, with hints kept. A re-scan finds no pKa anywhere, and every assignment uses the latest revision.
+  - Video-hint licence note: left as is (instructor decision).
+  - Details in adapt/README.md.
 - 2026-11-12 night, full-book PDF (22:14, 1,324 pp; saved as Study Games/CHEM3B-Full-2026-11-12-2215.pdf) compared with the 00:50 PDF:
   - Pages with figure text under 4.6 pt fell from 29 to 18; the rest are known redraws or concept maps.
   - "Copyright" credit leftovers fell from 41 pages to 4. No margin overflow, no garbled "Exerc" headings.
