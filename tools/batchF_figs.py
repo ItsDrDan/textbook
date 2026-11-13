@@ -290,3 +290,50 @@ def elongation():
 
 elongation()
 print('elong ok')
+
+
+# ---------- 9.3 labelled phosphatidylcholine (replaces an image with no known source; batch G)
+def phospholipid():
+    W, H = 410, 480
+    b = []
+    cx = 180
+    # head
+    heads = [(cx, 62, '#cfe0fb', BLUE, 'choline', 'N<tspan dy="-6" font-size="11">+</tspan>'),
+             (cx, 112, '#fde3d6', '#d35400', 'phosphate', 'P<tspan dy="-6" font-size="11">&#8722;</tspan>'),
+             (cx, 162, '#fff3c4', '#9a7b00', 'glycerol', '')]
+    for x, y, fill, col, name, sym in heads:
+        b.append(f'<ellipse cx="{x}" cy="{y}" rx="46" ry="22" fill="{fill}" stroke="{col}" stroke-width="2.4"/>')
+        b.append(T(x, y + 5, name, 14, 800, col, 'middle'))
+        if sym: b.append(T(x + 54, y - 8, sym, 15, 900, col, 'start'))
+    # ester links to two tails
+    lx, rx = cx - 22, cx + 22
+    b.append(f'<line x1="{cx-16}" y1="182" x2="{lx}" y2="204" stroke="{INK}" stroke-width="2.4"/>')
+    b.append(f'<line x1="{cx+16}" y1="182" x2="{rx}" y2="204" stroke="{INK}" stroke-width="2.4"/>')
+    def zig(x0, y0, n, kink_at=None):
+        pts = [(x0, y0)]; x, y = x0, y0; dx = 7
+        for i in range(n):
+            y += 13; x = x0 + (dx if i % 2 == 0 else -dx)
+            if kink_at is not None and i >= kink_at: x -= 30
+            pts.append((x, y))
+        return 'M' + ' L'.join(f'{a:.1f} {c:.1f}' for a, c in pts)
+    b.append(f'<path d="{zig(rx, 204, 16)}" fill="none" stroke="#596779" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>')
+    b.append(f'<path d="{zig(lx, 204, 17, kink_at=8)}" fill="none" stroke="#596779" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>')
+    b.append(T(lx - 30, 452, 'oleic acid', 13, 800, INK, 'middle')); b.append(T(lx - 30, 468, 'chain', 13, 800, INK, 'middle'))
+    b.append(T(rx + 14, 452, 'palmitic acid', 13, 800, INK, 'middle')); b.append(T(rx + 14, 468, 'chain', 13, 800, INK, 'middle'))
+    b.append(T(lx - 50, 318, 'cis C=C bend', 12, 700, MUTED, 'end'))
+    # brackets
+    bx = 282
+    b.append(f'<path d="M{bx} 40 h10 v144 h-10" fill="none" stroke="{RED}" stroke-width="2"/>')
+    b.append(T(bx + 18, 108, 'polar head', 14, 900, RED, 'start'))
+    b.append(T(bx + 18, 124, '(hydrophilic)', 12, 700, RED, 'start'))
+    b.append(f'<path d="M{bx} 200 h10 v230 h-10" fill="none" stroke="{MUTED}" stroke-width="2"/>')
+    b.append(T(bx + 18, 306, 'nonpolar', 14, 900, MUTED, 'start'))
+    b.append(T(bx + 18, 322, 'tails', 14, 900, MUTED, 'start'))
+    b.append(T(bx + 18, 338, '(hydrophobic)', 12, 700, MUTED, 'start'))
+    alt = ('Labeled sketch of a phosphatidylcholine (lecithin) molecule: a polar, hydrophilic head made of choline (positive charge), phosphate (negative charge) '
+           'and glycerol, and two nonpolar, hydrophobic tails: a straight palmitic acid chain and an oleic acid chain with a bend at its cis C=C double bond.')
+    open(OUT + 'fig-p597146-phosphatidylcholine.svg', 'w').write(svg(W, H, alt, ''.join(b)))
+
+
+phospholipid()
+print('pl ok')
