@@ -480,3 +480,12 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - For batch E: the 15.8 "from Wikipedia" caption.
   - **Verified:** new strings live; the 47 `pages/live` copies match live by SHA-256. Mirrored into 89 `pages/` and `sections/` files.
   - **Instructor:** the 9.2 video chapter title "triplemitoleate" is fixed in the book; fix it on YouTube too.
+- 2026-11-12, batch D (print layout) of the 2026-11-12 review (branch print/2026-11-batchD).
+  - **D2 live: 15 edits on 7 pages.** Edit list: `tools/batchD2_videos_2026-11-12.json`, built by `tools/batchD2_build.py`.
+    - The ten plain or widget YouTube embeds (597062, 597074 ×2, 597141 ×2, 597192, 597193, 597202, 597209 ×2) now use the aspect-ratio wrapper with real titles from YouTube oEmbed.
+    - The instructor's guide videos have "(Daniel Kwasniewski (ItsDrDan))" on the title line.
+    - The BioMan Biology videos on 13.4, 13.5 and 14.3 now carry a credit line ("not covered by this book's license").
+    - Verified by SHA-256 and mirrored. A one-page compile showed the widget embeds already printed as compact QR boxes, so the gain is phones and consistency.
+  - **D3 print test, a correction to the earlier note:** the PDF service also ignores inline image sizes. Tested on 14.3 with step images styled `width:100%`, `width:6in` and `height:4in` and the wheel styled `width:6.5in`, and separately `max-height:none`: every one printed at the default size. Wide, short figures print about 4.6 in wide and readable; square or tall figures are held to about 3 in high (the 14.3.1 wheel and the stacked 13.5.1 glycolysis SVGs).
+    - So the only fix for small print is the figure's shape: redraw tall or square diagrams in a landscape layout (width at least about 2.2 × height).
+    - The test edits were reverted; 597202 is byte-identical to its post-D2 state.
