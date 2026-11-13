@@ -455,3 +455,15 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - **C3:** 12 `&amp;ndash;` in alt attributes → `&ndash;` (1.8, 3.5, 4.7, 6.8, 7.11, 13.8).
   - **C4:** 9 `display:none` spans removed, rejoining "propionic acid" (6.3) and "oxidoreductase" (11.1).
   - **Verified:** new strings live and old strings gone; the 22 `pages/live` copies match live by SHA-256. Mirrored into `pages/` and `sections/`.
+- 2026-11-12, batch C5 of the 2026-11-12 review: leftovers (branch content/2026-11-batchC5).
+  - **Live: 46 edits on 37 pages.** Edit list: `tools/batchC5_fixes_2026-11-12.json`, built by `tools/batchC5_build.py`. Review sheet: `tools/BATCH_C5_REVIEW_2026-11-12.md`.
+  - **Fixed:**
+    - "(Copyright; …)" → "(…)" on 35 credits.
+    - The internal "Copied into this book (no longer live-linked)…" note → the standard editing line (4.9, 6.6, 11.5, 15.11).
+    - Stale objectives on 14.4, 15.3, 15.4 and 15.10.
+    - About 20 one-off leftovers: 1.5, 1.7 ×2, 1.8, 4.1, 4.5, 4.11, 5.6 ×2, 6.10, 7.12, 8.3, 8.7 (CDCES), 10.5, 10.6, 11.1, 11.8, 12.9, 13.12, 14.3, 15.9.
+  - **Verified:** new strings live, old strings gone; 37 `pages/live` copies match live by SHA-256. Mirrored.
+  - **Open:**
+    - Fact-check batch for dated statistics (8.6 sugar, 8.7 cotton/rayon, 4.4 methanol, 12.9 measles, 2.8 ozone hole, 3.5 joints, 3.8 benzo[a]pyrene, 1.6 MyPlate).
+    - For batch E: the eight bare "(Public domain)" credits with no source.
+    - Restructuring: 6.12/7.13 answer keys, the 10.2/10.3 ninhydrin duplicate, the 12.5 translation preview.
