@@ -1,0 +1,352 @@
+{
+ "597060": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 3,
+   "note": "credit: drop \"Copyright; \" prefix"
+  },
+  {
+   "old": "-H}\\), is condensed as \\(\\ce{CH3CHClCH3}\\)</td>",
+   "new": "-H}\\)</td>",
+   "count": 1,
+   "note": "1.7 Table 4 Lewis cell had pasted condensed text"
+  },
+  {
+   "old": "In lecture they are presented side by side for a single molecule, because this book, the games, and your exams switch among them without warning and you must translate on the spot.",
+   "new": "In lecture they are presented side by side for a single molecule, because you must translate between them on the spot.",
+   "count": 1,
+   "note": "1.7 same sentence twice in a row"
+  }
+ ],
+ "597104": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 1,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597105": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 2,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597106": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 2,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597146": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 1,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597159": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 2,
+   "note": "credit: drop \"Copyright; \" prefix"
+  },
+  {
+   "old": "<p>Vasopressin and oxytocin are two nonapeptide hormones released by the pituitary gland. Vasopressin is an antidiuretic hormone that regulates blood pressure by adjusting the water reabsorbed by the kidneys. Oxytocin stimulates uterine contractions in labor.</p>",
+   "new": "<p>Vasopressin and oxytocin are two nonapeptide hormones released by the pituitary gland (their roles are described above).</p>",
+   "count": 1,
+   "note": "10.6 paragraph repeated"
+  }
+ ],
+ "597160": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 3,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597161": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 2,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597162": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 1,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597163": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 2,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597178": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 5,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597182": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 3,
+   "note": "credit: drop \"Copyright; \" prefix"
+  },
+  {
+   "old": "fingerprinting, and human genome project. </li>",
+   "new": "fingerprinting, and the Human Genome Project.</li>",
+   "count": 1,
+   "note": "12.9 objective"
+  }
+ ],
+ "597188": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 4,
+   "note": "credit: drop \"Copyright; \" prefix"
+  }
+ ],
+ "597203": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 1,
+   "note": "credit: drop \"Copyright; \" prefix"
+  },
+  {
+   "old": "accounting for the ATP yield, body heating, and reactive oxygen species produced.",
+   "new": "accounting for the ATP yield and body heating.",
+   "count": 1,
+   "note": "14.4 objective: ROS no longer on page"
+  }
+ ],
+ "597209": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 2,
+   "note": "credit: drop \"Copyright; \" prefix"
+  },
+  {
+   "old": "Understand obesity, ketogenesis, ketosis, ketoacidosis, and catabolism of glycerol, associated with \\(\\beta\\)-oxidation of fatty acids.",
+   "new": "Understand obesity and the catabolism of glycerol, associated with \\(\\beta\\)-oxidation of fatty acids (ketone bodies are in Section 15.5).",
+   "count": 1,
+   "note": "15.4 objective: ketone bodies moved to 15.5"
+  }
+ ],
+ "597210": [
+  {
+   "old": "(Copyright; ",
+   "new": "(",
+   "count": 1,
+   "note": "credit: drop \"Copyright; \" prefix"
+  },
+  {
+   "old": "Understand the catabolism of amino acids, including transamination, oxidative deamination, and urea cycle that takes care of the \\(\\ce{N}\\) and processing of the \\(\\ce{C}\\) skeleton of the amino acid to intermediates that enter into citric acid cycle for energy production.",
+   "new": "Describe how the carbon skeletons of amino acids enter the citric acid cycle, and classify amino acids as glucogenic or ketogenic (removing the nitrogen is covered in Sections 15.8 and 15.9).",
+   "count": 1,
+   "note": "15.10 objective: N removal moved to 15.8/15.9"
+  }
+ ],
+ "597098": [
+  {
+   "old": "Copied into this book (no longer live-linked) so it can be edited for CHEM 3B. ",
+   "new": "The text was edited for CHEM 3B by Daniel Kwasniewski, Fresno City College. ",
+   "count": 1,
+   "note": "internal note -> standard editing line"
+  }
+ ],
+ "597114": [
+  {
+   "old": "Copied into this book (no longer live-linked) so it can be edited for CHEM 3B. ",
+   "new": "The text was edited for CHEM 3B by Daniel Kwasniewski, Fresno City College. ",
+   "count": 1,
+   "note": "internal note -> standard editing line"
+  }
+ ],
+ "597170": [
+  {
+   "old": "Copied into this book (no longer live-linked) so it can be edited for CHEM 3B. ",
+   "new": "The text was edited for CHEM 3B by Daniel Kwasniewski, Fresno City College. ",
+   "count": 1,
+   "note": "internal note -> standard editing line"
+  }
+ ],
+ "597217": [
+  {
+   "old": "Copied into this book (no longer live-linked) so it can be edited for CHEM 3B. ",
+   "new": "The text was edited for CHEM 3B by Daniel Kwasniewski, Fresno City College. ",
+   "count": 1,
+   "note": "internal note -> standard editing line"
+  }
+ ],
+ "597207": [
+  {
+   "old": "To describe the reactions needed to completely oxidize a fatty acid to carbon dioxide and water.",
+   "new": "Describe how a fatty acid is activated and carried into the mitochondrion by the carnitine shuttle.",
+   "count": 1,
+   "note": "15.3 objective matches the page"
+  }
+ ],
+ "597058": [
+  {
+   "old": " the effect of a B-F bond is cancelled by the sum of the other two B-F bonds (see video).",
+   "new": " the effect of a B-F bond is cancelled by the sum of the other two B-F bonds.",
+   "count": 1,
+   "note": "1.5 no BF3 video on page"
+  }
+ ],
+ "597061": [
+  {
+   "old": "Applying the skills acquired in the chapter on chemical bonding and molecular geometry, all of these compounds",
+   "new": "Using Sections 1.4 and 1.5, all of these compounds",
+   "count": 1,
+   "note": "1.8 refers to an OpenStax chapter"
+  }
+ ],
+ "597118": [
+  {
+   "old": "<li>The \\(\\ce{pH}\\) inside cells and in blood is close to neutral (blood is about 7.4). Carboxylic acids",
+   "new": "<li>Carboxylic acids",
+   "count": 1,
+   "note": "6.10 sentence repeats the one above"
+  }
+ ],
+ "597132": [
+  {
+   "old": "clinical boxes behind it now sit on the section pages",
+   "new": "clinical boxes behind it are on the section pages",
+   "count": 1,
+   "note": "7.12 \"now\" refers to an old layout"
+  }
+ ],
+ "597173": [
+  {
+   "old": "<h3 class=\"editable\">6. Specificity and regulation</h3>",
+   "new": "<h3 class=\"editable\">6. Regulation</h3>",
+   "count": 1,
+   "note": "11.8 Key Idea 6 has no specificity content"
+  }
+ ],
+ "597158": [
+  {
+   "old": "a marker for alpha-thalassemia. Protein Sci. 1739&ndash;1749).",
+   "new": "a marker for alpha-thalassemia. Protein Sci. 10(9): 1739&ndash;1749).",
+   "count": 1,
+   "note": "10.5 citation volume"
+  }
+ ],
+ "597243": [
+  {
+   "old": "<strong>New: Rosa&rsquo;s Case Files.</strong>",
+   "new": "<strong>Rosa&rsquo;s Case Files.</strong>",
+   "count": 1,
+   "note": "13.12 \"New:\" will date"
+  }
+ ],
+ "597202": [
+  {
+   "old": "The following equations of the reactions are modified from a public domain at ",
+   "new": "The following equations of the reactions are adapted from a public-domain source on the Russian-language ",
+   "count": 1,
+   "note": "14.3 wording; link is ru.wikipedia"
+  }
+ ],
+ "597216": [
+  {
+   "old": "Note Everyday Connection: Gout</h3>",
+   "new": "Everyday Connection: Gout</h3>",
+   "count": 1,
+   "note": "15.9 stray \"Note\""
+  }
+ ],
+ "597100": [
+  {
+   "old": "<strong>Oxidation</strong> (oxidation): ",
+   "new": "<strong>Oxidation:</strong> ",
+   "count": 3,
+   "note": "4.11 redundant \"(oxidation)\""
+  }
+ ],
+ "597107": [
+  {
+   "old": "<strong>Reduction</strong> (reduction): ",
+   "new": "<strong>Reduction:</strong> ",
+   "count": 1,
+   "note": "5.6 redundant \"(reduction)\""
+  },
+  {
+   "old": "<strong>Hemiacetal formation</strong> (addition): Hemiacetal formation: ",
+   "new": "<strong>Hemiacetal formation (addition):</strong> ",
+   "count": 1,
+   "note": "5.6 repeated lead-in"
+  }
+ ],
+ "597094": [
+  {
+   "old": "The following reaction occurs in the &quot;Embden&ndash;Meyerhof&quot; pathway:",
+   "new": "The following reaction occurs in glycolysis (Chapter 13):",
+   "count": 1,
+   "note": "4.5 name used nowhere else"
+  }
+ ],
+ "597090": [
+  {
+   "old": "We first introduced the idea of the functional group,",
+   "new": "In Chapter 1 we introduced the idea of the functional group,",
+   "count": 1,
+   "note": "4.1 dropped chapter reference"
+  }
+ ],
+ "597166": [
+  {
+   "old": "under the oversight of the Nomenclature Commission of the International Union of Biochemistry, enzymes are arranged into six groups according to",
+   "new": "under the oversight of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (IUBMB), enzymes are arranged into classes according to",
+   "count": 1,
+   "note": "11.1 committee name; class count is in the Lecture Connection"
+  }
+ ],
+ "597136": [
+  {
+   "old": "One of the newest artificial sweeteners to gain FDA approval (April 1998) for use in the United States is ",
+   "new": "An artificial sweetener approved by the FDA in April 1998 is ",
+   "count": 1,
+   "note": "8.3 \"newest\" is dated"
+  }
+ ],
+ "597140": [
+  {
+   "old": "Career Focus: Certified Diabetes Educator</h3>",
+   "new": "Career Focus: Certified Diabetes Care and Education Specialist (CDCES)</h3>",
+   "count": 1,
+   "note": "8.7 credential renamed 2020"
+  },
+  {
+   "old": "<p>Certified diabetes educators come from",
+   "new": "<p>Certified diabetes care and education specialists (called certified diabetes educators before 2020) come from",
+   "count": 1,
+   "note": "8.7 credential renamed 2020"
+  }
+ ]
+}
