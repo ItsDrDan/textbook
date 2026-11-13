@@ -1,0 +1,173 @@
+{
+ "uploads": [
+  {
+   "page": "597080",
+   "name": "fig-p597080-tomatoes.jpg",
+   "path": "figures/pages/batchE/fig-p597080-tomatoes.jpg",
+   "key": "tom",
+   "old_fileid": null
+  },
+  {
+   "page": "597096",
+   "name": "fig-p597096-phenol-oxidized.jpg",
+   "path": "figures/pages/batchE/fig-p597096-phenol-oxidized.jpg",
+   "key": "phen",
+   "old_fileid": null
+  },
+  {
+   "page": "597208",
+   "name": "fig-p597208-vo2max-test.jpg",
+   "path": "figures/pages/batchE/fig-p597208-vo2max-test.jpg",
+   "key": "vo2",
+   "old_fileid": null
+  },
+  {
+   "page": "597209",
+   "name": "fig-p597209-polar-bears.jpg",
+   "path": "figures/pages/batchE/fig-p597209-polar-bears.jpg",
+   "key": "bear",
+   "old_fileid": null
+  },
+  {
+   "page": "597209",
+   "name": "fig-p597209-orcas.jpg",
+   "path": "figures/pages/batchE/fig-p597209-orcas.jpg",
+   "key": "orca",
+   "old_fileid": null
+  },
+  {
+   "page": "597209",
+   "name": "fig-p597209-camels.jpg",
+   "path": "figures/pages/batchE/fig-p597209-camels.jpg",
+   "key": "caml",
+   "old_fileid": null
+  },
+  {
+   "page": "597209",
+   "name": "fig-p597209-snow-geese.jpg",
+   "path": "figures/pages/batchE/fig-p597209-snow-geese.jpg",
+   "key": "geese",
+   "old_fileid": null
+  },
+  {
+   "page": "597146",
+   "name": "fig-p597146-venom.jpg",
+   "path": "figures/pages/batchE/fig-p597146-venom.jpg",
+   "key": "venom",
+   "old_fileid": null
+  },
+  {
+   "page": "597160",
+   "name": "fig-p597160-triple-helix.svg",
+   "path": "figures/pages/batchE/fig-p597160-triple-helix.svg",
+   "key": "thx",
+   "old_fileid": null
+  }
+ ],
+ "edits": {
+  "597080": [
+   {
+    "old": "<img alt=\"Photograph of four ripe red tomatoes on the vine.\" height=\"204\" width=\"247\" class=\"internal\" src=\"/@api/deki/files/51927/Tomato_je1.jpg\" fileid=\"51927\" /></p>\n<p class=\"mt-align-center\"><small>Photo: Softeis, <a href=\"https://commons.wikimedia.org/wiki/File:Tomato_je.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a>.</small></p>",
+    "new": "<img style=\"max-width:100%;height:auto;\" width=\"300\" alt=\"Close-up photograph of ripe red tomatoes.\" class=\"internal\" src=\"/@api/deki/files/{{tom}}/fig-p597080-tomatoes.jpg\" fileid=\"{{tom}}\" /></p>\n<p class=\"mt-align-center\"><small>Photo: Ivan Timov, <a href=\"https://commons.wikimedia.org/wiki/File:Healthy_Vegetables_(Unsplash).jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">CC0</a>.</small></p>",
+    "count": 1,
+    "note": "3.3 tomatoes (CC0) and credit"
+   }
+  ],
+  "597096": [
+   {
+    "old": "<img alt=\"Photograph of colorless phenol crystals in a glass test tube.\" height=\"219\" width=\"219\" class=\"internal\" src=\"/@api/deki/files/54240/Phenol_2_grams.jpg\" fileid=\"54240\" />",
+    "new": "<img style=\"max-width:100%;height:auto;\" width=\"219\" alt=\"Photograph of a small heap of phenol crystals on a glass dish, discolored to a dark pinkish brown.\" class=\"internal\" src=\"/@api/deki/files/{{phen}}/fig-p597096-phenol-oxidized.jpg\" fileid=\"{{phen}}\" />",
+    "count": 1,
+    "note": "4.7 phenol crystals (CC0)"
+   },
+   {
+    "old": "(Left) Ball-and-stick model of phenol. (Right) About two grams of phenol crystals in a glass tube. (Model: Benjah-bmm27, public domain; photo: W. Oelen, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a>; both via Wikimedia Commons.)",
+    "new": "(Left) Ball-and-stick model of phenol. (Right) Phenol crystals that have darkened during long storage, because phenol is slowly oxidized by oxygen in the air. (Model: Benjah-bmm27, public domain; photo: Alit Variatos, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">CC0</a>; both via Wikimedia Commons.)",
+    "count": 1,
+    "note": "4.7 Fig 1 caption"
+   }
+  ],
+  "597208": [
+   {
+    "old": "<img alt=\"Photograph of a person walking on a treadmill wearing a breathing mask connected by tubing to a cart of monitoring equipment, in an ergospirometry laboratory.\" height=\"367\" width=\"453\" class=\"internal\" src=\"/@api/deki/files/51940/Ergospirometry_laboratory.jpg\" fileid=\"51940\" />",
+    "new": "<img style=\"max-width:100%;height:auto;\" width=\"300\" alt=\"Photograph of a man running on a treadmill while breathing through a mask connected to an oxygen analyzer; two staff members watch the test.\" class=\"internal\" src=\"/@api/deki/files/{{vo2}}/fig-p597208-vo2max-test.jpg\" fileid=\"{{vo2}}\" />",
+    "count": 1,
+    "note": "15.8 VO2 max test photo (public domain)"
+   },
+   {
+    "old": "Ergospirometry laboratory for the measurement of metabolic changes during a graded exercise test on a treadmill. (Photo: Cosmed, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/\" target=\"_blank\" rel=\"noopener\">CC BY-SA 3.0</a>, via Wikimedia Commons.)",
+    "new": "A VO<sub>2</sub> max test: during graded exercise on a treadmill, a mask and analyzer measure how much oxygen the body uses. (Photo: Cpl. William Smith, U.S. Army, public domain, via <a href=\"https://commons.wikimedia.org/wiki/File:Finding_the_max_130305-A-UK001-003.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>.)",
+    "count": 1,
+    "note": "15.8 caption"
+   }
+  ],
+  "597209": [
+   {
+    "old": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of two polar bears standing on snowy tundra.\" class=\"internal wrap-right\" src=\"/@api/deki/files/446281/clipboard_eb48037d0d303b8ea1ee324c42cb741cf.png\" fileid=\"446281\" />",
+    "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of two polar bears walking across snow.\" class=\"internal wrap-right\" src=\"/@api/deki/files/{{bear}}/fig-p597209-polar-bears.jpg\" fileid=\"{{bear}}\" />",
+    "count": 1,
+    "note": "15.4 polar bears (public domain)"
+   },
+   {
+    "old": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of an orca (killer whale) leaping out of the sea.\" class=\"internal wrap-right\" src=\"/@api/deki/files/446282/clipboard_ebd104d26b30465a2b6a3e9166c2d5b59.png\" fileid=\"446282\" />",
+    "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of two orcas (killer whales) leaping out of the sea.\" class=\"internal wrap-right\" src=\"/@api/deki/files/{{orca}}/fig-p597209-orcas.jpg\" fileid=\"{{orca}}\" />",
+    "count": 1,
+    "note": "15.4 orcas (public domain)"
+   },
+   {
+    "old": "<img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"Photograph of a camel walking through scrubland.\" class=\"internal wrap-left\" src=\"/@api/deki/files/446284/clipboard_e9e8837188879ebad5e284c8e2b68d84a.png\" fileid=\"446284\" />",
+    "new": "<img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"Photograph of two camels standing in a desert.\" class=\"internal wrap-left\" src=\"/@api/deki/files/{{caml}}/fig-p597209-camels.jpg\" fileid=\"{{caml}}\" />",
+    "count": 1,
+    "note": "15.4 camels (CC0)"
+   },
+   {
+    "old": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of a large flock of migrating geese filling the sky.\" class=\"internal wrap-right\" src=\"/@api/deki/files/446294/clipboard_ecc3d117a4bf52d19e6c89a4f099971bb.png\" fileid=\"446294\" />",
+    "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of a large flock of snow geese taking flight.\" class=\"internal wrap-right\" src=\"/@api/deki/files/{{geese}}/fig-p597209-snow-geese.jpg\" fileid=\"{{geese}}\" />",
+    "count": 1,
+    "note": "15.4 snow geese (public domain)"
+   },
+   {
+    "old": "Migratory birds also store fat and use it as an energy source during migration. </p>",
+    "new": "Migratory birds also store fat and use it as an energy source during migration. </p>\n<p style=\"clear:both\"><small>Photos: polar bears, U.S. Fish and Wildlife Service; orcas, Robert Pittman, NOAA; snow geese, N. Horne, U.S. Fish and Wildlife Service (all public domain); camels, Bgag, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">CC0</a>. All via Wikimedia Commons.</small></p>",
+    "count": 1,
+    "note": "15.4 photo credits"
+   }
+  ],
+  "597146": [
+   {
+    "old": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of a snake wrangler holding a snake's head so that venom flows from its fangs.\" class=\"internal wrap-right\" src=\"/@api/deki/files/435614/clipboard_e23f34924a8a91c5c956c45f58cb60a06.png\" fileid=\"435614\" />",
+    "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of venom being collected from a snake: a handler holds the snake's head so that its fangs pierce a film stretched over a glass, and venom drips inside.\" class=\"internal wrap-right\" src=\"/@api/deki/files/{{venom}}/fig-p597146-venom.jpg\" fileid=\"{{venom}}\" />",
+    "count": 1,
+    "note": "9.3 venom collection (CC0)"
+   },
+   {
+    "old": "The structure of the lysophospholipid example is shown in the figure on the left.</p>",
+    "new": "The structure of the lysophospholipid example is shown in the figure on the left.</p>\n<p style=\"clear:both\"><small>Photo: Vassil, <a href=\"https://commons.wikimedia.org/wiki/File:Venin_Gen%C3%A8ve_24102014.jpg\" target=\"_blank\" rel=\"noopener\">Wikimedia Commons</a>, <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener\">CC0</a>.</small></p>",
+    "count": 1,
+    "note": "9.3 photo credit"
+   }
+  ],
+  "597160": [
+   {
+    "old": "<img alt=\"Three ribbons (pink, blue and tan) wound around one another, labeled 'Triple Helix'.\" class=\"internal\" src=\"/@api/deki/files/432358/clipboard_e561b288b2f0146ad70d92475134b5754.png\" fileid=\"432358\" />",
+    "new": "<img alt=\"Three protein chains (red, blue and green) wound around one another, labeled 'Triple helix'.\" class=\"internal\" width=\"118\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{thx}}/fig-p597160-triple-helix.svg\" fileid=\"{{thx}}\" />",
+    "count": 1,
+    "note": "10.7 Fig 1 triple-helix panel (own drawing)"
+   },
+   {
+    "old": "Basic secondary structures of proteins illustrated. (The creator and license of each panel are printed on the panel.)</figcaption>",
+    "new": "Basic secondary structures of proteins illustrated. (The creator and license of the first three panels are printed on each panel; triple helix: Daniel Kwasniewski, CC BY 4.0.)</figcaption>",
+    "count": 1,
+    "note": "10.7 Fig 1 caption"
+   }
+  ],
+  "597270": [
+   {
+    "old": "<li>also: some source figures were replaced by original structure and pathway figures drawn for this book (glycolysis, the citric acid cycle, &beta;-oxidation, the urea cycle, the electron transport chain, ATP synthase and key reactions in Chapters 13&ndash;15), and every source figure that carried a ShareAlike (CC BY-SA) license was replaced with an original figure (for example in Sections 5.3, 5.4, 9.4, 10.7 and 12.4), a few errors in the sources were corrected and are noted where they occur (for example the reversed succinate and fumarate labels in Section 13.1), and source headings were renumbered so heading levels run in order for screen readers;</li>",
+    "new": "<li>replaces some source figures with original structure and pathway figures drawn for this book (glycolysis, the citric acid cycle, &beta;-oxidation, the urea cycle, the electron transport chain, ATP synthase and key reactions in Chapters 13&ndash;15), and replaces every source image that carried a ShareAlike (CC BY-SA) license with an original figure or a public-domain or CC0 image (for example in Sections 3.3, 4.7, 5.3, 5.4, 9.4, 10.7, 12.4 and 15.8); source headings were also renumbered so heading levels run in order for screen readers;</li>",
+    "count": 1,
+    "note": "About: bullet rewritten (no stray \"also:\", no run-on; ShareAlike statement now true)"
+   }
+  ]
+ }
+}

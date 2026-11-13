@@ -152,7 +152,7 @@ def build(name, title, items, meta):
     files = []
     body = '\n'.join(item(x, meta, files) for x in items)
     qti = f'<?xml version="1.0" encoding="UTF-8"?>\n<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2"><assessment ident="{aid}" title="{esc(title)}"><section ident="root_section">{body}</section></assessment></questestinterop>'
-    meta_xml = f'<?xml version="1.0" encoding="UTF-8"?>\n<quiz identifier="{aid}" xmlns="http://canvas.instructure.com/xsd/cccv1p0"><title>{esc(title)}</title><description>Additional CHEM 3B homework questions. Dr. Dan (Daniel Kwasniewski), CC BY-NC-SA 4.0.</description><quiz_type>assignment</quiz_type></quiz>'
+    meta_xml = f'<?xml version="1.0" encoding="UTF-8"?>\n<quiz identifier="{aid}" xmlns="http://canvas.instructure.com/xsd/cccv1p0"><title>{esc(title)}</title><description>Additional CHEM 3B homework questions. Questions by Daniel Kwasniewski, CC BY 4.0.</description><quiz_type>assignment</quiz_type></quiz>'
     man = (f'<?xml version="1.0" encoding="UTF-8"?>\n<manifest identifier="m{aid}" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1"><metadata><schema>IMS Content</schema><schemaversion>1.1.3</schemaversion></metadata><organizations/>'
            f'<resources><resource identifier="{aid}" type="imsqti_xmlv1p2"><file href="{aid}/{aid}.xml"/><dependency identifierref="{aid}meta"/></resource>'
            f'<resource identifier="{aid}meta" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="{aid}/assessment_meta.xml"><file href="{aid}/assessment_meta.xml"/></resource></resources></manifest>')

@@ -13,7 +13,7 @@ for ch,items in groups.items():
     body='\n'.join(item_xml(x,i) for i,x in enumerate(items,1))
     qti=f'<?xml version="1.0" encoding="UTF-8"?>\n<questestinterop xmlns="http://www.imsglobal.org/xsd/ims_qtiasiv1p2"><assessment ident="{aid}" title="{esc(title)}"><section ident="root_section">\n{body}\n</section></assessment></questestinterop>'
     man=f'<?xml version="1.0" encoding="UTF-8"?>\n<manifest identifier="m{aid}" xmlns="http://www.imsglobal.org/xsd/imsccv1p1/imscp_v1p1"><organizations/><resources><resource identifier="{aid}" type="imsqti_xmlv1p2"><file href="{aid}/{aid}.xml"/><dependency identifierref="{aid}meta"/></resource><resource identifier="{aid}meta" type="associatedcontent/imscc_xmlv1p1/learning-application-resource" href="{aid}/assessment_meta.xml"><file href="{aid}/assessment_meta.xml"/></resource></resources></manifest>'
-    meta=f'<?xml version="1.0" encoding="UTF-8"?>\n<quiz identifier="{aid}" xmlns="http://canvas.instructure.com/xsd/cccv1p0"><title>{esc(title)}</title><description>Questions by Dr. Dan (Daniel Kwasniewski), CC BY-NC-SA 4.0.</description><quiz_type>assignment</quiz_type><points_possible>{len(items)}</points_possible></quiz>'
+    meta=f'<?xml version="1.0" encoding="UTF-8"?>\n<quiz identifier="{aid}" xmlns="http://canvas.instructure.com/xsd/cccv1p0"><title>{esc(title)}</title><description>Questions by Daniel Kwasniewski, CC BY 4.0.</description><quiz_type>assignment</quiz_type><points_possible>{len(items)}</points_possible></quiz>'
     zn=os.path.join(OUT,f'CHEM3B_Ch{ch:02d}_nov5_QTI.zip')
     with zipfile.ZipFile(zn,'w',zipfile.ZIP_DEFLATED) as z: z.writestr('imsmanifest.xml',man); z.writestr(f'{aid}/{aid}.xml',qti); z.writestr(f'{aid}/assessment_meta.xml',meta)
     print(ch,len(items),os.path.basename(zn))

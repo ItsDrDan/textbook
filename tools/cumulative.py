@@ -5,7 +5,7 @@ Each chapter gets six original problems that use the current chapter together wi
 (the chapters drawn on are named in each problem), followed by a Try It widget that mixes exam-bank
 questions from every topic covered so far.  build_pages.py appends cumulative_block(ch) to each
 Practice Problems page.  All problems written by Daniel Kwasniewski, Fresno City College,
-CC BY-NC-SA 4.0.
+CC BY 4.0.
 """
 import html, urllib.parse as up
 

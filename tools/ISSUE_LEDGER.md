@@ -509,3 +509,20 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Dropped after test prints: the 1.7 n-hexane three-panel figure, the 8.3 food-sources and 4.7 phenol composites, and the 1.8 NaCl pair (side-by-side images stack in print). 14.4 heme image gets `clear:both` so text is not squeezed between two floats.
     - The server reorders `width`/`height` attributes on some image tags on save; pages/live copies match live by SHA-256 after copying that order.
     - **PRINT FACT:** an image's `max-width` percentage inside a figure is not honoured by the PDF service, so side-by-side composites stack vertically.
+- 2026-11-12, batch E (licensing and attribution). Every finding was re-checked before any change was made.
+  - **E1 published (18 edits on 13 pages):**
+    - Malik figures with bare "(Public domain)" now credit *Introduction to Organic and Biochemistry* (Malik), public domain. Malik's own captions name no creator.
+    - Commons photos credited after a visual match and a Commons API lookup.
+    - 1.8 Figs 10–11 are credited to OpenStax *Chemistry 2e* §10.1, CC BY-NC-SA 4.0 (Fig 11 was wrongly credited to Ball).
+    - 15.1 lipoprotein diagram credited to Jairam, Uchida and Narayanaswami (IntechOpen 2012, CC BY 3.0).
+    - 10.7 Fig 1 credit pointer added.
+    - Source Attributions videos and figures statements fixed; About Malik count 21 → 20.
+    - Checked and unchanged: 11.6 *Biology 2e* is CC BY-NC-SA 4.0 per OpenStax, so the review was wrong; LibreTexts names itself as the author of *Fundamentals of GOB*.
+  - **E2 (local):** QTI generators and all 36 QTI zips now say "Questions by Daniel Kwasniewski, CC BY 4.0", and each zip has a LICENSE.txt. cumulative.py docstring fixed. Live ADAPT fields were not checked (browser not signed in to ADAPT).
+  - **E3 published (author's decision: replace):**
+    - The CC BY-SA images (3.3 tomatoes, 4.7 phenol crystals, 15.8 ergospirometry photo, 10.7 Fig 1 triple-helix panel) and the uncredited Malik photos (15.4 ×4, 9.3 snake) were replaced with public-domain or CC0 Commons photos. The 10.7 panel is cropped from the book's own collagen diagram.
+    - Licences come from the Commons API; uploaded as files 512755–512763 (tools/batchE3_ids_2026-11-12.json).
+    - 15.4's four photos now sit in one row above the paragraph (E3b), because the floats squeezed the text.
+    - The About bullet was rewritten: the ShareAlike statement is now true, and the stray "also:" and run-on clause are gone.
+  - All pages verified by SHA-256 and mirrored.
+  - The author confirmed the 40 `canvas-quiz` bank items are their own.
