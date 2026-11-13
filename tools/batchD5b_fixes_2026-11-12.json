@@ -1,0 +1,10 @@
+{
+ "597117": [
+  {
+   "old": "<section class=\"box-exercise\">\n<header>\n<span id=\"Exercise_.5C(.5CPageIndex.7B1.7D.5C)\"></span><div class=\"mt-section\"><h4 class=\"editable\">Exercise \\(\\PageIndex{1}\\)</h4>\n</div></header>\n\n<p>What compounds combine to form phosphate esters?</p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>phosphoric acids and alcohols</p></div></details></div>\n</section>",
+   "new": "<section class=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B1.7D.5C)\"></span><div class=\"mt-section\"><h4 class=\"box-legend editable\">Exercise \\(\\PageIndex{1}\\)</h4>\n\n<p>What compounds combine to form phosphate esters?</p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>phosphoric acids and alcohols</p></div></details></div>\n</div></section>",
+   "count": 1,
+   "note": "exercise box heading form (Exercise \\(\\PageIndex{1}\\))"
+  }
+ ]
+}
