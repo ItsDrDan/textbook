@@ -1,0 +1,700 @@
+{
+ "597058": [
+  {
+   "old": "3 bonds and 1 lone pair, it is bent",
+   "new": "2 bonds and 1 lone pair, it is bent",
+   "count": 1,
+   "note": "1.5 shapes caption"
+  },
+  {
+   "old": "4 bonds and 1 lone pair, it is trigonal pyramid",
+   "new": "3 bonds and 1 lone pair, it is trigonal pyramid",
+   "count": 1,
+   "note": "1.5"
+  },
+  {
+   "old": "4 bonds and 2 lone pairs, it is bent",
+   "new": "2 bonds and 2 lone pairs, it is bent",
+   "count": 1,
+   "note": "1.5"
+  }
+ ],
+ "597057": [
+  {
+   "old": "the nonpolar carbon dioxide becomes a gas at &minus;77&deg;C, almost 200&deg; lower than the temperature at which water boils",
+   "new": "the nonpolar carbon dioxide sublimes (goes straight from solid to gas) at &minus;78&deg;C, almost 180&deg; lower than the temperature at which water boils",
+   "count": 1,
+   "note": "1.4 CO2"
+  }
+ ],
+ "597055": [
+  {
+   "old": "except that hydrogen is almost never written first (H<sub>2</sub>O is the prominent exception)",
+   "new": "except that hydrogen is usually written first when it is bonded to oxygen, sulfur or a halogen (H<sub>2</sub>O, H<sub>2</sub>S, HCl)",
+   "count": 1,
+   "note": "1.2"
+  }
+ ],
+ "597059": [
+  {
+   "old": "Answer b</strong></dt>\n    <dd>\n    <p>This molecule has an alcohol functional group.</p>",
+   "new": "Answer b</strong></dt>\n    <dd>\n    <p>This molecule has an alcohol functional group and an amine (N&ndash;H) group.</p>",
+   "count": 1,
+   "note": "1.6 Ex answer b"
+  }
+ ],
+ "597060": [
+  {
+   "old": "It is fine to write the H's to the <em>left</em> of a carbon (HOCH<sub>2</sub>CH<sub>3</sub>) when that shows the bonds more clearly.",
+   "new": "It is fine to write a group in reverse at the left end of a formula, such as HO&ndash; in HOCH<sub>2</sub>CH<sub>3</sub>, when that shows the bonds more clearly.",
+   "count": 1,
+   "note": "1.7"
+  },
+  {
+   "old": "Organic molecules are shown four ways: molecular formula, Lewis (expanded) structure, condensed structural formula, and line (skeletal) structure.",
+   "new": "Organic molecules are drawn four ways: Lewis structure, expanded structural formula, condensed structural formula, and line (skeletal) structure.",
+   "count": 1,
+   "note": "1.7 summary"
+  },
+  {
+   "old": "\\ce{CH2CH2}",
+   "new": "\\ce{CH2=CH2}",
+   "count": 1,
+   "note": "1.7"
+  },
+  {
+   "old": "\\ce{CHCH}",
+   "new": "\\ce{HC#CH}",
+   "count": 1,
+   "note": "1.7"
+  },
+  {
+   "old": "\\ce{CH3CHCHCH2CH2CH2CH3}",
+   "new": "\\ce{CH3CH=CHCH2CH2CH2CH3}",
+   "count": 1,
+   "note": "1.7 Table 2"
+  },
+  {
+   "old": "\\ce{CH2CHCH3}",
+   "new": "\\ce{CH2=CHCH3}",
+   "count": 1,
+   "note": "1.7 Table 2"
+  },
+  {
+   "old": "\\ce{CHCCH3}",
+   "new": "\\ce{HC#CCH3}",
+   "count": 1,
+   "note": "1.7 Table 2"
+  }
+ ],
+ "597061": [
+  {
+   "old": "Because the fluorine atom has nine protons in its nucleus, it attracts the negatively charged electrons in the bond more than the hydrogen atom does with its one proton in its nucleus.",
+   "new": "Because fluorine is much more electronegative than hydrogen, it attracts the negatively charged electrons in the bond more strongly than the hydrogen atom does.",
+   "count": 1,
+   "note": "1.8"
+  },
+  {
+   "old": "methylamine possesses an &minus;NH group",
+   "new": "methylamine possesses an &minus;NH<sub>2</sub> group",
+   "count": 2,
+   "note": "1.8 Ex 2 + key"
+  }
+ ],
+ "597069": [
+  {
+   "old": "(counting from the <em>right</em> gives this carbon atom a lower number; rule 3)",
+   "new": "(counting from the <em>left</em> gives this carbon atom a lower number; rule 3)",
+   "count": 1,
+   "note": "2.5 Ex 1(c)"
+  }
+ ],
+ "597070": [
+  {
+   "old": ">125</td>",
+   "new": ">126</td>",
+   "count": 1,
+   "note": "2.6 Table 2.6.1 octane, match lecture 126"
+  }
+ ],
+ "597073": [
+  {
+   "old": "<li>ethylcyclohexane</li>\n</ol>\n",
+   "new": "<li>ethylcyclohexane</li>\n</ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>(a) Cycloheptane, C<sub>7</sub>H<sub>14</sub>: seven CH<sub>2</sub> groups joined in a ring, drawn in line form as a heptagon. (b) Ethylcyclohexane: a cyclohexane ring (hexagon) with one CH<sub>2</sub>CH<sub>3</sub> group attached to one ring carbon. No number is needed because there is only one substituent.</div></details></div>\n",
+   "count": 1,
+   "note": "2.9 Ex 1 answer (no key on page)"
+  }
+ ],
+ "597080": [
+  {
+   "old": "<caption>Boiling points and water solubility of six-carbon hydrocarbons</caption>",
+   "new": "<caption>Boiling points and water solubility of some hydrocarbons</caption>",
+   "count": 1,
+   "note": "3.3 table lists 7-, 8-, 10-C compounds"
+  }
+ ],
+ "597081": [
+  {
+   "old": "with H<sub>2</sub>O (H<sub>2</sub>SO<sub>4</sub> catalyst)</li>\n</ol>\n",
+   "new": "with H<sub>2</sub>O (H<sub>2</sub>SO<sub>4</sub> catalyst)</li>\n</ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>(a) CH<sub>3</sub>CH<sub>2</sub>CH=CH<sub>2</sub> + H<sub>2</sub> &rarr; CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> (butane). (b) CH<sub>3</sub>CH=CH<sub>2</sub> + Cl<sub>2</sub> &rarr; CH<sub>3</sub>CHClCH<sub>2</sub>Cl (1,2-dichloropropane). (c) CH<sub>3</sub>CH<sub>2</sub>CH=CHCH<sub>2</sub>CH<sub>3</sub> + H<sub>2</sub>O &rarr; CH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> (3-hexanol). The alkene is symmetric, so the OH can go on either double-bond carbon and gives the same product.</div></details></div>\n",
+   "count": 1,
+   "note": "3.4 Ex 1 answer"
+  },
+  {
+   "old": "<h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\">",
+   "new": "<h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p><strong>Exercise 3.4.1</strong></p><div>(a) CH<sub>3</sub>CH<sub>2</sub>CH=CH<sub>2</sub> + H<sub>2</sub> &rarr; CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> (butane). (b) CH<sub>3</sub>CH=CH<sub>2</sub> + Cl<sub>2</sub> &rarr; CH<sub>3</sub>CHClCH<sub>2</sub>Cl (1,2-dichloropropane). (c) CH<sub>3</sub>CH<sub>2</sub>CH=CHCH<sub>2</sub>CH<sub>3</sub> + H<sub>2</sub>O &rarr; CH<sub>3</sub>CH<sub>2</sub>CH(OH)CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> (3-hexanol). The alkene is symmetric, so the OH can go on either double-bond carbon and gives the same product.</div></div>\n<div class=\"answer-key-item\">",
+   "count": 1,
+   "note": "3.4 key"
+  }
+ ],
+ "597085": [
+  {
+   "old": "contain the same fused three-ring skeleton as phenanthrene, but in steroids the rings are saturated, not aromatic",
+   "new": "contain four fused rings: three six-membered rings joined like those of phenanthrene plus a five-membered ring, and in steroids the rings are saturated, not aromatic",
+   "count": 1,
+   "note": "3.8"
+  },
+  {
+   "old": "from <em>pheno</em>, an old name for benzene",
+   "new": "from <em>phene</em>, an old name for benzene",
+   "count": 1,
+   "note": "3.8"
+  }
+ ],
+ "597090": [
+  {
+   "old": "contains an oxygen atom or a nitrogen atom",
+   "new": "contains an oxygen atom or a sulfur atom",
+   "count": 1,
+   "note": "4.1 (table has thiols, no N family)"
+  }
+ ],
+ "597091": [
+  {
+   "old": "Alcohols with three or more carbons have constitutional isomers",
+   "new": "Alcohols with two or more carbons have constitutional isomers",
+   "count": 1,
+   "note": "4.2"
+  }
+ ],
+ "597092": [
+  {
+   "old": ">&ndash;164</td>",
+   "new": ">&ndash;162</td>",
+   "count": 1,
+   "note": "4.3 Table 1 methane bp"
+  }
+ ],
+ "597097": [
+  {
+   "old": "are barely soluble in water (8 g/100 mL of water)",
+   "new": "are only moderately soluble in water (about 8 g/100 mL of water)",
+   "count": 1,
+   "note": "4.8"
+  }
+ ],
+ "597099": [
+  {
+   "old": "only a tiny fraction of it (well under 1%) is ionized",
+   "new": "only a small fraction of it (about 1%) is ionized",
+   "count": 2,
+   "note": "4.10 Ex 8 + key"
+  }
+ ],
+ "597100": [
+  {
+   "old": "(actual values: &minus;1, 8, 97, and 188 &deg;C)",
+   "new": "(actual values: &minus;1, 7, 97, and 188 &deg;C)",
+   "count": 1,
+   "note": "4.11, ethyl methyl ether bp 7"
+  }
+ ],
+ "597101": [
+  {
+   "old": "(or methyl butyl ether)",
+   "new": "(or butyl methyl ether)",
+   "count": 2,
+   "note": "4.12 Cum 4.5 + key"
+  },
+  {
+   "old": "(bp &minus;25 &deg;C)",
+   "new": "(bp &minus;24 &deg;C)",
+   "count": 2,
+   "note": "4.12 Cum 4.1 + key, match 4.3/4.8"
+  }
+ ],
+ "597103": [
+  {
+   "old": "\\ce{2Ag(NH3)2^{+}(aq) -&gt; RCOO^{-} +}",
+   "new": "\\ce{2Ag(NH3)2^{+}(aq) + 3OH^{-}(aq) -&gt; RCOO^{-} +}",
+   "count": 1,
+   "note": "5.2 Tollens balanced"
+  },
+  {
+   "old": "<td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">6</td>",
+   "new": "<td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">7</td>",
+   "count": 1,
+   "note": "5.2 table ethyl methyl ether"
+  },
+  {
+   "old": "(ethyl methyl ether, 6 &deg;C)",
+   "new": "(ethyl methyl ether, 7 &deg;C)",
+   "count": 1,
+   "note": "5.2 lecture"
+  }
+ ],
+ "597105": [
+  {
+   "old": "\\ce{CH3CH2OH + Cr2O7^{2-}(reddish orange) -&gt;[H2SO4 + H2O] CH3COOH + Cr^{3+}(green)}",
+   "new": "\\ce{3CH3CH2OH + 2Cr2O7^{2-}(reddish orange) + 16H+ -&gt; 3CH3COOH + 4Cr^{3+}(green) + 11H2O}",
+   "count": 1,
+   "note": "5.4 dichromate balanced"
+  },
+  {
+   "old": "Antabuse drugs inhibit aldehyde dehydrogenase from converting acetaldehyde to acetic acid",
+   "new": "Disulfiram (Antabuse) blocks aldehyde dehydrogenase, so acetaldehyde is not converted to acetic acid",
+   "count": 1,
+   "note": "5.4"
+  },
+  {
+   "old": "\\ce{2[Ag(NH3)2]OH + R-CHO -&gt; 2Ag(s) + 4NH3 + R-COOH + H2O}\\nonumber \\]</p>",
+   "new": "\\ce{2[Ag(NH3)2]OH + R-CHO -&gt; 2Ag(s) + 4NH3 + R-COOH + H2O}\\nonumber \\]</p>\n\n<p>(In the basic reagent the acid is present as its carboxylate salt, RCOO<sup>&minus;</sup>.)</p>",
+   "count": 1,
+   "note": "5.4 Tollens vs table"
+  }
+ ],
+ "597043": [
+  {
+   "old": "Red blood cells live about three months",
+   "new": "Red blood cells live about four months (120 days)",
+   "count": 1,
+   "note": "Ch 5 opener"
+  }
+ ],
+ "597108": [
+  {
+   "old": "Glucose does exactly this with itself to form its ring (Chapter 8)",
+   "new": "Glucose does step (a), the hemiacetal step, with itself to form its ring (Chapter 8)",
+   "count": 2,
+   "note": "5.7 Cum 5.2 + key"
+  }
+ ],
+ "597109": [
+  {
+   "old": "is built on the same two-atom unit: a carbon double-bonded to an oxygen with one more bond available.",
+   "new": "is built on the same unit: a carbon double-bonded to an oxygen and bonded to an R group, with one more bond available.",
+   "count": 1,
+   "note": "6.1"
+  }
+ ],
+ "597111": [
+  {
+   "old": "(about 1.0 g/100 g of water)",
+   "new": "(about 1.1 g/100 g of water)",
+   "count": 1,
+   "note": "6.3 match Table 6.3.1"
+  }
+ ],
+ "597113": [
+  {
+   "old": "Carboxylic acids have <strong>no positional isomers</strong>, since the COOH is always C1;",
+   "new": "The COOH group itself has <strong>no positional isomers</strong>, since it is always C1 (other substituents on the chain can still move);",
+   "count": 1,
+   "note": "6.5 vs 6.12 Problem 6.65(e)"
+  },
+  {
+   "old": "the name of the acyl group (RCOO) with the",
+   "new": "the name of the acid part (RCOO&ndash;, the acyl group plus its oxygen) with the",
+   "count": 1,
+   "note": "6.5"
+  }
+ ],
+ "597115": [
+  {
+   "old": "Esterification is the first <strong>condensation</strong> reaction of the course:",
+   "new": "Esterification is the first <strong>condensation</strong> reaction you write in full in this course (acetal formation in Section 5.3 was a preview):",
+   "count": 1,
+   "note": "6.7"
+  }
+ ],
+ "597118": [
+  {
+   "old": "HA + H<sub>2</sub>O &rarr; A<sup>&minus;</sup>",
+   "new": "HA + H<sub>2</sub>O &#8652; A<sup>&minus;</sup>",
+   "count": 1,
+   "note": "6.10 equilibrium arrow"
+  },
+  {
+   "old": "R&ndash;NH<sub>2</sub> + H<sub>2</sub>O &rarr; R&ndash;NH<sub>3</sub><sup>+</sup>",
+   "new": "R&ndash;NH<sub>2</sub> + H<sub>2</sub>O &#8652; R&ndash;NH<sub>3</sub><sup>+</sup>",
+   "count": 1,
+   "note": "6.10"
+  }
+ ],
+ "597120": [
+  {
+   "old": "(186 &deg;C versus 99 &deg;C",
+   "new": "(187 &deg;C versus 99 &deg;C",
+   "count": 2,
+   "note": "6.12 P6.54(b) + key"
+  }
+ ],
+ "597122": [
+  {
+   "old": "<td>213 (mp 79)</td>",
+   "new": "<td>213 (mp 81)</td>",
+   "count": 1,
+   "note": "7.2 match Table 7.5.1"
+  }
+ ],
+ "597045": [
+  {
+   "old": "Lidocaine and articaine are amides and benzocaine is an ester, and the amine in each one is why it is sold as a water-soluble hydrochloride salt.",
+   "new": "Lidocaine and articaine are amides and benzocaine is an ester. The basic amine in lidocaine and articaine is why each is sold as a water-soluble hydrochloride salt; benzocaine&rsquo;s aromatic amine is too weak a base, so it is used only topically.",
+   "count": 1,
+   "note": "Ch 7 opener vs P7.54(d)"
+  }
+ ],
+ "597123": [
+  {
+   "old": " (its bitter taste is also used to discourage nail biting)",
+   "new": "",
+   "count": 1,
+   "note": "7.3"
+  }
+ ],
+ "597127": [
+  {
+   "old": "Carboxylic Acid and Amide</a>",
+   "new": "Carboxylic Acid and Amine</a>",
+   "count": 1,
+   "note": "7.7 video chapter link (YouTube title too)"
+  }
+ ],
+ "597129": [
+  {
+   "old": "Examples of these drugs include nicotine, morphine, codeine, and heroin. The plant produces these substances",
+   "new": "Examples of these drugs include nicotine, morphine, and codeine; heroin is made from morphine in the lab. The plant produces these alkaloids",
+   "count": 1,
+   "note": "7.9"
+  },
+  {
+   "old": "Figure \\(\\PageIndex{1}\\): Nicotine, morphine, codeine, and heroin are alkaloids.",
+   "new": "Figure \\(\\PageIndex{1}\\): Nicotine, morphine, and codeine are plant alkaloids; heroin is made from morphine.",
+   "count": 1,
+   "note": "7.9 caption"
+  }
+ ],
+ "597138": [
+  {
+   "old": "Yes for the three monosaccharides and the right-hand unit of maltose",
+   "new": "Yes for the two monosaccharides (glucose and fructose) and the right-hand unit of maltose",
+   "count": 1,
+   "note": "8.5"
+  }
+ ],
+ "597140": [
+  {
+   "old": "&alpha;(1&rarr;4) chains of about 24&ndash;30 units",
+   "new": "&alpha;(1&rarr;4) chains of about 25&ndash;30 units",
+   "count": 1,
+   "note": "8.7 one range"
+  }
+ ],
+ "597142": [
+  {
+   "old": "Our digestive enzymes (amylases) break only &alpha; glycosidic bonds, so the &beta;(1&rarr;4) links in cellulose pass through",
+   "new": "Our starch-digesting enzymes (amylases) break only &alpha; glycosidic bonds, and we have no enzyme for the &beta;(1&rarr;4) glucose&ndash;glucose links in cellulose, so they pass through",
+   "count": 1,
+   "note": "8.9 P8.4"
+  }
+ ],
+ "597145": [
+  {
+   "old": "laurate (C(=O)(CH2)12CH3)",
+   "new": "myristate (C(=O)(CH2)12CH3)",
+   "count": 1,
+   "note": "9.2 Fig 9.2.3 alt"
+  }
+ ],
+ "597147": [
+  {
+   "old": "especially abundant in the brain and nerves, in the white matter of the myelin sheath,",
+   "new": "especially abundant in the white matter of the brain and in the myelin sheath,",
+   "count": 1,
+   "note": "9.4"
+  }
+ ],
+ "597149": [
+  {
+   "old": "(240 g is a typical amount)",
+   "new": "(an adult body contains roughly 35 g)",
+   "count": 1,
+   "note": "9.6"
+  }
+ ],
+ "597151": [
+  {
+   "old": "70 &deg;C",
+   "new": "69 &deg;C",
+   "count": 4,
+   "note": "9.8 Cum 9.2 + key, match 9.1"
+  }
+ ],
+ "597155": [
+  {
+   "old": "which has lost a negative charge (Glu &rarr; Val)",
+   "new": "which has lost two negative charges (one Glu &rarr; Val in each &beta; chain)",
+   "count": 1,
+   "note": "10.2 vs 10.12"
+  },
+  {
+   "old": "<td data-th=\"pI\" style=\"text-align:center;\">9.8</td>",
+   "new": "<td data-th=\"pI\" style=\"text-align:center;\">9.7</td>",
+   "count": 1,
+   "note": "10.2 lysine pI"
+  },
+  {
+   "old": "lysine about 9.7&ndash;9.8",
+   "new": "lysine about 9.7",
+   "count": 1,
+   "note": "10.2 tip"
+  }
+ ],
+ "597159": [
+  {
+   "old": "HbS carries one less negative charge than HbA",
+   "new": "HbS carries two fewer negative charges than HbA (one per &beta; chain)",
+   "count": 1,
+   "note": "10.6"
+  }
+ ],
+ "597165": [
+  {
+   "old": "Isoelectric points of three amino acids (for the questions below)",
+   "new": "Isoelectric points of four amino acids (for the question below)",
+   "count": 1,
+   "note": "10.12 P10.59"
+  }
+ ],
+ "597166": [
+  {
+   "old": "&mdash;for enzyme classification&mdash;",
+   "new": "&mdash;for Enzyme Commission&mdash;",
+   "count": 1,
+   "note": "11.1"
+  }
+ ],
+ "597167": [
+  {
+   "old": "\\[S + E \\rightarrow E&ndash;S",
+   "new": "\\[S + E \\rightleftharpoons E&ndash;S",
+   "count": 1,
+   "note": "11.2 Eq 1"
+  },
+  {
+   "old": "form the type of interaction you just identified.</li>\n</ol>\n</div></section>",
+   "new": "form the type of interaction you just identified.</li>\n</ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>(a) A negatively charged COO<sup>&minus;</sup> group would form an ionic attraction (a salt bridge) with a positively charged group in the active site. (b) Lysine or arginine, whose side chains carry a positive charge (&ndash;NH<sub>3</sub><sup>+</sup> or a protonated guanidino group) at physiological pH.</div></details></div>\n</div></section>",
+   "count": 1,
+   "note": "11.2 Ex 1 answer"
+  }
+ ],
+ "597168": [
+  {
+   "old": "You will test all four variables in Experiment 13.",
+   "new": "In Experiment 13 you will test three of them (enzyme concentration, temperature and pH), plus an inhibitor.",
+   "count": 1,
+   "note": "11.3"
+  },
+  {
+   "old": "which gives you every curve on this page from your own data",
+   "new": "which gives you most of the curves on this page from your own data",
+   "count": 1,
+   "note": "11.3 In the Lab"
+  }
+ ],
+ "597170": [
+  {
+   "old": "Needed to make the zymogens (inactive precursors) of prothrombin and other blood-clotting factors",
+   "new": "Needed to make prothrombin and the other blood-clotting zymogens (inactive precursors)",
+   "count": 1,
+   "note": "11.5 vit K"
+  },
+  {
+   "old": "an antioxidant and a clotting cofactor.",
+   "new": "an antioxidant and a helper in blood clotting.",
+   "count": 1,
+   "note": "11.5 cofactor rule"
+  }
+ ],
+ "597173": [
+  {
+   "old": "an antioxidant, and a clotting cofactor.",
+   "new": "an antioxidant, and a helper in blood clotting.",
+   "count": 1,
+   "note": "11.8"
+  }
+ ],
+ "597180": [
+  {
+   "old": "with death usually occurring before the age of three",
+   "new": "with death usually occurring by about age four",
+   "count": 1,
+   "note": "12.7 Tay-Sachs (NINDS)"
+  },
+  {
+   "old": "know PKU, sickle cell disease, cystic fibrosis and Tay&ndash;Sachs disease.",
+   "new": "know PKU, sickle cell disease and Tay&ndash;Sachs disease, plus cystic fibrosis (described under mutations below).",
+   "count": 1,
+   "note": "12.7 CF not in table"
+  }
+ ],
+ "597188": [
+  {
+   "old": "\\overset{|}{C}}=\\overset{\\LARGE&nbsp;H}{\\overset{|}{C}}RR'}_{Double bond}}",
+   "new": "\\overset{|}{C}}-\\overset{\\LARGE&nbsp;H}{\\overset{|}{C}}RR'}_{Single bond}}",
+   "count": 1,
+   "note": "13.1 FADH2/FAD pair"
+  },
+  {
+   "old": "but it contains about 1 g of \\(\\ce{ATP}\\) at a time.",
+   "new": "but it contains only a small pool, roughly 50&ndash;250 g, of \\(\\ce{ATP}\\) at any moment.",
+   "count": 1,
+   "note": "13.1 ATP pool (estimates vary)"
+  },
+  {
+   "old": "the reverse of photosynthesis happens in the digestion of glucose",
+   "new": "the reverse of photosynthesis happens in the oxidation (catabolism) of glucose",
+   "count": 1,
+   "note": "13.1"
+  },
+  {
+   "old": "Use the Latin roots and",
+   "new": "Use the Greek roots and",
+   "count": 1,
+   "note": "13.1"
+  }
+ ],
+ "597198": [
+  {
+   "old": "Latin roots:",
+   "new": "Greek roots:",
+   "count": 1,
+   "note": "13.10"
+  }
+ ],
+ "597199": [
+  {
+   "old": "Use the Latin roots.",
+   "new": "Use the Greek roots.",
+   "count": 1,
+   "note": "13.11 P13.65"
+  }
+ ],
+ "597194": [
+  {
+   "old": "Both start from glucose-6-phosphate in the cytosol.",
+   "new": "Both run in the cytosol. Glycolysis starts from glucose; the PPP branches off at glucose-6-phosphate.",
+   "count": 2,
+   "note": "13.6 Ex 4 + key"
+  }
+ ],
+ "597203": [
+  {
+   "old": "\\(\\ce{NADH}\\) and \\(\\ce{FADH}\\) are transported",
+   "new": "\\(\\ce{NADH}\\) and \\(\\ce{FADH2}\\) are transported",
+   "count": 1,
+   "note": "14.4"
+  },
+  {
+   "old": "reduce \\(\\ce{O}\\) into",
+   "new": "reduce \\(\\ce{O2}\\) into",
+   "count": 1,
+   "note": "14.4"
+  },
+  {
+   "old": "This is the only place in the body where you actually &ldquo;use&rdquo; the oxygen you breathe.",
+   "new": "This is where you actually &ldquo;use&rdquo; nearly all of the oxygen you breathe.",
+   "count": 1,
+   "note": "14.4"
+  }
+ ],
+ "597205": [
+  {
+   "old": "Chapter 13 covered Stages 1 and 2; this chapter is Stage 3, oxidation.",
+   "new": "Chapter 13 covered Stage 1 and most of Stage 2; this chapter finishes Stage 2 (pyruvate &rarr; acetyl CoA) and then covers Stage 3, oxidation.",
+   "count": 1,
+   "note": "14.6 match 14.1"
+  }
+ ],
+ "597210": [
+  {
+   "old": "as shown in reactions 1 and 2, respectively, in Figure \\(\\PageIndex{1}\\).",
+   "new": "as described in Section 15.8.",
+   "count": 1,
+   "note": "15.10 moved figure"
+  },
+  {
+   "old": "as shown in reactions 1 and 3 in Figure \\(\\PageIndex{1}\\).",
+   "new": "as shown in Figure 15.8.1.",
+   "count": 1,
+   "note": "15.10 moved figure"
+  }
+ ],
+ "597213": [
+  {
+   "old": "Once low potassium has been ruled out, potassium is added to the IV fluids to replace this key electrolyte.",
+   "new": "Low potassium must be ruled out (or corrected) before insulin is started, because insulin drives potassium into cells; once the potassium level is not high and the patient is making urine, potassium is added to the IV fluids to replace this key electrolyte.",
+   "count": 1,
+   "note": "15.5 DKA"
+  },
+  {
+   "old": "after two to three days of fasting the brain, which cannot burn fatty acids, gets most of its energy from ketone bodies,",
+   "new": "the brain, which cannot burn fatty acids, starts using ketone bodies after two to three days of fasting and gets most of its energy from them after several weeks of starvation,",
+   "count": 1,
+   "note": "15.5"
+  }
+ ],
+ "597216": [
+  {
+   "old": "2 NH<sub>3</sub> (ammonia) + CO<sub>2</sub> + 3 ATP + H<sub>2</sub>O &rarr; H<sub>2</sub>N-CO-NH<sub>2</sub> (urea) + 2 ADP + 4 P<sub>i</sub> + AMP.",
+   "new": "NH<sub>4</sub><sup>+</sup> + HCO<sub>3</sub><sup>&minus;</sup> + aspartate + 3 ATP + 2 H<sub>2</sub>O &rarr; H<sub>2</sub>N-CO-NH<sub>2</sub> (urea) + fumarate + 2 ADP + AMP + 4 P<sub>i</sub>. One nitrogen comes from ammonium and the other from aspartate.",
+   "count": 1,
+   "note": "15.9 match table"
+  },
+  {
+   "old": "the same hydrolysis arginase performs in the liver",
+   "new": "a hydrolysis, the same reaction type as the arginase step that makes urea in the liver",
+   "count": 1,
+   "note": "15.9 urease"
+  },
+  {
+   "old": "where uric acid crystals accumulate in the joints, as illustrated in Figure \\(\\PageIndex{2}\\).",
+   "new": "where uric acid crystals accumulate in the joints.",
+   "count": 1,
+   "note": "15.9 gout photo not on page"
+  },
+  {
+   "old": "<p>Figure \\(\\PageIndex{2}\\): Gout causes the inflammation visible in this person&rsquo;s left big toe joint. (credit: &quot;Gonzosft&quot;/Wikimedia Commons)</p>\n",
+   "new": "",
+   "count": 1,
+   "note": "15.9 orphan caption"
+  }
+ ],
+ "597219": [
+  {
+   "old": "A person recovering from surgery is expected to be in positive nitrogen balance",
+   "new": "A person who is eating well and regaining strength in the weeks after surgery is expected to be in positive nitrogen balance",
+   "count": 1,
+   "note": "15.13 P15.9"
+  }
+ ],
+ "488232": [
+  {
+   "old": "giving a carboxylic acid and an alcohol (or amine).",
+   "new": "giving a carboxylic acid and an alcohol (from an ester) or an ammonium salt (from an amide).",
+   "count": 1,
+   "note": "Glossary"
+  }
+ ]
+}
