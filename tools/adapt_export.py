@@ -105,7 +105,7 @@ for ch, items in SETS.items():
     zn = os.path.join(OUT, f'CHEM3B_Ch{ch:02d}_{re.sub(r"[^A-Za-z]+", "_", NAMES[ch]).strip("_")}_QTI.zip')
     with zipfile.ZipFile(zn, 'w', zipfile.ZIP_DEFLATED) as z:
         meta = (f'<?xml version="1.0" encoding="UTF-8"?>\n<quiz identifier="{aid}" xmlns="http://canvas.instructure.com/xsd/cccv1p0"><title>{esc(title)}</title>'
-                f'<description>Homework for Chapter {ch} of Introductory Organic and Biological Chemistry for FCC (LibreTexts). Questions by Dr. Dan (Daniel Kwasniewski), CC BY-NC-SA 4.0.</description>'
+                f'<description>Homework for Chapter {ch} of Introductory Organic and Biological Chemistry for FCC (LibreTexts). Questions by Daniel Kwasniewski, CC BY 4.0.</description>'
                 f'<quiz_type>assignment</quiz_type><points_possible>{len(items)}</points_possible></quiz>')
         z.writestr('imsmanifest.xml', manifest); z.writestr(f'{aid}/{aid}.xml', qti); z.writestr(f'{aid}/assessment_meta.xml', meta)
     for x in items:
