@@ -1,0 +1,104 @@
+{
+ "597054": [
+  {
+   "old": "<section class=\"box-exercise\">\n<header>\n<span id=\"Exercise_.5C(.5CPageIndex.7B2.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"editable\">Exercise \\(\\PageIndex{2}\\)</h5>\n</div></header>\n\n<p>Examine the Lewis structure of NCl<sub>3</sub> below. Count the number of bonds formed by each element. Based on the element's location in the periodic table, does it correspond to the expected number of bonds shown in Figure \\(\\PageIndex{1}\\)? Does the Lewis structure below follow the octet rule?</p>\n\n<p><img alt=\"Lewis structure of NCl3: a central N with one lone pair bonded by single dashes to three Cl atoms, each Cl with three lone pairs.\" class=\"internal\" src=\"/@api/deki/files/240220/NCl3.jpg\" fileid=\"240220\" /></p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>Both Cl and N form the expected number of bonds. Cl (group 7A) has one bond and 3 lone pairs. The central atom N (group 5A) has 3 bonds and one lone pair. Yes, the Lewis structure of NCl<sub>3</sub> follows the octet rule.</p></div></details></div>\n</section>",
+   "new": "<section class=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B2.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{2}\\)</h5>\n\n<p>Examine the Lewis structure of NCl<sub>3</sub> below. Count the number of bonds formed by each element. Based on the element's location in the periodic table, does it correspond to the expected number of bonds shown in Figure \\(\\PageIndex{1}\\)? Does the Lewis structure below follow the octet rule?</p>\n\n<p><img alt=\"Lewis structure of NCl3: a central N with one lone pair bonded by single dashes to three Cl atoms, each Cl with three lone pairs.\" class=\"internal\" src=\"/@api/deki/files/240220/NCl3.jpg\" fileid=\"240220\" /></p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>Both Cl and N form the expected number of bonds. Cl (group 7A) has one bond and 3 lone pairs. The central atom N (group 5A) has 3 bonds and one lone pair. Yes, the Lewis structure of NCl<sub>3</sub> follows the octet rule.</p></div></details></div>\n</div></section>",
+   "count": 1,
+   "note": "exercise box heading form (Exercise \\(\\PageIndex{2}\\))"
+  }
+ ],
+ "597056": [
+  {
+   "old": "<section class=\"box-exercise\">\n<header>\n<span id=\"Exercise_.5C(.5CPageIndex.7B2.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"editable\">Exercise \\(\\PageIndex{2}\\)</h5>\n</div></header>\n\n<p>Which is the correct Lewis structure for NOCl?</p>\n\n<p>A. <img alt=\"Option A for NOCl: O dash N dash Cl with three lone pairs on O, three on Cl and one on N.\" height=\"37px\" width=\"133px\" class=\"internal\" src=\"/@api/deki/files/275088/clipboard_e9439fa492888c049f914ff5b3e781a6e.png\" fileid=\"275088\" /></p>\n\n<p>B. <img alt=\"Option B for NOCl: O dash N double bond Cl with three lone pairs on O, three on Cl and one on N.\" height=\"34px\" width=\"132px\" class=\"internal\" src=\"/@api/deki/files/275087/clipboard_ef77f8312077d9294f374b57a0b738f1a.png\" fileid=\"275087\" /></p>\n\n<p>C. <img alt=\"Option C for NOCl: O double bond N dash Cl with two lone pairs on O, three on Cl and one on N.\" height=\"35px\" width=\"127px\" class=\"internal\" src=\"/@api/deki/files/275089/clipboard_edacf733ae0583f03e05485c0c6fbd293.png\" fileid=\"275089\" /></p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>Structure A violates the octet rule; N is surrounded by only 6e<sup>-</sup>.</p>\n\n    <p>Structure B violates the octet rule; Cl has 10e<sup>- </sup>around it. Furthermore, there are a total of 20e<sup>- </sup>instead of 18e<sup>-</sup>.</p>\n\n    <p>Structure C is the correct structure. It has a total of 6e<sup>-</sup> + 5e<sup>-</sup> + 7e<sup>-</sup> = 18e<sup>-</sup>. Each atom is surrounded by 8 electrons (octet rule).</p></div></details></div>\n</section>",
+   "new": "<section class=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B2.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{2}\\)</h5>\n\n<p>Which is the correct Lewis structure for NOCl?</p>\n\n<p>A. <img alt=\"Option A for NOCl: O dash N dash Cl with three lone pairs on O, three on Cl and one on N.\" height=\"37px\" width=\"133px\" class=\"internal\" src=\"/@api/deki/files/275088/clipboard_e9439fa492888c049f914ff5b3e781a6e.png\" fileid=\"275088\" /></p>\n\n<p>B. <img alt=\"Option B for NOCl: O dash N double bond Cl with three lone pairs on O, three on Cl and one on N.\" height=\"34px\" width=\"132px\" class=\"internal\" src=\"/@api/deki/files/275087/clipboard_ef77f8312077d9294f374b57a0b738f1a.png\" fileid=\"275087\" /></p>\n\n<p>C. <img alt=\"Option C for NOCl: O double bond N dash Cl with two lone pairs on O, three on Cl and one on N.\" height=\"35px\" width=\"127px\" class=\"internal\" src=\"/@api/deki/files/275089/clipboard_edacf733ae0583f03e05485c0c6fbd293.png\" fileid=\"275089\" /></p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>Structure A violates the octet rule; N is surrounded by only 6e<sup>-</sup>.</p>\n\n    <p>Structure B violates the octet rule; Cl has 10e<sup>- </sup>around it. Furthermore, there are a total of 20e<sup>- </sup>instead of 18e<sup>-</sup>.</p>\n\n    <p>Structure C is the correct structure. It has a total of 6e<sup>-</sup> + 5e<sup>-</sup> + 7e<sup>-</sup> = 18e<sup>-</sup>. Each atom is surrounded by 8 electrons (octet rule).</p></div></details></div>\n</div></section>",
+   "count": 1,
+   "note": "exercise box heading form (Exercise \\(\\PageIndex{2}\\))"
+  }
+ ],
+ "597058": [
+  {
+   "old": "<section class=\"box-exercise\">\n<header>\n<span id=\"Exercise_.5C(.5CPageIndex.7B1.7D.5C)_2\"></span><div class=\"mt-section\"><h5 class=\"editable\">Exercise \\(\\PageIndex{1}\\)</h5>\n</div></header>\n\n<p>What is the molecular shape of nitrosyl chloride, a highly corrosive, reddish-orange gas? Its Lewis structure is shown below.</p>\n\n<p><img alt=\"Lewis structure of nitrosyl chloride, NOCl: O double bond N dash Cl, with two lone pairs on O, one lone pair on N and three lone pairs on Cl.\" class=\"internal\" src=\"/@api/deki/files/294084/clipboard_e7d2ade87d477bdd8794c20512012676e.png\" fileid=\"294084\" /></p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>Focus on the central atom, N. It has a double bond to O, count this as one bond. It also has a single bond to Cl. Thus, N has 2 bonds and one lone pair. These 3 electron pairs will spread out 120 degrees from each other. But, since the shape is defined by the arrangement of the atoms only, the shape is bent or angular. If you consult Table 1.5.1, this molecule is equivalent to the below. Hence, two bonds and one lone pair has a <em>bent or angular</em> shape.</p>\n\n    <p><img alt=\"Generic bent or angular shape: central atom A with a yellow lone-pair balloon on top and two X atoms below, with the angle marked as less than 120 degrees; labeled 'Bent or angular'.\" class=\"internal\" src=\"/@api/deki/files/294094/clipboard_e275fe6c17864e78d32abc3fcacbf7846.png\" fileid=\"294094\" /></p></div></details></div>\n</section>",
+   "new": "<section class=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B1.7D.5C)_2\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{1}\\)</h5>\n\n<p>What is the molecular shape of nitrosyl chloride, a highly corrosive, reddish-orange gas? Its Lewis structure is shown below.</p>\n\n<p><img alt=\"Lewis structure of nitrosyl chloride, NOCl: O double bond N dash Cl, with two lone pairs on O, one lone pair on N and three lone pairs on Cl.\" class=\"internal\" src=\"/@api/deki/files/294084/clipboard_e7d2ade87d477bdd8794c20512012676e.png\" fileid=\"294084\" /></p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>Focus on the central atom, N. It has a double bond to O, count this as one bond. It also has a single bond to Cl. Thus, N has 2 bonds and one lone pair. These 3 electron pairs will spread out 120 degrees from each other. But, since the shape is defined by the arrangement of the atoms only, the shape is bent or angular. If you consult Table 1.5.1, this molecule is equivalent to the below. Hence, two bonds and one lone pair has a <em>bent or angular</em> shape.</p>\n\n    <p><img alt=\"Generic bent or angular shape: central atom A with a yellow lone-pair balloon on top and two X atoms below, with the angle marked as less than 120 degrees; labeled 'Bent or angular'.\" class=\"internal\" src=\"/@api/deki/files/294094/clipboard_e275fe6c17864e78d32abc3fcacbf7846.png\" fileid=\"294094\" /></p></div></details></div>\n</div></section>",
+   "count": 1,
+   "note": "exercise box heading form (Exercise \\(\\PageIndex{1}\\))"
+  }
+ ],
+ "597061": [
+  {
+   "old": "<section class=\"box-exercise\">\n<header>\n<span id=\"Exercise_.5C(.5CPageIndex.7B1.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"editable\">Exercise \\(\\PageIndex{1}\\)</h5>\n</div></header>\n\n<p>Predict which will have the higher boiling point: \\(\\ce{ICl}\\) or \\(\\ce{Br2}\\). Explain your reasoning.</p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>ICl. ICl and Br<sub>2</sub> have similar masses (~160 amu) and therefore experience similar London dispersion forces. ICl is polar and thus also exhibits dipole-dipole attractions; Br<sub>2</sub> is nonpolar and does not. The relatively stronger dipole-dipole attractions require more energy to overcome, so ICl will have the higher boiling point.</p></div></details></div>\n</section>",
+   "new": "<section class=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B1.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{1}\\)</h5>\n\n<p>Predict which will have the higher boiling point: \\(\\ce{ICl}\\) or \\(\\ce{Br2}\\). Explain your reasoning.</p>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>ICl. ICl and Br<sub>2</sub> have similar masses (~160 amu) and therefore experience similar London dispersion forces. ICl is polar and thus also exhibits dipole-dipole attractions; Br<sub>2</sub> is nonpolar and does not. The relatively stronger dipole-dipole attractions require more energy to overcome, so ICl will have the higher boiling point.</p></div></details></div>\n</div></section>",
+   "count": 1,
+   "note": "exercise box heading form (Exercise \\(\\PageIndex{1}\\))"
+  },
+  {
+   "old": "<section class=\"box-exercise\">\n<header>\n<span id=\"Exercise_.5C(.5CPageIndex.7B3.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"editable\">Exercise \\(\\PageIndex{3}\\)</h5>\n</div></header>\n\n<p>Order the following hydrocarbons from lowest to highest boiling point: C<sub>2</sub>H<sub>6</sub>, C<sub>3</sub>H<sub>8</sub>, and C<sub>4</sub>H<sub>10</sub>.</p>\n\n<dl>\n</dl>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>All of these compounds are nonpolar and only have London dispersion forces: the larger the molecule, the larger the dispersion forces and the higher the boiling point. The ordering from lowest to highest boiling point is therefore</p>\n\n    <p class=\"mt-align-center\">C<sub>2</sub>H<sub>6</sub> &lt; C<sub>3</sub>H<sub>8</sub> &lt; C<sub>4</sub>H<sub>10</sub>.</p></div></details></div>\n</section>",
+   "new": "<section class=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B3.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{3}\\)</h5>\n\n<p>Order the following hydrocarbons from lowest to highest boiling point: C<sub>2</sub>H<sub>6</sub>, C<sub>3</sub>H<sub>8</sub>, and C<sub>4</sub>H<sub>10</sub>.</p>\n\n<dl>\n</dl>\n\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><p>All of these compounds are nonpolar and only have London dispersion forces: the larger the molecule, the larger the dispersion forces and the higher the boiling point. The ordering from lowest to highest boiling point is therefore</p>\n\n    <p class=\"mt-align-center\">C<sub>2</sub>H<sub>6</sub> &lt; C<sub>3</sub>H<sub>8</sub> &lt; C<sub>4</sub>H<sub>10</sub>.</p></div></details></div>\n</div></section>",
+   "count": 1,
+   "note": "exercise box heading form (Exercise \\(\\PageIndex{3}\\))"
+  }
+ ],
+ "597060": [
+  {
+   "old": "<table class=\"mt-responsive-table\"><caption>Four ways to draw the same molecule</caption>\n<thead><tr><th>Lewis structure</th><th>Expanded structural formula</th><th>Condensed structural formula</th><th>Line (skeletal) structure</th></tr></thead>\n<tbody>\n<tr><td><img class=\"internal\" alt=\"Lewis structure of propan-1-ol: three carbons in a chain, each with hydrogens, the last carbon bonded to an oxygen that carries two lone pairs and one hydrogen\" width=\"218\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512418/fig-p597060-1.svg\" fileid=\"512418\" /></td><td><img class=\"internal\" alt=\"Expanded structural formula of propan-1-ol showing every C-H, C-C, C-O and O-H bond as a line\" width=\"218\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512419/fig-p597060-2.svg\" fileid=\"512419\" /></td><td style=\"font-size:1.15em;vertical-align:middle;\">CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH<br /><small>or CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>OH</small></td><td><img class=\"internal\" alt=\"Line (skeletal) structure of propan-1-ol: a zigzag of three carbons ending in OH\" width=\"141\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512420/fig-p597060-3.svg\" fileid=\"512420\" /></td></tr>\n<tr><td>Every bond <em>and</em> every lone pair. Use it to count electrons or find a charge.</td><td>Every bond as a line; lone pairs left off.</td><td>Each carbon with its attached hydrogens; C&ndash;C bonds understood. A branch goes in parentheses after the carbon that carries it.</td><td>Carbons at every corner and end, unlabeled; hydrogens on carbon not drawn. Other atoms, and any H on them, are written in.</td></tr>\n</tbody>\n",
+   "new": "<table class=\"mt-responsive-table\"><caption>Four ways to draw the same molecule</caption>\n<thead><tr><th>Lewis structure</th><th>Expanded structural formula</th><th>Condensed structural formula</th><th>Line (skeletal) structure</th></tr></thead>\n<tbody>\n<tr><td><img class=\"internal\" alt=\"Lewis structure of propan-1-ol: three carbons in a chain, each with hydrogens, the last carbon bonded to an oxygen that carries two lone pairs and one hydrogen\" width=\"160\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512418/fig-p597060-1.svg\" fileid=\"512418\" /></td><td><img class=\"internal\" alt=\"Expanded structural formula of propan-1-ol showing every C-H, C-C, C-O and O-H bond as a line\" width=\"160\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512419/fig-p597060-2.svg\" fileid=\"512419\" /></td><td style=\"font-size:1.15em;vertical-align:middle;\">CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>OH<br /><small>or CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>OH</small></td><td><img class=\"internal\" alt=\"Line (skeletal) structure of propan-1-ol: a zigzag of three carbons ending in OH\" width=\"104\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512420/fig-p597060-3.svg\" fileid=\"512420\" /></td></tr>\n<tr><td>Every bond <em>and</em> every lone pair. Use it to count electrons or find a charge.</td><td>Every bond as a line; lone pairs left off.</td><td>Each carbon with its attached hydrogens; C&ndash;C bonds understood. A branch goes in parentheses after the carbon that carries it.</td><td>Carbons at every corner and end, unlabeled; hydrogens on carbon not drawn. Other atoms, and any H on them, are written in.</td></tr>\n</tbody>\n",
+   "count": 1,
+   "note": "1.7 Four ways table: smaller structure images so all four columns fit in print"
+  }
+ ],
+ "597166": [
+  {
+   "old": "class=\"internal\" src=\"/@api/deki/files/25927/Table.jpg\" fileid=\"25927\" />",
+   "new": "class=\"internal\" width=\"440\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/25927/Table.jpg\" fileid=\"25927\" />",
+   "count": 1,
+   "note": "Table 11.1.2 reaction image width"
+  }
+ ],
+ "597074": [
+  {
+   "old": "<p style=\"margin:.8em 0 .2em\"><strong>",
+   "new": "<p style=\"margin:.8em 0 .2em;page-break-after:avoid;break-after:avoid\"><strong>",
+   "count": 2,
+   "note": "drawn-example label stays with its drawing"
+  }
+ ],
+ "597086": [
+  {
+   "old": "<p style=\"margin:.8em 0 .2em\"><strong>",
+   "new": "<p style=\"margin:.8em 0 .2em;page-break-after:avoid;break-after:avoid\"><strong>",
+   "count": 8,
+   "note": "drawn-example label stays with its drawing"
+  }
+ ],
+ "597100": [
+  {
+   "old": "<p style=\"margin:.8em 0 .2em\"><strong>",
+   "new": "<p style=\"margin:.8em 0 .2em;page-break-after:avoid;break-after:avoid\"><strong>",
+   "count": 7,
+   "note": "drawn-example label stays with its drawing"
+  }
+ ],
+ "597107": [
+  {
+   "old": "<p style=\"margin:.8em 0 .2em\"><strong>",
+   "new": "<p style=\"margin:.8em 0 .2em;page-break-after:avoid;break-after:avoid\"><strong>",
+   "count": 5,
+   "note": "drawn-example label stays with its drawing"
+  }
+ ],
+ "597119": [
+  {
+   "old": "<p style=\"margin:.8em 0 .2em\"><strong>",
+   "new": "<p style=\"margin:.8em 0 .2em;page-break-after:avoid;break-after:avoid\"><strong>",
+   "count": 4,
+   "note": "drawn-example label stays with its drawing"
+  }
+ ],
+ "597132": [
+  {
+   "old": "<p style=\"margin:.8em 0 .2em\"><strong>",
+   "new": "<p style=\"margin:.8em 0 .2em;page-break-after:avoid;break-after:avoid\"><strong>",
+   "count": 4,
+   "note": "drawn-example label stays with its drawing"
+  }
+ ]
+}
