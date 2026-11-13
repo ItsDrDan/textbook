@@ -1,0 +1,692 @@
+{
+ "597060": [
+  {
+   "old": "bond (\\(\\ce{C&equiv;C}\\)) bond are called alkynes",
+   "new": "bond (\\(\\ce{C&equiv;C}\\)) are called alkynes",
+   "count": 1,
+   "note": "1.7 doubled bond"
+  },
+  {
+   "old": "All three structural formulas are shown in Figure",
+   "new": "All three structural formulas shown in Figure",
+   "count": 1,
+   "note": "1.7 extra 'are'"
+  },
+  {
+   "old": "a chain of 5 \\(\\ce{C's}\\), by adding one line to represent a chain of 6 \\(\\ce{C's}\\) by adding two lines",
+   "new": "a chain of 5 \\(\\ce{C's}\\) by adding one line, a chain of 6 \\(\\ce{C's}\\) by adding two lines",
+   "count": 1,
+   "note": "1.7 n-alkane chain sentence"
+  },
+  {
+   "old": "n-butane ((\\(\\ce{CH3CH2CH2CH3}\\))",
+   "new": "n-butane (\\(\\ce{CH3CH2CH2CH3}\\))",
+   "count": 1,
+   "note": "1.7 doubled paren"
+  },
+  {
+   "old": "at least one \\(\\ce{C}\\) connected with three",
+   "new": "at least one \\(\\ce{C}\\) is connected to three",
+   "count": 1,
+   "note": "1.7 missing verb"
+  },
+  {
+   "old": "is a branched-chain alkane</li>",
+   "new": "is a branched-chain alkane.</li>",
+   "count": 1,
+   "note": "1.7 missing period"
+  },
+  {
+   "old": "= (\\(\\ce{C_{4}H_{4\\times{2} + 2} = C4H10}\\).",
+   "new": "= \\(\\ce{C_{4}H_{4\\times{2} + 2} = C4H10}\\).",
+   "count": 1,
+   "note": "1.7 Ex1 unmatched paren"
+  },
+  {
+   "old": "eth-means two",
+   "new": "eth- means two",
+   "count": 1,
+   "note": "1.7 Ex2 spacing"
+  },
+  {
+   "old": "are white color in the models))</caption>",
+   "new": "are white in the models)</caption>",
+   "count": 1,
+   "note": "1.7 Table 1 caption"
+  }
+ ],
+ "597061": [
+  {
+   "old": "similar shape and structure Figure \\(\\PageIndex{11}\\)</p>",
+   "new": "similar shape and structure (Figure \\(\\PageIndex{11}\\)).</p>",
+   "count": 1,
+   "note": "1.8 fig ref parens"
+  }
+ ],
+ "597057": [
+  {
+   "old": "nonpolar. (Figure \\(\\PageIndex{7}\\)) is a comparison",
+   "new": "nonpolar. Figure \\(\\PageIndex{7}\\) is a comparison",
+   "count": 1,
+   "note": "1.4 parens around subject"
+  }
+ ],
+ "597056": [
+  {
+   "old": "<li>In HCN, six electrons placed on N</li>",
+   "new": "<li>In HCN, six electrons are placed on N.</li>",
+   "count": 1,
+   "note": "1.3 missing verb"
+  },
+  {
+   "old": "total valence of 10e<sup>-</sup>is reached",
+   "new": "total valence of 10e<sup>-</sup> is reached",
+   "count": 1,
+   "note": "1.3 missing space"
+  }
+ ],
+ "597054": [
+  {
+   "old": "<li>To apply the octet rule to covalent compounds</li>",
+   "new": "<li>To apply the octet rule to covalent compounds.</li>",
+   "count": 1,
+   "note": "1.1 LO period"
+  }
+ ],
+ "597059": [
+  {
+   "old": "from the U.S. food supply",
+   "new": "from the US food supply",
+   "count": 1,
+   "note": "1.6 US consistency"
+  }
+ ],
+ "597067": [
+  {
+   "old": "(<a title=\"2.2: Structures and Names of Alkanes\" href=\"/@go/page/597066\">the table in Section 2.2</a> from the previous section has",
+   "new": "(<a title=\"2.2: Structures and Names of Alkanes\" href=\"/@go/page/597066\">The table in Section 2.2</a> has",
+   "count": 1,
+   "note": "2.3 redundant 'from the previous section'; capitalize"
+  }
+ ],
+ "597066": [
+  {
+   "old": "(C<sub>3</sub>H<sub>8</sub>) and they are shown again",
+   "new": "(C<sub>3</sub>H<sub>8</sub>)&mdash;and they are shown again",
+   "count": 1,
+   "note": "2.2 close dash"
+  }
+ ],
+ "597069": [
+  {
+   "old": "<strong>recognize only</strong> in this course",
+   "new": "<strong>recognize-only</strong> in this course",
+   "count": 1,
+   "note": "2.5 hyphenate"
+  }
+ ],
+ "597098": [
+  {
+   "old": "have the form general formula",
+   "new": "have the general formula",
+   "count": 1,
+   "note": "4.9 extra 'form'"
+  },
+  {
+   "old": "An example is dimethylsulfide (",
+   "new": "An example is dimethyl sulfide (",
+   "count": 1,
+   "note": "4.9 spelling"
+  },
+  {
+   "old": "(also called methyl mercaptan), has the formula",
+   "new": "(also called methyl mercaptan) has the formula",
+   "count": 1,
+   "note": "4.9 comma"
+  }
+ ],
+ "597106": [
+  {
+   "old": "<strong>Enantiomers. </strong></p>",
+   "new": "<strong>enantiomers</strong>.</p>",
+   "count": 1,
+   "note": "5.5 lowercase"
+  },
+  {
+   "old": "mirror images -a hand and",
+   "new": "mirror images: a hand and",
+   "count": 1,
+   "note": "5.5 Fig 3 caption"
+  }
+ ],
+ "597105": [
+  {
+   "old": "<p>If \\(\\ce{C=C}\\)-bond and a \\(\\ce{C=O}\\)-bond are present",
+   "new": "<p>If a \\(\\ce{C=C}\\) bond and a \\(\\ce{C=O}\\) bond are present",
+   "count": 1,
+   "note": "5.4 grammar"
+  },
+  {
+   "old": "The reduction and oxidation reactions are coupled, called <strong>redox</strong> reactions. Electrons' loss or gain is easily recognized",
+   "new": "Reduction and oxidation always occur together and are called <strong>redox</strong> reactions. The loss or gain of electrons is easily recognized",
+   "count": 1,
+   "note": "5.4 grammar"
+  }
+ ],
+ "597104": [
+  {
+   "old": "two \\(\\ce{-O-R}\\)-groups bonded",
+   "new": "two \\(\\ce{-O-R}\\) groups bonded",
+   "count": 1,
+   "note": "5.3 hyphen"
+  },
+  {
+   "old": "Glycoside linkages connect",
+   "new": "Glycosidic linkages connect",
+   "count": 1,
+   "note": "5.3 glycosidic"
+  }
+ ],
+ "597103": [
+  {
+   "old": "<p>Aldehydes are the active components in many other familiar substances. Large quantities",
+   "new": "<p>Large quantities",
+   "count": 1,
+   "note": "5.2 duplicate sentence removed"
+  }
+ ],
+ "597096": [
+  {
+   "old": "<span class=\"mw-mmv-title\">An operation in 1753, painted by Gaspare Traversi, of a surgery before </span>antiseptics were used.",
+   "new": "<span class=\"mw-mmv-title\">An operation painted by Gaspare Traversi in 1753, before </span>antiseptics were used.",
+   "count": 1,
+   "note": "4.7 caption grammar"
+  },
+  {
+   "old": "uses of some phenols</li>",
+   "new": "uses of some phenols.</li>",
+   "count": 1,
+   "note": "objective final period"
+  }
+ ],
+ "597091": [
+  {
+   "old": "<abbr title=\"The International Union of Pure and Applied Chemistry\">IUPAC</abbr> names</li>",
+   "new": "<abbr title=\"The International Union of Pure and Applied Chemistry\">IUPAC</abbr> names.</li>",
+   "count": 1,
+   "note": "objective final period"
+  }
+ ],
+ "597093": [
+  {
+   "old": "prepare alcohols from alkenes</span></li>",
+   "new": "prepare alcohols from alkenes.</span></li>",
+   "count": 1,
+   "note": "objective final period"
+  }
+ ],
+ "597119": [
+  {
+   "old": "(Saponification) Hydrolysis</strong> (17:48)",
+   "new": "(Saponification)</strong> (17:48)",
+   "count": 1,
+   "note": "video title trailing word"
+  },
+  {
+   "old": "(acid&ndash;base): Neutralization: the base",
+   "new": "(acid&ndash;base): the base",
+   "count": 1,
+   "note": "doubled label"
+  }
+ ],
+ "597118": [
+  {
+   "old": "general formula of an acid-conjugate acid-base pair",
+   "new": "general formula of a conjugate acid-base pair",
+   "count": 1,
+   "note": "conjugate pair wording"
+  },
+  {
+   "old": "negative charge groups on it",
+   "new": "negative charged groups on it",
+   "count": 1,
+   "note": "charged groups"
+  }
+ ],
+ "597114": [
+  {
+   "old": "isomeric carboxylic acids counterparts",
+   "new": "isomeric carboxylic acid counterparts",
+   "count": 1,
+   "note": "acid counterparts"
+  }
+ ],
+ "597132": [
+  {
+   "old": "(hydrolysis): Hydrolysis of an amide: water breaks",
+   "new": "(acid): water breaks",
+   "count": 1,
+   "note": "redundant label"
+  }
+ ],
+ "597127": [
+  {
+   "old": "16:31 Summary and others ways",
+   "new": "16:31 Summary and other ways",
+   "count": 1,
+   "note": "others->other"
+  }
+ ],
+ "597145": [
+  {
+   "old": "glyceryl triplemitoleate",
+   "new": "glyceryl tripalmitoleate",
+   "count": 1,
+   "note": "spelling"
+  },
+  {
+   "old": "do not have the bend in their structures, which occurs in <em>cis</em> fatty acids and thus pack closely",
+   "new": "do not have the bend that occurs in <em>cis</em> fatty acids, and thus they pack closely",
+   "count": 1,
+   "note": "grammar"
+  }
+ ],
+ "597149": [
+  {
+   "old": "fatty acids, is recommended to help",
+   "new": "fatty acids, are recommended to help",
+   "count": 1,
+   "note": "agreement"
+  },
+  {
+   "old": "\\(\\PageIndex{1}\\) Steroids.",
+   "new": "\\(\\PageIndex{1}\\): Steroids.",
+   "count": 1,
+   "note": "caption colon"
+  },
+  {
+   "old": "\\(\\PageIndex{3}\\) Bile Acids.",
+   "new": "\\(\\PageIndex{3}\\): Bile Acids.",
+   "count": 1,
+   "note": "caption colon"
+  }
+ ],
+ "597146": [
+  {
+   "old": "and Indian cobra contains",
+   "new": "and Indian cobras contains",
+   "count": 1,
+   "note": "plural"
+  },
+  {
+   "old": "may damage the alveoli, and lead to hypoxia",
+   "new": "may damage the alveoli, and may lead to hypoxia",
+   "count": 1,
+   "note": "parallelism"
+  }
+ ],
+ "597138": [
+  {
+   "old": "tablet test (the older Clinitest)",
+   "new": "tablet test (Clinitest)",
+   "count": 1,
+   "note": "doubled older"
+  }
+ ],
+ "597140": [
+  {
+   "old": "registered dietician",
+   "new": "registered dietitian",
+   "count": 1,
+   "note": "spelling"
+  }
+ ],
+ "597159": [
+  {
+   "old": "primary amide ((\\(\\ce{-CONH2}\\)).",
+   "new": "primary amide (\\(\\ce{-CONH2}\\)).",
+   "count": 1,
+   "note": "doubled paren"
+  },
+  {
+   "old": "block the blood flow -a medical condition called sickle cell anemia, illustrated in The Figure on the right.",
+   "new": "block blood flow, a medical condition called sickle cell anemia, illustrated in the figure on the right.",
+   "count": 1,
+   "note": "punctuation/case"
+  }
+ ],
+ "597160": [
+  {
+   "old": "Figure \\(\\PageIndex{1}\\). below and described",
+   "new": "Figure \\(\\PageIndex{1}\\) below and described",
+   "count": 1,
+   "note": "stray period"
+  },
+  {
+   "old": "hydroxyl (\\(\\ce{-OH}\\) group installed",
+   "new": "hydroxyl (\\(\\ce{-OH}\\)) group installed",
+   "count": 1,
+   "note": "close paren"
+  },
+  {
+   "old": "as illustrated in the model shown on the left</p>",
+   "new": "as illustrated in the model shown on the left.</p>",
+   "count": 1,
+   "note": "final period"
+  },
+  {
+   "old": "acquires a conformation to achieve:</p>",
+   "new": "acquires a conformation that:</p>",
+   "count": 1,
+   "note": "list grammar"
+  },
+  {
+   "old": "<li>maximize hydrogen bonding",
+   "new": "<li>maximizes hydrogen bonding",
+   "count": 1,
+   "note": "list grammar"
+  },
+  {
+   "old": "<li>minimize the steric-strain",
+   "new": "<li>minimizes the steric strain",
+   "count": 1,
+   "note": "list grammar"
+  }
+ ],
+ "597163": [
+  {
+   "old": "For example, cooking food and sterilizing surgical instruments by autoclave treatment.",
+   "new": "Examples are cooking food and sterilizing surgical instruments in an autoclave.",
+   "count": 1,
+   "note": "fragment"
+  }
+ ],
+ "597171": [
+  {
+   "old": "inhibit formation of products B, and subsequently product C, and D.",
+   "new": "inhibit formation of product B, and subsequently of products C and D.",
+   "count": 1,
+   "note": "grammar"
+  }
+ ],
+ "597158": [
+  {
+   "old": "X ray",
+   "new": "X-ray",
+   "count": 2,
+   "note": "X-ray"
+  }
+ ],
+ "597172": [
+  {
+   "old": "Glucagon or epinephrine raise cAMP, activate a protein kinase, and phosphorylate both enzymes",
+   "new": "Glucagon or epinephrine raises cAMP, which activates a protein kinase that phosphorylates both enzymes",
+   "count": 1,
+   "note": "caption grammar"
+  }
+ ],
+ "597179": [
+  {
+   "old": "notably Har Khorana,",
+   "new": "notably Har Gobind Khorana,",
+   "count": 1,
+   "note": "full name"
+  },
+  {
+   "old": "four stages of translation <strong>activation",
+   "new": "four stages of translation: <strong>activation",
+   "count": 1,
+   "note": "12.6 colon"
+  },
+  {
+   "old": "(in this illustration, cys.) (Figure",
+   "new": "(in this illustration, Cys). (Figure",
+   "count": 1,
+   "note": "12.6 fig2a Cys"
+  },
+  {
+   "old": "codes for met-pro-arg-val-asp.",
+   "new": "codes for Met-Pro-Arg-Val-Asp.",
+   "count": 1,
+   "note": "12.6 example1 capitalization"
+  }
+ ],
+ "597188": [
+  {
+   "old": "via Wikvia Wikimedians</em>",
+   "new": "via Wikimedia Commons</em>",
+   "count": 1,
+   "note": "credit typo"
+  },
+  {
+   "old": "transform of electrons</h3>",
+   "new": "transfer of electrons</h3>",
+   "count": 1,
+   "note": "transform->transfer"
+  },
+  {
+   "old": "adenosine monophosphate (\\(\\ce{AMP}\\)</p>",
+   "new": "adenosine monophosphate (\\(\\ce{AMP}\\)).</p>",
+   "count": 1,
+   "note": "13.1 close AMP paren"
+  },
+  {
+   "old": "i.e., \\(\\ce{2H^{+}}\\) + \\(\\ce{2e^{-}}\\)). (Public domain)",
+   "new": "i.e., \\(\\ce{2H^{+}}\\) + \\(\\ce{2e^{-}}\\). (Public domain)",
+   "count": 1,
+   "note": "13.1 fig2 stray paren"
+  },
+  {
+   "old": "redox reactions or it involves carbonyl (\\(\\ce{C=O}\\)) group in food catabolism .",
+   "new": "redox reactions, i.e., it involves the carbonyl (\\(\\ce{C=O}\\)) group in food catabolism.",
+   "count": 1,
+   "note": "13.1 carbonyl sentence"
+  },
+  {
+   "old": "less electronegative atom, i.e., The addition",
+   "new": "less electronegative atom, i.e., the addition",
+   "count": 1,
+   "note": "13.1 lowercase the"
+  },
+  {
+   "old": "The reverse of these is reductions.",
+   "new": "The reverse of each is a reduction.",
+   "count": 1,
+   "note": "13.1 reverse grammar"
+  },
+  {
+   "old": "mitochondrion -the sites",
+   "new": "mitochondrion, the sites",
+   "count": 1,
+   "note": "13.1 objectives dash"
+  },
+  {
+   "old": "<h3 class=\"editable\">ATP -the energy",
+   "new": "<h3 class=\"editable\">ATP&mdash;the energy",
+   "count": 1,
+   "note": "13.1 heading dash"
+  },
+  {
+   "old": "(\\(\\ce{CoA}\\)) -the agent",
+   "new": "(\\(\\ce{CoA}\\))&mdash;the agent",
+   "count": 1,
+   "note": "13.1 heading dash"
+  }
+ ],
+ "597193": [
+  {
+   "old": "which is also energy consuming phase in which a six \\(\\ce{C's}\\) glucose",
+   "new": "which is also the energy-consuming phase, in which six-carbon glucose",
+   "count": 1,
+   "note": "13.5 grammar"
+  }
+ ],
+ "597178": [
+  {
+   "old": "codons on mRNA at the corresponding",
+   "new": "codons on mRNA and the corresponding",
+   "count": 1,
+   "note": "12.4 fig4 caption"
+  }
+ ],
+ "597185": [
+  {
+   "old": "the similar codons UGA is a stop codon and UGU",
+   "new": "the similar codon UGA is a stop codon, and UGU",
+   "count": 1,
+   "note": "12.11 P12.35"
+  }
+ ],
+ "597182": [
+  {
+   "old": "<strong>The recombinant HIV protein</strong> tests the presence of antibodies",
+   "new": "<strong>Recombinant HIV proteins</strong> are used in tests for antibodies",
+   "count": 1,
+   "note": "12.9 HIV"
+  },
+  {
+   "old": "a short synthetic DNA called primer to the selected&nbsp;segment to be amplified",
+   "new": "short synthetic DNA pieces called primers that match the ends of the segment to be amplified",
+   "count": 1,
+   "note": "12.9 primers"
+  },
+  {
+   "old": "from E. coli, are isolated first.",
+   "new": "from E. coli, is isolated first.",
+   "count": 1,
+   "note": "12.9 agreement"
+  },
+  {
+   "old": "<p>The human genome project, which",
+   "new": "<p>The Human Genome Project, which",
+   "count": 1,
+   "note": "12.9 HGP capitalization"
+  }
+ ],
+ "597209": [
+  {
+   "old": "with two \\(\\ce{2C's}\\) less than",
+   "new": "with two \\(\\ce{C's}\\) fewer than",
+   "count": 1,
+   "note": "15.4 doubled two"
+  },
+  {
+   "old": "\\(\\ce{CH3CO-S-COA}\\)",
+   "new": "\\(\\ce{CH3CO-S-CoA}\\)",
+   "count": 1,
+   "note": "15.4 CoA"
+  },
+  {
+   "old": "\\(\\ce{C'}\\), reaction 1",
+   "new": "\\(\\ce{C's}\\), reaction 1",
+   "count": 1,
+   "note": "15.4 C's"
+  },
+  {
+   "old": "\\(\\ce{C'}\\), It goes through",
+   "new": "\\(\\ce{C's}\\), it goes through",
+   "count": 1,
+   "note": "15.4 C's + lowercase"
+  },
+  {
+   "old": "\\(\\ce{C'}\\) before reaction 2",
+   "new": "\\(\\ce{C's}\\) before reaction 2",
+   "count": 1,
+   "note": "15.4 C's"
+  },
+  {
+   "old": "\\(\\ce{nC's}\\) become the following",
+   "new": "\\(\\ce{nC's}\\) becomes the following",
+   "count": 1,
+   "note": "15.4 becomes"
+  },
+  {
+   "old": "Like insulin regulates blood glucose, <strong>leptin</strong> is a hormone adipose tissues produce. Leptin governs",
+   "new": "Just as insulin regulates blood glucose, <strong>leptin</strong>, a hormone made by adipose tissue, governs",
+   "count": 1,
+   "note": "15.4 leptin"
+  },
+  {
+   "old": "Like diabetes disturbs the function of insulin,",
+   "new": "Just as diabetes disturbs the function of insulin,",
+   "count": 1,
+   "note": "15.4 just as"
+  }
+ ],
+ "597203": [
+  {
+   "old": "\\(\\ce{ATP's}\\). the reduced coenzymes",
+   "new": "\\(\\ce{ATP's}\\). The reduced coenzymes",
+   "count": 1,
+   "note": "14.4 capitalize"
+  },
+  {
+   "old": "Since oxidation \\(\\ce{FADH2}\\)",
+   "new": "Since oxidation of \\(\\ce{FADH2}\\)",
+   "count": 1,
+   "note": "14.4 of"
+  },
+  {
+   "old": "chain comprising of complexes",
+   "new": "chain comprising complexes",
+   "count": 1,
+   "note": "14.4 comprising"
+  }
+ ],
+ "597202": [
+  {
+   "old": "three carboxylates (\\(\\ce{-COO^{-}}\\)) groups",
+   "new": "three carboxylate (\\(\\ce{-COO^{-}}\\)) groups",
+   "count": 1,
+   "note": "14.3 carboxylate"
+  },
+  {
+   "old": "involves the replacing a thioester",
+   "new": "involves replacing a thioester",
+   "count": 1,
+   "note": "14.3 replacing"
+  },
+  {
+   "old": "\\!\\!-R'}\\) to thioester",
+   "new": "\\!\\!-R'}\\)) to thioester",
+   "count": 1,
+   "note": "14.3 missing paren"
+  },
+  {
+   "old": "-S-R&quot;}\\)) conversions produce \\(\\ce{NADH}\\).",
+   "new": "-S-R&quot;}\\)) conversion. These oxidations produce \\(\\ce{NADH}\\).",
+   "count": 1,
+   "note": "14.3 split run-on"
+  }
+ ],
+ "597210": [
+  {
+   "old": "<h2 class=\"editable\">processing of \\(\\ce{C}\\) skeleton of amino acids</h2>",
+   "new": "<h2 class=\"editable\">Processing the Carbon Skeleton</h2>",
+   "count": 1,
+   "note": "15.10 heading"
+  },
+  {
+   "old": "is produced by oxaloacetate transamination, which is an intermediate in the citric acid cycle.",
+   "new": "is produced by transamination of oxaloacetate, a citric acid cycle intermediate.",
+   "count": 1,
+   "note": "15.10 grammar"
+  }
+ ],
+ "597211": [
+  {
+   "old": "highest lipid to protein ratio, have the lowest-density, are",
+   "new": "highest lipid to protein ratio and the lowest density, are",
+   "count": 1,
+   "note": "15.1 grammar"
+  }
+ ],
+ "597216": [
+  {
+   "old": "ornithine transcarbamylase catalyzes",
+   "new": "ornithine transcarbamoylase catalyzes",
+   "count": 1,
+   "note": "15.9 spelling"
+  }
+ ]
+}

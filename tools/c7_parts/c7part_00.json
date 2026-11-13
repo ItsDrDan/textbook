@@ -1,0 +1,233 @@
+{
+ "edits": [
+  {
+   "page": "597060",
+   "old": "bond (\\(\\ce{C&equiv;C}\\)) bond are called alkynes",
+   "new": "bond (\\(\\ce{C&equiv;C}\\)) are called alkynes",
+   "count": 1,
+   "note": "1.7 doubled bond"
+  },
+  {
+   "page": "597060",
+   "old": "All three structural formulas are shown in Figure",
+   "new": "All three structural formulas shown in Figure",
+   "count": 1,
+   "note": "1.7 extra 'are'"
+  },
+  {
+   "page": "597060",
+   "old": "a chain of 5 \\(\\ce{C's}\\), by adding one line to represent a chain of 6 \\(\\ce{C's}\\) by adding two lines",
+   "new": "a chain of 5 \\(\\ce{C's}\\) by adding one line, a chain of 6 \\(\\ce{C's}\\) by adding two lines",
+   "count": 1,
+   "note": "1.7 n-alkane chain sentence"
+  },
+  {
+   "page": "597060",
+   "old": "n-butane ((\\(\\ce{CH3CH2CH2CH3}\\))",
+   "new": "n-butane (\\(\\ce{CH3CH2CH2CH3}\\))",
+   "count": 1,
+   "note": "1.7 doubled paren"
+  },
+  {
+   "page": "597060",
+   "old": "at least one \\(\\ce{C}\\) connected with three",
+   "new": "at least one \\(\\ce{C}\\) is connected to three",
+   "count": 1,
+   "note": "1.7 missing verb"
+  },
+  {
+   "page": "597060",
+   "old": "is a branched-chain alkane</li>",
+   "new": "is a branched-chain alkane.</li>",
+   "count": 1,
+   "note": "1.7 missing period"
+  },
+  {
+   "page": "597060",
+   "old": "= (\\(\\ce{C_{4}H_{4\\times{2} + 2} = C4H10}\\).",
+   "new": "= \\(\\ce{C_{4}H_{4\\times{2} + 2} = C4H10}\\).",
+   "count": 1,
+   "note": "1.7 Ex1 unmatched paren"
+  },
+  {
+   "page": "597060",
+   "old": "eth-means two",
+   "new": "eth- means two",
+   "count": 1,
+   "note": "1.7 Ex2 spacing"
+  },
+  {
+   "page": "597060",
+   "old": "are white color in the models))</caption>",
+   "new": "are white in the models)</caption>",
+   "count": 1,
+   "note": "1.7 Table 1 caption"
+  },
+  {
+   "page": "597061",
+   "old": "similar shape and structure Figure \\(\\PageIndex{11}\\)</p>",
+   "new": "similar shape and structure (Figure \\(\\PageIndex{11}\\)).</p>",
+   "count": 1,
+   "note": "1.8 fig ref parens"
+  },
+  {
+   "page": "597057",
+   "old": "nonpolar. (Figure \\(\\PageIndex{7}\\)) is a comparison",
+   "new": "nonpolar. Figure \\(\\PageIndex{7}\\) is a comparison",
+   "count": 1,
+   "note": "1.4 parens around subject"
+  },
+  {
+   "page": "597056",
+   "old": "<li>In HCN, six electrons placed on N</li>",
+   "new": "<li>In HCN, six electrons are placed on N.</li>",
+   "count": 1,
+   "note": "1.3 missing verb"
+  },
+  {
+   "page": "597056",
+   "old": "total valence of 10e<sup>-</sup>is reached",
+   "new": "total valence of 10e<sup>-</sup> is reached",
+   "count": 1,
+   "note": "1.3 missing space"
+  },
+  {
+   "page": "597054",
+   "old": "<li>To apply the octet rule to covalent compounds</li>",
+   "new": "<li>To apply the octet rule to covalent compounds.</li>",
+   "count": 1,
+   "note": "1.1 LO period"
+  },
+  {
+   "page": "597059",
+   "old": "from the U.S. food supply",
+   "new": "from the US food supply",
+   "count": 1,
+   "note": "1.6 US consistency"
+  },
+  {
+   "page": "597067",
+   "old": "(<a title=\"2.2: Structures and Names of Alkanes\" href=\"/@go/page/597066\">the table in Section 2.2</a> from the previous section has",
+   "new": "(<a title=\"2.2: Structures and Names of Alkanes\" href=\"/@go/page/597066\">The table in Section 2.2</a> has",
+   "count": 1,
+   "note": "2.3 redundant 'from the previous section'; capitalize"
+  },
+  {
+   "page": "597066",
+   "old": "(C<sub>3</sub>H<sub>8</sub>) and they are shown again",
+   "new": "(C<sub>3</sub>H<sub>8</sub>)&mdash;and they are shown again",
+   "count": 1,
+   "note": "2.2 close dash"
+  },
+  {
+   "page": "597069",
+   "old": "<strong>recognize only</strong> in this course",
+   "new": "<strong>recognize-only</strong> in this course",
+   "count": 1,
+   "note": "2.5 hyphenate"
+  },
+  {
+   "page": "597098",
+   "old": "have the form general formula",
+   "new": "have the general formula",
+   "count": 1,
+   "note": "4.9 extra 'form'"
+  },
+  {
+   "page": "597098",
+   "old": "An example is dimethylsulfide (",
+   "new": "An example is dimethyl sulfide (",
+   "count": 1,
+   "note": "4.9 spelling"
+  },
+  {
+   "page": "597098",
+   "old": "(also called methyl mercaptan), has the formula",
+   "new": "(also called methyl mercaptan) has the formula",
+   "count": 1,
+   "note": "4.9 comma"
+  },
+  {
+   "page": "597106",
+   "old": "<strong>Enantiomers. </strong></p>",
+   "new": "<strong>enantiomers</strong>.</p>",
+   "count": 1,
+   "note": "5.5 lowercase"
+  },
+  {
+   "page": "597106",
+   "old": "mirror images -a hand and",
+   "new": "mirror images: a hand and",
+   "count": 1,
+   "note": "5.5 Fig 3 caption"
+  },
+  {
+   "page": "597105",
+   "old": "<p>If \\(\\ce{C=C}\\)-bond and a \\(\\ce{C=O}\\)-bond are present",
+   "new": "<p>If a \\(\\ce{C=C}\\) bond and a \\(\\ce{C=O}\\) bond are present",
+   "count": 1,
+   "note": "5.4 grammar"
+  },
+  {
+   "page": "597105",
+   "old": "The reduction and oxidation reactions are coupled, called <strong>redox</strong> reactions. Electrons' loss or gain is easily recognized",
+   "new": "Reduction and oxidation always occur together and are called <strong>redox</strong> reactions. The loss or gain of electrons is easily recognized",
+   "count": 1,
+   "note": "5.4 grammar"
+  },
+  {
+   "page": "597104",
+   "old": "two \\(\\ce{-O-R}\\)-groups bonded",
+   "new": "two \\(\\ce{-O-R}\\) groups bonded",
+   "count": 1,
+   "note": "5.3 hyphen"
+  },
+  {
+   "page": "597104",
+   "old": "Glycoside linkages connect",
+   "new": "Glycosidic linkages connect",
+   "count": 1,
+   "note": "5.3 glycosidic"
+  },
+  {
+   "page": "597103",
+   "old": "<p>Aldehydes are the active components in many other familiar substances. Large quantities",
+   "new": "<p>Large quantities",
+   "count": 1,
+   "note": "5.2 duplicate sentence removed"
+  },
+  {
+   "page": "597096",
+   "old": "<span class=\"mw-mmv-title\">An operation in 1753, painted by Gaspare Traversi, of a surgery before </span>antiseptics were used.",
+   "new": "<span class=\"mw-mmv-title\">An operation painted by Gaspare Traversi in 1753, before </span>antiseptics were used.",
+   "count": 1,
+   "note": "4.7 caption grammar"
+  }
+ ],
+ "skipped": [
+  {
+   "line": "- 597270 About, Valley Connection list | \"10.10 heat illness in outdoor workers;",
+   "reason": "list reordering (moving an entry) is beyond a typo fix"
+  },
+  {
+   "line": "- 597062 1.9 Video Lessons list | \"Electronegativity and Polarity (Part II: Pola",
+   "reason": "video retitling; needs check against actual video titles"
+  },
+  {
+   "line": "- 597057 1.4 Figure 3 | \"<figcaption>&nbsp;. (Figure from The Basics of General,",
+   "reason": "already fixed (no stray figcaption; credit is in Figure 3 caption)"
+  },
+  {
+   "line": "- 597061 1.8 \"Molecule in the Clinic\" image | alt=\"…an NH&amp;ndash;C(=O)&amp;nd",
+   "reason": "already fixed (alt uses single-encoded &ndash;)"
+  },
+  {
+   "line": "- 597061 1.8 Figure 11 caption | \"so-called “complementary base pairs.”. (Figure",
+   "reason": "already fixed (no doubled period)"
+  },
+  {
+   "line": "- 597105 5.4 | \"Antabuse drugs inhibit aldehyde dehydrogenase from converting ac",
+   "reason": "already fixed (now 'Disulfiram (Antabuse) blocks aldehyde dehydrogenase...')"
+  }
+ ]
+}

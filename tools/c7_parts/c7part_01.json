@@ -1,0 +1,256 @@
+{
+ "edits": [
+  {
+   "page": "597091",
+   "old": "<abbr title=\"The International Union of Pure and Applied Chemistry\">IUPAC</abbr> names</li>",
+   "new": "<abbr title=\"The International Union of Pure and Applied Chemistry\">IUPAC</abbr> names.</li>",
+   "count": 1,
+   "note": "objective final period"
+  },
+  {
+   "page": "597093",
+   "old": "prepare alcohols from alkenes</span></li>",
+   "new": "prepare alcohols from alkenes.</span></li>",
+   "count": 1,
+   "note": "objective final period"
+  },
+  {
+   "page": "597096",
+   "old": "uses of some phenols</li>",
+   "new": "uses of some phenols.</li>",
+   "count": 1,
+   "note": "objective final period"
+  },
+  {
+   "page": "597119",
+   "old": "(Saponification) Hydrolysis</strong> (17:48)",
+   "new": "(Saponification)</strong> (17:48)",
+   "count": 1,
+   "note": "video title trailing word"
+  },
+  {
+   "page": "597118",
+   "old": "general formula of an acid-conjugate acid-base pair",
+   "new": "general formula of a conjugate acid-base pair",
+   "count": 1,
+   "note": "conjugate pair wording"
+  },
+  {
+   "page": "597118",
+   "old": "negative charge groups on it",
+   "new": "negative charged groups on it",
+   "count": 1,
+   "note": "charged groups"
+  },
+  {
+   "page": "597114",
+   "old": "isomeric carboxylic acids counterparts",
+   "new": "isomeric carboxylic acid counterparts",
+   "count": 1,
+   "note": "acid counterparts"
+  },
+  {
+   "page": "597119",
+   "old": "(acid&ndash;base): Neutralization: the base",
+   "new": "(acid&ndash;base): the base",
+   "count": 1,
+   "note": "doubled label"
+  },
+  {
+   "page": "597132",
+   "old": "(hydrolysis): Hydrolysis of an amide: water breaks",
+   "new": "(acid): water breaks",
+   "count": 1,
+   "note": "redundant label"
+  },
+  {
+   "page": "597127",
+   "old": "16:31 Summary and others ways",
+   "new": "16:31 Summary and other ways",
+   "count": 1,
+   "note": "others->other"
+  },
+  {
+   "page": "597145",
+   "old": "glyceryl triplemitoleate",
+   "new": "glyceryl tripalmitoleate",
+   "count": 1,
+   "note": "spelling"
+  },
+  {
+   "page": "597149",
+   "old": "fatty acids, is recommended to help",
+   "new": "fatty acids, are recommended to help",
+   "count": 1,
+   "note": "agreement"
+  },
+  {
+   "page": "597145",
+   "old": "do not have the bend in their structures, which occurs in <em>cis</em> fatty acids and thus pack closely",
+   "new": "do not have the bend that occurs in <em>cis</em> fatty acids, and thus they pack closely",
+   "count": 1,
+   "note": "grammar"
+  },
+  {
+   "page": "597146",
+   "old": "and Indian cobra contains",
+   "new": "and Indian cobras contains",
+   "count": 1,
+   "note": "plural"
+  },
+  {
+   "page": "597146",
+   "old": "may damage the alveoli, and lead to hypoxia",
+   "new": "may damage the alveoli, and may lead to hypoxia",
+   "count": 1,
+   "note": "parallelism"
+  },
+  {
+   "page": "597138",
+   "old": "tablet test (the older Clinitest)",
+   "new": "tablet test (Clinitest)",
+   "count": 1,
+   "note": "doubled older"
+  },
+  {
+   "page": "597140",
+   "old": "registered dietician",
+   "new": "registered dietitian",
+   "count": 1,
+   "note": "spelling"
+  },
+  {
+   "page": "597149",
+   "old": "\\(\\PageIndex{1}\\) Steroids.",
+   "new": "\\(\\PageIndex{1}\\): Steroids.",
+   "count": 1,
+   "note": "caption colon"
+  },
+  {
+   "page": "597149",
+   "old": "\\(\\PageIndex{3}\\) Bile Acids.",
+   "new": "\\(\\PageIndex{3}\\): Bile Acids.",
+   "count": 1,
+   "note": "caption colon"
+  },
+  {
+   "page": "597159",
+   "old": "primary amide ((\\(\\ce{-CONH2}\\)).",
+   "new": "primary amide (\\(\\ce{-CONH2}\\)).",
+   "count": 1,
+   "note": "doubled paren"
+  },
+  {
+   "page": "597159",
+   "old": "block the blood flow -a medical condition called sickle cell anemia, illustrated in The Figure on the right.",
+   "new": "block blood flow, a medical condition called sickle cell anemia, illustrated in the figure on the right.",
+   "count": 1,
+   "note": "punctuation/case"
+  },
+  {
+   "page": "597160",
+   "old": "Figure \\(\\PageIndex{1}\\). below and described",
+   "new": "Figure \\(\\PageIndex{1}\\) below and described",
+   "count": 1,
+   "note": "stray period"
+  },
+  {
+   "page": "597160",
+   "old": "hydroxyl (\\(\\ce{-OH}\\) group installed",
+   "new": "hydroxyl (\\(\\ce{-OH}\\)) group installed",
+   "count": 1,
+   "note": "close paren"
+  },
+  {
+   "page": "597160",
+   "old": "as illustrated in the model shown on the left</p>",
+   "new": "as illustrated in the model shown on the left.</p>",
+   "count": 1,
+   "note": "final period"
+  },
+  {
+   "page": "597160",
+   "old": "acquires a conformation to achieve:</p>",
+   "new": "acquires a conformation that:</p>",
+   "count": 1,
+   "note": "list grammar"
+  },
+  {
+   "page": "597160",
+   "old": "<li>maximize hydrogen bonding",
+   "new": "<li>maximizes hydrogen bonding",
+   "count": 1,
+   "note": "list grammar"
+  },
+  {
+   "page": "597160",
+   "old": "<li>minimize the steric-strain",
+   "new": "<li>minimizes the steric strain",
+   "count": 1,
+   "note": "list grammar"
+  },
+  {
+   "page": "597163",
+   "old": "For example, cooking food and sterilizing surgical instruments by autoclave treatment.",
+   "new": "Examples are cooking food and sterilizing surgical instruments in an autoclave.",
+   "count": 1,
+   "note": "fragment"
+  },
+  {
+   "page": "597171",
+   "old": "inhibit formation of products B, and subsequently product C, and D.",
+   "new": "inhibit formation of product B, and subsequently of products C and D.",
+   "count": 1,
+   "note": "grammar"
+  },
+  {
+   "page": "597158",
+   "old": "X ray",
+   "new": "X-ray",
+   "count": 2,
+   "note": "X-ray"
+  },
+  {
+   "page": "597172",
+   "old": "Glucagon or epinephrine raise cAMP, activate a protein kinase, and phosphorylate both enzymes",
+   "new": "Glucagon or epinephrine raises cAMP, which activates a protein kinase that phosphorylates both enzymes",
+   "count": 1,
+   "note": "caption grammar"
+  },
+  {
+   "page": "597179",
+   "old": "notably Har Khorana,",
+   "new": "notably Har Gobind Khorana,",
+   "count": 1,
+   "note": "full name"
+  },
+  {
+   "page": "597188",
+   "old": "via Wikvia Wikimedians</em>",
+   "new": "via Wikimedia Commons</em>",
+   "count": 1,
+   "note": "credit typo"
+  },
+  {
+   "page": "597188",
+   "old": "transform of electrons</h3>",
+   "new": "transfer of electrons</h3>",
+   "count": 1,
+   "note": "transform->transfer"
+  }
+ ],
+ "skipped": [
+  {
+   "line": "597105, 597106 page titles | \"5.4: Reduction and oxidation (redox) reactions\", \"5.5",
+   "reason": "page titles are not in the body HTML; needs a title change via the API"
+  },
+  {
+   "line": "597127 7.7 video chapter list | \"0:55 Step 1: Break the Amide into Carboxylic Acid and Am",
+   "reason": "already fixed (reads 'Amine')"
+  },
+  {
+   "line": "597166 11.1 Table 2 | \"this enzyme is an oxidoreduc<span style=\"display:none;\"> </span",
+   "reason": "already fixed (no hidden span)"
+  }
+ ]
+}

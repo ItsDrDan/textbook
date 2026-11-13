@@ -1,0 +1,204 @@
+{
+ "488231": [
+  {
+   "old": "<li>alkaloid, 7.3</li>",
+   "new": "<li>alkaloid, 7.9</li>",
+   "count": 1,
+   "note": "index alkaloid: 7.3 -> 7.9"
+  },
+  {
+   "old": "<li>alkyl halide, 2.3</li>",
+   "new": "<li>alkyl halide, 2.8</li>",
+   "count": 1,
+   "note": "index alkyl halide: 2.3 -> 2.8"
+  },
+  {
+   "old": "<li>amide, 7.3</li>",
+   "new": "<li>amide, 7.4</li>",
+   "count": 1,
+   "note": "index amide: 7.3 -> 7.4"
+  },
+  {
+   "old": "<li>anomers, 8.2</li>",
+   "new": "<li>anomers, 8.4</li>",
+   "count": 1,
+   "note": "index anomers: 8.2 -> 8.4"
+  },
+  {
+   "old": "<li>benzene, 3.3</li>",
+   "new": "<li>benzene, 3.7</li>",
+   "count": 1,
+   "note": "index benzene: 3.3 -> 3.7"
+  },
+  {
+   "old": "<li>carbonyl group, 5.5</li>",
+   "new": "<li>carbonyl group, 5.1</li>",
+   "count": 1,
+   "note": "index carbonyl group: 5.5 -> 5.1"
+  },
+  {
+   "old": "<li>complementary base pairs, 1.8</li>",
+   "new": "<li>complementary base pairs, 12.2</li>",
+   "count": 1,
+   "note": "index complementary base pairs: 1.8 -> 12.2"
+  },
+  {
+   "old": "<li>diffusion, 9.3</li>",
+   "new": "<li>diffusion, 9.5</li>",
+   "count": 1,
+   "note": "index diffusion: 9.3 -> 9.5"
+  },
+  {
+   "old": "<li>diol, 4.2</li>",
+   "new": "<li>diol, 4.6</li>",
+   "count": 1,
+   "note": "index diol: 4.2 -> 4.6"
+  },
+  {
+   "old": "<li>enzyme inhibitor, 11.6</li>",
+   "new": "<li>enzyme inhibitor, 11.4</li>",
+   "count": 1,
+   "note": "index enzyme inhibitor: 11.6 -> 11.4"
+  },
+  {
+   "old": "<li>ether, 4.3</li>",
+   "new": "<li>ether, 4.8</li>",
+   "count": 1,
+   "note": "index ether: 4.3 -> 4.8"
+  },
+  {
+   "old": "<li>genetic code, 12.3</li>",
+   "new": "<li>genetic code, 12.6</li>",
+   "count": 1,
+   "note": "index genetic code: 12.3 -> 12.6"
+  },
+  {
+   "old": "<li>glycol, 4.2</li>",
+   "new": "<li>glycol, 4.6</li>",
+   "count": 1,
+   "note": "index glycol: 4.2 -> 4.6"
+  },
+  {
+   "old": "<li>glycolysis, 13.1</li>",
+   "new": "<li>glycolysis, 13.5</li>",
+   "count": 1,
+   "note": "index glycolysis: 13.1 -> 13.5"
+  },
+  {
+   "old": "<li>haloalkane, 2.3</li>",
+   "new": "<li>haloalkane, 2.8</li>",
+   "count": 1,
+   "note": "index haloalkane: 2.3 -> 2.8"
+  },
+  {
+   "old": "<li>hydrogenation, 3.2</li>",
+   "new": "<li>hydrogenation, 3.4</li>",
+   "count": 1,
+   "note": "index hydrogenation: 3.2 -> 3.4"
+  },
+  {
+   "old": "<li>IMF, 1.5</li>",
+   "new": "<li>IMF, 1.8</li>",
+   "count": 1,
+   "note": "index imf: 1.5 -> 1.8"
+  },
+  {
+   "old": "<li>inhibitor, 11.6</li>",
+   "new": "<li>inhibitor, 11.4</li>",
+   "count": 1,
+   "note": "index inhibitor: 11.6 -> 11.4"
+  },
+  {
+   "old": "<li>intermolecular forces, 1.5</li>",
+   "new": "<li>intermolecular forces, 1.8</li>",
+   "count": 1,
+   "note": "index intermolecular forces: 1.5 -> 1.8"
+  },
+  {
+   "old": "<li>maltose, 8.3</li>",
+   "new": "<li>maltose, 8.6</li>",
+   "count": 1,
+   "note": "index maltose: 8.3 -> 8.6"
+  },
+  {
+   "old": "<li>reduction, 4.4</li>",
+   "new": "<li>reduction, 5.4</li>",
+   "count": 1,
+   "note": "index reduction: 4.4 -> 5.4"
+  },
+  {
+   "old": "<li>simple diffusion, 9.3</li>",
+   "new": "<li>simple diffusion, 9.5</li>",
+   "count": 1,
+   "note": "index simple diffusion: 9.3 -> 9.5"
+  },
+  {
+   "old": "<li>sphingolipid, 9.1</li>",
+   "new": "<li>sphingolipid, 9.4</li>",
+   "count": 1,
+   "note": "index sphingolipid: 9.1 -> 9.4"
+  },
+  {
+   "old": "<li>steroid, 9.1</li>",
+   "new": "<li>steroid, 9.6</li>",
+   "count": 1,
+   "note": "index steroid: 9.1 -> 9.6"
+  },
+  {
+   "old": "<li>sucrose, 8.5</li>",
+   "new": "<li>sucrose, 8.6</li>",
+   "count": 1,
+   "note": "index sucrose: 8.5 -> 8.6"
+  },
+  {
+   "old": "<li>transfer RNA, 12.3</li>",
+   "new": "<li>transfer RNA, 12.5</li>",
+   "count": 1,
+   "note": "index transfer rna: 12.3 -> 12.5"
+  },
+  {
+   "old": "<li>tRNA, 12.3</li>",
+   "new": "<li>tRNA, 12.5</li>",
+   "count": 1,
+   "note": "index trna: 12.3 -> 12.5"
+  }
+ ],
+ "488232": [
+  {
+   "old": "<tr><td data-th=\"Word(s)\">amide</td><td data-th=\"Definition\">A compound with a carbonyl bonded to a nitrogen, R&ndash;CO&ndash;NR<sub>2</sub>; amides are neutral (not basic). The peptide bond is an amide bond.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> amida</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597123\">Section 7.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "new": "<tr><td data-th=\"Word(s)\">amide</td><td data-th=\"Definition\">A compound with a carbonyl bonded to a nitrogen, R&ndash;CO&ndash;NR<sub>2</sub>; amides are neutral (not basic). The peptide bond is an amide bond.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> amida</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597124\">Section 7.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "count": 1,
+   "note": "glossary amide: 7.3 -> 7.4"
+  },
+  {
+   "old": "<tr><td data-th=\"Word(s)\">complementary base pairs</td><td data-th=\"Definition\">The base pairs held by hydrogen bonds in nucleic acids: A with T (or U in RNA), with two hydrogen bonds, and G with C, with three.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> pares de bases complementarias</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597061\">Section 1.8</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "new": "<tr><td data-th=\"Word(s)\">complementary base pairs</td><td data-th=\"Definition\">The base pairs held by hydrogen bonds in nucleic acids: A with T (or U in RNA), with two hydrogen bonds, and G with C, with three.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> pares de bases complementarias</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597176\">Section 12.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "count": 1,
+   "note": "glossary complementary base pairs: 1.8 -> 12.2"
+  },
+  {
+   "old": "<tr><td data-th=\"Word(s)\">glycol, diol</td><td data-th=\"Definition\">An alcohol with two &ndash;OH groups, such as ethylene glycol and propylene glycol.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> glicol, diol</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597091\">Section 4.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "new": "<tr><td data-th=\"Word(s)\">glycol, diol</td><td data-th=\"Definition\">An alcohol with two &ndash;OH groups, such as ethylene glycol and propylene glycol.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> glicol, diol</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597095\">Section 4.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "count": 1,
+   "note": "glossary glycol: 4.2 -> 4.6"
+  },
+  {
+   "old": "<tr><td data-th=\"Word(s)\">intermolecular forces, IMF</td><td data-th=\"Definition\">Attractions between separate molecules (dispersion forces, dipole&ndash;dipole attractions and hydrogen bonds) that determine boiling point, melting point and solubility.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> fuerzas intermoleculares</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597058\">Section 1.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "new": "<tr><td data-th=\"Word(s)\">intermolecular forces, IMF</td><td data-th=\"Definition\">Attractions between separate molecules (dispersion forces, dipole&ndash;dipole attractions and hydrogen bonds) that determine boiling point, melting point and solubility.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> fuerzas intermoleculares</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597061\">Section 1.8</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "count": 1,
+   "note": "glossary intermolecular forces: 1.5 -> 1.8"
+  },
+  {
+   "old": "<tr><td data-th=\"Word(s)\">reduction</td><td data-th=\"Definition\">In organic chemistry, a gain of hydrogen or a loss of oxygen (in general, a gain of electrons).<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> reducci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597093\">Section 4.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "new": "<tr><td data-th=\"Word(s)\">reduction</td><td data-th=\"Definition\">In organic chemistry, a gain of hydrogen or a loss of oxygen (in general, a gain of electrons).<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> reducci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597105\">Section 5.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "count": 1,
+   "note": "glossary reduction: 4.4 -> 5.4"
+  },
+  {
+   "old": "<tr><td data-th=\"Word(s)\">transfer RNA, tRNA</td><td data-th=\"Definition\">The RNA that brings a specific amino acid to the ribosome and matches its anticodon to a codon on the mRNA.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> ARN de transferencia, ARNt</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597177\">Section 12.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "new": "<tr><td data-th=\"Word(s)\">transfer RNA, tRNA</td><td data-th=\"Definition\">The RNA that brings a specific amino acid to the ribosome and matches its anticodon to a codon on the mRNA.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> ARN de transferencia, ARNt</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597183\">Section 12.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td></tr>",
+   "count": 1,
+   "note": "glossary transfer RNA: 12.3 -> 12.5"
+  }
+ ]
+}
