@@ -558,3 +558,18 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - H3: the 13.1 metabolism overview (CC BY-SA 4.0, the last ShareAlike image) is replaced by an original diagram (file 512769).
     - H4: the last six "Copyright:/;" prefixes in body text are cleaned (13.1 ×4, 9.3 Fig 3 ×2).
     - H5: 12.6 elongation figure amino-acid labels enlarged (same file 512767).
+- 2026-11-13, batches I (held items) and J (optional), published on 46 pages; verified by SHA-256 and mirrored. PR #38 (assets) merged. Review: tools/BATCH_IJ_REVIEW_2026-11-12.md.
+  - **I:**
+    - Dated statistics fact-checked: 8.6 sugar (USDA ERS), 8.7 textiles (Textile Exchange 2025), 4.4 methanol (UKHSA), 12.9 Valley fever, 2.8 ozone hole (NASA), 3.5 joint replacements, 3.8 benzo[a]pyrene, 1.6 MyPlate / DGA 2025–2030.
+    - 2.6 methane −162 °C. About Valley list order. 12.5 preview labels.
+    - Ninhydrin duplicate removed from 10.2; Ball credit on 10.3 (the fingerprint is not the Commons ShareAlike photo).
+    - 6.12/7.13 answer keys synced. 6.6 chart 163 °C. "(opens in new window)" residue removed.
+    - 1.5/1.8 embed titles match YouTube (oEmbed); the 1.9 list was already right.
+    - Figures: 12.2.3 base pairs (cytosine NH2 and C4=N3, purine C4=C5), 14.1.1 O− charges, 9.3.1 condensed formula redrawn, 8.4.1(b) mechanism arrows removed, Slide 47 "Glyceryl tripalmitate". New files 512770–512775.
+    - 5.4/5.5 titles in title case (move API, path unchanged); references on 597271/597272 updated.
+  - **J:**
+    - 13.5.2 glycolysis flow redrawn landscape (prints 6.4 pt, was 4.1).
+    - 14.4.2 parts stacked and ATP synthase as two strips (8.2 pt, was 4.4).
+    - 14.4.5 ETC inner-membrane version (about 7 pt). 14.5 yield flow cropped.
+    - 18 clarity fixes (tools/batchJ_text_drafts_2026-11-12.json).
+  - **Checked and unchanged:** 13.2 table −7.5 (the page's Professor Tip explains it; exams use 7.3).
