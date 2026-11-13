@@ -1,0 +1,116 @@
+{
+ "uploads": [
+  {
+   "page": "597116",
+   "name": "fig-p597116-saponification-tristearin.svg",
+   "path": "figures/pages/batchK/fig-p597116-saponification-tristearin.svg",
+   "key": "k2sap"
+  },
+  {
+   "page": "597126",
+   "name": "fig-p597126-amide-two-step.svg",
+   "path": "figures/pages/batchK/fig-p597126-amide-two-step.svg",
+   "key": "k2amd"
+  },
+  {
+   "page": "597106",
+   "name": "fig-p597106-menthol-carvone.svg",
+   "path": "figures/pages/batchK/fig-p597106-menthol-carvone.svg",
+   "key": "k2chir"
+  },
+  {
+   "page": "597081",
+   "name": "fig-p597081-propene-hcl.svg",
+   "path": "figures/pages/batchK/fig-p597081-propene-hcl.svg",
+   "key": "k2mark"
+  },
+  {
+   "page": "597073",
+   "name": "fig-p597073-ring-numbering.svg",
+   "path": "figures/pages/batchK/fig-p597073-ring-numbering.svg",
+   "key": "k2ring"
+  },
+  {
+   "page": "597059",
+   "name": "fig-p597059-aspartame-groups.svg",
+   "path": "figures/pages/batchK/fig-p597059-aspartame-groups.svg",
+   "key": "k2asp"
+  },
+  {
+   "page": "597118",
+   "name": "fig-p597118-aspirin-stomach-blood.svg",
+   "path": "figures/pages/batchK/fig-p597118-aspirin-stomach-blood.svg",
+   "key": "k2asa"
+  }
+ ],
+ "edits": {
+  "597116": [
+   {
+    "old": "do the same job at pH 7.4 without strong acid or base.</p>",
+    "new": "do the same job at pH 7.4 without strong acid or base.</p>\n<figure class=\"figure\"><img class=\"internal\" alt=\"Saponification of a fat. Tristearin, a triacylglycerol, is drawn as a glycerol backbone of three stacked carbons, CH2, CH and CH2, each bonded through an oxygen to an ester carbonyl group, C double-bond O, that carries a (CH2)16CH3 chain. Tristearin plus 3 NaOH, heated, gives glycerol, CH2OH–CHOH–CH2OH, plus 3 sodium stearate, CH3(CH2)16COO minus Na plus, which is soap.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{k2sap}}/fig-p597116-saponification-tristearin.svg\" fileid=\"{{k2sap}}\" /><figcaption>Figure 6.8.2: Saponification of a fat. Heating tristearin, a triacylglycerol (three ester groups on one glycerol backbone), with NaOH splits all three esters, giving glycerol and three sodium stearate units, which are soap. One NaOH is used up for each ester. (Structures drawn by Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>",
+    "count": 1,
+    "note": "6.8 soap paragraph (Lecture Connection): new Fig 6.8.2"
+   },
+   {
+    "old": "Figure 6.8.2: Hydrolysis of aspirin.",
+    "new": "Figure 6.8.3: Hydrolysis of aspirin.",
+    "count": 1,
+    "note": "6.8 renumber old 6.8.2 -> 6.8.3 (new figure precedes it)"
+   }
+  ],
+  "597126": [
+   {
+    "old": "<figcaption>Figure 7.6.1: Amides and amidation. (Figure: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>",
+    "new": "<figcaption>Figure 7.6.1: Amides and amidation. (Figure: Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>\n<figure class=\"figure\"><img class=\"internal\" alt=\"Amide formation in two steps. Acetic acid, CH3–C(=O)–OH, plus ammonia, NH3, mixed at room temperature undergo an acid–base reaction to give the salt ammonium acetate, CH3–C(=O)–O minus with NH4 plus. Heating the salt drives off water: the arrow labeled heat, minus H2O, leads to acetamide, CH3–C(=O)–NH2, plus H2O.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{k2amd}}/fig-p597126-amide-two-step.svg\" fileid=\"{{k2amd}}\" /><figcaption>Figure 7.6.2: Amide formation takes two steps. Mixed at room temperature, acetic acid and ammonia only undergo an acid&ndash;base reaction, giving the salt ammonium acetate. Heating the salt drives off water and forms the amide, acetamide. (Structures drawn by Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>",
+    "count": 1,
+    "note": "7.6 Lecture Connection, after Fig 7.6.1: two-step amidation"
+   }
+  ],
+  "597106": [
+   {
+    "old": "fit one hand of menthol far better than the other.</p>\n</div>",
+    "new": "fit one hand of menthol far better than the other.</p>\n</div>\n<figure class=\"figure\"><img class=\"internal\" alt=\"Skeletal structures of menthol and carvone with their chiral carbons marked by red asterisks. Left, menthol: a cyclohexane ring carrying an OH group, an isopropyl group on the neighboring ring carbon, and a methyl group on the ring carbon two positions away from the OH carbon on the other side; the three ring carbons that hold the OH, the isopropyl group and the methyl group are starred, so menthol has 3 chiral carbons. Right, carvone: a six-membered ring containing a ketone C=O and a C=C double bond, with a methyl group on the double-bond carbon next to the C=O and an isopropenyl group, C(CH3)=CH2, on the ring; only the ring carbon holding the isopropenyl group is starred, so carvone has 1 chiral carbon.\" width=\"330\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{k2chir}}/fig-p597106-menthol-carvone.svg\" fileid=\"{{k2chir}}\" /><figcaption>Figure 5.5.9: Chiral carbons (*) in two molecules you can smell. Menthol has three chiral carbons, so 2<sup>3</sup> = 8 stereoisomers are possible; carvone has one, so it exists as a pair of enantiomers (one smells of spearmint, the other of caraway). (Structures drawn by Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>",
+    "count": 1,
+    "note": "5.5 Chirality matters, after Dental Hygiene box: menthol + carvone starred"
+   }
+  ],
+  "597081": [
+   {
+    "old": "so the reaction is called <em>regioselective</em>.</p>",
+    "new": "so the reaction is called <em>regioselective</em>.</p>\n<figure class=\"figure\"><img class=\"internal\" alt=\"Markovnikov addition of HCl to propene. Propene, CH2=CH–CH3, in which the end CH2 carbon of the double bond has 2 H and the middle CH carbon has 1 H, plus hydrogen chloride, H–Cl, gives 2-chloropropane as the major product: the H (red) adds to the CH2 carbon, which already had more hydrogens, making it CH3, and the Cl (red) adds to the middle carbon, giving CH3–CHCl–CH3. A note says the minor product is 1-chloropropane, CH3CH2CH2Cl.\" width=\"560\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{k2mark}}/fig-p597081-propene-hcl.svg\" fileid=\"{{k2mark}}\" /><figcaption>Figure 3.4.1: Markovnikov&#39;s rule for HCl and propene. The H (red) adds to the end CH<sub>2</sub> carbon, which already has more hydrogens, and the Cl adds to the middle carbon, so 2-chloropropane is the major product; 1-chloropropane forms only as a minor product. (Structures drawn by Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>",
+    "count": 1,
+    "note": "3.4 Markovnikov paragraph: new Fig 3.4.1 (old 3.4.1 renumbered 3.4.2 below)"
+   },
+   {
+    "old": "Figure 3.4.1: 3-Methyl-1-butene.",
+    "new": "Figure 3.4.2: 3-Methyl-1-butene.",
+    "count": 1,
+    "note": "3.4 renumber old 3.4.1 -> 3.4.2 (new figure precedes it)"
+   }
+  ],
+  "597073": [
+   {
+    "old": "Name: <strong>1-bromo-2-ethylcyclopentane</strong>.</p>",
+    "new": "Name: <strong>1-bromo-2-ethylcyclopentane</strong>.</p>\n<figure class=\"figure\"><img class=\"internal\" alt=\"Skeletal structure of 1-bromo-2-ethylcyclopentane: a five-membered ring with a bromine on one carbon and an ethyl group on the neighboring carbon. Blue numbers label the ring carbons: 1 at the carbon bearing Br, 2 at the carbon bearing the ethyl group, then 3, 4 and 5 continuing around the ring. Text under the drawing: 1-bromo-2-ethylcyclopentane; bromo gets C1 because b comes before e.\" width=\"212\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{k2ring}}/fig-p597073-ring-numbering.svg\" fileid=\"{{k2ring}}\" /><figcaption>Figure 2.9.4: Ring numbering for Example 1. Numbering starts at a substituent and runs toward the other one, giving locants 1 and 2 either way; the alphabetical tie-break gives the bromo carbon C1, and C3 to C5 continue around the ring. (Structures drawn by Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>",
+    "count": 1,
+    "note": "2.9 Lecture Example 1 solution: numbered ring"
+   }
+  ],
+  "597059": [
+   {
+    "old": "Every O and N belongs to exactly one functional group. &#10003;</p>\n</div>",
+    "new": "Every O and N belongs to exactly one functional group. &#10003;</p>\n</div>\n<figure class=\"figure\"><img class=\"internal\" alt=\"Skeletal structure of aspartame with each functional group circled and labeled in color: the amine, NH2 (blue), at the left; the carboxylic acid, C=O with OH (red), on the side chain below it; the amide, C=O bonded to NH (orange), joining the two halves of the molecule; the ester, C=O bonded to O–CH3 (purple), at the right; and the aromatic ring, a benzene ring (green), at the top right.\" width=\"374\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{k2asp}}/fig-p597059-aspartame-groups.svg\" fileid=\"{{k2asp}}\" /><figcaption>Figure 1.6.7: The same carbonyl-first hunt on a bigger molecule, the sweetener aspartame. It has five functional groups: amine, carboxylic acid, amide, ester and aromatic ring. The N of the amide and the O&ndash;CH<sub>3</sub> oxygen of the ester belong to those groups and are not counted again as an amine or an ether. (Structures drawn by Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>",
+    "count": 1,
+    "note": "1.6 after Lecture Example 1 (acetaminophen): aspartame groups circled"
+   }
+  ],
+  "597118": [
+   {
+    "old": "which is the form that crosses membranes.</p>",
+    "new": "which is the form that crosses membranes.</p>\n<figure class=\"figure\"><img class=\"internal\" alt=\"Aspirin in two places in the body. Left panel, labeled stomach (strong acid): –COOH keeps its H. Skeletal aspirin, a benzene ring carrying an acetate ester group, O–C(=O)–CH3, and next to it a carboxylic acid group, C(=O)OH, which is boxed in blue; note under it: neutral, crosses membranes. Right panel, labeled blood (pH 7.4): –COO minus, lost its H. The same structure with the acid group drawn as the carboxylate ion, C(=O)O minus, boxed in red; note under it: charged, stays in water.\" width=\"660\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{k2asa}}/fig-p597118-aspirin-stomach-blood.svg\" fileid=\"{{k2asa}}\" /><figcaption>Figure \\(\\PageIndex{1}\\): Aspirin in the stomach and in the blood. In strong stomach acid the &ndash;COOH group keeps its H, so the molecule is neutral and can cross cell membranes; at blood pH 7.4 it has lost its H, and the charged &ndash;COO<sup>&minus;</sup> form stays dissolved in water. (Structures drawn by Daniel Kwasniewski, CC BY 4.0.)</figcaption></figure>",
+    "count": 1,
+    "note": "6.10 Ionized or not at body pH: aspirin COOH vs COO-"
+   }
+  ]
+ }
+}

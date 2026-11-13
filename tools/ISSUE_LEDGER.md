@@ -573,3 +573,11 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - 14.4.5 ETC inner-membrane version (about 7 pt). 14.5 yield flow cropped.
     - 18 clarity fixes (tools/batchJ_text_drafts_2026-11-12.json).
   - **Checked and unchanged:** 13.2 table −7.5 (the page's Professor Tip explains it; exams use 7.3).
+
+- **2026-11-13 Batch K (optional work: concept maps and Group C figures), live and verified (SHA-256 on all 30 pages):**
+  - Concept maps ch01–ch15 rebuilt with larger type (tools/concept_maps.py, Python renderer tools/pathway.py); the 15 Chapter Guides link `?v=20261113`. The new SVGs are served by GitHub Pages once this branch is merged.
+  - 15 new figures, files 512776–512790 (tools/batchK_ids_2026-11-13.json, review sheets in tools/batchK_review/):
+    - Structures: 6.8 tristearin saponification, 7.6 amide in two steps, 5.5 menthol/carvone chiral carbons, 3.4 propene + HCl, 2.9 ring numbering, 1.6 aspartame groups, 6.10 aspirin COOH vs COO−.
+    - Schematics: 6.3 acetic acid dimer, 9.5 RBC tonicity, 8.7 amylose/glycogen/cellulose, 13.7 glycogen branches, 15.4 acyl CoA α/β numbering, 9.1 linoleic C/ω numbering, 1.3 Lewis structure errors, 7.3 lidocaine neutral form (qualitative, no pKa).
+  - Captions renumbered so new figures stay in page order: 6.8.2→6.8.3, 3.4.1→3.4.2, 13.7.1–2→13.7.2–3, 15.4.3–4→15.4.4–5, 9.1.4–5→9.1.5–6 (numbers appear only in their own captions).
+  - Server normalised "–" to `&ndash;` in five new alt texts; pages/live holds the server form.
