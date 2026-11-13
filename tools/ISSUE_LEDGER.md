@@ -647,3 +647,12 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - **Correction to the review:** the "65 captioned figures with no credit" count was too high. Most were inner panels of composite figures whose outer caption carries the credit. Twelve captions truly lacked one; eight are fixed here and the four 9.3 structure labels sit under a credited figure.
   - **Still open:** 3.4 Example 3(c); 11.1 Figure 1 (script-only viewer); About This Book version entry; uncaptioned images with unknown source (3.3 lycopene, 4.7 Traversi painting and Phenol-3D-balls, 4.8 Morton painting, 13.4 sulfonylureas, 12.8 AZT and raltegravir captions); 6.8 and 7.11 captions that repeat the alt text; 1.7 Figure 1–2 alt letters; 9.3 snake photo position; 10.10 source numbering; nine missing Index entries and 12 weaker Glossary pointers; hot-linked images in 10.7 and 11.6; nine dead links; six figures under about 5.3 pt; bank and ADAPT findings.
 
+- **2026-11-13 Batch O (next-pass rows and dead links), live and verified (all 14 pages read back identical):**
+  - **Published: 72 edits on 14 pages** (tools/batchO_2026-11-13.json, built by tools/batchO_build.py; hashes in tools/batchO_sha_2026-11-13.json).
+  - Captions: 6.8 aspirin and 7.11 epinephrine no longer repeat the alt text; 12.8 dTTP/AZT (Ball, adapted) and raltegravir (house redraw) now have a caption and credit.
+  - 1.7 Figures 1–2: panel letters removed from eight alt texts (they were one behind the visible letters).
+  - 10.10 Valley box: sources renumbered in citation order.
+  - Glossary and Index: 16 pointers moved to the teaching section; nine new Index lines (beta-pleated sheet, C-terminus, N-terminus, fat-soluble vitamins, water-soluble vitamins, fluid-mosaic model, lock-and-key model, omega-3 and omega-6 fatty acid).
+  - Dead links replaced: NDSU Virtual Cell → www.vcell.science (12.6, 14.1, 14.2); 9.2 CIHEAM PDF → FAO AGRIS record; 8.6 USDA Tulare profile → the California county profiles page; 4.5 Grape Crush PDF → the USDA crush reports page; 2.6 NASA oil-spill page → Earth Observatory image 44006 (not confirmed to be the same photo).
+  - **Still open:** 10.9 "Nitrates unchecked" link (reprint gone); 6.5 ASHS abstract (server error); 9.3 snake photo position; hot-linked images in 10.7 and 11.6; 3.4 Example 3(c); 11.1 Figure 1; About This Book version entry; unknown-source images; six figures under about 5.3 pt; bank and ADAPT findings.
+
