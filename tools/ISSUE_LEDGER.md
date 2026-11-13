@@ -467,3 +467,16 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Fact-check batch for dated statistics (8.6 sugar, 8.7 cotton/rayon, 4.4 methanol, 12.9 measles, 2.8 ozone hole, 3.5 joints, 3.8 benzo[a]pyrene, 1.6 MyPlate).
     - For batch E: the eight bare "(Public domain)" credits with no source.
     - Restructuring: 6.12/7.13 answer keys, the 10.2/10.3 ninhydrin duplicate, the 12.5 translation preview.
+- 2026-11-12, batches C6–C7 of the 2026-11-12 review (branch content/2026-11-batchC6-7).
+  - **Live: 133 edits on 47 pages.** Review sheet: `tools/BATCH_C6_7_REVIEW_2026-11-12.md`.
+  - **C6 (33 edits):** `tools/batchC6_index_2026-11-12.json`, built by `tools/batchC6_build.py`.
+    - 18 Index entries that disagreed with the Glossary now use the glossary section.
+    - Six glossary links moved to the teaching section (confirmed by term counts): amide 7.4, reduction 5.4, IMF 1.8, glycol 4.6, tRNA 12.5, complementary base pairs 12.2. Their index entries follow (9).
+    - `tools/glossary_terms.py` holds no section numbers, so nothing changed there.
+  - **C7 (100 edits on 46 pages):** `tools/batchC7_typos_2026-11-12.json`. Drafted in three parts (`tools/c7_parts/`), then merged and replay-checked; no edit changes markup. Every change was reviewed as a word diff.
+  - **Skipped:**
+    - Six were already fixed.
+    - Need the instructor: the About Valley list order, 1.9 video titles vs YouTube, and the 5.4/5.5 page titles in title case (needs the title API).
+    - For batch E: the 15.8 "from Wikipedia" caption.
+  - **Verified:** new strings live; the 47 `pages/live` copies match live by SHA-256. Mirrored into 89 `pages/` and `sections/` files.
+  - **Instructor:** the 9.2 video chapter title "triplemitoleate" is fixed in the book; fix it on YouTube too.
