@@ -27,7 +27,7 @@ If you change a convention, update every "Depends on it" location in the same pa
 | Water bent ~105°, amine ~107°; ideal angle by electron groups | 1.5 | 1.9 guide |
 | IMF = dispersion, dipole–dipole, H bonding only (ionic and network solids compared separately) | 1.8 | 1.2, 2.x–9.x property rankings |
 | Solubility cut-offs: alcohols ≤4 C, carboxylic acids ≤~5 C | 4.3, 6.3 | 4.12, 6.12 problems |
-| No curved-arrow mechanisms, no R/S, no E/Z, no Henderson–Hasselbalch, no conformers | For Instructors page | all chapters |
+| No curved-arrow mechanisms, no R/S, no E/Z, no Henderson–Hasselbalch, no conformers. Allowed exception (instructor, 2026-11-13): the one arrow on the 8.4 ring-closure slide (Figure 8.4.3), which shows which atoms join. "Hydride" is not used; say "two electrons and an H⁺" (the NaBH₄ "hydride reagent" in 5.4 stays) | For Instructors page | all chapters |
 | Spanish only as glossary term equivalents ("Español: …"); never Spanish sentences or passages | Glossary intro (488232) | any new page or box; glossary_es.py |
 
 

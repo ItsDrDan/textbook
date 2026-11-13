@@ -294,7 +294,7 @@ G = [
 ("catabolism, catabolic", "Reactions that break large molecules into smaller ones and release energy."),
 ("anabolism, anabolic", "Reactions that build large molecules from smaller ones and use energy."),
 ("ATP, adenosine triphosphate", "The energy carrier of the cell: hydrolysis of its terminal phosphate (ATP → ADP + P<sub>i</sub>) releases energy to drive reactions."),
-("NAD+, NADH", "Nicotinamide adenine dinucleotide, a coenzyme made from niacin: NAD<sup>+</sup> accepts a hydride in oxidation reactions and becomes NADH, which carries the electrons to the electron transport chain."),
+("NAD+, NADH", "Nicotinamide adenine dinucleotide, a coenzyme made from niacin: NAD<sup>+</sup> accepts two electrons and an H<sup>+</sup> in oxidation reactions and becomes NADH, which carries the electrons to the electron transport chain."),
 ("FAD, FADH2", "Flavin adenine dinucleotide, a coenzyme made from riboflavin: FAD accepts two hydrogens when a C–C bond is oxidized to C=C and becomes FADH<sub>2</sub>."),
 ("coenzyme A, CoA", "A coenzyme made from pantothenic acid that carries acyl groups as thioesters, such as acetyl CoA."),
 ("acetyl CoA", "Acetyl coenzyme A: the two-carbon acetyl group carried as a thioester; the common product of carbohydrate, fat and amino acid breakdown, and the fuel of the citric acid cycle."),
@@ -326,7 +326,7 @@ G = [
 ("coenzyme Q, ubiquinone", "A mobile, lipid-soluble electron carrier in the electron transport chain that passes electrons from complexes I and II to complex III."),
 ("cytochrome", "An iron-containing (heme) protein that carries electrons in the electron transport chain, such as cytochrome c."),
 ("uncoupler", "A substance that lets H<sup>+</sup> leak back into the matrix without passing through ATP synthase, so the energy is released as heat instead of ATP, as in brown fat."),
-("reactive oxygen species", "Highly reactive oxygen-containing molecules such as superoxide and hydrogen peroxide, formed in small amounts by the electron transport chain; antioxidants protect against them."),
+("reactive oxygen species", "Highly reactive oxygen-containing molecules such as superoxide and hydrogen peroxide, formed in small amounts during metabolism; antioxidants such as glutathione (kept reduced by NADPH) protect against them."),
 # ---------- Chapter 15: lipid and protein metabolism ----------
 ("lipase", "An enzyme that hydrolyzes the ester bonds of triacylglycerols, such as pancreatic lipase in digestion and hormone-sensitive lipase in fat cells."),
 ("emulsification", "Breaking fat into tiny droplets, done by bile salts, so that water-soluble lipase can reach it."),
