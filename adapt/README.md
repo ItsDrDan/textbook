@@ -65,7 +65,7 @@
 
 These questions are still in the Try It widgets and the Final Boss game:
 
-- Questions taken from your Canvas quizzes.
+- Questions taken from your Canvas quizzes (40 items tagged `src: "canvas-quiz"` in bank/*.json; written by the instructor, confirmed 2026-11-12).
 
 ## Shuffled structure choices
 
