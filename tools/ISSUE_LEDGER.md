@@ -433,3 +433,4 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Ball Fig 12.2.3 structures (cytosine NH2, C4=N3, purine C4=C5).
     - Fig 8.4.1(b) shows a curved-arrow mechanism (excluded by the book's scope rules).
     - 14.1.1 phosphate charges; 9.3.1 condensed formula.
+  - **Slide26 live (2026-11-12):** PR #21 merged; Pages build aae37a5 serves the new Slide26. The cache-bust edit on 597167 is published, and `pages/live` matches live by SHA-256.
