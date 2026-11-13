@@ -409,3 +409,27 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - Slides 48 and 49: "Glyceryl palmitate" → "Glyceryl tripalmitate" (the name used in 9.7; deferred from batch A).
   - **Not yet live:** GitHub Pages serves `main`, so the new PNGs appear when the PR is merged. After that, publish `tools/batchB1_slides_fixes_2026-11-12.json` (built by `tools/batchB1_slides_build.py`; 15 edits on 597121, 597123 and 597145). It updates the alt text and adds `?v=20261112` to the slide srcs so cached copies refresh.
   - **Live (2026-11-12):** PRs #18 and #19 merged; the Pages build of 274e7c8 serves the six slides byte-identical to the repo. The 15 alt-text and cache-bust edits are published on 597121, 597123 and 597145 and verified, and `pages/live` matches live by SHA-256.
+- 2026-11-12, batch B2 of the 2026-11-12 review: label typos baked into images (branch figures/2026-11-batchB2).
+  - **Live: 23 files uploaded; HTML edits on 18 pages.**
+    - Edit list: `tools/batchB2_figures_2026-11-12.json`, built by `tools/batchB2_build.py`. File ids: `tools/batchB2_ids_2026-11-12.json` (512734–512754, plus 512617 and 512629 re-uploaded with the same id). Assets: `figures/pages/batchB2/`. Before/after sheets: `tools/batchB_review/B2_*`.
+    - Each patched raster was uploaded to its own page under a clean `fig-p<page>-<slug>` name, and the img src/fileid were repointed; alt text was kept.
+  - **Method:** letters were copied from the same image (Myriad-style figures) or retyped in Arial on the flat-colour panels.
+  - **Fixed:**
+    - 1.7 step figures: also, This is the, treat.
+    - 5.3 hemiacetal; 7.1 m-chloroaniline (italic m in Trebuchet).
+    - 8.4.1: representation, plus the C2–OH bond in panel (b).
+    - 10.1 representation.
+    - 10.6: GHK; Aspartylphenylalanine; Aspartame; Fig 10.6.1 terminus labels in English with N at the left and C at the right (the Ukrainian labels also had them reversed); alt updated.
+    - 10.8 side chains; 11.6.2 Threonine ×3; 12.2.3 1.08 nm (both rotated labels); 12.8 triphosphate.
+    - 13.1.2 Nicotinamide; 13.3.1 Pyruvate, oxidation; 14.1.1 Phosphorylated ADP.
+    - 14.2.3: Fumarate, CoQ, NAD+, Pi, ½O2 + 2H+.
+    - 14.4.3: pyruvate 2C3H3O3, "for two pyruvates", the glycolysis panel shown as net (2 ADP + 2 Pi in, 2 ATP out), 2Pi, 2HS-CoA.
+    - 15.4.1: Acyl-CoA dehydrogenase, trans-Enoyl-CoA, Palmitoyl-CoA, FADH2.
+    - 15.5: HSCoA.
+    - House SVGs: 13.8.2 "(six reversible steps)"; 15.10.1 pyruvate → oxaloacetate one-way, with the caption updated.
+  - **Verified:** all 23 files are served (HTTP 200). Every edit and image id is present live, and the 19 `pages/live` copies match live by SHA-256. Mirrored into 36 `pages/` and `sections/` files.
+  - **Slide26** (instructor's slide; the two stray bold left arrows were removed) is in `figures/`. After merge, publish the `597167` edit in the B2 JSON (cache-bust `?v=20261112`); it is held until Pages serves the new PNG.
+  - **Open:**
+    - Ball Fig 12.2.3 structures (cytosine NH2, C4=N3, purine C4=C5).
+    - Fig 8.4.1(b) shows a curved-arrow mechanism (excluded by the book's scope rules).
+    - 14.1.1 phosphate charges; 9.3.1 condensed formula.
