@@ -389,3 +389,127 @@ def metabolism():
 
 metabolism()
 print('met ok')
+
+
+# ---------- 9.3.1 condensed formula of POPC (batch I): chains written CH3(CH2)n-C(=O)-O-
+def popc_condensed():
+    W, H = 720, 250
+    b = []
+    import re
+    def sub(t):
+        return re.sub(r'([A-Za-z\)])(\d+)', lambda m: m.group(1) + f'<tspan font-size="12" baseline-shift="sub">{m.group(2)}</tspan>', t)
+    def tx(x, y, t, anchor='start', col=INK, size=17, w=700):
+        return T(x, y, sub(t), size, w, col, anchor)
+    def L(x1, y1, x2, y2, col=INK, sw=2): return f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{col}" stroke-width="{sw}"/>'
+    def ester(y, chain, cx):
+        o = [tx(cx - 14, y, chain, 'end'), L(cx - 10, y - 6, cx + 2, y - 6), tx(cx + 6, y, 'C'),
+             L(cx + 12, y - 18, cx + 12, y - 32), L(cx + 18, y - 18, cx + 18, y - 32), T(cx + 15, y - 36, 'O', 17, 700, RED, 'middle'),
+             L(cx + 24, y - 6, cx + 38, y - 6), T(cx + 42, y, 'O', 17, 700, RED), L(cx + 56, y - 6, cx + 70, y - 6)]
+        return o
+    cx = 300
+    b += ester(56, 'CH3(CH2)14', cx)
+    b += ester(126, 'CH3(CH2)7CH=CH(CH2)7', cx)
+    gx = cx + 74
+    b += [tx(gx, 56, 'CH2'), tx(gx, 126, 'CH'), tx(gx, 196, 'CH2')]
+    b += [L(gx + 12, 62, gx + 12, 108), L(gx + 12, 132, gx + 12, 178)]
+    x = gx + 40
+    b += [L(x, 190, x + 14, 190), T(x + 18, 196, 'O', 17, 700, RED), L(x + 32, 190, x + 46, 190), T(x + 50, 196, 'P', 17, 800, '#d35400'),
+          L(x + 53, 178, x + 53, 162), L(x + 59, 178, x + 59, 162), T(x + 56, 158, 'O', 17, 700, RED, 'middle'),
+          L(x + 56, 200, x + 56, 214), T(x + 56, 234, 'O<tspan font-size="12" baseline-shift="super">&#8722;</tspan>', 17, 700, RED, 'middle'),
+          L(x + 64, 190, x + 78, 190), T(x + 82, 196, 'O', 17, 700, RED), L(x + 96, 190, x + 110, 190),
+          tx(x + 114, 196, '(CH2)2'), L(x + 172, 190, x + 186, 190),
+          T(x + 190, 196, 'N<tspan font-size="12" baseline-shift="super">+</tspan>(CH<tspan font-size="12" baseline-shift="sub">3</tspan>)<tspan font-size="12" baseline-shift="sub">3</tspan>', 17, 700, BLUE)]
+    alt = ('Condensed formula of 1-palmitoyl-2-oleoyl-phosphatidylcholine: glycerol carbons CH2, CH and CH2 in a column; the top CH2 is bonded through O to '
+           'C(=O) of the palmitoyl chain CH3(CH2)14; the CH is bonded through O to C(=O) of the oleoyl chain CH3(CH2)7CH=CH(CH2)7; the bottom CH2 is bonded through O to a '
+           'phosphate (P=O, O minus) that links through O to (CH2)2N+(CH3)3, the choline group.')
+    open(OUT + 'fig-p597146-popc-condensed.svg', 'w').write(svg(W, H, alt, ''.join(b)))
+
+
+popc_condensed()
+print('popc ok')
+
+
+# ---------- shared flow-chart helpers (batch J landscape redraws)
+def _fc_box(x0, x1, yc, lines, fill='#ffffff', stroke='#8fa6b8', col=INK, size=15, h=None):
+    h = h or (22 + 19 * len(lines))
+    o = [f'<rect x="{x0}" y="{yc-h/2:.1f}" width="{x1-x0}" height="{h}" rx="10" fill="{fill}" stroke="{stroke}" stroke-width="2"/>']
+    y = yc - 19 * (len(lines) - 1) / 2 + 5
+    for ln in lines:
+        o.append(T((x0 + x1) / 2, y, ln, size, 800, col, 'middle')); y += 19
+    return ''.join(o)
+
+
+def _fc_arrow(x1, y1, x2, y2, col=INK, w=2.6, head=11):
+    import math
+    a = math.atan2(y2 - y1, x2 - x1); hx, hy = x2 - head * math.cos(a), y2 - head * math.sin(a)
+    px, py = -math.sin(a) * head * 0.55, math.cos(a) * head * 0.55
+    return (f'<line x1="{x1}" y1="{y1}" x2="{hx:.1f}" y2="{hy:.1f}" stroke="{col}" stroke-width="{w}"/>'
+            f'<path d="M{x2} {y2} L{hx+px:.1f} {hy+py:.1f} L{hx-px:.1f} {hy-py:.1f} Z" fill="{col}"/>')
+
+
+def _fc_pill(xc, yc, text, w=None, fill='#fff3c4', stroke='#d4a72c', col='#7a5d00', size=13):
+    w = w or (len(re.sub(r'<[^>]+>', '', text)) * 7.4 + 22)
+    return (f'<rect x="{xc-w/2:.1f}" y="{yc-13}" width="{w:.1f}" height="26" rx="13" fill="{fill}" stroke="{stroke}" stroke-width="1.6"/>'
+            + T(xc, yc + 5, text, size, 800, col, 'middle'))
+
+
+import re
+
+
+def _sub(s):
+    return re.sub(r'([A-Za-z\)])(\d)(?![\d,])', r'\1<tspan font-size="11" baseline-shift="sub">\2</tspan>', s)
+
+
+def glycolysis_flow():
+    W, H = 1220, 470
+    b = []
+    EN = MUTED
+    def en(x, y, s, anchor='middle'): return T(x, y, s, 12.5, 700, EN, anchor, 'font-style="italic"')
+    b.append(T(20, 30, 'Phase 1: energy investment (steps 1&#8211;5, once per glucose)', 15, 900, PURPLE))
+    yc = 116
+    boxes1 = [(20, 130, ['Glucose']), (225, 395, ['Glucose', '6-phosphate']), (490, 660, ['Fructose', '6-phosphate']), (755, 905, ['Fructose 1,6-', 'bisphosphate']), (1040, 1200, ['Glyceraldehyde', '3-phosphate (&#215;2)'])]
+    for x0, x1, ln in boxes1: b.append(_fc_box(x0, x1, yc, ln, h=60))
+    labs1 = [('1 hexokinase', ''), ('2 phosphoglucose', 'isomerase'), ('3 phospho-', 'fructokinase-1'), ('4 aldolase', '')]
+    pills1 = ['ATP &#8594; ADP', None, 'ATP &#8594; ADP', None]
+    for i in range(4):
+        xa, xb = boxes1[i][1] + 6, boxes1[i + 1][0] - 6
+        b.append(_fc_arrow(xa, yc, xb, yc))
+        l1, l2 = labs1[i]
+        b.append(en((xa + xb) / 2, yc - (24 if l2 else 12), l1))
+        if l2: b.append(en((xa + xb) / 2, yc - 10, l2))
+        if pills1[i]: b.append(_fc_pill((xa + xb) / 2, yc + 30, pills1[i], w=118))
+    # DHAP above the aldolase arrow, with TPI to GAP
+    b.append(_fc_box(915, 1015, 40, ['DHAP'], h=34))
+    b.append(_fc_arrow(885, 84, 925, 58))
+    b.append(_fc_arrow(1018, 44, 1070, 84)); b.append(_fc_arrow(1082, 80, 1030, 40))
+    b.append(en(1040, 22, '5 triose phosphate isomerase', 'start'))
+    # Phase 2 snake (right to left)
+    b.append(T(1100, 222, 'Phase 2: energy payoff (steps 6&#8211;10, twice per glucose)', 15, 900, GREEN, 'end'))
+    y2 = 360
+    b.append(_fc_arrow(1120, 148, 1120, y2 - 32))
+    b.append(en(1110, 250, '6 glyceraldehyde-3-phosphate', 'end')); b.append(en(1110, 264, 'dehydrogenase', 'end'))
+    b.append(_fc_pill(1010, 294, 'NAD<tspan baseline-shift="super" font-size="10">+</tspan> &#8594; NADH, + P<tspan baseline-shift="sub" font-size="10">i</tspan> (&#215;2)', w=196, fill='#e3ecfb', stroke='#7d9bd6', col=BLUE))
+    boxes2 = [(1040, 1200, ['1,3-Bisphospho-', 'glycerate']), (820, 980, ['3-Phospho-', 'glycerate']), (600, 760, ['2-Phospho-', 'glycerate']), (380, 540, ['Phosphoenol-', 'pyruvate (PEP)']), (160, 320, ['Pyruvate (&#215;2)'])]
+    for x0, x1, ln in boxes2: b.append(_fc_box(x0, x1, y2, ln, fill='#f3f7f4'))
+    labs2 = [('7 phosphoglycerate', 'kinase'), ('8 phosphoglycerate', 'mutase'), ('9 enolase', '(&#8722; H<tspan font-size="10" baseline-shift="sub">2</tspan>O)'), ('10 pyruvate', 'kinase')]
+    pills2 = ['ADP &#8594; ATP (&#215;2)', None, None, 'ADP &#8594; ATP (&#215;2)']
+    for i in range(4):
+        xa, xb = boxes2[i][0] - 6, boxes2[i + 1][1] + 6
+        b.append(_fc_arrow(xa, y2, xb, y2))
+        b.append(en((xa + xb) / 2, y2 - 40, labs2[i][0])); b.append(en((xa + xb) / 2, y2 - 26, labs2[i][1]))
+        if pills2[i]: b.append(_fc_pill((xa + xb) / 2, y2 + 46, pills2[i], w=150))
+    # net box
+    b.append(f'<rect x="20" y="172" width="300" height="110" rx="12" fill="#efeaf8" stroke="{PURPLE}" stroke-width="2"/>')
+    for k, ln in enumerate(['Net per glucose:', '2 ATP + 2 NADH', '+ 2 pyruvate', '(no O<tspan font-size="11" baseline-shift="sub">2</tspan> needed)']):
+        b.append(T(170, 202 + 24 * k, ln, 15 if k else 14, 900 if k < 3 else 700, PURPLE, 'middle'))
+    alt = ('Glycolysis in two phases. Energy-investment phase: glucose is phosphorylated by hexokinase using ATP to glucose 6-phosphate, isomerized to fructose 6-phosphate, '
+           'phosphorylated again by phosphofructokinase-1 using a second ATP to fructose 1,6-bisphosphate, and split by aldolase into dihydroxyacetone phosphate (DHAP) and '
+           'glyceraldehyde 3-phosphate; triose phosphate isomerase converts DHAP into a second glyceraldehyde 3-phosphate. Energy-payoff phase, run twice per glucose: '
+           'glyceraldehyde 3-phosphate is oxidized by its dehydrogenase with NAD+ and inorganic phosphate to 1,3-bisphosphoglycerate; phosphoglycerate kinase transfers a '
+           'phosphate to ADP giving ATP and 3-phosphoglycerate; a mutase moves the phosphate to give 2-phosphoglycerate; enolase removes water to give phosphoenolpyruvate; '
+           'pyruvate kinase transfers the phosphate to ADP giving ATP and pyruvate. Net per glucose: 2 ATP, 2 NADH and 2 pyruvate, with no oxygen needed.')
+    open(OUT + 'fig-p597193-glycolysis-flow.svg', 'w').write(svg(W, H, alt, ''.join(b)))
+
+
+glycolysis_flow()
+print('gflow ok')

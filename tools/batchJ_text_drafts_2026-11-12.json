@@ -1,0 +1,278 @@
+{
+ "597092": [
+  {
+   "old": "more than four = treat as insoluble</strong>.</p>",
+   "new": "more than four = treat as insoluble</strong>.</p>\n<p>&ldquo;Soluble&rdquo; in this rule means that a useful amount dissolves, not that the two liquids mix in every proportion. Alcohols with one to three carbons are <em>miscible</em> with water. 1-Butanol is not: only about 7&ndash;8 g dissolves in 100 mL of water, and the rest forms a separate layer. That is still enough to count as soluble on exams.</p>",
+   "count": 1,
+   "note": "Item 1: 4.3 reconcile the 4-carbon cut-off with ~8 g/100 mL (soluble, not miscible)",
+   "sources": [
+    "PubChem 1-butanol (CID 263): water solubility about 7-8 g/100 mL at 20-25 C",
+    "4.8 Lecture Connection on this book already says 'about 7-8 g/100 mL'"
+   ]
+  }
+ ],
+ "597097": [
+  {
+   "old": "(about 8 g/100 mL of water).</p>",
+   "new": "(about 8 g/100 mL of water).</p>\n<p>In this course both still count as <strong>soluble</strong> (four carbons or fewer, Section 4.3). &ldquo;Soluble&rdquo; means a useful amount dissolves; it does not mean <em>miscible</em>. Ethanol and dimethyl ether mix with water in any proportion, but diethyl ether and 1-butanol dissolve only to about 8 g per 100 mL, and any more forms a separate layer.</p>",
+   "count": 1,
+   "note": "Item 1: 4.8 same reconciliation after the source's 8 g/100 mL sentence",
+   "sources": [
+    "PubChem diethyl ether (CID 3283): about 6.9 g/100 mL at 20 C; 1-butanol about 7-8 g/100 mL"
+   ]
+  }
+ ],
+ "597188": [
+  {
+   "old": "<section class=\"box-warning\">\n<span id=\"Broader_definition_of_oxidation_and_reduction\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Broader definition of oxidation and reduction</h5>\n\n<p>Oxidation and reduction are not limited to making or breaking a bond with oxygen or hydrogen; broader definitions are the following.</p>",
+   "new": "<section class=\"box-note\">\n<span id=\"Broader_definition_of_oxidation_and_reduction\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Optional: a broader definition of oxidation and reduction</h5>\n\n<p><em>This box is optional and is not tested. For this course, the rule from Section 5.4 is enough: oxidation adds C&ndash;O bonds or removes C&ndash;H bonds, and reduction does the reverse.</em></p>\n\n<p>Oxidation and reduction are not limited to making or breaking a bond with oxygen or hydrogen; broader definitions are the following.</p>",
+   "count": 1,
+   "note": "Item 2: 13.1 re-box the 'Broader definition' paragraph as an optional note (box-warning -> box-note, retitled, one-line 'not tested' lead-in); source text kept",
+   "sources": []
+  }
+ ],
+ "597104": [
+  {
+   "old": "<p>The carbonyl group of an aldehyde or a ketone is a polar double bond just like the acyl group of a carboxylic acid derivative, i.e., ",
+   "new": "<p><strong>Start from Chapter 3.</strong> In hydration (Section 3.4), water adds across a C=C double bond: the H of H&ndash;OH goes to one carbon, the OH goes to the other, and the double bond becomes a single bond. An alcohol, R&ndash;O&ndash;H, does the same thing to the C=O of an aldehyde or ketone. The alcohol&rsquo;s H goes to the carbonyl oxygen, its OR goes to the carbonyl carbon, and C=O becomes C&ndash;O. The only change is that the pieces are H and OR instead of H and OH.</p>\n\n<p>The carbonyl group of an aldehyde or a ketone is a polar double bond, ",
+   "count": 1,
+   "note": "Item 3: 5.3 add a Chapter 3 hydration bridge before the opening paragraph and trim 'just like the acyl group of a carboxylic acid derivative, i.e.,' (rest of source paragraph kept)",
+   "sources": [
+    "Section 3.4 (597081) hydration wording"
+   ]
+  }
+ ],
+ "597200": [
+  {
+   "old": "that break down the products of stage I of catabolism (monosaccharides, fatty acids, and amino acids) to produce a common end product, acetyl-coenzyme A (acetyl-CoA) in stage <span class=\"acronym-ignore\">II</span> of catabolism.</p>",
+   "new": "that break down the products of Stage 1 of catabolism (monosaccharides, fatty acids, and amino acids) to produce a common end product, acetyl-coenzyme A (acetyl-CoA) in Stage 2 of catabolism.</p>",
+   "count": 1,
+   "note": "Item 4: 14.1 Roman to Arabic stage numerals in source paragraph (Arabic is the style of 13.1, 13.3, 14.1 LC, 14.4, 14.6)",
+   "sources": []
+  },
+  {
+   "old": "<p>Two Stage II pathways feed this chapter.",
+   "new": "<p>Two Stage 2 pathways feed this chapter.",
+   "count": 1,
+   "note": "Item 4: 14.1 'Stage II pathways' -> 'Stage 2 pathways'",
+   "sources": []
+  },
+  {
+   "old": "<h2 class=\"editable\">Lecture Connection</h2>\n<p>Chapter 13 covered Stage 1",
+   "new": "<h2 class=\"editable\">Lecture Connection</h2>\n<p><strong>Stage map:</strong> Stage 1, digestion (food &rarr; monomers) &rarr; Stage 2, monomers &rarr; acetyl CoA &rarr; Stage 3, citric acid cycle + electron transport (most of the ATP).</p>\n<p>Chapter 13 covered Stage 1",
+   "count": 1,
+   "note": "Item 4: 14.1 one-line stage map at the top of the Lecture Connection",
+   "sources": [
+    "13.1 (597188) Lecture Connection stage definitions"
+   ]
+  }
+ ],
+ "597201": [
+  {
+   "old": "is the beginning of stage III of catabolism.",
+   "new": "is the beginning of Stage 3 of catabolism.",
+   "count": 1,
+   "note": "Item 4 (optional companion): 14.2 source sentence 'stage III' -> 'Stage 3' for the same consistency",
+   "sources": []
+  }
+ ],
+ "597209": [
+  {
+   "old": "due to their higher energy density.</p>",
+   "new": "due to their higher energy density.</p>\n<p><strong>Same sum, two groupings.</strong> The Lecture Connection below counts the same molecules in a different order. For palmitate (16 C), the formula above gives 7 cycles &times; 14 + 10 &minus; 2 = 98 + 10 &minus; 2 = <strong>106 ATP</strong>. The lecture method gives 8 acetyl CoA &times; 10 (80) + 7 NADH &times; 2.5 (17.5) + 7 FADH<sub>2</sub> &times; 1.5 (10.5) &minus; 2 = <strong>106 ATP</strong>. Each &ldquo;14 per cycle&rdquo; is one NADH and one FADH<sub>2</sub> (4 ATP) plus one acetyl CoA (10 ATP); the extra 10 is the eighth acetyl CoA released by the last cycle. Both methods give 120 ATP for stearate.</p>",
+   "count": 1,
+   "note": "Item 5: 15.4 show the source '14 per cycle + 10 - 2' and the lecture count are the same sum (palmitate 106)",
+   "sources": [
+    "CONVENTIONS.md: 2.5/1.5/10, activation -2, 106 palmitate, 120 stearate"
+   ]
+  }
+ ],
+ "597216": [
+  {
+   "old": "uric acid crystals accumulate in the joints.",
+   "new": "uric acid crystals accumulate in the joints. In humans, uric acid does not come from amino-acid nitrogen; that nitrogen leaves as urea, measured as BUN. Uric acid is made when the body breaks down purines (adenine and guanine from nucleotides), so serum uric acid is a separate lab value from BUN.",
+   "count": 1,
+   "note": "Item 6: 15.9 gout box, uric acid from purines not amino-acid nitrogen; separate from BUN",
+   "sources": [
+    "15.9 page text (BUN paragraph); 7.8 table lists uric acid under purine"
+   ]
+  }
+ ],
+ "597136": [
+  {
+   "old": "18 mg/dL = 1 mmol/L, so 90 mg/dL is 5.0 mmol/L.",
+   "new": "18 mg/dL = 1 mmol/L, so 90 mg/dL is 90 &divide; 18 = 5.0 mmol/L. To go the other way, multiply: 7.0 mmol/L &times; 18 = 126 mg/dL, the fasting diabetes cutoff, and 3.9 mmol/L &times; 18 &asymp; 70 mg/dL, the hypoglycemia line.",
+   "count": 1,
+   "note": "Item 7: 8.3 extend the existing one-way example (90 mg/dL -> 5.0 mmol/L) to both directions; batch F had not added this",
+   "sources": [
+    "Glucose molar mass 180.16 g/mol: 1 mmol/L = 18.0 mg/dL",
+    "ADA Standards of Care: fasting plasma glucose >= 126 mg/dL (7.0 mmol/L); hypoglycemia < 70 mg/dL (3.9 mmol/L)"
+   ]
+  }
+ ],
+ "597149": [
+  {
+   "old": "and loss of vitamins A, D, E, and K.</p>\n</div>",
+   "new": "and loss of vitamins A, D, E, and K.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 1: Read Rosa&rsquo;s lipid panel</p>\n<p><strong>Problem.</strong> Rosa&rsquo;s panel (Chapter 9 opening page) reports LDL 142 mg/dL, HDL 38 mg/dL and triglycerides 230 mg/dL, but not her total cholesterol. Use the lab formula to find it, then compare each value with the targets in the box above.</p>\n<p><strong>Solution.</strong> The lab formula is LDL = total cholesterol &minus; HDL &minus; triglycerides/5. First, 230/5 = 46 mg/dL. Rearrange: total cholesterol = LDL + HDL + triglycerides/5 = 142 + 38 + 46 = <strong>226 mg/dL</strong>. Compare: total 226 (target below 200, high); LDL 142 (target below 100, high); HDL 38 (below 40, low); triglycerides 230 (target below 150, high).</p>\n<p><strong>Check.</strong> Put the answer back in the formula: 226 &minus; 38 &minus; 46 = 142 mg/dL, the reported LDL. Labs stop using this formula when triglycerides are above 400 mg/dL, because the triglycerides/5 estimate is no longer reliable.</p>\n</div>",
+   "count": 1,
+   "note": "Item 8: 9.6 boxed LDL (Friedewald) worked example with Rosa's numbers (from 9.0 opener 597047 / 9.7 guide), solving total cholesterol = 226",
+   "sources": [
+    "Friedewald WT et al., Clin Chem 1972;18:499-502 (LDL = TC - HDL - TG/5, mg/dL; not valid for TG > 400 mg/dL)",
+    "Rosa values: pages 597047 and 597150"
+   ]
+  }
+ ],
+ "597189": [
+  {
+   "old": "This is the pattern for every kinase step you will meet.</p>\n</div>",
+   "new": "This is the pattern for every kinase step you will meet.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 2: Making ATP from creatine phosphate</p>\n<p><strong>Problem.</strong> In a sprinting muscle, creatine kinase moves a phosphate from creatine phosphate to ADP. Use the table above to find &Delta;G&deg;&prime; for creatine phosphate + ADP &rarr; creatine + ATP.</p>\n<p><strong>Solution.</strong> Add two reactions. Creatine phosphate + H<sub>2</sub>O &rarr; creatine + P<sub>i</sub> releases 10.3 kcal/mol (&minus;10.3, from the table). Making ATP is the reverse of ATP hydrolysis, so ADP + P<sub>i</sub> &rarr; ATP + H<sub>2</sub>O needs 7.3 kcal/mol (+7.3). Sum: creatine phosphate + ADP &rarr; creatine + ATP, &Delta;G&deg;&prime; = &minus;10.3 + 7.3 = <strong>&minus;3.0 kcal/mol</strong>. The negative sign means the reaction is favorable.</p>\n<p><strong>Check.</strong> This works because creatine phosphate sits <em>above</em> ATP in the table. A compound below ATP cannot make ATP this way: glucose 6-phosphate gives &minus;3.3 + 7.3 = +4.0 kcal/mol, which is unfavorable. (Use 7.3 kcal/mol for ATP, as in Example 1 and the Professor Tip.)</p>\n</div>",
+   "count": 1,
+   "note": "Item 9: 13.2 Example 2, creatine phosphate + ADP coupling, -10.3 + 7.3 = -3.0 kcal/mol (table: creatine phosphate -10.3, glucose 6-phosphate -3.3; table prints ATP as -7.5, page convention 7.3)",
+   "sources": [
+    "13.2 Table 13.2.1 values on the live page",
+    "CONVENTIONS.md: ATP hydrolysis 7.3 kcal/mol"
+   ]
+  }
+ ],
+ "597203": [
+  {
+   "old": "Fewer protons pumped means less ATP: 2.5 per NADH, 1.5 per FADH<sub>2</sub>.</p>",
+   "new": "Fewer protons pumped means less ATP: 2.5 per NADH, 1.5 per FADH<sub>2</sub>.</p>\n<div class=\"box-note\">\n<p class=\"boxtitle\">Proton bookkeeping: where 2.5 and 1.5 come from</p>\n<ul>\n<li>For each pair of electrons: Complex I moves about 4 H<sup>+</sup>, Complex III about 4, and Complex IV about 2 (it moves 4 for each O<sub>2</sub>, which takes two electron pairs).</li>\n<li>NADH (I, III and IV): 4 + 4 + 2 = <strong>about 10 H<sup>+</sup></strong>. FADH<sub>2</sub> (III and IV only): 4 + 2 = <strong>about 6 H<sup>+</sup></strong>.</li>\n<li>ATP synthase uses about 3 H<sup>+</sup> to make one ATP, and about 1 more H<sup>+</sup> brings ADP and P<sub>i</sub> in as the ATP goes out. That is <strong>about 4 H<sup>+</sup> per ATP</strong> delivered to the cell.</li>\n<li>NADH: 10 &divide; 4 = <strong>2.5 ATP</strong>. FADH<sub>2</sub>: 6 &divide; 4 = <strong>1.5 ATP</strong>.</li>\n</ul>\n<p>You do not need to memorize the proton counts. They show where the course values 2.5 and 1.5 come from.</p>\n</div>",
+   "count": 1,
+   "note": "Item 10: 14.4 proton bookkeeping box after 'Why 2.5 and 1.5'; consistent with page (Complex I pumps four H+; Complex IV 4 H+ per O2) and 14.5 (about 10 per NADH, about 4 per ATP)",
+   "sources": [
+    "Berg, Tymoczko & Stryer, Biochemistry (10 H+ per NADH, 6 per FADH2; ~4 H+ per ATP including transport)",
+    "Lehninger Principles of Biochemistry, Ch. 19 (4/4/2 H+ per electron pair; P/O 2.5 and 1.5)",
+    "14.5 (597204) 'Why older textbooks say 36 or 38' paragraph"
+   ]
+  }
+ ],
+ "597093": [
+  {
+   "old": "treats every small 1&deg; alcohol the same way.</p>\n</div>",
+   "new": "treats every small 1&deg; alcohol the same way.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example: Read the alcohol label</p>\n<p><strong>Problem.</strong> A hand-sanitizer label reads &ldquo;ethyl alcohol 62%.&rdquo; A swab packet reads &ldquo;70% isopropyl alcohol.&rdquo; A bottle of vodka is labeled 80 proof. (a) Does the sanitizer meet the CDC&rsquo;s advice? (b) What percent alcohol is the vodka, and could it replace hand sanitizer?</p>\n<p><strong>Solution.</strong> (a) The CDC advises a hand sanitizer with <strong>at least 60% alcohol</strong> when soap and water are not available. 62% is above 60%, so yes. The 70% swab is also above 60%; its 30% water helps the alcohol denature bacterial proteins, as described above. (b) Proof is twice the percent: 80 &divide; 2 = <strong>40% ethanol</strong>. That is below 60%, so it is too dilute to work as a hand sanitizer.</p>\n<p><strong>Check.</strong> Going the other way, 62% ethanol would be 124 proof. More alcohol is not always better: pure alcohol evaporates before it can do its job, which is why swabs are 70%, not 100%.</p>\n</div>",
+   "count": 1,
+   "note": "Item 11: 4.4 worked label example (CDC >=60%, 70% swab, 80 proof = 40%) after the Nursing box; titled 'Example:' unnumbered to match the page's existing unnumbered 'Example: Predict the alcohol'",
+   "sources": [
+    "CDC, Hand Sanitizer Guidelines and Recommendations: https://www.cdc.gov/clean-hands/about/hand-sanitizer.html ('use a hand sanitizer with at least 60% alcohol')",
+    "US proof = 2 x % ABV (27 CFR 5.65 / TTB)"
+   ]
+  }
+ ],
+ "597094": [
+  {
+   "old": "and a little 1-butene (one alkyl group). (Structures drawn by Daniel Kwasniewski with the Bond Voyage! engine; CC BY 4.0.)</figcaption></figure>",
+   "new": "and a little 1-butene (one alkyl group). (Structures drawn by Daniel Kwasniewski with the Bond Voyage! engine; CC BY 4.0.)</figcaption></figure>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example: Zaitsev&rsquo;s rule in a ring</p>\n<p><strong>Problem.</strong> Predict the major and minor alkenes when 2-methylcyclohexanol is dehydrated with H<sub>2</sub>SO<sub>4</sub> and heat.</p>\n<p><strong>Solution.</strong> Number the ring so the OH carbon is C1 and the CH<sub>3</sub> is on C2. The OH carbon has two ring neighbors. C2 is a CH (one H). C6 is a CH<sub>2</sub> (two H atoms). Removing the H from C2 puts the C=C between C1 and C2, next to the methyl; the product is <strong>1-methylcyclohexene</strong>, whose C=C carries three carbon groups (two ring carbons and the CH<sub>3</sub>). Removing an H from C6 puts the C=C on the other side; renumbered so the C=C is C1&ndash;C2, this is <strong>3-methylcyclohexene</strong>, whose C=C carries only two carbon groups. Zaitsev&rsquo;s rule: 1-methylcyclohexene is major, 3-methylcyclohexene is minor.</p>\n<p><strong>Check.</strong> Both products are C<sub>7</sub>H<sub>12</sub>, which is 2-methylcyclohexanol (C<sub>7</sub>H<sub>14</sub>O) minus H<sub>2</sub>O. In a ring, the ring carbons count as alkyl groups on the C=C, and the neighbor with fewer hydrogens (C2) gives the major product, just as in the open-chain example.</p>\n</div>",
+   "count": 1,
+   "note": "Item 12: 4.5 ring Zaitsev example (2-methylcyclohexanol) after Figure 4.5.2; text only, no mechanism, no E/Z",
+   "sources": [
+    "Standard textbook result (e.g., McMurry, Organic Chemistry, alcohol dehydration): 1-methylcyclohexene major, 3-methylcyclohexene minor"
+   ]
+  }
+ ],
+ "597095": [
+  {
+   "old": "which is why it is the glycol allowed in foods and medicines.</p>",
+   "new": "which is why it is the glycol allowed in foods and medicines.</p>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 1: Follow ethylene glycol one step at a time</p>\n<p><strong>Problem.</strong> Ethylene glycol, HOCH<sub>2</sub>CH<sub>2</sub>OH, has two 1&deg; alcohol groups. Use the 1&deg; alcohol pattern from Section 4.5 (alcohol &rarr; aldehyde &rarr; carboxylic acid) to show how the body turns it into oxalic acid.</p>\n<p><strong>Solution.</strong> Oxidize one end at a time; each arrow is one [O] step.</p>\n<ol>\n<li>HOCH<sub>2</sub>CH<sub>2</sub>OH &rarr; HOCH<sub>2</sub>CHO (glycolaldehyde): the first CH<sub>2</sub>OH becomes an aldehyde.</li>\n<li>HOCH<sub>2</sub>CHO &rarr; HOCH<sub>2</sub>COOH (glycolic acid): that aldehyde becomes a carboxylic acid.</li>\n<li>HOCH<sub>2</sub>COOH &rarr; OHC&ndash;COOH (glyoxylic acid): the second CH<sub>2</sub>OH becomes an aldehyde.</li>\n<li>OHC&ndash;COOH &rarr; HOOC&ndash;COOH (<strong>oxalic acid</strong>): the second aldehyde becomes a carboxylic acid.</li>\n</ol>\n<p><strong>Check.</strong> Each step adds a C&ndash;O bond or removes a C&ndash;H bond, so each is an oxidation. Both ends follow the same alcohol &rarr; aldehyde &rarr; acid pattern as ethanol. At body pH the &ndash;COOH groups lose H<sup>+</sup>, so the final product is oxalate, <sup>&minus;</sup>OOC&ndash;COO<sup>&minus;</sup>, the ion that precipitates with Ca<sup>2+</sup>. The acids made along the way, especially glycolic acid, cause the metabolic acidosis.</p>\n</div>",
+   "count": 1,
+   "note": "Item 13: 4.6 stepwise ethylene glycol oxidation (4 [O] steps to oxalic acid) after the toxicity paragraph; condensed formulas only",
+   "sources": [
+    "Kraut JA, Kurtz I. Toxic alcohol ingestions. Clin J Am Soc Nephrol 2008;3:208-225 (ethylene glycol -> glycolaldehyde -> glycolic acid -> glyoxylic acid -> oxalic acid; glycolate drives acidosis)"
+   ]
+  }
+ ],
+ "597103": [
+  {
+   "old": "            <td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">49</td>\n        </tr>",
+   "new": "            <td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">49</td>\n        </tr>\n        <tr>\n            <td data-th=\"Compound\" style=\"text-align:center;\">CH<sub>3</sub>COCH<sub>3</sub></td>\n            <td data-th=\"Family\" style=\"text-align:center;\">ketone</td>\n            <td data-th=\"Molar Mass\" style=\"text-align:center;\">58</td>\n            <td data-th=\"Type of Intermolecular Forces\" style=\"text-align:center;\">strong dipole</td>\n            <td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">56</td>\n        </tr>",
+   "count": 1,
+   "note": "Item 14: 5.2 Table 5.2.1 add propanone row (58 g/mol, strong dipole, 56 C) after the aldehyde row, same 5 columns",
+   "sources": [
+    "NIST Chemistry WebBook, acetone: Tboil 329.2 K (56 C); M = 58.08 g/mol"
+   ]
+  },
+  {
+   "old": "(propanal and propanone, for example) have very similar boiling points",
+   "new": "(propanal, 49 &deg;C, and propanone, 56 &deg;C, both in the section&rsquo;s table) have very similar boiling points",
+   "count": 1,
+   "note": "Item 14 (companion): 5.2 Lecture Connection points to the new row",
+   "sources": []
+  }
+ ],
+ "597058": [
+  {
+   "old": "so only CO<sub>2</sub> is nonpolar. &#10003;</p>\n</div>",
+   "new": "so only CO<sub>2</sub> is nonpolar. &#10003;</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 3: Three organic molecules, same two questions</p>\n<p><strong>Problem.</strong> Is each molecule polar? Can it hydrogen bond with itself? (a) ethanol, CH<sub>3</sub>CH<sub>2</sub>OH; (b) diethyl ether, CH<sub>3</sub>CH<sub>2</sub>OCH<sub>2</sub>CH<sub>3</sub>; (c) hexane, CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>.</p>\n<p><strong>Solution.</strong> (a) Ethanol has polar C&ndash;O and O&ndash;H bonds. The oxygen has two bonds and two lone pairs, so it is bent, and the two bond dipoles do not cancel. <strong>Polar.</strong> It has an H on O, so it <strong>can</strong> hydrogen bond with itself (Section 1.8).</p>\n<p>(b) Diethyl ether has two polar C&ndash;O bonds. The oxygen is bent, so they do not cancel. <strong>Polar</strong>, but less so than ethanol. It has no H on O, so it <strong>cannot</strong> hydrogen bond with itself; it can only accept a hydrogen bond from water.</p>\n<p>(c) Hexane has only C&ndash;C and C&ndash;H bonds, which are essentially nonpolar. <strong>Nonpolar</strong>, no hydrogen bonding.</p>\n<p><strong>Check.</strong> Ask the two questions in order. An oxygen with two lone pairs is always bent, so small molecules with a C&ndash;O&ndash;C or C&ndash;O&ndash;H group are polar; a hydrocarbon is not.</p>\n</div>",
+   "count": 1,
+   "note": "Item 15: 1.5 Lecture Connection Example 3 (ethanol / diethyl ether / hexane) after Example 2",
+   "sources": [
+    "1.5 and 1.8 page conventions (bent O, H-bond rule)"
+   ]
+  }
+ ],
+ "597159": [
+  {
+   "old": "so the order in the name must match the order in the sequence.</p>\n</div>",
+   "new": "so the order in the name must match the order in the sequence.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 2: A pentapeptide in one-letter code</p>\n<p><strong>Problem.</strong> A peptide is written KGDAF. (a) Name the residues and give the N- and C-terminus. (b) How many peptide bonds does it have? (c) What is its net charge at pH 7.4?</p>\n<p><strong>Solution.</strong> (a) K = lysine, G = glycine, D = aspartate (aspartic acid), A = alanine, F = phenylalanine: Lys-Gly-Asp-Ala-Phe. Sequences are written N to C, so <strong>lysine</strong> is the N-terminus and <strong>phenylalanine</strong> is the C-terminus. (b) Five residues are joined by <strong>4 peptide bonds</strong>. (c) Count every charged group at pH 7.4: N-terminal &ndash;NH<sub>3</sub><sup>+</sup> (+1), C-terminal &ndash;COO<sup>&minus;</sup> (&minus;1), lysine side chain (basic, +1), aspartate side chain (acidic, &minus;1). Gly, Ala and Phe have neutral side chains. Net charge = +1 &minus; 1 + 1 &minus; 1 = <strong>0</strong>.</p>\n<p><strong>Check.</strong> Peptide bonds = residues &minus; 1, so 5 &minus; 1 = 4, and complete hydrolysis would use 4 water molecules. The two termini cancel each other, so only the side chains decide the net charge; here one basic (+1) and one acidic (&minus;1) side chain also cancel. With 5 residues it is an oligopeptide.</p>\n</div>",
+   "count": 1,
+   "note": "Item 16: 10.6 Example 2, KGDAF: termini, 4 peptide bonds, net charge 0 at pH 7.4 by course categories",
+   "sources": [
+    "CONVENTIONS.md: side-chain charge at pH 7.4 by category; oligopeptide 2-20"
+   ]
+  }
+ ],
+ "597204": [
+  {
+   "old": "which is why hypoxic tissue becomes acidotic so quickly.</p>\n</div>",
+   "new": "which is why hypoxic tissue becomes acidotic so quickly.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 4: Reading the burrito&rsquo;s label</p>\n<p><strong>Problem.</strong> The burrito in &ldquo;Energy in food&rdquo; above has 30 g carbohydrate, 8 g protein and 12 g fat (260 Calories). (a) What percent of its Calories come from fat? (b) About how long would Rosa need to walk to use 260 Calories? Assume brisk walking (3.5 mph) burns about 140 Calories per 30 minutes, the CDC estimate for a 154-lb person.</p>\n<p><strong>Solution.</strong> (a) Fat Calories = 12 g &times; 9 kcal/g = 108 Calories. Percent from fat = 108 &divide; 260 &times; 100 &asymp; <strong>42%</strong>. (b) 140 Calories per 30 minutes is about 4.7 Calories per minute. 260 &divide; 4.7 &asymp; <strong>55 minutes</strong> of walking. Rosa&rsquo;s 30-minute evening walk uses about 140 Calories, roughly half the burrito.</p>\n<p><strong>Check.</strong> Fat is only 12 of the 50 grams, yet it supplies 42% of the Calories, because each gram of fat gives 9 kcal instead of 4. A heavier person burns more per minute and a lighter person less, so the walking time is an estimate.</p>\n</div>",
+   "count": 1,
+   "note": "Item 17: 14.5 Example 4 after Example 3: fat-Calorie % of the page's own burrito (42%) and walking minutes (~55) using CDC 140 kcal/30 min at 3.5 mph",
+   "sources": [
+    "CDC, Physical Activity and Your Weight and Health, Moderate Physical Activity table: walking 3.5 mph, about 140 Calories per 30 min / 280 per hour for a 154-lb person: https://www.cdc.gov/healthy-weight-growth/physical-activity/index.html"
+   ]
+  }
+ ],
+ "597124": [
+  {
+   "old": "    <li><img alt=\"CH3CH2CH2CH2CH2-C(=O)-NH2.\" class=\"internal\" src=\"/@api/deki/files/128177/clipboard_ea72761843b67752dc441426669d9cc0b.png\" fileid=\"128177\" /></li>\n</ol>",
+   "new": "    <li><img alt=\"CH3CH2CH2CH2CH2-C(=O)-NH2.\" class=\"internal\" src=\"/@api/deki/files/128177/clipboard_ea72761843b67752dc441426669d9cc0b.png\" fileid=\"128177\" /></li>\n</ol>\n\n<dl>\n    <dt><strong class=\"emphasis bold\">Answer a:</strong></dt>\n    <dd>\n    <p>butanamide (common name butyramide)</p>\n    </dd>\n    <dt><strong class=\"emphasis bold\">Answer b:</strong></dt>\n    <dd>\n    <p>hexanamide</p>\n    </dd>\n</dl>",
+   "count": 1,
+   "note": "Item 18: 7.4 Exercise 7.4.1 answers in the source's own 'Answer a:/b:' dl style (CH3CH2CH2CONH2 = butanamide; C5H11CONH2 = hexanamide)",
+   "sources": [
+    "Image alt text of the two exercise structures on the live page"
+   ]
+  },
+  {
+   "old": "unlike benzamide (mp 132 &deg;C; see Section 7.5).</p>\n</div>",
+   "new": "unlike benzamide (mp 132 &deg;C; see Section 7.5).</p>\n</div>\n<p><strong>Check yourself: name and classify these amides.</strong> (a) CH<sub>3</sub>CH<sub>2</sub>CONH<sub>2</sub> (b) CH<sub>3</sub>CONHCH<sub>3</sub> (c) HCON(CH<sub>3</sub>)<sub>2</sub></p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>(a) Propanamide (common name propionamide), a 1&deg; amide. (b) N-methylethanamide (N-methylacetamide), a 2&deg; amide. (c) N,N-dimethylmethanamide (N,N-dimethylformamide), a 3&deg; amide; the parent acid is methanoic (formic) acid.</div></details></div>",
+   "count": 1,
+   "note": "Item 18: 7.4 'Check yourself: name these amides' (3 items) after Example 1, in the page-family Practice + answer-inline style",
+   "sources": []
+  },
+  {
+   "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+   "new": "the section text above keeps its own license and attribution.</p>\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p><strong>&ldquo;Check yourself: name and classify these amides&hellip;&rdquo;</strong></p><div>(a) Propanamide (common name propionamide), a 1&deg; amide. (b) N-methylethanamide (N-methylacetamide), a 2&deg; amide. (c) N,N-dimethylmethanamide (N,N-dimethylformamide), a 3&deg; amide; the parent acid is methanoic (formic) acid.</div></div>\n</div></div>\n</div></div>",
+   "count": 1,
+   "note": "Item 18: 7.4 print answer key (page had none) mirroring the inline answer, same markup as 14.4",
+   "sources": []
+  }
+ ],
+ "597128": [
+  {
+   "old": "Nicotine shows both kinds at once.</p>\n</div>",
+   "new": "Nicotine shows both kinds at once.</p>\n</div>\n<p><strong>Check yourself: name the ring.</strong> (a) A six-membered aromatic ring with two nitrogens, found in cytosine. (b) A five-membered aromatic ring with two nitrogens, found in histidine. (c) A six-membered ring fused to a five-membered ring, with four nitrogens, found in caffeine. (d) A benzene ring fused to a five-membered ring with one N&ndash;H, found in serotonin. (e) Which of these rings has a nitrogen that is <em>not</em> basic: pyridine or pyrrole?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>(a) Pyrimidine. (b) Imidazole. (c) Purine. (d) Indole. (e) Pyrrole: its N&ndash;H nitrogen has given its lone pair to the aromatic ring; the pyridine nitrogen keeps its lone pair and is weakly basic.</div></details></div>",
+   "count": 1,
+   "note": "Item 18: 7.8 'Check yourself: name the ring' (5 items) after the Professor Tip, before Figure 7.8.2",
+   "sources": [
+    "7.8 page ring list, table and Professor Tip"
+   ]
+  },
+  {
+   "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+   "new": "the section text above keeps its own license and attribution.</p>\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p><strong>&ldquo;Check yourself: name the ring&hellip;&rdquo;</strong></p><div>(a) Pyrimidine. (b) Imidazole. (c) Purine. (d) Indole. (e) Pyrrole: its N&ndash;H nitrogen has given its lone pair to the aromatic ring; the pyridine nitrogen keeps its lone pair and is weakly basic.</div></div>\n</div></div>\n</div></div>",
+   "count": 1,
+   "note": "Item 18: 7.8 print answer key (page had none)",
+   "sources": []
+  }
+ ]
+}
