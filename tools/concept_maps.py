@@ -1,4 +1,7 @@
-import json, subprocess, os
+import json, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from pathway import render  # Python port of pathway.js (no node needed)
+# Print sizing (2026-11-13): font 17 / edge labels 14 so the maps print at about 7 pt; leaf text wraps at 19 characters.
 # Each map: title, root, branches [(link, node, [(link, leaf),...]),...]
 M = {
 1:("Bonding review","Covalent molecules",[
@@ -104,12 +107,12 @@ def spec(ch, title, root, br):
     nodes=[{"id":"r","label":root,"col":(cols-1)/2,"row":0,"kind":"start"}]; edges=[]
     for i,(lk,lab,leaves) in enumerate(br):
         nid=f"b{i}"; nodes.append({"id":nid,"label":lab,"col":i,"row":1.25,"kind":"mol"})
-        edges.append({"from":"r","to":nid,"label":lk,"labelPos":0.55})
+        edges.append({"from":"r","to":nid,"label":lk,"labelPos":0.74})
         if leaves:
-            txt="\n".join("• "+wrap((ll+": "+lf.replace("\n"," ")),22).replace("\n","\n   ") for ll,lf in leaves)
-            nodes.append({"id":f"l{i}","label":txt,"col":i,"row":2.75 if len(leaves)==1 else 2.95,"kind":"note"})
+            txt="\n".join("• "+wrap((ll+": "+lf.replace("\n"," ")),16).replace("\n","\n   ") for ll,lf in leaves)
+            nodes.append({"id":f"l{i}","label":txt,"col":i,"row":2.8,"kind":"note"})
             edges.append({"from":nid,"to":f"l{i}","kind":"side"})
-    return {"title":f"Chapter {ch} concept map: {title}","colw":205,"rowh":78,"font":14,"pad":18,"nodes":nodes,"edges":edges}
+    return {"title":f"Chapter {ch} concept map: {title}","colw":205,"rowh":100,"font":17,"edgefont":14,"pad":18,"nodes":nodes,"edges":edges}
 
 def wrap(s, w=19):
     out=[];line=''
@@ -130,9 +133,6 @@ for ch,(title,root,br) in M.items():
         parts.append(s)
     alt=f"Concept map for Chapter {ch}, {title}. "+". ".join(parts)+"."
     sp["alt"]=alt; alts[ch]=alt
-    p=f"/tmp/cm_{ch}.json"; json.dump(sp,open(p,'w'))
-    svg=subprocess.run(["node","tools/pathway.js",p],capture_output=True,text=True,cwd=os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    if svg.returncode: print(ch, svg.stderr[:300]); continue
-    open(f"figures/conceptmaps/ch{ch:02d}.svg","w").write(svg.stdout)
+    open(f"figures/conceptmaps/ch{ch:02d}.svg","w").write(render(sp))
 json.dump(alts,open("/tmp/cm_alts.json","w"),ensure_ascii=False,indent=0)
 print("done", len(os.listdir("figures/conceptmaps")))
