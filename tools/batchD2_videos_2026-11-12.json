@@ -1,0 +1,106 @@
+{
+ "597062": [
+  {
+   "old": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RNQKJ1hnHes\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/RNQKJ1hnHes?rel=0\" title=\"Basic Concepts behind Intermolecular Forces (Daniel Kwasniewski (ItsDrDan), YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div>",
+   "count": 1,
+   "note": "guide video RNQKJ1hnHes -> wrapper"
+  },
+  {
+   "old": "<p><strong>Basic Concepts behind Intermolecular Forces</strong></p>",
+   "new": "<p><strong>Basic Concepts behind Intermolecular Forces</strong> (Daniel Kwasniewski (ItsDrDan))</p>",
+   "count": 1,
+   "note": "add credit"
+  }
+ ],
+ "597074": [
+  {
+   "old": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gSKpPWYVnTU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/gSKpPWYVnTU?rel=0\" title=\"Organic Chemistry: An Introduction (Part 1) (Daniel Kwasniewski (ItsDrDan), YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div>",
+   "count": 1,
+   "note": "guide video gSKpPWYVnTU -> wrapper"
+  },
+  {
+   "old": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xbsGe976lZ4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/xbsGe976lZ4?rel=0\" title=\"Organic Chemistry: An Introduction (Part 2) (Daniel Kwasniewski (ItsDrDan), YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div>",
+   "count": 1,
+   "note": "guide video xbsGe976lZ4 -> wrapper"
+  },
+  {
+   "old": "<p><strong>Organic Chemistry: An Introduction (Part 1)</strong> (16:41)</p>",
+   "new": "<p><strong>Organic Chemistry: An Introduction (Part 1)</strong> (16:41, Daniel Kwasniewski (ItsDrDan))</p>",
+   "count": 1,
+   "note": "add credit"
+  },
+  {
+   "old": "<p><strong>Organic Chemistry: An Introduction (Part 2)</strong> (19:55)</p>",
+   "new": "<p><strong>Organic Chemistry: An Introduction (Part 2)</strong> (19:55, Daniel Kwasniewski (ItsDrDan))</p>",
+   "count": 1,
+   "note": "add credit"
+  }
+ ],
+ "597141": [
+  {
+   "old": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ckrRl0L3sr4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/ckrRl0L3sr4?rel=0\" title=\"Fischer to Haworth Projections using Mannose (Daniel Kwasniewski (ItsDrDan), YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div>",
+   "count": 1,
+   "note": "guide video ckrRl0L3sr4 -> wrapper"
+  },
+  {
+   "old": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/fBVx-i_Ehmc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/fBVx-i_Ehmc?rel=0\" title=\"Tips and Tricks for Converting Haworth to Fischer Projections (Daniel Kwasniewski (ItsDrDan), YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div>",
+   "count": 1,
+   "note": "guide video fBVx-i_Ehmc -> wrapper"
+  },
+  {
+   "old": "<p><strong>Fischer to Haworth Projections using Mannose</strong> (17:13)</p>",
+   "new": "<p><strong>Fischer to Haworth Projections using Mannose</strong> (17:13, Daniel Kwasniewski (ItsDrDan))</p>",
+   "count": 1,
+   "note": "add credit"
+  },
+  {
+   "old": "<p><strong>Tips and Tricks for Converting Haworth to Fischer Projections</strong> (15:41)</p>",
+   "new": "<p><strong>Tips and Tricks for Converting Haworth to Fischer Projections</strong> (15:41, Daniel Kwasniewski (ItsDrDan))</p>",
+   "count": 1,
+   "note": "add credit"
+  }
+ ],
+ "597192": [
+  {
+   "old": "<div class=\"mt-video-widget mt-video-width-55\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/78YEo1BlhuM\" title=\"YouTube video player\" width=\"560\"></iframe></div>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/78YEo1BlhuM?rel=0\" title=\"The Link Reaction Explained (Aerobic Respiration) (BioMan Biology, YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div><p><small>Video: &ldquo;The Link Reaction Explained (Aerobic Respiration)&rdquo; (BioMan Biology on YouTube, embedded by link; not covered by this book&rsquo;s license).</small></p>",
+   "count": 1,
+   "note": "widget video 78YEo1BlhuM -> wrapper + credit"
+  }
+ ],
+ "597193": [
+  {
+   "old": "<div class=\"mt-video-widget mt-video-width-55\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/7V2kRH0K8QU\" title=\"YouTube video player\" width=\"560\"></iframe></div>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/7V2kRH0K8QU?rel=0\" title=\"Glycolysis (and Exploding Sugar Demo!) (BioMan Biology, YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div><p><small>Video: &ldquo;Glycolysis (and Exploding Sugar Demo!)&rdquo; (BioMan Biology on YouTube, embedded by link; not covered by this book&rsquo;s license).</small></p>",
+   "count": 1,
+   "note": "widget video 7V2kRH0K8QU -> wrapper + credit"
+  }
+ ],
+ "597202": [
+  {
+   "old": "<div class=\"mt-video-widget mt-video-width-55\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/UZlmm-yzWrQ\" title=\"YouTube video player\" width=\"560\"></iframe></div>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/UZlmm-yzWrQ?rel=0\" title=\"The Krebs Cycle Explained (Aerobic Respiration) (BioMan Biology, YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div><p><small>Video: &ldquo;The Krebs Cycle Explained (Aerobic Respiration)&rdquo; (BioMan Biology on YouTube, embedded by link; not covered by this book&rsquo;s license).</small></p>",
+   "count": 1,
+   "note": "widget video UZlmm-yzWrQ -> wrapper + credit"
+  }
+ ],
+ "597209": [
+  {
+   "old": "<div class=\"mt-video-widget mt-video-width-55\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/2QllhjZWnnw\" title=\"Beta oxidation (Biotech Review, YouTube video)\" width=\"560\"></iframe></div>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/2QllhjZWnnw?rel=0\" title=\"Beta oxidation (Biotech Review, YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div>",
+   "count": 1,
+   "note": "widget video 2QllhjZWnnw -> wrapper"
+  },
+  {
+   "old": "<div class=\"mt-video-widget mt-video-width-55\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/D--AtATgfyM\" title=\"Obesity: The Little Things (NHLBI, YouTube video)\" width=\"560\"></iframe></div>",
+   "new": "<div style=\"max-width:640px\"><div style=\"width:100%;position:relative;aspect-ratio:16/9\"><iframe src=\"https://www.youtube.com/embed/D--AtATgfyM?rel=0\" title=\"Obesity: The Little Things (NHLBI, YouTube video)\" frameborder=\"0\" style=\"width:100%;height:100%;position:absolute;left:0;top:0\" allow=\"accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"true\"></iframe></div></div>",
+   "count": 1,
+   "note": "widget video D--AtATgfyM -> wrapper"
+  }
+ ]
+}
