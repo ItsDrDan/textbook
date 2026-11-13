@@ -603,3 +603,27 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Game fatty-acid melting points differ from 9.1 (palmitoleic 0 vs 0.5, oleic 14 vs 13, arachidonic −50 vs −49 °C).
     - The questionbank tags the osmosis and tonicity items `3B-15`; they should be `3B-10`.
     - The 10.8 Figure 1 caption lists metal coordinate bonds, against CONVENTIONS.
+
+- **2026-11-13 Fresh full check and batch M, live and verified (all 64 pages read back identical):**
+  - Report: tools/REVIEW_2026-11-13.md. All 199 live pages matched pages/live by SHA-256 before the check. No wrong answer key and no stale renumbering cross-reference was found.
+  - **Published: 93 edits on 64 pages** (tools/batchM_2026-11-13.json, built by tools/batchM_build.py). pages/live holds the post-edit pages.
+    - Wrong facts: 3.1 1-pentene mp −165; 7.5 formamide bp 210; 10.1 arginine 174; 11.3 boiling water disinfects; 13.9 Exercise 4 brain fuel at day three; 4.9 rotten-egg smell is H2S; 6.1 bee and wasp stings; 7.10 PET not cross-linked; 7.9 pain relievers; 8.5 five OH groups; 1.8 CO2 about five atmospheres.
+    - Conventions: thiamine and biotin are coenzymes (13.1, 13.4, 13.10, 14.1 ×3, 14.6, 15.6) and the Glossary cofactor/coenzyme entries; amine angle about 107° (7.2, P7.76); 15.6 Summary; 10.5 Summary and Figure 5 caption use the four graded interaction names; 4.5 methanol 10 mL; 6.5 pear ester; 7.8 adenosine; 1.9 −25 °C; 1.7 alkyne condensed formulas; 3.9 "pi electrons".
+    - Figures: numbers put in order on 7.10, 12.2 and 15.10; 3.2 Figure 3 caption; alt text on P2.72, 8.6.3 and 9.6.5; credits on 9.3 Figure 4, 10.7 Figure 4 and 13.5 Figure 1.
+    - Print keys added on 2.9, 8.1, 8.2, 10.2, 11.2, 12.3 and 12.6 (their inline answers never printed); 14.2 key label; 12.6 exercise renumbered 1.
+    - 18 path-based in-book links repointed to /@go/page ids; lactate pointers to 13.4 (13.8 ×3, Chapter 14 opener); Chapter 1 game pointers; small wording fixes.
+  - **Not done:** the repo mirrors (pages/*.html, sections/, drafts/) and generators; nothing is committed.
+  - **Open, needs the instructor** (blank "M" rows in the report): 8.4 Slide36 curved arrow; "hydride" wording; 2.9 cyclopropane; 3.4 Example 3(c); 1.8 "covalent compounds do not ionize"; six figures printing under about 5.3 pt; 65 captioned figures with no credit line; nine dead external links; Glossary/Index pointers (allosteric, reactive oxygen species, alcohol dehydrogenase); About This Book Valley list and version history; 11.1 Figure 1 is script-only.
+  - **Bank and ADAPT (not changed):** the extra/more/nov5 QTI zips are stale (24 ids, including four pKa items and a Km item); fb-3B-0650 "sp3"; wording slips on 0629, 0974, 0456, 0227/0599; tools/imf_deck_candidates_build.py sets `k` to the answer index, so 82 of 112 candidates would be mis-keyed on import; the questionbank tonicity items carry both 3B-10 and 3B-15 (remove 3B-15).
+
+- **2026-11-13 PDF check of the 01:14 compile (1,339 pp; first compile with batch M) and four follow-up fixes:**
+  - Batch M prints: all 53 searchable text edits, the eight new print-key entries (2.9.1, 8.1.1, 8.2.1, 10.2.1, 11.2.1, 12.3.1, 12.3.2, 12.6.1), Figures 7.10.3, 12.2.5, 12.2.6 and 15.10.2, and the 14.2 key label. p2 licence present; no raw MathJax, "Copyright" or "ItsDrDan" credit.
+  - Words under 6 pt: 32 pages, unchanged (list in tools/REVIEW_2026-11-13.md).
+  - Found and fixed (live):
+    - 6.10 (597118): two `&#8652;` arrows printed as missing glyphs; now MathJax. Read back identical; mirrors updated.
+    - 1.3 Lewis-errors figure (file 512789, now revision 2): "e⁻" and "N⁺" printed as missing glyphs; now raised tspans. Source: figures/pages/batchK/ and tools/batchK1_figs.py.
+    - Figure 14.1.3 (file 512620, now revision 3): the label inside the drawing said "thiamine cofactor"; now "thiamine coenzyme" (label and aria-label). The live file could not be read (post-compile cache redirect), so it was rebuilt from the original inline SVG (commit c992e64, sections/add_597200.html) plus the print fix; it is 29 bytes larger than revision 2 and was checked by eye against the printed figure and on the live page. Revision 2 stays in the file history. Repo copy: figures/pages/batchM/fig-p597200-1.svg.
+    - Chapter 6 concept map (GitHub Pages, live on merge): "RCOO⁻" now uses a normal minus sign (svg and tools/concept_maps.py). The 6.11 page still links `?v=20261113`, so browsers may show the old map for a few minutes after the merge.
+  - Method notes: the signed-in page cannot fetch from localhost, and neither the shell nor a browser tab can read files.mtstatic.com; file bytes go in through raw.githubusercontent.com at a pushed commit.
+  - Not rechecked in print: these four fixes need the next compile.
+
