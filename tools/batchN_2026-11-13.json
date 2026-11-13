@@ -1,0 +1,593 @@
+{
+ "uploads": [],
+ "edits": {
+  "597073": [
+   {
+    "old": "because it forms explosive mixtures with air at nearly all concentrations.",
+    "new": "because it forms explosive mixtures with air and, especially, with the oxygen used in anesthesia.",
+    "count": 1,
+    "note": "T1 2.9: cyclopropane is explosive over a wide range in oxygen, not at nearly all concentrations in air"
+   }
+  ],
+  "597061": [
+   {
+    "old": "Covalent compounds do not ionize when they dissolve: the molecule stays whole, just surrounded by solvent.",
+    "new": "Most covalent compounds do not ionize when they dissolve: the molecule stays whole, just surrounded by solvent (acids and amines are the exceptions, Chapters 6 and 7).",
+    "count": 1,
+    "note": "T1 1.8: carboxylic acids and amines do ionize"
+   },
+   {
+    "old": "<h4 class=\"box-legend editable\">Effect of Hydrogen Bonding on Boiling Points</h4>",
+    "new": "<h4 class=\"box-legend editable\">Example \\(\\PageIndex{2}\\): Effect of Hydrogen Bonding on Boiling Points</h4>",
+    "count": 1,
+    "note": "T4 1.8: this example had no number (1, -, 3, 4)"
+   }
+  ],
+  "597063": [
+   {
+    "old": "Molecular compounds do not ionize in water (C), and ionic bonding",
+    "new": "Most molecular compounds do not ionize in water (C); the acids and amines of Chapters 6 and 7 are the exceptions. Ionic bonding",
+    "count": 2,
+    "note": "T1 P1.65 (inline and key): same"
+   }
+  ],
+  "597057": [
+   {
+    "old": "<strong>treat C&ndash;H as nonpolar, always</strong>.",
+    "new": "<strong>treat C&ndash;H as nonpolar, always</strong>. In the same way, C&ndash;Br falls just under the 0.4 line on the chart, but every carbon&ndash;halogen bond is treated as polar.",
+    "count": 1,
+    "note": "T2 1.4 tip: C-Br is listed as polar although its difference on the chart is under 0.4"
+   },
+   {
+    "old": "unequal distribution of electron density throughout a molecule.</figcaption>",
+    "new": "unequal distribution of electron density throughout a molecule. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>",
+    "count": 1,
+    "note": "T3 credit line added: 1.4 Figure 5 (Ball)"
+   }
+  ],
+  "597070": [
+   {
+    "old": "<strong>Branching lowers them</strong>: branched molecules cannot pack as tightly together as straight chains, so there is less contact and less dispersion force between neighbors.",
+    "new": "<strong>Branching lowers the boiling point</strong>: branched molecules have less surface contact with their neighbors than straight chains, so there is less dispersion force between them. (Melting points are less regular, because compact, symmetrical molecules can pack well in a crystal.)",
+    "count": 1,
+    "note": "T2 2.6: branching reliably lowers boiling points, not melting points"
+   }
+  ],
+  "597164": [
+   {
+    "old": "<p>At pH 7.4 an amino acid is a <strong>zwitterion</strong>:",
+    "new": "<p>At pH 7.4 an amino acid with a neutral R group is a <strong>zwitterion</strong>:",
+    "count": 1,
+    "note": "T2 10.11 Key Idea 2: true only for a neutral R group (Key Idea 6)"
+   }
+  ],
+  "597094": [
+   {
+    "old": "Each step removes hydrogen (oxidation), just as ethanol",
+    "new": "Each step is an oxidation (more C&ndash;O bonds, fewer C&ndash;H bonds), just as ethanol",
+    "count": 2,
+    "note": "T2 4.5 Valley answer (inline and key): HCHO to HCOOH adds O"
+   },
+   {
+    "old": "is carbon 1; a methyl group is on carbon 2.</figcaption>",
+    "new": "is carbon 1; a methyl group is on carbon 2. (Structure redrawn by Daniel Kwasniewski, CC BY 4.0.)</figcaption>",
+    "count": 1,
+    "note": "T3 credit line added: 4.5 Exercise 1(b) house redraw"
+   }
+  ],
+  "597101": [
+   {
+    "old": "<td>about 7 g/100 mL</td>",
+    "new": "<td>about 8 g/100 mL</td>",
+    "count": 2,
+    "note": "T2 P4.53: 4.8 and Cumulative 4.4 say about 8 g"
+   }
+  ],
+  "597199": [
+   {
+    "old": "<strong>peptide hormones</strong> (proteins, Chapter 10).",
+    "new": "<strong>peptide hormones</strong> (chains of amino acids, Chapter 10).",
+    "count": 2,
+    "note": "T2 Cumulative 13.4 (inline and key): glucagon, 29 aa, is a polypeptide by 10.4"
+   },
+   {
+    "old": "NAD<sup>+</sup> accepts a hydride when a C&ndash;OH is oxidized to C=O",
+    "new": "NAD<sup>+</sup> accepts two electrons and an H<sup>+</sup> when a C&ndash;OH is oxidized to C=O",
+    "count": 1,
+    "note": "T2 P13.2: no \"hydride\""
+   },
+   {
+    "old": "removes a hydride and an H<sup>+</sup>; NAD<sup>+</sup> takes the hydride and becomes NADH.",
+    "new": "removes two hydrogens (two electrons and two H<sup>+</sup>); NAD<sup>+</sup> takes the two electrons and one H<sup>+</sup> and becomes NADH, and the other H<sup>+</sup> is released.",
+    "count": 1,
+    "note": "T2 P13.14: no \"hydride\""
+   }
+  ],
+  "597058": [
+   {
+    "old": "lass=\"box-example\">\n<span id=\"Example_.5C(.5CPageIndex.7B2.7D.5C)\"></span><div class=\"mt-section\"><h3 class=\"box-legend editable\">Example \\(\\PageIndex{2}\\)",
+    "new": "lass=\"box-example\">\n<span id=\"Example_.5C(.5CPageIndex.7B3.7D.5C)\"></span><div class=\"mt-section\"><h3 class=\"box-legend editable\">Example \\(\\PageIndex{3}\\)",
+    "count": 1,
+    "note": "T4 1.5: third example renumbered 3"
+   },
+   {
+    "old": "ss=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B2.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{2}\\)",
+    "new": "ss=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B3.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{3}\\)",
+    "count": 1,
+    "note": "T4 1.5: third exercise renumbered 3"
+   },
+   {
+    "old": "ss=\"box-example\">\n<span id=\"Example_.5C(.5CPageIndex.7B1.7D.5C)_2\"></span><div class=\"mt-section\"><h4 class=\"box-legend editable\">Example \\(\\PageIndex{1}\\)",
+    "new": "ss=\"box-example\">\n<span id=\"Example_.5C(.5CPageIndex.7B2.7D.5C)\"></span><div class=\"mt-section\"><h4 class=\"box-legend editable\">Example \\(\\PageIndex{2}\\)",
+    "count": 1,
+    "note": "T4 1.5: second \"Example 1\" is now Example 2"
+   },
+   {
+    "old": "=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B1.7D.5C)_2\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{1}\\)",
+    "new": "=\"box-exercise\">\n<span id=\"Exercise_.5C(.5CPageIndex.7B2.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{2}\\)",
+    "count": 1,
+    "note": "T4 1.5: second \"Exercise 1\" is now Exercise 2"
+   },
+   {
+    "old": "<strong>Exercise 1.5.1</strong></p><div><p>Focus on the central atom, N.",
+    "new": "<strong>Exercise 1.5.2</strong></p><div><p>Focus on the central atom, N.",
+    "count": 1,
+    "note": "T4 1.5 print key: the answer belongs to the renumbered Exercise 2"
+   }
+  ],
+  "597196": [
+   {
+    "old": "<caption>Steps of glycogen metabolism: enzymes and reaction types</caption>",
+    "new": "<caption>Table 13.7.1: Steps of glycogenesis: enzymes and reaction types</caption>",
+    "count": 1,
+    "note": "T3 13.7: the text cites Table 1; the caption had no number"
+   },
+   {
+    "old": "<caption>Glycogenesis versus glycogenolysis</caption>",
+    "new": "<caption>Table 13.7.2: Glycogenesis versus glycogenolysis</caption>",
+    "count": 1,
+    "note": "T3 13.7: the text cites Table 2; the caption had no number"
+   }
+  ],
+  "597197": [
+   {
+    "old": "<caption>The four bypasses of gluconeogenesis</caption>",
+    "new": "<caption>Table 13.8.1: The four bypasses of gluconeogenesis</caption>",
+    "count": 1,
+    "note": "T3 13.8: the text cites Table 1; the caption had no number"
+   },
+   {
+    "old": "<caption>Signals that switch between glycolysis and gluconeogenesis</caption>",
+    "new": "<caption>Table 13.8.2: Signals that switch between glycolysis and gluconeogenesis</caption>",
+    "count": 1,
+    "note": "T3 13.8: the text cites Table 2; the caption had no number"
+   }
+  ],
+  "597091": [
+   {
+    "old": "1,2-Ethanediol and propane-1,2,3-triol are shown to highlight rule 3<br />",
+    "new": "Ethane-1,2-diol and propane-1,2,3-triol are shown to highlight rule 3.<br />",
+    "count": 1,
+    "note": "T4 4.2 Figure 1: name style matches the figure; final period"
+   },
+   {
+    "old": "Common alcohols and phenols from the lecture slides.</figcaption>",
+    "new": "Common alcohols and phenols from the lecture slides. (Figure: Daniel Kwasniewski, CC BY 4.0.)</figcaption>",
+    "count": 1,
+    "note": "T3 credit line added: 4.2.2 lecture slide"
+   }
+  ],
+  "597103": [
+   {
+    "old": "<figcaption>Figure \\(\\PageIndex{2}\\) Some Interesting Aldehydes.",
+    "new": "<figcaption>Figure \\(\\PageIndex{2}\\): Some Interesting Aldehydes.",
+    "count": 1,
+    "note": "T4 5.2 Figure 2: missing colon"
+   }
+  ],
+  "597104": [
+   {
+    "old": "Le Ch&acirc;telier&rsquo;s principle",
+    "new": "Le Chatelier&rsquo;s principle",
+    "count": 1,
+    "note": "T4 5.3: one spelling throughout (Chapter 4 uses Le Chatelier)"
+   }
+  ],
+  "597206": [
+   {
+    "old": "when the chain cannot (Section <a href=\"/@go/page/597193\">13.5</a>).",
+    "new": "when the chain cannot (Section <a href=\"/@go/page/597192\">13.4</a>).",
+    "count": 2,
+    "note": "T4 Case Set 14.3 (inline and key): lactate is taught in 13.4"
+   },
+   {
+    "old": "NAD<sup>+</sup> gains a hydride (two electrons and a proton):",
+    "new": "NAD<sup>+</sup> gains two electrons and a proton:",
+    "count": 2,
+    "note": "T2 14.7: no \"hydride\" (inline and key)"
+   }
+  ],
+  "597165": [
+   {
+    "old": "not 0. Review: Section 10.2.",
+    "new": "not 0. Review: Sections 10.2 and 10.4.",
+    "count": 2,
+    "note": "T4 P10.81 (inline and key): peptide net charge is taught in 10.4"
+   }
+  ],
+  "597102": [
+   {
+    "old": "(an alcohol and a carboxylic acid, with no ketone despite its name)",
+    "new": "(an alcohol and a carboxylic acid; it has no ketone group even though it is called a ketone body)",
+    "count": 1,
+    "note": "T4 5.1: the name has no \"ketone\" in it"
+   },
+   {
+    "old": "the 2 is not needed, because the C=O can only be on C2.</figcaption>",
+    "new": "the 2 is not needed, because the C=O can only be on C2. (Figure: Daniel Kwasniewski, CC BY 4.0.)</figcaption>",
+    "count": 1,
+    "note": "T3 credit line added: 5.1.1 lecture slide"
+   }
+  ],
+  "597193": [
+   {
+    "old": "<p>The ten reactions of glycolysis are the following (<em>copyright: modified from a Public Domain resource at <a title=\"https://it.Wikipedia.org/wiki/Glicolisi\" href=\"https://it.Wikipedia.org/wiki/Glicolisi\" target=\"_blank\" rel=\"external noopener nofollow\" class=\"link-https\">Wikipedia</a></em>.)</p>",
+    "new": "<p>The ten reactions of glycolysis are the following. (Step list adapted from a public-domain resource at <a title=\"https://it.Wikipedia.org/wiki/Glicolisi\" href=\"https://it.Wikipedia.org/wiki/Glicolisi\" target=\"_blank\" rel=\"external noopener nofollow\" class=\"link-https\">Wikipedia</a>.)</p>",
+    "count": 1,
+    "note": "T4 13.5: leftover \"copyright:\" prefix"
+   }
+  ],
+  "597130": [
+   {
+    "old": "Adipic acid is a carboxylic acid with two carboxyl groups on either end of the molecule. Hexanediamine has amino groups on either end of a six-carbon chain.",
+    "new": "Adipic acid is a dicarboxylic acid, with a carboxyl group on each end of the molecule. Hexanediamine has an amino group on each end of a six-carbon chain.",
+    "count": 1,
+    "note": "T4 7.10: read as four groups"
+   },
+   {
+    "old": "give nylon-66, drawn as",
+    "new": "give nylon-6,6, drawn as",
+    "count": 1,
+    "note": "T4 7.10 alt: one spelling, nylon-6,6 (as in the Lecture Connection and P7.59)"
+   },
+   {
+    "old": "is a polyamide called nylon-66. Nylon-66 was first invented in 1935 and has been used in all sorts of products. Polyamides, including nylon-66,",
+    "new": "is a polyamide called nylon-6,6. Nylon-6,6 was first invented in 1935 and has been used in all sorts of products. Polyamides, including nylon-6,6,",
+    "count": 1,
+    "note": "T4 7.10: nylon-6,6"
+   }
+  ],
+  "597126": [
+   {
+    "old": "alt=\"Formation of nylon 66:",
+    "new": "alt=\"Formation of nylon-6,6:",
+    "count": 1,
+    "note": "T4 7.6 alt: nylon-6,6"
+   }
+  ],
+  "597177": [
+   {
+    "old": "(can also be written as <span class=\"acronym-ignore\">TCAACTCATGGA</span>)",
+    "new": "(can also be written as 5&prime;&#8209;<span class=\"acronym-ignore\">TCAACTCATGGA</span>&#8209;3&prime;)",
+    "count": 1,
+    "note": "T4 12.3 Example 1: label the ends (12.2 convention)"
+   }
+  ],
+  "597178": [
+   {
+    "old": "mRNA codon GCA is complementary to the anticodon UGC on a tRNA shown in",
+    "new": "mRNA codon 5&prime;&#8209;GCA&#8209;3&prime; is complementary to the anticodon 3&prime;&#8209;CGU&#8209;5&prime; on the tRNA shown in",
+    "count": 1,
+    "note": "T4 12.4: ends labelled; written to line up with the codon (12.5 and P12.39 write it 3'-CGU-5')"
+   }
+  ],
+  "597136": [
+   {
+    "old": "<a title=\"Exemplars_and_Case_Studies/ChemCases/Nutrasweet\" mt-page-link-identifier=\"f906dce861ce4702a704ea04fb1bcaaf\" href=\"/Ancillary_Materials/Exemplars_and_Case_Studies/Case_Studies/Nutrasweet\">sucralose</a>",
+    "new": "sucralose",
+    "count": 1,
+    "note": "T4 8.3: \"sucralose\" linked to a NutraSweet (aspartame) case study"
+   }
+  ],
+  "597159": [
+   {
+    "old": "a medical condition called sickle cell anemia, illustrated in the figure on the right.",
+    "new": "a medical condition called sickle cell anemia, illustrated in the figure here.",
+    "count": 1,
+    "note": "T4 10.6: left/right fails in print"
+   }
+  ],
+  "597160": [
+   {
+    "old": "as illustrated in the model shown on the left.",
+    "new": "as illustrated in the model shown here.",
+    "count": 1,
+    "note": "T4 10.7: left/right fails in print"
+   },
+   {
+    "old": "pointing toward the C-terminus, as shown on the right.",
+    "new": "pointing toward the C-terminus, as shown here.",
+    "count": 1,
+    "note": "T4 10.7: same"
+   }
+  ],
+  "597085": [
+   {
+    "old": "<ul>\n    <li>\n    <div class=\"informalfigure large\">Sometimes an aromatic group is found as a substituent bonded to a nonaromatic entity or to another aromatic ring. The group of atoms remaining when a hydrogen atom is removed from an aromatic compound is called an aryl group. The most common aryl group is derived from benzene (C<sub>6</sub>H<sub>6</sub>) by removing one hydrogen atom (C<sub>6</sub>H<sub>5</sub>) and is called a <em>phenyl</em> group, from <em>phene</em>, an old name for benzene. Phenyl is the only aryl group you need in this course.</div>\n    </li>\n</ul>",
+    "new": "<p>Sometimes an aromatic group is found as a substituent bonded to a nonaromatic entity or to another aromatic ring. The group of atoms remaining when a hydrogen atom is removed from an aromatic compound is called an aryl group. The most common aryl group is derived from benzene (C<sub>6</sub>H<sub>6</sub>) by removing one hydrogen atom (C<sub>6</sub>H<sub>5</sub>) and is called a <em>phenyl</em> group, from <em>phene</em>, an old name for benzene. Phenyl is the only aryl group you need in this course.</p>",
+    "count": 1,
+    "note": "T4 3.8: paragraph was inside a stray bullet"
+   }
+  ],
+  "597067": [
+   {
+    "old": "Next beyond C<sub>4</sub>H<sub>10</sub> in the homologous series is pentane. Each compound has the same molecular formula: C<sub>5</sub>H<sub>12</sub>.",
+    "new": "Next beyond C<sub>4</sub>H<sub>10</sub> in the homologous series is C<sub>5</sub>H<sub>12</sub>, which has three isomers, shown in the figure below.",
+    "count": 1,
+    "note": "T4 2.3: garbled source sentence"
+   },
+   {
+    "old": "The compound at the far left is pentane",
+    "new": "The compound on the left of the figure is pentane",
+    "count": 1,
+    "note": "T4 2.3: the figure follows the paragraph"
+   }
+  ],
+  "597184": [
+   {
+    "old": "<div class=\"box-note\">\n<p class=\"boxtitle\">Health Career Connection</p>\n<ul>\n<li><strong>Nursing &ndash; sickle cell disease:</strong> one DNA base substitution changes codon GAG (Glu) to GUG (Val) in the mRNA for the &beta; chain of hemoglobin (Section 12.7; Chapter 10).</li>\n<li><strong>Nursing &ndash; mRNA vaccines and HIV drugs:</strong> an mRNA vaccine is translated by your ribosomes for a few days and never enters the nucleus; HIV drugs block reverse transcriptase and other viral-only enzymes (Section 12.8).</li>\n<li><strong>Nursing &ndash; genetic testing:</strong> PCR and sequencing of blood or saliva identify carriers and predict drug metabolism (Section 12.9).</li>\n<li><strong>Dental hygiene &ndash; HPV and cold sores:</strong> HPV-16 (a DNA virus) causes most oropharyngeal cancers, so screen at every recall; HSV-1 reactivates as herpes labialis and elective treatment waits until the lesion heals (Section 12.8). Radiographs follow ALARA because ionizing radiation damages DNA (Section 12.7).</li>\n</ul>\n</div>\n\n</div><div class=\"mt-section\" id=\"section_11\"><h3 class=\"editable\">10. Recombinant DNA (overview)</h3>\n<p>Cut (restriction enzyme, a hydrolase, leaves sticky ends), paste (sticky ends pair; DNA ligase re-forms the phosphodiester bonds) into a plasmid vector, copy (bacteria replicate it), express (bacteria make the human protein: insulin, growth hormone, factor VIII, vaccine proteins). PCR copies a stretch of DNA by heat&ndash;cool&ndash;extend cycles with a heat-stable polymerase. Details and genetic testing: Section <a href=\"/@go/page/597182\">12.9</a>.</p>",
+    "new": "</div><div class=\"mt-section\" id=\"section_11\"><h3 class=\"editable\">10. Recombinant DNA (overview)</h3>\n<p>Cut (restriction enzyme, a hydrolase, leaves sticky ends), paste (sticky ends pair; DNA ligase re-forms the phosphodiester bonds) into a plasmid vector, copy (bacteria replicate it), express (bacteria make the human protein: insulin, growth hormone, factor VIII, vaccine proteins). PCR copies a stretch of DNA by heat&ndash;cool&ndash;extend cycles with a heat-stable polymerase. Details and genetic testing: Section <a href=\"/@go/page/597182\">12.9</a>.</p>\n\n<div class=\"box-note\">\n<p class=\"boxtitle\">Health Career Connection</p>\n<ul>\n<li><strong>Nursing &ndash; sickle cell disease:</strong> one DNA base substitution changes codon GAG (Glu) to GUG (Val) in the mRNA for the &beta; chain of hemoglobin (Section 12.7; Chapter 10).</li>\n<li><strong>Nursing &ndash; mRNA vaccines and HIV drugs:</strong> an mRNA vaccine is translated by your ribosomes for a few days and never enters the nucleus; HIV drugs block reverse transcriptase and other viral-only enzymes (Section 12.8).</li>\n<li><strong>Nursing &ndash; genetic testing:</strong> PCR and sequencing of blood or saliva identify carriers and predict drug metabolism (Section 12.9).</li>\n<li><strong>Dental hygiene &ndash; HPV and cold sores:</strong> HPV-16 (a DNA virus) causes most oropharyngeal cancers, so screen at every recall; HSV-1 reactivates as herpes labialis and elective treatment waits until the lesion heals (Section 12.8). Radiographs follow ALARA because ionizing radiation damages DNA (Section 12.7).</li>\n</ul>\n</div>",
+    "count": 1,
+    "note": "T4 12.10: Health Career Connection box moved below Key Idea 10 (it split the numbered summary)"
+   }
+  ],
+  "488232": [
+   {
+    "old": ">allosteric enzyme, allosteric regulation</td><td data-th=\"Definition\">An enzyme whose activity is turned up or down when a regulator binds a site other than the active site.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> enzima alost&eacute;rica, regulaci&oacute;n alost&eacute;rica</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597169\">Section 11.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": ">allosteric enzyme, allosteric regulation</td><td data-th=\"Definition\">An enzyme whose activity is turned up or down when a regulator binds a site other than the active site.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> enzima alost&eacute;rica, regulaci&oacute;n alost&eacute;rica</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597171\">Section 11.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: allosteric points to its teaching section"
+   },
+   {
+    "old": ">reactive oxygen species</td><td data-th=\"Definition\">Highly reactive oxygen-containing molecules such as superoxide and hydrogen peroxide, formed in small amounts by the electron transport chain; antioxidants protect against them.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> especies reactivas de ox&iacute;geno</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597203\">Section 14.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": ">reactive oxygen species</td><td data-th=\"Definition\">Highly reactive oxygen-containing molecules such as superoxide and hydrogen peroxide, formed in small amounts by the electron transport chain; antioxidants protect against them.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> especies reactivas de ox&iacute;geno</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597194\">Section 13.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: reactive oxygen species points to its teaching section"
+   },
+   {
+    "old": ">alcohol dehydrogenase</td><td data-th=\"Definition\">The liver enzyme that oxidizes ethanol to acetaldehyde, using NAD<sup>+</sup>; it also turns methanol into toxic formaldehyde.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> alcohol deshidrogenasa</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597095\">Section 4.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": ">alcohol dehydrogenase</td><td data-th=\"Definition\">The liver enzyme that oxidizes ethanol to acetaldehyde, using NAD<sup>+</sup>; it also turns methanol into toxic formaldehyde.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> alcohol deshidrogenasa</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597094\">Section 4.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: alcohol dehydrogenase points to its teaching section"
+   },
+   {
+    "old": "formed in small amounts by the electron transport chain; antioxidants protect against them.",
+    "new": "formed in small amounts during metabolism; antioxidants such as glutathione (kept reduced by NADPH) protect against them.",
+    "count": 1,
+    "note": "T4 Glossary: reactive oxygen species defined the way 13.6 uses the term"
+   },
+   {
+    "old": "NAD<sup>+</sup> accepts a hydride in oxidation reactions and becomes NADH",
+    "new": "NAD<sup>+</sup> accepts two electrons and an H<sup>+</sup> in oxidation reactions and becomes NADH",
+    "count": 1,
+    "note": "T2 Glossary NAD+: no \"hydride\""
+   }
+  ],
+  "488231": [
+   {
+    "old": "<li>allosteric enzyme, 11.4</li>\n<li>allosteric regulation, 11.4</li>",
+    "new": "<li>allosteric enzyme, 11.6</li>\n<li>allosteric regulation, 11.6</li>",
+    "count": 1,
+    "note": "T4 Index: allosteric, 11.6"
+   },
+   {
+    "old": "<li>reactive oxygen species, 14.4</li>",
+    "new": "<li>reactive oxygen species, 13.6</li>",
+    "count": 1,
+    "note": "T4 Index: reactive oxygen species, 13.6"
+   },
+   {
+    "old": "<li>alcohol dehydrogenase, 4.6</li>",
+    "new": "<li>alcohol dehydrogenase, 4.5</li>",
+    "count": 1,
+    "note": "T4 Index: alcohol dehydrogenase, 4.5"
+   }
+  ],
+  "597270": [
+   {
+    "old": "<a style=\"text-decoration:underline\" href=\"/@go/page/597071\">2.7</a> ozone and smog;",
+    "new": "<a style=\"text-decoration:underline\" href=\"/@go/page/597070\">2.6</a> propane tanks; <a style=\"text-decoration:underline\" href=\"/@go/page/597071\">2.7</a> ozone and smog;",
+    "count": 1,
+    "note": "T4 About: Valley list adds 2.6"
+   },
+   {
+    "old": "<a style=\"text-decoration:underline\" href=\"/@go/page/597081\">3.4</a> ethylene and fruit ripening;",
+    "new": "<a style=\"text-decoration:underline\" href=\"/@go/page/597081\">3.4</a> ethylene and fruit ripening; <a style=\"text-decoration:underline\" href=\"/@go/page/597082\">3.5</a> plastics on the farm;",
+    "count": 1,
+    "note": "T4 About: adds 3.5"
+   },
+   {
+    "old": "<a style=\"text-decoration:underline\" href=\"/@go/page/597094\">4.5</a> Valley wine grapes and how the liver oxidizes ethanol;",
+    "new": "<a style=\"text-decoration:underline\" href=\"/@go/page/597094\">4.5</a> Valley wine grapes and how the liver oxidizes ethanol; <a style=\"text-decoration:underline\" href=\"/@go/page/597098\">4.9</a> garlic and onions;",
+    "count": 1,
+    "note": "T4 About: adds 4.9"
+   },
+   {
+    "old": "<a style=\"text-decoration:underline\" href=\"/@go/page/597162\">10.9</a> nitrate in well water",
+    "new": "<a style=\"text-decoration:underline\" href=\"/@go/page/597156\">10.3</a> milk, casein and cheese; <a style=\"text-decoration:underline\" href=\"/@go/page/597162\">10.9</a> nitrate in well water",
+    "count": 1,
+    "note": "T4 About: adds 10.3"
+   },
+   {
+    "old": "<a style=\"text-decoration:underline\" href=\"/@go/page/597170\">11.5</a> almonds and vitamin E;",
+    "new": "<a style=\"text-decoration:underline\" href=\"/@go/page/597170\">11.5</a> almonds and vitamin E, and folic acid in tortillas; <a style=\"text-decoration:underline\" href=\"/@go/page/597180\">12.7</a> newborn heel-stick screening;",
+    "count": 1,
+    "note": "T4 About: adds the second 11.5 box and 12.7"
+   },
+   {
+    "old": "<a style=\"text-decoration:underline\" href=\"/@go/page/597213\">15.5</a> diabetic ketoacidosis.",
+    "new": "<a style=\"text-decoration:underline\" href=\"/@go/page/597213\">15.5</a> diabetic ketoacidosis; <a style=\"text-decoration:underline\" href=\"/@go/page/597215\">15.7</a> beans and corn tortillas.",
+    "count": 1,
+    "note": "T4 About: adds 15.7"
+   }
+  ],
+  "597059": [
+   {
+    "old": "Formulas and Molecular Models of the Four Simplest Alkanes",
+    "new": "Formulas of the Four Simplest Alkanes",
+    "count": 1,
+    "note": "T3 1.6 Figure 1 caption: the image shows formulas only (image checked)"
+   },
+   {
+    "old": "shows the formulas and the molecular models of the two simplest alkenes",
+    "new": "shows the formulas of the two simplest alkenes",
+    "count": 1,
+    "note": "T3 1.6: no models in Figure 2"
+   },
+   {
+    "old": "Formulas and Molecular Models of the Two Simplest Alkenes",
+    "new": "Formulas of the Two Simplest Alkenes",
+    "count": 1,
+    "note": "T3 1.6 Figure 2 caption"
+   },
+   {
+    "old": "Below is the formula and the molecular model of the simplest alkyne",
+    "new": "Below is the formula of the simplest alkyne",
+    "count": 1,
+    "note": "T3 1.6: no model in the alkyne image"
+   },
+   {
+    "old": "shows their formulas along with a molecular model of each",
+    "new": "shows their formulas",
+    "count": 1,
+    "note": "T3 1.6: no models in Figure 4"
+   },
+   {
+    "old": "shows the formulas and the molecular models of the two simplest carboxylic acids",
+    "new": "shows the formulas of the two simplest carboxylic acids",
+    "count": 1,
+    "note": "T3 1.6: no models in Figure 5"
+   },
+   {
+    "old": "alt=\"Structure (d): CH3C triple bond CCH3, an alkyne with a carbon-carbon triple bond.\"",
+    "new": "alt=\"Structure (a): CH3-C triple bond C-CH3.\"",
+    "count": 1,
+    "note": "T3 1.6 Exercise 1 alt: letter and no giveaway"
+   },
+   {
+    "old": "alt=\"Structure (e): H bonded to a carbon that has a double bond to O and an OH group (methanoic acid, a carboxylic acid).\"",
+    "new": "alt=\"Structure (b): H bonded to a carbon that has a double bond to O and an OH group.\"",
+    "count": 1,
+    "note": "T3 1.6 Exercise 1 alt"
+   },
+   {
+    "old": "alt=\"Structure (f): a five-carbon chain CH3-CH2-CH-CH2-CH3 with an OH group on the middle carbon (an alcohol).\"",
+    "new": "alt=\"Structure (c): a five-carbon chain CH3-CH2-CH-CH2-CH3 with an OH group on the middle carbon.\"",
+    "count": 1,
+    "note": "T3 1.6 Exercise 1 alt"
+   },
+   {
+    "old": "alt=\"Structure (g): CH2=CH-COOH, a C=C double bond next to a carboxylic acid group.\"",
+    "new": "alt=\"Structure (d): CH2=CH-COOH.\"",
+    "count": 1,
+    "note": "T3 1.6 Exercise 1 alt"
+   }
+  ],
+  "597145": [
+   {
+    "old": "a triglyceride (glycerol esterified with three C15H31 fatty acid chains)",
+    "new": "a triglyceride (glycerol esterified with two palmitic acid chains, (CH2)14CH3, and one stearic acid chain, (CH2)16CH3)",
+    "count": 1,
+    "note": "T3 9.2 soap figure alt: the image shows two C16 chains and one C18 chain (image checked)"
+   }
+  ],
+  "597170": [
+   {
+    "old": "Carries a hydride (H<sup>&minus;</sup>) in dehydrogenase reactions;",
+    "new": "Carries two electrons and an H<sup>+</sup> in dehydrogenase reactions;",
+    "count": 1,
+    "note": "T2 11.5 table: no \"hydride\""
+   }
+  ],
+  "597173": [
+   {
+    "old": "NAD<sup>+</sup> (hydride carrier; pellagra)",
+    "new": "NAD<sup>+</sup> (electron carrier; pellagra)",
+    "count": 1,
+    "note": "T2 11.8: no \"hydride\""
+   }
+  ],
+  "597174": [
+   {
+    "old": "accepts two hydrogens (as a hydride and a proton) in oxidation reactions",
+    "new": "accepts two hydrogens (two electrons and one H<sup>+</sup>; the other H<sup>+</sup> is released) in oxidation reactions",
+    "count": 2,
+    "note": "T2 11.9: no \"hydride\" (inline and key)"
+   }
+  ],
+  "597188": [
+   {
+    "old": "sits below it ready to accept a hydride.\"",
+    "new": "sits below it ready to accept the hydrogen.\"",
+    "count": 1,
+    "note": "T2 13.1 Figure 5 alt: no \"hydride\""
+   }
+  ],
+  "597194": [
+   {
+    "old": "(a) It transfers a hydride from C1 of the sugar to NADP<sup>+</sup>:",
+    "new": "(a) It removes hydrogen from C1 of the sugar and passes it to NADP<sup>+</sup>:",
+    "count": 1,
+    "note": "T2 13.6 Example 4: no \"hydride\""
+   }
+  ],
+  "597201": [
+   {
+    "old": "it accepts a <strong>hydride ion</strong> (H<sup>&minus;</sup>: one proton plus two electrons) and becomes NADH;",
+    "new": "it accepts <strong>two electrons and one H<sup>+</sup></strong> and becomes NADH;",
+    "count": 1,
+    "note": "T2 14.2: no \"hydride\""
+   }
+  ],
+  "597204": [
+   {
+    "old": "Lactate dehydrogenase transfers the hydride from NADH to pyruvate,",
+    "new": "Lactate dehydrogenase transfers the hydrogen from NADH to pyruvate,",
+    "count": 1,
+    "note": "T2 14.5: no \"hydride\""
+   }
+  ],
+  "597106": [
+   {
+    "old": "read the chiral carbon farthest from the C=O.</figcaption>",
+    "new": "read the chiral carbon farthest from the C=O. (Figure: Daniel Kwasniewski, CC BY 4.0.)</figcaption>",
+    "count": 1,
+    "note": "T3 credit line added: 5.5.8 lecture slide"
+   }
+  ],
+  "597112": [
+   {
+    "old": "carboxylate salts, from the lecture slides.</figcaption>",
+    "new": "carboxylate salts, from the lecture slides. (Figure: Daniel Kwasniewski, CC BY 4.0.)</figcaption>",
+    "count": 1,
+    "note": "T3 credit line added: 6.4.1 lecture slide"
+   }
+  ],
+  "597169": [
+   {
+    "old": "no subsequent reaction occurs while malonate remains bound to the enzyme.</figcaption>",
+    "new": "no subsequent reaction occurs while malonate remains bound to the enzyme. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>",
+    "count": 1,
+    "note": "T3 credit line added: 11.4 Figure 1 (Ball)"
+   }
+  ],
+  "597203": [
+   {
+    "old": "with the ATP, GTP, NADH and FADH<sub>2</sub> made at each stage.</figcaption>",
+    "new": "with the ATP, GTP, NADH and FADH<sub>2</sub> made at each stage. (Figure from <em>Introduction to Organic and Biochemistry</em> (Malik), public domain.)</figcaption>",
+    "count": 1,
+    "note": "T3 credit line added: 14.4 Figure 3 (Malik)"
+   }
+  ]
+ }
+}
