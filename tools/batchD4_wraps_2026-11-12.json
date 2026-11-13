@@ -1,0 +1,412 @@
+{
+ "597057": [
+  {
+   "old": "<img class=\"internal left\" style=\"width: 480px; height: 193px;\" alt=\"Two ways to show the polar H-Cl bond: (a) H dash Cl with a partial positive sign (delta plus) over H and a partial negative sign (delta minus) over Cl; (b) a crossed arrow drawn from H toward Cl, pointing to the more electronegative atom.\" src=\"/@api/deki/files/275792/clipboard_e8ec6965846d2f87e65b110922fc280b6.png\" fileid=\"275792\" width=\"480px\" height=\"193px\" />",
+   "new": "<img class=\"internal wrap-left\" style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"Two ways to show the polar H-Cl bond: (a) H dash Cl with a partial positive sign (delta plus) over H and a partial negative sign (delta minus) over Cl; (b) a crossed arrow drawn from H toward Cl, pointing to the more electronegative atom.\" src=\"/@api/deki/files/275792/clipboard_e8ec6965846d2f87e65b110922fc280b6.png\" fileid=\"275792\" width=\"480px\" height=\"193px\" />",
+   "count": 1,
+   "note": "A float in print: Two ways to show the polar H-Cl bond"
+  },
+  {
+   "old": "<figure><img alt=\"Black-and-white photograph of Linus Pauling, smiling, in a suit and tie, leaning on a table.\" style=\"width: 200px; height: 307px;\" class=\"internal\" src=\"/@api/deki/files/201749/Linus_Pauling.jpg\" fileid=\"201749\" width=\"200px\" height=\"307px\" />\n<figcaption>Linus Pauling was one of the most influential chemists of the 20th century. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:28%;margin:0 0 8px 16px\"><img alt=\"Black-and-white photograph of Linus Pauling, smiling, in a suit and tie, leaning on a table.\" style=\"width: 200px; height: 307px;max-width:100%;height:auto;\" class=\"internal\" src=\"/@api/deki/files/201749/Linus_Pauling.jpg\" fileid=\"201749\" width=\"200px\" height=\"307px\" />\n<figcaption>Linus Pauling was one of the most influential chemists of the 20th century. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 28%: Linus Pauling was one of"
+  },
+  {
+   "old": "\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Recognize bond characte",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Recognize bond characte",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597146": [
+  {
+   "old": "<img alt=\"A phospholipid space-filling model with its regions labeled: a polar head made of choline (blue), phosphate (red) and glycerol (yellow), and a non-polar tail made of a palmitic acid chain and an oleic acid chain (gray).\" class=\"internal right\" src=\"/@api/deki/files/435596/clipboard_e7e03d77374f3cfe21f7ffd5b164d9341.png\" fileid=\"435596\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"A phospholipid space-filling model with its regions labeled: a polar head made of choline (blue), phosphate (red) and glycerol (yellow), and a non-polar tail made of a palmitic acid chain and an oleic acid chain (gray).\" class=\"internal wrap-right\" src=\"/@api/deki/files/435596/clipboard_e7e03d77374f3cfe21f7ffd5b164d9341.png\" fileid=\"435596\" />",
+   "count": 1,
+   "note": "A float in print: A phospholipid space-filling model"
+  },
+  {
+   "old": "<img alt=\"Photograph of a snake wrangler holding a snake's head so that venom flows from its fangs.\" class=\"internal right\" src=\"/@api/deki/files/435614/clipboard_e23f34924a8a91c5c956c45f58cb60a06.png\" fileid=\"435614\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of a snake wrangler holding a snake's head so that venom flows from its fangs.\" class=\"internal wrap-right\" src=\"/@api/deki/files/435614/clipboard_e23f34924a8a91c5c956c45f58cb60a06.png\" fileid=\"435614\" />",
+   "count": 1,
+   "note": "A float in print: Photograph of a snake wrangler"
+  },
+  {
+   "old": "<img alt=\"Line-angle structure of a lysophospholipid: a glycerol backbone carrying only one fatty acid ester, a free OH on the middle carbon, and a phosphocholine head group; labeled 'An example of lysophospholipids'.\" class=\"internal left\" src=\"/@api/deki/files/444581/clipboard_e9b44f30cea86a862a27ea334513e8169.png\" fileid=\"444581\" />",
+   "new": "<img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"Line-angle structure of a lysophospholipid: a glycerol backbone carrying only one fatty acid ester, a free OH on the middle carbon, and a phosphocholine head group; labeled 'An example of lysophospholipids'.\" class=\"internal wrap-left\" src=\"/@api/deki/files/444581/clipboard_e9b44f30cea86a862a27ea334513e8169.png\" fileid=\"444581\" />",
+   "count": 1,
+   "note": "A float in print: Line-angle structure of a lysophospholipid"
+  },
+  {
+   "old": "<img alt=\"Line-angle structure of a phosphatidic acid: a glycerol backbone with two fatty acid chains (one with a cis double bond) and a bare phosphate group bearing two O minus; labeled 'An example of phosphatidic acid'.\" class=\"internal right\" src=\"/@api/deki/files/444580/clipboard_e788a26eaaf63a88cf46c42635e49761e.png\" fileid=\"444580\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Line-angle structure of a phosphatidic acid: a glycerol backbone with two fatty acid chains (one with a cis double bond) and a bare phosphate group bearing two O minus; labeled 'An example of phosphatidic acid'.\" class=\"internal wrap-right\" src=\"/@api/deki/files/444580/clipboard_e788a26eaaf63a88cf46c42635e49761e.png\" fileid=\"444580\" />",
+   "count": 1,
+   "note": "A float in print: Line-angle structure of a phosphatidic acid"
+  },
+  {
+   "old": "<figure role=\"group\">\n<div class=\"row\">\n<figure><img alt=\"Cross-section of a lipid bilayer with dimensions: the hydrated head-group region is 0.7 to 1.0 nm thick, an intermediate zone about 0.3 nm, and the dehydrated tail region 2.5 to 3.5 nm; a color key marks fully hydrated (blue), intermediate (light green), fully dehydrated (dark green), lipid head and lipid tail.\" class=\"internal\" src=\"/@api/deki/files/435606/clipboard_ec86e6142b5ba061476ae0e0becf1c418.png\" fileid=\"435606\" /></figure>\n\n<figure><img src=\"https://upload.wikimedia.org/wikipedia/commons/f/f0/Lipid_bilayer_section.gif\" alt=\"Animated cross-section of a lipid bilayer: two layers of phospholipids with their heads facing outward and tails inward, the molecules jostling as they move within the membrane.\" /></figure>\n\n<figure><img alt=\"Comparison of bilayers: 'saturated lipids only' shows straight tails packed tightly; 'mixed saturated and unsaturated' shows kinked tails (blue) that pack loosely. At right, a single saturated lipid (straight tails) and a monounsaturated lipid with a double bond that puts a kink in one tail.\" class=\"internal\" src=\"/@api/deki/files/435607/clipboard_ea26f0189460ae779872c9b70c0b0cb8c.png\" fileid=\"435607\" /></figure>\n</div>\n\n<figcaption>Figure \\(\\PageIndex{3}\\): Lipid bilayer cross-section of phosphatidylcholine as a model phospholipid: illustration of hydrophilic and hydrophobic layers in contact with water on the interior and exterior of cells (left, Copyright: MDougM, Public domain, via Wikimedia Commons), simulation of fluid nature of the lipid bilayer (middle, Bensaccount, Public domain, via Wikimedia Commons), and illustration of the control of fluidity of the bilayer based on the proportion of unsaturated/saturated fatty acids (right, Copyright: MDougM, Public domain, via Wikimedia Commons).</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:36%;margin:0 0 8px 16px\">\n<div class=\"row\">\n<figure><img style=\"max-width:100%;height:auto;\" alt=\"Cross-section of a lipid bilayer with dimensions: the hydrated head-group region is 0.7 to 1.0 nm thick, an intermediate zone about 0.3 nm, and the dehydrated tail region 2.5 to 3.5 nm; a color key marks fully hydrated (blue), intermediate (light green), fully dehydrated (dark green), lipid head and lipid tail.\" class=\"internal\" src=\"/@api/deki/files/435606/clipboard_ec86e6142b5ba061476ae0e0becf1c418.png\" fileid=\"435606\" /></figure>\n\n<figure><img style=\"max-width:100%;height:auto;\" src=\"https://upload.wikimedia.org/wikipedia/commons/f/f0/Lipid_bilayer_section.gif\" alt=\"Animated cross-section of a lipid bilayer: two layers of phospholipids with their heads facing outward and tails inward, the molecules jostling as they move within the membrane.\" /></figure>\n\n<figure><img style=\"max-width:100%;height:auto;\" alt=\"Comparison of bilayers: 'saturated lipids only' shows straight tails packed tightly; 'mixed saturated and unsaturated' shows kinked tails (blue) that pack loosely. At right, a single saturated lipid (straight tails) and a monounsaturated lipid with a double bond that puts a kink in one tail.\" class=\"internal\" src=\"/@api/deki/files/435607/clipboard_ea26f0189460ae779872c9b70c0b0cb8c.png\" fileid=\"435607\" /></figure>\n</div>\n\n<figcaption>Figure \\(\\PageIndex{3}\\): Lipid bilayer cross-section of phosphatidylcholine as a model phospholipid: illustration of hydrophilic and hydrophobic layers in contact with water on the interior and exterior of cells (left, Copyright: MDougM, Public domain, via Wikimedia Commons), simulation of fluid nature of the lipid bilayer (middle, Bensaccount, Public domain, via Wikimedia Commons), and illustration of the control of fluidity of the bilayer based on the proportion of unsaturated/saturated fatty acids (right, Copyright: MDougM, Public domain, via Wikimedia Commons).</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 36%: Lipid bilayer cross-section"
+  },
+  {
+   "old": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }/*]]>*/</style>",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>",
+   "count": 1,
+   "note": "phone rule for wraps"
+  }
+ ],
+ "597159": [
+  {
+   "old": "<img alt=\"Medical illustration comparing (A) normal round red blood cells flowing freely through a blood vessel, with an inset of normal hemoglobin, and (B) abnormal sickled red blood cells blocking blood flow, with an inset of abnormal hemoglobin forming strands inside the cell.\" class=\"internal right\" src=\"/@api/deki/files/432327/clipboard_e3678f5a6efa6d40b295cc3fa2a72e457.png\" fileid=\"432327\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Medical illustration comparing (A) normal round red blood cells flowing freely through a blood vessel, with an inset of normal hemoglobin, and (B) abnormal sickled red blood cells blocking blood flow, with an inset of abnormal hemoglobin forming strands inside the cell.\" class=\"internal wrap-right\" src=\"/@api/deki/files/432327/clipboard_e3678f5a6efa6d40b295cc3fa2a72e457.png\" fileid=\"432327\" />",
+   "count": 1,
+   "note": "A float in print: Medical illustration comparing (A) normal"
+  },
+  {
+   "old": "<figure role=\"group\">\n<div class=\"row\">\n<figure><img alt=\"Two polypeptide chains drawn as a green ribbon and an orange ribbon: an S-S disulfide bond links the two chains, and two more S-S bonds link different parts of the orange chain to itself.\" class=\"internal\" src=\"/@api/deki/files/432329/clipboard_e2b09f380a0defb463a4a5ff9190622c2.png\" fileid=\"432329\" /></figure>\n\n<figure><img alt=\"Human insulin drawn as beads: chain B (30 amino acids, pink beads) and chain A (21 amino acids, green beads), each bead labeled with a three-letter amino acid abbreviation, joined by S-S disulfide bonds (blue); the N and C termini are marked.\" class=\"internal\" src=\"/@api/deki/files/431816/clipboard_e4540293a423a027c948e33cbb69556fa.png\" fileid=\"431816\" /></figure>\n</div>\n\n<figcaption>Figure \\(\\PageIndex{2}\\): Illustration of disulfide linkage within the same chain and between different chains of polypeptides (left) and with the example of human insulin (right). (Left: <span style=\"font-size:1.1rem;\">J&uuml;</span><span style=\"font-size:1.1rem;\">, </span>CC0<span style=\"font-size:1.1rem;\">, via Wikimedia</span><span style=\"font-size:1.1rem;\"> Commons, right: </span><span style=\"font-size:1.1rem;\">Zappys Technology Solutions, CC BY 2.0, via Wikimedia</span><span style=\"font-size:1.1rem;\"> Commons</span>)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:38%;margin:0 0 8px 16px\">\n<div class=\"row\">\n<figure><img style=\"max-width:100%;height:auto;\" alt=\"Two polypeptide chains drawn as a green ribbon and an orange ribbon: an S-S disulfide bond links the two chains, and two more S-S bonds link different parts of the orange chain to itself.\" class=\"internal\" src=\"/@api/deki/files/432329/clipboard_e2b09f380a0defb463a4a5ff9190622c2.png\" fileid=\"432329\" /></figure>\n\n<figure><img style=\"max-width:100%;height:auto;\" alt=\"Human insulin drawn as beads: chain B (30 amino acids, pink beads) and chain A (21 amino acids, green beads), each bead labeled with a three-letter amino acid abbreviation, joined by S-S disulfide bonds (blue); the N and C termini are marked.\" class=\"internal\" src=\"/@api/deki/files/431816/clipboard_e4540293a423a027c948e33cbb69556fa.png\" fileid=\"431816\" /></figure>\n</div>\n\n<figcaption>Figure \\(\\PageIndex{2}\\): Illustration of disulfide linkage within the same chain and between different chains of polypeptides (left) and with the example of human insulin (right). (Left: <span style=\"font-size:1.1rem;\">J&uuml;</span><span style=\"font-size:1.1rem;\">, </span>CC0<span style=\"font-size:1.1rem;\">, via Wikimedia</span><span style=\"font-size:1.1rem;\"> Commons, right: </span><span style=\"font-size:1.1rem;\">Zappys Technology Solutions, CC BY 2.0, via Wikimedia</span><span style=\"font-size:1.1rem;\"> Commons</span>)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 38%: Illustration of disulfide li"
+  },
+  {
+   "old": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }/*]]>*/</style>",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>",
+   "count": 1,
+   "note": "phone rule for wraps"
+  }
+ ],
+ "597160": [
+  {
+   "old": "<img alt=\"An alpha-helix model: a ball-and-stick backbone spiraling up through a translucent cylinder, with a bracket marking that one turn contains 3.6 amino acids.\" class=\"internal left\" src=\"/@api/deki/files/432363/clipboard_e6600704cd47e4e62def80f4ff677d503.png\" fileid=\"432363\" />",
+   "new": "<img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"An alpha-helix model: a ball-and-stick backbone spiraling up through a translucent cylinder, with a bracket marking that one turn contains 3.6 amino acids.\" class=\"internal wrap-left\" src=\"/@api/deki/files/432363/clipboard_e6600704cd47e4e62def80f4ff677d503.png\" fileid=\"432363\" />",
+   "count": 1,
+   "note": "A float in print: An alpha-helix model"
+  },
+  {
+   "old": "<img alt=\"Ribbon model of a beta-sheet protein: six red flat arrows (beta strands) lying side by side, connected by gray loops.\" class=\"internal right\" src=\"/@api/deki/files/432370/clipboard_e29325eb29681a3948795ea0e1b244d82.png\" fileid=\"432370\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Ribbon model of a beta-sheet protein: six red flat arrows (beta strands) lying side by side, connected by gray loops.\" class=\"internal wrap-right\" src=\"/@api/deki/files/432370/clipboard_e29325eb29681a3948795ea0e1b244d82.png\" fileid=\"432370\" />",
+   "count": 1,
+   "note": "A float in print: Ribbon model of a beta-sheet"
+  },
+  {
+   "old": "<img alt=\"An antiparallel beta-pleated sheet: two peptide chains running in opposite directions with red dotted hydrogen bonds between N-H and C=O groups directly across from each other.\" class=\"internal left\" src=\"/@api/deki/files/500382/clipboard_e8f266aa9875573bf320be5da9dfd0002.png\" fileid=\"500382\" />",
+   "new": "<img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"An antiparallel beta-pleated sheet: two peptide chains running in opposite directions with red dotted hydrogen bonds between N-H and C=O groups directly across from each other.\" class=\"internal wrap-left\" src=\"/@api/deki/files/500382/clipboard_e8f266aa9875573bf320be5da9dfd0002.png\" fileid=\"500382\" />",
+   "count": 1,
+   "note": "A float in print: An antiparallel beta-pleated sheet"
+  },
+  {
+   "old": "<img alt=\"A parallel beta-pleated sheet: two peptide chains running in the same direction with red dotted hydrogen bonds between N-H and C=O groups that are slightly offset.\" class=\"internal right\" src=\"/@api/deki/files/500380/clipboard_e151210fe4dee7a56fcd28a29082cb2fc.png\" fileid=\"500380\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"A parallel beta-pleated sheet: two peptide chains running in the same direction with red dotted hydrogen bonds between N-H and C=O groups that are slightly offset.\" class=\"internal wrap-right\" src=\"/@api/deki/files/500380/clipboard_e151210fe4dee7a56fcd28a29082cb2fc.png\" fileid=\"500380\" />",
+   "count": 1,
+   "note": "A float in print: A parallel beta-pleated sheet"
+  },
+  {
+   "old": "<section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Define the secondary structure of ",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n<section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Define the secondary structure of ",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597188": [
+  {
+   "old": "<img alt=\"Illustration of the human digestive system in a female figure, with the esophagus, liver, stomach, small intestine and large intestine labeled.\" class=\"internal left\" src=\"/@api/deki/files/436180/clipboard_e6615abc2e20eb5e17cb8435ca2c55d0e.png\" fileid=\"436180\" />",
+   "new": "<img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"Illustration of the human digestive system in a female figure, with the esophagus, liver, stomach, small intestine and large intestine labeled.\" class=\"internal wrap-left\" src=\"/@api/deki/files/436180/clipboard_e6615abc2e20eb5e17cb8435ca2c55d0e.png\" fileid=\"436180\" />",
+   "count": 1,
+   "note": "A float in print: Illustration of the human digestive system"
+  },
+  {
+   "old": "<img alt=\"Diagram of an animal cell with labeled organelles: nucleus and nucleolus, nuclear pore, ribosomes, rough and smooth endoplasmic reticulum, Golgi body, mitochondrion, lysosomes, centrioles, microtubules and cytoplasm.\" class=\"internal right\" src=\"/@api/deki/files/436182/clipboard_e40cc85086a6dff6ff457a6bc3f361030.png\" fileid=\"436182\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Diagram of an animal cell with labeled organelles: nucleus and nucleolus, nuclear pore, ribosomes, rough and smooth endoplasmic reticulum, Golgi body, mitochondrion, lysosomes, centrioles, microtubules and cytoplasm.\" class=\"internal wrap-right\" src=\"/@api/deki/files/436182/clipboard_e40cc85086a6dff6ff457a6bc3f361030.png\" fileid=\"436182\" />",
+   "count": 1,
+   "note": "A float in print: Diagram of an animal cell"
+  },
+  {
+   "old": "<img alt=\"Cutaway diagram of a mitochondrion: outer membrane, inner membrane folded into cristae, intermembrane space, matrix, ATP synthase particles on the inner membrane, ribosomes, granules and DNA.\" class=\"internal left\" src=\"/@api/deki/files/436183/clipboard_e63e438d4d320085dc1bebe312a49db39.png\" fileid=\"436183\" />",
+   "new": "<img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"Cutaway diagram of a mitochondrion: outer membrane, inner membrane folded into cristae, intermembrane space, matrix, ATP synthase particles on the inner membrane, ribosomes, granules and DNA.\" class=\"internal wrap-left\" src=\"/@api/deki/files/436183/clipboard_e63e438d4d320085dc1bebe312a49db39.png\" fileid=\"436183\" />",
+   "count": 1,
+   "note": "A float in print: Cutaway diagram of a mitochondrion"
+  },
+  {
+   "old": "<img alt=\"Overview of metabolism inside a cell: nutrients and carbon substrates enter and are broken down by catabolism (releasing CO2 and H2O and reducing NAD plus to NADH, with O2 consumed), which drives ADP to ATP; ATP and intermediates then power anabolism, building biomass, with minerals, nitrogen substrates and growth factors also feeding in.\" class=\"internal right\" src=\"/@api/deki/files/436176/clipboard_eb8f12e321ac8eefae02ddc3c83e7ab2d.png\" fileid=\"436176\" />",
+   "new": "<img style=\"display:block;max-width:100%;height:auto;margin:0 auto 8px;\" alt=\"Overview of metabolism inside a cell: nutrients and carbon substrates enter and are broken down by catabolism (releasing CO2 and H2O and reducing NAD plus to NADH, with O2 consumed), which drives ADP to ATP; ATP and intermediates then power anabolism, building biomass, with minerals, nitrogen substrates and growth factors also feeding in.\" class=\"internal\" src=\"/@api/deki/files/436176/clipboard_eb8f12e321ac8eefae02ddc3c83e7ab2d.png\" fileid=\"436176\" />",
+   "count": 1,
+   "note": "A full width on screen and in print: Overview of metabolism inside a cell"
+  },
+  {
+   "old": "<img alt=\"Stages of food catabolism: Stage 1, proteins, polysaccharides and fats are broken down outside the cell membrane into amino acids, monosaccharides and fatty acids; Stage 2, these are converted to acetyl CoA; Stage 3, the citric acid cycle (3i) produces NADH, which oxidative phosphorylation (3ii and 3iii) uses to convert ADP to ATP.\" class=\"internal right\" src=\"/@api/deki/files/446227/clipboard_e043534b3c6db9d66a0954dd34769eb55.png\" fileid=\"446227\" />",
+   "new": "<img style=\"display:block;max-width:100%;height:auto;margin:0 auto 8px;\" alt=\"Stages of food catabolism: Stage 1, proteins, polysaccharides and fats are broken down outside the cell membrane into amino acids, monosaccharides and fatty acids; Stage 2, these are converted to acetyl CoA; Stage 3, the citric acid cycle (3i) produces NADH, which oxidative phosphorylation (3ii and 3iii) uses to convert ADP to ATP.\" class=\"internal\" src=\"/@api/deki/files/446227/clipboard_e043534b3c6db9d66a0954dd34769eb55.png\" fileid=\"446227\" />",
+   "count": 1,
+   "note": "A full width on screen and in print: Stages of food catabolism"
+  },
+  {
+   "old": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }/*]]>*/</style>",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>",
+   "count": 1,
+   "note": "phone rule for wraps"
+  }
+ ],
+ "597203": [
+  {
+   "old": "<img alt=\"Coenzyme Q (ubiquinone, Q): a ring with two C=O groups, two OCH3 groups, a methyl group and a long hydrocarbon tail. Adding 2 H plus and 2 electrons gives ubiquinol (QH2), in which the two C=O groups have become OH groups; a one-electron intermediate is also shown.\" class=\"internal left\" src=\"/@api/deki/files/446224/clipboard_e0b07238352e5c29b17b51dc91f02122a.png\" fileid=\"446224\" />",
+   "new": "<img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"Coenzyme Q (ubiquinone, Q): a ring with two C=O groups, two OCH3 groups, a methyl group and a long hydrocarbon tail. Adding 2 H plus and 2 electrons gives ubiquinol (QH2), in which the two C=O groups have become OH groups; a one-electron intermediate is also shown.\" class=\"internal wrap-left\" src=\"/@api/deki/files/446224/clipboard_e0b07238352e5c29b17b51dc91f02122a.png\" fileid=\"446224\" />",
+   "count": 1,
+   "note": "A float in print: Coenzyme Q (ubiquinone"
+  },
+  {
+   "old": "<img alt=\"The heme of cytochrome c: an iron atom at the center of a porphyrin ring with methyl, propionic acid (CH2CH2COOH) and thioether (CH(CH3)-SH) side chains that attach it to the protein.\" class=\"internal right\" src=\"/@api/deki/files/436647/clipboard_eab68baf68b504d6b7141d441446c1ffa.png\" fileid=\"436647\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"The heme of cytochrome c: an iron atom at the center of a porphyrin ring with methyl, propionic acid (CH2CH2COOH) and thioether (CH(CH3)-SH) side chains that attach it to the protein.\" class=\"internal wrap-right\" src=\"/@api/deki/files/436647/clipboard_eab68baf68b504d6b7141d441446c1ffa.png\" fileid=\"436647\" />",
+   "count": 1,
+   "note": "A float in print: The heme of cytochrome c"
+  },
+  {
+   "old": "<img alt=\"Complex I of the electron transport chain drawn in the inner membrane: NADH passes 2 electrons to FMN, the electrons travel along a chain of Fe-S centers through the L-shaped complex and reduce Q to QH2, while 4 H plus are pumped across the membrane.\" class=\"internal right\" src=\"/@api/deki/files/436618/clipboard_e415dfa63e5d2a56225edff75dc09880e.png\" fileid=\"436618\" />",
+   "new": "<img style=\"display:block;max-width:100%;height:auto;margin:0 auto 8px;\" alt=\"Complex I of the electron transport chain drawn in the inner membrane: NADH passes 2 electrons to FMN, the electrons travel along a chain of Fe-S centers through the L-shaped complex and reduce Q to QH2, while 4 H plus are pumped across the membrane.\" class=\"internal\" src=\"/@api/deki/files/436618/clipboard_e415dfa63e5d2a56225edff75dc09880e.png\" fileid=\"436618\" />",
+   "count": 1,
+   "note": "A full width on screen and in print: Complex I of the electron transport chain"
+  },
+  {
+   "old": "<img alt=\"Complex II: succinate is oxidized to fumarate plus 2 H plus, reducing FAD to FADH2; the electrons pass through Fe-S centers and a heme to reduce Q to QH2. No protons are pumped.\" class=\"internal right\" src=\"/@api/deki/files/436631/clipboard_e1bce78992e85b18e074780aa47fdf313.png\" fileid=\"436631\" />",
+   "new": "<img style=\"display:block;max-width:100%;height:auto;margin:0 auto 8px;\" alt=\"Complex II: succinate is oxidized to fumarate plus 2 H plus, reducing FAD to FADH2; the electrons pass through Fe-S centers and a heme to reduce Q to QH2. No protons are pumped.\" class=\"internal\" src=\"/@api/deki/files/436631/clipboard_e1bce78992e85b18e074780aa47fdf313.png\" fileid=\"436631\" />",
+   "count": 1,
+   "note": "A full width on screen and in print: Complex II: succinate"
+  },
+  {
+   "old": "<img alt=\"Complex IV: four reduced cytochrome c molecules each give one electron, which pass through a copper center and two iron (heme) centers to a second copper, reducing O2 plus 4 H plus to 2 H2O while 4 H plus are pumped across the membrane.\" class=\"internal right\" src=\"/@api/deki/files/436645/clipboard_e931bf5566ebbfea6186cdc5f126560fe.png\" fileid=\"436645\" />",
+   "new": "<img style=\"display:block;max-width:100%;height:auto;margin:0 auto 8px;\" alt=\"Complex IV: four reduced cytochrome c molecules each give one electron, which pass through a copper center and two iron (heme) centers to a second copper, reducing O2 plus 4 H plus to 2 H2O while 4 H plus are pumped across the membrane.\" class=\"internal\" src=\"/@api/deki/files/436645/clipboard_e931bf5566ebbfea6186cdc5f126560fe.png\" fileid=\"436645\" />",
+   "count": 1,
+   "note": "A full width on screen and in print: Complex IV: four reduced"
+  },
+  {
+   "old": "<img alt=\"ATP synthase in the inner membrane: H plus flows from the intermembrane space (pink, top) through the enzyme into the matrix (blue, bottom), driving the conversion of ADP plus Pi into ATP plus H2O.\" class=\"internal left\" src=\"/@api/deki/files/436794/clipboard_eb73030ba5de0f3ee9bc590d9a0304022.png\" fileid=\"436794\" />",
+   "new": "<img style=\"display:block;max-width:100%;height:auto;margin:0 auto 8px;\" alt=\"ATP synthase in the inner membrane: H plus flows from the intermembrane space (pink, top) through the enzyme into the matrix (blue, bottom), driving the conversion of ADP plus Pi into ATP plus H2O.\" class=\"internal\" src=\"/@api/deki/files/436794/clipboard_eb73030ba5de0f3ee9bc590d9a0304022.png\" fileid=\"436794\" />",
+   "count": 1,
+   "note": "A full width on screen and in print: ATP synthase in the inner membrane"
+  },
+  {
+   "old": "<img alt=\"Summary of glucose catabolism on a yellow background: glucose, C6H12O6, is converted to 6 CO2 while 10 NAD plus, 2 FAD, 2 ADP, 2 GDP and 4 Pi are converted to 10 NADH, 2 FADH2, 2 ATP and 2 GTP.\" class=\"internal right\" src=\"/@api/deki/files/436870/clipboard_e15887bf68ebeefe24148908ba2fc9566.png\" fileid=\"436870\" />",
+   "new": "<img style=\"display:block;max-width:100%;height:auto;margin:0 auto 8px;\" alt=\"Summary of glucose catabolism on a yellow background: glucose, C6H12O6, is converted to 6 CO2 while 10 NAD plus, 2 FAD, 2 ADP, 2 GDP and 4 Pi are converted to 10 NADH, 2 FADH2, 2 ATP and 2 GTP.\" class=\"internal\" src=\"/@api/deki/files/436870/clipboard_e15887bf68ebeefe24148908ba2fc9566.png\" fileid=\"436870\" />",
+   "count": 1,
+   "note": "A full width on screen and in print: Summary of glucose catabolism"
+  },
+  {
+   "old": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }/*]]>*/</style>",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>",
+   "count": 1,
+   "note": "phone rule for wraps"
+  }
+ ],
+ "597209": [
+  {
+   "old": "<img alt=\"Photograph of two polar bears standing on snowy tundra.\" class=\"internal right\" src=\"/@api/deki/files/446281/clipboard_eb48037d0d303b8ea1ee324c42cb741cf.png\" fileid=\"446281\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of two polar bears standing on snowy tundra.\" class=\"internal wrap-right\" src=\"/@api/deki/files/446281/clipboard_eb48037d0d303b8ea1ee324c42cb741cf.png\" fileid=\"446281\" />",
+   "count": 1,
+   "note": "A float in print: Photograph of two polar bears"
+  },
+  {
+   "old": "<img alt=\"Photograph of an orca (killer whale) leaping out of the sea.\" class=\"internal right\" src=\"/@api/deki/files/446282/clipboard_ebd104d26b30465a2b6a3e9166c2d5b59.png\" fileid=\"446282\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of an orca (killer whale) leaping out of the sea.\" class=\"internal wrap-right\" src=\"/@api/deki/files/446282/clipboard_ebd104d26b30465a2b6a3e9166c2d5b59.png\" fileid=\"446282\" />",
+   "count": 1,
+   "note": "A float in print: Photograph of an orca"
+  },
+  {
+   "old": "<img alt=\"Photograph of a camel walking through scrubland.\" class=\"internal left\" src=\"/@api/deki/files/446284/clipboard_e9e8837188879ebad5e284c8e2b68d84a.png\" fileid=\"446284\" />",
+   "new": "<img style=\"float:left;max-width:45%;height:auto;margin:0 16px 8px 0;\" alt=\"Photograph of a camel walking through scrubland.\" class=\"internal wrap-left\" src=\"/@api/deki/files/446284/clipboard_e9e8837188879ebad5e284c8e2b68d84a.png\" fileid=\"446284\" />",
+   "count": 1,
+   "note": "A float in print: Photograph of a camel"
+  },
+  {
+   "old": "<img alt=\"Photograph of a large flock of migrating geese filling the sky.\" class=\"internal right\" src=\"/@api/deki/files/446294/clipboard_ecc3d117a4bf52d19e6c89a4f099971bb.png\" fileid=\"446294\" />",
+   "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Photograph of a large flock of migrating geese filling the sky.\" class=\"internal wrap-right\" src=\"/@api/deki/files/446294/clipboard_ecc3d117a4bf52d19e6c89a4f099971bb.png\" fileid=\"446294\" />",
+   "count": 1,
+   "note": "A float in print: Photograph of a large flock"
+  },
+  {
+   "old": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }/*]]>*/</style>",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>",
+   "count": 1,
+   "note": "phone rule for wraps"
+  }
+ ],
+ "597061": [
+  {
+   "old": "<figure><img alt=\"Photograph of halite (rock salt): clear, cube-shaped crystals of sodium chloride.\" width=\"270\" style=\"max-width:48%;height:auto;\" src=\"/@api/deki/files/512652/pd-halite-salt.jpg\" fileid=\"512652\" /> <img alt=\"Ball model of the sodium chloride crystal: small purple sodium ions and larger green chloride ions alternate in a cube-shaped lattice, each ion surrounded by six ions of the opposite charge.\" width=\"250\" style=\"max-width:48%;height:auto;\" src=\"/@api/deki/files/512655/pd-nacl-lattice.png\" fileid=\"512655\" />\n<figcaption>Figure \\(\\PageIndex{3}\\): Sodium Chloride. Solid NaCl is held together by ionic interactions. Photo: <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Halite(Salt)USGOV.jpg\" target=\"_blank\" rel=\"noopener\">&ldquo;Halite (Salt)&rdquo;</a> by the U.S. Geological Survey, public domain, via Wikimedia Commons. Model: <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Sodium-chloride-3D-ionic.png\" target=\"_blank\" rel=\"noopener\">&ldquo;Sodium chloride 3D ionic&rdquo;</a> by Ben Mills, public domain, via Wikimedia Commons.</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:40%;margin:0 0 8px 16px\"><img alt=\"Photograph of halite (rock salt): clear, cube-shaped crystals of sodium chloride.\" width=\"270\" style=\"max-width:48%;height:auto;max-width:100%;height:auto;\" src=\"/@api/deki/files/512652/pd-halite-salt.jpg\" fileid=\"512652\" /> <img alt=\"Ball model of the sodium chloride crystal: small purple sodium ions and larger green chloride ions alternate in a cube-shaped lattice, each ion surrounded by six ions of the opposite charge.\" width=\"250\" style=\"max-width:48%;height:auto;max-width:100%;height:auto;\" src=\"/@api/deki/files/512655/pd-nacl-lattice.png\" fileid=\"512655\" />\n<figcaption>Figure \\(\\PageIndex{3}\\): Sodium Chloride. Solid NaCl is held together by ionic interactions. Photo: <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Halite(Salt)USGOV.jpg\" target=\"_blank\" rel=\"noopener\">&ldquo;Halite (Salt)&rdquo;</a> by the U.S. Geological Survey, public domain, via Wikimedia Commons. Model: <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Sodium-chloride-3D-ionic.png\" target=\"_blank\" rel=\"noopener\">&ldquo;Sodium chloride 3D ionic&rdquo;</a> by Ben Mills, public domain, via Wikimedia Commons.</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 40%: Sodium Chloride. Solid NaCl"
+  },
+  {
+   "old": "<figure><img alt=\"A DNA double helix with two sugar-phosphate backbones twisting around colored rungs. A key names the nitrogenous bases: adenine (red), thymine (orange), guanine (blue), cytosine (green). Labels point to a base pair and the sugar-phosphate backbone; the strand ends are marked 3 prime and 5 prime.\" class=\"internal default\" style=\"width: 243px; height: 375px;\" src=\"/@api/deki/files/137585/CNX_Chem_10_01_DNA.jpg\" fileid=\"137585\" width=\"243px\" height=\"375px\" />\n<figcaption>Figure \\(\\PageIndex{10}\\): Two separate DNA molecules form a double-stranded helix in which the molecules are held together via hydrogen bonding. (credit: modification of work by Jerome Walker, Dennis Myts)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:28%;margin:0 0 8px 16px\"><img alt=\"A DNA double helix with two sugar-phosphate backbones twisting around colored rungs. A key names the nitrogenous bases: adenine (red), thymine (orange), guanine (blue), cytosine (green). Labels point to a base pair and the sugar-phosphate backbone; the strand ends are marked 3 prime and 5 prime.\" class=\"internal default\" style=\"width: 243px; height: 375px;max-width:100%;height:auto;\" src=\"/@api/deki/files/137585/CNX_Chem_10_01_DNA.jpg\" fileid=\"137585\" width=\"243px\" height=\"375px\" />\n<figcaption>Figure \\(\\PageIndex{10}\\): Two separate DNA molecules form a double-stranded helix in which the molecules are held together via hydrogen bonding. (credit: modification of work by Jerome Walker, Dennis Myts)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 28%: Two separate DNA molecules f"
+  },
+  {
+   "old": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right { float: none !important; width: auto !important; margin: 1em 0 !important; } } @media screen { .showprint.answer-key { display: none !important; } }/*]]>*/</style>",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right { float: none !important; width: auto !important; margin: 1em 0 !important; } } @media screen { .showprint.answer-key { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>",
+   "count": 1,
+   "note": "phone rule for wraps"
+  }
+ ],
+ "597070": [
+  {
+   "old": "<figure><img alt=\"Satellite photograph of the Gulf of Mexico coastline with a pale gray oil slick spreading across the blue-green water.\" height=\"457\" width=\"335\" class=\"internal\" src=\"/@api/deki/files/27505/12.5.jpg\" fileid=\"27505\" />\n<figcaption>Figure \\(\\PageIndex{1}\\): Oil Spills. Crude oil coats the water&rsquo;s surface in the Gulf of Mexico after the <em>Deepwater Horizon</em> oil rig sank following an explosion. The leak was a mile below the surface, making it difficult to estimate the size of the spill. One liter of oil can create a slick 2.5 hectares (6.3 acres) in size. This and similar spills provide a reminder that hydrocarbons and water don&rsquo;t mix. Source: Photo courtesy of NASA Goddard / <abbr title=\"Moderate Resolution Imaging Spectrometer\">MODIS</abbr> Rapid Response Team, <a target=\"_blank\" href=\"http://www.nasa.gov/topics/earth/features/oilspill/oil-20100519a.html\" rel=\"external noopener nofollow\" class=\"link external\">NASA.gov, Topics, Earth Features, Oil Spill(opens in new window)</a><span> [www.nasa.gov]</span>.</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:30%;margin:0 0 8px 16px\"><img style=\"max-width:100%;height:auto;\" alt=\"Satellite photograph of the Gulf of Mexico coastline with a pale gray oil slick spreading across the blue-green water.\" height=\"457\" width=\"335\" class=\"internal\" src=\"/@api/deki/files/27505/12.5.jpg\" fileid=\"27505\" />\n<figcaption>Figure \\(\\PageIndex{1}\\): Oil Spills. Crude oil coats the water&rsquo;s surface in the Gulf of Mexico after the <em>Deepwater Horizon</em> oil rig sank following an explosion. The leak was a mile below the surface, making it difficult to estimate the size of the spill. One liter of oil can create a slick 2.5 hectares (6.3 acres) in size. This and similar spills provide a reminder that hydrocarbons and water don&rsquo;t mix. Source: Photo courtesy of NASA Goddard / <abbr title=\"Moderate Resolution Imaging Spectrometer\">MODIS</abbr> Rapid Response Team, <a target=\"_blank\" href=\"http://www.nasa.gov/topics/earth/features/oilspill/oil-20100519a.html\" rel=\"external noopener nofollow\" class=\"link external\">NASA.gov, Topics, Earth Features, Oil Spill(opens in new window)</a><span> [www.nasa.gov]</span>.</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 30%: Oil Spills. Crude oil coats"
+  },
+  {
+   "old": "\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">&nbsp;Learning Objectives</h2>\n\n<ul>\n    <li>To identify the p",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">&nbsp;Learning Objectives</h2>\n\n<ul>\n    <li>To identify the p",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597073": [
+  {
+   "old": "<figure><img alt=\"Ball-and-spring model of cyclopropane: three red carbon spheres joined in a triangle by bent springs, each carbon carrying two light-blue hydrogen spheres.\" style=\"width: 216px; height: 183px;\" class=\"internal\" src=\"/@api/deki/files/73279/%253DFig1a2.6.jpg\" fileid=\"73279\" width=\"216px\" height=\"183px\" />\n<figcaption>Figure \\(\\PageIndex{1}\\): Ball-and-Spring Model of Cyclopropane. The springs are bent to join the carbon atoms. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:31%;margin:0 0 8px 16px\"><img alt=\"Ball-and-spring model of cyclopropane: three red carbon spheres joined in a triangle by bent springs, each carbon carrying two light-blue hydrogen spheres.\" style=\"width: 216px; height: 183px;max-width:100%;height:auto;\" class=\"internal\" src=\"/@api/deki/files/73279/%253DFig1a2.6.jpg\" fileid=\"73279\" width=\"216px\" height=\"183px\" />\n<figcaption>Figure \\(\\PageIndex{1}\\): Ball-and-Spring Model of Cyclopropane. The springs are bent to join the carbon atoms. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 31%: Ball-and-Spring Model of Cyc"
+  },
+  {
+   "old": "\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>To name cycloalkanes gi",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>To name cycloalkanes gi",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597092": [
+  {
+   "old": "<figure><img class=\"internal\" alt=\"Ball-and-stick drawing of an ethanol molecule hydrogen-bonded (green dotted lines) to several water molecules, labeled 'Water' and 'Ethanol'; a key reads 'green dots = hydrogen bonding'.\" width=\"456\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512719/fig-p597092-ethanol-water.jpg\" fileid=\"512719\" />\n<figcaption>Figure \\(\\PageIndex{2}\\): Hydrogen Bonding between Ethanol Molecules and Water Molecules. Hydrogen bonding between the OH of ethanol and water molecules accounts for the solubility of ethanol in water. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:36%;margin:0 0 8px 16px\"><img class=\"internal\" alt=\"Ball-and-stick drawing of an ethanol molecule hydrogen-bonded (green dotted lines) to several water molecules, labeled 'Water' and 'Ethanol'; a key reads 'green dots = hydrogen bonding'.\" width=\"456\" style=\"max-width:100%;height:auto;max-width:100%;height:auto;\" src=\"/@api/deki/files/512719/fig-p597092-ethanol-water.jpg\" fileid=\"512719\" />\n<figcaption>Figure \\(\\PageIndex{2}\\): Hydrogen Bonding between Ethanol Molecules and Water Molecules. Hydrogen bonding between the OH of ethanol and water molecules accounts for the solubility of ethanol in water. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 36%: Hydrogen Bonding between Eth"
+  },
+  {
+   "old": "<section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Explain why the boiling points of ",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n<section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Explain why the boiling points of ",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597105": [
+  {
+   "old": "<figure><img alt=\"Photograph of two test tubes in a beaker: the left tube is coated inside with a shiny silver mirror (positive Tollens test for an aldehyde) and the right tube is clear (negative test).\" class=\"internal\" src=\"/@api/deki/files/443552/clipboard_ee6d4b870b9a71866d24c740e95c4a0bf.png\" fileid=\"443552\" />\n<figcaption>Figure \\(\\PageIndex{2}\\): Tollens' test for aldehydes: left side positive (silver mirror formed) and right side negative. (FK1954, Public domain, via Wikimedia Commons)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:30%;margin:0 0 8px 16px\"><img style=\"max-width:100%;height:auto;\" alt=\"Photograph of two test tubes in a beaker: the left tube is coated inside with a shiny silver mirror (positive Tollens test for an aldehyde) and the right tube is clear (negative test).\" class=\"internal\" src=\"/@api/deki/files/443552/clipboard_ee6d4b870b9a71866d24c740e95c4a0bf.png\" fileid=\"443552\" />\n<figcaption>Figure \\(\\PageIndex{2}\\): Tollens' test for aldehydes: left side positive (silver mirror formed) and right side negative. (FK1954, Public domain, via Wikimedia Commons)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 30%: Tollens' test for aldehydes"
+  },
+  {
+   "old": "<section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n<li>Recognize an oxidation (more C&ndash;O",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n<section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n<li>Recognize an oxidation (more C&ndash;O",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597130": [
+  {
+   "old": "<figure><img alt=\"Photograph of a black nylon kitchen spatula.\" data-flx-url=\"/flx/show/THUMB_LARGE/image/user%3AY2sxMnNjaWVuY2VAY2sxMi5vcmc./98045-1370042923-0-18-IntCh-25-26-Nylon-Spatula.jpg\" longdesc=\"http://www.ck12.org/book/CK-12-Chemistry-Concepts-Intermediate/section/25.20/Nylon%20spatula.\" class=\"internal\" src=\"/@api/deki/files/404865/f-d%253Aec96970a4d189c111a11695e2296edcce462be3e1bfb4693abe38fe2IMAGE_THUMB_LARGE_TINYIMAGE_THUMB_LARGE_TINY.1\" fileid=\"404865\" />\n<figcaption>Figure \\(\\PageIndex{3}\\): Nylon spatula. (Figure from <em>Fundamentals of General, Organic, and Biological Chemistry</em> (LibreTexts), CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:22%;margin:0 0 8px 16px\"><img style=\"max-width:100%;height:auto;\" alt=\"Photograph of a black nylon kitchen spatula.\" data-flx-url=\"/flx/show/THUMB_LARGE/image/user%3AY2sxMnNjaWVuY2VAY2sxMi5vcmc./98045-1370042923-0-18-IntCh-25-26-Nylon-Spatula.jpg\" longdesc=\"http://www.ck12.org/book/CK-12-Chemistry-Concepts-Intermediate/section/25.20/Nylon%20spatula.\" class=\"internal\" src=\"/@api/deki/files/404865/f-d%253Aec96970a4d189c111a11695e2296edcce462be3e1bfb4693abe38fe2IMAGE_THUMB_LARGE_TINYIMAGE_THUMB_LARGE_TINY.1\" fileid=\"404865\" />\n<figcaption>Figure \\(\\PageIndex{3}\\): Nylon spatula. (Figure from <em>Fundamentals of General, Organic, and Biological Chemistry</em> (LibreTexts), CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 22%: Nylon spatula"
+  },
+  {
+   "old": "<section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Describe how polyamides and polyes",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n<section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Describe how polyamides and polyes",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597136": [
+  {
+   "old": "<figure><img alt=\"Photograph of a bunch of red grapes on the vine; grapes are rich in glucose.\" width=\"170\" style=\"max-width:31%;height:auto;\" src=\"/@api/deki/files/512653/pd-grapes.jpg\" fileid=\"512653\" /> <img alt=\"Photograph of black-and-white Holstein dairy cows; galactose is part of lactose, the sugar in milk.\" width=\"250\" style=\"max-width:36%;height:auto;\" src=\"/@api/deki/files/512654/pd-holstein-cows.jpg\" fileid=\"512654\" /> <img alt=\"Photograph of honey dripping from a spoon; honey is rich in fructose.\" width=\"170\" style=\"max-width:31%;height:auto;\" src=\"/@api/deki/files/512650/pd-honey.jpg\" fileid=\"512650\" />\n<figcaption>Figure \\(\\PageIndex{1}\\): Food sources of three important hexoses. Left: grapes (glucose, once called &ldquo;grape sugar&rdquo;). Middle: dairy cows (galactose, which is part of lactose, the sugar in milk). Right: honey (mostly fructose and glucose). The three sugars are drawn as Fischer projections later on this page. Photos: <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Crimson_seedless_on_the_vine.jpg\" target=\"_blank\" rel=\"noopener\">&ldquo;Crimson seedless on the vine&rdquo;</a> by Bob Nichols, USDA ARS; <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Holstein_cows_large.jpg\" target=\"_blank\" rel=\"noopener\">&ldquo;Holstein cows&rdquo;</a> by the U.S. Department of Agriculture; <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg\" target=\"_blank\" rel=\"noopener\">&ldquo;Runny hunny&rdquo;</a> by Scott Bauer, USDA ARS; all public domain, via Wikimedia Commons.</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:45%;margin:0 0 8px 16px\"><img alt=\"Photograph of a bunch of red grapes on the vine; grapes are rich in glucose.\" width=\"170\" style=\"max-width:31%;height:auto;max-width:100%;height:auto;\" src=\"/@api/deki/files/512653/pd-grapes.jpg\" fileid=\"512653\" /> <img alt=\"Photograph of black-and-white Holstein dairy cows; galactose is part of lactose, the sugar in milk.\" width=\"250\" style=\"max-width:36%;height:auto;max-width:100%;height:auto;\" src=\"/@api/deki/files/512654/pd-holstein-cows.jpg\" fileid=\"512654\" /> <img alt=\"Photograph of honey dripping from a spoon; honey is rich in fructose.\" width=\"170\" style=\"max-width:31%;height:auto;max-width:100%;height:auto;\" src=\"/@api/deki/files/512650/pd-honey.jpg\" fileid=\"512650\" />\n<figcaption>Figure \\(\\PageIndex{1}\\): Food sources of three important hexoses. Left: grapes (glucose, once called &ldquo;grape sugar&rdquo;). Middle: dairy cows (galactose, which is part of lactose, the sugar in milk). Right: honey (mostly fructose and glucose). The three sugars are drawn as Fischer projections later on this page. Photos: <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Crimson_seedless_on_the_vine.jpg\" target=\"_blank\" rel=\"noopener\">&ldquo;Crimson seedless on the vine&rdquo;</a> by Bob Nichols, USDA ARS; <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Holstein_cows_large.jpg\" target=\"_blank\" rel=\"noopener\">&ldquo;Holstein cows&rdquo;</a> by the U.S. Department of Agriculture; <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg\" target=\"_blank\" rel=\"noopener\">&ldquo;Runny hunny&rdquo;</a> by Scott Bauer, USDA ARS; all public domain, via Wikimedia Commons.</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 45%: Food sources of three import"
+  },
+  {
+   "old": "<figure><img alt=\"Fischer projection of D-glucose with the carbons numbered 1 to 6 in red: carbon 1 is the aldehyde H-C=O, carbons 2, 4 and 5 have OH on the right, carbon 3 has OH on the left, and carbon 6 is CH2OH.\" class=\"internal\" src=\"/@api/deki/files/128182/clipboard_e83e7f07dcdb48f0d449b7ade49a8a8e8.png\" fileid=\"128182\" />\n<figcaption>Figure \\(\\PageIndex{2}\\): Fischer projection of D-glucose. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:22%;margin:0 0 8px 16px\"><img style=\"max-width:100%;height:auto;\" alt=\"Fischer projection of D-glucose with the carbons numbered 1 to 6 in red: carbon 1 is the aldehyde H-C=O, carbons 2, 4 and 5 have OH on the right, carbon 3 has OH on the left, and carbon 6 is CH2OH.\" class=\"internal\" src=\"/@api/deki/files/128182/clipboard_e83e7f07dcdb48f0d449b7ade49a8a8e8.png\" fileid=\"128182\" />\n<figcaption>Figure \\(\\PageIndex{2}\\): Fischer projection of D-glucose. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 22%: Fischer projection of D-gluc"
+  },
+  {
+   "old": "\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">&nbsp;Learning Objectives</h2>\n\n<ul>\n    <li><span>To identify",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">&nbsp;Learning Objectives</h2>\n\n<ul>\n    <li><span>To identify",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597148": [
+  {
+   "old": "<figure><img alt=\"A test tube showing three arrangements phospholipids form in water: a monolayer at the surface with heads in the water and tails in the air, a spherical micelle in the liquid, and a bilayer with tails facing inward.\" height=\"349\" width=\"209\" class=\"internal\" src=\"/@api/deki/files/26917/17.5.new.jpg\" fileid=\"26917\" />\n<figcaption>Figure \\(\\PageIndex{2}\\): Spontaneously Formed Polar Lipid Structures in Water: Monolayer, Micelle, and Bilayer. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:26%;margin:0 0 8px 16px\"><img style=\"max-width:100%;height:auto;\" alt=\"A test tube showing three arrangements phospholipids form in water: a monolayer at the surface with heads in the water and tails in the air, a spherical micelle in the liquid, and a bilayer with tails facing inward.\" height=\"349\" width=\"209\" class=\"internal\" src=\"/@api/deki/files/26917/17.5.new.jpg\" fileid=\"26917\" />\n<figcaption>Figure \\(\\PageIndex{2}\\): Spontaneously Formed Polar Lipid Structures in Water: Monolayer, Micelle, and Bilayer. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 26%: Spontaneously Formed Polar L"
+  },
+  {
+   "old": "\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Identify the distinguis",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">Learning Objectives</h2>\n\n<ul>\n    <li>Identify the distinguis",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597158": [
+  {
+   "old": "<figure><img alt=\"An alpha helix: a coiled ribbon of the peptide backbone with ball-and-stick atoms; dotted lines labeled 'Hydrogen bond' connect C=O groups to N-H groups one turn further along the helix.\" class=\"internal\" style=\"width: 327px; height: 415px;\" src=\"/@api/deki/files/105650/18.3A.jpg\" fileid=\"105650\" width=\"327px\" height=\"415px\" />\n<figcaption>Figure \\(\\PageIndex{2}\\) A Ball-and-Stick Model of an &alpha;-Helix. This ball-and-stick model shows the intrachain hydrogen bonding between carbonyl oxygen atoms and amide hydrogen atoms. Each turn of the helix spans 3.6 amino acids. Note that the side chains (represented as green spheres) point out from the helix.</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:33%;margin:0 0 8px 16px\"><img alt=\"An alpha helix: a coiled ribbon of the peptide backbone with ball-and-stick atoms; dotted lines labeled 'Hydrogen bond' connect C=O groups to N-H groups one turn further along the helix.\" class=\"internal\" style=\"width: 327px; height: 415px;max-width:100%;height:auto;\" src=\"/@api/deki/files/105650/18.3A.jpg\" fileid=\"105650\" width=\"327px\" height=\"415px\" />\n<figcaption>Figure \\(\\PageIndex{2}\\) A Ball-and-Stick Model of an &alpha;-Helix. This ball-and-stick model shows the intrachain hydrogen bonding between carbonyl oxygen atoms and amide hydrogen atoms. Each turn of the helix spans 3.6 amino acids. Note that the side chains (represented as green spheres) point out from the helix.</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 33%: A Ball-and-Stick Model of an"
+  },
+  {
+   "old": "\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">&nbsp;Learning Objectives</h2>\n\n<ul>\n    <li>Describe the four",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>\n\n          <section class=\"box-objectives\">\n<span id=\"Learning_Objectives\"></span><div class=\"mt-section\"><h2 class=\"box-legend editable\">&nbsp;Learning Objectives</h2>\n\n<ul>\n    <li>Describe the four",
+   "count": 1,
+   "note": "phone rule for wraps (new style block)"
+  }
+ ],
+ "597163": [
+  {
+   "old": "<figure role=\"group\">\n<div class=\"row\">\n<figure><img alt=\"Illustration of amyloid plaque formation: the amyloid precursor protein (APP) in the cell membrane is cut by beta-secretase and gamma-secretase to release beta-amyloid peptide, which clumps into oligomers and fibrils that build up into a plaque outside the cell.\" class=\"internal\" src=\"/@api/deki/files/432507/clipboard_e518ab34f1b0b982a420695fb1ade7f96.png\" fileid=\"432507\" /></figure>\n\n<figure><img alt=\"Artist's rendering of neurons (blue cell bodies with branching fibers) surrounded by tan amyloid plaques, as in Alzheimer's disease.\" class=\"internal\" src=\"/@api/deki/files/432508/clipboard_e8c6d888ffbcdb9192dac91cbfad5fa8e.png\" fileid=\"432508\" /></figure>\n</div>\n\n<figcaption>Figure \\(\\PageIndex{2}\\): Illustration of plaque formation when \\(\\beta\\)-amyloid changes conformation from \\(\\alpha\\)-helix to \\(\\beta\\)-pleated sheets that aggregate to form the plaque (left) and abnormal levels of \\(\\beta\\)-amyloid proteins aggregated to form plaques (shown in brown color) that collect between neurons. (Left: National Institute on Aging, Public domain, via Wikimedia Commons, Right: NIH Image Gallery from Bethesda, Maryland, USA, Public domain, via Wikimedia Commons)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:40%;margin:0 0 8px 16px\">\n<div class=\"row\">\n<figure><img style=\"max-width:100%;height:auto;\" alt=\"Illustration of amyloid plaque formation: the amyloid precursor protein (APP) in the cell membrane is cut by beta-secretase and gamma-secretase to release beta-amyloid peptide, which clumps into oligomers and fibrils that build up into a plaque outside the cell.\" class=\"internal\" src=\"/@api/deki/files/432507/clipboard_e518ab34f1b0b982a420695fb1ade7f96.png\" fileid=\"432507\" /></figure>\n\n<figure><img style=\"max-width:100%;height:auto;\" alt=\"Artist's rendering of neurons (blue cell bodies with branching fibers) surrounded by tan amyloid plaques, as in Alzheimer's disease.\" class=\"internal\" src=\"/@api/deki/files/432508/clipboard_e8c6d888ffbcdb9192dac91cbfad5fa8e.png\" fileid=\"432508\" /></figure>\n</div>\n\n<figcaption>Figure \\(\\PageIndex{2}\\): Illustration of plaque formation when \\(\\beta\\)-amyloid changes conformation from \\(\\alpha\\)-helix to \\(\\beta\\)-pleated sheets that aggregate to form the plaque (left) and abnormal levels of \\(\\beta\\)-amyloid proteins aggregated to form plaques (shown in brown color) that collect between neurons. (Left: National Institute on Aging, Public domain, via Wikimedia Commons, Right: NIH Image Gallery from Bethesda, Maryland, USA, Public domain, via Wikimedia Commons)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 40%: Illustration of plaque forma"
+  },
+  {
+   "old": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }/*]]>*/</style>",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>",
+   "count": 1,
+   "note": "phone rule for wraps"
+  }
+ ],
+ "597181": [
+  {
+   "old": "<figure><img alt=\"Colorful illustration of viruses of many shapes: spiky spheres, rod-shaped and filamentous particles, a bacteriophage with a head and tail, and an oval virus showing its coiled nucleic acid inside.\" style=\"width: 415px; height: 416.989px;\" class=\"internal\" src=\"/@api/deki/files/56347/19.17v1.jpg\" fileid=\"56347\" width=\"415px\" height=\"416.989px\" />\n<figcaption>Figure \\(\\PageIndex{1}\\): Viruses. Viruses come in a variety of shapes that are determined by their protein coats. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:40%;margin:0 0 8px 16px\"><img alt=\"Colorful illustration of viruses of many shapes: spiky spheres, rod-shaped and filamentous particles, a bacteriophage with a head and tail, and an oval virus showing its coiled nucleic acid inside.\" style=\"width: 415px; height: 416.989px;max-width:100%;height:auto;\" class=\"internal\" src=\"/@api/deki/files/56347/19.17v1.jpg\" fileid=\"56347\" width=\"415px\" height=\"416.989px\" />\n<figcaption>Figure \\(\\PageIndex{1}\\): Viruses. Viruses come in a variety of shapes that are determined by their protein coats. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 40%: Viruses. Viruses come in a v"
+  },
+  {
+   "old": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }/*]]>*/</style>",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>",
+   "count": 1,
+   "note": "phone rule for wraps"
+  }
+ ],
+ "597096": [
+  {
+   "old": "<figure role=\"group\">\n<div class=\"row\">\n<figure><img alt=\"Ball-and-stick model of phenol: a six-carbon aromatic ring (dark gray spheres) with an OH group (red oxygen, white hydrogen) attached to one carbon.\" height=\"219\" width=\"190\" class=\"internal\" src=\"/@api/deki/files/54241/800px-Phenol-3D-balls.png\" fileid=\"54241\" /></figure>\n\n<figure><img alt=\"Photograph of colorless phenol crystals in a glass test tube.\" height=\"219\" width=\"219\" class=\"internal\" src=\"/@api/deki/files/54240/Phenol_2_grams.jpg\" fileid=\"54240\" /></figure>\n</div>\n\n<figcaption>Figure \\(\\PageIndex{1}\\): (Left) Structure of Phenol (right) Approximately two grams of phenol in a glass vial. from Wikipedia</figcaption>\n</figure>",
+   "new": "<figure class=\"wrap-right\" style=\"float:right;width:40%;margin:0 0 8px 16px\">\n<div class=\"row\">\n<figure><img style=\"max-width:100%;height:auto;\" alt=\"Ball-and-stick model of phenol: a six-carbon aromatic ring (dark gray spheres) with an OH group (red oxygen, white hydrogen) attached to one carbon.\" height=\"219\" width=\"190\" class=\"internal\" src=\"/@api/deki/files/54241/800px-Phenol-3D-balls.png\" fileid=\"54241\" /></figure>\n\n<figure><img style=\"max-width:100%;height:auto;\" alt=\"Photograph of colorless phenol crystals in a glass test tube.\" height=\"219\" width=\"219\" class=\"internal\" src=\"/@api/deki/files/54240/Phenol_2_grams.jpg\" fileid=\"54240\" /></figure>\n</div>\n\n<figcaption>Figure \\(\\PageIndex{1}\\): (Left) Structure of Phenol (right) Approximately two grams of phenol in a glass vial. from Wikipedia</figcaption>\n</figure>",
+   "count": 1,
+   "note": "B wrap right 40%: (Left) Structure of Phenol"
+  },
+  {
+   "old": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } }/*]]>*/</style>",
+   "new": "<style type=\"text/css\">/*<![CDATA[*/@media print { .hideprint, details.hideprint { display: none !important; } } @media screen { .showprint.answer-key { display: none !important; } } @media screen and (max-width: 640px) { figure.wrap-right, figure.wrap-left, img.wrap-right, img.wrap-left { float: none !important; width: auto !important; max-width: 100% !important; margin: 1em auto !important; display: block; } }/*]]>*/</style>",
+   "count": 1,
+   "note": "phone rule for wraps"
+  }
+ ]
+}
