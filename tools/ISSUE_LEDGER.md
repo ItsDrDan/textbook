@@ -627,3 +627,11 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - Method notes: the signed-in page cannot fetch from localhost, and neither the shell nor a browser tab can read files.mtstatic.com; file bytes go in through raw.githubusercontent.com at a pushed commit.
   - Not rechecked in print: these four fixes need the next compile.
 
+- **2026-11-13 PDF check of the 09:36 compile (1,339 pp; after PR #43 was merged):** the four follow-up fixes print.
+  - 1.3 Lewis-errors figure (p46): "16 e−", "12 e−", "6 e−" and "N+" print as raised charges.
+  - 6.10 (p500): both equilibrium arrows print.
+  - 6.11 concept map (p506): "RCOO− in body".
+  - Figure 14.1.3 (p1146): "(NAD+, CoA, thiamine coenzyme)"; no "thiamine cofactor" anywhere in the book.
+  - Missing-glyph boxes in the whole book: 0. Batch M text, the eight print-key entries and the renumbered figures are unchanged from the 01:14 compile. p2 licence present; no raw MathJax or "Copyright" leftovers.
+  - Words under 6 pt: 32 pages, unchanged (open; list in tools/REVIEW_2026-11-13.md).
+
