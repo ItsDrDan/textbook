@@ -260,8 +260,8 @@ def elongation():
             o.append(T(cx, my - 30, anti, 11.5, 800, GREEN, 'middle'))
             o.append(f'<line x1="{cx}" y1="{my-92}" x2="{cx}" y2="{my-104}" stroke="{GREEN}" stroke-width="2.4"/>')
             for k, aa in enumerate(chain[::-1]):
-                cy = my - 116 - 24*k
-                o.append(f'<circle cx="{cx}" cy="{cy}" r="12" fill="{AACOL[aa]}"/>' + T(cx, cy + 4, aa, 9.5, 900, '#ffffff', 'middle'))
+                cy = my - 118 - 28*k
+                o.append(f'<circle cx="{cx}" cy="{cy}" r="14" fill="{AACOL[aa]}"/>' + T(cx, cy + 4.5, aa, 12, 900, '#ffffff', 'middle'))
             return o
         pcx = mx + 20 + cw*p_idx + cw/2; acx = pcx + cw
         out += trna(pcx, ANTI[COD[p_idx]], p_chain)
@@ -337,3 +337,55 @@ def phospholipid():
 
 phospholipid()
 print('pl ok')
+
+
+# ---------- 13.1 overview of metabolism (replaces a CC BY-SA image; batch H)
+def metabolism():
+    W, H = 920, 370
+    b = []
+    def arr(x1, y1, x2, y2, col=INK, w=2.4, head=9):
+        import math
+        a = math.atan2(y2 - y1, x2 - x1); hx, hy = x2 - head * math.cos(a), y2 - head * math.sin(a)
+        px, py = -math.sin(a) * head * 0.55, math.cos(a) * head * 0.55
+        return (f'<line x1="{x1}" y1="{y1}" x2="{hx:.1f}" y2="{hy:.1f}" stroke="{col}" stroke-width="{w}"/>'
+                f'<path d="M{x2} {y2} L{hx+px:.1f} {hy+py:.1f} L{hx-px:.1f} {hy-py:.1f} Z" fill="{col}"/>')
+    def fat(x1, x2, y, col, label):
+        return (f'<path d="M{x1} {y-13} L{x2-26} {y-13} L{x2-26} {y-24} L{x2} {y} L{x2-26} {y+24} L{x2-26} {y+13} L{x1} {y+13} Z" fill="{col}"/>'
+                + T((x1 + x2) / 2 - 10, y + 5, label, 16, 900, '#ffffff', 'middle'))
+    b.append(f'<rect x="170" y="44" width="720" height="270" rx="70" fill="#fdf1e7" stroke="#d9a06b" stroke-width="3"/>')
+    b.append(T(190, 72, 'Inside the cell', 13, 800, '#b5651d'))
+    # catabolism / anabolism
+    b.append(T(70, 222, 'Nutrients', 15, 800, INK, 'middle')); b.append(T(70, 240, '(carbohydrates,', 12.5, 700, MUTED, 'middle')); b.append(T(70, 255, 'fats, proteins)', 12.5, 700, MUTED, 'middle'))
+    b.append(arr(120, 226, 214, 226))
+    b.append(fat(220, 420, 226, '#c0392b', 'Catabolism'))
+    b.append(T(470, 222, 'small', 14, 800, INK, 'middle')); b.append(T(470, 239, 'intermediates', 14, 800, INK, 'middle'))
+    b.append(fat(520, 712, 226, '#2f5fc4', 'Anabolism'))
+    b.append(T(840, 215, 'Biomass:', 15, 800, INK, 'middle')); b.append(T(840, 233, 'proteins, polysac-', 12, 700, MUTED, 'middle'))
+    b.append(T(840, 248, 'charides, fats,', 12, 700, MUTED, 'middle')); b.append(T(840, 263, 'nucleic acids', 12, 700, MUTED, 'middle'))
+    b.append(arr(716, 226, 778, 226))
+    # CO2 out
+    b.append(arr(320, 244, 320, 350, '#c0392b')); b.append(T(332, 352, 'CO<tspan font-size="11" dy="4">2</tspan><tspan dy="-4"> out</tspan>', 14, 800, '#c0392b', 'start'))
+    # minerals in
+    b.append(arr(470, 352, 470, 252, '#23704f')); b.append(T(482, 340, 'minerals, nitrogen sources, vitamins in', 13, 700, '#23704f', 'start'))
+    # NAD cycle + O2/H2O
+    b.append(T(250, 128, 'NAD<tspan dy="-6" font-size="11">+</tspan>', 15, 800, BLUE, 'middle'))
+    b.append(T(372, 128, 'NADH', 15, 800, BLUE, 'middle'))
+    b.append(f'<path d="M272 140 Q311 186 350 140" fill="none" stroke="{BLUE}" stroke-width="2.2"/>' + f'<path d="M350 140 l-9 1 l5 -8 Z" fill="{BLUE}"/>')
+    b.append(f'<path d="M350 114 Q311 72 272 114" fill="none" stroke="{BLUE}" stroke-width="2.2"/>' + f'<path d="M272 114 l9 -1 l-5 8 Z" fill="{BLUE}"/>')
+    b.append(T(311, 162, 'catabolism', 11.5, 700, MUTED, 'middle'))
+    b.append(arr(262, 10, 296, 84, MUTED)); b.append(T(256, 22, 'O<tspan font-size="11" dy="4">2</tspan>', 14, 800, INK, 'end'))
+    b.append(arr(326, 84, 360, 10, MUTED)); b.append(T(370, 22, 'H<tspan font-size="11" dy="4">2</tspan><tspan dy="-4">O</tspan>', 14, 800, INK, 'start'))
+    b.append(T(311, 106, 'to O<tspan font-size="9" dy="3">2</tspan>', 11, 700, MUTED, 'middle'))
+    # ATP cycle
+    b.append(T(530, 128, 'ADP', 15, 800, '#9a7b00', 'middle')); b.append(T(650, 128, 'ATP', 15, 800, '#9a7b00', 'middle'))
+    b.append(f'<path d="M552 140 Q590 186 628 140" fill="none" stroke="#9a7b00" stroke-width="2.2"/>' + f'<path d="M628 140 l-9 1 l5 -8 Z" fill="#9a7b00"/>')
+    b.append(f'<path d="M628 114 Q590 72 552 114" fill="none" stroke="#9a7b00" stroke-width="2.2"/>' + f'<path d="M552 114 l9 -1 l-5 8 Z" fill="#9a7b00"/>')
+    b.append(T(590, 170, 'made by catabolism', 11.5, 700, MUTED, 'middle')); b.append(T(590, 86, 'spent by anabolism', 11.5, 700, MUTED, 'middle'))
+    alt = ('Overview of metabolism inside a cell. Nutrients (carbohydrates, fats and proteins) enter and are broken down by catabolism into small intermediates, '
+           'releasing CO2; catabolism also reduces NAD plus to NADH, whose electrons go to O2 to make H2O, and it makes ATP from ADP. Anabolism uses the intermediates '
+           'and the energy of ATP, together with minerals, nitrogen sources and vitamins, to build biomass: proteins, polysaccharides, fats and nucleic acids.')
+    open(OUT + 'fig-p597188-metabolism.svg', 'w').write(svg(W, H, alt, ''.join(b)))
+
+
+metabolism()
+print('met ok')
