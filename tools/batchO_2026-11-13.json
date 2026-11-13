@@ -1,0 +1,465 @@
+{
+ "uploads": [],
+ "edits": {
+  "597116": [
+   {
+    "old": "<figcaption style=\"font-size:.85em;color:#555\">Skeletal structure of aspirin: a benzene ring carrying a carboxylic acid group (COOH) and, on the neighboring carbon, an ester group O&ndash;C(=O)&ndash;CH3. Drawn by",
+    "new": "<figcaption style=\"font-size:.85em;color:#555\">Aspirin (acetylsalicylic acid). Drawn by",
+    "count": 1,
+    "note": "T3 6.8: caption repeated the alt text"
+   }
+  ],
+  "597131": [
+   {
+    "old": "<figcaption style=\"font-size:.85em;color:#555\">Skeletal structure of epinephrine: a benzene ring with two neighboring OH groups, attached to a CH(OH)&ndash;CH2&ndash;NH&ndash;CH3 side chain. Drawn by",
+    "new": "<figcaption style=\"font-size:.85em;color:#555\">Epinephrine (adrenaline). Drawn by",
+    "count": 1,
+    "note": "T3 7.11: caption repeated the alt text (and listed the groups the question asks for)"
+   }
+  ],
+  "597060": [
+   {
+    "old": "alt=\"(a) Methane drawn with wedge-and-d",
+    "new": "alt=\"Methane drawn with wedge-and-d",
+    "count": 1,
+    "note": "T3 1.7 Figures 1-2 alt: letter \"(a)\" did not match the visible panel letter"
+   },
+   {
+    "old": "alt=\"(b) Ball-and-stick model of methan",
+    "new": "alt=\"Ball-and-stick model of methan",
+    "count": 1,
+    "note": "T3 1.7 Figures 1-2 alt: letter \"(b)\" did not match the visible panel letter"
+   },
+   {
+    "old": "alt=\"(c) Methane drawn with wedge-and-d",
+    "new": "alt=\"Methane drawn with wedge-and-d",
+    "count": 1,
+    "note": "T3 1.7 Figures 1-2 alt: letter \"(c)\" did not match the visible panel letter"
+   },
+   {
+    "old": "alt=\"(d) Space-filling model of methane",
+    "new": "alt=\"Space-filling model of methane",
+    "count": 1,
+    "note": "T3 1.7 Figures 1-2 alt: letter \"(d)\" did not match the visible panel letter"
+   },
+   {
+    "old": "alt=\"(a) Line-angle structure of hexane",
+    "new": "alt=\"Line-angle structure of hexane",
+    "count": 1,
+    "note": "T3 1.7 Figures 1-2 alt: letter \"(a)\" did not match the visible panel letter"
+   },
+   {
+    "old": "alt=\"(a) Ball-and-stick model of hexane",
+    "new": "alt=\"Ball-and-stick model of hexane",
+    "count": 1,
+    "note": "T3 1.7 Figures 1-2 alt: letter \"(a)\" did not match the visible panel letter"
+   },
+   {
+    "old": "alt=\"(b) Line-angle structure of hexane",
+    "new": "alt=\"Line-angle structure of hexane",
+    "count": 1,
+    "note": "T3 1.7 Figures 1-2 alt: letter \"(b)\" did not match the visible panel letter"
+   },
+   {
+    "old": "alt=\"(b) Ball-and-stick model of hexane",
+    "new": "alt=\"Ball-and-stick model of hexane",
+    "count": 1,
+    "note": "T3 1.7 Figures 1-2 alt: letter \"(b)\" did not match the visible panel letter"
+   }
+  ],
+  "597181": [
+   {
+    "old": "src=\"/@api/deki/files/512747/fig-p597181-dttp-azt.jpg\" fileid=\"512747\" /></p>",
+    "new": "src=\"/@api/deki/files/512747/fig-p597181-dttp-azt.jpg\" fileid=\"512747\" /><br /><small>Deoxythymidine triphosphate and AZT. AZT has an azide group (N<sub>3</sub>) in place of the 3&prime;-OH. (Figure adapted from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)</small></p>",
+    "count": 1,
+    "note": "T3 12.8: caption and credit for the dTTP/AZT figure"
+   },
+   {
+    "old": "<img class=\"internal\" alt=\"Line-angle structure of raltegravir: a methyl-oxadiazole ring joined through an amide (C(=O)-NH) to a carbon bearing two methyl groups, which is attached to a pyrimidinone ring carrying an N-methyl, a C=O, an OH and a second amide whose NH is bonded through a CH2 to a 4-fluorophenyl ring.\" width=\"397\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512732/fig-p597181-raltegravir.svg\" fileid=\"512732\" /></p>",
+    "new": "<img class=\"internal\" alt=\"Line-angle structure of raltegravir: a methyl-oxadiazole ring joined through an amide (C(=O)-NH) to a carbon bearing two methyl groups, which is attached to a pyrimidinone ring carrying an N-methyl, a C=O, an OH and a second amide whose NH is bonded through a CH2 to a 4-fluorophenyl ring.\" width=\"397\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512732/fig-p597181-raltegravir.svg\" fileid=\"512732\" /><br /><small>Raltegravir, an integrase inhibitor. (Structure redrawn by Daniel Kwasniewski, CC BY 4.0.)</small></p>",
+    "count": 1,
+    "note": "T3 12.8: caption and credit for raltegravir"
+   }
+  ],
+  "597163": [
+   {
+    "old": "100,000 workers).<sup>4</sup>",
+    "new": "100,000 workers).<sup>1</sup>",
+    "count": 1,
+    "note": "T4 10.10: source numbers in citation order (was 4, 3, 3, 1, 2)"
+   },
+   {
+    "old": "clumping (aggregation).<sup>3</sup>",
+    "new": "clumping (aggregation).<sup>2</sup>",
+    "count": 1,
+    "note": "T4 10.10: same"
+   },
+   {
+    "old": "brain can fail.<sup>3</sup>",
+    "new": "brain can fail.<sup>2</sup>",
+    "count": 1,
+    "note": "T4 10.10: same"
+   },
+   {
+    "old": "adjust to heat.<sup>1</sup>",
+    "new": "adjust to heat.<sup>3</sup>",
+    "count": 1,
+    "note": "T4 10.10: same"
+   },
+   {
+    "old": "and groin.<sup>2</sup>",
+    "new": "and groin.<sup>4</sup>",
+    "count": 1,
+    "note": "T4 10.10: same"
+   },
+   {
+    "old": "Sources:</strong> 1. California Department of Industrial Relations (Cal/OSHA), <a style=\"text-decoration:underline\" href=\"https://www.dir.ca.gov/title8/3395.html\" rel=\"noopener\" target=\"_blank\">Title 8, &sect;3395, Heat Illness Prevention in Outdoor Places of Employment</a>. 2. CDC/NIOSH, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/niosh/heat-stress/about/illnesses.html\" rel=\"noopener\" target=\"_blank\">Heat-Related Illnesses</a>. 3. Ferrer R, Iba T., <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12620711/\" rel=\"noopener\" target=\"_blank\">Molecular Mechanisms of Heatstroke: Pathophysiology and Cell Death Pathways</a>, <em>Juntendo Medical Journal</em>, 2025. 4. CDC, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5724a1.htm\" rel=\"noopener\" target=\"_blank\">Heat-Related Deaths Among Crop Workers&mdash;United States, 1992&ndash;2006</a>, <em>MMWR</em>, 2008.",
+    "new": "Sources:</strong> 1. CDC, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5724a1.htm\" rel=\"noopener\" target=\"_blank\">Heat-Related Deaths Among Crop Workers&mdash;United States, 1992&ndash;2006</a>, <em>MMWR</em>, 2008. 2. Ferrer R, Iba T., <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12620711/\" rel=\"noopener\" target=\"_blank\">Molecular Mechanisms of Heatstroke: Pathophysiology and Cell Death Pathways</a>, <em>Juntendo Medical Journal</em>, 2025. 3. California Department of Industrial Relations (Cal/OSHA), <a style=\"text-decoration:underline\" href=\"https://www.dir.ca.gov/title8/3395.html\" rel=\"noopener\" target=\"_blank\">Title 8, &sect;3395, Heat Illness Prevention in Outdoor Places of Employment</a>. 4. CDC/NIOSH, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/niosh/heat-stress/about/illnesses.html\" rel=\"noopener\" target=\"_blank\">Heat-Related Illnesses</a>.",
+    "count": 1,
+    "note": "T4 10.10: source list reordered to match"
+   }
+  ],
+  "488232": [
+   {
+    "old": "<td data-th=\"Word(s)\">molecular geometry</td><td data-th=\"Definition\">The three-dimensional arrangement of the atoms in a molecule, such as linear, trigonal planar, tetrahedral, trigonal pyramidal or bent.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> geometr&iacute;a molecular</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597057\">Section 1.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">molecular geometry</td><td data-th=\"Definition\">The three-dimensional arrangement of the atoms in a molecule, such as linear, trigonal planar, tetrahedral, trigonal pyramidal or bent.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> geometr&iacute;a molecular</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597058\">Section 1.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: molecular geometry 1.4 -> 1.5 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">organic chemistry</td><td data-th=\"Definition\">The chemistry of carbon compounds.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> qu&iacute;mica org&aacute;nica</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597066\">Section 2.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">organic chemistry</td><td data-th=\"Definition\">The chemistry of carbon compounds.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> qu&iacute;mica org&aacute;nica</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597059\">Section 1.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: organic chemistry 2.2 -> 1.6 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">functional group</td><td data-th=\"Definition\">The atom or group of atoms in a molecule that gives the family its characteristic reactions, such as the &ndash;OH of an alcohol or the C=O of a ketone.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> grupo funcional</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597065\">Section 2.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">functional group</td><td data-th=\"Definition\">The atom or group of atoms in a molecule that gives the family its characteristic reactions, such as the &ndash;OH of an alcohol or the C=O of a ketone.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> grupo funcional</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597059\">Section 1.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: functional group 2.1 -> 1.6 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">hemoglobin</td><td data-th=\"Definition\">The oxygen-carrying protein of red blood cells: four polypeptide chains, each with a heme group containing iron.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> hemoglobina</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597154\">Section 10.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">hemoglobin</td><td data-th=\"Definition\">The oxygen-carrying protein of red blood cells: four polypeptide chains, each with a heme group containing iron.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> hemoglobina</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597162\">Section 10.9</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: hemoglobin 10.1 -> 10.9 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">translation</td><td data-th=\"Definition\">The synthesis of a protein on a ribosome, using the codons of an mRNA to place amino acids in order.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> traducci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597177\">Section 12.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">translation</td><td data-th=\"Definition\">The synthesis of a protein on a ribosome, using the codons of an mRNA to place amino acids in order.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> traducci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597179\">Section 12.6</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: translation 12.3 -> 12.6 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">phosphodiester bond</td><td data-th=\"Definition\">The phosphate link that joins the 3&prime; carbon of one nucleotide's sugar to the 5&prime; carbon of the next, forming the sugar&ndash;phosphate backbone.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> enlace fosfodi&eacute;ster</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597177\">Section 12.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">phosphodiester bond</td><td data-th=\"Definition\">The phosphate link that joins the 3&prime; carbon of one nucleotide's sugar to the 5&prime; carbon of the next, forming the sugar&ndash;phosphate backbone.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> enlace fosfodi&eacute;ster</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597176\">Section 12.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: phosphodiester bond 12.3 -> 12.2 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">peptide</td><td data-th=\"Definition\">A short chain of amino acids joined by peptide bonds; dipeptides, tripeptides and so on.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> p&eacute;ptido</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597156\">Section 10.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">peptide</td><td data-th=\"Definition\">A short chain of amino acids joined by peptide bonds; dipeptides, tripeptides and so on.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> p&eacute;ptido</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597157\">Section 10.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: peptide 10.3 -> 10.4 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">&alpha; helix, alpha helix</td><td data-th=\"Definition\">A secondary structure in which the polypeptide coils like a spring, held by hydrogen bonds between peptide groups four amino acids apart.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> h&eacute;lice &alpha; (alfa)</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597158\">Section 10.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">&alpha; helix, alpha helix</td><td data-th=\"Definition\">A secondary structure in which the polypeptide coils like a spring, held by hydrogen bonds between peptide groups four amino acids apart.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> h&eacute;lice &alpha; (alfa)</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597160\">Section 10.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: α helix, alpha helix 10.5 -> 10.7 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">secondary structure</td><td data-th=\"Definition\">Regular folding of the protein backbone held by hydrogen bonds between peptide groups: the &alpha; helix and the &beta;-pleated sheet.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> estructura secundaria</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597158\">Section 10.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">secondary structure</td><td data-th=\"Definition\">Regular folding of the protein backbone held by hydrogen bonds between peptide groups: the &alpha; helix and the &beta;-pleated sheet.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> estructura secundaria</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597160\">Section 10.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: secondary structure 10.5 -> 10.7 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">cellulose</td><td data-th=\"Definition\">The structural polysaccharide of plants: glucose joined &beta;(1&rarr;4). Humans lack the enzyme to digest it, so it is dietary fiber.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> celulosa</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597134\">Section 8.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">cellulose</td><td data-th=\"Definition\">The structural polysaccharide of plants: glucose joined &beta;(1&rarr;4). Humans lack the enzyme to digest it, so it is dietary fiber.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> celulosa</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597140\">Section 8.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: cellulose 8.1 -> 8.7 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">starch</td><td data-th=\"Definition\">The storage polysaccharide of plants: amylose (&alpha;(1&rarr;4) chains) and amylopectin (also branched at &alpha;(1&rarr;6)).<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> almid&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597134\">Section 8.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">starch</td><td data-th=\"Definition\">The storage polysaccharide of plants: amylose (&alpha;(1&rarr;4) chains) and amylopectin (also branched at &alpha;(1&rarr;6)).<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> almid&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597140\">Section 8.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: starch 8.1 -> 8.7 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">glycogen</td><td data-th=\"Definition\">The storage polysaccharide of animals, stored in liver and muscle: highly branched chains of glucose with &alpha;(1&rarr;4) links and &alpha;(1&rarr;6) branches.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> gluc&oacute;geno</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597134\">Section 8.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">glycogen</td><td data-th=\"Definition\">The storage polysaccharide of animals, stored in liver and muscle: highly branched chains of glucose with &alpha;(1&rarr;4) links and &alpha;(1&rarr;6) branches.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> gluc&oacute;geno</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597140\">Section 8.7</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: glycogen 8.1 -> 8.7 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">dehydration</td><td data-th=\"Definition\">A reaction that removes water; an alcohol heated with acid loses H<sub>2</sub>O to give an alkene (or, at lower temperature, an ether).<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> deshidrataci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597093\">Section 4.4</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">dehydration</td><td data-th=\"Definition\">A reaction that removes water; an alcohol heated with acid loses H<sub>2</sub>O to give an alkene (or, at lower temperature, an ether).<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> deshidrataci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597094\">Section 4.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: dehydration 4.4 -> 4.5 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">secondary amine, 2&deg; amine</td><td data-th=\"Definition\">An amine with two carbon groups bonded to the nitrogen, R<sub>2</sub>NH.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> amina secundaria (2&deg;)</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597122\">Section 7.2</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">secondary amine, 2&deg; amine</td><td data-th=\"Definition\">An amine with two carbon groups bonded to the nitrogen, R<sub>2</sub>NH.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> amina secundaria (2&deg;)</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597121\">Section 7.1</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: secondary amine, 2° amine 7.2 -> 7.1 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">messenger RNA, mRNA</td><td data-th=\"Definition\">The RNA that carries the genetic code from DNA to the ribosome.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> ARN mensajero, ARNm</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597177\">Section 12.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">messenger RNA, mRNA</td><td data-th=\"Definition\">The RNA that carries the genetic code from DNA to the ribosome.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> ARN mensajero, ARNm</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597183\">Section 12.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: messenger RNA, mRNA 12.3 -> 12.5 (where the term is taught)"
+   },
+   {
+    "old": "<td data-th=\"Word(s)\">ribosomal RNA, rRNA</td><td data-th=\"Definition\">The RNA that, with proteins, makes up the ribosome.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> ARN ribos&oacute;mico, ARNr</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597177\">Section 12.3</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "new": "<td data-th=\"Word(s)\">ribosomal RNA, rRNA</td><td data-th=\"Definition\">The RNA that, with proteins, makes up the ribosome.<br /><span lang=\"es\"><em>Espa&ntilde;ol:</em> ARN ribos&oacute;mico, ARNr</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597183\">Section 12.5</a></td><td data-th=\"Source\">CC BY 4.0; Daniel Kwasniewski</td>",
+    "count": 1,
+    "note": "T4 Glossary: ribosomal RNA, rRNA 12.3 -> 12.5 (where the term is taught)"
+   }
+  ],
+  "488231": [
+   {
+    "old": "<li>molecular geometry, 1.4</li>",
+    "new": "<li>molecular geometry, 1.5</li>",
+    "count": 1,
+    "note": "T4 Index: molecular geometry, 1.5"
+   },
+   {
+    "old": "<li>organic chemistry, 2.2</li>",
+    "new": "<li>organic chemistry, 1.6</li>",
+    "count": 1,
+    "note": "T4 Index: organic chemistry, 1.6"
+   },
+   {
+    "old": "<li>functional group, 2.1</li>",
+    "new": "<li>functional group, 1.6</li>",
+    "count": 1,
+    "note": "T4 Index: functional group, 1.6"
+   },
+   {
+    "old": "<li>hemoglobin, 10.1</li>",
+    "new": "<li>hemoglobin, 10.9</li>",
+    "count": 1,
+    "note": "T4 Index: hemoglobin, 10.9"
+   },
+   {
+    "old": "<li>translation, 12.3</li>",
+    "new": "<li>translation, 12.6</li>",
+    "count": 1,
+    "note": "T4 Index: translation, 12.6"
+   },
+   {
+    "old": "<li>phosphodiester bond, 12.3</li>",
+    "new": "<li>phosphodiester bond, 12.2</li>",
+    "count": 1,
+    "note": "T4 Index: phosphodiester bond, 12.2"
+   },
+   {
+    "old": "<li>peptide, 10.3</li>",
+    "new": "<li>peptide, 10.4</li>",
+    "count": 1,
+    "note": "T4 Index: peptide, 10.4"
+   },
+   {
+    "old": "<li>alpha helix, 10.5</li>",
+    "new": "<li>alpha helix, 10.7</li>",
+    "count": 1,
+    "note": "T4 Index: alpha helix, 10.7"
+   },
+   {
+    "old": "<li>secondary structure, 10.5</li>",
+    "new": "<li>secondary structure, 10.7</li>",
+    "count": 1,
+    "note": "T4 Index: secondary structure, 10.7"
+   },
+   {
+    "old": "<li>cellulose, 8.1</li>",
+    "new": "<li>cellulose, 8.7</li>",
+    "count": 1,
+    "note": "T4 Index: cellulose, 8.7"
+   },
+   {
+    "old": "<li>starch, 8.1</li>",
+    "new": "<li>starch, 8.7</li>",
+    "count": 1,
+    "note": "T4 Index: starch, 8.7"
+   },
+   {
+    "old": "<li>glycogen, 8.1</li>",
+    "new": "<li>glycogen, 8.7</li>",
+    "count": 1,
+    "note": "T4 Index: glycogen, 8.7"
+   },
+   {
+    "old": "<li>dehydration, 4.4</li>",
+    "new": "<li>dehydration, 4.5</li>",
+    "count": 1,
+    "note": "T4 Index: dehydration, 4.5"
+   },
+   {
+    "old": "<li>secondary amine, 7.2</li>",
+    "new": "<li>secondary amine, 7.1</li>",
+    "count": 1,
+    "note": "T4 Index: secondary amine, 7.1"
+   },
+   {
+    "old": "<li>messenger RNA, 12.3</li>",
+    "new": "<li>messenger RNA, 12.5</li>",
+    "count": 1,
+    "note": "T4 Index: messenger RNA, 12.5"
+   },
+   {
+    "old": "<li>mRNA, 12.3</li>",
+    "new": "<li>mRNA, 12.5</li>",
+    "count": 1,
+    "note": "T4 Index: mRNA, 12.5"
+   },
+   {
+    "old": "<li>ribosomal RNA, 12.3</li>",
+    "new": "<li>ribosomal RNA, 12.5</li>",
+    "count": 1,
+    "note": "T4 Index: ribosomal RNA, 12.5"
+   },
+   {
+    "old": "<li>rRNA, 12.3</li>",
+    "new": "<li>rRNA, 12.5</li>",
+    "count": 1,
+    "note": "T4 Index: rRNA, 12.5"
+   },
+   {
+    "old": "<li>beta oxidation, 15.4</li>",
+    "new": "<li>beta oxidation, 15.4</li>\n<li>beta-pleated sheet, 10.7</li>",
+    "count": 1,
+    "note": "T4 Index: new entry \"beta-pleated sheet, 10.7\" (glossary headword with no Index line)"
+   },
+   {
+    "old": "<li>carbohydrate, 8.1</li>",
+    "new": "<li>C-terminus, 10.4</li>\n<li>carbohydrate, 8.1</li>",
+    "count": 1,
+    "note": "T4 Index: new entry \"C-terminus, 10.4\" (glossary headword with no Index line)"
+   },
+   {
+    "old": "<li>NAD+, 13.1</li>",
+    "new": "<li>N-terminus, 10.4</li>\n<li>NAD+, 13.1</li>",
+    "count": 1,
+    "note": "T4 Index: new entry \"N-terminus, 10.4\" (glossary headword with no Index line)"
+   },
+   {
+    "old": "<li>fat mobilization, 15.2</li>",
+    "new": "<li>fat mobilization, 15.2</li>\n<li>fat-soluble vitamins, 11.5</li>",
+    "count": 1,
+    "note": "T4 Index: new entry \"fat-soluble vitamins, 11.5\" (glossary headword with no Index line)"
+   },
+   {
+    "old": "<li>wax, 9.1</li>",
+    "new": "<li>water-soluble vitamins, 11.5</li>\n<li>wax, 9.1</li>",
+    "count": 1,
+    "note": "T4 Index: new entry \"water-soluble vitamins, 11.5\" (glossary headword with no Index line)"
+   },
+   {
+    "old": "<li>fischer projection, 5.5</li>",
+    "new": "<li>fischer projection, 5.5</li>\n<li>fluid-mosaic model, 9.5</li>",
+    "count": 1,
+    "note": "T4 Index: new entry \"fluid-mosaic model, 9.5\" (glossary headword with no Index line)"
+   },
+   {
+    "old": "<li>local anesthetic, 7.3</li>",
+    "new": "<li>local anesthetic, 7.3</li>\n<li>lock-and-key model, 11.2</li>",
+    "count": 1,
+    "note": "T4 Index: new entry \"lock-and-key model, 11.2\" (glossary headword with no Index line)"
+   },
+   {
+    "old": "<li>omega number, 9.1</li>",
+    "new": "<li>omega number, 9.1</li>\n<li>omega-3 fatty acid, 9.1</li>",
+    "count": 1,
+    "note": "T4 Index: new entry \"omega-3 fatty acid, 9.1\" (glossary headword with no Index line)"
+   },
+   {
+    "old": "<li>omega-3 fatty acid, 9.1</li>",
+    "new": "<li>omega-3 fatty acid, 9.1</li>\n<li>omega-6 fatty acid, 9.1</li>",
+    "count": 1,
+    "note": "T4 Index: new entry \"omega-6 fatty acid, 9.1\" (glossary headword with no Index line)"
+   }
+  ],
+  "597179": [
+   {
+    "old": "http://vcell.ndsu.nodak.edu/animations",
+    "new": "https://www.vcell.science/",
+    "count": 2,
+    "note": "T4 12.6: the NDSU Virtual Cell site moved (old address no longer answers)"
+   },
+   {
+    "old": "[vcell.ndsu.nodak.edu]",
+    "new": "[www.vcell.science]",
+    "count": 1,
+    "note": "T4 visible address updated to match"
+   }
+  ],
+  "597200": [
+   {
+    "old": "http://vcell.ndsu.edu/animations",
+    "new": "https://www.vcell.science/",
+    "count": 2,
+    "note": "T4 14.1: same"
+   },
+   {
+    "old": "[vcell.ndsu.edu]",
+    "new": "[www.vcell.science]",
+    "count": 1,
+    "note": "T4 visible address updated to match"
+   }
+  ],
+  "597201": [
+   {
+    "old": "http://vcell.ndsu.edu/animations",
+    "new": "https://www.vcell.science/",
+    "count": 4,
+    "note": "T4 14.2: same"
+   },
+   {
+    "old": "[vcell.ndsu.edu]",
+    "new": "[www.vcell.science]",
+    "count": 2,
+    "note": "T4 visible address updated to match"
+   }
+  ],
+  "597145": [
+   {
+    "old": "https://ressources.ciheam.org/ressources/om/pdf/a119/00007413.pdf",
+    "new": "https://agris.fao.org/search/en/records/6473b0ce96fdec8b71b5aadb",
+    "count": 1,
+    "note": "T4 9.2 source 3: CIHEAM PDF no longer answers; FAO AGRIS record of the same paper"
+   }
+  ],
+  "597139": [
+   {
+    "old": "https://data.nass.usda.gov/Publications/AgCensus/2022/Online_Resources/County_Profiles/California/cp06107.pdf",
+    "new": "https://www.nass.usda.gov/publications/agcensus/2022/online-resources/county-profiles/california",
+    "count": 1,
+    "note": "T4 8.6 source 2: PDF address is 404; USDA page listing the California county profiles"
+   }
+  ],
+  "597094": [
+   {
+    "old": "https://www.nass.usda.gov/Statistics_by_State/California/Publications/Specialty_and_Other_Releases/Grapes/Crush/Final/2025/Grape_Crush_2025_Final.pdf",
+    "new": "https://www.nass.usda.gov/statistics-by-state/california/publications/specialty-and-other-releases/grapes/crush/reports",
+    "count": 1,
+    "note": "T4 4.5 source 1: PDF address is 404; USDA grape crush reports page"
+   }
+  ],
+  "597070": [
+   {
+    "old": "http://www.nasa.gov/topics/earth/features/oilspill/oil-20100519a.html",
+    "new": "https://science.nasa.gov/earth/earth-observatory/oil-slick-in-the-gulf-of-mexico-44006/",
+    "count": 1,
+    "note": "T4 2.6 photo source: NASA page is 404; NASA Earth Observatory page for the May 17, 2010 MODIS image"
+   },
+   {
+    "old": "[www.nasa.gov]",
+    "new": "[science.nasa.gov]",
+    "count": 1,
+    "note": "T4 2.6: visible address updated to match"
+   }
+  ]
+ }
+}
