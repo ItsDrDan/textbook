@@ -59,7 +59,7 @@ CASE = {
   ("Why does a trans fatty acid pack more like a saturated fat than a cis fatty acid does?",
    "A cis double bond puts a bend in the chain, which keeps chains from packing closely. A trans double bond keeps the chain nearly straight, so trans chains pack tightly, like saturated chains, and the fat is more solid at room temperature."),
   ("What structural feature makes benzo[<em>a</em>]pyrene an aromatic compound?",
-   "It is built from fused benzene rings whose pi electrons are delocalized around the rings. That aromatic ring system makes it a polycyclic (polynuclear) aromatic hydrocarbon; several PAHs in smoke are carcinogens.")],
+   "It is built from fused benzene rings whose double-bond electrons are shared (delocalized) around the rings. That aromatic ring system makes it a polycyclic (polynuclear) aromatic hydrocarbon; several PAHs in smoke are carcinogens.")],
  ['3.2', '3.4', '3.8']),
 4: ("Bad breath and mouthwash",
  """<p>The hygienist measures deep pockets around several of Rosa&rsquo;s teeth and notices strong bad breath. She explains that the bacteria living in those pockets break down proteins and release <strong>volatile sulfur compounds</strong>, mainly hydrogen sulfide and <strong>methanethiol</strong>, CH<sub>3</sub>SH.</p>

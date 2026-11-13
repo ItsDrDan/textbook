@@ -603,3 +603,15 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Game fatty-acid melting points differ from 9.1 (palmitoleic 0 vs 0.5, oleic 14 vs 13, arachidonic −50 vs −49 °C).
     - The questionbank tags the osmosis and tonicity items `3B-15`; they should be `3B-10`.
     - The 10.8 Figure 1 caption lists metal coordinate bonds, against CONVENTIONS.
+
+- **2026-11-13 Fresh full check and batch M, live and verified (all 64 pages read back identical):**
+  - Report: tools/REVIEW_2026-11-13.md. All 199 live pages matched pages/live by SHA-256 before the check. No wrong answer key and no stale renumbering cross-reference was found.
+  - **Published: 93 edits on 64 pages** (tools/batchM_2026-11-13.json, built by tools/batchM_build.py). pages/live holds the post-edit pages.
+    - Wrong facts: 3.1 1-pentene mp −165; 7.5 formamide bp 210; 10.1 arginine 174; 11.3 boiling water disinfects; 13.9 Exercise 4 brain fuel at day three; 4.9 rotten-egg smell is H2S; 6.1 bee and wasp stings; 7.10 PET not cross-linked; 7.9 pain relievers; 8.5 five OH groups; 1.8 CO2 about five atmospheres.
+    - Conventions: thiamine and biotin are coenzymes (13.1, 13.4, 13.10, 14.1 ×3, 14.6, 15.6) and the Glossary cofactor/coenzyme entries; amine angle about 107° (7.2, P7.76); 15.6 Summary; 10.5 Summary and Figure 5 caption use the four graded interaction names; 4.5 methanol 10 mL; 6.5 pear ester; 7.8 adenosine; 1.9 −25 °C; 1.7 alkyne condensed formulas; 3.9 "pi electrons".
+    - Figures: numbers put in order on 7.10, 12.2 and 15.10; 3.2 Figure 3 caption; alt text on P2.72, 8.6.3 and 9.6.5; credits on 9.3 Figure 4, 10.7 Figure 4 and 13.5 Figure 1.
+    - Print keys added on 2.9, 8.1, 8.2, 10.2, 11.2, 12.3 and 12.6 (their inline answers never printed); 14.2 key label; 12.6 exercise renumbered 1.
+    - 18 path-based in-book links repointed to /@go/page ids; lactate pointers to 13.4 (13.8 ×3, Chapter 14 opener); Chapter 1 game pointers; small wording fixes.
+  - **Not done:** the repo mirrors (pages/*.html, sections/, drafts/) and generators; nothing is committed.
+  - **Open, needs the instructor** (blank "M" rows in the report): 8.4 Slide36 curved arrow; "hydride" wording; 2.9 cyclopropane; 3.4 Example 3(c); 1.8 "covalent compounds do not ionize"; six figures printing under about 5.3 pt; 65 captioned figures with no credit line; nine dead external links; Glossary/Index pointers (allosteric, reactive oxygen species, alcohol dehydrogenase); About This Book Valley list and version history; 11.1 Figure 1 is script-only.
+  - **Bank and ADAPT (not changed):** the extra/more/nov5 QTI zips are stale (24 ids, including four pKa items and a Km item); fb-3B-0650 "sp3"; wording slips on 0629, 0974, 0456, 0227/0599; tools/imf_deck_candidates_build.py sets `k` to the answer index, so 82 of 112 candidates would be mis-keyed on import; the questionbank tonicity items carry both 3B-10 and 3B-15 (remove 3B-15).

@@ -1,0 +1,691 @@
+{
+ "uploads": [],
+ "edits": {
+  "597078": [
+   {
+    "old": "<td data-th=\"Melting Point (&deg;C)\" style=\"text-align:center;\">&ndash;138</td>\n            <td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">30</td>",
+    "new": "<td data-th=\"Melting Point (&deg;C)\" style=\"text-align:center;\">&ndash;165</td>\n            <td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">30</td>",
+    "count": 1,
+    "note": "T1 3.1 Table 1: 1-pentene melts at -165 C, not -138 C"
+   }
+  ],
+  "597125": [
+   {
+    "old": "<td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">193</td>",
+    "new": "<td data-th=\"Boiling Point (&deg;C)\" style=\"text-align:center;\">210</td>",
+    "count": 1,
+    "note": "T1 7.5 Table 1: formamide boils at about 210 C (193 is from the source table)"
+   }
+  ],
+  "597061": [
+   {
+    "old": "greater than about six times normal atmospheric pressure",
+    "new": "greater than about five times normal atmospheric pressure",
+    "count": 1,
+    "note": "T1 1.8: liquid CO2 needs more than 5.1 atm (triple point)"
+   }
+  ],
+  "597098": [
+   {
+    "old": "Thiols are responsible for the smells of onions, garlic, rotten eggs and skunk spray,",
+    "new": "Thiols and related sulfur compounds are responsible for the smells of onions, garlic and skunk spray (the rotten-egg smell is hydrogen sulfide, H<sub>2</sub>S, which is not a thiol),",
+    "count": 1,
+    "note": "T1 4.9: rotten-egg smell is H2S, not a thiol"
+   }
+  ],
+  "597109": [
+   {
+    "old": "The bites of some ants inject formic acid, and the stings of wasps and bees contain formic acid (as well as other poisonous materials).",
+    "new": "The bites and stings of some ants inject formic acid.",
+    "count": 1,
+    "note": "T1 6.1: bee and wasp venom is mostly peptides and enzymes, not formic acid"
+   },
+   {
+    "old": "<td>Ant and bee stings; the toxic product",
+    "new": "<td>Ant stings; the toxic product",
+    "count": 1,
+    "note": "T1 6.1 table: same"
+   }
+  ],
+  "597130": [
+   {
+    "old": "Its resistance to wrinkling comes from the cross-linking of the polymer strands.",
+    "new": "Its resistance to wrinkling comes from its stiff, regular polymer chains, which pack tightly and spring back into shape.",
+    "count": 1,
+    "note": "T1 7.10: PET is a linear polymer, not cross-linked"
+   },
+   {
+    "old": "Figure \\(\\PageIndex{2}\\): Nylon synthesis.",
+    "new": "Figure \\(\\PageIndex{1}\\): Nylon synthesis.",
+    "count": 1,
+    "note": "T3 7.10: figures ran 2, 3, 1; now 1, 2, 3"
+   },
+   {
+    "old": "Figure \\(\\PageIndex{3}\\): Nylon spatula.",
+    "new": "Figure \\(\\PageIndex{2}\\): Nylon spatula.",
+    "count": 1,
+    "note": "T3 7.10: same"
+   },
+   {
+    "old": "<figcaption>Figure 7.10.1: Spotting the links",
+    "new": "<figcaption>Figure 7.10.3: Spotting the links",
+    "count": 1,
+    "note": "T3 7.10: same"
+   }
+  ],
+  "597129": [
+   {
+    "old": "they are used as stimulants, anesthetics, and antidepressants, and many are habit forming",
+    "new": "they are used as stimulants, anesthetics, and pain relievers, and many are habit forming",
+    "count": 1,
+    "note": "T1 7.9: none of the alkaloids taught is an antidepressant"
+   }
+  ],
+  "597138": [
+   {
+    "old": "Five or six OH groups on a six-carbon molecule hydrogen bond strongly with water.",
+    "new": "Five OH groups on a six-carbon molecule hydrogen bond strongly with water.",
+    "count": 1,
+    "note": "T1 8.5: a hexose has five OH groups (matches Cumulative 8.3)"
+   }
+  ],
+  "597195": [
+   {
+    "old": "By day three the brain is burning mostly ketone bodies made in the liver from fatty acids. The remaining glucose demand (red cells, some brain) is met by gluconeogenesis",
+    "new": "By day three the brain still runs mainly on glucose, now made by gluconeogenesis, while ketone bodies made in the liver from fatty acids supply a growing share (they become its main fuel only after more days of fasting). The glucose demand (red cells, brain) is met by gluconeogenesis",
+    "count": 2,
+    "note": "T1 13.9 Exercise 4: matches the page's own fed-fasting timeline (inline answer and print key)"
+   }
+  ],
+  "597192": [
+   {
+    "old": "also needs a cofactor made from thiamine (vitamin B<sub>1</sub>)",
+    "new": "also needs a coenzyme made from thiamine (vitamin B<sub>1</sub>)",
+    "count": 1,
+    "note": "T2 13.4: thiamine pyrophosphate is a coenzyme (11.5)"
+   }
+  ],
+  "597188": [
+   {
+    "old": "coenzyme A, and the thiamine cofactor of pyruvate dehydrogenase (Section 13.4)",
+    "new": "coenzyme A, and the thiamine coenzyme (TPP) of pyruvate dehydrogenase (Section 13.4)",
+    "count": 1,
+    "note": "T2 13.1: coenzyme"
+   }
+  ],
+  "597198": [
+   {
+    "old": "coenzyme A, and the cofactor of pyruvate dehydrogenase, so a vitamin deficiency",
+    "new": "coenzyme A, and the thiamine coenzyme (TPP) of pyruvate dehydrogenase, so a vitamin deficiency",
+    "count": 1,
+    "note": "T2 13.10: coenzyme"
+   }
+  ],
+  "597200": [
+   {
+    "old": "plus a cofactor made from thiamine (vitamin B<sub>1</sub>).</p>",
+    "new": "plus a coenzyme made from thiamine (vitamin B<sub>1</sub>).</p>",
+    "count": 1,
+    "note": "T2 14.1: coenzyme"
+   },
+   {
+    "old": "and a cofactor made from thiamine (vitamin B1).\"",
+    "new": "and a coenzyme made from thiamine (vitamin B1).\"",
+    "count": 1,
+    "note": "T2 14.1 Figure 14.1.3 alt: coenzyme"
+   },
+   {
+    "old": "Without its thiamine cofactor, pyruvate dehydrogenase",
+    "new": "Without its thiamine coenzyme, pyruvate dehydrogenase",
+    "count": 1,
+    "note": "T2 14.1 Nursing box: coenzyme"
+   },
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/09:_Lipids/9.01:_Fatty_Acids\"",
+    "new": "href=\"/@go/page/597144\"",
+    "count": 1,
+    "note": "T4 path link to page 597144 -> /@go/page link"
+   }
+  ],
+  "597205": [
+   {
+    "old": "pyruvate dehydrogenase needs its thiamine cofactor;",
+    "new": "pyruvate dehydrogenase needs its thiamine coenzyme;",
+    "count": 1,
+    "note": "T2 14.6: coenzyme"
+   }
+  ],
+  "597214": [
+   {
+    "old": "(a ligase, using ATP and a biotin cofactor;",
+    "new": "(a ligase, using ATP and the coenzyme biotin;",
+    "count": 1,
+    "note": "T2 15.6: biotin is a coenzyme (same page's table says so)"
+   },
+   {
+    "old": "reduction, dehydration and reduction: roughly &beta;-oxidation run in reverse.</li>",
+    "new": "reduction, dehydration and reduction. These mirror the steps of &beta;-oxidation, but the compartment, carrier, coenzyme and hormone signal are all different, so it is not &beta;-oxidation run backward.</li>",
+    "count": 1,
+    "note": "T2 15.6 Summary: contradicted the Lecture Connection and 15.12 Common Mistake"
+   }
+  ],
+  "597122": [
+   {
+    "old": "molecular geometry, bond angles near 109.5&deg;.",
+    "new": "molecular geometry, bond angles about 107&deg; (a little under the ideal 109.5&deg;).",
+    "count": 1,
+    "note": "T2 7.2: amine angle about 107 (CONVENTIONS, 1.5)"
+   }
+  ],
+  "597133": [
+   {
+    "old": "(c) About 109.5&deg;, a little less in practice because the lone pair pushes the bonds together.",
+    "new": "(c) About 107&deg;, a little less than the ideal 109.5&deg; because the lone pair pushes the bonds together.",
+    "count": 2,
+    "note": "T2 7.13 P7.76: about 107 (inline and key)"
+   }
+  ],
+  "597094": [
+   {
+    "old": "warns that as little as 15 mL can cause blindness",
+    "new": "warns that as little as 10 mL can cause blindness",
+    "count": 1,
+    "note": "T2 4.5: 4.4 says 10 mL"
+   },
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/05:_Aldehydes_and_Ketones/5.01:_Aldehydes_and_Ketones-_Structure_and_Names\"",
+    "new": "href=\"/@go/page/597102\"",
+    "count": 1,
+    "note": "T4 path link to page 597102 -> /@go/page link"
+   },
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/06:_Carboxylic_Acids_and_Esters/6.07:_Preparation_of_Esters\"",
+    "new": "href=\"/@go/page/597115\"",
+    "count": 1,
+    "note": "T4 path link to page 597115 -> /@go/page link"
+   }
+  ],
+  "597062": [
+   {
+    "old": "dimethyl ether (&minus;24 &deg;C)",
+    "new": "dimethyl ether (&minus;25 &deg;C)",
+    "count": 1,
+    "note": "T2 1.9 Example 4: 1.8 gives -24.8 C"
+   },
+   {
+    "old": "game (Practice Game - Lewis Structures page), then use the <strong>Functional Group Flashcards</strong> (Practice Games page) to drill",
+    "new": "game, then use the <strong>Functional Group Flashcards</strong> (both are on the 1.11 Practice Games page) to drill",
+    "count": 1,
+    "note": "T4 Ch 1: no page is called \"Practice Game - Lewis Structures\"; the game is on 1.11"
+   }
+  ],
+  "597113": [
+   {
+    "old": "propyl ethanoate (the smell of pears)",
+    "new": "pentyl ethanoate (pentyl acetate, the smell of pears)",
+    "count": 1,
+    "note": "T2 6.5: 6.6, 6.7 and 6.11 teach pentyl acetate as the pear ester"
+   }
+  ],
+  "597128": [
+   {
+    "old": "Adenosine, acetylcholine, and dopamine, the messengers mentioned in Section 7.3, are",
+    "new": "Acetylcholine and dopamine, two of the messengers mentioned in Section 7.3, are",
+    "count": 1,
+    "note": "T2 7.8: 7.11 never mentions adenosine"
+   }
+  ],
+  "597060": [
+   {
+    "old": "\\(\\ce{CH3CCCH2CH3}\\)",
+    "new": "\\(\\ce{CH3C#CCH2CH3}\\)",
+    "count": 1,
+    "note": "T2 1.7 Table 3: 2-pentyne condensed formula shows its triple bond (as propyne does)"
+   },
+   {
+    "old": "\\(\\ce{CH3CH2CCCH2CH2CH2CH2CH3}\\)",
+    "new": "\\(\\ce{CH3CH2C#CCH2CH2CH2CH2CH3}\\)",
+    "count": 1,
+    "note": "T2 1.7 Table 3: 3-nonyne, same"
+   }
+  ],
+  "597086": [
+   {
+    "old": "fused benzene rings whose pi electrons are delocalized around the rings",
+    "new": "fused benzene rings whose double-bond electrons are shared (delocalized) around the rings",
+    "count": 2,
+    "note": "T2 3.9 Case Question 3.3: \"pi electrons\" is never defined (inline and key)"
+   },
+   {
+    "old": "addition reaction (Key Idea 3) run backwards",
+    "new": "addition reaction (Chapter Summary item 3) run backwards",
+    "count": 1,
+    "note": "T4 3.9: the list is now headed Chapter Summary"
+   }
+  ],
+  "597079": [
+   {
+    "old": "<em>Models of (left) Cis-2-Butene and (right) Trans-2-Butene.</em>",
+    "new": "<em>Structural formulas of (left) cis-2-butene and (right) trans-2-butene.</em>",
+    "count": 1,
+    "note": "T3 3.2 Figure 3: the image is structural formulas; the models are Figure 2"
+   }
+  ],
+  "597075": [
+   {
+    "old": "alt=\"Line structure of 2-chloro-3-methylpentane: a five-carbon zigzag with Cl drawn on the second carbon and a methyl branch on the third carbon\"",
+    "new": "alt=\"Line structure of a chlorinated alkane: a five-carbon zigzag with Cl drawn on the second carbon and a one-carbon branch on the third carbon\"",
+    "count": 1,
+    "note": "T3 2.11 P2.72: alt text gave away the name asked for in part (b)"
+   }
+  ],
+  "597139": [
+   {
+    "old": "OH down on carbon 3, up on carbon 4). A label",
+    "new": "OH up on carbon 3, down on carbon 4). A label",
+    "count": 1,
+    "note": "T3 8.6 Figure 8.6.3 alt: fructose OH groups were reversed (checked against Slide43)"
+   }
+  ],
+  "597149": [
+   {
+    "old": "drawn as a line structure with the carbons numbered, an HO group on carbon 3 at the lower left",
+    "new": "drawn as a line structure, with an HO group on carbon 3 at the lower left",
+    "count": 1,
+    "note": "T3 9.6 Figure 9.6.5 alt: the slide has no carbon numbers (checked against Slide50)"
+   }
+  ],
+  "597193": [
+   {
+    "old": "(Figure: ItsDrDan, CC BY 4.0.)</figcaption>",
+    "new": "(Figure: Daniel Kwasniewski, CC BY 4.0.)</figcaption>",
+    "count": 1,
+    "note": "T3 13.5 Figure 1: house credit name"
+   }
+  ],
+  "597210": [
+   {
+    "old": "Figure \\(\\PageIndex{3}\\)",
+    "new": "Figure \\(\\PageIndex{1}\\)",
+    "count": 3,
+    "note": "T3 15.10: figures ran 3, 1; now 1, 2 (caption and two text mentions)"
+   },
+   {
+    "old": "<figcaption>Figure 15.10.1: The metabolic hub.",
+    "new": "<figcaption>Figure 15.10.2: The metabolic hub.",
+    "count": 1,
+    "note": "T3 15.10: same"
+   }
+  ],
+  "597146": [
+   {
+    "old": "href=\"https://upload.wikimedia.org/Wikipedia/commons/0/02/Biology_of_ventilation.gif\"",
+    "new": "href=\"https://commons.wikimedia.org/wiki/File:Biology_of_ventilation.gif\"",
+    "count": 1,
+    "note": "T3 9.3 Figure 4 credit link returned 401 (capital W); point to the Commons file page"
+   },
+   {
+    "old": "title=\"https://upload.wikimedia.org/Wikipedia/commons/0/02/Biology_of_ventilation.gif\"",
+    "new": "title=\"https://commons.wikimedia.org/wiki/File:Biology_of_ventilation.gif\"",
+    "count": 1,
+    "note": "T3 9.3: same link, title attribute"
+   }
+  ],
+  "597056": [
+   {
+    "old": "<p>Step 1 above, putting the least electronegative atom in the center,",
+    "new": "<p>Step 2 above, putting the least electronegative atom in the center,",
+    "count": 1,
+    "note": "T4 1.3 tip: the central-atom rule is Step 2"
+   },
+   {
+    "old": "The N atoms do not satisfy the octet.",
+    "new": "Each N atom would have 10 electrons around it, more than an octet.",
+    "count": 1,
+    "note": "T4 1.3 Example 2: clearer"
+   },
+   {
+    "old": "(Practice Game - Lewis Structures page at the end of this chapter): draw",
+    "new": "(Section 1.11, Practice Games, at the end of this chapter): draw",
+    "count": 1,
+    "note": "T4 Ch 1: no page is called \"Practice Game - Lewis Structures\"; the game is on 1.11"
+   }
+  ],
+  "597054": [
+   {
+    "old": "(Practice Game - Lewis Structures page at the end of this chapter) will grade",
+    "new": "(Section 1.11, Practice Games, at the end of this chapter) will grade",
+    "count": 1,
+    "note": "T4 Ch 1: no page is called \"Practice Game - Lewis Structures\"; the game is on 1.11"
+   }
+  ],
+  "597069": [
+   {
+    "old": "Learn the shapes; you will see them again as the 2&deg; and 3&deg; carbons in Section 2.4.",
+    "new": "Learn the shapes; sec- and tert- point to the 2&deg; and 3&deg; carbons you classified in Section 2.4.",
+    "count": 1,
+    "note": "T4 2.5: Section 2.4 comes before 2.5"
+   }
+  ],
+  "597080": [
+   {
+    "old": "None of them dissolves in water; all four float on it.",
+    "new": "None of them dissolves in water, and the three liquids float on it.",
+    "count": 1,
+    "note": "T4 3.3 Example 1: propene is a gas"
+   }
+  ],
+  "597107": [
+   {
+    "old": "<strong>Oxidation</strong> (oxidation): Oxidation of an aldehyde:",
+    "new": "<strong>Oxidation</strong>: Oxidation of an aldehyde:",
+    "count": 1,
+    "note": "T4 5.6 Figure 5.6.1: label read \"Oxidation (oxidation):\""
+   }
+  ],
+  "597118": [
+   {
+    "old": "the circulating <em>salicylate</em> is a carboxylic acid at blood pH, so it is ionized.",
+    "new": "the circulating salicylic acid is a carboxylic acid, so at blood pH it is ionized (<em>salicylate</em>).",
+    "count": 1,
+    "note": "T4 6.10: wording"
+   }
+  ],
+  "597201": [
+   {
+    "old": "FADH<sub>2</sub><sub>,</sub> and the production",
+    "new": "FADH<sub>2</sub>, and the production",
+    "count": 1,
+    "note": "T4 14.2: comma was inside a subscript"
+   },
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/14:_Metabolism_and_Energy_Production/14.03:_Citric_acid_cycle\"",
+    "new": "href=\"/@go/page/597202\"",
+    "count": 1,
+    "note": "T4 path link to page 597202 -> /@go/page link"
+   },
+   {
+    "old": "<div class=\"answer-key-item\"><p><strong>Example 1: Oxidized or reduced?</strong></p>",
+    "new": "<div class=\"answer-key-item\"><p><strong>Practice: the reduced form of NAD</strong></p>",
+    "count": 1,
+    "note": "T4 14.2 print key: the label named Example 1 but the answer is for the Practice question"
+   }
+  ],
+  "597150": [
+   {
+    "old": "on the section pages (9.1, 9.2, 9.3).",
+    "new": "on the section pages (9.1, 9.2, 9.3, 9.6).",
+    "count": 1,
+    "note": "T4 9.7: 9.6 also has a worked example"
+   }
+  ],
+  "597137": [
+   {
+    "old": "and the videos in the Chapter Guide walk through glucose, mannose, and a ketose.",
+    "new": "the videos at the top of this page walk through glucose and a ketose, and the Chapter Guide adds mannose.",
+    "count": 1,
+    "note": "T4 8.4: the glucose and ketose videos are on this page; 8.8 has mannose"
+   }
+  ],
+  "597197": [
+   {
+    "old": "from working muscle and red blood cells (Section 13.5).",
+    "new": "from working muscle and red blood cells (Section 13.4).",
+    "count": 1,
+    "note": "T4 13.8: lactate is taught in 13.4"
+   },
+   {
+    "old": "catalyzed by pyruvate dehydrogenase (Section 13.5 and Chapter 14)",
+    "new": "catalyzed by pyruvate dehydrogenase (Section 13.4 and Chapter 14)",
+    "count": 1,
+    "note": "T4 13.8: pyruvate dehydrogenase is taught in 13.4"
+   },
+   {
+    "old": "reduces pyruvate to lactate to regenerate NAD<sup>+</sup> (Section 13.5).",
+    "new": "reduces pyruvate to lactate to regenerate NAD<sup>+</sup> (Section 13.4).",
+    "count": 1,
+    "note": "T4 13.8: same"
+   }
+  ],
+  "597052": [
+   {
+    "old": "<div>Lactate. <em>If you missed it, review <a href=\"/@go/page/597193\">Section 13.5</a>.</em></div>",
+    "new": "<div>Lactate. <em>If you missed it, review <a href=\"/@go/page/597192\">Section 13.4</a>.</em></div>",
+    "count": 1,
+    "note": "T4 Ch 14 opener: lactate is taught in 13.4"
+   }
+  ],
+  "597093": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/05:_Aldehydes_and_Ketones/5.01:_Aldehydes_and_Ketones-_Structure_and_Names\"",
+    "new": "href=\"/@go/page/597102\"",
+    "count": 1,
+    "note": "T4 path link to page 597102 -> /@go/page link"
+   },
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/14:_Metabolism_and_Energy_Production/14.03:_Citric_acid_cycle\"",
+    "new": "href=\"/@go/page/597202\"",
+    "count": 1,
+    "note": "T4 path link to page 597202 -> /@go/page link"
+   }
+  ],
+  "597116": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/06:_Carboxylic_Acids_and_Esters/6.07:_Preparation_of_Esters\"",
+    "new": "href=\"/@go/page/597115\"",
+    "count": 1,
+    "note": "T4 path link to page 597115 -> /@go/page link"
+   }
+  ],
+  "597135": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/05:_Aldehydes_and_Ketones/5.05:_Introduction_to_stereochemistry\"",
+    "new": "href=\"/@go/page/597106\"",
+    "count": 2,
+    "note": "T4 path link to page 597106 -> /@go/page link"
+   },
+   {
+    "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers to Exercises</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Exercise 8.2.1</strong></p><div>Many answers are possible. (a) Any six-carbon chain with CHO at the top and an OH on each of the other five carbons, for example D-glucose: CHO, then OH on the right, left, right, right (C2&ndash;C5), and CH<sub>2</sub>OH at the bottom. (b) A four-carbon chain with C=O on C2 and an OH on each of the other carbons: CH<sub>2</sub>OH, C=O, H&ndash;C&ndash;OH, CH<sub>2</sub>OH (erythrulose).</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "T4 8.2: add the print-only answer key (inline answers never printed); same markup as 2.5"
+   }
+  ],
+  "597136": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/08:_Carbohydrates/8.02:_Classes_of_Monosaccharides\"",
+    "new": "href=\"/@go/page/597135\"",
+    "count": 1,
+    "note": "T4 path link to page 597135 -> /@go/page link"
+   }
+  ],
+  "597145": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/03:_Alkenes_Alkynes_and_Aromatic_Compounds/3.04:_Chemical_Properties_of_Alkenes\"",
+    "new": "href=\"/@go/page/597081\"",
+    "count": 1,
+    "note": "T4 path link to page 597081 -> /@go/page link"
+   }
+  ],
+  "597154": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/05:_Aldehydes_and_Ketones/5.05:_Introduction_to_stereochemistry\"",
+    "new": "href=\"/@go/page/597106\"",
+    "count": 1,
+    "note": "T4 path link to page 597106 -> /@go/page link"
+   },
+   {
+    "old": "<td data-th=\"Molar Mass\" style=\"text-align:center;vertical-align:middle;\">175</td>",
+    "new": "<td data-th=\"Molar Mass\" style=\"text-align:center;vertical-align:middle;\">174</td>",
+    "count": 1,
+    "note": "T1 10.1 Table 1: arginine C6H14N4O2 is 174.2 g/mol"
+   }
+  ],
+  "597157": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/07:_Amines_and_Amides/7.06:_Formation_of_Amides\"",
+    "new": "href=\"/@go/page/597126\"",
+    "count": 1,
+    "note": "T4 path link to page 597126 -> /@go/page link"
+   }
+  ],
+  "597158": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/01:_Bonding_Review_-_Lewis_Structures_and_Intermolecular_Forces/1.08:_Intermolecular_Interactions\"",
+    "new": "href=\"/@go/page/597061\"",
+    "count": 1,
+    "note": "T4 path link to page 597061 -> /@go/page link"
+   },
+   {
+    "old": "ionic bonding, hydrogen bonding, disulfide linkages, and dispersion forces. A wide",
+    "new": "salt bridges (ionic bonds), hydrogen bonds, disulfide bonds, and hydrophobic interactions (dispersion forces between nonpolar side chains). A wide",
+    "count": 1,
+    "note": "T2 10.5 Summary: use the four graded names (CONVENTIONS)"
+   },
+   {
+    "old": "(a) ionic bonding, (b) hydrogen bonding, (c) disulfide linkages, and (d) dispersion forces.",
+    "new": "(a) ionic bonding (salt bridges), (b) hydrogen bonding, (c) disulfide linkages, and (d) dispersion forces (hydrophobic interactions).",
+    "count": 1,
+    "note": "T2 10.5 Figure 5 caption: bridge to the graded names"
+   }
+  ],
+  "597169": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/14:_Metabolism_and_Energy_Production/14.03:_Citric_acid_cycle\"",
+    "new": "href=\"/@go/page/597202\"",
+    "count": 1,
+    "note": "T4 path link to page 597202 -> /@go/page link"
+   }
+  ],
+  "597175": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/13:_Carbohydrate_Metabolism/13.01:_Basics_of_metabolism\"",
+    "new": "href=\"/@go/page/597188\"",
+    "count": 2,
+    "note": "T4 path link to page 597188 -> /@go/page link"
+   }
+  ],
+  "597208": [
+   {
+    "old": "href=\"/Workbench/CHEM_3B:_Introductory_Organic_and_Biochemistry/14:_Metabolism_and_Energy_Production/14.03:_Citric_acid_cycle\"",
+    "new": "href=\"/@go/page/597202\"",
+    "count": 1,
+    "note": "T4 path link to page 597202 -> /@go/page link"
+   }
+  ],
+  "597073": [
+   {
+    "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers to Exercises</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Exercise 2.9.1</strong></p><div>(a) Cycloheptane, C<sub>7</sub>H<sub>14</sub>: seven CH<sub>2</sub> groups joined in a ring, drawn in line form as a heptagon. (b) Ethylcyclohexane: a cyclohexane ring (hexagon) with one CH<sub>2</sub>CH<sub>3</sub> group attached to one ring carbon. No number is needed because there is only one substituent.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "T4 2.9: add the print-only answer key (inline answers never printed); same markup as 2.5"
+   }
+  ],
+  "597134": [
+   {
+    "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers to Exercises</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Exercise 8.1.1</strong></p><div>(a) Not a carbohydrate: it has a ketone, but the third carbon (CH<sub>2</sub>) has no OH. (b) A carbohydrate: an aldehyde with an OH on every other carbon (an aldotetrose). (c) A carbohydrate: a ketone with an OH on every other carbon (a ketotetrose). (d) Not a carbohydrate: it has no aldehyde or ketone group.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "T4 8.1: add the print-only answer key (inline answers never printed); same markup as 2.5"
+   }
+  ],
+  "597155": [
+   {
+    "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers to Exercises</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Exercise 10.2.1</strong></p><div>(a) The acid adds H<sup>+</sup> to the carboxylate: <sup>+</sup>H<sub>3</sub>N&ndash;CH[CH(CH<sub>3</sub>)<sub>2</sub>]&ndash;COOH (net charge +1). (b) The base removes H<sup>+</sup> from the ammonium group: H<sub>2</sub>N&ndash;CH[CH(CH<sub>3</sub>)<sub>2</sub>]&ndash;COO<sup>&minus;</sup> (net charge &minus;1).</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "T4 10.2: add the print-only answer key (inline answers never printed); same markup as 2.5"
+   }
+  ],
+  "597167": [
+   {
+    "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers to Exercises</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Exercise 11.2.1</strong></p><div>(a) A negatively charged COO<sup>&minus;</sup> group would form an ionic attraction (a salt bridge) with a positively charged group in the active site. (b) Lysine or arginine, whose side chains carry a positive charge (&ndash;NH<sub>3</sub><sup>+</sup> or a protonated guanidino group) at physiological pH.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "T4 11.2: add the print-only answer key (inline answers never printed); same markup as 2.5"
+   }
+  ],
+  "597177": [
+   {
+    "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers to Exercises</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Exercise 12.3.1</strong></p><div>3&prime;&#8209;GGTCACTTAACGGATA&#8209;5&prime;, which is written 5&prime;&#8209;ATAGGCAATTCACTGG&#8209;3&prime; in the standard direction.</div></div>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Exercise 12.3.2</strong></p><div>3&prime;&#8209;GGUCACUUAACGGAUA&#8209;5&prime;, which is written 5&prime;&#8209;AUAGGCAAUUCACUGG&#8209;3&prime; in the standard direction.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "T4 12.3: add the print-only answer key (inline answers never printed); same markup as 2.5"
+   }
+  ],
+  "597179": [
+   {
+    "old": "the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers to Exercises</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Exercise 12.6.1</strong></p><div>AUG CUG AAU UGC GUA GGA codes for Met-Leu-Asn-Cys-Val-Gly.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "T4 12.6: add the print-only answer key (inline answers never printed); same markup as 2.5"
+   },
+   {
+    "old": "<span id=\"Exercise_.5C(.5CPageIndex.7B4.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{4}\\)</h5>",
+    "new": "<span id=\"Exercise_.5C(.5CPageIndex.7B1.7D.5C)\"></span><div class=\"mt-section\"><h5 class=\"box-legend editable\">Exercise \\(\\PageIndex{1}\\)</h5>",
+    "count": 1,
+    "note": "T4 12.6: the only exercise on the page was numbered 4"
+   }
+  ],
+  "597168": [
+   {
+    "old": "We sterilize objects by placing them in boiling water, which denatures the enzymes of any bacteria that may be in or on them.",
+    "new": "We disinfect objects by placing them in boiling water, which denatures the enzymes of most bacteria that may be in or on them (true sterilization needs an autoclave at 121&deg;C).",
+    "count": 1,
+    "note": "T1 11.3: boiling disinfects; the same page says sterilizing needs the autoclave"
+   }
+  ],
+  "488232": [
+   {
+    "old": "A non-protein helper that an enzyme needs to work: a metal ion or an organic coenzyme.",
+    "new": "An inorganic ion, such as Zn<sup>2+</sup>, Mg<sup>2+</sup> or Fe<sup>2+</sup>, that an enzyme needs to work (organic helpers are called coenzymes in this course).",
+    "count": 1,
+    "note": "T2 Glossary cofactor: match 11.5 (cofactor = inorganic ion)"
+   },
+   {
+    "old": "An organic cofactor, usually made from a vitamin, such as",
+    "new": "An organic helper molecule that an enzyme needs, usually made from a vitamin, such as",
+    "count": 1,
+    "note": "T2 Glossary coenzyme: match 11.5"
+   }
+  ],
+  "597176": [
+   {
+    "old": "<figcaption>Figure 12.2.1: Primary structure:",
+    "new": "<figcaption>Figure 12.2.5: Primary structure:",
+    "count": 1,
+    "note": "T3 12.2: duplicate Figure 12.2.1 (source figures are already 1-4)"
+   },
+   {
+    "old": "<figcaption>Figure 12.2.2: Secondary structure:",
+    "new": "<figcaption>Figure 12.2.6: Secondary structure:",
+    "count": 1,
+    "note": "T3 12.2: duplicate Figure 12.2.2"
+   }
+  ],
+  "597160": [
+   {
+    "old": "Ayacop, Public domain, via Wikimedia Commons<span style=\"font-size:1rem;\">. (</span>Ayacop, Public domain, via Wikimedia Commons<span style=\"font-size:1rem;\">.)</span>",
+    "new": "(Ayacop, Public domain, via Wikimedia Commons.)",
+    "count": 1,
+    "note": "T3 10.7 Figure 4: credit was printed twice"
+   }
+  ],
+  "597159": [
+   {
+    "old": "that binds parts of the same chain or two different chains, as shown in Figure \\(\\PageIndex{2}\\). Examples",
+    "new": "that binds parts of the same chain or two different chains. Examples",
+    "count": 1,
+    "note": "T4 10.6: same figure cited twice in two sentences"
+   }
+  ],
+  "597270": [
+   {
+    "old": "Carb Lab and Peptide Builder games",
+    "new": "Sweet Structures and Peptide Party games",
+    "count": 1,
+    "note": "T4 About This Book: the games are called Sweet Structures and Peptide Party on the Practice Games pages"
+   }
+  ]
+ }
+}
