@@ -589,3 +589,17 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - 9.3.1: condensed formula moved below the three-across row, so it prints full width; caption now says "(below)".
   - Stranded labels: 1.3 "Check" and the 8.9 "Case Set Question 8.2" title now carry `page-break-after:avoid`. The 4.4/10.2 Example "Solution" h4s carry the same. The server strips attributes on `div.mt-section`, so the first try on the div did not stick.
   - Left as is: the 15.9 urea-cycle enzyme labels and the 14.4.7 rotor panels (~4.4 pt, readable when zoomed).
+
+- **2026-11-13 IMF batch: Sticky Molecules on the Practice Games pages, live and verified (SHA-256 on all 7 pages):**
+  - The new section sits before Final Boss on 1.11 (597232), 4.13 (597234), 7.14 (597237), 8.10 (597238), 9.9 (597239), 10.13 (597240) and 12.12 (597242). It embeds `https://itsdrdan.github.io/IMF/?course=3B` with a chapter tip.
+  - Four of the pages also link a lab: H-Bond Lab on 1.11, Mixing Beaker on 4.13, Cell Lab on 9.9 and Protein Fold Lab on 10.13. The lab links were checked with CHEM 3B selected.
+  - Built by tools/imf_games_build.py into tools/imf_games_2026-11-13.json. The server renumbered the `mt-section` ids, and pages/live holds the server form.
+  - pages/chNN_games.html, the build_pages.py output, was not regenerated.
+  - **Plan for the rest:** tools/IMF_INTEGRATION_PLAN.md. Still open, waiting for the instructor's OK:
+    - Try It bank and ADAPT: 112 candidates in tools/imf_deck_candidates_2026-11-13.json.
+    - One Protein Fold Lab figure for 10.10.
+    - Try It widgets for 9.5 and 10.8.
+  - **Found, not fixed:**
+    - Game fatty-acid melting points differ from 9.1 (palmitoleic 0 vs 0.5, oleic 14 vs 13, arachidonic −50 vs −49 °C).
+    - The questionbank tags the osmosis and tonicity items `3B-15`; they should be `3B-10`.
+    - The 10.8 Figure 1 caption lists metal coordinate bonds, against CONVENTIONS.
