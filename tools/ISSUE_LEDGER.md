@@ -445,3 +445,13 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Cross-references follow their figures: 8.3 ×2 (→ 8.3.3) and the 12.1 Professor Tip (→ 12.1.6).
   - **Verified:** every new string is live, and all 38 `pages/live` copies match live by SHA-256 (`tools/batchC1_live_sha_2026-11-12.json`). Mirrored into 73 `pages/` and `sections/` files.
   - **Re-scan:** only 1.7, 9.4, 14.2 and 14.4 are still flagged, and those are false positives (a paragraph beginning "Figure \(\PageIndex{n}\) shows…").
+- 2026-11-12, batches C2–C4 of the 2026-11-12 review (branch content/2026-11-batchC2-4).
+  - **Live: 36 edits on 22 pages.** Edit list: `tools/batchC2_4_fixes_2026-11-12.json`, built by `tools/batchC2_4_build.py`. Review sheet: `tools/BATCH_C2_4_REVIEW_2026-11-12.md`.
+  - **C2, old alt text shown as captions (21 figures):**
+    - Deleted 6 second captions that repeated the alt text (1.8 Figs 7, 8, 12; 4.5 Fig 1; 5.2 Fig 1; 9.5 Fig 4).
+    - 1.4 Fig 3: the empty credit caption was merged into the real caption, and the colon added.
+    - 14 captions that were only screen-reader text were replaced with short real captions, credits kept: 1.1 ×7, 1.2 NH3, 1.3 HCN, 2.7 butane, 4.5 ×3, and the 1.8 group-14 boiling-point graph (its old text also gave values that contradicted the graph).
+    - Left as they are: the 4.5 exercise naming captions, which are teaching text.
+  - **C3:** 12 `&amp;ndash;` in alt attributes → `&ndash;` (1.8, 3.5, 4.7, 6.8, 7.11, 13.8).
+  - **C4:** 9 `display:none` spans removed, rejoining "propionic acid" (6.3) and "oxidoreductase" (11.1).
+  - **Verified:** new strings live and old strings gone; the 22 `pages/live` copies match live by SHA-256. Mirrored into `pages/` and `sections/`.
