@@ -544,3 +544,8 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - Still open:
     - ADAPT fb-3B-0078: the bank, payloads and question list are clean; the live ADAPT copy is unchecked (needs sign-in).
     - Lab experiment numbers (Experiments 1–14 cited on about 16 pages): need the lab manual.
+- 2026-11-12 night, ADAPT live check (course 4605, signed in):
+  - All 1,031 questions are CC BY 4.0, author Daniel Kwasniewski.
+  - Five questions still used pKa live (fb-3B-0078, 0864, 0865, 0870, 0871); they were updated in place to the pKa-free bank versions, with hints kept. A re-scan finds no pKa anywhere, and every assignment uses the latest revision.
+  - Video-hint licence note: left as is (instructor decision).
+  - Details in adapt/README.md.
