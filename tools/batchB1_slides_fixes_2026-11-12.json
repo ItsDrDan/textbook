@@ -1,0 +1,98 @@
+{
+ "597121": [
+  {
+   "old": "figures/Slide21.png\"",
+   "new": "figures/Slide21.png?v=20261112\"",
+   "count": 1,
+   "note": "Slide21 cache-bust"
+  }
+ ],
+ "597123": [
+  {
+   "old": "figures/Slide22.png\"",
+   "new": "figures/Slide22.png?v=20261112\"",
+   "count": 1,
+   "note": "Slide22 cache-bust"
+  },
+  {
+   "old": "First: ammonia, NH3, plus H2O gives the ammonium ion",
+   "new": "First: ammonia, NH3, plus H2O, with an equilibrium (double half-arrow) arrow, gives the ammonium ion",
+   "count": 1,
+   "note": "Slide22 alt"
+  },
+  {
+   "old": "Second: methylamine, CH3-NH2, plus H2O gives the methylammonium ion",
+   "new": "Second: methylamine, CH3-NH2, plus H2O, again with an equilibrium arrow, gives the methylammonium ion",
+   "count": 1,
+   "note": "Slide22 alt"
+  },
+  {
+   "old": "Third: methylamine plus HCl gives",
+   "new": "Third: methylamine plus HCl, with a one-way arrow, gives",
+   "count": 1,
+   "note": "Slide22 alt"
+  }
+ ],
+ "597145": [
+  {
+   "old": "figures/Slide48.png\"",
+   "new": "figures/Slide48.png?v=20261112\"",
+   "count": 1,
+   "note": "Slide48 cache-bust"
+  },
+  {
+   "old": "figures/Slide49.png\"",
+   "new": "figures/Slide49.png?v=20261112\"",
+   "count": 1,
+   "note": "Slide49 cache-bust"
+  },
+  {
+   "old": "figures/Slide51.png\"",
+   "new": "figures/Slide51.png?v=20261112\"",
+   "count": 1,
+   "note": "Slide51 cache-bust"
+  },
+  {
+   "old": "figures/Slide52.png\"",
+   "new": "figures/Slide52.png?v=20261112\"",
+   "count": 1,
+   "note": "Slide52 cache-bust"
+  },
+  {
+   "old": "Glyceryl palmitate (tripalmitin) plus 3 H2O",
+   "new": "Glyceryl tripalmitate (tripalmitin) plus 3 H2O",
+   "count": 1,
+   "note": "Slide48 alt"
+  },
+  {
+   "old": "and a chain with two cis double bonds, plus 3 H2O with KOH and heat over the arrow.",
+   "new": "and a chain with two cis double bonds, plus 3 KOH with heat under the arrow.",
+   "count": 1,
+   "note": "Slide48 alt"
+  },
+  {
+   "old": "Glyceryl palmitate (tripalmitin) plus 3 NaOH",
+   "new": "Glyceryl tripalmitate (tripalmitin) plus 3 NaOH",
+   "count": 1,
+   "note": "Slide49 alt"
+  },
+  {
+   "old": "on glycerol, plus Br2, arrow to the product",
+   "new": "on glycerol, plus 3 Br2, arrow to the product",
+   "count": 1,
+   "note": "Slide51 alt"
+  },
+  {
+   "old": "the same glyceryl trioleate plus 3 H2O with LiOH and heat over the arrow.",
+   "new": "the same glyceryl trioleate plus 3 LiOH with heat under the arrow.",
+   "count": 1,
+   "note": "Slide51 alt"
+  },
+  {
+   "old": "C(=O)(CH2)7CH=CH(CH2)7CH3, plus H2 with Ni written over the arrow.",
+   "new": "C(=O)(CH2)7CH=CH(CH2)7CH3, plus 3 H2 with Ni written over the arrow.",
+   "count": 1,
+   "note": "Slide52 alt"
+  }
+ ]
+}

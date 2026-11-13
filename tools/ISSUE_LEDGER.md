@@ -401,3 +401,10 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - The instructor's slides need the same kind of fixes: Slide21 (Neo-Synephrine), Slide22 (equilibrium arrows), and Slides 48/49/51/52 (3 H2, 3 Br2, 3 KOH/LiOH).
     - Ball Fig 12.2.3 (19.7a) still reads "1.08 mm", with wrong cytosine and purine bonds.
     - The 1.8.11 caption credits Ball, but the file is an OpenStax image (CNX_Chem); check the source in batch E.
+- 2026-11-12, batch B1, part 2: the instructor's own slide PNGs were patched (by request) in `figures/`, using glyphs copied from the same slides so the lettering matches.
+  - Slide21: Neo-Synephrine "CHCH3" → "CHCH2".
+  - Slide22: the NH3 + H2O and CH3NH2 + H2O reactions now have equilibrium arrows; the HCl reaction stays one-way.
+  - Slide52: "+ H2" → "+ 3H2". Slide51: "+ Br2" → "+ 3Br2", and the practice reaction "+ 3H2O / LiOH" → "+ 3LiOH" with heat under the arrow.
+  - Slide48: the practice reaction "+ 3H2O / KOH" → "+ 3KOH" with heat under the arrow.
+  - Slides 48 and 49: "Glyceryl palmitate" → "Glyceryl tripalmitate" (the name used in 9.7; deferred from batch A).
+  - **Not yet live:** GitHub Pages serves `main`, so the new PNGs appear when the PR is merged. After that, publish `tools/batchB1_slides_fixes_2026-11-12.json` (built by `tools/batchB1_slides_build.py`; 15 edits on 597121, 597123 and 597145). It updates the alt text and adds `?v=20261112` to the slide srcs so cached copies refresh.
