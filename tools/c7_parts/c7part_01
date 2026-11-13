@@ -1,0 +1,32 @@
+- 597091, 597093, 597095, 597096 Learning Objectives | "Name alcohols with both common names and IUPAC names" / "To describe how to prepare alcohols from alkenes" / "To describe the structure and uses of some phenols" | fix: add final periods (other objectives have them) | type: typo | confidence: high
+- 597105, 597106 page titles | "5.4: Reduction and oxidation (redox) reactions", "5.5: Introduction to stereochemistry" | fix: title case like every other section title | type: typo (capitalization) | confidence: medium
+- 597119 6.11 Video Lessons | "Hydrolysis of Esters: Acid and Base (Saponification) Hydrolysis (17:48)" | fix: delete the trailing "Hydrolysis"; the title on 6.8 is "Hydrolysis of Esters: Acid and Base (Saponification)" | type: xref/typo | confidence: high
+- 597118 6.10 | "So, a general formula of an acid-conjugate acid-base pair could be represented as" | fix: "a general formula of a conjugate acid–base pair" | type: grammar | confidence: high
+- 597118 6.10 | "A species with separate positive and negative charge groups on it is called a zwitterion" | fix: "charged groups" | type: grammar | confidence: medium
+- 597114 6.6 | "considerably lower boiling points than their isomeric carboxylic acids counterparts" | fix: "carboxylic acid counterparts" | type: grammar | confidence: high
+- 597119 6.11 (Figure 6.1 caption text) | "Neutralization (acid–base): Neutralization: the base (OH−) removes the acidic H" | fix: drop the second "Neutralization:" | type: typo (doubled word) | confidence: high
+- 597132 7.12 (Figure 7.2 caption text) | "Hydrolysis (hydrolysis): Hydrolysis of an amide: water breaks the C–N bond" | fix: "Hydrolysis (acid): water breaks the C–N bond…" | type: typo (redundant label) | confidence: high
+- 597127 7.7 video chapter list | "0:55 Step 1: Break the Amide into Carboxylic Acid and Amide" | fix: "…Carboxylic Acid and Amine" (may mirror the YouTube chapter title; fix both) | type: typo/chemistry | confidence: high
+- 597127 7.7 video chapter list | "16:31 Summary and others ways to look at it" | fix: "other ways" | type: typo | confidence: high
+- 597145 9.2 (video jump link) | "2:36 Practice Problem Drawing the Reaction of glyceryl triplemitoleate" | fix: "glyceryl tripalmitoleate" | type: typo | confidence: high
+- 597149 9.6 | "dietary substitutions of unsaturated fat for saturated fat, as well as a reduction in consumption of trans fatty acids, is recommended" | fix: "are recommended" | type: grammar | confidence: high
+- 597145 9.2 | "Trans fatty acids do not have the bend in their structures, which occurs in cis fatty acids and thus pack closely together" | fix: "do not have the bend that occurs in cis fatty acids, and thus they pack closely together" | type: grammar | confidence: high
+- 597146 9.3 | "The venom of eastern diamondback rattlesnakes and Indian cobra contains phospholipase enzymes" | fix: "and Indian cobras" | type: grammar | confidence: high
+- 597146 9.3 | "This makes breathing difficult, may damage the alveoli, and lead to hypoxia and acidosis" | fix: "and may lead to hypoxia and acidosis" | type: grammar | confidence: medium
+- 597138 8.5 Nursing box | "the older copper-reduction tablet test (the older Clinitest) reacts with any reducing sugar" | fix: "the older copper-reduction tablet test (Clinitest)" | type: typo | confidence: high
+- 597140 8.7 (photo caption) | "a registered dietician at the medical center (center)" | fix: "dietitian", the spelling on the Chapter 8 opener ("Registered Dietitian") | type: typo | confidence: medium
+- 597149 9.6 | "Figure \(\PageIndex{1}\) Steroids." and "Figure \(\PageIndex{3}\) Bile Acids." | fix: add the colon after the figure number, as in every other caption | type: typo | confidence: high
+- 597159 10.6 | "is converted to a primary amide ((\(\ce{-CONH2}\))." | fix: remove the doubled "(" | type: typo | confidence: high
+- 597159 10.6 | "block the blood flow -a medical condition called sickle cell anemia, illustrated in The Figure on the right." | fix: "block blood flow, a medical condition called sickle cell anemia, illustrated in the figure on the right." | type: typo | confidence: high
+- 597160 10.7 | "illustrated in Figure \(\PageIndex{1}\). below and described in the following sections." | fix: delete the stray period after the figure number | type: typo | confidence: high
+- 597160 10.7 | "hydroxyproline - a proline with a hydroxyl (\(\ce{-OH}\) group installed on the side chain" | fix: close the parenthesis, "(–OH) group on the ring" | type: typo | confidence: high
+- 597160 10.7 | "side chains protruding outwards, as illustrated in the model shown on the left" | fix: add the missing final period | type: typo | confidence: high
+- 597160 10.7 | "The polymer chain acquires a conformation to achieve: maximize hydrogen bonding … minimize the steric-strain" | fix: "acquires a conformation that: (1) maximizes hydrogen bonding … (2) minimizes the steric strain" | type: grammar | confidence: medium
+- 597163 10.10 | "For example, cooking food and sterilizing surgical instruments by autoclave treatment." | fix: sentence fragment; "Examples are cooking food and sterilizing surgical instruments in an autoclave." | type: grammar | confidence: medium
+- 597171 11.6 | "which would inhibit formation of products B, and subsequently product C, and D" | fix: "inhibit formation of product B, and subsequently of products C and D" | type: grammar | confidence: high
+- 597158 10.5 | "On the basis of X ray studies" / "X ray data indicate" | fix: "X-ray" in both places | type: typo | confidence: high
+- 597172 11.7 Figure 11.7.2 caption | "Glucagon or epinephrine raise cAMP, activate a protein kinase, and phosphorylate both enzymes" | fix: "Glucagon or epinephrine raises cAMP, which activates a protein kinase that phosphorylates both enzymes" | type: grammar | confidence: medium
+- 597166 11.1 Table 2 | "this enzyme is an oxidoreduc<span style="display:none;"> </span>tase" | fix: remove the hidden span that splits "oxidoreductase"; it breaks search, copy and screen readers | type: typo | confidence: medium
+- 597179 12.6 | "several well-known geneticists—notably Har Khorana, Marshall Nirenberg" | fix: "Har Gobind Khorana" (and they were biochemists, not geneticists) | type: typo | confidence: medium
+- 597188 13.1 | "Public domain, via Wikvia Wikimedians)" | fix: "via Wikimedia Commons)" | type: typo | confidence: high
+- 597188 13.1 | "NAD+ and FAD -agents for the transform of electrons" | fix: "agents for the transfer of electrons" | type: typo | confidence: high

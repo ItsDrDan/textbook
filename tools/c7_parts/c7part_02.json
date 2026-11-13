@@ -1,0 +1,271 @@
+{
+ "edits": [
+  {
+   "page": "597188",
+   "old": "adenosine monophosphate (\\(\\ce{AMP}\\)</p>",
+   "new": "adenosine monophosphate (\\(\\ce{AMP}\\)).</p>",
+   "count": 1,
+   "note": "13.1 close AMP paren"
+  },
+  {
+   "page": "597188",
+   "old": "i.e., \\(\\ce{2H^{+}}\\) + \\(\\ce{2e^{-}}\\)). (Public domain)",
+   "new": "i.e., \\(\\ce{2H^{+}}\\) + \\(\\ce{2e^{-}}\\). (Public domain)",
+   "count": 1,
+   "note": "13.1 fig2 stray paren"
+  },
+  {
+   "page": "597188",
+   "old": "redox reactions or it involves carbonyl (\\(\\ce{C=O}\\)) group in food catabolism .",
+   "new": "redox reactions, i.e., it involves the carbonyl (\\(\\ce{C=O}\\)) group in food catabolism.",
+   "count": 1,
+   "note": "13.1 carbonyl sentence"
+  },
+  {
+   "page": "597188",
+   "old": "less electronegative atom, i.e., The addition",
+   "new": "less electronegative atom, i.e., the addition",
+   "count": 1,
+   "note": "13.1 lowercase the"
+  },
+  {
+   "page": "597188",
+   "old": "The reverse of these is reductions.",
+   "new": "The reverse of each is a reduction.",
+   "count": 1,
+   "note": "13.1 reverse grammar"
+  },
+  {
+   "page": "597188",
+   "old": "mitochondrion -the sites",
+   "new": "mitochondrion, the sites",
+   "count": 1,
+   "note": "13.1 objectives dash"
+  },
+  {
+   "page": "597188",
+   "old": "<h3 class=\"editable\">ATP -the energy",
+   "new": "<h3 class=\"editable\">ATP&mdash;the energy",
+   "count": 1,
+   "note": "13.1 heading dash"
+  },
+  {
+   "page": "597188",
+   "old": "(\\(\\ce{CoA}\\)) -the agent",
+   "new": "(\\(\\ce{CoA}\\))&mdash;the agent",
+   "count": 1,
+   "note": "13.1 heading dash"
+  },
+  {
+   "page": "597193",
+   "old": "which is also energy consuming phase in which a six \\(\\ce{C's}\\) glucose",
+   "new": "which is also the energy-consuming phase, in which six-carbon glucose",
+   "count": 1,
+   "note": "13.5 grammar"
+  },
+  {
+   "page": "597178",
+   "old": "codons on mRNA at the corresponding",
+   "new": "codons on mRNA and the corresponding",
+   "count": 1,
+   "note": "12.4 fig4 caption"
+  },
+  {
+   "page": "597179",
+   "old": "four stages of translation <strong>activation",
+   "new": "four stages of translation: <strong>activation",
+   "count": 1,
+   "note": "12.6 colon"
+  },
+  {
+   "page": "597179",
+   "old": "(in this illustration, cys.) (Figure",
+   "new": "(in this illustration, Cys). (Figure",
+   "count": 1,
+   "note": "12.6 fig2a Cys"
+  },
+  {
+   "page": "597179",
+   "old": "codes for met-pro-arg-val-asp.",
+   "new": "codes for Met-Pro-Arg-Val-Asp.",
+   "count": 1,
+   "note": "12.6 example1 capitalization"
+  },
+  {
+   "page": "597185",
+   "old": "the similar codons UGA is a stop codon and UGU",
+   "new": "the similar codon UGA is a stop codon, and UGU",
+   "count": 1,
+   "note": "12.11 P12.35"
+  },
+  {
+   "page": "597182",
+   "old": "<strong>The recombinant HIV protein</strong> tests the presence of antibodies",
+   "new": "<strong>Recombinant HIV proteins</strong> are used in tests for antibodies",
+   "count": 1,
+   "note": "12.9 HIV"
+  },
+  {
+   "page": "597182",
+   "old": "a short synthetic DNA called primer to the selected&nbsp;segment to be amplified",
+   "new": "short synthetic DNA pieces called primers that match the ends of the segment to be amplified",
+   "count": 1,
+   "note": "12.9 primers"
+  },
+  {
+   "page": "597182",
+   "old": "from E. coli, are isolated first.",
+   "new": "from E. coli, is isolated first.",
+   "count": 1,
+   "note": "12.9 agreement"
+  },
+  {
+   "page": "597182",
+   "old": "<p>The human genome project, which",
+   "new": "<p>The Human Genome Project, which",
+   "count": 1,
+   "note": "12.9 HGP capitalization"
+  },
+  {
+   "page": "597209",
+   "old": "with two \\(\\ce{2C's}\\) less than",
+   "new": "with two \\(\\ce{C's}\\) fewer than",
+   "count": 1,
+   "note": "15.4 doubled two"
+  },
+  {
+   "page": "597209",
+   "old": "\\(\\ce{CH3CO-S-COA}\\)",
+   "new": "\\(\\ce{CH3CO-S-CoA}\\)",
+   "count": 1,
+   "note": "15.4 CoA"
+  },
+  {
+   "page": "597209",
+   "old": "\\(\\ce{C'}\\), reaction 1",
+   "new": "\\(\\ce{C's}\\), reaction 1",
+   "count": 1,
+   "note": "15.4 C's"
+  },
+  {
+   "page": "597209",
+   "old": "\\(\\ce{C'}\\), It goes through",
+   "new": "\\(\\ce{C's}\\), it goes through",
+   "count": 1,
+   "note": "15.4 C's + lowercase"
+  },
+  {
+   "page": "597209",
+   "old": "\\(\\ce{C'}\\) before reaction 2",
+   "new": "\\(\\ce{C's}\\) before reaction 2",
+   "count": 1,
+   "note": "15.4 C's"
+  },
+  {
+   "page": "597209",
+   "old": "\\(\\ce{nC's}\\) become the following",
+   "new": "\\(\\ce{nC's}\\) becomes the following",
+   "count": 1,
+   "note": "15.4 becomes"
+  },
+  {
+   "page": "597209",
+   "old": "Like insulin regulates blood glucose, <strong>leptin</strong> is a hormone adipose tissues produce. Leptin governs",
+   "new": "Just as insulin regulates blood glucose, <strong>leptin</strong>, a hormone made by adipose tissue, governs",
+   "count": 1,
+   "note": "15.4 leptin"
+  },
+  {
+   "page": "597209",
+   "old": "Like diabetes disturbs the function of insulin,",
+   "new": "Just as diabetes disturbs the function of insulin,",
+   "count": 1,
+   "note": "15.4 just as"
+  },
+  {
+   "page": "597208",
+   "old": "on a treadmill. from Wikipedia. (Figure",
+   "new": "on a treadmill. (Figure",
+   "count": 1,
+   "note": "15.8 stray from Wikipedia"
+  },
+  {
+   "page": "597203",
+   "old": "\\(\\ce{ATP's}\\). the reduced coenzymes",
+   "new": "\\(\\ce{ATP's}\\). The reduced coenzymes",
+   "count": 1,
+   "note": "14.4 capitalize"
+  },
+  {
+   "page": "597203",
+   "old": "Since oxidation \\(\\ce{FADH2}\\)",
+   "new": "Since oxidation of \\(\\ce{FADH2}\\)",
+   "count": 1,
+   "note": "14.4 of"
+  },
+  {
+   "page": "597203",
+   "old": "chain comprising of complexes",
+   "new": "chain comprising complexes",
+   "count": 1,
+   "note": "14.4 comprising"
+  },
+  {
+   "page": "597202",
+   "old": "three carboxylates (\\(\\ce{-COO^{-}}\\)) groups",
+   "new": "three carboxylate (\\(\\ce{-COO^{-}}\\)) groups",
+   "count": 1,
+   "note": "14.3 carboxylate"
+  },
+  {
+   "page": "597202",
+   "old": "involves the replacing a thioester",
+   "new": "involves replacing a thioester",
+   "count": 1,
+   "note": "14.3 replacing"
+  },
+  {
+   "page": "597202",
+   "old": "\\!\\!-R'}\\) to thioester",
+   "new": "\\!\\!-R'}\\)) to thioester",
+   "count": 1,
+   "note": "14.3 missing paren"
+  },
+  {
+   "page": "597202",
+   "old": "-S-R&quot;}\\)) conversions produce \\(\\ce{NADH}\\).",
+   "new": "-S-R&quot;}\\)) conversion. These oxidations produce \\(\\ce{NADH}\\).",
+   "count": 1,
+   "note": "14.3 split run-on"
+  },
+  {
+   "page": "597210",
+   "old": "<h2 class=\"editable\">processing of \\(\\ce{C}\\) skeleton of amino acids</h2>",
+   "new": "<h2 class=\"editable\">Processing the Carbon Skeleton</h2>",
+   "count": 1,
+   "note": "15.10 heading"
+  },
+  {
+   "page": "597210",
+   "old": "is produced by oxaloacetate transamination, which is an intermediate in the citric acid cycle.",
+   "new": "is produced by transamination of oxaloacetate, a citric acid cycle intermediate.",
+   "count": 1,
+   "note": "15.10 grammar"
+  },
+  {
+   "page": "597211",
+   "old": "highest lipid to protein ratio, have the lowest-density, are",
+   "new": "highest lipid to protein ratio and the lowest density, are",
+   "count": 1,
+   "note": "15.1 grammar"
+  },
+  {
+   "page": "597216",
+   "old": "ornithine transcarbamylase catalyzes",
+   "new": "ornithine transcarbamoylase catalyzes",
+   "count": 1,
+   "note": "15.9 spelling"
+  }
+ ],
+ "skipped": []
+}
