@@ -27,7 +27,9 @@ def usable(x):
     return not any(k in x for k in ('s', 'f', 'cs')) and x.get('src') != 'canvas-quiz' and len(x.get('c', [])) >= 2
 
 def plain(s):
-    return re.sub(r'<[^>]+>', '', html.unescape(s))
+    # Strip real tags only (a tag name must follow "<"), and do it BEFORE unescaping, so text such as
+    # "propane &lt; dimethyl ether &lt; ethanol" is not mistaken for a tag (fb-3B-0225, fixed 2026-11-13).
+    return html.unescape(re.sub(r'</?[A-Za-z][A-Za-z0-9]*(?:\s[^<>]*)?/?>', '', s))
 
 used = set(); SETS = {}
 # metabolism questions are split by their own keywords so Chapters 13-15 each get the right ones

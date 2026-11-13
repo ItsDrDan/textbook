@@ -64,8 +64,11 @@ The draft adds a **Sticky Molecules** section to seven Practice Games pages. Eac
 | Reword first | 4 |
 | Drop | 105 |
 
-**Kept and reworded items are already in the bank's own format:**
+**Kept and reworded items are in the bank's own format** (builder fixed 2026-11-13; before that, `k` held the index of the right choice and the choices were in game order):
 - fields `t`, `q`, `c`, `h`, `w`, `k`, `d` and `x`;
+- the correct answer is `c[0]`, `x[0]` is null and `k` is 0 (`k` is the calculator flag);
+- the stem has no `<div>` wrapper (56 stems still start with the game's styled figure block);
+- **not yet like the bank in one way:** 46 items have 3 choices and 4 have 2 choices (fb-3B-2211, 2212, 2217, 2220); every bank item today has 4. Decide before import;
 - `src: "imf-game"` and `from: <IMF id>`;
 - provisional ids `fb-3B-2126` upward;
 - feedback text with the " ." spacing slip from the export cleaned up.
@@ -89,7 +92,7 @@ The draft adds a **Sticky Molecules** section to seven Practice Games pages. Eac
 
 **Gaps these fill.** The current bank has:
 - 0 items on cellulose hydrogen bonding;
-- 0 tonicity items in `lipids` (4 tonicity items in the whole bank);
+- 0 tonicity items in `lipids`, and none anywhere else in the bank (an earlier count of 4 came from regex false positives: "galactonic", "chemiosmotic", "chemiosmosis", "hemolytic anemia");
 - few side-chain-pairing items.
 
 **GOB level.** All kept items are qualitative: forces, ranking, where side chains go, what heat breaks. None uses pKa, mechanisms, R/S or E/Z. They follow the book's conventions:

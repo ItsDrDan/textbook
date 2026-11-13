@@ -2,7 +2,8 @@
 
 Reads the game's export in ItsDrDan/questionbank (bank/IMF-practice.json, 680 items, CC BY 4.0,
 Daniel Kwasniewski), keeps the 217 items tagged for 3B, and decides for each one:
-  keep    -> converted to the Try It bank format (t, q, c, h, w, k, d, x) with the book section it serves
+  keep    -> converted to the Try It bank format (t, q, c, h, w, k, d, x) with the book section it serves:
+             correct answer first (c[0]), x[0] = null, k = 0 (k is the calculator flag), no <div> around the stem
   reword  -> kept, but the stem leans on a lab picture or uses an untaught term; fix before import
   drop    -> reason recorded (2-choice, typed number, lab-only, not taught at GOB level, duplicate)
 Output: tools/imf_deck_candidates_2026-11-13.json  {summary, items:[...]}
@@ -17,6 +18,24 @@ items = [x for x in json.load(open(SRC, encoding='utf-8')) if '3B' in x['courses
 
 def tidy(s):
     return re.sub(r'\s+([.,;:])', r'\1', s or '').strip()
+
+
+def unwrap(s):
+    """Drop the bare <div>…</div> wrappers the game export puts around a prompt (bank stems are plain HTML text).
+    The export writes either <div>question</div> or <div>figure</div><div>question</div>. Each top-level,
+    attribute-less <div> is removed and its content kept in order; styled inner divs (figure markup) are kept.
+    A prompt with any other top-level shape is returned unchanged."""
+    s = s.strip(); parts = []; depth = 0; start = None; pos = 0
+    for m in re.finditer(r'<(/?)div\b[^>]*>', s):
+        if not m.group(1):
+            if depth == 0:
+                if m.group(0) != '<div>' or s[pos:m.start()].strip(): return s
+                start = m.end()
+            depth += 1
+        else:
+            depth -= 1
+            if depth == 0: parts.append(s[start:m.start()].strip()); pos = m.end()
+    return ''.join(parts) if parts and depth == 0 and not s[pos:].strip() else s
 
 
 # organic family -> bank file (t) and section, for "strongest force" items
@@ -95,11 +114,19 @@ for x in sorted(items, key=lambda x: (x['skill'], x['id'])):
     act, why, t, sec = decide(x)
     row = {'imf_id': x['id'], 'skill': x['skill'], 'action': act, 'note': why}
     if act != 'drop':
-        ch = x['choices']; k = ch.index(x['answer'])
-        xs = [tidy(w) or None for w in (x.get('why') or [''] * len(ch))]; xs[k] = None
+        # Bank format: the correct answer is ALWAYS c[0] (js/fbx.js shuffles at display time) and `k` is the
+        # calculator flag (0 here: every kept item is qualitative), not the answer index. The game keeps its
+        # choices in display order with a separate `answer`, so move the answer to the front and reorder the
+        # per-choice notes to match, with x[0] = null.
+        ch0 = x['choices']; a = ch0.index(x['answer'])
+        order = [a] + [j for j in range(len(ch0)) if j != a]
+        why = x.get('why') or [''] * len(ch0)
+        ch = [ch0[j] for j in order]
+        xs = [None] + [tidy(why[j]) or None for j in order[1:]]
+        assert ch[0] == x['answer'] and ch0.count(x['answer']) == 1 and len(xs) == len(ch), x['id']
         row.update({'section': sec, 'bank': {
-            't': t, 'q': x['prompt'], 'c': ch, 'h': tidy(x.get('hint')),
-            'w': tidy(x.get('explain')) or tidy((x.get('why') or [''])[k]), 'k': k,
+            't': t, 'q': unwrap(x['prompt']), 'c': ch, 'h': tidy(x.get('hint')),
+            'w': tidy(x.get('explain')) or tidy(why[a]), 'k': 0,
             'd': 1 if x['skill'] in ('IMF.concept', 'IMF.hbond', 'IMF.osmosis') else 2,
             'id': f'fb-3B-{nid}', 'x': xs, 'src': 'imf-game', 'from': x['id']}})
         nid += 1
