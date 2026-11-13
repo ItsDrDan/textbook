@@ -1,0 +1,172 @@
+{
+ "uploads": [
+  {
+   "page": "597169",
+   "name": "fig-p597169-rate-inhibitors.svg",
+   "path": "figures/pages/batchF/fig-p597169-rate-inhibitors.svg",
+   "key": "rate",
+   "old_fileid": null
+  },
+  {
+   "page": "597177",
+   "name": "fig-p597177-replication-fork.svg",
+   "path": "figures/pages/batchF/fig-p597177-replication-fork.svg",
+   "key": "fork",
+   "old_fileid": null
+  },
+  {
+   "page": "597137",
+   "name": "fig-p597137-fischer-to-haworth.svg",
+   "path": "figures/pages/batchF/fig-p597137-fischer-to-haworth.svg",
+   "key": "haw",
+   "old_fileid": null
+  },
+  {
+   "page": "597179",
+   "name": "fig-p597179-elongation.svg",
+   "path": "figures/pages/batchF/fig-p597179-elongation.svg",
+   "key": "elong",
+   "old_fileid": null
+  }
+ ],
+ "edits": {
+  "597178": [
+   {
+    "old": "Fifteen bases make five codons; one is the stop, so four amino acids.</p>\n</div>",
+    "new": "Fifteen bases make five codons; one is the stop, so four amino acids.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 2: Template strand to protein</p>\n<p><strong>Problem:</strong> The template strand of a short gene reads 3&prime;-TACGGAAAACTTACT-5&prime;. Write the coding strand, the mRNA, and the peptide.</p>\n<p><strong>Solution</strong></p>\n<p><em>Coding strand:</em> the complement of the template, written 5&prime;&rarr;3&prime; so it lines up base for base: 5&prime;-ATGCCTTTTGAATGA-3&prime;.</p>\n<p><em>mRNA:</em> RNA polymerase reads the template 3&prime;&rarr;5&prime; and builds the mRNA 5&prime;&rarr;3&prime; as its complement, with U in place of T: 5&prime;-AUG CCU UUU GAA UGA-3&prime;. This is the coding strand with U for T.</p>\n<p><em>Peptide:</em> AUG = Met, CCU = Pro, UUU = Phe, GAA = Glu, UGA = stop: <strong>Met-Pro-Phe-Glu</strong>.</p>\n<p><strong>Check:</strong> The template starts 3&prime;-TAC, so the mRNA starts 5&prime;-AUG, the start codon. The coding strand and the mRNA read the same except T/U. Fifteen bases make five codons; the last is a stop, so four amino acids.</p>\n</div>",
+    "count": 1,
+    "note": "1: Example 2, template (3'->5') to coding strand, mRNA and peptide"
+   }
+  ],
+  "597061": [
+   {
+    "old": "<td>Strongest</td></tr>\n</tbody>\n</table>",
+    "new": "<td>Strongest</td></tr>\n</tbody>\n</table>\n<p>To decide whether a molecule can hydrogen bond, ask two separate questions: does it have an H on N, O, or F (a donor), and does it have a lone pair on N, O, or F (an acceptor)? A molecule needs both to hydrogen bond with itself, but an acceptor alone is enough to hydrogen bond with water, because water supplies the donor H.</p>\n<table class=\"mt-responsive-table\"><caption>Donors and acceptors: three molecules of similar size</caption>\n<thead><tr><th>Molecule</th><th>H on N/O/F? (donor)</th><th>Lone pair on N/O/F? (acceptor)</th><th>H-bonds with itself?</th><th>H-bonds with water?</th></tr></thead>\n<tbody>\n<tr><td>Ethanol, CH<sub>3</sub>CH<sub>2</sub>OH</td><td>Yes (O&ndash;H)</td><td>Yes (O)</td><td>Yes</td><td>Yes</td></tr>\n<tr><td>Acetone, CH<sub>3</sub>COCH<sub>3</sub></td><td>No (every H is on C)</td><td>Yes (O)</td><td>No</td><td>Yes (water donates the H)</td></tr>\n<tr><td>Propane, CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub></td><td>No</td><td>No</td><td>No</td><td>No</td></tr>\n</tbody>\n</table>",
+    "count": 1,
+    "note": "2: donor/acceptor table (ethanol, acetone, propane) after the IMF comparison table"
+   }
+  ],
+  "597105": [
+   {
+    "old": "the NAD<sup>+</sup>/NADH coenzyme returns in Chapter 13.</p>\n</div>",
+    "new": "the NAD<sup>+</sup>/NADH coenzyme returns in Chapter 13.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 1: Count the bonds</p>\n<p><strong>Problem:</strong> Ethanol is oxidized to ethanal (acetaldehyde), and ethanal is oxidized to acetic acid. Use bond counts to show that each step is an oxidation.</p>\n<p><strong>Solution</strong></p>\n<p>Look only at the carbon that changes (the one bearing the O). Count a C=O double bond as two C&ndash;O bonds.</p>\n<ul>\n<li><strong>Ethanol</strong>, CH<sub>3</sub>CH<sub>2</sub>OH: the CH<sub>2</sub>OH carbon has <strong>1 C&ndash;O</strong> and <strong>2 C&ndash;H</strong>.</li>\n<li><strong>Ethanal</strong>, CH<sub>3</sub>CHO: the CHO carbon has <strong>2 C&ndash;O</strong> (the C=O) and <strong>1 C&ndash;H</strong>.</li>\n<li><strong>Acetic acid</strong>, CH<sub>3</sub>COOH: the COOH carbon has <strong>3 C&ndash;O</strong> (C=O plus C&ndash;OH) and <strong>0 C&ndash;H</strong>.</li>\n</ul>\n<p>Ethanol &rarr; ethanal: C&ndash;O goes from 1 to 2 and C&ndash;H from 2 to 1, so it is an <strong>oxidation</strong>. Ethanal &rarr; acetic acid: C&ndash;O goes from 2 to 3 and C&ndash;H from 1 to 0, another <strong>oxidation</strong>. Write [O] over each arrow.</p>\n<p><strong>Check:</strong> The CH<sub>3</sub> carbon keeps 3 C&ndash;H and 0 C&ndash;O the whole way, so it is not part of the change. The acid carbon has no H left, so the chain of oxidations stops there, just as a ketone carbon with no H cannot be oxidized.</p>\n</div>",
+    "count": 1,
+    "note": "3: Example 1 count-the-bonds ethanol -> ethanal -> acetic acid"
+   }
+  ],
+  "597155": [
+   {
+    "old": "That difference is how electrophoresis separates them.</p>\n</div>",
+    "new": "That difference is how electrophoresis separates them.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 2: Lysine at three pH values</p>\n<p><strong>Problem.</strong> Lysine has three groups that can carry a charge: the &alpha;-carboxyl group, the &alpha;-amino group, and the amino group at the end of its side chain, &ndash;(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>. Give the charge on each group and the net charge in strong acid (pH 1), at body pH (7.4), and in strong base (pH 12).</p>\n<p><strong>Solution.</strong> Use the course rules for each group, then add.</p>\n<ul>\n<li><strong>pH 1 (strong acid):</strong> everything that can be protonated is. &alpha;-COOH 0, &alpha;-NH<sub>3</sub><sup>+</sup> +1, side-chain &ndash;NH<sub>3</sub><sup>+</sup> +1. Net <strong>+2</strong>.</li>\n<li><strong>pH 7.4 (body pH):</strong> carboxyl groups are &ndash;COO<sup>&minus;</sup> and amines are &ndash;NH<sub>3</sub><sup>+</sup>. &alpha;-COO<sup>&minus;</sup> &minus;1, &alpha;-NH<sub>3</sub><sup>+</sup> +1, side-chain &ndash;NH<sub>3</sub><sup>+</sup> +1. Net <strong>+1</strong>.</li>\n<li><strong>pH 12 (strong base):</strong> every group that can lose an H<sup>+</sup> has. &alpha;-COO<sup>&minus;</sup> &minus;1, &alpha;-NH<sub>2</sub> 0, side-chain &ndash;NH<sub>2</sub> 0. Net <strong>&minus;1</strong>.</li>\n</ul>\n<p><strong>Check.</strong> Charge falls as pH rises (+2 &rarr; +1 &rarr; &minus;1), and the +1 at pH 7.4 matches the table above for a basic amino acid. Compared with alanine, each answer is one unit more positive in acid and at body pH, because lysine has one extra amine.</p>\n</div>",
+    "count": 1,
+    "note": "4: Example 2 lysine at pH 1, 7.4, 12 (+2, +1, -1)"
+   }
+  ],
+  "597071": [
+   {
+    "old": "which is the signature of substitution. &#10003;</p>\n</div>",
+    "new": "which is the signature of substitution. &#10003;</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 3: Combustion with an odd number of O atoms</p>\n<p><strong>Problem.</strong> Write a balanced equation for the complete combustion of butane, C<sub>4</sub>H<sub>10</sub> (lighter fuel).</p>\n<p><strong>Solution.</strong> Start with C<sub>4</sub>H<sub>10</sub> + O<sub>2</sub> &rarr; CO<sub>2</sub> + H<sub>2</sub>O and balance C, then H, then O.</p>\n<ul>\n<li><strong>C:</strong> 4 C on the left, so write 4 CO<sub>2</sub>.</li>\n<li><strong>H:</strong> 10 H on the left, so write 5 H<sub>2</sub>O.</li>\n<li><strong>O:</strong> the right side now has 4 &times; 2 + 5 &times; 1 = 13 O atoms. O<sub>2</sub> comes in pairs, so you need 13/2 O<sub>2</sub>: C<sub>4</sub>H<sub>10</sub> + 13/2 O<sub>2</sub> &rarr; 4 CO<sub>2</sub> + 5 H<sub>2</sub>O.</li>\n<li><strong>Clear the fraction:</strong> multiply every coefficient by 2.</li>\n</ul>\n<p><strong>2 C<sub>4</sub>H<sub>10</sub> + 13 O<sub>2</sub> &rarr; 8 CO<sub>2</sub> + 10 H<sub>2</sub>O</strong></p>\n<p><strong>Check.</strong> Left: 8 C, 20 H, 26 O. Right: 8 C, 20 H, 16 + 10 = 26 O. &#10003; Any alkane with an even number of carbons gives an odd O count this way, so expect to double.</p>\n</div>",
+    "count": 1,
+    "note": "5: Example 3 butane combustion, 13/2 O2 then doubled"
+   }
+  ],
+  "597069": [
+   {
+    "old": "an ethyl on C2 would become part of a longer parent chain.)</p>",
+    "new": "an ethyl on C2 would become part of a longer parent chain.)</p>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 1: The longest chain goes around the bend</p>\n<p><strong>Problem:</strong> A student draws CH<sub>3</sub>CH(CH<sub>2</sub>CH<sub>3</sub>)CH<sub>2</sub>CH<sub>3</sub> as a straight four-carbon chain with an ethyl branch on carbon 2 and names it 2-ethylbutane. Find the correct name.</p>\n<p><strong>Solution</strong></p>\n<p>The name breaks the rule above: an ethyl group on C2 means the chain was not the longest. Circle every end CH<sub>3</sub>. There are three: the CH<sub>3</sub> on the left, the CH<sub>3</sub> at the end of the ethyl branch, and the CH<sub>3</sub> on the right. Count between each pair:</p>\n<ul>\n<li>left CH<sub>3</sub> to right CH<sub>3</sub> (the chain as drawn): 4 carbons;</li>\n<li>left CH<sub>3</sub> to the ethyl CH<sub>3</sub>: 4 carbons;</li>\n<li>ethyl CH<sub>3</sub> &rarr; CH<sub>2</sub> &rarr; CH &rarr; CH<sub>2</sub> &rarr; right CH<sub>3</sub>: <strong>5 carbons</strong>.</li>\n</ul>\n<p>The longest chain turns the corner at the CH and runs through the ethyl branch, so the parent is <strong>pentane</strong>. The only carbon left over is the left CH<sub>3</sub>, a methyl branch on the middle carbon, which is C3 from either end. The name is <strong>3-methylpentane</strong>.</p>\n<p><strong>Check:</strong> Both structures have 6 carbons (C<sub>6</sub>H<sub>14</sub>), so only the name changed. The correct name has a methyl branch and no ethyl on C2, which agrees with the rule above.</p>\n</div>",
+    "count": 1,
+    "note": "6: Example 1 '2-ethylbutane' -> 3-methylpentane (longest chain around the bend)"
+   }
+  ],
+  "597180": [
+   {
+    "old": "and changes everything downstream.</p>\n</div>",
+    "new": "and changes everything downstream.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 3: An in-frame three-base deletion</p>\n<p><strong>Problem:</strong> Part of a coding strand reads 5&prime;-&hellip;ATC ATC TTT GGT&hellip;-3&prime;. A mutation deletes the three bases CTT (the last base of codon 2 and the first two bases of codon 3), giving 5&prime;-&hellip;ATC ATT GGT&hellip;-3&prime;. Write the codons and amino acids before and after, and classify the mutation.</p>\n<p><strong>Solution</strong></p>\n<p>Before: mRNA 5&prime;-AUC AUC UUU GGU-3&prime; = Ile-Ile-<strong>Phe</strong>-Gly. After: mRNA 5&prime;-AUC AUU GGU-3&prime; = Ile-Ile-Gly. AUC and AUU both code for Ile, so codon 2 still gives Ile even though its last base changed. The net result is that <strong>one amino acid (Phe) is lost</strong> and every codon after it is read in the original frame. This is an <strong>in-frame deletion</strong>, not a frameshift. It is the same change as F508del, the most common cystic fibrosis mutation, which removes one phenylalanine from the CFTR chloride channel; the shortened protein misfolds and is destroyed before it reaches the cell surface.</p>\n<p><strong>Check:</strong> Twelve bases became nine, a loss of exactly three, so the frame is kept. GGU (Gly) is unchanged after the deletion, which shows the reading frame downstream is intact.</p>\n</div>",
+    "count": 1,
+    "note": "7: Example 3 in-frame CTT deletion (F508del), Ile-Ile-Phe-Gly -> Ile-Ile-Gly"
+   }
+  ],
+  "597171": [
+   {
+    "old": "keep &ldquo;allosteric&rdquo; and &ldquo;feedback&rdquo; for questions about how a cell regulates its own pathways.</p>\n</div>",
+    "new": "keep &ldquo;allosteric&rdquo; and &ldquo;feedback&rdquo; for questions about how a cell regulates its own pathways.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 1: Where should the end product act?</p>\n<p><strong>Problem:</strong> A five-step pathway makes product F: A &rarr; B &rarr; C &rarr; D &rarr; E &rarr; F, catalyzed by enzymes E1 through E5 in order. The cell has plenty of F. Which enzyme should F inhibit, and why?</p>\n<p><strong>Solution</strong></p>\n<p>F should inhibit <strong>E1</strong>, the first committed step. F binds the allosteric site of E1 (negative allosteric control), A stops being turned into B, and the whole pathway shuts off at its start. If F inhibited E5 instead, E1 through E4 would keep running and B, C, D and E would pile up, wasting A and the energy spent making the intermediates. This is <strong>feedback inhibition</strong>; when F is used up, it leaves E1 and the pathway restarts.</p>\n<p><strong>Check:</strong> Inhibiting the first step means nothing downstream has anything to work on, so no intermediates accumulate. That matches Figure 11.6.3, where E inhibits enzyme 1.</p>\n</div>",
+    "count": 1,
+    "note": "8: Example 1 feedback inhibition of E1 in A->F pathway"
+   }
+  ],
+  "597145": [
+   {
+    "old": "which is why liquid soaps use KOH.</p>\n</div>",
+    "new": "which is why liquid soaps use KOH.</p>\n</div>\n<div class=\"box-example\">\n<p class=\"boxtitle\">Example 2: Partial versus complete hydrogenation</p>\n<p><strong>Problem.</strong> A mixed triacylglycerol carries palmitic acid (16:0, no C=C), oleic acid (18:1, one C=C) and linoleic acid (18:2, two C=C). (a) How many moles of H<sub>2</sub> are needed to hydrogenate 1 mol of this fat completely, and what is the product? (b) Describe one possible product when only 2 mol of H<sub>2</sub> are added.</p>\n<p><strong>Solution</strong></p>\n<p>Count the C=C bonds: 0 + 1 + 2 = 3. Each C=C uses one H<sub>2</sub>.</p>\n<p>(a) <strong>3 mol H<sub>2</sub></strong> per mole of fat (H<sub>2</sub>, Ni catalyst). Every chain becomes saturated: oleic becomes stearic, linoleic also becomes stearic, and palmitic is unchanged. The product is a triacylglycerol with <strong>two stearic chains and one palmitic chain</strong>, a solid fat.</p>\n<p>(b) With only 2 mol H<sub>2</sub>, one C=C per mole of fat is left. One possible product: the oleic chain becomes stearic and the linoleic chain loses one of its two C=C, becoming an 18:1 chain. The fat now holds palmitic, stearic and one 18:1 chain: partially hydrogenated, softer than the fully saturated product, and some of the remaining C=C may have been flipped from cis to trans by the catalyst.</p>\n<p><strong>Check.</strong> 3 C=C at the start; 3 H<sub>2</sub> leaves 0 and 2 H<sub>2</sub> leaves 1. Palmitic has no C=C and never takes up H<sub>2</sub>. The glycerol backbone and the three ester bonds are untouched in both cases.</p>\n</div>",
+    "count": 1,
+    "note": "9: Example 2 partial vs complete hydrogenation (3 mol vs 2 mol H2)"
+   }
+  ],
+  "597195": [
+   {
+    "old": "The remedy is glucose itself (by mouth or IV, following protocol) or glucagon, which forces the liver to release glucose from glycogen.</p>",
+    "new": "The remedy is glucose itself. For a patient who is awake and can swallow, the American Diabetes Association&rsquo;s &ldquo;15-15 rule&rdquo; applies: give 15 g of fast-acting carbohydrate (glucose tablets or gel, or half a cup of juice), recheck blood glucose in 15 minutes, and repeat if it is still below 70 mg/dL. A patient who cannot swallow safely gets IV glucose or glucagon, which forces the liver to release glucose from glycogen.</p>",
+    "count": 1,
+    "note": "10: hypoglycemia remedy -> ADA 15-15 rule, glucagon kept"
+   }
+  ],
+  "597201": [
+   {
+    "old": "&rarr; &alpha;-ketoglutarate + CO<sub>2</sub></td>\n            <td data-th=\"Comments\" style=\"text-align:center;\">produces 1 mol NADH</td>\n            <td data-th=\"Yield of ATP (moles)\" style=\"text-align:center;\">&nbsp;</td>",
+    "new": "&rarr; &alpha;-ketoglutarate + CO<sub>2</sub></td>\n            <td data-th=\"Comments\" style=\"text-align:center;\">produces 1 mol NADH</td>\n            <td data-th=\"Yield of ATP (moles)\" style=\"text-align:center;\">(+2.5, counted in the NADH row)</td>",
+    "count": 1,
+    "note": "11: Table 1 blank yield cell, isocitrate row"
+   },
+   {
+    "old": "&rarr; succinyl-CoA + CO<sub>2</sub></td>\n            <td data-th=\"Comments\" style=\"text-align:center;\">produces 1 mol NADH</td>\n            <td data-th=\"Yield of ATP (moles)\" style=\"text-align:center;\">&nbsp;</td>",
+    "new": "&rarr; succinyl-CoA + CO<sub>2</sub></td>\n            <td data-th=\"Comments\" style=\"text-align:center;\">produces 1 mol NADH</td>\n            <td data-th=\"Yield of ATP (moles)\" style=\"text-align:center;\">(+2.5, counted in the NADH row)</td>",
+    "count": 1,
+    "note": "11: Table 1 blank yield cell, alpha-KG row"
+   },
+   {
+    "old": "Succinate &rarr; fumarate</td>\n            <td data-th=\"Comments\" style=\"text-align:center;\">produces 1 mol FADH<sub>2</sub></td>\n            <td data-th=\"Yield of ATP (moles)\" style=\"text-align:center;\">&nbsp;</td>",
+    "new": "Succinate &rarr; fumarate</td>\n            <td data-th=\"Comments\" style=\"text-align:center;\">produces 1 mol FADH<sub>2</sub></td>\n            <td data-th=\"Yield of ATP (moles)\" style=\"text-align:center;\">(+1.5, counted in the FADH<sub>2</sub> row)</td>",
+    "count": 1,
+    "note": "11: Table 1 blank yield cell, succinate row"
+   },
+   {
+    "old": "Malate &rarr; oxaloacetate</td>\n            <td data-th=\"Comments\" style=\"text-align:center;\">produces 1 mol NADH</td>\n            <td data-th=\"Yield of ATP (moles)\" style=\"text-align:center;\">&nbsp;</td>",
+    "new": "Malate &rarr; oxaloacetate</td>\n            <td data-th=\"Comments\" style=\"text-align:center;\">produces 1 mol NADH</td>\n            <td data-th=\"Yield of ATP (moles)\" style=\"text-align:center;\">(+2.5, counted in the NADH row)</td>",
+    "count": 1,
+    "note": "11: Table 1 blank yield cell, malate row"
+   }
+  ],
+  "597169": [
+   {
+    "old": "<table class=\"mt-responsive-table\"><caption>Types of enzyme inhibition compared</caption>",
+    "new": "<figure><img class=\"internal\" alt=\"Graph of reaction rate against substrate concentration for three cases. With no inhibitor the rate rises and levels off at the maximum rate. With a competitive inhibitor the curve rises more slowly but reaches the same maximum rate at high substrate concentration. With a noncompetitive inhibitor the curve levels off at a lower maximum rate that more substrate cannot raise.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{rate}}/fig-p597169-rate-inhibitors.svg\" fileid=\"{{rate}}\" />\n<figcaption>Figure \\(\\PageIndex{2}\\): Reaction rate against substrate concentration with no inhibitor, a competitive inhibitor and a noncompetitive inhibitor. More substrate restores the maximum rate only for the competitive inhibitor. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption>\n</figure>\n<table class=\"mt-responsive-table\"><caption>Types of enzyme inhibition compared</caption>",
+    "count": 1,
+    "note": "11.4 rate vs [S] figure"
+   }
+  ],
+  "597177": [
+   {
+    "old": "</ul>\n<div class=\"box-note\">\n<p class=\"boxtitle\">Professor Tip</p>\n<p>For exams ",
+    "new": "<figure><img class=\"internal\" alt=\"Diagram of a DNA replication fork. On the left the parent double helix is unwound at the fork by helicase, and the fork moves to the left. The two separated template strands run in opposite directions. On the lower template the leading strand is made continuously toward the fork by DNA polymerase, starting from one RNA primer. On the upper template the lagging strand is made in short Okazaki fragments, each started by primase with an RNA primer and extended by DNA polymerase away from the fork; ligase joins the fragments. New strands are built 5 prime to 3 prime.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{fork}}/fig-p597177-replication-fork.svg\" fileid=\"{{fork}}\" />\n<figcaption>Figure 12.3.4: A replication fork. Helicase unwinds the DNA; primase lays down RNA primers; DNA polymerase builds each new strand 5&prime;&rarr;3&prime;, continuously on the leading strand and in Okazaki fragments on the lagging strand; ligase joins the fragments. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption>\n</figure>\n</ul>\n<div class=\"box-note\">\n<p class=\"boxtitle\">Professor Tip</p>\n<p>For exams ",
+    "count": 1,
+    "note": "12.3 replication fork figure"
+   }
+  ],
+  "597137": [
+   {
+    "old": "<p><strong>From Haworth back to Fischer:</strong>",
+    "new": "<figure><img class=\"internal\" alt=\"Converting D-glucose from a Fischer projection to Haworth rings in three steps. Step 1, rotate: the Fischer projection is turned on its side with the aldehyde at the right, so groups that were on the left point up and groups on the right point down. Step 2, twist: the chain is curled into a ring shape with the CH2OH group pointing up, as it does for a D sugar, and the C5 OH reaching toward the C=O. Step 3, close: the C5 oxygen bonds to C1, giving two anomers: alpha with the new OH on C1 pointing down and beta with it pointing up. In both rings the OH groups on C2 and C4 point down and the OH on C3 points up.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{haw}}/fig-p597137-fischer-to-haworth.svg\" fileid=\"{{haw}}\" />\n<figcaption>Figure 8.4.5: From Fischer to Haworth in three steps, for D-glucose: rotate, twist, close. The new OH on C1 points down in the &alpha; anomer and up in the &beta; anomer. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption>\n</figure>\n<p><strong>From Haworth back to Fischer:</strong>",
+    "count": 1,
+    "note": "8.4 Fischer to Haworth figure"
+   }
+  ],
+  "597179": [
+   {
+    "old": "<p>Many ribosomes can read one mRNA at t",
+    "new": "<figure><img class=\"internal\" alt=\"One elongation cycle of translation on the mRNA 5 prime AUG GGU GAA AAG 3 prime. Panel 1: the ribosome covers codons GGU and GAA. The P site holds the tRNA with anticodon CCA carrying the growing chain Met-Gly; a tRNA with anticodon CUU carrying Glu enters the A site at codon GAA. Panel 2: a peptide bond forms and the chain Met-Gly is moved onto Glu, so the A-site tRNA now carries Met-Gly-Glu and the P-site tRNA is empty. Panel 3: translocation; the ribosome moves one codon toward the 3 prime end, the empty tRNA leaves, the tRNA carrying Met-Gly-Glu is now in the P site, and the A site is open at codon AAG for the next tRNA.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{elong}}/fig-p597179-elongation.svg\" fileid=\"{{elong}}\" />\n<figcaption>Figure \\(\\PageIndex{4}\\): One elongation cycle on the mRNA 5&prime;-AUG GGU GAA AAG-3&prime;: a tRNA enters the A site, a peptide bond forms, and the ribosome moves one codon (translocation), so the growing chain is back in the P site. (Diagram: Daniel Kwasniewski, CC BY 4.0.)</figcaption>\n</figure>\n<p>Many ribosomes can read one mRNA at t",
+    "count": 1,
+    "note": "12.6 elongation cycle figure (P and A sites)"
+   }
+  ]
+ }
+}
