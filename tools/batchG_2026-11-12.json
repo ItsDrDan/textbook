@@ -1,0 +1,41 @@
+{
+ "uploads": [
+  {
+   "page": "597146",
+   "name": "fig-p597146-phosphatidylcholine.svg",
+   "path": "figures/pages/batchF/fig-p597146-phosphatidylcholine.svg",
+   "key": "pl",
+   "old_fileid": null
+  }
+ ],
+ "edits": {
+  "597146": [
+   {
+    "old": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"A phospholipid space-filling model with its regions labeled: a polar head made of choline (blue), phosphate (red) and glycerol (yellow), and a non-polar tail made of a palmitic acid chain and an oleic acid chain (gray).\" class=\"internal wrap-right\" src=\"/@api/deki/files/435596/clipboard_e7e03d77374f3cfe21f7ffd5b164d9341.png\" fileid=\"435596\" />",
+    "new": "<img style=\"float:right;max-width:45%;height:auto;margin:0 0 8px 16px;\" alt=\"Labeled sketch of a phosphatidylcholine (lecithin) molecule: a polar, hydrophilic head made of choline (positive charge), phosphate (negative charge) and glycerol, and two nonpolar, hydrophobic tails: a straight palmitic acid chain and an oleic acid chain with a bend at its cis C=C double bond.\" class=\"internal wrap-right\" width=\"205\" src=\"/@api/deki/files/{{pl}}/fig-p597146-phosphatidylcholine.svg\" fileid=\"{{pl}}\" />",
+    "count": 1,
+    "note": "9.3 labelled phospholipid: own sketch replaces unsourced image"
+   },
+   {
+    "old": "the 2<sup>nd</sup> fatty acid attached to the secondary alcohol group of glycerol is usually an unsaturated fatty acid.</p>",
+    "new": "the 2<sup>nd</sup> fatty acid attached to the secondary alcohol group of glycerol is usually an unsaturated fatty acid.</p>\n<p style=\"clear:both\"><small>Phosphatidylcholine sketch: Daniel Kwasniewski, CC BY 4.0.</small></p>",
+    "count": 1,
+    "note": "9.3 sketch credit"
+   },
+   {
+    "old": "and condensed formula (right). (Copyright: Public domain).</figcaption>",
+    "new": "and condensed formula (right). (Figure from <em>Introduction to Organic and Biochemistry</em> (Malik), public domain.)</figcaption>",
+    "count": 1,
+    "note": "9.3 Fig 1 Malik credit"
+   }
+  ],
+  "597147": [
+   {
+    "old": "containing stearic acid and ethanolamine (right). (Copyright: Public domain).</figcaption>",
+    "new": "containing stearic acid and ethanolamine (right). (Figure from <em>Introduction to Organic and Biochemistry</em> (Malik), public domain.)</figcaption>",
+    "count": 1,
+    "note": "9.4 Fig 2 Malik credit"
+   }
+  ]
+ }
+}

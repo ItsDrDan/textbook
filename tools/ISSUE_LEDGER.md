@@ -538,3 +538,9 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
     - Every statistic, law or protocol is cited; unverifiable claims were dropped. Spot-checked against the source documents: CDPH 7,137 fentanyl deaths (2023); AB 1830 0.7 mg/lb from 1 Jan 2026.
     - 12.7 heel-stick timing aligned with CDPH (12–48 h).
   - Verified by SHA-256 and mirrored. The server escaped `&` in one 2.6 URL and re-nested 4.9's sections after the new box (renders the same); the repo copies follow live.
+- 2026-11-12, batch G (leftovers), published on 2 pages, verified by SHA-256 and mirrored.
+  - 9.3: the labelled POPC space-filling image (file 435596) had no source in Malik or on Commons, so it was replaced with an original labelled phosphatidylcholine sketch (file 512768; tools/batchF_figs.py phospholipid()).
+  - 9.3 Fig 1 and 9.4 Fig 2: "(Copyright: Public domain)" (the colon form C5 missed) now credits Malik.
+  - Still open:
+    - ADAPT fb-3B-0078: the bank, payloads and question list are clean; the live ADAPT copy is unchecked (needs sign-in).
+    - Lab experiment numbers (Experiments 1–14 cited on about 16 pages): need the lab manual.
