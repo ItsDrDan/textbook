@@ -161,7 +161,7 @@
   "597160": [
    {
     "old": "class=\"default\" src=\"https://upload.wikimedia.org/wikipedia/commons/3/30/Insulin_1AI0_animation.gif\" />",
-    "new": "class=\"internal\" src=\"/@api/deki/files/{{insulin}}/fig-p597160-insulin.gif\" fileid=\"{{insulin}}\" />",
+    "new": "class=\"internal\" src=\"/@api/deki/files/512792/fig-p597160-insulin.gif\" fileid=\"512792\" />",
     "count": 1,
     "note": "T3 10.7 Figure 4: image was hot-linked from Wikimedia; now a file on this page"
    },
@@ -175,7 +175,7 @@
   "597171": [
    {
     "old": "src=\"https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/1950/2017/05/31183107/figure-06-05-05.jpeg\"",
-    "new": "class=\"internal\" src=\"/@api/deki/files/{{allo}}/fig-p597171-allosteric.jpeg\" fileid=\"{{allo}}\"",
+    "new": "class=\"internal\" src=\"/@api/deki/files/512793/fig-p597171-allosteric.jpeg\" fileid=\"512793\"",
     "count": 1,
     "note": "T3 11.6 Figure 1: image was hot-linked from an outside server; now a file on this page"
    }
