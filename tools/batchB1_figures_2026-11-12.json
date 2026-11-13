@@ -1,0 +1,381 @@
+{
+ "uploads": [
+  {
+   "page": "597092",
+   "name": "fig-p597092-ethanol-water.jpg",
+   "path": "figures/pages/batchB/fig-p597092-ethanol-water.jpg",
+   "key": "ethw",
+   "old_fileid": null
+  },
+  {
+   "page": "597096",
+   "name": "fig-p597096-hexylresorcinol.svg",
+   "path": "figures/pages/batchB/fig-p597096-hexylresorcinol.svg",
+   "key": "hexr",
+   "old_fileid": null
+  },
+  {
+   "page": "597149",
+   "name": "fig-p597149-estradiol.svg",
+   "path": "figures/pages/batchB/fig-p597149-estradiol.svg",
+   "key": "estr",
+   "old_fileid": null
+  },
+  {
+   "page": "597149",
+   "name": "fig-p597149-testosterone.svg",
+   "path": "figures/pages/batchB/fig-p597149-testosterone.svg",
+   "key": "test",
+   "old_fileid": null
+  },
+  {
+   "page": "597103",
+   "name": "fig-p597103-aldehydes.svg",
+   "path": "figures/pages/batchB/fig-p597103-aldehydes.svg",
+   "key": "alds",
+   "old_fileid": null
+  },
+  {
+   "page": "597105",
+   "name": "clipboard_e088725e6d635758cd3fd48997501f928.png",
+   "path": "figures/pages/batchB/fig-p597105-nad-nadh.png",
+   "key": "nad",
+   "old_fileid": "428509"
+  },
+  {
+   "page": "597094",
+   "name": "fig-p597094-isocitrate.svg",
+   "path": "figures/pages/batchB/fig-p597094-isocitrate.svg",
+   "key": "isoc",
+   "old_fileid": null
+  },
+  {
+   "page": "597094",
+   "name": "fig-p597094-ex1b.svg",
+   "path": "figures/pages/batchB/fig-p597094-ex1b.svg",
+   "key": "ex1b",
+   "old_fileid": null
+  },
+  {
+   "page": "597123",
+   "name": "fig-p597123-octylamine.svg",
+   "path": "figures/pages/batchB/fig-p597123-octylamine.svg",
+   "key": "octa",
+   "old_fileid": null
+  },
+  {
+   "page": "597130",
+   "name": "fig-p597130-nylon-synthesis.svg",
+   "path": "figures/pages/batchB/fig-p597130-nylon-synthesis.svg",
+   "key": "nyls",
+   "old_fileid": null
+  },
+  {
+   "page": "597130",
+   "name": "fig-p597130-2.svg",
+   "path": "figures/pages/batchB/fig-p597130-2.svg",
+   "key": "nylr",
+   "old_fileid": "512541"
+  },
+  {
+   "page": "597130",
+   "name": "fig-p597130-3.svg",
+   "path": "figures/pages/batchB/fig-p597130-3.svg",
+   "key": "petr",
+   "old_fileid": "512542"
+  },
+  {
+   "page": "597115",
+   "name": "fig-p597115-pet-formation.svg",
+   "path": "figures/pages/batchB/fig-p597115-pet-formation.svg",
+   "key": "petf",
+   "old_fileid": null
+  },
+  {
+   "page": "597069",
+   "name": "fig-p597069-ex1-3.svg",
+   "path": "figures/pages/batchB/fig-p597069-ex1-3.svg",
+   "key": "ex13",
+   "old_fileid": null
+  },
+  {
+   "page": "597061",
+   "name": "CNX_Chem_10_01_DNA2.jpg",
+   "path": "figures/pages/batchB/fig-p597061-dna-basepairs.jpg",
+   "key": "dna",
+   "old_fileid": "137586"
+  },
+  {
+   "page": "597188",
+   "name": "clipboard_ebfd50d4ea43cb38a2ee231dcba617316.png",
+   "path": "figures/pages/batchB/fig-p597188-fad-fadh2.png",
+   "key": "fad",
+   "old_fileid": "436239"
+  },
+  {
+   "page": "597181",
+   "name": "fig-p597181-raltegravir.svg",
+   "path": "figures/pages/batchB/fig-p597181-raltegravir.svg",
+   "key": "ralt",
+   "old_fileid": null
+  },
+  {
+   "page": "597144",
+   "name": "fig-p597144-5.svg",
+   "path": "figures/pages/batchB/fig-p597144-5.svg",
+   "key": "txb2",
+   "old_fileid": "512575"
+  },
+  {
+   "page": "597144",
+   "name": "fig-p597144-6.svg",
+   "path": "figures/pages/batchB/fig-p597144-6.svg",
+   "key": "ltb4",
+   "old_fileid": "512576"
+  },
+  {
+   "page": "597084",
+   "name": "fig-p597084-2.svg",
+   "path": "figures/pages/batchB/fig-p597084-2.svg",
+   "key": "nitb",
+   "old_fileid": "512441"
+  },
+  {
+   "page": "597085",
+   "name": "fig-p597085-5.svg",
+   "path": "figures/pages/batchB/fig-p597085-5.svg",
+   "key": "nitp",
+   "old_fileid": "512447"
+  },
+  {
+   "page": "597139",
+   "name": "fig-p597139-1.svg",
+   "path": "figures/pages/batchB/fig-p597139-1.svg",
+   "key": "dsw",
+   "old_fileid": "512567"
+  },
+  {
+   "page": "597142",
+   "name": "fig-p597142-3.svg",
+   "path": "figures/pages/batchB/fig-p597142-3.svg",
+   "key": "dsz",
+   "old_fileid": "512570"
+  }
+ ],
+ "edits": {
+  "597092": [
+   {
+    "old": "<img alt=\"Ball-and-stick drawing of an ethanol molecule hydrogen-bonded (green dotted lines) to several water molecules, labeled 'Water' and 'Ethanol'; a key reads 'green dots = hydrogen bonding'.\" style=\"width: 456px; height: 353px;\" class=\"internal\" src=\"/@api/deki/files/87067/%253D14.3.jpg\" fileid=\"87067\" width=\"456px\" height=\"353px\" />",
+    "new": "<img class=\"internal\" alt=\"Ball-and-stick drawing of an ethanol molecule hydrogen-bonded (green dotted lines) to several water molecules, labeled 'Water' and 'Ethanol'; a key reads 'green dots = hydrogen bonding'.\" width=\"456\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{ethw}}/fig-p597092-ethanol-water.jpg\" fileid=\"{{ethw}}\" />",
+    "count": 1,
+    "note": "4.3 Fig 4.3.2 clean file name (print showed an atom)"
+   }
+  ],
+  "597096": [
+   {
+    "old": "<img alt=\"Structure of 4-hexylresorcinol: a benzene ring with two OH groups separated by one carbon (1,3, meta) and a six-carbon hexyl chain (CH2CH2CH2CH2CH2CH3) next to one OH and opposite the other.\" class=\"internal\" src=\"/@api/deki/files/128173/clipboard_e86e400f0a29ce11740040ff5aeba6e68.png\" fileid=\"128173\" />",
+    "new": "<img class=\"internal\" alt=\"Structure of 4-hexylresorcinol: a benzene ring with two OH groups separated by one ring carbon (1,3) and a six-carbon hexyl chain on carbon 4, next to one OH and across the ring from the other.\" width=\"156\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{hexr}}/fig-p597096-hexylresorcinol.svg\" fileid=\"{{hexr}}\" />",
+    "count": 1,
+    "note": "4.7 4-hexylresorcinol 1,3-OH"
+   },
+   {
+    "old": "for use on the skin. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)",
+    "new": "for use on the skin. (Structure redrawn by Daniel Kwasniewski, CC BY 4.0.)",
+    "count": 1,
+    "note": "4.7 credit"
+   }
+  ],
+  "597149": [
+   {
+    "old": "<img alt=\"Structure of estradiol (an estrogen): ring A is a benzene ring with an HO group, one methyl group at a ring junction, and an OH on ring D.\" class=\"internal\" src=\"/@api/deki/files/128212/clipboard_eaee03c37afe5f9d1038df76b0f3a54bd.png\" fileid=\"128212\" />",
+    "new": "<img class=\"internal\" alt=\"Estradiol (an estrogen): four fused rings. Ring A is a benzene ring carrying an OH; one CH3 sits at the junction of rings C and D; ring D carries an OH.\" width=\"210\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{estr}}/fig-p597149-estradiol.svg\" fileid=\"{{estr}}\" />",
+    "count": 1,
+    "note": "9.6 estradiol"
+   },
+   {
+    "old": "<img alt=\"Structure of testosterone (an androgen): the steroid skeleton with a ketone and double bond in ring A, two methyl groups, and an OH on ring D.\" class=\"internal\" src=\"/@api/deki/files/128211/clipboard_ecee71dcaaea93cf20bb8b677a55b2c05.png\" fileid=\"128211\" />",
+    "new": "<img class=\"internal\" alt=\"Testosterone (an androgen): four fused rings with a C=O and a C=C double bond in ring A, two CH3 groups at ring junctions, and an OH on ring D.\" width=\"210\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{test}}/fig-p597149-testosterone.svg\" fileid=\"{{test}}\" />",
+    "count": 1,
+    "note": "9.6 testosterone"
+   }
+  ],
+  "597103": [
+   {
+    "old": "<img alt=\"Five aldehydes: (a) benzaldehyde, a benzene ring with a CHO group; (b) cinnamaldehyde, a benzene ring attached to CH=CH-CHO; (c) vanillin, a benzene ring bearing CHO, OH and OCH3 groups; (d) a C=C double bond with CH3CH2 on one carbon and CH2CHO on the other, both H on the same side (cis-3-hexenal); (e) a nine-carbon chain with two C=C double bonds, CH3CH2-CH=CH-CH2-CH2-CH=CH-CHO (2,6-nonadienal).\" style=\"width: 436px; height: 380px;\" class=\"internal\" src=\"/@api/deki/files/27163/14.6.jpg\" fileid=\"27163\" width=\"436px\" height=\"380px\" />",
+    "new": "<img class=\"internal\" alt=\"Five aldehydes, as skeletal structures: (a) benzaldehyde, a benzene ring with a CHO group; (b) cinnamaldehyde, a benzene ring attached to CH=CH-CHO with the chain trans; (c) vanillin, a benzene ring with CHO, an OH across the ring from the CHO, and an OCH3 next to the OH; (d) cis-3-hexenal, a six-carbon chain with CHO at one end and a cis C=C between carbons 3 and 4; (e) trans-2-cis-6-nonadienal, a nine-carbon chain with CHO at one end, a trans C=C at carbons 2-3 and a cis C=C at carbons 6-7.\" width=\"532\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{alds}}/fig-p597103-aldehydes.svg\" fileid=\"{{alds}}\" />",
+    "count": 1,
+    "note": "5.2 Fig 5.2.2 aldehydes (vanillin)"
+   },
+   {
+    "old": "gives a cucumber odor. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)",
+    "new": "gives a cucumber odor. (Structure redrawn by Daniel Kwasniewski, CC BY 4.0.)",
+    "count": 1,
+    "note": "5.2 credit"
+   }
+  ],
+  "597105": [
+   {
+    "old": "<img alt=\"Structures of NAD plus (left) and NADH (right): a nicotinamide ring (highlighted in yellow) attached through a ribose and two phosphates to an adenosine; in NADH the nicotinamide ring has an extra hydrogen and no positive charge.\" class=\"internal\" src=\"/@api/deki/files/428509/clipboard_e088725e6d635758cd3fd48997501f928.png\" fileid=\"428509\" />",
+    "new": "<img alt=\"Structures of NADH (left) and NAD plus (right): a nicotinamide ring (highlighted in yellow) attached through a ribose and two phosphates to an adenosine; in NADH the nicotinamide ring has an extra hydrogen and no positive charge.\" class=\"internal\" src=\"/@api/deki/files/428509/clipboard_e088725e6d635758cd3fd48997501f928.png\" fileid=\"428509\" />",
+    "count": 1,
+    "note": "5.4 NAD labels"
+   }
+  ],
+  "597094": [
+   {
+    "old": "<img alt=\"Isocitrate, a three-carbon chain bearing three COOH groups with an HO (blue) on the end carbon, with 'enzyme' over the arrow, gives oxalosuccinate, in which that carbon is now a C=O (blue).\" style=\"width: 644px; height: 174px;\" class=\"internal\" src=\"/@api/deki/files/27099/isocitrate.jpg\" fileid=\"27099\" width=\"644px\" height=\"174px\" />",
+    "new": "<img class=\"internal\" alt=\"Isocitrate, a 2-degree alcohol with three COOH groups, is oxidized by an enzyme to oxalosuccinate: the carbon bearing the OH becomes a C=O, and all three COOH groups remain.\" width=\"548\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{isoc}}/fig-p597094-isocitrate.svg\" fileid=\"{{isoc}}\" />",
+    "count": 1,
+    "note": "4.5 isocitrate"
+   },
+   {
+    "old": "<img alt=\"CH3CHCH2OH with a CH3 below the second carbon: 2-methyl-1-propanol, a primary alcohol.\" style=\"width: 708px; height: 94px;\" class=\"internal\" src=\"/@api/deki/files/27103/SB_2.jpg\" fileid=\"27103\" width=\"708px\" height=\"94px\" />",
+    "new": "<img class=\"internal\" alt=\"Condensed formula CH3CHCH2OH with a CH3 group below the second carbon.\" width=\"153\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{ex1b}}/fig-p597094-ex1b.svg\" fileid=\"{{ex1b}}\" />",
+    "count": 1,
+    "note": "4.5 Exercise 1(b)"
+   }
+  ],
+  "597123": [
+   {
+    "old": "<img alt=\"Octylamine (insoluble), CH3(CH2)7NH2(l), plus HNO3(aq), with an arrow, gives octylammonium nitrate (soluble), CH3(CH2)7NH3 plus NO3 minus(aq).\" height=\"88\" width=\"572\" class=\"internal\" src=\"/@api/deki/files/27012/soluble.jpg\" fileid=\"27012\" />",
+    "new": "<img class=\"internal\" alt=\"Octylamine (insoluble), CH3(CH2)7NH2(l), plus HNO3(aq) gives octylammonium nitrate (soluble), CH3(CH2)7NH3+ NO3-(aq).\" width=\"599\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{octa}}/fig-p597123-octylamine.svg\" fileid=\"{{octa}}\" />",
+    "count": 1,
+    "note": "7.3 octylamine (CH2)7"
+   }
+  ],
+  "597130": [
+   {
+    "old": "<img alt=\"Nylon synthesis: adipic acid (HOOC-(CH2)4-COOH) plus hexanediamine (H2N-(CH2)6-NH2), with an arrow, give nylon-66, drawn as a repeating unit in brackets with an amide link (C(=O)-NH) joining the two building blocks.\" data-flx-url=\"/flx/show/THUMB_POSTCARD/image/user%3AY2sxMnNjaWVuY2VAY2sxMi5vcmc./98045-1370042818-51-49-C-IntCh-06-02-18-2-Nylon-Synthesis.png\" longdesc=\"http://www.ck12.org/book/CK-12-Chemistry-Concepts-Intermediate/section/25.20/Nylon%20synthesis\" class=\"internal\" src=\"/@api/deki/files/404867/f-d%253Ae72321d3a1a6d81638d3b03c626dec9ec23cff85f71fd7dec65aebc3IMAGE_THUMB_POSTCARD_TINYIMAGE_THUMB_POSTCARD_TINY.1\" fileid=\"404867\" />",
+    "new": "<img class=\"internal\" alt=\"Nylon synthesis: n adipic acid (HOOC-(CH2)4-COOH) plus n hexanediamine (H2N-(CH2)6-NH2), with heat, give nylon-66, drawn as the repeat unit C(=O)-(CH2)4-C(=O)-NH-(CH2)6-NH in brackets with subscript n, plus 2n H2O.\" width=\"654\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{nyls}}/fig-p597130-nylon-synthesis.svg\" fileid=\"{{nyls}}\" />",
+    "count": 1,
+    "note": "7.10 Fig 7.10.2 nylon synthesis"
+   },
+   {
+    "old": "Figure \\(\\PageIndex{2}\\): Nylon synthesis. (Figure from <em>Fundamentals of General, Organic, and Biological Chemistry</em> (LibreTexts), CC BY-NC-SA 3.0.)",
+    "new": "Figure \\(\\PageIndex{2}\\): Nylon synthesis. Two water molecules are released for each repeat unit. (Structure redrawn by Daniel Kwasniewski, CC BY 4.0.)",
+    "count": 1,
+    "note": "7.10 caption"
+   },
+   {
+    "old": "<img class=\"internal\" alt=\"Segment of nylon-6,6 showing two amide links between a six-carbon diacid unit and a six-carbon diamine unit\" width=\"491\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512541/fig-p597130-2.svg\" fileid=\"512541\" />",
+    "new": "<img class=\"internal\" alt=\"One repeat unit of nylon-66, in brackets with subscript n: NH-(CH2)6-NH from the six-carbon diamine and C(=O)-(CH2)4-C(=O) from the six-carbon diacid, joined by two amide links.\" width=\"445\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512541/fig-p597130-2.svg\" fileid=\"512541\" />",
+    "count": 1,
+    "note": "7.10.1 nylon repeat unit"
+   },
+   {
+    "old": "<img class=\"internal\" alt=\"One repeat unit of PET: a terephthalic acid (benzene-1,4-dicarboxylic acid) unit joined by two ester links to ethylene glycol units\" width=\"140\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512542/fig-p597130-3.svg\" fileid=\"512542\" />",
+    "new": "<img class=\"internal\" alt=\"One repeat unit of PET, in brackets with subscript n: O-CH2-CH2-O from ethylene glycol and C(=O)-benzene ring-C(=O) from terephthalic acid, joined by two ester links.\" width=\"312\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512542/fig-p597130-3.svg\" fileid=\"512542\" />",
+    "count": 1,
+    "note": "7.10.1 PET repeat unit"
+   },
+   {
+    "old": "<small>a segment of nylon-6,6: amide links join a 6-carbon diacid to a 6-carbon diamine</small>",
+    "new": "<small>one repeat unit of nylon-6,6: amide links join a 6-carbon diacid unit to a 6-carbon diamine unit</small>",
+    "count": 1,
+    "note": "7.10.1 label"
+   }
+  ],
+  "597115": [
+   {
+    "old": "<img alt=\"Formation of PET: n ethylene glycol (HOCH2CH2OH) plus n terephthalic acid (a benzene ring with COOH on opposite carbons), with an arrow, gives polyethylene terephthalate, a repeating unit of a benzene ring between an ester and an OCH2CH2O link, shown in brackets with subscript n, plus n H2O.\" height=\"274\" width=\"574\" class=\"internal\" src=\"/@api/deki/files/51930/imageedit_41_7834284216.png\" fileid=\"51930\" />",
+    "new": "<img class=\"internal\" alt=\"Formation of PET: n ethylene glycol plus n terephthalic acid, with H+ and heat, gives polyethylene terephthalate, drawn as the repeat unit O-CH2-CH2-O-C(=O)-benzene ring-C(=O) in brackets with subscript n, plus 2n H2O. Each repeat unit contains two ester links, so two waters are released per unit.\" width=\"529\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{petf}}/fig-p597115-pet-formation.svg\" fileid=\"{{petf}}\" />",
+    "count": 1,
+    "note": "6.7 PET formation 2n H2O"
+   }
+  ],
+  "597069": [
+   {
+    "old": "<img alt=\"Condensed formula CH3CH2CCH2CH2CH2CH3 with a CH3 group above and a CH2CH3 group below the third carbon.\" style=\"width: 650px; height: 139px;\" class=\"internal\" src=\"/@api/deki/files/27443/SB_3.jpg\" fileid=\"27443\" width=\"650px\" height=\"139px\" />",
+    "new": "<img class=\"internal\" alt=\"Condensed formula CH3CH2CCH2CH2CH2CH3 with a CH3 group above and a CH2CH3 group below the third carbon.\" width=\"256\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{ex13}}/fig-p597069-ex1-3.svg\" fileid=\"{{ex13}}\" />",
+    "count": 1,
+    "note": "2.5 Exercise 1 structure 3"
+   }
+  ],
+  "597061": [
+   {
+    "old": "so-called &ldquo;complementary base pairs.&rdquo;. (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0.)",
+    "new": "so-called &ldquo;complementary base pairs.&rdquo; (Figure from <em>The Basics of General, Organic, and Biological Chemistry</em> by Ball, Hill and Scott, CC BY-NC-SA 3.0; thymine methyl group and one backbone CH<sub>2</sub> corrected by Daniel Kwasniewski.)",
+    "count": 1,
+    "note": "1.8 caption"
+   }
+  ],
+  "597188": [
+   {
+    "old": "\\(\\ce{2H^{+}}\\) + \\(\\ce{2e^{-}}\\). (Copyright; Public domain)</figcaption>",
+    "new": "\\(\\ce{2H^{+}}\\) + \\(\\ce{2e^{-}}\\). (Public domain; N5 of FADH<sub>2</sub> corrected by Daniel Kwasniewski.)</figcaption>",
+    "count": 1,
+    "note": "13.1 caption"
+   }
+  ],
+  "597181": [
+   {
+    "old": "<img alt=\"Line-angle structure of raltegravir: a central pyrimidinone ring bearing a methyl group and an OH, linked through amides to a methyl-oxadiazole ring on one side and a 4-fluorobenzyl group on the other.\" height=\"167\" width=\"528\" class=\"internal\" src=\"/@api/deki/files/26486/raltegravir.jpg\" fileid=\"26486\" />",
+    "new": "<img class=\"internal\" alt=\"Line-angle structure of raltegravir: a methyl-oxadiazole ring joined through an amide (C(=O)-NH) to a carbon bearing two methyl groups, which is attached to a pyrimidinone ring carrying an N-methyl, a C=O, an OH and a second amide whose NH is bonded through a CH2 to a 4-fluorophenyl ring.\" width=\"397\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/{{ralt}}/fig-p597181-raltegravir.svg\" fileid=\"{{ralt}}\" />",
+    "count": 1,
+    "note": "12.8 raltegravir"
+   }
+  ],
+  "597144": [
+   {
+    "old": "<img class=\"internal\" alt=\"Skeletal structure of thromboxane B2: a 20-carbon chain in which six atoms, five carbons and one oxygen, form a six-membered ring containing an ether oxygen, with two side chains, one ending in COOH\" width=\"258\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512575/fig-p597144-5.svg\" fileid=\"512575\" />",
+    "new": "<img class=\"internal\" alt=\"Skeletal structure of thromboxane B2: a 20-carbon acid in which a six-membered ring contains one oxygen. The ring carbon next to the oxygen carries an OH (a hemiacetal); the other ring carbon next to the oxygen carries the lower chain with a C=C and an OH; the upper chain, ending in COOH, is on the ring carbon next to the second ring OH.\" width=\"300\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512575/fig-p597144-5.svg\" fileid=\"512575\" />",
+    "count": 1,
+    "note": "9.1 TXB2"
+   },
+   {
+    "old": "<img class=\"internal\" alt=\"Skeletal structure of leukotriene B4: an open 20-carbon chain with no ring, ending in COOH, with four C=C bonds, three of them alternating with single bonds (conjugated), and two OH groups\" width=\"552\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512576/fig-p597144-6.svg\" fileid=\"512576\" />",
+    "new": "<img class=\"internal\" alt=\"Skeletal structure of leukotriene B4: an open 20-carbon chain ending in COOH, with OH groups on carbons 5 and 12, three conjugated C=C bonds (carbons 6 to 11) and one more C=C between carbons 14 and 15.\" width=\"513\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512576/fig-p597144-6.svg\" fileid=\"512576\" />",
+    "count": 1,
+    "note": "9.1 LTB4"
+   }
+  ],
+  "597084": [
+   {
+    "old": "<img class=\"internal\" alt=\"Skeletal structure of nitrobenzene\" width=\"119\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512441/fig-p597084-2.svg\" fileid=\"512441\" />",
+    "new": "<img class=\"internal\" alt=\"Skeletal structure of nitrobenzene: a benzene ring carrying a nitro group, drawn with N+ double-bonded to one O and single-bonded to an O-.\" width=\"106\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512441/fig-p597084-2.svg\" fileid=\"512441\" />",
+    "count": 1,
+    "note": "3.7 nitrobenzene"
+   }
+  ],
+  "597085": [
+   {
+    "old": "<img class=\"internal\" alt=\"Skeletal structure of 2-nitrophenol: a benzene ring with an OH group and a nitro group on neighboring carbons\" width=\"172\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512447/fig-p597085-5.svg\" fileid=\"512447\" />",
+    "new": "<img class=\"internal\" alt=\"Skeletal structure of 2-nitrophenol: a benzene ring with an OH group and a nitro group (N+ with one N=O and one N-O-) on neighboring carbons.\" width=\"156\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512447/fig-p597085-5.svg\" fileid=\"512447\" />",
+    "count": 1,
+    "note": "3.8 2-nitrophenol"
+   }
+  ],
+  "597139": [
+   {
+    "old": "<img class=\"internal\" alt=\"Haworth projections of two six-membered glucose rings joined by an oxygen bridge. In the left ring the bond from carbon 1 to the bridging oxygen points up; the oxygen connects to carbon 4 of the right ring. The right ring keeps a free OH pointing up on its carbon 1. Both rings have CH2OH up on carbon 5, OH down on carbon 2, OH up on carbon 3, and the left ring has OH down on carbon 4.\" width=\"450\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512567/fig-p597139-1.svg\" fileid=\"512567\" />",
+    "new": "<img class=\"internal\" alt=\"Haworth projections of two six-membered glucose rings joined by an oxygen bridge. In the left ring the bond from carbon 1 to the bridging oxygen points up; the oxygen connects to carbon 4 of the right ring. The right ring keeps a free OH pointing up on its carbon 1. Both rings have CH2OH up on carbon 5, OH down on carbon 2 and OH up on carbon 3. The left ring has OH down on carbon 4; in the right ring, carbon 4 has H up and its bond to the bridging oxygen points down.\" width=\"450\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512567/fig-p597139-1.svg\" fileid=\"512567\" />",
+    "count": 1,
+    "note": "8.6 Disaccharide W"
+   }
+  ],
+  "597060": [
+   {
+    "old": " or \\(\\ce{CH3CH2CH2CH(CH2CH3)CH2CH2CH2CH3}\\)</figure>",
+    "new": " or CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH(CH<sub>2</sub>CH<sub>3</sub>)CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></figure>",
+    "count": 1,
+    "note": "1.7 Fig 1.7.3 second condensed formula (did not print)"
+   }
+  ],
+  "597059": [
+   {
+    "old": "class=\"internal default mt-indent-3\" src=\"/@api/deki/files/240660/Alkanes.jpg\"",
+    "new": "class=\"internal default\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/240660/Alkanes.jpg\"",
+    "count": 1,
+    "note": "1.6 Fig 1.6.1 indent cropped it in print"
+   }
+  ],
+  "597160": [
+   {
+    "old": "The two neighboring chains are <strong>parallel</strong> if both have N-terminus on the same side, as shown on the right, and <strong>antiparallel </strong>if the two adjacent chains have N-terminus on the opposite sides, as shown on the left.",
+    "new": "The two neighboring chains are <strong>parallel</strong> if both have the N-terminus on the same side, and <strong>antiparallel</strong> if the two adjacent chains have their N-termini on opposite sides; one drawing of each type is shown here.",
+    "count": 1,
+    "note": "10.7 left/right does not survive print"
+   }
+  ]
+ }
+}

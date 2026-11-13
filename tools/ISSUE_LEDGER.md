@@ -366,3 +366,45 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - **Deferred:**
     - To batch B (the text matches labels baked into images): 9.2 "Glyceryl palmitate" alt text, and the 6.6 163/164 °C chart.
     - New, not yet fixed: 2.6 (597070) Table 2.6.1 also lists methane at −164 °C.
+- 2026-11-12, batch B1 of the 2026-11-12 review: wrong structures in figures (branch figures/2026-11-batchB).
+  - **Live: 23 files uploaded; 29 HTML edits on 20 pages.**
+    - Edit list: `tools/batchB1_figures_2026-11-12.json`, built by `tools/batchB1_build.py`. File ids: `tools/batchB1_ids_2026-11-12.json`.
+    - Assets: `figures/pages/batchB/`. Before/after sheets: `tools/batchB_review/`.
+  - **New tool:** `tools/rdsvg.py` draws house-style SVGs from SMILES. It uses RDKit for layout only, with the same colours, label halo and bond widths as the draw.js engine, so no node is needed. It also has helpers for polymer brackets, condensed-formula text, one-line equations and grids.
+  - **Redrawn (new files):**
+    - 4.7 4-hexylresorcinol, with the OH groups 1,3 (512718).
+    - 9.6 estradiol without the C10 methyl (512720), and testosterone with C4=C5 (512721).
+    - 5.2 Fig 5.2.2 aldehydes; vanillin was drawn as isovanillin (512722).
+    - 4.5 isocitrate → oxalosuccinate, which kept a CH3 for a COOH (512724), and Exercise 4.5.1(b) (512725).
+    - 7.3 octylamine with (CH2)7 (512726).
+    - 7.10 Fig 7.10.2 nylon synthesis with n and 2n H2O (512727).
+    - 6.7 PET formation with 2n H2O (512728).
+    - 2.5 Exercise 2.5.1 structure 3: the branches now sit on C3, and the chain is heptane per the answer key (512729).
+    - 12.8 raltegravir, with the gem-dimethyl and the amide NH (512732).
+    - Captions that credited Ball or FGOB for these images now read "Structure redrawn by Daniel Kwasniewski, CC BY 4.0".
+  - **Corrected in place (same file id):**
+    - 7.10.1 nylon-6,6 and PET repeat units, in brackets with n.
+    - 9.1 Fig 9.1.3 thromboxane B2 and leukotriene B4 (conjugated triene plus C14=C15).
+    - 3.7 nitrobenzene and 3.8 2-nitrophenol, with nitro charges.
+    - 8.6 Disaccharide W and 8.9 Disaccharide Z, with glucose C4 (in W the right ring's C4 link was also galactose-type).
+  - **Raster patches (new ids, because the originals belonged to other pages):**
+    - 5.4 NAD+/NADH labels swapped back, with the alt text to match (512723).
+    - 13.1 Fig 13.1.3 N5–H in FADH2 (512731).
+    - 1.8 Fig 1.8.11: thymine CH3 added, and the guanine-strand P–O–O–C link is now P–O–CH2 (512730).
+  - **4.3 Fig 4.3.2:** the PDF service resolved the double-encoded name `%253D14.3.jpg` to an unrelated atom image. The same bytes were re-uploaded as `fig-p597092-ethanol-water.jpg` (512719). The other eight images with `%253D` names printed correctly.
+  - **Text-side fixes:**
+    - 1.7 Fig 1.7.3: the second condensed formula (`mhchem`, which did not print) is now plain HTML.
+    - 1.6 Fig 1.6.1: removed `mt-indent-3`, which cropped the image in print.
+    - 10.7: the parallel/antiparallel sentence no longer says left/right. The images were correct on screen; the PDF ignores floats.
+  - **Verified:** every edit was present and every file is served (HTTP 200, expected sizes). All 21 `pages/live` copies match live by SHA-256. Mirrored into `pages/sec_*` and `sections/{src,add}_*`.
+  - **Open:**
+    - The instructor's slides need the same kind of fixes: Slide21 (Neo-Synephrine), Slide22 (equilibrium arrows), and Slides 48/49/51/52 (3 H2, 3 Br2, 3 KOH/LiOH).
+    - Ball Fig 12.2.3 (19.7a) still reads "1.08 mm", with wrong cytosine and purine bonds.
+    - The 1.8.11 caption credits Ball, but the file is an OpenStax image (CNX_Chem); check the source in batch E.
+- 2026-11-12, batch B1, part 2: the instructor's own slide PNGs were patched (by request) in `figures/`, using glyphs copied from the same slides so the lettering matches.
+  - Slide21: Neo-Synephrine "CHCH3" → "CHCH2".
+  - Slide22: the NH3 + H2O and CH3NH2 + H2O reactions now have equilibrium arrows; the HCl reaction stays one-way.
+  - Slide52: "+ H2" → "+ 3H2". Slide51: "+ Br2" → "+ 3Br2", and the practice reaction "+ 3H2O / LiOH" → "+ 3LiOH" with heat under the arrow.
+  - Slide48: the practice reaction "+ 3H2O / KOH" → "+ 3KOH" with heat under the arrow.
+  - Slides 48 and 49: "Glyceryl palmitate" → "Glyceryl tripalmitate" (the name used in 9.7; deferred from batch A).
+  - **Not yet live:** GitHub Pages serves `main`, so the new PNGs appear when the PR is merged. After that, publish `tools/batchB1_slides_fixes_2026-11-12.json` (built by `tools/batchB1_slides_build.py`; 15 edits on 597121, 597123 and 597145). It updates the alt text and adds `?v=20261112` to the slide srcs so cached copies refresh.
