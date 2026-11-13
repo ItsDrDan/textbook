@@ -665,3 +665,5 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - **Bank and exports (repo only; details in tools/BANK_FIX_2026-11-13.md):** 13 bank items reworded with no key changed; k cleared on fb-3B-0865/0871; all 36 QTI zips, the payloads and the CSV rebuilt from the bank and verified (0 banned terms, 0 mismatches); CSV writer fixed; IMF candidate builder now keys on c[0].
   - **Not done:** live ADAPT (23 questions listed in BANK_FIX); adapt/README.md counts; tools/adapt_thin.py still has the Ch 3 "extra" keying trap; 13.4 sulfonylurea image source; 14.5.2 (file unreadable today), 9.4 and 15.9.1 small print; 10.9 and 6.5 dead links; Final Boss and questionbank repos.
 
+- **2026-11-13 Live ADAPT brought in line with the bank (course 4605):** 22 questions updated in place and read back matching the bank (ids and method in adapt/README.md). fb-3B-0887 no longer asks for Km; fb-3B-0872 and 0887 have new choices; the rest are stem or feedback wording. A re-scan of all 1,031 live questions finds no pKa, Km, hydride, meso, sp3 or ion–dipole wording and no pending revisions. Not updated: fb-3B-0979 (retired from assignments).
+
