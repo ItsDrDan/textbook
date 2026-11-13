@@ -459,13 +459,13 @@ def fig7():
         return o
     cells = [
         (0, 0, '(a) Methanol, CH<tspan font-size="11" baseline-shift="sub">3</tspan>OH', lambda x, y: methanol(x, y, (-90, -10, 125)), lambda x, y: methanol(x, y, (-90, -10)),
-         'Too many electrons: O has 3 lone pairs (16 e&#8315;; needs 14)'),
+         'Too many electrons: O has 3 lone pairs (16 e<tspan font-size="11" baseline-shift="super">&#8722;</tspan>; needs 14)'),
         (1, 0, '(b) Formaldehyde, H<tspan font-size="11" baseline-shift="sub">2</tspan>C=O', lambda x, y: formaldehyde(x, y), None,
-         'Correct: 12 e&#8315;, C has 4 bonds, O has 2 bonds + 2 lone pairs'),
+         'Correct: 12 e<tspan font-size="11" baseline-shift="super">&#8722;</tspan>, C has 4 bonds, O has 2 bonds + 2 lone pairs'),
         (0, 1, '(c) Ethanethiol, CH<tspan font-size="11" baseline-shift="sub">3</tspan>CH<tspan font-size="11" baseline-shift="sub">2</tspan>SH', lambda x, y: thiol(x, y, (-45,)), lambda x, y: thiol(x, y, (-90, -10)),
-         'Octet not satisfied: S with one lone pair has only 6 e&#8315;'),
+         'Octet not satisfied: S with one lone pair has only 6 e<tspan font-size="11" baseline-shift="super">&#8722;</tspan>'),
         (1, 1, '(d) Methylamine, CH<tspan font-size="11" baseline-shift="sub">3</tspan>NH<tspan font-size="11" baseline-shift="sub">2</tspan>', lambda x, y: amine(x, y, True), lambda x, y: amine(x, y, False),
-         'Wrong bond count: 4 bonds, no lone pair is N&#8314; (CH<tspan font-size="11" baseline-shift="sub">3</tspan>NH<tspan font-size="11" baseline-shift="sub">3</tspan><tspan font-size="11" baseline-shift="super">+</tspan>)'),
+         'Wrong bond count: 4 bonds, no lone pair is N<tspan font-size="11" baseline-shift="super">+</tspan> (CH<tspan font-size="11" baseline-shift="sub">3</tspan>NH<tspan font-size="11" baseline-shift="sub">3</tspan><tspan font-size="11" baseline-shift="super">+</tspan>)'),
     ]
     for col, rw, title, drawn, fixed, err in cells:
         x0, y0 = 10 + col * 500, 6 + rw * 204
