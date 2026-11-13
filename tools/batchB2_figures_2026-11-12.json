@@ -1,0 +1,343 @@
+{
+ "uploads": [
+  {
+   "page": "597060",
+   "name": "fig-p597060-steps-butane.png",
+   "path": "figures/pages/batchB2/fig-p597060-steps-butane.png",
+   "key": "s1",
+   "old_fileid": null
+  },
+  {
+   "page": "597060",
+   "name": "fig-p597060-steps-amine.png",
+   "path": "figures/pages/batchB2/fig-p597060-steps-amine.png",
+   "key": "s2",
+   "old_fileid": null
+  },
+  {
+   "page": "597060",
+   "name": "fig-p597060-steps-chlorobutane.png",
+   "path": "figures/pages/batchB2/fig-p597060-steps-chlorobutane.png",
+   "key": "s3",
+   "old_fileid": null
+  },
+  {
+   "page": "597104",
+   "name": "fig-p597104-hemiacetal.png",
+   "path": "figures/pages/batchB2/fig-p597104-hemiacetal.png",
+   "key": "hemi",
+   "old_fileid": null
+  },
+  {
+   "page": "597121",
+   "name": "fig-p597121-anilines.jpg",
+   "path": "figures/pages/batchB2/fig-p597121-anilines.jpg",
+   "key": "anil",
+   "old_fileid": null
+  },
+  {
+   "page": "597137",
+   "name": "fig-p597137-glucose-cyclization.jpg",
+   "path": "figures/pages/batchB2/fig-p597137-glucose-cyclization.jpg",
+   "key": "cycl",
+   "old_fileid": null
+  },
+  {
+   "page": "597154",
+   "name": "fig-p597154-zwitterion.jpg",
+   "path": "figures/pages/batchB2/fig-p597154-zwitterion.jpg",
+   "key": "zwit",
+   "old_fileid": null
+  },
+  {
+   "page": "597159",
+   "name": "fig-p597159-ghk.png",
+   "path": "figures/pages/batchB2/fig-p597159-ghk.png",
+   "key": "ghk",
+   "old_fileid": null
+  },
+  {
+   "page": "597159",
+   "name": "fig-p597159-aspartame.png",
+   "path": "figures/pages/batchB2/fig-p597159-aspartame.png",
+   "key": "aspt",
+   "old_fileid": null
+  },
+  {
+   "page": "597159",
+   "name": "fig-p597159-backbone.png",
+   "path": "figures/pages/batchB2/fig-p597159-backbone.png",
+   "key": "bbone",
+   "old_fileid": null
+  },
+  {
+   "page": "597161",
+   "name": "fig-p597161-val-phe.png",
+   "path": "figures/pages/batchB2/fig-p597161-val-phe.png",
+   "key": "valphe",
+   "old_fileid": null
+  },
+  {
+   "page": "597171",
+   "name": "fig-p597171-feedback.jpg",
+   "path": "figures/pages/batchB2/fig-p597171-feedback.jpg",
+   "key": "thr",
+   "old_fileid": null
+  },
+  {
+   "page": "597176",
+   "name": "fig-p597176-base-pairs.jpg",
+   "path": "figures/pages/batchB2/fig-p597176-base-pairs.jpg",
+   "key": "bp",
+   "old_fileid": null
+  },
+  {
+   "page": "597181",
+   "name": "fig-p597181-dttp-azt.jpg",
+   "path": "figures/pages/batchB2/fig-p597181-dttp-azt.jpg",
+   "key": "dttp",
+   "old_fileid": null
+  },
+  {
+   "page": "597188",
+   "name": "fig-p597188-nad-nadh.png",
+   "path": "figures/pages/batchB2/fig-p597188-nad-nadh.png",
+   "key": "nic",
+   "old_fileid": null
+  },
+  {
+   "page": "597191",
+   "name": "fig-p597191-energy-conversions.jpg",
+   "path": "figures/pages/batchB2/fig-p597191-energy-conversions.jpg",
+   "key": "econv",
+   "old_fileid": null
+  },
+  {
+   "page": "597200",
+   "name": "fig-p597200-acetyl-coa.jpg",
+   "path": "figures/pages/batchB2/fig-p597200-acetyl-coa.jpg",
+   "key": "acoa",
+   "old_fileid": null
+  },
+  {
+   "page": "597201",
+   "name": "fig-p597201-etc.jpg",
+   "path": "figures/pages/batchB2/fig-p597201-etc.jpg",
+   "key": "etc",
+   "old_fileid": null
+  },
+  {
+   "page": "597203",
+   "name": "fig-p597203-summary.png",
+   "path": "figures/pages/batchB2/fig-p597203-summary.png",
+   "key": "summ",
+   "old_fileid": null
+  },
+  {
+   "page": "597209",
+   "name": "fig-p597209-beta-oxidation.png",
+   "path": "figures/pages/batchB2/fig-p597209-beta-oxidation.png",
+   "key": "box",
+   "old_fileid": null
+  },
+  {
+   "page": "597213",
+   "name": "fig-p597213-ketone-bodies.png",
+   "path": "figures/pages/batchB2/fig-p597213-ketone-bodies.png",
+   "key": "ket",
+   "old_fileid": null
+  },
+  {
+   "page": "597197",
+   "name": "fig-p597197-4.svg",
+   "path": "figures/pages/batchB2/fig-p597197-4.svg",
+   "key": "gng",
+   "old_fileid": "512617"
+  },
+  {
+   "page": "597210",
+   "name": "fig-p597210-1.svg",
+   "path": "figures/pages/batchB2/fig-p597210-1.svg",
+   "key": "hub",
+   "old_fileid": "512629"
+  }
+ ],
+ "edits": {
+  "597060": [
+   {
+    "old": "<img alt=\"Four-step figure for drawing butane. Step 1: draw the carbon chain C-C-C-C. Step 2: give each carbon four bonds by adding H atoms (the Lewis or expanded formula). Step 3: condense the H atoms onto each carbon with subscripts, CH3CH2CH2CH3 (the condensed formula). Step 4: draw a zigzag line with carbons at the ends and corners (the skeletal formula); H atoms on each carbon equal 4 minus the number of bonds shown. Red arrows connect the steps.\" class=\"internal\" src=\"/@api/deki/files/437067/clipboard_ead8b802fccf8dc28ff59696821f2f298.png\" fileid=\"437067\" />",
+    "new": "<img alt=\"Four-step figure for drawing butane. Step 1: draw the carbon chain C-C-C-C. Step 2: give each carbon four bonds by adding H atoms (the Lewis or expanded formula). Step 3: condense the H atoms onto each carbon with subscripts, CH3CH2CH2CH3 (the condensed formula). Step 4: draw a zigzag line with carbons at the ends and corners (the skeletal formula); H atoms on each carbon equal 4 minus the number of bonds shown. Red arrows connect the steps.\" class=\"internal\" src=\"/@api/deki/files/{{s1}}/fig-p597060-steps-butane.png\" fileid=\"{{s1}}\" />",
+    "count": 1,
+    "note": "1.7 Example 1 steps: also, This is the"
+   },
+   {
+    "old": "<img alt=\"Four-step figure for drawing an amine, CH3CH2NHCH3. Step 1: draw the chain with the heteroatom in it, C-C-N-C. Step 2: carbon gets four bonds and nitrogen three; add the missing H atoms (expanded formula). Step 3: condense to CH3CH2NHCH3. Step 4: draw the zigzag skeletal formula with the N shown in blue together with its H.\" class=\"internal\" src=\"/@api/deki/files/437068/clipboard_e99cbbe4593c0ba976bf4d385888c3c2f.png\" fileid=\"437068\" />",
+    "new": "<img alt=\"Four-step figure for drawing an amine, CH3CH2NHCH3. Step 1: draw the chain with the heteroatom in it, C-C-N-C. Step 2: carbon gets four bonds and nitrogen three; add the missing H atoms (expanded formula). Step 3: condense to CH3CH2NHCH3. Step 4: draw the zigzag skeletal formula with the N shown in blue together with its H.\" class=\"internal\" src=\"/@api/deki/files/{{s2}}/fig-p597060-steps-amine.png\" fileid=\"{{s2}}\" />",
+    "count": 1,
+    "note": "1.7 Example 2 steps: also, This is the"
+   },
+   {
+    "old": "<img alt=\"Four-step figure for drawing 1-chlorobutane. Step 1: draw the chain C-C-C-C. Step 2: give each carbon four bonds, adding a Cl on the end carbon and H atoms elsewhere (expanded formula). Step 3: condense to CH3CH2CH2CH2Cl. Step 4: draw the zigzag skeletal formula ending in Cl, shown in green.\" class=\"internal\" src=\"/@api/deki/files/437069/clipboard_e9b051ef77d8949935a2785430d011e4e.png\" fileid=\"437069\" />",
+    "new": "<img alt=\"Four-step figure for drawing 1-chlorobutane. Step 1: draw the chain C-C-C-C. Step 2: give each carbon four bonds, adding a Cl on the end carbon and H atoms elsewhere (expanded formula). Step 3: condense to CH3CH2CH2CH2Cl. Step 4: draw the zigzag skeletal formula ending in Cl, shown in green.\" class=\"internal\" src=\"/@api/deki/files/{{s3}}/fig-p597060-steps-chlorobutane.png\" fileid=\"{{s3}}\" />",
+    "count": 1,
+    "note": "1.7 Example 3 steps: also, treat, This is the"
+   }
+  ],
+  "597104": [
+   {
+    "old": "<img alt=\"Acetone plus HO-CH3 (limited supply), with H3O plus over a double arrow, gives a hemiacetal: a carbon bearing OH, OCH3 and two CH3 groups.\" class=\"internal\" src=\"/@api/deki/files/443598/clipboard_e8ae1f1f955bf2ff3a9e62ebcd40ed62e.png\" fileid=\"443598\" />",
+    "new": "<img alt=\"Acetone plus HO-CH3 (limited supply), with H3O plus over a double arrow, gives a hemiacetal: a carbon bearing OH, OCH3 and two CH3 groups.\" class=\"internal\" src=\"/@api/deki/files/{{hemi}}/fig-p597104-hemiacetal.png\" fileid=\"{{hemi}}\" />",
+    "count": 1,
+    "note": "5.3 A hemiacetal"
+   }
+  ],
+  "597121": [
+   {
+    "old": "<img alt=\"Aniline (a benzene ring with NH2), m-chloroaniline (NH2 and Cl separated by one ring carbon) and 2-chloro-4-iodoaniline (NH2 with Cl on the adjacent carbon and I on the carbon opposite), each labeled.\" height=\"163\" width=\"367\" class=\"internal\" src=\"/@api/deki/files/26885/aniline.jpg\" fileid=\"26885\" />",
+    "new": "<img alt=\"Aniline (a benzene ring with NH2), m-chloroaniline (NH2 and Cl separated by one ring carbon) and 2-chloro-4-iodoaniline (NH2 with Cl on the adjacent carbon and I on the carbon opposite), each labeled.\" height=\"163\" width=\"367\" class=\"internal\" src=\"/@api/deki/files/{{anil}}/fig-p597121-anilines.jpg\" fileid=\"{{anil}}\" />",
+    "count": 1,
+    "note": "7.1 m-chloroaniline"
+   }
+  ],
+  "597137": [
+   {
+    "old": "<img alt=\"Cyclization of D-glucose in three panels: (a) the Fischer projection with carbons numbered 1 to 6; (b) a three-dimensional representation in which the chain curls so the OH on carbon 5 approaches the aldehyde carbon 1 (curved arrow); (c) the resulting six-membered ring (Haworth projection) with the ring oxygen and the new OH on carbon 1.\" class=\"internal\" src=\"/@api/deki/files/128185/clipboard_e32110c630df9fb3510f482f390a57f35.png\" fileid=\"128185\" />",
+    "new": "<img alt=\"Cyclization of D-glucose in three panels: (a) the Fischer projection with carbons numbered 1 to 6; (b) a three-dimensional representation in which the chain curls so the OH on carbon 5 approaches the aldehyde carbon 1 (curved arrow); (c) the resulting six-membered ring (Haworth projection) with the ring oxygen and the new OH on carbon 1.\" class=\"internal\" src=\"/@api/deki/files/{{cycl}}/fig-p597137-glucose-cyclization.jpg\" fileid=\"{{cycl}}\" />",
+    "count": 1,
+    "note": "8.4 Fig 8.4.1 representation; C2-OH bond"
+   }
+  ],
+  "597154": [
+   {
+    "old": "<img alt=\"An alpha-amino acid drawn as a zwitterion (H3N plus-CH(R)-COO minus) beside the same acid drawn as an uncharged molecule (H2N-CH(R)-COOH), labeled 'not an accurate representation of amino acid structure'.\" height=\"179\" width=\"475\" class=\"internal\" src=\"/@api/deki/files/25889/zwitterion.jpg\" fileid=\"25889\" />",
+    "new": "<img alt=\"An alpha-amino acid drawn as a zwitterion (H3N plus-CH(R)-COO minus) beside the same acid drawn as an uncharged molecule (H2N-CH(R)-COOH), labeled 'not an accurate representation of amino acid structure'.\" height=\"179\" width=\"475\" class=\"internal\" src=\"/@api/deki/files/{{zwit}}/fig-p597154-zwitterion.jpg\" fileid=\"{{zwit}}\" />",
+    "count": 1,
+    "note": "10.1 representation"
+   }
+  ],
+  "597159": [
+   {
+    "old": "<img alt=\"The tripeptide glycylhistidyllysine (Gly-His-Lys, GHK): glycine at the N-terminus (red, H3N plus), histidine in the middle with its imidazole side chain, and lysine at the C-terminus (blue, COO minus) with its (CH2)4NH2 side chain; the two peptide bonds are boxed in brown.\" class=\"internal\" src=\"/@api/deki/files/444684/clipboard_ec7c372c7ed95ef6a80957189662f233e.png\" fileid=\"444684\" />",
+    "new": "<img alt=\"The tripeptide glycylhistidyllysine (Gly-His-Lys, GHK): glycine at the N-terminus (red, H3N plus), histidine in the middle with its imidazole side chain, and lysine at the C-terminus (blue, COO minus) with its (CH2)4NH2 side chain; the two peptide bonds are boxed in brown.\" class=\"internal\" src=\"/@api/deki/files/{{ghk}}/fig-p597159-ghk.png\" fileid=\"{{ghk}}\" />",
+    "count": 1,
+    "note": "10.6 GHK"
+   },
+   {
+    "old": "<img alt=\"Aspartylphenylalanine (Asp-Phe, DF), a dipeptide with the N-terminus (red), the peptide bond (boxed in brown) and the C-terminus (blue) labeled, beside aspartame, the same dipeptide with the C-terminal carboxyl converted to a methyl ester (OCH3 highlighted in yellow).\" class=\"internal\" src=\"/@api/deki/files/431812/clipboard_e273cedb1d445fa088626179e7c4c04df.png\" fileid=\"431812\" />",
+    "new": "<img alt=\"Aspartylphenylalanine (Asp-Phe, DF), a dipeptide with the N-terminus (red), the peptide bond (boxed in brown) and the C-terminus (blue) labeled, beside aspartame, the same dipeptide with the C-terminal carboxyl converted to a methyl ester (OCH3 highlighted in yellow).\" class=\"internal\" src=\"/@api/deki/files/{{aspt}}/fig-p597159-aspartame.png\" fileid=\"{{aspt}}\" />",
+    "count": 1,
+    "note": "10.6 Aspartylphenylalanine, Aspartame"
+   },
+   {
+    "old": "<img alt=\"Ball-and-stick model of a polypeptide backbone with each planar peptide group drawn as a flat blue card; the N-terminus and C-terminus ends are marked, and the R groups (purple) alternate above and below the chain.\" class=\"internal\" src=\"/@api/deki/files/431969/clipboard_e91b1f279848763bb8eb3efbaa73339d7.png\" fileid=\"431969\" />",
+    "new": "<img alt=\"Ball-and-stick model of a polypeptide backbone with each planar peptide group drawn as a flat blue card; the chain runs from the N-terminus (labeled at the left) to the C-terminus (labeled at the right), and the R groups (purple) alternate above and below the chain.\" class=\"internal\" src=\"/@api/deki/files/{{bbone}}/fig-p597159-backbone.png\" fileid=\"{{bbone}}\" />",
+    "count": 1,
+    "note": "10.6 Fig 10.6.1 English terminus labels, N left / C right"
+   }
+  ],
+  "597161": [
+   {
+    "old": "<img alt=\"A valine side chain (branched, shaded blue) next to a phenylalanine side chain (benzene ring, shaded blue) on a protein backbone, labeled 'Hydrophobic interaction between Val and Phe side chains shown in blue color'.\" class=\"internal\" src=\"/@api/deki/files/432382/clipboard_ec17316c2c88206fe07d18be60bc3c039.png\" fileid=\"432382\" />",
+    "new": "<img alt=\"A valine side chain (branched, shaded blue) next to a phenylalanine side chain (benzene ring, shaded blue) on a protein backbone, labeled 'Hydrophobic interaction between Val and Phe side chains shown in blue color'.\" class=\"internal\" src=\"/@api/deki/files/{{valphe}}/fig-p597161-val-phe.png\" fileid=\"{{valphe}}\" />",
+    "count": 1,
+    "note": "10.8 side chains"
+   }
+  ],
+  "597171": [
+   {
+    "old": "<img alt=\"Feedback inhibition: threonine is converted by threonine deaminase (E1) through enzymes E2 to E5 into isoleucine; a line from isoleucine back to the first arrow is labeled 'Isoleucine inhibits threonine deaminase'.\" class=\"internal\" src=\"/@api/deki/files/129750/imageedit_14_9757157228.jpg\" fileid=\"129750\" />",
+    "new": "<img alt=\"Feedback inhibition: threonine is converted by threonine deaminase (E1) through enzymes E2 to E5 into isoleucine; a line from isoleucine back to the first arrow is labeled 'Isoleucine inhibits threonine deaminase'.\" class=\"internal\" src=\"/@api/deki/files/{{thr}}/fig-p597171-feedback.jpg\" fileid=\"{{thr}}\" />",
+    "count": 1,
+    "note": "11.6 Fig 11.6.2 Threonine x3"
+   }
+  ],
+  "597176": [
+   {
+    "old": "<img class=\"internal\" height=\"343\" width=\"521\" alt=\"Base pairing: (a) thymine paired with adenine by two hydrogen bonds, and (b) cytosine paired with guanine by three hydrogen bonds, each drawn both as a chemical structure (with the distance between the chain attachment points, about 1.08 nm) and as a ball-and-stick model in green, blue, red and pink.\" src=\"/@api/deki/files/139715/19.7a.jpg\" fileid=\"139715\" />",
+    "new": "<img class=\"internal\" height=\"343\" width=\"521\" alt=\"Base pairing: (a) thymine paired with adenine by two hydrogen bonds, and (b) cytosine paired with guanine by three hydrogen bonds, each drawn both as a chemical structure (with the distance between the chain attachment points, about 1.08 nm) and as a ball-and-stick model in green, blue, red and pink.\" src=\"/@api/deki/files/{{bp}}/fig-p597176-base-pairs.jpg\" fileid=\"{{bp}}\" />",
+    "count": 1,
+    "note": "12.2 Fig 12.2.3 1.08 nm"
+   }
+  ],
+  "597181": [
+   {
+    "old": "<img alt=\"Deoxythymidine triphosphate (a thymine base on deoxyribose with three phosphates on carbon 5 prime and an OH on carbon 3 prime) beside azidothymidine (AZT), the same nucleoside with an azide group (N3) in place of the 3 prime OH and a single OH on carbon 5 prime.\" height=\"198\" width=\"537\" class=\"internal\" src=\"/@api/deki/files/26487/AZT.jpg\" fileid=\"26487\" />",
+    "new": "<img alt=\"Deoxythymidine triphosphate (a thymine base on deoxyribose with three phosphates on carbon 5 prime and an OH on carbon 3 prime) beside azidothymidine (AZT), the same nucleoside with an azide group (N3) in place of the 3 prime OH and a single OH on carbon 5 prime.\" height=\"198\" width=\"537\" class=\"internal\" src=\"/@api/deki/files/{{dttp}}/fig-p597181-dttp-azt.jpg\" fileid=\"{{dttp}}\" />",
+    "count": 1,
+    "note": "12.8 triphosphate"
+   }
+  ],
+  "597188": [
+   {
+    "old": "<img alt=\"Structure of nicotinamide adenine dinucleotide: the oxidized form NAD plus (a nicotinamide ring with a positive nitrogen attached to ribose, two phosphates, a second ribose and adenine) plus 2 H plus and 2 electrons gives the reduced form NADH, in which the nicotinamide ring (red) has gained a hydrogen.\" class=\"internal\" src=\"/@api/deki/files/436240/clipboard_e77ea5c3532490a08873f89a3c08edb27.png\" fileid=\"436240\" />",
+    "new": "<img alt=\"Structure of nicotinamide adenine dinucleotide: the oxidized form NAD plus (a nicotinamide ring with a positive nitrogen attached to ribose, two phosphates, a second ribose and adenine) plus 2 H plus and 2 electrons gives the reduced form NADH, in which the nicotinamide ring (red) has gained a hydrogen.\" class=\"internal\" src=\"/@api/deki/files/{{nic}}/fig-p597188-nad-nadh.png\" fileid=\"{{nic}}\" />",
+    "count": 1,
+    "note": "13.1 Fig 13.1.2 Nicotinamide"
+   }
+  ],
+  "597191": [
+   {
+    "old": "<img alt=\"Flowchart of energy conversions in catabolism: Stage 1, proteins, carbohydrates and fats are hydrolyzed to amino acids, monosaccharides and fatty acids and glycerol; Stage 2, these are converted to acetyl CoA (or pyruvate), with some ATP made; Stage 3, acetyl CoA enters the citric acid cycle and the electron transport chain, producing most of the ATP, with CO2 and H2O released.\" style=\"width: 727px; height: 1107px;\" class=\"internal\" src=\"/@api/deki/files/25812/36d48abe4ab659b4d9b376a61fa64605.jpg\" fileid=\"25812\" width=\"727px\" height=\"1107px\" />",
+    "new": "<img alt=\"Flowchart of energy conversions in catabolism: Stage 1, proteins, carbohydrates and fats are hydrolyzed to amino acids, monosaccharides and fatty acids and glycerol; Stage 2, these are converted to acetyl CoA (or pyruvate), with some ATP made; Stage 3, acetyl CoA enters the citric acid cycle and the electron transport chain, producing most of the ATP, with CO2 and H2O released.\" style=\"width: 727px; height: 1107px;\" class=\"internal\" src=\"/@api/deki/files/{{econv}}/fig-p597191-energy-conversions.jpg\" fileid=\"{{econv}}\" width=\"727px\" height=\"1107px\" />",
+    "count": 1,
+    "note": "13.3 Fig 13.3.1 Pyruvate, oxidation"
+   }
+  ],
+  "597200": [
+   {
+    "old": "<img alt=\"The structure of acetyl-coenzyme A with its parts bracketed: the acetyl group (CH3-C(=O)-, red) joined through a thioester to the sulfur of coenzyme A, whose chain contains pantothenic acid (a vitamin) and a phosphorylated ADP ending in adenine.\" class=\"internal\" src=\"/@api/deki/files/128220/clipboard_eb5e6e609520b8e5fe8dc10b7e4386647.png\" fileid=\"128220\" />",
+    "new": "<img alt=\"The structure of acetyl-coenzyme A with its parts bracketed: the acetyl group (CH3-C(=O)-, red) joined through a thioester to the sulfur of coenzyme A, whose chain contains pantothenic acid (a vitamin) and a phosphorylated ADP ending in adenine.\" class=\"internal\" src=\"/@api/deki/files/{{acoa}}/fig-p597200-acetyl-coa.jpg\" fileid=\"{{acoa}}\" />",
+    "count": 1,
+    "note": "14.1 Fig 14.1.1 Phosphorylated ADP"
+   }
+  ],
+  "597201": [
+   {
+    "old": "<img alt=\"The mitochondrial electron transport chain in the inner membrane: complexes I, II, III and IV and ATP synthase drawn between the intermembrane space (top, with many H plus ions) and the matrix (bottom). A red line traces electrons from NADH (at complex I) and from FADH2 (at complex II) through the chain to O2, which becomes H2O at complex IV; H plus pumped into the intermembrane space flows back through ATP synthase to make ATP from ADP plus Pi.\" style=\"width: 695px; height: 365.994px;\" class=\"internal\" src=\"/@api/deki/files/86861/%253D20.14.jpg\" fileid=\"86861\" width=\"695px\" height=\"365.994px\" />",
+    "new": "<img alt=\"The mitochondrial electron transport chain in the inner membrane: complexes I, II, III and IV and ATP synthase drawn between the intermembrane space (top, with many H plus ions) and the matrix (bottom). A red line traces electrons from NADH (at complex I) and from FADH2 (at complex II) through the chain to O2, which becomes H2O at complex IV; H plus pumped into the intermembrane space flows back through ATP synthase to make ATP from ADP plus Pi.\" style=\"width: 695px; height: 365.994px;\" class=\"internal\" src=\"/@api/deki/files/{{etc}}/fig-p597201-etc.jpg\" fileid=\"{{etc}}\" width=\"695px\" height=\"365.994px\" />",
+    "count": 1,
+    "note": "14.2 Fig 14.2.3 Fumarate, CoQ, NAD+, Pi, 2H+"
+   }
+  ],
+  "597203": [
+   {
+    "old": "<img alt=\"Three colored panels summarizing glucose catabolism: glycolysis (yellow) converts glucose to 2 pyruvate, making 2 NADH and 2 ATP; oxidative decarboxylation (gray) converts 2 pyruvate to 2 acetyl-CoA plus 2 CO2, making 2 NADH; the citric acid cycle (blue, two turns) converts 2 acetyl-CoA to 4 CO2, making 6 NADH, 2 FADH2 and 2 GTP.\" class=\"internal\" src=\"/@api/deki/files/436865/clipboard_e51128d8ffae20297ecc1e6d41f2855b7.png\" fileid=\"436865\" />",
+    "new": "<img alt=\"Three colored panels summarizing glucose catabolism: glycolysis (yellow) converts glucose to 2 pyruvate, making 2 NADH and 2 ATP; oxidative decarboxylation (gray) converts 2 pyruvate to 2 acetyl-CoA plus 2 CO2, making 2 NADH; the citric acid cycle (blue, two turns) converts 2 acetyl-CoA to 4 CO2, making 6 NADH, 2 FADH2 and 2 GTP.\" class=\"internal\" src=\"/@api/deki/files/{{summ}}/fig-p597203-summary.png\" fileid=\"{{summ}}\" />",
+    "count": 1,
+    "note": "14.4 Fig 14.4.3 pyruvate formula, for, net ATP, 2Pi, 2HS-CoA"
+   }
+  ],
+  "597209": [
+   {
+    "old": "<img alt=\"Beta-oxidation of stearic acid shown as a grid of colored panels: the activation step to stearoyl-CoA at the top (yellow), then eight successive cycles, each panel showing the four reactions (dehydrogenation, hydration, dehydrogenation, thiolysis) that remove one acetyl-CoA, until the final cycle leaves two acetyl-CoA; labeled 'beta-Oxidation of stearic acid'.\" class=\"internal\" src=\"/@api/deki/files/446290/clipboard_e45b80d0689ed5d8d89e2dda53d3c4ea2.png\" fileid=\"446290\" />",
+    "new": "<img alt=\"Beta-oxidation of stearic acid shown as a grid of colored panels: the activation step to stearoyl-CoA at the top (yellow), then eight successive cycles, each panel showing the four reactions (dehydrogenation, hydration, dehydrogenation, thiolysis) that remove one acetyl-CoA, until the final cycle leaves two acetyl-CoA; labeled 'beta-Oxidation of stearic acid'.\" class=\"internal\" src=\"/@api/deki/files/{{box}}/fig-p597209-beta-oxidation.png\" fileid=\"{{box}}\" />",
+    "count": 1,
+    "note": "15.4 Fig 15.4.1 acyl-CoA dehydrogenase, trans-enoyl-CoA, palmitoyl-CoA, FADH2"
+   }
+  ],
+  "597213": [
+   {
+    "old": "<img alt=\"Ketone body formation: two molecules of acetyl-CoA combine to acetoacetyl-CoA (releasing CoASH); a third acetyl-CoA adds to give beta-hydroxy-beta-methylglutaryl-CoA, which loses acetyl-CoA to give acetoacetate; acetoacetate is reduced by NADH to beta-hydroxybutyrate or loses CO2 to give acetone; the three ketone bodies are bracketed at the bottom.\" height=\"611\" width=\"611\" class=\"internal\" src=\"/@api/deki/files/26819/ketone_bodies.png\" fileid=\"26819\" />",
+    "new": "<img alt=\"Ketone body formation: two molecules of acetyl-CoA combine to acetoacetyl-CoA (releasing CoASH); a third acetyl-CoA adds to give beta-hydroxy-beta-methylglutaryl-CoA, which loses acetyl-CoA to give acetoacetate; acetoacetate is reduced by NADH to beta-hydroxybutyrate or loses CO2 to give acetone; the three ketone bodies are bracketed at the bottom.\" height=\"611\" width=\"611\" class=\"internal\" src=\"/@api/deki/files/{{ket}}/fig-p597213-ketone-bodies.png\" fileid=\"{{ket}}\" />",
+    "count": 1,
+    "note": "15.5 HSCoA"
+   }
+  ],
+  "597210": [
+   {
+    "old": "Double-headed arrows are two-way connections; the single arrow from pyruvate to acetyl CoA is the one-way street that keeps fat from becoming glucose.",
+    "new": "Double-headed arrows are two-way connections. Single arrows are one-way: pyruvate to acetyl CoA (the step that keeps fat from becoming glucose) and pyruvate to oxaloacetate (pyruvate carboxylase).",
+    "count": 1,
+    "note": "15.10.1 caption"
+   }
+  ],
+  "597167": [
+   {
+    "old": "figures/Slide26.png\"",
+    "new": "figures/Slide26.png?v=20261112\"",
+    "count": 1,
+    "note": "11.2 Slide26 cache-bust (stray arrows removed)"
+   }
+  ]
+ }
+}
