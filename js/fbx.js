@@ -19,7 +19,7 @@ function molSVG(m,sc){if(m.skel)return skelSVG(m,sc);const A=m.a.map(a=>({el:a[0
   if(a.ch){const cr=Math.abs(a.ch)>1?30:21;o+=`<text x="${(a.x+Math.cos(a.chA)*cr).toFixed(1)}" y="${(a.y+Math.sin(a.chA)*cr+5).toFixed(1)}" text-anchor="middle" font-size="14" font-weight="900" fill="${S}" font-family="Inter,Helvetica,Arial,sans-serif">${a.ch>0?(a.ch>1?a.ch:'')+'+':(a.ch<-1?-a.ch:'')+'−'}</text>`;}
   if(a.lab)o+=`<circle cx="${(a.x-15).toFixed(1)}" cy="${(a.y+17).toFixed(1)}" r="8.5" fill="#fff1d6" stroke="#e8973a" stroke-width="1.5"/><text x="${(a.x-15).toFixed(1)}" y="${(a.y+21).toFixed(1)}" text-anchor="middle" font-size="11.5" font-weight="900" fill="#b4691c" font-family="Inter,Helvetica,Arial,sans-serif">${a.lab}</text>`});
  if(m.br){const yb=miny+8,yt=miny+H-8,xl=minx+8,xr=minx+W-24;o+=`<path d="M${xl+7} ${yb}H${xl}V${yt}H${xl+7}M${xr-7} ${yb}H${xr}V${yt}H${xr-7}" fill="none" stroke="${S}" stroke-width="2"/><text x="${xr+3}" y="${miny+20}" font-size="15" font-weight="900" fill="${S}" font-family="Inter,Helvetica,Arial,sans-serif">${esc(m.br)}</text>`}
- return `<svg viewBox="${minx.toFixed(1)} ${miny.toFixed(1)} ${W.toFixed(1)} ${H.toFixed(1)}" width="${W.toFixed(0)}" height="${H.toFixed(0)}" style="max-width:100%;height:auto" role="img" aria-label="Lewis structure">${o}</svg>`}
+ return `<svg viewBox="${minx.toFixed(1)} ${miny.toFixed(1)} ${W.toFixed(1)} ${H.toFixed(1)}" width="${W.toFixed(0)}" height="${H.toFixed(0)}" style="max-width:100%;height:auto" role="img" aria-label="${esc(molDesc(m))}">${o}</svg>`}
 
 function skelSVG(m,sc){const U=(sc||1)*30,A=m.a.map(a=>({t:a[0],x:a[1]*U,y:a[2]*U,ch:a[4]||0,lab:a[5]||''})),S='#2d3f4b';
  const xs=A.map(a=>a.x),ys=A.map(a=>a.y),pad=22+(A.some(a=>a.t!=='C'&&a.t.replace(/\d/g,'').length>1)?16:0),minx=Math.min(...xs)-pad,miny=Math.min(...ys)-pad,W=Math.max(...xs)-minx+pad,H=Math.max(...ys)-miny+pad;let o='';
@@ -56,7 +56,7 @@ function skelSVG(m,sc){const U=(sc||1)*30,A=m.a.map(a=>({t:a[0],x:a[1]*U,y:a[2]*
   if(an.length>1)cands=cands.sort((p,q)=>q[0]-p[0]).map(c=>c[1]);let dir=cands[0];for(const c of cands){const px=a.x+Math.cos(c)*r,py=a.y+Math.sin(c)*r;if(!rings.some(R=>inPoly(px,py,R))){dir=c;break}}const tx=a.x+Math.cos(dir)*r,ty=a.y+Math.sin(dir)*r;tg.push([tx,ty]);
   o+=`<circle cx="${tx.toFixed(1)}" cy="${ty.toFixed(1)}" r="9" fill="#fff3e0" stroke="#e8973a" stroke-width="1.6"/><text x="${tx.toFixed(1)}" y="${(ty+4.6).toFixed(1)}" text-anchor="middle" font-size="13" font-weight="900" font-style="italic" fill="#b4640f" font-family="${'Inter,Helvetica,Arial,sans-serif'}">${a.lab}</text>`});
  let x0=minx,y0=miny,x1=minx+W,y1=miny+H;tg.concat(cg).forEach(([x,y])=>{x0=Math.min(x0,x-12);y0=Math.min(y0,y-12);x1=Math.max(x1,x+12);y1=Math.max(y1,y+12)});const vb=[x0,y0,x1-x0,y1-y0];
- return `<svg viewBox="${vb.map(v=>v.toFixed(1)).join(' ')}" width="${vb[2].toFixed(0)}" height="${vb[3].toFixed(0)}" style="max-width:100%;height:auto" role="img" aria-label="skeletal structure">${o}</svg>`}
+ return `<svg viewBox="${vb.map(v=>v.toFixed(1)).join(' ')}" width="${vb[2].toFixed(0)}" height="${vb[3].toFixed(0)}" style="max-width:100%;height:auto" role="img" aria-label="${esc(molDesc(m))}">${o}</svg>`}
 const rxLab=t=>esc(t).replace(/&lt;(\/?)(sub|sup)&gt;/g,'<$1$2>');
 function structBlock(sp){if(!sp)return '';return `<span class="fbx-mols">${sp.map(p=>typeof p==='string'?`<span class="fbx-mop">${esc(p)}</span>`:p.arrow!=null?`<span class="fbx-mrx"><span class="fbx-mrxt">${rxLab(p.arrow)}</span><span class="fbx-mrxa"></span>${p.below?`<span class="fbx-mrxt">${rxLab(p.below)}</span>`:''}</span>`:`<span class="fbx-mol">${molSVG(p)}${p.cap?`<b class="fbx-mcap">${esc(p.cap)}</b>`:''}</span>`).join('')}</span>`}
 /* ---------- figures (field q.f = [fig, ...]) ---------- */
@@ -297,13 +297,95 @@ function fEnzyme(f){const P=f.panels||[{kind:f.kind,cap:f.cap}],W=150,H=148;cons
 const FIG={cycle:fCycle,path:fPath,table:fTable,eq:fEq,plot:fPlot,mo:fMO,modiag:fMODiag,particles:fParticles,cylinder:fScale,buret:fScale,ruler:fScale,balance:fScale,targets:fTargets,fischer:fFischer,haworth:fHaworth,orbitals:fOrbitals,ptgrid:fPtGrid,cell:fCell,spectrum:fSpectrum,enzyme:fEnzyme};
 function figBlock(fs){if(!fs)return '';return `<span class="fbx-figs">${fs.map(f=>{try{return `<span class="fbx-fig">${FIG[f.type](f)}</span>`}catch(e){return ''}}).join('')}</span>`}
 const qHTML=q=>q.q+structBlock(q.s)+figBlock(q.f);
-/* spoken description of a drawn molecule, so structure-only answer choices can be told apart by screen-reader users */
-function molDesc(m){if(!m||!m.a)return 'structure';const lab=a=>String(a[0]),nC=m.a.filter(a=>lab(a)==='C').length,other={},bo={2:0,3:0};
- m.a.forEach(a=>{const l=lab(a);if(l!=='C'&&l!=='H')other[l]=(other[l]||0)+1});(m.b||[]).forEach(b=>{if(b[2]===2||b[2]===3)bo[b[2]]++});
- const parts=[(m.skel?'skeletal':'Lewis')+' structure'];if(nC)parts.push(nC+' carbon'+(nC>1?'s':''));
- Object.keys(other).forEach(l=>parts.push((other[l]>1?other[l]+' ':'')+l));if(bo[2])parts.push(bo[2]+' double bond'+(bo[2]>1?'s':''));if(bo[3])parts.push(bo[3]+' triple bond'+(bo[3]>1?'s':''));
+/* spoken description of a drawn molecule, so structure-only answer choices can be told apart by screen-reader users.
+   It says where things are (which kind of carbon carries each atom, what a bridging atom joins, where multiple bonds and
+   ring substituents sit) without naming the functional group, so it gives the listener what the drawing gives the eye. */
+function molDesc(m){if(!m||!m.a)return 'structure';
+ const A=m.a.map(a=>({l:String(a[0]),x:+a[1]||0,y:+a[2]||0,lp:a[3]||0,ch:a[4]||0})),N=A.length,adj=A.map(()=>[]),RB=(m.b||[]).filter(b=>A[b[0]]&&A[b[1]]),B=RB.filter(b=>b[2]!==0).map(b=>[b[0],b[1],b[2]===4||b[2]===5?1:b[2]]); /* 0 = dotted (hydrogen-bond) line, 4 = solid wedge, 5 = dashed wedge */
+ B.forEach(b=>{adj[b[0]].push([b[1],b[2]||1]);adj[b[1]].push([b[0],b[2]||1])});
+ const isC=i=>A[i].l==='C',isH=i=>A[i].l==='H',plural=(n,w)=>n+' '+w+(n===1?'':'s'),nC=A.filter((a,i)=>isC(i)).length;
+ /* shortest path i -> j that does not use the bond i-j: tells us whether that bond is in a ring, and the ring */
+ const pathAvoid=(i,j)=>{const prev=new Array(N).fill(-2),q=[i];prev[i]=-1;while(q.length){const u=q.shift();if(u===j)break;
+   for(const [v] of adj[u]){if((u===i&&v===j)||prev[v]!==-2)continue;prev[v]=u;q.push(v)}}
+  if(prev[j]===-2)return null;const p=[];for(let u=j;u!==-1;u=prev[u])p.push(u);return p};
+ const rings={},inRing=new Array(N).fill(false),ringBond={};
+ B.forEach(b=>{const p=pathAvoid(b[0],b[1]);if(p){ringBond[Math.min(b[0],b[1])+'-'+Math.max(b[0],b[1])]=1;rings[p.slice().sort((x,y)=>x-y).join(',')]=p}});
+ let comp=0;{const seen=new Array(N).fill(false);for(let s=0;s<N;s++){if(seen[s])continue;comp++;const q=[s];seen[s]=true;while(q.length){const u=q.shift();for(const [v] of adj[u])if(!seen[v]){seen[v]=true;q.push(v)}}}}
+ const nRings=Math.max(0,B.length-N+comp),R=Object.values(rings).sort((a,b)=>a.length-b.length).slice(0,nRings);
+ R.forEach(r=>r.forEach(i=>inRing[i]=true));
+ const order=(i,j)=>{const e=adj[i].find(e=>e[0]===j);return e?e[1]:0};
+ const aromatic=r=>r.length===6&&r.every(isC)&&r.filter((a,k)=>order(a,r[(k+1)%6])===2).length===3;
+ const inArom=new Array(N).fill(false);R.forEach(r=>{if(aromatic(r))r.forEach(i=>inArom[i]=true)});
+ const cdeg=i=>adj[i].filter(e=>isC(e[0])).length;
+ /* carbons reachable from `from` without passing through `block` (size of the group on that side) */
+ const side=(from,block)=>{const seen=new Set([block,from]),q=[from];let c=isC(from)?1:0;while(q.length){const u=q.shift();for(const [v] of adj[u])if(!seen.has(v)){seen.add(v);if(isC(v))c++;q.push(v)}}return c};
+ const env=c=>{if(inArom[c])return 'a benzene-ring carbon';if(inRing[c])return 'a ring carbon';const d=cdeg(c);
+  if(d===0)return 'a carbon with no carbon neighbors';if(d===1)return 'an end carbon';
+  const s=adj[c].filter(e=>isC(e[0])).map(e=>side(e[0],c)).sort((a,b)=>a-b);
+  return (d===2?'a chain carbon':'a branch carbon')+' ('+s.join(' and ')+' carbons on its sides)'};
+ const chg=a=>a.ch>0?' with a + charge':a.ch<0?' with a − charge':'';
+ const hasCO=c=>adj[c].some(e=>e[1]===2&&!isC(e[0])&&!isH(e[0]));
+ const parts=[(m.skel?'skeletal':'Lewis')+' structure'];if(nC)parts.push(plural(nC,'carbon'));
+ const ph=[];
+ R.forEach(r=>{const het=r.filter(i=>!isC(i)).map(i=>A[i].l);ph.push(aromatic(r)?'benzene ring':r.length+'-membered ring'+(het.length?' containing '+het.join(' and '):''))});
+ /* longest carbon chain, for open-chain molecules: tells branched isomers apart */
+ if(!nRings&&nC>=4){let best=0;const walk=(u,seen,len)=>{if(len>best)best=len;for(const [v] of adj[u])if(isC(v)&&!seen.has(v)){seen.add(v);walk(v,seen,len+1);seen.delete(v)}};
+  A.forEach((a,i)=>{if(isC(i)&&cdeg(i)<=1)walk(i,new Set([i]),1)});if(best&&best<nC)ph.push('longest carbon chain '+best)}
+ /* atoms other than C and H */
+ A.forEach((a,i)=>{if(isC(i)||isH(i))return;const nb=adj[i].filter(e=>!isH(e[0])),cn=nb.filter(e=>isC(e[0])),name=a.l+chg(a);
+  if(!nb.length){const h=adj[i].filter(e=>isH(e[0])).length;ph.push(h?'separate molecule: '+name+' with '+h+' H':'separate '+name);return}
+  if(inRing[i]){if(cn.length>2||nb.length>2)ph.push(name+' in the ring, also bonded to '+(nb.length-2)+' other atom'+(nb.length-2===1?'':'s'));return}
+  if(cn.length===1&&nb.length===1){ph.push(name+(cn[0][1]===2?' double-bonded to ':cn[0][1]===3?' triple-bonded to ':' on ')+env(cn[0][0]));return}
+  if(cn.length>=2&&cn.length===nb.length){const g=cn.map(e=>{const c=e[0];return inArom[c]?'a benzene ring':inRing[c]?'a ring':side(c,i)+'-carbon group'+(hasCO(c)?' that starts with a C=O':'')}).sort();
+   ph.push(name+' joining '+g.join(' and '));return}
+  ph.push(name+' bonded to '+nb.map(e=>isC(e[0])?env(e[0]):A[e[0]].l).sort().join(' and '))});
+ /* carbon-carbon multiple bonds (not the benzene ring) */
+ B.forEach(b=>{const [i,j,o]=b;if(!(o===2||o===3)||!isC(i)||!isC(j)||(inArom[i]&&inArom[j]))return;const w=o===2?'double':'triple';
+  if(ringBond[Math.min(i,j)+'-'+Math.max(i,j)]){ph.push('carbon–carbon '+w+' bond in the ring');return}
+  const s=[side(i,j),side(j,i)].sort((a,b)=>a-b);let t='carbon–carbon '+w+' bond with '+s[0]+' and '+s[1]+' carbons on its two sides';
+  if(o===2){const si=adj[i].filter(e=>e[0]!==j&&!isH(e[0])),sj=adj[j].filter(e=>e[0]!==i&&!isH(e[0]));
+   if(si.length===1&&sj.length===1){const cr=k=>(A[j].x-A[i].x)*(A[k].y-A[i].y)-(A[j].y-A[i].y)*(A[k].x-A[i].x),p=cr(si[0][0])*cr(sj[0][0]);
+    if(Math.abs(p)>1e-6)t+=p>0?', groups on the same side':', groups on opposite sides'}}
+  ph.push(t)});
+ /* where the substituents sit on each ring */
+ R.forEach(r=>{const sub=r.map((a,k)=>adj[a].some(e=>!isH(e[0])&&!r.includes(e[0]))?k:-1).filter(k=>k>=0);
+  if(sub.length===2){const d=Math.min(Math.abs(sub[0]-sub[1]),r.length-Math.abs(sub[0]-sub[1]));
+   ph.push('two ring substituents '+(d===1?'on neighboring ring atoms':d===2?'one ring atom apart':r.length===6&&d===3?'on opposite ring atoms':d-1+' ring atoms apart'))}
+  else if(sub.length>2){const gaps=sub.map((k,x)=>((sub[(x+1)%sub.length]-k+r.length)%r.length)||r.length).sort((a,b)=>a-b);ph.push(sub.length+' ring substituents, spaced '+gaps.join('-')+' around the ring')}});
+ /* wedges, and dotted lines drawn between molecules */
+ const end=i=>isH(i)?'an H on '+(adj[i][0]?A[adj[i][0][0]].l:'nothing'):A[i].l+(adj[i].some(e=>e[1]===2)?' of a C=O':(h=>h?' that has '+h+' H':'')(adj[i].filter(e=>isH(e[0])).length));
+ const dir=(i,j)=>{const dx=A[j].x-A[i].x,dy=A[j].y-A[i].y,v=Math.abs(dy)>0.3?(dy<0?'up':'down'):'',h=Math.abs(dx)>0.3?(dx<0?'left':'right'):'';return v&&h?v+' and '+h:v||h||'out'};
+ RB.forEach(b=>{if(b[2]===4||b[2]===5)ph.push((isC(b[1])?'a carbon group':A[b[1]].l)+' on a '+(b[2]===4?'solid wedge':'dashed wedge')+' bond pointing '+dir(b[0],b[1]));
+  if(b[2]===0)ph.push('dotted line between '+end(b[0])+' and '+end(b[1]))});
+ /* Lewis drawings: lone pairs and bond counts are what the question is about */
+ if(!m.skel){A.forEach((a,i)=>{if(isH(i))return;const bo=adj[i].reduce((s,e)=>s+e[1],0);ph.push(a.l+' with '+plural(bo,'bond')+' and '+plural(a.lp,'lone pair'))});
+  const nH=A.filter((a,i)=>isH(i)).length;if(nH)ph.push(plural(nH,'H atom'))}
+ /* a C carrying a charge */
+ A.forEach((a,i)=>{if(isC(i)&&a.ch)ph.push('carbon'+chg(a))});
+ const cnt={};ph.forEach(p=>cnt[p]=(cnt[p]||0)+1);
+ Object.keys(cnt).forEach(p=>parts.push(cnt[p]>1?cnt[p]+' × '+p:p));
  return parts.join(', ')}
-const optLabel=(q,k,L)=>String(q.c[k]).startsWith('§')?`Choice ${L}: ${molDesc(q.cs&&q.cs[k])}`:'';
+/* condensed-formula style walk of the drawing (CH3-CH(OH)-CH3). Used only to tell apart two choices whose
+   descriptions above come out the same, e.g. propyl and isopropyl groups on a ring. */
+function molWalk(m){if(!m||!m.a)return '';
+ const A=m.a.map(a=>({l:String(a[0]),ch:a[4]||0})),N=A.length,adj=A.map(()=>[]);(m.b||[]).forEach(b=>{if(A[b[0]]&&A[b[1]]&&b[2]!==0){const o=b[2]===4||b[2]===5?1:b[2]||1;adj[b[0]].push([b[1],o]);adj[b[1]].push([b[0],o])}});
+ const isH=i=>A[i].l==='H',heavy=i=>adj[i].filter(e=>!isH(e[0]));
+ const tok=i=>{const a=A[i];let t=a.l;if(t==='C'){const h=m.skel?Math.max(0,4-adj[i].reduce((s,e)=>s+e[1],0)-Math.abs(a.ch)):adj[i].filter(e=>isH(e[0])).length;t='C'+(h?'H'+(h>1?h:''):'')}
+  return t+(a.ch>0?'+':a.ch<0?'\u2212':'')};
+ const sym=o=>o===2?'=':o===3?'\u2261':'';
+ const walk=(u,p,seen)=>{seen.add(u);const kids=[];for(const [v,o] of heavy(u)){if(v===p)continue;if(seen.has(v)){kids.push([sym(o)+'ring',0]);continue}kids.push([sym(o)+walk(v,u,seen),1])}
+  kids.sort((a,b)=>a[0].length-b[0].length||(a[0]<b[0]?-1:1));const main=kids.length&&kids[kids.length-1][1]?kids.pop():null;
+  return tok(u)+kids.map(k=>'('+k[0]+')').join('')+(main?(/^[=\u2261]/.test(main[0])?'':'-')+main[0]:'')};
+ const starts=A.map((a,i)=>i).filter(i=>!isH(i)&&heavy(i).length<=1);if(!starts.length)starts.push(A.findIndex((a,i)=>!isH(i)));
+ const out=[];const all=new Set();
+ let best=null;starts.forEach(s=>{const seen=new Set(),w=walk(s,-1,seen);if(best===null||w.length<best[0].length||(w.length===best[0].length&&w<best[0]))best=[w,seen]});
+ if(best){out.push(best[0]);best[1].forEach(i=>all.add(i))}
+ A.forEach((a,i)=>{if(!isH(i)&&!all.has(i)){const seen=new Set();out.push(walk(i,-1,seen));seen.forEach(j=>all.add(j))}});
+ return out.join(' and ')}
+/* labels for all structure choices of one question; duplicates get the walk appended */
+function optLabels(q){const d=q.c.map((c,k)=>String(c).startsWith('\u00a7')?molDesc(q.cs&&q.cs[k]):null),n={};d.forEach(x=>{if(x!==null)n[x]=(n[x]||0)+1});
+ return d.map((x,k)=>x!==null&&n[x]>1?x+'; drawn as '+molWalk(q.cs[k]):x)}
+const optLabel=(q,k,L)=>{if(!String(q.c[k]).startsWith('§'))return '';const d=q.__lab||(q.__lab=optLabels(q));return `Choice ${L}: ${d[k]}`};
 const optHTML=(q,k)=>(String(q.c[k]).startsWith('§')?'':q.c[k])+(q.cs&&q.cs[k]?`<span class="fbx-optmol">${molSVG(q.cs[k],0.8)}</span>`:'');
 /* ---------- FBX practice UI (hand-written; the drawing code above is extracted from Final Boss) ---------- */
 const FBX_DIFF=['','● Easy','●● Medium','●●● Hard'];
@@ -389,6 +471,6 @@ function fbxMount(root,items,opts){
   reset(){P=blank();save();buildSel();S.q=null;show(pick())},
   destroy(){root.removeEventListener('click',onClick);root.innerHTML='';root.classList.remove('fbx');delete root.__fbx}};
  root.__fbx=api;return api}
-window.FBX={version:FBX_VERSION,mount:fbxMount,qHTML,optHTML,optLabel,molDesc,molSVG,figBlock,structBlock};
+window.FBX={version:FBX_VERSION,mount:fbxMount,qHTML,optHTML,optLabel,optLabels,molDesc,molWalk,molSVG,figBlock,structBlock};
 
 })();
