@@ -1,0 +1,13 @@
+{
+ "uploads": [],
+ "edits": {
+  "597204": [
+   {
+    "old": "<img width=\"760\" class=\"internal\" alt=\"Bookkeeping flow for one glucose. Glycolysis in the cytosol gives 2 pyruvate, 2 ATP and 2 NADH. The two cytosolic NADH enter the mitochondrion through the malate&ndash;aspartate shuttle (worth 5 ATP) or the glycerol-3-phosphate shuttle (worth 3 ATP). Pyruvate dehydrogenase gives 2 acetyl-CoA and 2 NADH. Two turns of the citric acid cycle give 6 NADH, 2 FADH2 and 2 GTP. All NADH and FADH2 go to the electron transport chain, which makes 2.5 ATP per NADH and 1.5 ATP per FADH2. The total is 32 ATP with the malate&ndash;aspartate shuttle or 30 with the glycerol-3-phosphate shuttle.\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512775/fig-p597204-yield-flow.svg\" fileid=\"512775\" />",
+    "new": "<style type=\"text/css\">/*<![CDATA[*/.fig-scroll-hint { display: none !important; } @media screen and (max-width: 600px) { .fig-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%; max-width: 100%; min-width: 0; } .fig-scroll img { max-width: none !important; } .fig-scroll img.fig-w860 { width: 860px !important; } .fig-scroll-hint { display: block !important; font-size: 0.8em; color: #5a6478; margin: 0 0 4px; } }/*]]>*/</style><p class=\"fig-scroll-hint\">Swipe sideways to see the whole figure.</p><div class=\"fig-scroll\"><img width=\"760\" class=\"internal fig-w860\" alt=\"Bookkeeping flow for one glucose. Glycolysis in the cytosol gives 2 pyruvate, 2 ATP and 2 NADH. The two cytosolic NADH enter the mitochondrion through the malate&ndash;aspartate shuttle (worth 5 ATP) or the glycerol-3-phosphate shuttle (worth 3 ATP). Pyruvate dehydrogenase gives 2 acetyl-CoA and 2 NADH. Two turns of the citric acid cycle give 6 NADH, 2 FADH2 and 2 GTP. All NADH and FADH2 go to the electron transport chain, which makes 2.5 ATP per NADH and 1.5 ATP per FADH2. The total is 32 ATP with the malate&ndash;aspartate shuttle or 30 with the glycerol-3-phosphate shuttle.\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512775/fig-p597204-yield-flow.svg\" fileid=\"512775\" /></div>",
+    "count": 1,
+    "note": "14.5 Figure 1: side-scroll at a readable size below 600 px, with a hint; desktop and print unchanged"
+   }
+  ]
+ }
+}
