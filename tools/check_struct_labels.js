@@ -14,7 +14,7 @@ for (const f of fs.readdirSync(path.join(root, 'bank')).filter(f => f.endsWith('
     for (const m of [...(q.cs || []), ...(Array.isArray(q.s) ? q.s : [])]) if (m && m.a) { mols++; const d = FBX.molDesc(m); if (!d || /undefined|NaN/.test(d)) { bad++; console.log('bad label', q.id, d); } }
     if (!q.cs || !q.c.some(c => String(c).startsWith('§'))) continue;
     items++;
-    const d = FBX.optLabels(q).filter(x => x !== null);
+    const d = FBX.optLabels(q).filter(x => x !== null).map(x => x.split('; ').map(p => p.split(', ').sort().join(', ')).join('; ')); // phrase order ignored
     if (new Set(d).size < d.length) { dup++; console.log('duplicate labels', q.id); }
   }
 }
