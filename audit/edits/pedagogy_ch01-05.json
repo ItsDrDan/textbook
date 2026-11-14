@@ -1,0 +1,162 @@
+[
+ {
+  "page_id": "597061",
+  "section": "1.8 Example 4 (b), ethanol",
+  "old": "If the hydrogen bonding is strong enough, ethanol might be a solid at room temperature, but it is difficult to know for certain. (Ethanol is actually a liquid at room temperature.)",
+  "new": "Hydrogen bonds are the strongest of the three intermolecular forces, but ethanol is a small molecule with only one O&ndash;H, so they are enough to keep it a liquid, not a solid, at room temperature. (Check: ethanol boils at 78 &deg;C, well above room temperature, and freezes far below it.)",
+  "reason": "The worked solution models giving up ('difficult to know for certain') exactly where the section's skill (strength of IMF plus size -> state) should be applied; an anxious student learns the question is unanswerable. The replacement reasons to the answer and adds a sanity check with a number already on the page (78.4 C in Example 2).",
+  "severity": "P1"
+ },
+ {
+  "page_id": "597056",
+  "section": "1.3 Example 1 (a), N2",
+  "old": "The total number of electrons is 2 x 5 = 10 electrons. The bond between the two nitrogen atoms is a triple bond.",
+  "new": "The total number of electrons is 2 x 5 = 10 electrons. One N&ndash;N single bond uses 2, and the other 8 go on as lone pairs, but that leaves each N short of an octet. Moving two lone pairs in between the atoms (step 5) gives a triple bond and an octet on each N.",
+  "reason": "First worked example after the five-step procedure states the answer instead of using the steps; the student cannot see where 'triple' comes from. The replacement runs steps 1-5 in two sentences and ends on the octet check.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597059",
+  "section": "1.6 Lecture Connection, Example 1 (acetaminophen)",
+  "old": "Acetaminophen (the active ingredient in Tylenol) is shown below as a line structure. Identify every functional group, then predict whether it can hydrogen bond with water.",
+  "new": "Acetaminophen (the active ingredient in Tylenol) is shown below as a line structure: every corner is a carbon, and the hydrogens on carbon are not drawn (Section 1.7). Identify every functional group, then predict whether it can hydrogen bond with water (Section 1.8).",
+  "reason": "Line structures and 'hidden hydrogens' are first taught in 1.7 and hydrogen-bond donors/acceptors in 1.8; this example in 1.6 uses both with no bridge, and its Check step counts hidden hydrogens. One clause supplies the reading rule and two pointers; length is nearly unchanged.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597058",
+  "section": "1.5 Example 3 (a), PCl3",
+  "old": "The 3 P-Cl bonds don't cancel each other. This is <em>polar.</em>",
+  "new": "Each P-Cl bond is polar, and all three point down and away from the lone pair, so their pulls add up instead of cancelling. This is <em>polar.</em>",
+  "reason": "States the conclusion with no reason; the companion CO2 part explains cancellation, so the asymmetric case should too. Uses the page's own two-question logic (polar bonds? does the shape cancel them?).",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597069",
+  "section": "2.5 IUPAC Nomenclature, Example 1 solution (c)",
+  "old": "both attached to the fourth carbon atom (counting from the <em>left</em> gives this carbon atom a lower number; rule 3). The correct name is thus 4-ethyl-4-methyloctane.",
+  "new": "both attached to the fourth carbon atom (counting from the <em>left</em> gives this carbon atom the lower number, 4 instead of 5; rule 2). Ethyl is written before methyl because substituents go in alphabetical order (rule 3). The correct name is thus 4-ethyl-4-methyloctane.",
+  "reason": "The page's own rule list makes numbering rule 2 and alphabetical order rule 3; the solution credits numbering to rule 3 and never explains the ethyl-before-methyl order, so the first worked name with two different groups skips its one new idea. An anxious student matching the solution against the numbered rules finds they do not line up.",
+  "severity": "P1"
+ },
+ {
+  "page_id": "597072",
+  "section": "2.8 Halogenated Hydrocarbons, Example 2 solution (b)",
+  "old": "groups are attached to the second and fourth carbon atoms, respectively. Listing",
+  "new": "groups are attached to the second and fourth carbon atoms, respectively (numbering from the left gives 2 and 4; from the right it would give 3 and 5, so number from the left). Listing",
+  "reason": "Worked example states the locants without showing the choice of numbering direction, which is the step that decides the name and the one tested in Exercise 2(b) right after it.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597071",
+  "section": "2.7 Chemical Properties, Lecture Connection Example 1: Combustion",
+  "old": "<p>Balance C first, then H, then O last:</p>",
+  "new": "<p>Balance C first, then H, then O last: 3 C needs 3 CO<sub>2</sub>; 8 H needs 4 H<sub>2</sub>O; the products then hold 6 + 4 = 10 O, so 5 O<sub>2</sub>.</p>",
+  "reason": "The first combustion example names the method and then jumps to the finished equation. Showing where each coefficient comes from makes it a real bridge to Example 3 (butane, the odd-oxygen case) instead of an answer-only example.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597067",
+  "section": "2.3 Branched-Chain Alkanes, Lecture Connection (after Figure 2.3.3 tip)",
+  "old": "or only in a locant number (positional)",
+  "new": "or only in a locant, the number that tells where a group is attached (positional)",
+  "reason": "\"Locant\" is used here, in the 2.8 halothane answer, and in 2.9 Example 1 and its figure caption, but is never defined in Chapter 1 or 2 (2.5 itself never uses the word). This is its first appearance, two sections before naming is taught.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597081",
+  "section": "3.4 Example 1, Solution",
+  "old": "<p>In each reaction, the reagent adds across the double bond.</p>",
+  "new": "<p>In each reaction the C=C opens to a C&ndash;C single bond, and one piece of the reagent bonds to each of the two former double-bond carbons. 2-Butene is symmetrical, so in (c) it does not matter which carbon gets the OH. Check each product: no C=C is left, and it holds every atom of both reactants.</p>",
+  "reason": "The first worked example on reactions only states the answers. The new text says what happens, heads off the 'which carbon gets the OH' worry before Markovnikov is taught, and adds a sanity check.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597084",
+  "section": "3.7 Lecture Connection, Why benzene is its own functional group",
+  "old": "the real molecule is a hybrid of the two resonance drawings.",
+  "new": "the real molecule is a blend of the two drawings in the figure below (chemists call them resonance structures), not a molecule that flips back and forth between them.",
+  "reason": "'Resonance' appears nowhere in Chapters 1 or 2 and is used here undefined. The new wording defines it in passing and blocks the common 'it flips' misconception.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597086",
+  "section": "3.9 Chapter Guide, Worked Example 2 (Markovnikov addition of HBr)",
+  "old": "<strong>2-bromopropane</strong> (not 1-bromopropane).",
+  "new": "<strong>2-bromopropane</strong> (not 1-bromopropane). Check: the new H went to the carbon that started with more H's, and C<sub>3</sub>H<sub>6</sub> + HBr adds up to the product, C<sub>3</sub>H<sub>7</sub>Br. &#10003;",
+  "reason": "Chapter Guide examples are supposed to run Problem, Solution, Check; this one stops at the answer. Adds the two checks students can repeat on an exam.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597079",
+  "section": "3.2 Clinical Connection: Nursing",
+  "old": "An oil is a triacylglycerol whose fatty-acid chains contain several <em>cis</em> C=C bonds;",
+  "new": "An oil molecule (a triacylglycerol, Chapter 9) has three long hydrocarbon chains called fatty acids, and those chains contain several <em>cis</em> C=C bonds;",
+  "reason": "'Triacylglycerol' is first used here and is not defined until Chapter 9; the sentence assumes lipid structure the reader does not have.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597100",
+  "section": "4.11 Chapter Guide, Common Mistakes to Avoid",
+  "old": "Choosing the Zaitsev product by counting which neighbor has more hydrogens. Count the alkyl groups on the <em>product's</em> double bond instead; the more substituted alkene wins.",
+  "new": "Taking the H from the neighbor with <em>more</em> hydrogens when you apply Zaitsev's rule. The H comes off the neighbor with fewer hydrogens; check by counting the alkyl groups on the <em>product's</em> double bond: the more substituted alkene wins.",
+  "reason": "Section 4.5 teaches Zaitsev as 'remove the H from the neighboring carbon that has the fewest hydrogens' and both of its Check lines repeat it. The guide line reads as 'do not count neighbor hydrogens at all', so a student reviewing for the exam meets two pages that seem to disagree on method. The rewrite names the actual mistake and keeps both methods consistent.",
+  "severity": "P1"
+ },
+ {
+  "page_id": "597091",
+  "section": "4.2 Nomenclature of Alcohols, rule 2",
+  "old": "The number that indicates the position of the OH group is prefixed to the name of the parent hydrocarbon,",
+  "new": "The number that indicates the position of the OH group is written in front of the parent name (2-butanol) or just before the suffix (butan-2-ol; both styles are accepted in this course),",
+  "reason": "The rule describes only the 2-butanol style, but Figure 4.2.1, introduced in the next sentence as an example of 'these rules', labels every structure in the butan-2-ol style, and Example 1 then switches back. An anxious student sees the figure break the rule just stated. One clause bridges it and restates the course convention (2.3/3.1).",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597094",
+  "section": "4.5 Lecture Connection, opening sentence",
+  "old": "Alcohols do three things in this course: they burn (combustion), they lose water (dehydration) and they lose hydrogen (oxidation).",
+  "new": "Alcohols do three things in this chapter: they burn (combustion), they lose water (dehydration) and they lose hydrogen (oxidation). The esterification branch of Figure 4.5.1 waits until Chapter 6.",
+  "reason": "The section text on the same page says the three major alcohol reactions are oxidation, dehydration and esterification (and Figure 4.5.1 draws those three). The Lecture Connection then gives a different list of three 'in this course', which is also untrue once Chapter 6 is reached. The fix reconciles the two lists in one short sentence.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597098",
+  "section": "4.9 Valley Connection: Garlic, Onions and the Smell of Sulfur",
+  "old": "Your nose picks up thiols at extremely low concentrations. That is exactly why a thiol is the warning odor added to natural gas and propane (above): the &ldquo;gas smell&rdquo; and the garlic smell are both the &ndash;SH group at work.",
+  "new": "Small sulfur compounds reach your nose easily because an S&ndash;H cannot hydrogen bond, so they evaporate readily (ethanethiol boils at 35 &deg;C, ethanol at 78 &deg;C), and your nose detects them at extremely low concentrations. That is why a thiol is the warning odor added to natural gas and propane (above).",
+  "reason": "As written the 'connection' is a fact about noses, not chemistry; a student can agree with it without using anything from the section. The rewrite ties the Valley example to the IMF argument the page makes a few lines later (weak forces, high volatility). It also drops 'the garlic smell [is] the -SH group at work', which overstates: the box itself says the volatile garlic compounds only 'include' small thiols.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597105",
+  "section": "5.4 Lecture Connection Summary (Tollens'/Benedict's bullet)",
+  "old": "tests detect aldehydes; ketones give no reaction.",
+  "new": "tests detect aldehydes; simple ketones give no reaction (an &alpha;-hydroxy ketone such as fructose is the exception; see the table above).",
+  "reason": "The comparison table on the same page marks alpha-hydroxy ketones Positive for both tests, and the 5.6 Chapter Summary says Benedict's responds to aldehydes and alpha-hydroxy ketones. The Summary bullet, the last thing a student rereads, says flatly that ketones give no reaction, so the page contradicts itself and Chapter 8 (fructose is a reducing sugar).",
+  "severity": "P1"
+ },
+ {
+  "page_id": "597104",
+  "section": "5.3 opening, second paragraph",
+  "old": "Unlike an ester or an amide, an aldehyde or ketone has no group on the carbonyl carbon that can be swapped off, so instead other molecules add across the C=O, usually with an acid catalyst.",
+  "new": "The carbonyl carbon of an aldehyde or ketone holds only H or carbon groups, and none of them can be swapped off, so other molecules add across the C=O instead, usually with an acid catalyst.",
+  "reason": "Esters (Chapter 6) and amides (Chapter 7) have not been taught; the comparison explains a new idea by an unknown one. The rewrite gives the same reason using only the aldehyde/ketone structures from 5.1.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597106",
+  "section": "5.5 Chirality box (inherited definition)",
+  "old": "An object or molecule that cannot be superimposed on its mirror image by any translational, rotational, or conformational changes is a <strong>chiral</strong> object.",
+  "new": "An object or molecule that cannot be laid exactly on top of (superimposed on) its mirror image, no matter how you turn it, is a <strong>chiral</strong> object.",
+  "reason": "Densest sentence on the page, at the definition every later skill depends on. 'Translational' and 'conformational changes' are never used again; the Lecture Connection teaches the same test as 'rotate it and see if it lines up'. The rewrite glosses 'superimposed' once and matches that test.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597103",
+  "section": "5.2 Molecule in the Clinic: Glutaraldehyde, first Your turn",
+  "old": "Give the IUPAC name of glutaraldehyde.",
+  "new": "The IUPAC name of glutaraldehyde is pentanedial. What does each part of the name tell you about the structure?",
+  "reason": "Section 5.1 teaches -al for one CHO only; the '-dial' ending for two aldehyde groups is taught nowhere in Chapters 1-5, so the question tests a rule the student has never seen and the anxious student simply fails it. Reversing the question (decode the name) uses 5.1 skills and the existing answer still fits word for word.",
+  "severity": "P2"
+ }
+]

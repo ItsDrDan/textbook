@@ -1,0 +1,205 @@
+[
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> rancidez oxidativa, rancidez hidrol&iacute;tica</span>",
+  "new": "Espa&ntilde;ol:</em> rancidez, rancidez oxidativa, rancidez hidrol&iacute;tica</span>",
+  "reason": "Headword lists three terms (rancidity, oxidative, hydrolytic); Spanish omitted the bare term.",
+  "confidence": "high"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> ARN ribos&oacute;mico, ARNr</span>",
+  "new": "Espa&ntilde;ol:</em> ARN ribosomal (ribos&oacute;mico), ARNr</span>",
+  "reason": "Latin American textbooks mostly use \"ARN ribosomal\"; \"ribos\u00f3mico\" is the RAE/Spain-preferred form. Give both.",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> tetra&eacute;drico</span>",
+  "new": "Espa&ntilde;ol:</em> tetra&eacute;drica</span>",
+  "reason": "Gender consistency with the sister entry \"trigonal plana\" (both agree with geometr\u00eda/forma).",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> l&aacute;mina &beta; plegada (beta)</span>",
+  "new": "Espa&ntilde;ol:</em> l&aacute;mina &beta; (beta) plegada, hoja &beta; plegada</span>",
+  "reason": "Gloss \"(beta)\" should follow the letter as in \"h\u00e9lice \u03b1 (alfa)\"; \"hoja plegada\" is the common Latin American textbook variant.",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> par solitario, par no enlazante</span>",
+  "new": "Espa&ntilde;ol:</em> par solitario, par libre, par no enlazante</span>",
+  "reason": "\"Par libre / par no compartido\" is the more common term in Latin American general-chemistry texts; keep \"par solitario\".",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> disulfuro, enlace disulfuro</span>",
+  "new": "Espa&ntilde;ol:</em> disulfuro, enlace disulfuro (puente disulfuro)</span>",
+  "reason": "\"Puente disulfuro\" is the usual biochemistry term for the protein cross-link.",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> anemia de c&eacute;lulas falciformes, drepanocitosis</span>",
+  "new": "Espa&ntilde;ol:</em> enfermedad de c&eacute;lulas falciformes, anemia de c&eacute;lulas falciformes (drepanocitosis)</span>",
+  "reason": "Match the two English headwords in order (disease, anemia); keep the clinical synonym.",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> ion de amonio cuaternario</span>",
+  "new": "Espa&ntilde;ol:</em> ion amonio cuaternario</span>",
+  "reason": "Consistency with \"ion carboxilato\" (apposition, no \"de\"); both forms occur in print.",
+  "confidence": "low"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> reserva de amino&aacute;cidos</span>",
+  "new": "Espa&ntilde;ol:</em> reserva de amino&aacute;cidos (pool de amino&aacute;cidos)</span>",
+  "reason": "Many Spanish-language biochemistry texts keep \"pool\" or say \"fondo com\u00fan de amino\u00e1cidos\"; add the form students will meet.",
+  "confidence": "low"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> &aacute;cido graso omega-3, omega-6</span>",
+  "new": "Espa&ntilde;ol:</em> &aacute;cido graso omega-3, &aacute;cido graso omega-6, n&uacute;mero omega</span>",
+  "reason": "Match the three English headwords.",
+  "confidence": "low"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> modelo de ajuste inducido</span>",
+  "new": "Espa&ntilde;ol:</em> modelo de ajuste inducido, ajuste inducido</span>",
+  "reason": "Match the two English headwords.",
+  "confidence": "low"
+ },
+ {
+  "page_id": 488232,
+  "old": "A long chain of amino acids joined by peptide bonds.<br />",
+  "new": "A chain of amino acids joined by peptide bonds. In this course&rsquo;s size ranges an oligopeptide has 2&ndash;20 amino acids, a polypeptide 21&ndash;40 and a protein more than 40; the word is also used for any one chain of a protein.<br />",
+  "reason": "CONVENTIONS.md / Section 10.4: polypeptide = 21-40 aa, protein > 40. \"A long chain\" contradicts the taught ranges.",
+  "confidence": "high"
+ },
+ {
+  "page_id": 488232,
+  "old": "An alcohol with two &ndash;OH groups, such as ethylene glycol and propylene glycol.<br />",
+  "new": "A diol is an alcohol with two &ndash;OH groups; a glycol is a diol with the two &ndash;OH groups on neighboring carbons, such as ethylene glycol and propylene glycol.<br />",
+  "reason": "Section 4.6 defines a glycol as a diol with OH groups on adjacent carbons; the glossary treats the two words as exact synonyms.",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "needed regularly; most are coenzymes.<br />",
+  "new": "needed regularly; the body turns most of them into coenzymes.<br />",
+  "reason": "Vitamins are the starting materials for coenzymes (11.5 table \"links each water-soluble vitamin to its coenzyme\"); they are not themselves the coenzymes.",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "in which its end product inhibits an enzyme early in the pathway.<br />",
+  "new": "in which its end product inhibits an allosteric enzyme early in the pathway.<br />",
+  "reason": "CONVENTIONS.md: feedback inhibition is taught as allosteric regulation (11.6).",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Amino acids the body cannot make in sufficient amounts and must get from the diet.<br />",
+  "new": "Amino acids the body cannot make in sufficient amounts and must get from the diet; this course counts ten (arginine included).<br />",
+  "reason": "CONVENTIONS.md: ten essential amino acids, arginine counted (10.1, 15.11).",
+  "confidence": "low"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> alcano</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597065\">Section 2.1</a>",
+  "new": "Espa&ntilde;ol:</em> alcano</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597066\">Section 2.2</a>",
+  "reason": "2.1 mentions alkanes once (lab note); 2.2 \"Structures and Names of Alkanes\" teaches the term.",
+  "confidence": "high"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> hidrocarburo</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597065\">Section 2.1</a>",
+  "new": "Espa&ntilde;ol:</em> hidrocarburo</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597059\">Section 1.6</a>",
+  "reason": "2.1 has one passing mention; 1.6 defines hydrocarbons in bold.",
+  "confidence": "high"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> digesti&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597188\">Section 13.1</a>",
+  "new": "Espa&ntilde;ol:</em> digesti&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597191\">Section 13.3</a>",
+  "reason": "13.3 is \"Digestion (Stage I of Catabolism)\"; 13.1 only names the stage.",
+  "confidence": "high"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> ciclo de Cori</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597192\">Section 13.4</a>",
+  "new": "Espa&ntilde;ol:</em> ciclo de Cori</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597197\">Section 13.8</a>",
+  "reason": "13.4 itself says \"the Cori cycle, Section 13.8\"; 13.8 teaches it.",
+  "confidence": "high"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> f&oacute;rmula molecular</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597066\">Section 2.2</a>",
+  "new": "Espa&ntilde;ol:</em> f&oacute;rmula molecular</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597060\">Section 1.7</a>",
+  "reason": "2.2 only uses the phrase as a table heading; 1.7 defines it in bold.",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> f&oacute;rmula estructural condensada</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597066\">Section 2.2</a>",
+  "new": "Espa&ntilde;ol:</em> f&oacute;rmula estructural condensada, f&oacute;rmula semidesarrollada</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597068\">Section 2.4</a>",
+  "reason": "Combined edit. Spanish (medium): add \"formula semidesarrollada\", the Mexican/Latin American school name for a condensed formula. Pointer (high): 2.2 only uses the phrase as a table heading; 2.4 \"Condensed Structural and Line-Angle Formulas\" teaches it (1.7 introduces it).",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> reacci&oacute;n de sustituci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597084\">Section 3.7</a>",
+  "new": "Espa&ntilde;ol:</em> reacci&oacute;n de sustituci&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597071\">Section 2.7</a>",
+  "reason": "2.7 introduces substitution as a reaction type in bold, and the definition\u2019s own example is an alkane; 3.7 is the second use (benzene).",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> matriz mitocondrial</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597200\">Section 14.1</a>",
+  "new": "Espa&ntilde;ol:</em> matriz mitocondrial</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597201\">Section 14.2</a>",
+  "reason": "14.1 has one passing mention; 14.2 describes the mitochondrion\u2019s two compartments.",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> anticod&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597179\">Section 12.6</a>",
+  "new": "Espa&ntilde;ol:</em> anticod&oacute;n</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597183\">Section 12.5</a>",
+  "reason": "12.5 \"Structure and Function of RNA\" teaches the tRNA anticodon (learning objective, 16 uses); 12.6 uses it. 12.6 is defensible.",
+  "confidence": "low"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> ADN, &aacute;cido desoxirribonucleico</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597177\">Section 12.3</a>",
+  "new": "Espa&ntilde;ol:</em> ADN, &aacute;cido desoxirribonucleico</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597176\">Section 12.2</a>",
+  "reason": "The definition describes the double-helix structure, taught in 12.2 \"Nucleic Acid Structure\"; 12.3 is replication.",
+  "confidence": "medium"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> ATP sintasa</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597201\">Section 14.2</a>",
+  "new": "Espa&ntilde;ol:</em> ATP sintasa</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597203\">Section 14.4</a>",
+  "reason": "14.2 names it in the overview; 14.4 teaches it (with the chemiosmotic model, which already points to 14.4).",
+  "confidence": "low"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> coenzima Q, ubiquinona</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597201\">Section 14.2</a>",
+  "new": "Espa&ntilde;ol:</em> coenzima Q, ubiquinona</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597203\">Section 14.4</a>",
+  "reason": "Same: overview mention in 14.2, taught in 14.4 (electron transport chain entry already points to 14.4).",
+  "confidence": "low"
+ },
+ {
+  "page_id": 488232,
+  "old": "Espa&ntilde;ol:</em> citocromo</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597201\">Section 14.2</a>",
+  "new": "Espa&ntilde;ol:</em> citocromo</span></td><td data-th=\"Image\">&nbsp;</td><td data-th=\"Caption\">&nbsp;</td><td data-th=\"Link\"><a href=\"/@go/page/597203\">Section 14.4</a>",
+  "reason": "Same: overview mention in 14.2, taught in 14.4.",
+  "confidence": "low"
+ }
+]

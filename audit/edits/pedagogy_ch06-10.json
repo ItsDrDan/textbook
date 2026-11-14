@@ -1,0 +1,178 @@
+[
+ {
+  "page_id": "597116",
+  "section": "6.8",
+  "old": "The hydrolysis of esters is catalyzed by either an acid or a base.",
+  "new": "The hydrolysis of esters is sped up by either an acid or a base, but the two do different jobs: the acid is a catalyst, and the base is a reactant that is used up.",
+  "reason": "Two paragraphs later the same page says 'the base is a reactant, not simply a catalyst', and the Professor Tip calls treating H+ like NaOH 'the most common error here'. The opening sentence plants that error.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597116",
+  "section": "6.8",
+  "old": "In basic hydrolysis, the molecule of the base splits the ester linkage.",
+  "new": "Find the C=O and cut the single bond between that carbon and the oxygen next to it, the same bond that breaks in acidic hydrolysis. Because the solution is basic, the acid that would form is neutralized at once by the KOH.",
+  "reason": "Inherited Example 2 does not say which bond breaks or why the product is a salt and not the acid. The rewrite uses the page's own Lecture Connection reasoning ('hydrolysis followed by an acid-base reaction') so the two halves of the page teach one method. The next sentences ('The acid portion ... ends up as the salt') follow on unchanged.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597112",
+  "section": "6.4",
+  "old": "Decanoic acid has 10 carbon atoms. It reacts with NaOH to form a salt and water (H<sub>2</sub>O).",
+  "new": "Decanoic acid has 10 carbon atoms, too many for it to dissolve in water, but it still reacts with a base. NaOH removes the H of the COOH group to form a salt, which does dissolve, and water (H<sub>2</sub>O).",
+  "reason": "Worked example states the products only. One clause shows which H is removed and ties the example to the section's main payoff (insoluble acid, soluble salt), which the Lecture Connection and the lab box both rely on.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597115",
+  "section": "6.7",
+  "old": "heated in the presence of a mineral acid catalyst",
+  "new": "heated with a strong acid catalyst (usually H<sub>2</sub>SO<sub>4</sub>)",
+  "reason": "'Mineral acid' is not defined before this point in the chapter (6.4 and 6.10 use it later only in passing); the Lecture Connection on the same page says 'a trace of strong acid (usually H2SO4)'. Same wording in both halves.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597127",
+  "section": "7.7",
+  "old": "<p>The hydrolysis of an amide produces an organic acid and ammonia. Benzamide thus yields benzoic acid and ammonia.</p>",
+  "new": "<p>Cut the C(=O)&ndash;N bond: the carbonyl side becomes benzoic acid and the nitrogen side becomes ammonia, as the equation shows for water alone. In practice the conditions decide which piece ends up as a salt: in acid (HCl), benzoic acid + NH<sub>4</sub><sup>+</sup>Cl<sup>&minus;</sup>; in base (NaOH), sodium benzoate + NH<sub>3</sub>.</p>",
+  "reason": "The only worked example on the hydrolysis page states the answer without the cut-then-ask-the-conditions reasoning the Lecture Connection teaches, and contradicts the Professor Tip that every answer must show the salt. Part a already got this treatment; part b did not.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597126",
+  "section": "7.6",
+  "old": "are the same reaction type, called <strong>nucleophilic acyl substitution</strong>: the group",
+  "new": "follow the same pattern, a <strong>substitution at the acyl carbon</strong>: the group",
+  "reason": "\"Nucleophilic\" is mechanism vocabulary that is never defined and appears nowhere else in the book; the plain wording keeps the unifying idea (the group on the acyl carbon is swapped) without an untaught term. If the Glossary or Index tags carry \"nucleophilic acyl substitution\", update them in the same pass.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597123",
+  "section": "7.3",
+  "old": "At blood pH 7.4 most molecules of a typical amine drug exist as the ammonium ion.",
+  "new": "At blood pH 7.4 most molecules of a typical amine drug exist as the ammonium ion; the smaller share left as the neutral amine is the form that crosses cell membranes (see the Dental Hygiene box below).",
+  "reason": "Bridges an apparent contradiction on the same page: this sentence says \"most is ammonium at 7.4\" while Figure 7.3.2 and the dental box say \"more is neutral at 7.4\". Both are true (more than in the cartridge, still the minority); the student is never told so.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597045",
+  "section": "Your Route Through Chapter 7",
+  "old": "review <a href=\"/@go/page/597123\">Section 7.3</a>",
+  "new": "review <a href=\"/@go/page/597118\">Section 6.10</a>; Section 7.3 builds on it",
+  "reason": "A readiness check should send the student back to prior material. Section 7.3 is part of the chapter being started; Section 6.10 (page 597118) already teaches base + H\u207a and R\u2013NH\u2082 \u2192 R\u2013NH\u2083\u207a.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597137",
+  "section": "8.4",
+  "old": "You might wonder why the aldehyde reacts with the <span class=\"acronym-ignore\">OH</span> group on the fifth carbon atom rather than the OH group on the second carbon atom next to it.",
+  "new": "In glucose the alcohol is one of the molecule&rsquo;s own <span class=\"acronym-ignore\">OH</span> groups: the one on the fifth carbon atom adds to the aldehyde on the first carbon atom. Why that OH group and not the one on the second carbon atom, right next door?",
+  "reason": "The text jumps from the general aldehyde + alcohol equation to 'you might wonder why ... the fifth carbon' without ever having said that the C5 OH is the one that reacts or that the reaction happens inside one molecule. That is the central idea of the section and it is first stated only in the figure caption below and in the Lecture Connection.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597137",
+  "section": "8.4",
+  "old": "<p>Anomeric OH opposite the CH<sub>2</sub>OH (down) = <strong>&alpha;-D-glucose</strong>.</p>",
+  "new": "<p>Find the two groups to compare: the CH<sub>2</sub>OH on C5 (up) and the OH on C1, the anomeric carbon (down). They are on opposite sides of the ring (trans), so this is <strong>&alpha;-D-glucose</strong>.</p>",
+  "reason": "First worked example on the hardest skill in the chapter is an answer in telegraphic form. The rewrite shows the two-step look (find CH2OH, find anomeric OH, compare) that Examples 2 and 3 then build on.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597138",
+  "section": "8.5",
+  "old": "Its &alpha;1&ndash;&beta;2 link ties up both anomeric carbons, so no ring can open.",
+  "new": "In sucrose the anomeric carbons of glucose and fructose are bonded to each other through an oxygen (Section 8.6 shows the structure), so neither one has a free OH and no ring can open.",
+  "reason": "Example 1 uses the '\u03b11\u2013\u03b22 link' notation one section before disaccharides and glycosidic bonds are taught. The rewrite gives the same reason in words the student already has and points ahead.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597136",
+  "section": "8.3",
+  "old": "isotonic in the bag and a source of free water once the glucose is metabolized.",
+  "new": "isotonic in the bag and a source of free water once the glucose is metabolized (Section 9.5 explains both terms).",
+  "reason": "'Isotonic' and 'free water' are used here a full chapter before osmosis and tonicity are taught (9.5, which comes back to D5W). A pointer is enough; no added content.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597144",
+  "section": "9.1",
+  "old": "Fatty acids are carboxylic acids that are structural components of fats, oils, and all other categories of lipids, except steroids.",
+  "new": "Lipids are the biological molecules that dissolve in nonpolar solvents but not in water. Fatty acids are carboxylic acids with long hydrocarbon chains, and they are the building blocks of fats, oils, and most other lipids (steroids are the main exception).",
+  "reason": "The chapter's first section uses 'lipids' in its first sentence but the word is not defined until the Lecture Connection far down the page. 'All other categories of lipids, except steroids' also disagrees with the page's own map, which lists fat-soluble vitamins as lipids not built from fatty acids.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597146",
+  "section": "9.3",
+  "old": "Glycerophospholipids are amphiphilic, having an overall cylindrical shape with nonpolar tails of fatty acid chains and polar heads of ester groups on the glycerol part and ionic groups on phosphate and amine groups.",
+  "new": "Glycerophospholipids are amphipathic (also called amphiphilic): each has two nonpolar fatty acid tails and a polar head made of the glycerol ester groups, the charged phosphate, and usually a charged nitrogen. The two tails together are about as wide as the head, so the molecule is roughly a cylinder, and cylinders pack side by side into a flat sheet instead of a ball.",
+  "reason": "Dense inherited sentence. 'Amphiphilic' appears only here; 9.2, the 9.3 Lecture Connection, 9.6 and 9.8 all say 'amphipathic'. 'Cylindrical shape' is stated with no reason, yet the snake-venom box later depends on it ('no longer cylindrical'). The rewrite ties the two words together and says why a two-tailed lipid forms a bilayer while one-tailed soap (9.2) forms a micelle.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597148",
+  "section": "9.5",
+  "old": "The lipids in cell membranes are highly polar but have dual characteristics: part of the lipid is ionic and therefore dissolves in water, whereas the rest has a hydrocarbon structure and therefore dissolves in nonpolar substances.",
+  "new": "The lipids in cell membranes have a dual character (they are amphipathic): one end of each molecule, the head, is ionic or polar and is attracted to water, whereas the rest, the tails, is nonpolar hydrocarbon and is attracted to other nonpolar substances.",
+  "reason": "'Highly polar' lipids contradicts the chapter's definition of a lipid (does not dissolve in water) and the two-nonpolar-tails picture from 9.3; a careful student stalls here. The rewrite names head and tails and reuses 'amphipathic' from 9.2 and 9.3. It also avoids saying part of a molecule 'dissolves'.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597149",
+  "section": "9.6",
+  "old": "Excess cholesterol not metabolized by the body is released from the liver and transported by the blood to the gallbladder.",
+  "new": "Excess cholesterol not metabolized by the body is secreted by the liver into bile, which drains through the bile ducts to the gallbladder to be stored.",
+  "reason": "Factual: cholesterol reaches the gallbladder in bile through the bile ducts, not through the blood. The page's own Bile Salts section says bile is made in the liver and stored in the gallbladder, so the two passages now agree.",
+  "severity": "P1"
+ },
+ {
+  "page_id": "597155",
+  "section": "10.2",
+  "old": "<p>Three rules cover every exam question about pI:</p>",
+  "new": "<p>Three rules give the sign of the net charge in every exam question about pI. Draw the forms shown when the pH is far from the pI (strong acid or strong base); an amino acid with a neutral R group at pH 7.4 is still drawn as the zwitterion.</p>",
+  "reason": "The third rule (\"pH above pI: -COO- and -NH2, net -1 for a neutral R group\") applied to alanine (pI 6.0) at pH 7.4 gives net -1, but the same page (zwitterion list, Figure 10.2.1, the pI table \"Gly/Ala 0\", Example 1 Check \"zwitterion ... from about pH 3 to 8\") and Guide Key Idea 2 say net 0. The rule gives the right sign but the wrong drawing near the pI; one clause removes the contradiction without pKa.",
+  "severity": "P1"
+ },
+ {
+  "page_id": "597163",
+  "section": "10.10",
+  "old": "<strong>Heating</strong> above about 50 &deg;C disrupts hydrogen bonding and hydrophobic interactions, causing protein denaturation.",
+  "new": "<strong>Heating</strong> disrupts hydrogen bonding and hydrophobic interactions, causing protein denaturation. Many proteins unfold above about 50 &deg;C, and some human enzymes begin to unfold just above 41 &deg;C, which is why a high fever or heat stroke is dangerous.",
+  "reason": "Same page gives three thresholds: \"above about 50 C\" here, heat stroke at 40 C in the Valley box, \"fever above about 41 C\" in the agent table and Nursing box. A student reading 50 C as the cut-off would conclude a 41 C body cannot denature protein, which undercuts the Valley box.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597158",
+  "section": "10.5",
+  "old": "All three have nonpolar R groups, so the segment is likely <strong>buried in the interior</strong>, away from water.",
+  "new": "Classify each side chain first: Ile and Leu are branched hydrocarbons and Phe is a benzene ring, so all three are nonpolar. Nonpolar groups cannot hydrogen-bond with water, so the segment is likely <strong>buried in the interior</strong>, held there by hydrophobic interactions.",
+  "reason": "The only worked example on the overview page states the answer without the reasoning step (how you know the three are nonpolar, and why nonpolar means inside). The AFTER models the classify-then-predict habit that 10.8 relies on and names the interaction.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597154",
+  "section": "10.1",
+  "old": "(d) Draw the main form present at pH 1 (well below its pI) and at pH 11 (well above its pI).",
+  "new": "(d) Draw the main form present in strong acid (pH 1) and in strong base (pH 11). (Section 10.2 names the pH in between, where the net charge is zero, the isoelectric point, pI.)",
+  "reason": "pI is used in a 10.1 worked example before it is defined (10.2). The solution already reasons with the acid/base rules from Chapters 6-7, so the problem can be posed without the untaught term and point forward to it.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597159",
+  "section": "10.6",
+  "old": "The number of constitutional isomers increases exponentially as the number of amino acids in the peptide increases. Constitutional isomers of a polypeptide of n amino acids chosen from 20 amino acids commonly found in proteins are given by 20<sup>n</sup>.",
+  "new": "The number of possible sequences grows very quickly as the peptide gets longer. A chain of n amino acids, each chosen from the 20 commonly found in proteins, can be written in 20<sup>n</sup> different ways.",
+  "reason": "Factual wording error: 20^n counts all possible sequences, most of which have different amino acid compositions and therefore different molecular formulas, so they are not constitutional isomers (the six orderings of Gly, His, Lys in the paragraph above are). Also simpler prose.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597159",
+  "section": "10.6",
+  "old": "Free rotation is around the other \\(\\sigma\\)-bonds in the peptide backbone.",
+  "new": "The other single bonds in the peptide backbone rotate freely.",
+  "reason": "\"sigma bond\" appears nowhere else in the book (this page is the only one in pages/live containing it) and belongs to the orbital vocabulary the course leaves out; \"single bonds\" says the same thing. The Figure 1 caption on the same page has a second sigma that needs the same change.",
+  "severity": "P3"
+ }
+]

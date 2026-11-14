@@ -1,0 +1,342 @@
+[
+ {
+  "page_id": "597053",
+  "section": "Ch 15 landing, Rosa Part 15",
+  "old": "Her nurse practitioner adjusts her medicines until she can eat again. Her daughter notices a fruity smell on her breath.",
+  "new": "Her daughter notices a fruity smell on her breath. Vomiting that will not stop, ketones and fruity breath are warning signs of diabetic ketoacidosis (DKA), so her plan says to get care right away. At the emergency department a blood test shows that her blood pH is normal: she has ketosis from not eating, not ketoacidosis (Section 15.5). She is given IV fluids, and her nurse practitioner adjusts her medicines until she can eat again.",
+  "reason": "As written, a patient with diabetes who has vomited for two days, has moderate ketones and fruity breath is managed at home. CDC (the book's own source 1 in 15.5) lists fruity breath and vomiting with inability to keep food or drink down as reasons to go to the ER or call 911, and says DKA also occurs in type 2 diabetes. The rewrite keeps the chemistry (ketosis versus ketoacidosis, blood pH) and models the safe action. No dose or treatment advice added.",
+  "severity": "P0",
+  "source_url": "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html",
+  "held_for": "approved by the instructor 2026-11-13 (\"Use proposed ER check\")"
+ },
+ {
+  "page_id": "597218",
+  "section": "15.12 Chapter Guide, Clinical Update recap",
+  "old": "and her breath smells fruity; later her lab report",
+  "new": "and her breath smells fruity (she is checked for DKA, and her blood pH is normal); later her lab report",
+  "reason": "Keeps the guide recap in step with the corrected Part 15 story.",
+  "severity": "P0",
+  "source_url": "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html",
+  "held_for": "approved by the instructor 2026-11-13 (\"Use proposed ER check\")"
+ },
+ {
+  "page_id": "597050",
+  "section": "Ch 12 landing, Rosa Part 12",
+  "old": "A year later, Rosa&rsquo;s A1c is 8.1%",
+  "new": "Six months later, Rosa&rsquo;s A1c is 8.1%",
+  "reason": "Timeline contradiction. Part 12 puts the 8.1% A1c and the start of insulin 'a year later'; Part 15 says 'One year after her deep cleaning ... her A1c is 7.0%'. The deep cleaning (Part 7) is within weeks of Part 1, so both A1c values land at about the one-year mark, with a hypoglycemia visit and a winter illness in between. Moving Part 12 to six months gives insulin about six months to bring the A1c to 7.0%.",
+  "severity": "P1",
+  "source_url": "",
+  "skip": true,
+  "held_for": "instructor decision: changes the Rosa story"
+ },
+ {
+  "page_id": "597050",
+  "section": "Ch 12 landing, Rosa Part 12",
+  "old": "so her nurse practitioner adds a once-daily",
+  "new": "so, after they talk through the options, her nurse practitioner adds a once-daily",
+  "reason": "Going straight from metformin to basal insulin at A1c 8.1% in a patient with albuminuria is a simplification; current diabetes standards usually consider other drug classes first. One clause signals a choice was made without naming or recommending drugs.",
+  "severity": "P2",
+  "source_url": "",
+  "skip": true,
+  "held_for": "instructor decision: changes the Rosa story"
+ },
+ {
+  "page_id": "597047",
+  "section": "Ch 9 landing, Rosa Part 9",
+  "old": "She keeps Rosa on <strong>atorvastatin</strong>, which lowers the liver&rsquo;s production of cholesterol, and suggests",
+  "new": "She keeps Rosa on <strong>atorvastatin</strong>, which lowers the liver&rsquo;s production of cholesterol, plans to recheck the panel to see whether the LDL is coming down, and suggests",
+  "reason": "Rosa is already on atorvastatin in Part 1 with LDL 142 mg/dL, above the chart's own goal (under 100). 'Keeps her on' with no follow-up reads as if an above-goal LDL on treatment needs no action.",
+  "severity": "P2",
+  "source_url": "",
+  "skip": true,
+  "held_for": "instructor decision: changes the Rosa story"
+ },
+ {
+  "page_id": "597149",
+  "section": "9.6 Steroids, Example 1 solution",
+  "old": "HDL 38 (below 40, low);",
+  "new": "HDL 38 (low; for women, below 50 is low, as on Rosa&rsquo;s chart);",
+  "reason": "Rosa's chart (Ch 1) gives the HDL goal as 50 mg/dL or higher for women, but this example grades her HDL against the 40 cut-off.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597149",
+  "section": "9.6 Steroids, lipid panel box",
+  "old": "below 40 is low;",
+  "new": "below 40 (men) or below 50 (women) is low;",
+  "reason": "Same sex-specific HDL cut-off; makes the box agree with Rosa's chart.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597040",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597041",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597042",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597043",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597044",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597045",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597046",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597047",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597048",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597049",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597050",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597051",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597052",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597053",
+  "section": "Chapter landing page, Rosa box (last line)",
+  "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
+  "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
+  "reason": "The fictional-patient and not-medical-advice statement appears only on the Chapter 1 landing page and the 1.9 guide. Parts 2 to 15 (including the insulin, hypoglycemia and sick-day parts) carry no such line, and students often enter at a later chapter.",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597132",
+  "section": "7.12 Chapter Guide, Case Question 7.1 answer (occurs twice: inline answer and print key; change both)",
+  "old": "The amine reacts with HCl to form an ammonium salt (R<sub>3</sub>NH<sup>+</sup> Cl<sup>&minus;</sup>).",
+  "new": "A basic nitrogen accepts H<sup>+</sup> from HCl to form a salt (for lidocaine&rsquo;s amine, R<sub>3</sub>NH<sup>+</sup> Cl<sup>&minus;</sup>; a basic nitrogen in metformin does the same).",
+  "reason": "Metformin is a biguanide, not an R3N amine, so the R3NH+ formula describes lidocaine only.",
+  "severity": "P3",
+  "source_url": ""
+ },
+ {
+  "page_id": "597218",
+  "section": "15.12 Chapter Guide, Case Question 15.3 answer (occurs twice: inline answer and print key; change both)",
+  "old": "When the kidneys are not working well, BUN rises.",
+  "new": "When the kidneys are not working well, BUN rises; it also rises with dehydration, which is one reason it is read together with creatinine.",
+  "reason": "Rosa has just been dehydrated from a stomach virus; BUN alone is not specific for kidney damage.",
+  "severity": "P3",
+  "source_url": ""
+ },
+ {
+  "page_id": "597048",
+  "section": "Ch 10 landing, Rosa Part 10",
+  "old": "where under 30 is normal.",
+  "new": "where under 30 is normal; a result like this is repeated to confirm it.",
+  "reason": "A single raised urine albumin-to-creatinine ratio is confirmed with repeat testing before it is called kidney damage.",
+  "severity": "P3",
+  "source_url": "",
+  "skip": true,
+  "held_for": "instructor decision: changes the Rosa story"
+ },
+ {
+  "page_id": "597051",
+  "section": "Ch 13 landing, Rosa Part 13",
+  "old": "and reminds her not to skip meals.",
+  "new": "and they plan what she will do when a meal is late or missed.",
+  "reason": "Less blaming of the patient; same clinical point.",
+  "severity": "P3",
+  "source_url": "",
+  "skip": true,
+  "held_for": "instructor decision: changes the Rosa story"
+ },
+ {
+  "page_id": "597204",
+  "section": "14.5 Example 4 problem",
+  "old": "(b) About how long would Rosa need to walk to use 260 Calories?",
+  "new": "(b) About how many minutes of brisk walking use 260 Calories of energy?",
+  "reason": "Avoids the 'walk off the burrito' framing (exercise as payment for a culturally familiar food) for a patient with diabetes; the calculation is unchanged.",
+  "severity": "P3",
+  "source_url": "",
+  "skip": true,
+  "held_for": "instructor decision: changes the Rosa story"
+ },
+ {
+  "page_id": "597204",
+  "section": "14.5 Example 4 solution",
+  "old": "Rosa&rsquo;s 30-minute evening walk uses about 140 Calories, roughly half the burrito.",
+  "new": "For comparison, Rosa&rsquo;s 30-minute evening walk uses about 140 Calories.",
+  "reason": "Same reason as the problem statement.",
+  "severity": "P3",
+  "source_url": "",
+  "skip": true,
+  "held_for": "instructor decision: changes the Rosa story"
+ },
+ {
+  "page_id": "597098",
+  "section": "4.9 Valley Connection: Garlic, Onions and the Smell of Sulfur",
+  "old": "(86%, by a 2007 UC Davis estimate), including fields in the Valley counties of Fresno, Kern and Kings.<sup>1</sup>",
+  "new": "(86%, by a 2007 UC Davis estimate).<sup>1</sup> Garlic was one of Fresno County&rsquo;s ten highest-value crops in 2024.<sup>3</sup>",
+  "reason": "The cited UC Davis article does not say garlic is grown in these counties; it says growers have abandoned garlic production on more than 13,000 acres in Kern, Kings and Fresno. The replacement fact (garlic in Fresno County's 2024 top ten) was read today in the GV Wire article the book already cites in 6.5 and 9.2.",
+  "severity": "P1",
+  "source_url": "https://www.ucdavis.edu/news/natural-fungicide-gives-garlic-growers-hope"
+ },
+ {
+  "page_id": "597098",
+  "section": "4.9 Valley Connection sources",
+  "old": "California Agricultural Statistics Review 2022&ndash;2023</a>, 2023.</p>",
+  "new": "California Agricultural Statistics Review 2022&ndash;2023</a>, 2023. 3. GV Wire, <a style=\"text-decoration:underline\" href=\"https://gvwire.com/2025/11/04/fresno-is-nations-top-ag-county-at-9-billion-but-what-does-future-hold/\" rel=\"noopener\" target=\"_blank\">Fresno Is Nation&rsquo;s Top Ag County at $9 Billion</a>, 2025.</p>",
+  "reason": "Source for the new sentence above.",
+  "severity": "P1",
+  "source_url": "https://gvwire.com/2025/11/04/fresno-is-nations-top-ag-county-at-9-billion-but-what-does-future-hold/"
+ },
+ {
+  "page_id": "597162",
+  "section": "10.9 Valley Connection sources (dead link)",
+  "old": "California State Water Resources Control Board (reprint of <em>San Francisco Chronicle</em>), <a style=\"text-decoration:underline\" href=\"https://www.waterboards.ca.gov/water_issues/programs/gama/docs/pr_nitratesunchecked_sfgate.pdf\" rel=\"noopener\" target=\"_blank\">&ldquo;Nitrates unchecked&rdquo;</a>.",
+  "new": "J. Scott, California Watch, <a style=\"text-decoration:underline\" href=\"https://www.truthout.org/articles/nitrate-contamination-spreading-in-california-communities\" rel=\"noopener\" target=\"_blank\">&ldquo;Nitrate Contamination Spreading in California Communities&rdquo;</a>, May 2010 (reprint at Truthout).",
+  "reason": "The Water Board reprint is gone (404). This is the same California Watch investigation by Julia Scott; the page loaded today and contains the sentence 'In the Eastern San Joaquin Valley, one of every three domestic wells has nitrate levels that exceed public health limits.' Alternate that also loaded today: KQED California Report story at https://www.kpbs.org/news/2010/may/14/nitrates-our-drinking-water-part-1-present-threat ('one out of three domestic wells test high for nitrates'). Stronger option: restate the claim from the UC Davis report already cited as source 3, which I read today: 46% of sampled domestic wells in Tulare and Kings Counties and 42% in Stanislaus and Merced Counties exceeded the nitrate limit.",
+  "severity": "P2",
+  "source_url": "https://www.truthout.org/articles/nitrate-contamination-spreading-in-california-communities"
+ },
+ {
+  "page_id": "597113",
+  "section": "6.5 Valley Connection sources (dead link)",
+  "old": "C. Belisle et al., University of Georgia, <a style=\"text-decoration:underline\" href=\"https://ashs.confex.com/ashs/2016/webprogram/Paper25280.html\" rel=\"noopener\" target=\"_blank\">Evaluation of Volatile Compounds Responsible for the Aroma of Fresh Peaches</a>, ASHS Annual Conference abstract, 2016.",
+  "new": "G. S&aacute;nchez et al., <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC3382205\" rel=\"noopener\" target=\"_blank\">A Non-Targeted Approach Unravels the Volatile Network in Peach Fruit</a>, <em>PLoS ONE</em> 7(6): e38992, 2012.",
+  "reason": "The ASHS abstract now redirects to studio.m-anage.com and answered 503 today. The PLoS ONE paper is open access, loaded today, and supports the sentence it is cited for: lactones are 'main contributors to mature fruit aroma in peach', with gamma-decalactone proposed as the major contributor.",
+  "severity": "P2",
+  "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3382205"
+ },
+ {
+  "page_id": "597131",
+  "section": "7.11 Valley Connection sources (no links)",
+  "old": "1. California Department of Pesticide Regulation, chlorpyrifos regulatory actions, 2019&ndash;2020. 2. California Code of Regulations, Title 3, section 6728 (medical supervision of pesticide handlers).",
+  "new": "1. CalEPA, <a style=\"text-decoration:underline\" href=\"https://calepa.ca.gov/2019/10/09/press-release-agreement-reached-to-end-sale-of-chlorpyrifos-in-ca-by-feb-2020/\" rel=\"noopener\" target=\"_blank\">&ldquo;Agreement Reached to End Sale of Chlorpyrifos in California by February 2020,&rdquo;</a> October 9, 2019; California Department of Pesticide Regulation, <a style=\"text-decoration:underline\" href=\"https://www.cdpr.ca.gov/chlorpyrifos/\" rel=\"noopener\" target=\"_blank\">Chlorpyrifos</a>. 2. California Code of Regulations, Title 3, section 6728 (medical supervision of pesticide handlers); see the sources in Section 11.4.",
+  "reason": "This is the only Valley Connection whose sources have no links and no in-text citation numbers. Both URLs loaded today; the CalEPA release confirms the 2020 end of sales and use.",
+  "severity": "P2",
+  "source_url": "https://calepa.ca.gov/2019/10/09/press-release-agreement-reached-to-end-sale-of-chlorpyrifos-in-ca-by-feb-2020/"
+ },
+ {
+  "page_id": "597270",
+  "section": "About This Book, Valley Connection paragraph",
+  "old": "Each one cites its sources and ends with a &ldquo;Think about it&rdquo; question:",
+  "new": "Each one cites its sources, and the longer ones end with a &ldquo;Think about it&rdquo; question:",
+  "reason": "Ten of the 25 boxes have no 'Think about it' question (2.6, 3.5, 4.9, 7.11, 10.3, 10.9, both 11.5 boxes, 12.7, 15.7). Either soften this sentence or add a question to each (drafts are in the Part B table).",
+  "severity": "P2",
+  "source_url": ""
+ },
+ {
+  "page_id": "597082",
+  "section": "3.5 Valley Connection: Plastics on the Farm",
+  "old": "used mulch film and drip tape can be collected and recycled.",
+  "new": "used drip tape can be collected and recycled, and programs to recycle mulch film are being developed.",
+  "reason": "The cited NOAA page describes recycling programs for drip tape; for mulch film it describes a project whose goal is to remove and recycle it. (The page is about the Monterey Bay region, not the Valley.)",
+  "severity": "P3",
+  "source_url": "https://montereybay.noaa.gov/resourcepro/resmanissues/agricultural-field-plastics.html"
+ },
+ {
+  "page_id": "597094",
+  "section": "4.5 Valley Connection: wine grapes and ethanol oxidation",
+  "old": "About 40% of people of Far East Asian descent carry it.",
+  "new": "About 40% of people of East Asian descent carry it.",
+  "reason": "'Far East' is dated wording; NIAAA's current page says 'East Asian ancestry'. The 40% figure itself could not be checked today (the archived source returned an empty page).",
+  "severity": "P3",
+  "source_url": "https://www.niaaa.nih.gov/publications/alcohol-flush-reaction"
+ },
+ {
+  "page_id": "597182",
+  "section": "12.9 Valley Connection: PCR and Valley fever",
+  "old": "the roughly 5% of patients who develop chronic disease",
+  "new": "the roughly 5 to 10% of patients who develop chronic disease",
+  "reason": "CDC's Clinical Overview (the box's source 2, read today) says about 5 to 10% of patients develop complications or chronic pulmonary disease.",
+  "severity": "P3",
+  "source_url": "https://www.cdc.gov/valley-fever/hcp/clinical-overview/index.html"
+ }
+]
