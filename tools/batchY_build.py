@@ -7,10 +7,12 @@ p = '597204'; t = open('pages/live/%s.html' % p, encoding='utf-8').read()
 tags = [m.group(0) for m in re.finditer(r'<img\b[^>]*>', t) if 'fig-p597204-yield-flow.svg' in m.group(0)]
 assert len(tags) == 1 and t.count(tags[0]) == 1
 old = tags[0]
-STYLE = ('<style type="text/css">/*<![CDATA[*/.fig-scroll-hint { display: none; } @media screen and (max-width: 600px) { '
-         '.fig-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; } '
+STYLE = ('<style type="text/css">/*<![CDATA[*/.fig-scroll-hint { display: none !important; } @media screen and (max-width: 600px) { '
+         '.fig-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%; max-width: 100%; min-width: 0; } '
          '.fig-scroll img { max-width: none !important; } .fig-scroll img.fig-w860 { width: 860px !important; } '
-         '.fig-scroll-hint { display: block; font-size: 0.8em; color: #5a6478; margin: 0 0 4px; } }/*]]>*/</style>')
+         '.fig-scroll-hint { display: block !important; font-size: 0.8em; color: #5a6478; margin: 0 0 4px; } }/*]]>*/</style>')
+# first try (commit 09e8120) lacked the width limits and !important: LibreTexts lays <figure> out as a flex box, so the
+# scroll box grew to the image width, and a platform rule for <p> outranked the hidden hint.
 new = (STYLE + '<p class="fig-scroll-hint">Swipe sideways to see the whole figure.</p><div class="fig-scroll">' +
        old.replace('class="internal"', 'class="internal fig-w860"') + '</div>')
 assert 'fig-w860' in new
