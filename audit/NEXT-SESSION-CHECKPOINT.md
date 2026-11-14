@@ -114,3 +114,4 @@ Batch AH (21 edits, 15 pages) is live; every page read back identical to `tools/
 4. Instructor's Ch 14 slides and any exam key: citrate synthase = transferase.
 
 - 2026-11-14 12:20 compile: all batch AH text printed; cover still "Unknown"; footers of 6.10 and 9.3 printed blank (13.5 fixed). The tag `author@Muhammad Arif Malik` was then added to the 19 Malik pages that lacked it (`tools/author_tags_malik_2026-11-14.json`). Next compile: check that no footer prints "curated by .".
+- 2026-11-14: `author@Daniel Kwasniewski` added to all 115 adapted pages (`tools/author_tags_adapted_2026-11-14.json`); footers now credit him (Ball pages had printed "curated by via source content" with no name). Share of own writing per page: `audit/AUTHORSHIP_SHARE_2026-11-14.md`. Open: whether majority-own pages get a visible "written by" line.
