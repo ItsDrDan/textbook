@@ -19,7 +19,7 @@ ZSTYLE = ('<style type="text/css">/*<![CDATA[*/.fig-scroll-hint { display: none 
 EQSTYLE = ('<style type="text/css">/*<![CDATA[*/@media screen and (max-width: 600px) { '
            '.mt-content-container p:has(> mjx-container) { overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; max-width: 100%; padding-bottom: 2px; } }/*]]>*/</style>')
 TSTYLE = ('<style type="text/css">/*<![CDATA[*/@media screen and (max-width: 600px) { '
-          '.codon-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; max-width: 100%; } .codon-scroll table { min-width: 520px; } }/*]]>*/</style>')
+          '.codon-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; max-width: 100%; } }/*]]>*/</style>')
 HINT = '<span class="fig-scroll-hint" style="display:none">Swipe sideways to see the whole figure.</span>'
 h = lambda s: hashlib.sha256(s.encode()).hexdigest()
 pages, edits = {}, {}
@@ -47,12 +47,12 @@ for p in ('597188', '597193', '597203'):
     i = m.start(); old = t[i:i + 60]
     e(p, old, EQSTYLE + old, 'phone: paragraphs holding equations scroll sideways inside themselves (style before the first centered equation)')
 
-# 3. codon table
+# 3. codon table (width:100% keeps the desktop width the responsive class gave it; first publish lacked it)
 t = page('597179')
 old = '<table class="mt-responsive-table" style="text-align:center">'
 j = t.index(old); k = t.index('</table>', j) + len('</table>')
 tbl = t[j:k]
-new = TSTYLE + '<div class="codon-scroll">' + tbl.replace(old, '<table class="codon-table" style="text-align:center">') + '</div>'
+new = TSTYLE + '<div class="codon-scroll">' + tbl.replace(old, '<table class="codon-table" style="text-align:center;width:100%">') + '</div>'
 e('597179', tbl, new, '12.6 genetic code table: drop mt-responsive-table (phone collapse), full grid scrolls sideways on phones')
 
 sha = {p: {'before': h(v[0]), 'after': h(v[1])} for p, v in pages.items()}
