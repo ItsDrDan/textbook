@@ -708,3 +708,10 @@ Published on LibreTexts (18 pages, 117 replacements; `tools/pka_removal_fixes_20
   - **Unchanged:** cover author "Unknown" (waits for LibreTexts publication); 12 footer-only pages (was 15). No raw MathJax in the text. Small-print sizes were not re-measured in this check.
   - Note: on chapter landing pages the full compile hides the inline readiness answers and prints only the key, so the "If you missed it, review …" pointers there are web-only.
   - **Batch S published 2026-11-13 (instructor: "Publish the fix"):** the six `&#8652;` arrows on 6.4 (597112) and 6.8 (597116) are now MathJax; both pages matched their expected hash before saving and read back identical; `pages/live` synced. A single-page compile of 6.4 shows the arrow in the Exercise 6.4.1 key (page viewed) and no missing-character boxes. No `&#8652;` is left on any page.
+
+- **2026-11-13 PDF check, 18:41 compile (1,360 pages; first compile with batch S):**
+  - Text differs from the 18:19 compile on exactly four pages (476, 479, 495, 500): the equilibrium arrows in Exercises 6.4.1 and 6.8.1, inline and in the key. The missing-character boxes are gone and the arrow is drawn (pp. 476 and 500 viewed). No box or replacement glyph anywhere in the PDF.
+  - Everything probed in the 18:19 check still prints (53 of 53 probes for batches Q and R; the three "not found" are old wordings that should be gone, and the web-only readiness pointer).
+  - Footers: none blank. Version 1.2 on p. 15. Cover author still "Unknown" (waits for LibreTexts publication).
+  - Footer-only pages: 12 (9, 179, 238, 278, 335, 366, 421, 563, 729, 951, 1163, 1330).
+  - Small print: 30 pages have words under 6 pt (31 in the 16:20 check). Smallest: 14.5.2 malate-aspartate shuttle 4.8 pt (p. 1200), 15.9.1 urea cycle 5.1 pt (p. 1285), 9.1.6 5.3 pt (p. 715), 13.5.2 5.3 pt (p. 1094), 15.4.5 5.3 pt (p. 1259). These are the redraws already on the open list; no figure got smaller.
