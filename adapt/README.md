@@ -113,3 +113,9 @@ When the answer choices are drawn structures, the A–D grid is shuffled for eac
 - Each was created through the ADAPT API straight into its chapter assignment and chapter folder, public, CC BY 4.0, author Daniel Kwasniewski, no video hint. Points follow each assignment's default.
 - **Read back:** every one of the 78 is in its assignment, with stem, choices, key and feedback identical to the bank. None of the titles existed before, and no assignment has a duplicate title.
 - **How creation works (for next time):** POST /api/questions with the same editor-shaped body as the PATCH above, minus the server fields (id, page_id, iframe_id, dates, revision fields, qti_answer_json), with `assignment_id` set to the chapter assignment and `folder_id` to the chapter folder (14979 + chapter). The reply names the assignment the question was added to.
+
+## Update of 2026-11-13 (late): Show Hint for the 78 new questions
+
+- Checked the course on a phone (iPhone 17 simulator, Student View): question text, choices, Submit, page buttons, the hint dialog and the video hints all fit and work. The 78 new questions (fb-3B-2238 to 2315) had no Show Hint button, because their hint field was empty; their hint appeared only after a wrong answer.
+- Each of the 78 now has its bank hint (`h`) in the hint field, as `<p>…</p>`, so Show Hint appears (no penalty, same as the course setting). The wrong-answer feedback is unchanged. Saved with PATCH /api/questions/{id} (editor-shaped body, "automatically update", reason "Hint added to the Show Hint button (2026-11-13).").
+- Read back: all 78 hints match the bank text (ADAPT stores some characters as entities such as `&ndash;`; the displayed text is identical), question text and correct answer unchanged, CC BY 4.0 / Daniel Kwasniewski / public unchanged, and every assignment shows the current revision. Checked on the phone: Show Hint appears on fb-3B-2238 and opens the hint.
