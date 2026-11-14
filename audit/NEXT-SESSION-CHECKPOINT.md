@@ -2,7 +2,7 @@
 
 ## State
 
-- Repo `textbook-git`, branch **`audit/2026-11-master-refinement`**, pushed, no PR, not merged. `main` is unchanged at 80741ee.
+- Repo `textbook-git`: the pass was merged to `main` as PR #50 (79005d9) on 2026-11-13; the `js/fbx.js` label fix is live on GitHub Pages. Item 4 below is done. Final Boss has the same code as v41 (commit a8033ea in `github/finalexam`).
 - Live LibreTexts book: **batch Q published 2026-11-13** (310 edits, 117 pages, all read back identical), plus the Index page pointers and 13 page tags. `pages/live` matches it. Items 2 and 3 below are done.
 - Latest PDF checked: `~/Downloads/Full.pdf`, 2026-11-13 16:37, 1,340 pp.
 - Coverage: every page has a ledger row, a pedagogy score and script checks. Correctness of problems rests on the 11-11 and 11-13 re-solves, not on this pass.

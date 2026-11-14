@@ -370,10 +370,11 @@ function molDesc(m){if(!m||!m.a)return 'structure';
 function molWalk(m){if(!m||!m.a)return '';
  const A=m.a.map(a=>({l:String(a[0]),ch:a[4]||0})),N=A.length,adj=A.map(()=>[]);(m.b||[]).forEach(b=>{if(A[b[0]]&&A[b[1]]&&b[2]!==0){const o=b[2]===4||b[2]===5?1:b[2]||1;adj[b[0]].push([b[1],o]);adj[b[1]].push([b[0],o])}});
  const isH=i=>A[i].l==='H',heavy=i=>adj[i].filter(e=>!isH(e[0]));
+ const st={};(m.b||[]).forEach(b=>{if(b[2]===4||b[2]===5)st[b[0]+'-'+b[1]]=st[b[1]+'-'+b[0]]=b[2]===4?'wedge ':'dash '}); /* wedges are named in the walk so mirror-image drawings read differently */
  const tok=i=>{const a=A[i];let t=a.l;if(t==='C'){const h=m.skel?Math.max(0,4-adj[i].reduce((s,e)=>s+e[1],0)-Math.abs(a.ch)):adj[i].filter(e=>isH(e[0])).length;t='C'+(h?'H'+(h>1?h:''):'')}
   return t+(a.ch>0?'+':a.ch<0?'\u2212':'')};
  const sym=o=>o===2?'=':o===3?'\u2261':'';
- const walk=(u,p,seen)=>{seen.add(u);const kids=[];for(const [v,o] of heavy(u)){if(v===p)continue;if(seen.has(v)){kids.push([sym(o)+'ring',0]);continue}kids.push([sym(o)+walk(v,u,seen),1])}
+ const walk=(u,p,seen)=>{seen.add(u);const kids=[];for(const [v,o] of heavy(u)){if(v===p)continue;if(seen.has(v)){kids.push([sym(o)+'ring',0]);continue}kids.push([sym(o)+(st[u+'-'+v]||'')+walk(v,u,seen),1])}
   kids.sort((a,b)=>a[0].length-b[0].length||(a[0]<b[0]?-1:1));const main=kids.length&&kids[kids.length-1][1]?kids.pop():null;
   return tok(u)+kids.map(k=>'('+k[0]+')').join('')+(main?(/^[=\u2261]/.test(main[0])?'':'-')+main[0]:'')};
  const starts=A.map((a,i)=>i).filter(i=>!isH(i)&&heavy(i).length<=1);if(!starts.length)starts.push(A.findIndex((a,i)=>!isH(i)));
@@ -382,9 +383,17 @@ function molWalk(m){if(!m||!m.a)return '';
  if(best){out.push(best[0]);best[1].forEach(i=>all.add(i))}
  A.forEach((a,i)=>{if(!isH(i)&&!all.has(i)){const seen=new Set();out.push(walk(i,-1,seen));seen.forEach(j=>all.add(j))}});
  return out.join(' and ')}
-/* labels for all structure choices of one question; duplicates get the walk appended */
-function optLabels(q){const d=q.c.map((c,k)=>String(c).startsWith('\u00a7')?molDesc(q.cs&&q.cs[k]):null),n={};d.forEach(x=>{if(x!==null)n[x]=(n[x]||0)+1});
- return d.map((x,k)=>x!==null&&n[x]>1?x+'; drawn as '+molWalk(q.cs[k]):x)}
+/* last tie-break, for resonance drawings that differ only in where a multiple bond or a charge is drawn */
+function molWhere(m){if(!m||!m.a)return '';const A=m.a.map(a=>({l:String(a[0]),x:+a[1]||0,y:+a[2]||0,ch:a[4]||0})),hv=A.filter(a=>a.l!=='H'),cx=hv.reduce((s,a)=>s+a.x,0)/(hv.length||1),cy=hv.reduce((s,a)=>s+a.y,0)/(hv.length||1);
+ const at=a=>{const dx=a.x-cx,dy=a.y-cy;if(Math.hypot(dx,dy)<0.25)return 'in the center';return Math.abs(dx)>=Math.abs(dy)?(dx<0?'on the left':'on the right'):(dy<0?'at the top':'at the bottom')},out=[];
+ (m.b||[]).forEach(b=>{if(b[2]===2||b[2]===3){const p=A[b[0]],q=A[b[1]],far=Math.hypot(p.x-cx,p.y-cy)>=Math.hypot(q.x-cx,q.y-cy)?p:q;out.push((b[2]===2?'double':'triple')+' bond to the '+far.l+' '+at(far))}});
+ A.forEach(a=>{if(a.ch)out.push((a.ch>0?'+':'\u2212')+' charge on the '+a.l+' '+at(a))});return out.join(', ')}
+/* labels for all structure choices of one question. Two labels with the same phrases in another order count as the same;
+   those get the walk appended, and the position line if they still match. */
+function optLabels(q){const key=x=>x.split(', ').sort().join(', '),cnt=d=>{const n={};d.forEach(x=>{if(x!==null)n[key(x)]=(n[key(x)]||0)+1});return n};
+ let d=q.c.map((c,k)=>String(c).startsWith('\u00a7')?molDesc(q.cs&&q.cs[k]):null),n=cnt(d);
+ d=d.map((x,k)=>x!==null&&n[key(x)]>1?x+'; drawn as '+molWalk(q.cs[k]):x);n=cnt(d);
+ return d.map((x,k)=>x!==null&&n[key(x)]>1?x+'; '+molWhere(q.cs[k]):x)}
 const optLabel=(q,k,L)=>{if(!String(q.c[k]).startsWith('§'))return '';const d=q.__lab||(q.__lab=optLabels(q));return `Choice ${L}: ${d[k]}`};
 const optHTML=(q,k)=>(String(q.c[k]).startsWith('§')?'':q.c[k])+(q.cs&&q.cs[k]?`<span class="fbx-optmol">${molSVG(q.cs[k],0.8)}</span>`:'');
 /* ---------- FBX practice UI (hand-written; the drawing code above is extracted from Final Boss) ---------- */
@@ -471,6 +480,6 @@ function fbxMount(root,items,opts){
   reset(){P=blank();save();buildSel();S.q=null;show(pick())},
   destroy(){root.removeEventListener('click',onClick);root.innerHTML='';root.classList.remove('fbx');delete root.__fbx}};
  root.__fbx=api;return api}
-window.FBX={version:FBX_VERSION,mount:fbxMount,qHTML,optHTML,optLabel,optLabels,molDesc,molWalk,molSVG,figBlock,structBlock};
+window.FBX={version:FBX_VERSION,mount:fbxMount,qHTML,optHTML,optLabel,optLabels,molDesc,molWalk,molWhere,molSVG,figBlock,structBlock};
 
 })();
