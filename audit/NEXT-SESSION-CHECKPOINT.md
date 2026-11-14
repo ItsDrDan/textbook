@@ -11,6 +11,10 @@
 
 Batch R (`audit/BATCH_R_REVIEW.md`, branch `content/2026-11-batchR`) drafts most of the "Work not done" list below: Rosa story edits, bank gaps, section exercises, Check steps, Valley questions, cumulative-mix caps, the low-confidence errata and the P3 page fixes. See the 2026-11-13 batch R entry in `tools/ISSUE_LEDGER.md` for what is and is not in it. **Merged (PR #53) and published on 2026-11-13; all 54 pages read back identical.** Still to do from it: confirm in the next PDF compile; add the 18 new questions (fb-3B-2238 to 2255) to Final Boss and ADAPT; thin-topic questions; the duplicated inherited prose (author decision).
 
+## Update, batch T (2026-11-13, merged as PR #57 and published)
+
+Small-print figures (41 files), 60 thin-topic questions, ADAPT export, prose trims and Try It selections are live; see the batch T entries in `tools/ISSUE_LEDGER.md`. Open after it: confirm label sizes in the next full PDF; create the 78 new questions in live ADAPT (files ready in `adapt/`); push or merge the Final Boss branch `textbook-new-3B-2026-11-13`; update the figure generators to the new label sizes; cover author at LibreTexts.
+
 ## Waiting on the instructor (in order)
 
 1. **Rosa story edits.** The Part 15 emergency-department check (P0) was approved on 2026-11-13 and is in batch Q. Seven smaller story edits are still held (Part 12 timeline "six months later" and insulin wording, Part 9 LDL follow-up, Part 10 repeat test, Part 13 meals, 14.5 burrito example ×2). Once decided, clear `skip` on those rows in `audit/edits/rosa_valley.json` (or edit the `new` text) and rerun `python3 tools/batchQ_build.py`.
