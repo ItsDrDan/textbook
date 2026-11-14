@@ -1,0 +1,31 @@
+{
+ "uploads": [
+  {
+   "file": "figures/pages/batchT/fig-p597183-2.svg",
+   "fileid": 512603,
+   "owner": 597183
+  },
+  {
+   "file": "figures/pages/batchT/fig-p597179-elongation.svg",
+   "fileid": 512767,
+   "owner": 597179
+  }
+ ],
+ "tags": {
+  "597202": {
+   "add": [
+    "author@Muhammad Arif Malik"
+   ]
+  }
+ },
+ "edits": {
+  "597203": [
+   {
+    "old": "figures/pathways/oer/atp_rotation.svg\"",
+    "new": "figures/pathways/oer/atp_rotation.svg?v=20261113v\"",
+    "count": 1,
+    "note": "14.4 rotor figure: cache-bust for enlarged H+ and c labels"
+   }
+  ]
+ }
+}

@@ -271,7 +271,7 @@ function atpRotation() {
     s += `<rect x="${cx + R + 6}" y="${cy - 30}" width="34" height="60" rx="10" fill="#cfe8dc" stroke="${GREEN}" stroke-width="2"/>` + label(cx + R + 23, cy, 'a', 16, { anchor: 'middle', weight: 900, color: GREEN }).svg;
     for (let k = 0; k < nsub; k++) { const a = rad(k * 45 + step * 45); const x = cx + R * Math.cos(a), y = cy + R * Math.sin(a);
       s += `<circle cx="${r1(x)}" cy="${r1(y)}" r="20" fill="#ece6fa" stroke="${PURPLE}" stroke-width="1.6"/>`;
-      if (k === 0) { if (loaded) s += `<circle cx="${r1(x)}" cy="${r1(y)}" r="11" fill="#ffffff" stroke="#1d1d1f" stroke-width="1.4"/>` + `<text x="${r1(x - 5.5)}" y="${r1(y + 4)}" font-family="${FONT}" font-size="10" font-weight="900" fill="#1d1d1f">H<tspan font-size="7" dy="-4">+</tspan></text>`; else s += label(x, y + 1, 'c', 12, { anchor: 'middle', color: PURPLE, weight: 900 }).svg; } }
+      if (k === 0) { if (loaded) s += `<circle cx="${r1(x)}" cy="${r1(y)}" r="12.5" fill="#ffffff" stroke="#1d1d1f" stroke-width="1.4"/>` + `<text x="${r1(x - 7)}" y="${r1(y + 4.5)}" font-family="${FONT}" font-size="12.5" font-weight="900" fill="#1d1d1f">H<tspan font-size="8" dy="-4.5">+</tspan></text>`; else s += label(x, y + 1, 'c', 12.5, { anchor: 'middle', color: PURPLE, weight: 900 }).svg; } }
     s += `<circle cx="${cx}" cy="${cy}" r="14" fill="#d9cdf2" stroke="${PURPLE}" stroke-width="1.6"/>` + label(cx, cy, 'γ', 13, { anchor: 'middle', weight: 900, color: PURPLE }).svg;
     return s; };
   // panel 1: H+ arrives from IMS at the a/c interface and binds a c subunit
