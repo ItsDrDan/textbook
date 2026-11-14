@@ -1,0 +1,21 @@
+{
+ "uploads": [],
+ "edits": {
+  "597112": [
+   {
+    "old": "&#8652;",
+    "new": "\\(\\rightleftharpoons\\)",
+    "count": 4,
+    "note": "equilibrium arrow in the new exercise answers printed as a missing-character box (the PDF fonts lack U+21CC); now MathJax, as on 6.10"
+   }
+  ],
+  "597116": [
+   {
+    "old": "&#8652;",
+    "new": "\\(\\rightleftharpoons\\)",
+    "count": 2,
+    "note": "equilibrium arrow in the new exercise answers printed as a missing-character box (the PDF fonts lack U+21CC); now MathJax, as on 6.10"
+   }
+  ]
+ }
+}
