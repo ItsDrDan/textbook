@@ -1,0 +1,90 @@
+{
+ "512634_fig-p597216-2.svg": [
+  [
+   "entry: carbamoyl",
+   26,
+   -6
+  ],
+  [
+   "① ornithine",
+   26,
+   -2
+  ],
+  [
+   "② argininosuccinate",
+   0,
+   6
+  ],
+  [
+   "③ argininosuccinate",
+   -22,
+   0
+  ],
+  [
+   "④ arginase",
+   0,
+   -4
+  ]
+ ],
+ "512628_fig-p597209-2.svg": [
+  [
+   "glycerol kinase",
+   0,
+   8
+  ],
+  [
+   "glycerol-3-P dehydrogenase",
+   0,
+   8
+  ]
+ ],
+ "512606_fig-p597192-1.svg": [
+  [
+   "glycolysis",
+   14,
+   0
+  ],
+  [
+   "pyruvate dehydrogenase",
+   14,
+   0
+  ],
+  [
+   "lactate",
+   -14,
+   0
+  ],
+  [
+   "decarboxylase",
+   -4,
+   0
+  ],
+  [
+   "alcohol",
+   -14,
+   0
+  ]
+ ],
+ "512774_fig-p597193-glycolysis-flow.svg": [
+  [
+   "1 hexokinase",
+   0,
+   -34
+  ],
+  [
+   "2 phosphoglucose",
+   0,
+   -30
+  ],
+  [
+   "3 phospho-",
+   0,
+   -30
+  ],
+  [
+   "5 triose",
+   -24,
+   0
+  ]
+ ]
+}

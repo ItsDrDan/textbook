@@ -1,0 +1,539 @@
+{
+ "pages": {
+  "597201": {
+   "words_before": 2858,
+   "words_after": 2719,
+   "ideas": [
+    {
+     "idea": "What one turn of the cycle yields (2 CO2, 3 NADH, 1 FADH2, 1 GTP)",
+     "tellings": 5,
+     "kept": "Lecture Connection 'The cycle in one paragraph' (plus Table 1 and Key Takeaways)"
+    },
+    {
+     "idea": "ATP values 2.5 / 1.5 / 10 per acetyl CoA",
+     "tellings": 5,
+     "kept": "'ATP numbers in this course' box, Table 1, Professor Tip"
+    },
+    {
+     "idea": "Order of the electron transport chain and the two mobile carriers",
+     "tellings": 2,
+     "kept": "Both kept: source paragraph is tied to Figure 2 and holds the only O2 + 4H+ + 4e- equation; LC bullets are the exam version"
+    },
+    {
+     "idea": "Oxidation vs reduction definition",
+     "tellings": 3,
+     "kept": "LC 'Redox bookkeeping' and LEO/GER Professor Tip"
+    },
+    {
+     "idea": "Carriers are reduced then reoxidized along the chain",
+     "tellings": 3,
+     "kept": "Electron Transport section (metal ions sentence, iron paragraph)"
+    },
+    {
+     "idea": "O2 is not used in the cycle but is needed to reoxidize the coenzymes",
+     "tellings": 2,
+     "kept": "Both kept (one per half; LC version adds the consequence)"
+    }
+   ],
+   "edits": [
+    {
+     "page_id": "597201",
+     "section": "Steps of the Citric Acid Cycle",
+     "old": " Over the next seven steps, two carbons leave as CO<sub>2</sub>, three NAD<sup>+</sup> and one FAD are reduced, one GTP (worth one ATP) is made, and oxaloacetate is regenerated so the cycle can turn again.",
+     "new": "",
+     "kind": "cut",
+     "idea": "What one turn of the citric acid cycle yields",
+     "kept_where": "Per turn (per acetyl CoA): 2 CO2, 3 NADH, 1 FADH2, 1 GTP",
+     "words_removed": 37
+    },
+    {
+     "page_id": "597201",
+     "section": "Electron Transport",
+     "old": " Recall that a compound is reduced when it gains electrons or hydrogen atoms and is oxidized when it loses electrons or hydrogen atoms.",
+     "new": "",
+     "kind": "cut",
+     "idea": "Definition of oxidation and reduction",
+     "kept_where": "Loss of Electrons is Oxidation, Gain of Electrons is Reduction",
+     "words_removed": 23
+    },
+    {
+     "page_id": "597201",
+     "section": "Oxidative Phosphorylation",
+     "old": "Each intermediate compound in the electron transport chain is reduced by the addition of one or two electrons in one reaction and then subsequently restored to its original form by delivering the electron(s) to the next compound along the chain. The successive",
+     "new": "The successive",
+     "kind": "cut",
+     "idea": "Chain components are reduced and then reoxidized as electrons pass along",
+     "kept_where": "The metal ions can be reduced and then oxidized repeatedly as electrons are passed",
+     "words_removed": 40
+    },
+    {
+     "page_id": "597201",
+     "section": "Oxidative Phosphorylation",
+     "old": "Experiment has shown that about 2.5 ATP molecules are formed for every molecule of NADH oxidized in the electron transport chain, and about 1.5 ATP molecules for every molecule of FADH<sub>2</sub> oxidized (older books use 3 and 2). Table",
+     "new": "Table",
+     "kind": "cut",
+     "idea": "ATP per NADH (2.5) and per FADH2 (1.5); older 3 and 2",
+     "kept_where": "This course uses 2.5 ATP per NADH and 1.5 per FADH2",
+     "words_removed": 39
+    }
+   ]
+  },
+  "597203": {
+   "words_before": 5460,
+   "words_after": 5218,
+   "ideas": [
+    {
+     "idea": "Electron transport chain overall (order, which complexes pump)",
+     "tellings": 3,
+     "kept": "Complex I-IV subsections (inline figures, equations) and LC 'Four stations, two shuttles'; intro overview trimmed"
+    },
+    {
+     "idea": "Mobile carriers coenzyme Q and cytochrome c",
+     "tellings": 6,
+     "kept": "'Electron and proton transport molecules' box and LC bullets"
+    },
+    {
+     "idea": "Carriers hold electrons more tightly; energy released per step",
+     "tellings": 2,
+     "kept": "'Electron transport chain' section paragraph"
+    },
+    {
+     "idea": "ATP synthase F_O / F_1 structure",
+     "tellings": 3,
+     "kept": "ATP-synthase intro paragraph (inline figure) and LC chemiosmotic paragraph"
+    },
+    {
+     "idea": "Definition of oxidative phosphorylation",
+     "tellings": 3,
+     "kept": "Intro definition and LC definition (whole coupled process)"
+    },
+    {
+     "idea": "Why 2.5 vs 1.5 ATP",
+     "tellings": 4,
+     "kept": "LC 'Why 2.5 and 1.5' and proton bookkeeping box"
+    },
+    {
+     "idea": "Uncouplers release energy as heat; brown fat",
+     "tellings": 4,
+     "kept": "'Heating the body' box (LC points back to it) and LC table; one repeated sentence cut"
+    },
+    {
+     "idea": "Cyanide blocks Complex IV; hydroxocobalamin antidote",
+     "tellings": 4,
+     "kept": "Molecule in the Clinic box (has an exercise), LC table row, Clinical Connection: Nursing; only the antidote sentence in the Valley Connection is cut"
+    },
+    {
+     "idea": "Summary of glucose catabolism (products per stage)",
+     "tellings": 3,
+     "kept": "All kept: each telling carries a figure reference or the only 'ten NADH' count"
+    }
+   ],
+   "edits": [
+    {
+     "page_id": "597203",
+     "section": "What is oxidative phosphorylation?",
+     "old": "In each step, the electrons are passed to a carrier that holds them more tightly, that is, one with a higher (more positive) reduction potential. Energy is released in each step, and the bigger the difference between the two carriers, the more energy is released. The energy is converted",
+     "new": "Energy is released at each step. The energy is converted",
+     "kind": "merge",
+     "idea": "Electrons pass to carriers that hold them more tightly; energy released per step",
+     "kept_where": "At each step, electrons pass to a carrier that holds them more tightly",
+     "words_removed": 39
+    },
+    {
+     "page_id": "597203",
+     "section": "Electron transport chain",
+     "old": " Coenzyme-Q (\\(\\ce{Q}\\)) is a hydrophobic electron carrier molecule that moves in a hydrophobic environment inside the lipid bilayer of the inner membrane from complexes I and II to complex III. Cytochrome c (\\(\\ce{Cyt \\; c}\\)) is a hydrophilic electron carrier molecule that moves along the surface of the inner membrane facing the intermembrane space from complex III to complex IV.",
+     "new": "",
+     "kind": "cut",
+     "idea": "The two mobile carriers (coenzyme Q, cytochrome c) and their routes",
+     "kept_where": "moves freely inside the lipid bilayer of the inner membrane, carrying electrons from Complex I",
+     "words_removed": 60
+    },
+    {
+     "page_id": "597203",
+     "section": "Complex I",
+     "old": " \\(\\ce{QH2}\\) then carries the electrons through the membrane to Complex III.",
+     "new": "",
+     "kind": "cut",
+     "idea": "Coenzyme Q carries electrons to Complex III",
+     "kept_where": "carrying electrons from Complex I and Complex II to Complex III",
+     "words_removed": 11
+    },
+    {
+     "page_id": "597203",
+     "section": "Complex II",
+     "old": "<p>Coenzyme-Q passes on the electrons from complex II to complex III as from complex I to complex III.</p>",
+     "new": "",
+     "kind": "cut",
+     "idea": "Coenzyme Q carries electrons to Complex III",
+     "kept_where": "carrying electrons from Complex I and Complex II to Complex III",
+     "words_removed": 18
+    },
+    {
+     "page_id": "597203",
+     "section": "Complex III",
+     "old": "<p>\\(\\ce{Cyt~ c}\\) carries the electron to complex IV.</p>",
+     "new": "",
+     "kind": "cut",
+     "idea": "Cytochrome c carries electrons from Complex III to Complex IV",
+     "kept_where": "carrying electrons one at a time from Complex III to Complex IV",
+     "words_removed": 8
+    },
+    {
+     "page_id": "597203",
+     "section": "Chemiosmosis",
+     "old": " in a process called <strong>oxidative phosphorylation</strong>. It takes",
+     "new": "; this is the phosphorylation half of oxidative phosphorylation. It takes",
+     "kind": "fix-conflict",
+     "idea": "Definition of oxidative phosphorylation (ATP synthesis alone vs electron transport coupled to ATP synthesis)",
+     "kept_where": "oxidation of NADH and FADH2 coupled to phosphorylation of ADP, is oxidative phosphorylation",
+     "words_removed": -2
+    },
+    {
+     "page_id": "597203",
+     "section": "Structure and mechanisms of operation of ATP-synthase",
+     "old": "It is in the shape of a mushroom with two major parts: a stem-like part which is a hydrophobic portion embedded in the inner membrane, is called <strong>F<sub>O,</sub></strong> and a mushroom head-like part that protrudes into the matrix, is called <strong>F<sub>1,</sub></strong> as illustrated in Figure \\(\\PageIndex{2}\\) a.",
+     "new": "Its two major parts, <strong>F<sub>O</sub></strong> and <strong>F<sub>1</sub></strong>, are illustrated in Figure \\(\\PageIndex{2}\\) a.",
+     "kind": "merge",
+     "idea": "Mushroom shape of ATP synthase: F_O in the membrane, F_1 in the matrix",
+     "kept_where": "is the hydrophobic part embedded in the inner membrane (see Figure",
+     "words_removed": 33
+    },
+    {
+     "page_id": "597203",
+     "section": "Heating the body",
+     "old": " When the electron transport chain operates without \\(\\ce{ATP}\\) synthesis, all of the electron transport energy is used as heat.",
+     "new": "",
+     "kind": "cut",
+     "idea": "Uncoupled electron transport releases all its energy as heat",
+     "kept_where": "So, all energy released during the electron transport process becomes heat energy",
+     "words_removed": 19
+    },
+    {
+     "page_id": "597203",
+     "section": "Valley Connection: Carbon Monoxide",
+     "old": " The antidote hydroxocobalamin binds cyanide to form cyanocobalamin (vitamin B<sub>12</sub>), which the kidneys excrete.<sup>4</sup>",
+     "new": "<sup>4</sup>",
+     "kind": "cut",
+     "idea": "Cyanide antidote hydroxocobalamin",
+     "kept_where": "its cobalt binds cyanide to form cyanocobalamin, which the kidneys excrete",
+     "words_removed": 16
+    },
+    {
+     "page_id": "597203",
+     "section": "Account of ATP production from complete oxidation of glucose",
+     "old": " In short, each NADH gives about 2.5 ATP and each FADH<sub>2</sub> about 1.5 ATP, because electrons from NADH pass three proton pumps (Complexes I, III and IV) and electrons from FADH<sub>2</sub> pass only two (III and IV). Each GTP counts as one ATP.",
+     "new": " Each GTP counts as one ATP.",
+     "kind": "cut",
+     "idea": "Why NADH is worth 2.5 ATP and FADH2 1.5 (three pumps vs two)",
+     "kept_where": "Electrons from NADH pass through three proton pumps (I, III, IV); electrons from FADH2",
+     "words_removed": 39
+    }
+   ]
+  },
+  "597209": {
+   "words_before": 4098,
+   "words_after": 4007,
+   "ideas": [
+    {
+     "idea": "Beta-oxidation walk-through (four reactions)",
+     "tellings": 4,
+     "kept": "Reaction 1-4 subsections (reaction figures) and LC four-question table"
+    },
+    {
+     "idea": "Process repeats until acetyl CoA remains",
+     "tellings": 3,
+     "kept": "'Number of beta-oxidation cycles' paragraph (introduces Figure 1)"
+    },
+    {
+     "idea": "'cycles' vs 'repetitions'",
+     "tellings": 2,
+     "kept": "Instructor's 'repetitions' in the LC; source text keeps 'cycles' with a one-clause bridge"
+    },
+    {
+     "idea": "Transport of acyl CoA into mitochondria",
+     "tellings": 2,
+     "kept": "Overview paragraph"
+    },
+    {
+     "idea": "Number of repetitions n/2 - 1 and acetyl CoA n/2",
+     "tellings": 6,
+     "kept": "Source formula paragraph, LC bullets, Professor Tip, Summary (all kept)"
+    },
+    {
+     "idea": "ATP formula derivation (+10, -2)",
+     "tellings": 2,
+     "kept": "First statement in the derivation; LC step-by-step count"
+    },
+    {
+     "idea": "Fat stores more energy than glucose",
+     "tellings": 4,
+     "kept": "Opening paragraph, 'Fat and obesity' box, LC Example 2"
+    },
+    {
+     "idea": "Unsaturated fatty acids give one fewer FADH2 per C=C",
+     "tellings": 2,
+     "kept": "Both kept (see final report): source box holds the only statement that 7n - 6 remains a good estimate"
+    },
+    {
+     "idea": "Glycerol to DHAP in two steps",
+     "tellings": 2,
+     "kept": "Both kept: source has the reaction images and matches the learning objective; LC has Figure 15.4.5"
+    }
+   ],
+   "edits": [
+    {
+     "page_id": "597209",
+     "section": "beta-Oxidation of fatty acids (overview)",
+     "old": " The process repeats on the fragment acyl-\\(\\ce{CoA}\\) again and again until the last acyl-\\(\\ce{CoA}\\) fragment left is acetyl-\\(\\ce{CoA}\\).",
+     "new": "",
+     "kind": "cut",
+     "idea": "The four reactions repeat until only acetyl CoA is left",
+     "kept_where": "goes through the process of four reactions again and again until the last",
+     "words_removed": 18
+    },
+    {
+     "page_id": "597209",
+     "section": "Activation of fatty acids",
+     "old": "<p>As described next, acyl-CoA product is transported from the cytosol into mitochondria for the \\(\\beta\\)-oxidation process.</p>",
+     "new": "",
+     "kind": "cut",
+     "idea": "Acyl CoA is transported from cytosol into mitochondria (and the pointer 'as described next' leads nowhere: the next heading is Reaction 1)",
+     "kept_where": "is transported from the cytosol into mitochondria for the second stage of",
+     "words_removed": 16
+    },
+    {
+     "page_id": "597209",
+     "section": "Reaction 4 -cleavage by thiolysis",
+     "old": "<p>The second product of the above reaction is an acyl-\\(\\ce{CoA}\\) with two \\(\\ce{C's}\\) fewer than the initial acyl-\\(\\ce{CoA}\\).</p>",
+     "new": "",
+     "kind": "cut",
+     "idea": "Thiolysis leaves an acyl CoA two carbons shorter",
+     "kept_where": "the rest of the chain, now two carbons shorter, stays attached to the new CoA",
+     "words_removed": 18
+    },
+    {
+     "page_id": "597209",
+     "section": "Number of beta-oxidation cycles",
+     "old": "the number of cycles for a fatty acid containing",
+     "new": "the number of cycles (the Lecture Connection calls them repetitions) for a fatty acid containing",
+     "kind": "fix-conflict",
+     "idea": "'cycles' vs 'repetitions' for rounds of beta-oxidation",
+     "kept_where": "it is a linear set of four reactions that repeats, and each repetition gives",
+     "words_removed": -6
+    },
+    {
+     "page_id": "597209",
+     "section": "ATP Yield from fatty acid oxidation",
+     "old": "So, after adding ten from the last acetyl-\\(\\ce{CoA}\\) to the formula ( \\((0.5\\times{n}-1)\\times{14})~\\ce{ATP's}\\) and subtracting 2 for the \\(\\ce{2ATP's}\\) consumed in the activation step, the formula",
+     "new": "So, the formula",
+     "kind": "merge",
+     "idea": "Derivation of the ATP formula: +10 for the last acetyl CoA, -2 for activation (stated twice in a row)",
+     "kept_where": "there are an additional 10 ATP's from the last acetyl-CoA. The activation step converts",
+     "words_removed": 23
+    },
+    {
+     "page_id": "597209",
+     "section": "ATP Yield from fatty acid oxidation",
+     "old": " Glucose is a quick energy source, but animals use fats as relatively longer-term energy storage molecules due to their higher energy density.",
+     "new": "",
+     "kind": "cut",
+     "idea": "Glucose is quick energy; fat is the denser long-term store",
+     "kept_where": "Although glucose is a quick energy source that animals need, fatty acids have higher energy",
+     "words_removed": 22
+    },
+    {
+     "page_id": "597209",
+     "section": "Lecture Connection: Example 1",
+     "old": "8 &minus; 1 = 7 cycles, so",
+     "new": "8 &minus; 1 = 7 repetitions, so",
+     "kind": "fix-conflict",
+     "idea": "'cycles' vs 'repetitions' for rounds of beta-oxidation",
+     "kept_where": "it is a linear set of four reactions that repeats, and each repetition gives",
+     "words_removed": 0
+    },
+    {
+     "page_id": "597209",
+     "section": "Lecture Connection: Example 1",
+     "old": "(from step 1 of each cycle)",
+     "new": "(from step 1 of each repetition)",
+     "kind": "fix-conflict",
+     "idea": "'cycles' vs 'repetitions' for rounds of beta-oxidation",
+     "kept_where": "it is a linear set of four reactions that repeats, and each repetition gives",
+     "words_removed": 0
+    },
+    {
+     "page_id": "597209",
+     "section": "Lecture Connection: Example 1",
+     "old": "(from step 3 of each cycle)",
+     "new": "(from step 3 of each repetition)",
+     "kind": "fix-conflict",
+     "idea": "'cycles' vs 'repetitions' for rounds of beta-oxidation",
+     "kept_where": "it is a linear set of four reactions that repeats, and each repetition gives",
+     "words_removed": 0
+    },
+    {
+     "page_id": "597209",
+     "section": "Lecture Connection: Example 1",
+     "old": "one more cycle (1.5",
+     "new": "one more repetition (1.5",
+     "kind": "fix-conflict",
+     "idea": "'cycles' vs 'repetitions' for rounds of beta-oxidation",
+     "kept_where": "it is a linear set of four reactions that repeats, and each repetition gives",
+     "words_removed": 0
+    },
+    {
+     "page_id": "597209",
+     "section": "Lecture Connection: Summary",
+     "old": "<em>n</em>/2 &minus; 1 cycles.",
+     "new": "<em>n</em>/2 &minus; 1 repetitions.",
+     "kind": "fix-conflict",
+     "idea": "'cycles' vs 'repetitions' for rounds of beta-oxidation",
+     "kept_where": "it is a linear set of four reactions that repeats, and each repetition gives",
+     "words_removed": 0
+    }
+   ]
+  },
+  "597213": {
+   "words_before": 2494,
+   "words_after": 2398,
+   "ideas": [
+    {
+     "idea": "DKA / ketoacidosis story",
+     "tellings": 5,
+     "kept": "Valley Connection, Clinical Connection: Nursing, anion-gap Example; source paragraph and LC bullet trimmed"
+    },
+    {
+     "idea": "Acetone is exhaled (fruity breath)",
+     "tellings": 8,
+     "kept": "Valley Connection 'In the clinic', LC paragraph after the table, clinical boxes, Summary"
+    },
+    {
+     "idea": "Why ketone bodies form (excess acetyl CoA, oxaloacetate diverted)",
+     "tellings": 4,
+     "kept": "Source paragraph and LC table intro (LC says 'the section above tells the story')"
+    },
+    {
+     "idea": "Who uses ketone bodies; brain in starvation",
+     "tellings": 4,
+     "kept": "Source paragraph (70% figure the Professor Tip cites) and LC 'Who uses them?' bullet"
+    },
+    {
+     "idea": "Blood pH in ketoacidosis",
+     "tellings": 2,
+     "kept": "Both, reconciled ('as low as 6.9'; 7.30 or lower)"
+    },
+    {
+     "idea": "Urine strip detects acetoacetate, not beta-hydroxybutyrate",
+     "tellings": 2,
+     "kept": "Both kept (Nursing box and In the Lab box)"
+    }
+   ],
+   "edits": [
+    {
+     "page_id": "597213",
+     "section": "Ketosis (source text)",
+     "old": " When the acetone in the blood reaches the lungs, its volatility causes it to be expelled in the breath. The sweet smell of acetone, a characteristic of ketosis, is frequently noticed on the breath of severely diabetic patients.",
+     "new": "",
+     "kind": "cut",
+     "idea": "Acetone is exhaled; fruity breath",
+     "kept_where": "The odor comes from acetone, the small, volatile ketone that is breathed out",
+     "words_removed": 38
+    },
+    {
+     "page_id": "597213",
+     "section": "Ketoacidosis (source text)",
+     "old": "(to 6.9 from a normal value of 7.4)",
+     "new": "(to as low as 6.9 from a normal value of 7.4)",
+     "kind": "fix-conflict",
+     "idea": "Blood pH in ketoacidosis (6.9 in source text vs 7.30 or lower in the Valley Connection)",
+     "kept_where": "in DKA the blood pH is 7.30 or lower",
+     "words_removed": -3
+    },
+    {
+     "page_id": "597213",
+     "section": "Ketoacidosis (source text)",
+     "old": " Untreated patients may go into a coma. At that point, prompt treatment is necessary if the person&rsquo;s life is to be saved.",
+     "new": "",
+     "kind": "cut",
+     "idea": "Untreated ketoacidosis leads to coma; it is an emergency",
+     "kept_where": "that can lead to dehydration, and ultimately coma and death",
+     "words_removed": 22
+    },
+    {
+     "page_id": "597213",
+     "section": "Lecture Connection: Ketosis vs. ketoacidosis",
+     "old": " In <strong>DKA</strong> insulin does not function, glucose cannot be used for energy, fats are broken down to acetyl CoA, and ketogenesis runs unchecked; the ketone bodies are soluble in blood and urine, and acetone is detectable in the breath.",
+     "new": "",
+     "kind": "cut",
+     "idea": "How DKA arises (no insulin -> fat breakdown -> ketone bodies)",
+     "kept_where": "DKA starts when the body does not have enough insulin to move glucose",
+     "words_removed": 39
+    }
+   ]
+  },
+  "597214": {
+   "words_before": 2104,
+   "words_after": 2108,
+   "ideas": [
+    {
+     "idea": "Lipogenesis is / is not beta-oxidation reversed",
+     "tellings": 5,
+     "kept": "LC opening sentence, table, Summary; source wording fixed"
+    },
+    {
+     "idea": "Location (cytosol)",
+     "tellings": 4,
+     "kept": "LC and comparison table (course convention); ER kept only for elongation and desaturation"
+    },
+    {
+     "idea": "Acetyl CoA carboxylase regulation",
+     "tellings": 4,
+     "kept": "'Enzymes of Fatty Acid Synthesis' paragraph (Professor Tip cites it), LC Regulation, table row"
+    },
+    {
+     "idea": "Chain-building steps to palmitate",
+     "tellings": 3,
+     "kept": "LC table; source paragraph kept as the top-half walk-through"
+    },
+    {
+     "idea": "Desaturation limit at C9-C10; essential fatty acids",
+     "tellings": 3,
+     "kept": "Source 'Desaturation' paragraph (defines desaturases), Professor Tip, Summary"
+    }
+   ],
+   "edits": [
+    {
+     "page_id": "597214",
+     "section": "Introduction (source text)",
+     "old": "occurs in the cytosol and endoplasmic reticulum of the cell and is chemically similar to the beta-oxidation process, but with a couple of key differences.",
+     "new": "occurs in the cytosol of the cell. Its reaction types mirror those of beta-oxidation, but it is a separate pathway with several key differences.",
+     "kind": "fix-conflict",
+     "idea": "Is lipogenesis beta-oxidation reversed? Where does it happen? (course convention: cytosol; elongation in the ER is stated under Elongation)",
+     "kept_where": "These mirror the steps of beta-oxidation, but the compartment, carrier, coenzyme and hormone signal are",
+     "words_removed": 1
+    },
+    {
+     "page_id": "597214",
+     "section": "Introduction (source text)",
+     "old": ", the only regulatory enzyme of fatty acid synthesis",
+     "new": "",
+     "kind": "fix-conflict",
+     "idea": "Acetyl CoA carboxylase: 'only' vs 'main' regulated enzyme",
+     "kept_where": "which makes malonyl-CoA, is the main regulated enzyme of fatty acid synthesis",
+     "words_removed": 9
+    },
+    {
+     "page_id": "597214",
+     "section": "Introduction (source text)",
+     "old": "From this point forward, the chemical reactions resemble those of beta oxidation reversed.",
+     "new": "From this point forward, the reaction types mirror those of beta-oxidation in reverse order, although the pathway is not beta-oxidation run backward (see the Lecture Connection).",
+     "kind": "fix-conflict",
+     "idea": "Is lipogenesis beta-oxidation reversed?",
+     "kept_where": "Steps 2, 3, and 4 are the reverse of steps 3, 2, and 1",
+     "words_removed": -13
+    }
+   ]
+  }
+ }
+}
