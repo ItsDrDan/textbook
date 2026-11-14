@@ -101,3 +101,14 @@ node tools/check_struct_labels.js
 - Live = `pages/live` (199/199 by hash) = Full-3.pdf text. ~2,000 items re-solved by five independent reviewers: 0 wrong keys.
 - Batch AH drafted (13 edits, 12 pages, NOT published): lab-manual wording (1.5, For Instructors, About), problem-count claim, 7 small science/alt-text fixes, and Part C: citrate synthase switched to transferase everywhere (author decision 2026-11-14; bank fb-3B-2030 and ADAPT CSV updated locally; live ADAPT item, QTI zip and his Ch 14 slides still say ligase).
 - Open: cover "Unknown" needs a LibreTexts author record for `dkwasniewski` (root page already has author@ tag); 13.5 footer printed blank in Full-3 (tags fine; recompile). The "Recheck three Valley figures" item above was closed on 11-13.
+
+## Published 2026-11-14 (batch AH)
+
+Batch AH (21 edits, 15 pages) is live; every page read back identical to `tools/batchAH_sha_2026-11-14.json` and `pages/live` is synced. Bank fb-3B-2030 now keys transferase (goes live with the PR merge).
+
+## Check after publishing (do these when reviewing the published book)
+
+1. **Previous/Next arrows (real problem, item N1 in `RELEASE_BLOCKERS_AND_FIXES.md`).** On 2026-11-14, signed-out Safari on the iPhone 17 simulator showed "◀ Previous" with no title and "Next ▶ CHEM V101 Textbook Ventura College" on every page tried (6.7, 14.7); tapping Next opened Ventura College's Workbench book. Signed in on desktop, the same page correctly links 6.6 / 6.8. Analyze: (a) open several pages signed out on desktop and on a phone (private window), note where the arrows go; (b) recheck after the book moves from Workbench to the Bookshelf; (c) if still wrong, report to LibreTexts with page ids and screenshots. No page edit can fix it (LibreTexts builds the arrows).
+2. Full PDF compile: cover author (needs LibreTexts author record for `dkwasniewski`), 13.5 footer (p. ~1098 printed "curated by ."), batch AH text present, "Swipe sideways" = 0, labels ≥ 6 pt.
+3. Try It that uses fb-3B-2030 (metabolism bank) shows transferase after GitHub Pages redeploys.
+4. Instructor's Ch 14 slides and any exam key: citrate synthase = transferase.
