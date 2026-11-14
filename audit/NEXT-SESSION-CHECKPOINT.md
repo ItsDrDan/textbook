@@ -13,7 +13,7 @@
 2. **Publish batch Q** (310 edits, 117 pages). Read `audit/BATCH_Q_REVIEW.md` first; the 24 new exercise answers and the 29 Glossary edits deserve a look. Method as for batches M–P: push the branch, have the signed-in LibreTexts tab fetch `tools/batchQ_2026-11-13.json` from raw.githubusercontent.com at that commit, dry-run against live (compare the `before` hashes in `tools/batchQ_sha_2026-11-13.json`), save, read back, sync `pages/live`.
 3. **With the Glossary pointer edits (13 terms):** change the same pointers on the Index page (488231) and move the page tags (GET then PUT `/@api/deki/pages/{id}/tags`), or the printed Index will disagree. Terms: alkane, hydrocarbon, digestion, Cori cycle, molecular formula, condensed structural formula, substitution reaction, mitochondrial matrix, anticodon, DNA, ATP synthase, coenzyme Q, cytochrome.
 4. **Merge the branch to `main`** so the widget label fix goes live on GitHub Pages; copy the new `molDesc` / `molWalk` / `optLabels` code into `finalexam`.
-5. **Author tag on the 78 own pages** so footers print "curated by Daniel Kwasniewski" instead of "curated by ." Test on one page and compile it before doing the rest.
+5. **(Done 2026-11-13: `author@Daniel Kwasniewski` added to all 78; see `tools/author_tags_2026-11-13.json`.)** ~~Author tag on the 78 own pages~~ so footers print "curated by Daniel Kwasniewski" instead of "curated by ." Test on one page and compile it before doing the rest.
 6. **Cover author "Unknown":** LibreTexts book record.
 7. **Report the glossary pop-up ARIA failure to LibreTexts** (details in `WEB-PDF-ACCESSIBILITY-QA.md`, A2), and decide on one sentence in the accessibility statement.
 
