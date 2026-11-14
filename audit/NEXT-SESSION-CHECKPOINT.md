@@ -110,5 +110,5 @@ Batch AH (21 edits, 15 pages) is live; every page read back identical to `tools/
 
 1. **Previous/Next arrows (real problem, item N1 in `RELEASE_BLOCKERS_AND_FIXES.md`).** On 2026-11-14, signed-out Safari on the iPhone 17 simulator showed "◀ Previous" with no title and "Next ▶ CHEM V101 Textbook Ventura College" on every page tried (6.7, 14.7); tapping Next opened Ventura College's Workbench book. Signed in on desktop, the same page correctly links 6.6 / 6.8. Analyze: (a) open several pages signed out on desktop and on a phone (private window), note where the arrows go; (b) recheck after the book moves from Workbench to the Bookshelf; (c) if still wrong, report to LibreTexts with page ids and screenshots. No page edit can fix it (LibreTexts builds the arrows).
 2. Full PDF compile: cover author (needs LibreTexts author record for `dkwasniewski`), 13.5 footer (p. ~1098 printed "curated by ."), batch AH text present, "Swipe sideways" = 0, labels ≥ 6 pt.
-3. Try It that uses fb-3B-2030 (metabolism bank) shows transferase after GitHub Pages redeploys.
+3. Done 2026-11-14: the Try It shows fb-3B-2030 with transferase as the key, and live ADAPT question 355222 keys transferase (read back).
 4. Instructor's Ch 14 slides and any exam key: citrate synthase = transferase.

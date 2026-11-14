@@ -119,3 +119,8 @@ When the answer choices are drawn structures, the A–D grid is shuffled for eac
 - Checked the course on a phone (iPhone 17 simulator, Student View): question text, choices, Submit, page buttons, the hint dialog and the video hints all fit and work. The 78 new questions (fb-3B-2238 to 2315) had no Show Hint button, because their hint field was empty; their hint appeared only after a wrong answer.
 - Each of the 78 now has its bank hint (`h`) in the hint field, as `<p>…</p>`, so Show Hint appears (no penalty, same as the course setting). The wrong-answer feedback is unchanged. Saved with PATCH /api/questions/{id} (editor-shaped body, "automatically update", reason "Hint added to the Show Hint button (2026-11-13).").
 - Read back: all 78 hints match the bank text (ADAPT stores some characters as entities such as `&ndash;`; the displayed text is identical), question text and correct answer unchanged, CC BY 4.0 / Daniel Kwasniewski / public unchanged, and every assignment shows the current revision. Checked on the phone: Show Hint appears on fb-3B-2238 and opens the hint.
+
+## Update of 2026-11-14: citrate synthase is a transferase
+
+- fb-3B-2030 (ADAPT 355222, Chapter 14 assignment 223795) updated in place to match the bank: new stem, key **transferase**, distractors ligase / hydrolase / oxidoreductase with per-choice feedback, bank hint in Show Hint. Same PATCH recipe as above, "automatically update", reason "Citrate synthase reclassified as a transferase to match the textbook (2026-11-14)." Read back: stem, choices, key and hint match; the assignment shows the new revision; CC BY 4.0, public.
+- The QTI zips still hold the old (ligase) version of this one item; the CSV row is current.
