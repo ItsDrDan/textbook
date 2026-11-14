@@ -30,7 +30,7 @@ function label(x, y, s, fs = 16, o = {}) {
   const flush = () => { if (run) { out += `<text x="${r1(rx)}" y="${r1(y + fs * .35)}" font-family="${FONT}" font-size="${fs}" font-weight="${wt}" fill="${col}"${o.italic ? ' font-style="italic"' : ''}>${run}</text>`; run = ''; } };
   let cx = x0;
   for (const k of lex(s)) {
-    if (k.t === 'P') { flush(); const r = fs * .5; out += `<circle cx="${r1(cx + fs * .62)}" cy="${r1(y)}" r="${r1(r)}" fill="${P_FILL}" stroke="${P_STROKE}" stroke-width="1.6"/><text x="${r1(cx + fs * .62)}" y="${r1(y + fs * .3)}" text-anchor="middle" font-family="${FONT}" font-size="${r1(fs * .78)}" font-weight="900" fill="#8a4a0e">P</text>`; cx += fs * 1.2; rx = cx; continue; }
+    if (k.t === 'P') { flush(); const r = fs * .57; /* .5/.78/.3 before 2026-11-13: the P printed under 6 pt in wide figures (tools/enlarge_circled_p.py) */ out += `<circle cx="${r1(cx + fs * .62)}" cy="${r1(y)}" r="${r1(r)}" fill="${P_FILL}" stroke="${P_STROKE}" stroke-width="1.6"/><text x="${r1(cx + fs * .62)}" y="${r1(y + fs * .357)}" text-anchor="middle" font-family="${FONT}" font-size="${r1(fs * .928)}" font-weight="900" fill="#8a4a0e">P</text>`; cx += fs * 1.3; rx = cx; continue; }
     if (!run) rx = cx;
     if (k.t === 'txt') run += esc(k.v);
     else run += `<tspan font-size="${r1(fs * .72)}" dy="${k.t === 'sub' ? r1(fs * .28) : r1(-fs * .4)}">${esc(k.v)}</tspan><tspan dy="${k.t === 'sub' ? r1(-fs * .28) : r1(fs * .4)}">&#8203;</tspan>`;

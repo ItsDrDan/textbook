@@ -1,0 +1,49 @@
+{
+ "uploads": [],
+ "edits": {
+  "597193": [
+   {
+    "old": "https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step4.svg\"",
+    "new": "https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step4.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "cache-bust: glycolysis/step4.svg"
+   }
+  ],
+  "597202": [
+   {
+    "old": "https://itsdrdan.github.io/textbook/figures/pathways/cac/step5.svg\"",
+    "new": "https://itsdrdan.github.io/textbook/figures/pathways/cac/step5.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "cache-bust: cac/step5.svg"
+   }
+  ],
+  "597203": [
+   {
+    "old": "https://itsdrdan.github.io/textbook/figures/print/atp_synthase-v3-1.svg\"",
+    "new": "https://itsdrdan.github.io/textbook/figures/print/atp_synthase-v3-1.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "cache-bust: print/atp_synthase-v3-1.svg"
+   },
+   {
+    "old": "https://itsdrdan.github.io/textbook/figures/print/atp_synthase-v3-2.svg\"",
+    "new": "https://itsdrdan.github.io/textbook/figures/print/atp_synthase-v3-2.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "cache-bust: print/atp_synthase-v3-2.svg"
+   },
+   {
+    "old": "https://itsdrdan.github.io/textbook/figures/pathways/etc/etc_inner.svg\"",
+    "new": "https://itsdrdan.github.io/textbook/figures/pathways/etc/etc_inner.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "cache-bust: etc/etc_inner.svg"
+   }
+  ],
+  "597216": [
+   {
+    "old": "https://itsdrdan.github.io/textbook/figures/pathways/urea/step1.svg?v=20261113u\"",
+    "new": "https://itsdrdan.github.io/textbook/figures/pathways/urea/step1.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "cache-bust: urea/step1.svg"
+   }
+  ]
+ }
+}
