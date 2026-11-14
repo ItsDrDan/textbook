@@ -1,0 +1,2522 @@
+{
+"1-3-bisphosphoglycerate-adp-3-phosphoglycerate-atp.svg": {
+"H": 276.0,
+"W": 610.0,
+"font": 14.0,
+"nested": false
+},
+"2-acetyl-coa-acetoacetyl-coa-coa-sh.svg": {
+"H": 366.0,
+"W": 629.0,
+"font": 16.0,
+"nested": false
+},
+"2-phosphoglycerate-phosphoenolpyruvate.svg": {
+"H": 276.0,
+"W": 629.0,
+"font": 14.0,
+"nested": false
+},
+"3-phosphoglycerate-2-phosphoglycerate.svg": {
+"H": 276.0,
+"W": 607.0,
+"font": 14.0,
+"nested": false
+},
+"GOB_Ball_17.2_mixed_triglyceride.svg": {
+"H": 90.0,
+"W": 181.0,
+"font": 200.0,
+"nested": false
+},
+"GOB_Ball_17.2_tristearin.svg": {
+"H": 90.0,
+"W": 137.0,
+"font": null,
+"nested": false
+},
+"acetaldehyde-ethanol.svg": {
+"H": 230.0,
+"W": 637.0,
+"font": 14.0,
+"nested": false
+},
+"acetoacetate-acetone.svg": {
+"H": 340.0,
+"W": 623.0,
+"font": 14.0,
+"nested": false
+},
+"acetoacetate-beta-hydroxybutyrate.svg": {
+"H": 296.0,
+"W": 665.0,
+"font": 14.0,
+"nested": false
+},
+"acetoacetyl-acp-beta-hydroxybutyryl-acp.svg": {
+"H": 322.0,
+"W": 594.0,
+"font": 16.0,
+"nested": false
+},
+"acetyl-coa-co2-malonyl-coa.svg": {
+"H": 320.0,
+"W": 594.0,
+"font": 16.0,
+"nested": false
+},
+"alanine-alpha-ketoglutarate-pyruvate-glutamate.svg": {
+"H": 342.0,
+"W": 1056.0,
+"font": 12.5,
+"nested": false
+},
+"alpha-ketoglutarate-succinyl-coa.svg": {
+"H": 386.0,
+"W": 645.0,
+"font": 16.0,
+"nested": false
+},
+"arginine-h2o-urea-ornithine.svg": {
+"H": 524.0,
+"W": 825.0,
+"font": 12.5,
+"nested": false
+},
+"atp_rotation.svg": {
+"H": 340.0,
+"W": 930.0,
+"font": 13.5,
+"nested": false
+},
+"atp_synthase-v3-1.svg": {
+"H": 296.0,
+"W": 860.0,
+"font": 13.5,
+"nested": false
+},
+"atp_synthase-v3-2.svg": {
+"H": 242.0,
+"W": 860.0,
+"font": 13.5,
+"nested": false
+},
+"atp_synthase.svg": {
+"H": 640.0,
+"W": 860.0,
+"font": 13.5,
+"nested": false
+},
+"beta-hydroxybutyryl-acp-crotonyl-acp.svg": {
+"H": 322.0,
+"W": 605.0,
+"font": 16.0,
+"nested": false
+},
+"beta-ketoacyl-coa-coa-sh-acyl-coa-2-c-shorter-acetyl-coa.svg": {
+"H": 366.0,
+"W": 846.0,
+"font": 16.0,
+"nested": false
+},
+"cac_wheel.svg": {
+"H": 1250.0,
+"W": 1180.0,
+"font": 12.5,
+"nested": true
+},
+"ch01.svg": {
+"H": 466.0,
+"W": 1061.0,
+"font": 17.0,
+"nested": false
+},
+"ch02.svg": {
+"H": 466.0,
+"W": 1266.0,
+"font": 17.0,
+"nested": false
+},
+"ch03.svg": {
+"H": 466.0,
+"W": 1266.0,
+"font": 17.0,
+"nested": false
+},
+"ch04.svg": {
+"H": 466.0,
+"W": 1061.0,
+"font": 17.0,
+"nested": false
+},
+"ch05.svg": {
+"H": 466.0,
+"W": 1061.0,
+"font": 17.0,
+"nested": false
+},
+"ch06.svg": {
+"H": 466.0,
+"W": 1061.0,
+"font": 17.0,
+"nested": false
+},
+"ch07.svg": {
+"H": 466.0,
+"W": 1266.0,
+"font": 17.0,
+"nested": false
+},
+"ch08.svg": {
+"H": 466.0,
+"W": 1061.0,
+"font": 17.0,
+"nested": false
+},
+"ch09.svg": {
+"H": 466.0,
+"W": 1061.0,
+"font": 17.0,
+"nested": false
+},
+"ch10.svg": {
+"H": 466.0,
+"W": 1266.0,
+"font": 17.0,
+"nested": false
+},
+"ch11.svg": {
+"H": 466.0,
+"W": 1266.0,
+"font": 17.0,
+"nested": false
+},
+"ch12.svg": {
+"H": 466.0,
+"W": 1266.0,
+"font": 17.0,
+"nested": false
+},
+"ch13.svg": {
+"H": 466.0,
+"W": 1266.0,
+"font": 17.0,
+"nested": false
+},
+"ch14.svg": {
+"H": 466.0,
+"W": 856.0,
+"font": 17.0,
+"nested": false
+},
+"ch15.svg": {
+"H": 466.0,
+"W": 1266.0,
+"font": 17.0,
+"nested": false
+},
+"citrate-isocitrate.svg": {
+"H": 342.0,
+"W": 594.0,
+"font": 14.0,
+"nested": false
+},
+"collagen.svg": {
+"H": 350.0,
+"W": 860.0,
+"font": 13.5,
+"nested": false
+},
+"crotonyl-acp-butyryl-acp.svg": {
+"H": 322.0,
+"W": 594.0,
+"font": 16.0,
+"nested": false
+},
+"diamond_network.svg": {
+"H": 440.0,
+"W": 440.0,
+"font": null,
+"nested": false
+},
+"ester_bp.svg": {
+"H": 430.0,
+"W": 840.0,
+"font": 14.0,
+"nested": false
+},
+"etc.svg": {
+"H": 596.0,
+"W": 1040.0,
+"font": 14.0,
+"nested": false
+},
+"etc_game.svg": {
+"H": 480.0,
+"W": 1040.0,
+"font": 16.0,
+"nested": false
+},
+"etc_inner.svg": {
+"H": 480.0,
+"W": 1040.0,
+"font": 16.0,
+"nested": false
+},
+"fa_synthesis-1.svg": {
+"H": 426.0,
+"W": 1000.0,
+"font": 14.0,
+"nested": false
+},
+"fa_synthesis-2.svg": {
+"H": 314.0,
+"W": 1000.0,
+"font": 14.0,
+"nested": false
+},
+"fa_synthesis-v2-1.svg": {
+"H": 342.0,
+"W": 1000.0,
+"font": 14.0,
+"nested": false
+},
+"fa_synthesis-v2-2.svg": {
+"H": 398.0,
+"W": 1000.0,
+"font": 14.0,
+"nested": false
+},
+"fa_synthesis.svg": {
+"H": 740.0,
+"W": 1000.0,
+"font": 14.0,
+"nested": false
+},
+"fatty-acyl-coa-trans-enoyl-coa.svg": {
+"H": 322.0,
+"W": 595.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597056-lewis-errors.svg": {
+"H": 412.0,
+"W": 1000.0,
+"font": 13.5,
+"nested": false
+},
+"fig-p597059-1.svg": {
+"H": 235.0,
+"W": 170.0,
+"font": null,
+"nested": false
+},
+"fig-p597059-aspartame-groups.svg": {
+"H": 288.0,
+"W": 468.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597060-1.svg": {
+"H": 116.0,
+"W": 242.0,
+"font": null,
+"nested": false
+},
+"fig-p597060-2.svg": {
+"H": 116.0,
+"W": 242.0,
+"font": null,
+"nested": false
+},
+"fig-p597060-3.svg": {
+"H": 65.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597060-4.svg": {
+"H": 135.0,
+"W": 136.0,
+"font": null,
+"nested": false
+},
+"fig-p597061-1.svg": {
+"H": 235.0,
+"W": 170.0,
+"font": null,
+"nested": false
+},
+"fig-p597062-1.svg": {
+"H": 156.0,
+"W": 322.0,
+"font": null,
+"nested": false
+},
+"fig-p597062-2.svg": {
+"H": 235.0,
+"W": 170.0,
+"font": null,
+"nested": false
+},
+"fig-p597063-1.svg": {
+"H": 239.0,
+"W": 273.0,
+"font": null,
+"nested": false
+},
+"fig-p597063-2.svg": {
+"H": 235.0,
+"W": 172.0,
+"font": null,
+"nested": false
+},
+"fig-p597063-3.svg": {
+"H": 289.0,
+"W": 202.0,
+"font": null,
+"nested": false
+},
+"fig-p597067-1.svg": {
+"H": 65.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597067-2.svg": {
+"H": 101.0,
+"W": 137.0,
+"font": null,
+"nested": false
+},
+"fig-p597068-1.svg": {
+"H": 150.0,
+"W": 240.0,
+"font": 9.0,
+"nested": false
+},
+"fig-p597069-ex1-3.svg": {
+"H": 133.0,
+"W": 256.0,
+"font": null,
+"nested": false
+},
+"fig-p597072-1.svg": {
+"H": 128.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597073-1.svg": {
+"H": 140.0,
+"W": 580.0,
+"font": 12.0,
+"nested": false
+},
+"fig-p597073-ring-numbering.svg": {
+"H": 203.0,
+"W": 250.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597074-1.svg": {
+"H": 110.0,
+"W": 587.0,
+"font": 22.0,
+"nested": true
+},
+"fig-p597074-2.svg": {
+"H": 110.0,
+"W": 605.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597074-3.svg": {
+"H": 110.0,
+"W": 587.0,
+"font": 22.0,
+"nested": true
+},
+"fig-p597074-4.svg": {
+"H": 110.0,
+"W": 605.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597075-1.svg": {
+"H": 137.0,
+"W": 196.0,
+"font": null,
+"nested": false
+},
+"fig-p597079-1.svg": {
+"H": 103.0,
+"W": 261.0,
+"font": null,
+"nested": false
+},
+"fig-p597081-propene-hcl.svg": {
+"H": 152.0,
+"W": 595.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597082-1.svg": {
+"H": 134.0,
+"W": 199.0,
+"font": null,
+"nested": false
+},
+"fig-p597084-1.svg": {
+"H": 152.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597084-2.svg": {
+"H": 194.0,
+"W": 124.0,
+"font": null,
+"nested": false
+},
+"fig-p597084-3.svg": {
+"H": 188.0,
+"W": 150.0,
+"font": null,
+"nested": false
+},
+"fig-p597085-1.svg": {
+"H": 152.0,
+"W": 172.0,
+"font": null,
+"nested": false
+},
+"fig-p597085-2.svg": {
+"H": 152.0,
+"W": 172.0,
+"font": null,
+"nested": false
+},
+"fig-p597085-3.svg": {
+"H": 188.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597085-4.svg": {
+"H": 188.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597085-5.svg": {
+"H": 176.0,
+"W": 184.0,
+"font": null,
+"nested": false
+},
+"fig-p597086-1.svg": {
+"H": 110.0,
+"W": 511.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597086-2.svg": {
+"H": 110.0,
+"W": 535.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597086-3.svg": {
+"H": 146.0,
+"W": 524.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597086-4.svg": {
+"H": 146.0,
+"W": 591.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597086-5.svg": {
+"H": 110.0,
+"W": 511.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597086-6.svg": {
+"H": 110.0,
+"W": 535.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597086-7.svg": {
+"H": 146.0,
+"W": 524.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597086-8.svg": {
+"H": 146.0,
+"W": 591.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597086-rxn-bromination.svg": {
+"H": 170.0,
+"W": 357.0,
+"font": 22.0,
+"nested": true
+},
+"fig-p597086-rxn-nitration.svg": {
+"H": 170.0,
+"W": 385.0,
+"font": 22.0,
+"nested": true
+},
+"fig-p597086-rxn-polymer.svg": {
+"H": 170.0,
+"W": 436.0,
+"font": 22.0,
+"nested": false
+},
+"fig-p597086-rxn-sulfonation.svg": {
+"H": 170.0,
+"W": 298.0,
+"font": null,
+"nested": true
+},
+"fig-p597087-1.svg": {
+"H": 259.0,
+"W": 165.0,
+"font": null,
+"nested": false
+},
+"fig-p597087-2.svg": {
+"H": 109.0,
+"W": 320.0,
+"font": null,
+"nested": false
+},
+"fig-p597091-1.svg": {
+"H": 303.0,
+"W": 649.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597094-1.svg": {
+"H": 163.0,
+"W": 802.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597094-ex1b.svg": {
+"H": 96.0,
+"W": 153.0,
+"font": null,
+"nested": false
+},
+"fig-p597094-isocitrate.svg": {
+"H": 204.0,
+"W": 644.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597096-1.svg": {
+"H": 164.0,
+"W": 264.0,
+"font": null,
+"nested": false
+},
+"fig-p597096-hexylresorcinol.svg": {
+"H": 377.0,
+"W": 184.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597098-1.svg": {
+"H": 164.0,
+"W": 699.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597099-1.svg": {
+"H": 189.0,
+"W": 666.0,
+"font": 15.0,
+"nested": true
+},
+"fig-p597099-3.svg": {
+"H": 390.0,
+"W": 775.0,
+"font": 15.0,
+"nested": true
+},
+"fig-p597100-1.svg": {
+"H": 197.0,
+"W": 527.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597100-2.svg": {
+"H": 110.0,
+"W": 455.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597100-3.svg": {
+"H": 161.0,
+"W": 528.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597100-4.svg": {
+"H": 161.0,
+"W": 438.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597100-5.svg": {
+"H": 197.0,
+"W": 527.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597100-6.svg": {
+"H": 110.0,
+"W": 455.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597100-7.svg": {
+"H": 161.0,
+"W": 528.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597100-8.svg": {
+"H": 161.0,
+"W": 438.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597100-rxn-combustion.svg": {
+"H": 170.0,
+"W": 522.0,
+"font": 22.0,
+"nested": true
+},
+"fig-p597100-rxn-disulfide.svg": {
+"H": 170.0,
+"W": 344.0,
+"font": null,
+"nested": true
+},
+"fig-p597100-rxn-hydration.svg": {
+"H": 170.0,
+"W": 335.0,
+"font": null,
+"nested": true
+},
+"fig-p597103-1.svg": {
+"H": 73.0,
+"W": 260.0,
+"font": null,
+"nested": false
+},
+"fig-p597103-aldehydes.svg": {
+"H": 388.0,
+"W": 626.0,
+"font": null,
+"nested": false
+},
+"fig-p597104-1.svg": {
+"H": 146.0,
+"W": 644.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597104-2.svg": {
+"H": 146.0,
+"W": 771.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597104-3.svg": {
+"H": 73.0,
+"W": 257.0,
+"font": null,
+"nested": false
+},
+"fig-p597104-4.svg": {
+"H": 116.0,
+"W": 172.0,
+"font": null,
+"nested": false
+},
+"fig-p597105-1.svg": {
+"H": 110.0,
+"W": 569.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597105-2.svg": {
+"H": 161.0,
+"W": 522.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597106-1.svg": {
+"H": 289.0,
+"W": 202.0,
+"font": null,
+"nested": false
+},
+"fig-p597106-2.svg": {
+"H": 170.0,
+"W": 520.0,
+"font": 13.0,
+"nested": false
+},
+"fig-p597106-3.svg": {
+"H": 300.0,
+"W": 820.0,
+"font": 13.0,
+"nested": false
+},
+"fig-p597106-4.svg": {
+"H": 230.0,
+"W": 560.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597106-menthol-carvone.svg": {
+"H": 260.0,
+"W": 389.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597107-1.svg": {
+"H": 161.0,
+"W": 460.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597107-2.svg": {
+"H": 146.0,
+"W": 566.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597107-3.svg": {
+"H": 146.0,
+"W": 644.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597107-4.svg": {
+"H": 161.0,
+"W": 460.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597107-5.svg": {
+"H": 146.0,
+"W": 566.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597107-6.svg": {
+"H": 146.0,
+"W": 644.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597107-7.svg": {
+"H": 146.0,
+"W": 804.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597107-8.svg": {
+"H": 101.0,
+"W": 196.0,
+"font": null,
+"nested": false
+},
+"fig-p597107-9.svg": {
+"H": 101.0,
+"W": 199.0,
+"font": null,
+"nested": false
+},
+"fig-p597107-rxn-acetal-hydrolysis.svg": {
+"H": 170.0,
+"W": 424.0,
+"font": 22.0,
+"nested": true
+},
+"fig-p597108-1.svg": {
+"H": 290.0,
+"W": 300.0,
+"font": null,
+"nested": false
+},
+"fig-p597108-2.svg": {
+"H": 285.0,
+"W": 440.0,
+"font": null,
+"nested": false
+},
+"fig-p597108-3.svg": {
+"H": 285.0,
+"W": 660.0,
+"font": null,
+"nested": false
+},
+"fig-p597109-1.svg": {
+"H": 101.0,
+"W": 137.0,
+"font": null,
+"nested": false
+},
+"fig-p597109-2.svg": {
+"H": 101.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597109-3.svg": {
+"H": 101.0,
+"W": 137.0,
+"font": null,
+"nested": false
+},
+"fig-p597109-4.svg": {
+"H": 101.0,
+"W": 137.0,
+"font": null,
+"nested": false
+},
+"fig-p597109-5.svg": {
+"H": 170.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597109-6.svg": {
+"H": 205.0,
+"W": 172.0,
+"font": null,
+"nested": false
+},
+"fig-p597109-7.svg": {
+"H": 206.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597109-8.svg": {
+"H": 206.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597111-acid-dimer.svg": {
+"H": 300.0,
+"W": 980.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597115-1.svg": {
+"H": 161.0,
+"W": 787.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597115-pet-formation.svg": {
+"H": 365.0,
+"W": 622.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597116-1.svg": {
+"H": 199.0,
+"W": 233.0,
+"font": null,
+"nested": false
+},
+"fig-p597116-2.svg": {
+"H": 146.0,
+"W": 890.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597116-3.svg": {
+"H": 146.0,
+"W": 1000.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597116-4.svg": {
+"H": 199.0,
+"W": 233.0,
+"font": null,
+"nested": false
+},
+"fig-p597116-5.svg": {
+"H": 152.0,
+"W": 203.0,
+"font": null,
+"nested": false
+},
+"fig-p597116-6.svg": {
+"H": 101.0,
+"W": 137.0,
+"font": null,
+"nested": false
+},
+"fig-p597116-saponification-tristearin.svg": {
+"H": 236.0,
+"W": 832.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597117-1.svg": {
+"H": 128.0,
+"W": 254.0,
+"font": null,
+"nested": false
+},
+"fig-p597118-aspirin-stomach-blood.svg": {
+"H": 254.0,
+"W": 660.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597119-1.svg": {
+"H": 146.0,
+"W": 786.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597119-2.svg": {
+"H": 161.0,
+"W": 787.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597119-3.svg": {
+"H": 161.0,
+"W": 883.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597119-4.svg": {
+"H": 161.0,
+"W": 787.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597119-5.svg": {
+"H": 161.0,
+"W": 787.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597119-6.svg": {
+"H": 161.0,
+"W": 830.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597119-7.svg": {
+"H": 146.0,
+"W": 786.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597121-1.svg": {
+"H": 65.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597121-2.svg": {
+"H": 65.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597121-3.svg": {
+"H": 113.0,
+"W": 196.0,
+"font": null,
+"nested": false
+},
+"fig-p597121-4.svg": {
+"H": 92.0,
+"W": 137.0,
+"font": null,
+"nested": false
+},
+"fig-p597121-5.svg": {
+"H": 152.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597121-6.svg": {
+"H": 188.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597121-7.svg": {
+"H": 164.0,
+"W": 143.0,
+"font": null,
+"nested": false
+},
+"fig-p597123-lidocaine-neutral.svg": {
+"H": 360.0,
+"W": 1000.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597123-octylamine.svg": {
+"H": 90.0,
+"W": 599.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597124-1.svg": {
+"H": 101.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597124-2.svg": {
+"H": 101.0,
+"W": 196.0,
+"font": null,
+"nested": false
+},
+"fig-p597124-3.svg": {
+"H": 137.0,
+"W": 196.0,
+"font": null,
+"nested": false
+},
+"fig-p597124-4.svg": {
+"H": 235.0,
+"W": 170.0,
+"font": null,
+"nested": false
+},
+"fig-p597124-5.svg": {
+"H": 101.0,
+"W": 137.0,
+"font": null,
+"nested": false
+},
+"fig-p597126-amide-two-step.svg": {
+"H": 137.0,
+"W": 932.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597127-1.svg": {
+"H": 239.0,
+"W": 273.0,
+"font": null,
+"nested": false
+},
+"fig-p597127-2.svg": {
+"H": 352.0,
+"W": 186.0,
+"font": null,
+"nested": false
+},
+"fig-p597128-1.svg": {
+"H": 116.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597128-2.svg": {
+"H": 116.0,
+"W": 140.0,
+"font": null,
+"nested": false
+},
+"fig-p597128-3.svg": {
+"H": 116.0,
+"W": 182.0,
+"font": null,
+"nested": false
+},
+"fig-p597128-4.svg": {
+"H": 99.0,
+"W": 136.0,
+"font": null,
+"nested": false
+},
+"fig-p597128-5.svg": {
+"H": 99.0,
+"W": 136.0,
+"font": null,
+"nested": false
+},
+"fig-p597128-6.svg": {
+"H": 116.0,
+"W": 182.0,
+"font": null,
+"nested": false
+},
+"fig-p597128-7.svg": {
+"H": 159.0,
+"W": 214.0,
+"font": null,
+"nested": false
+},
+"fig-p597130-1.svg": {
+"H": 137.0,
+"W": 254.0,
+"font": null,
+"nested": false
+},
+"fig-p597130-2.svg": {
+"H": 164.0,
+"W": 524.0,
+"font": null,
+"nested": false
+},
+"fig-p597130-3.svg": {
+"H": 167.0,
+"W": 367.0,
+"font": null,
+"nested": false
+},
+"fig-p597130-nylon-synthesis.svg": {
+"H": 390.0,
+"W": 769.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597131-1.svg": {
+"H": 400.0,
+"W": 680.0,
+"font": 13.0,
+"nested": false
+},
+"fig-p597131-10.svg": {
+"H": 183.0,
+"W": 141.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-11.svg": {
+"H": 101.0,
+"W": 225.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-12.svg": {
+"H": 137.0,
+"W": 254.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-13.svg": {
+"H": 101.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-14.svg": {
+"H": 259.0,
+"W": 196.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-2.svg": {
+"H": 101.0,
+"W": 254.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-3.svg": {
+"H": 236.0,
+"W": 172.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-4.svg": {
+"H": 241.0,
+"W": 172.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-5.svg": {
+"H": 259.0,
+"W": 196.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-6.svg": {
+"H": 259.0,
+"W": 184.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-7.svg": {
+"H": 259.0,
+"W": 184.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-8.svg": {
+"H": 236.0,
+"W": 172.0,
+"font": null,
+"nested": false
+},
+"fig-p597131-9.svg": {
+"H": 203.0,
+"W": 213.0,
+"font": null,
+"nested": false
+},
+"fig-p597132-1.svg": {
+"H": 110.0,
+"W": 618.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597132-2.svg": {
+"H": 161.0,
+"W": 734.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597132-3.svg": {
+"H": 161.0,
+"W": 751.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597132-4.svg": {
+"H": 110.0,
+"W": 618.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597132-5.svg": {
+"H": 161.0,
+"W": 734.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597132-6.svg": {
+"H": 161.0,
+"W": 751.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597132-7.svg": {
+"H": 146.0,
+"W": 948.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597135-1.svg": {
+"H": 316.0,
+"W": 880.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597136-1.svg": {
+"H": 316.0,
+"W": 660.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597137-1.svg": {
+"H": 232.0,
+"W": 560.0,
+"font": 11.0,
+"nested": false
+},
+"fig-p597137-fischer-to-haworth.svg": {
+"H": 420.0,
+"W": 1180.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597138-1.svg": {
+"H": 352.0,
+"W": 792.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597139-1.svg": {
+"H": 280.0,
+"W": 450.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597140-polysaccharides.svg": {
+"H": 420.0,
+"W": 1080.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597142-1.svg": {
+"H": 316.0,
+"W": 220.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597142-2.svg": {
+"H": 212.0,
+"W": 240.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597142-3.svg": {
+"H": 360.0,
+"W": 370.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597144-1.svg": {
+"H": 416.0,
+"W": 1056.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597144-2.svg": {
+"H": 159.0,
+"W": 606.0,
+"font": 12.0,
+"nested": false
+},
+"fig-p597144-3.svg": {
+"H": 174.0,
+"W": 606.0,
+"font": 12.0,
+"nested": false
+},
+"fig-p597144-4.svg": {
+"H": 343.0,
+"W": 334.0,
+"font": null,
+"nested": false
+},
+"fig-p597144-5.svg": {
+"H": 391.0,
+"W": 424.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597144-6.svg": {
+"H": 225.0,
+"W": 604.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597144-7.svg": {
+"H": 296.0,
+"W": 1082.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597144-linoleic-omega.svg": {
+"H": 416.0,
+"W": 1000.0,
+"font": 13.0,
+"nested": false
+},
+"fig-p597146-1.svg": {
+"H": 206.0,
+"W": 203.0,
+"font": null,
+"nested": false
+},
+"fig-p597146-phosphatidylcholine.svg": {
+"H": 480.0,
+"W": 410.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597146-popc-condensed.svg": {
+"H": 250.0,
+"W": 720.0,
+"font": null,
+"nested": false
+},
+"fig-p597148-1.svg": {
+"H": 372.0,
+"W": 860.0,
+"font": 13.0,
+"nested": false
+},
+"fig-p597148-rbc-tonicity.svg": {
+"H": 380.0,
+"W": 1000.0,
+"font": 17.0,
+"nested": false
+},
+"fig-p597149-1.svg": {
+"H": 170.0,
+"W": 275.0,
+"font": null,
+"nested": false
+},
+"fig-p597149-2.svg": {
+"H": 332.0,
+"W": 492.0,
+"font": 12.0,
+"nested": false
+},
+"fig-p597149-estradiol.svg": {
+"H": 249.0,
+"W": 309.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597149-testosterone.svg": {
+"H": 250.0,
+"W": 301.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597154-1.svg": {
+"H": 256.0,
+"W": 640.0,
+"font": 12.0,
+"nested": false
+},
+"fig-p597154-2.svg": {
+"H": 156.0,
+"W": 402.0,
+"font": null,
+"nested": false
+},
+"fig-p597157-1.svg": {
+"H": 185.0,
+"W": 1231.0,
+"font": 14.5,
+"nested": true
+},
+"fig-p597157-2.svg": {
+"H": 196.0,
+"W": 762.0,
+"font": null,
+"nested": false
+},
+"fig-p597158-1.svg": {
+"H": 296.0,
+"W": 892.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597160-triple-helix.svg": {
+"H": 358.0,
+"W": 124.0,
+"font": 17.0,
+"nested": false
+},
+"fig-p597165-1.svg": {
+"H": 196.0,
+"W": 762.0,
+"font": null,
+"nested": false
+},
+"fig-p597165-2.svg": {
+"H": 156.0,
+"W": 482.0,
+"font": null,
+"nested": false
+},
+"fig-p597166-1.svg": {
+"H": 360.0,
+"W": 700.0,
+"font": 12.0,
+"nested": false
+},
+"fig-p597167-1.svg": {
+"H": 330.0,
+"W": 800.0,
+"font": 13.0,
+"nested": false
+},
+"fig-p597168-1.svg": {
+"H": 300.0,
+"W": 900.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597169-rate-inhibitors.svg": {
+"H": 320.0,
+"W": 820.0,
+"font": 12.5,
+"nested": false
+},
+"fig-p597171-1.svg": {
+"H": 272.0,
+"W": 782.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597172-1.svg": {
+"H": 300.0,
+"W": 760.0,
+"font": 13.0,
+"nested": true
+},
+"fig-p597172-2.svg": {
+"H": 352.0,
+"W": 1082.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597174-1.svg": {
+"H": 330.0,
+"W": 560.0,
+"font": 12.0,
+"nested": false
+},
+"fig-p597175-1.svg": {
+"H": 336.0,
+"W": 500.0,
+"font": 16.0,
+"nested": true
+},
+"fig-p597175-2.svg": {
+"H": 156.0,
+"W": 452.0,
+"font": 16.0,
+"nested": true
+},
+"fig-p597175-3.svg": {
+"H": 306.0,
+"W": 415.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597176-1.svg": {
+"H": 376.0,
+"W": 520.0,
+"font": 13.0,
+"nested": false
+},
+"fig-p597176-2.svg": {
+"H": 434.0,
+"W": 348.0,
+"font": 16.0,
+"nested": true
+},
+"fig-p597177-1.svg": {
+"H": 392.0,
+"W": 982.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597177-replication-fork.svg": {
+"H": 340.0,
+"W": 920.0,
+"font": 13.0,
+"nested": false
+},
+"fig-p597179-elongation.svg": {
+"H": 380.0,
+"W": 1140.0,
+"font": 13.1,
+"nested": false
+},
+"fig-p597181-raltegravir.svg": {
+"H": 325.0,
+"W": 467.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597183-1.svg": {
+"H": 210.0,
+"W": 450.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597183-2.svg": {
+"H": 451.0,
+"W": 460.0,
+"font": 13.0,
+"nested": false
+},
+"fig-p597183-3.svg": {
+"H": 344.0,
+"W": 1082.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597188-1-1.svg": {
+"H": 328.0,
+"W": 857.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597188-1-2.svg": {
+"H": 208.0,
+"W": 857.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597188-1.svg": {
+"H": 536.0,
+"W": 857.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597188-metabolism.svg": {
+"H": 370.0,
+"W": 920.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597192-1.svg": {
+"H": 495.0,
+"W": 1052.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597193-glycolysis-flow.svg": {
+"H": 470.0,
+"W": 1220.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597194-1-1.svg": {
+"H": 138.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597194-1-2.svg": {
+"H": 438.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597194-1-v2-1.svg": {
+"H": 136.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597194-1-v2-2.svg": {
+"H": 353.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597194-1-v2-3.svg": {
+"H": 87.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597194-1.svg": {
+"H": 576.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597194-2-1.svg": {
+"H": 287.0,
+"W": 932.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597194-2-2.svg": {
+"H": 261.0,
+"W": 932.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597194-2.svg": {
+"H": 548.0,
+"W": 932.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597195-1.svg": {
+"H": 402.0,
+"W": 832.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597195-2.svg": {
+"H": 390.0,
+"W": 780.0,
+"font": 12.0,
+"nested": false
+},
+"fig-p597196-1-1.svg": {
+"H": 269.0,
+"W": 1142.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597196-1-2.svg": {
+"H": 407.0,
+"W": 1142.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597196-1.svg": {
+"H": 676.0,
+"W": 1142.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597196-2-1.svg": {
+"H": 146.0,
+"W": 792.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597196-2-2.svg": {
+"H": 117.0,
+"W": 792.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597196-2-3.svg": {
+"H": 297.0,
+"W": 792.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597196-2.svg": {
+"H": 560.0,
+"W": 792.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597196-glycogen-branches.svg": {
+"H": 420.0,
+"W": 1040.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597197-1.svg": {
+"H": 137.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597197-2.svg": {
+"H": 101.0,
+"W": 196.0,
+"font": null,
+"nested": false
+},
+"fig-p597197-3.svg": {
+"H": 137.0,
+"W": 166.0,
+"font": null,
+"nested": false
+},
+"fig-p597197-4-1.svg": {
+"H": 222.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597197-4-2.svg": {
+"H": 137.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597197-4-3.svg": {
+"H": 393.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597197-4-v2-1.svg": {
+"H": 222.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597197-4-v2-2.svg": {
+"H": 137.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597197-4-v2-3.svg": {
+"H": 393.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597197-4.svg": {
+"H": 752.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597197-5.svg": {
+"H": 457.0,
+"W": 957.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597197-6.svg": {
+"H": 137.0,
+"W": 225.0,
+"font": null,
+"nested": false
+},
+"fig-p597200-1.svg": {
+"H": 272.0,
+"W": 907.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597202-1-1.svg": {
+"H": 503.0,
+"W": 1187.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597202-1-2.svg": {
+"H": 449.0,
+"W": 1187.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597202-1-v2-1.svg": {
+"H": 334.0,
+"W": 1187.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597202-1-v2-2.svg": {
+"H": 466.0,
+"W": 1187.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597202-1-v2-3.svg": {
+"H": 152.0,
+"W": 1187.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597202-1.svg": {
+"H": 952.0,
+"W": 1187.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597202-cac-flow.svg": {
+"H": 480.0,
+"W": 1220.0,
+"font": 16.0,
+"nested": false
+},
+"fig-p597204-2.svg": {
+"H": 372.0,
+"W": 1082.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597204-yield-flow.svg": {
+"H": 422.0,
+"W": 1205.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597207-1.svg": {
+"H": 432.0,
+"W": 1107.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597208-1.svg": {
+"H": 172.0,
+"W": 1054.0,
+"font": 14.0,
+"nested": true
+},
+"fig-p597209-1.svg": {
+"H": 412.0,
+"W": 1032.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597209-2.svg": {
+"H": 317.0,
+"W": 1182.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597209-acyl-coa-numbering.svg": {
+"H": 420.0,
+"W": 1000.0,
+"font": 14.0,
+"nested": false
+},
+"fig-p597210-1-1.svg": {
+"H": 415.0,
+"W": 957.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597210-1-2.svg": {
+"H": 217.0,
+"W": 957.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597210-1-v2-1.svg": {
+"H": 171.0,
+"W": 957.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597210-1-v2-2.svg": {
+"H": 307.0,
+"W": 957.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597210-1-v2-3.svg": {
+"H": 154.0,
+"W": 957.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597210-1.svg": {
+"H": 632.0,
+"W": 957.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597212-1.svg": {
+"H": 532.0,
+"W": 1032.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597212-2.svg": {
+"H": 447.0,
+"W": 832.0,
+"font": 15.0,
+"nested": false
+},
+"fig-p597213-1.svg": {
+"H": 142.0,
+"W": 512.0,
+"font": 14.0,
+"nested": true
+},
+"fig-p597216-1.svg": {
+"H": 247.0,
+"W": 204.0,
+"font": null,
+"nested": false
+},
+"fig-p597216-2.svg": {
+"H": 507.0,
+"W": 1172.0,
+"font": 15.0,
+"nested": false
+},
+"fructose-1-6-bisphosphate-dihydroxyacetone-phosphate-glyceraldehyde-3-phosphate.svg": {
+"H": 290.0,
+"W": 967.0,
+"font": 12.5,
+"nested": false
+},
+"fructose-6-phosphate-fructose-1-6-bisphosphate.svg": {
+"H": 290.0,
+"W": 712.0,
+"font": 14.0,
+"nested": false
+},
+"full-investment-1.svg": {
+"H": 297.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-2.svg": {
+"H": 259.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-3.svg": {
+"H": 270.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-4.svg": {
+"H": 162.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-5.svg": {
+"H": 254.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-6.svg": {
+"H": 86.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-v2-1.svg": {
+"H": 179.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-v2-2.svg": {
+"H": 113.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-v2-3.svg": {
+"H": 243.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-v2-4.svg": {
+"H": 271.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-v2-5.svg": {
+"H": 271.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment-v2-6.svg": {
+"H": 251.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-investment.svg": {
+"H": 1328.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-1.svg": {
+"H": 320.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-2.svg": {
+"H": 262.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-3.svg": {
+"H": 262.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-4.svg": {
+"H": 262.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-5.svg": {
+"H": 262.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-6.svg": {
+"H": 210.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-v2-1.svg": {
+"H": 62.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-v2-2.svg": {
+"H": 253.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-v2-3.svg": {
+"H": 262.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-v2-4.svg": {
+"H": 262.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-v2-5.svg": {
+"H": 262.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-v2-6.svg": {
+"H": 262.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff-v2-7.svg": {
+"H": 215.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"full-payoff.svg": {
+"H": 1578.0,
+"W": 600.0,
+"font": 15.0,
+"nested": false
+},
+"fumarate-malate.svg": {
+"H": 340.0,
+"W": 594.0,
+"font": 14.0,
+"nested": false
+},
+"glucose-1-phosphate-glucose-6-phosphate.svg": {
+"H": 264.0,
+"W": 584.0,
+"font": 14.0,
+"nested": false
+},
+"glucose-6-phosphate-fructose-6-phosphate.svg": {
+"H": 290.0,
+"W": 665.0,
+"font": 14.0,
+"nested": false
+},
+"glucose-glucose-6-phosphate.svg": {
+"H": 264.0,
+"W": 584.0,
+"font": 14.0,
+"nested": false
+},
+"glucose_ring.svg": {
+"H": 468.0,
+"W": 720.0,
+"font": 13.5,
+"nested": false
+},
+"glutamate-alpha-ketoglutarate-nh4.svg": {
+"H": 386.0,
+"W": 607.0,
+"font": 14.0,
+"nested": false
+},
+"glycerol-3-phosphate-dihydroxyacetone-phosphate.svg": {
+"H": 250.0,
+"W": 721.0,
+"font": 14.0,
+"nested": false
+},
+"glycerol-glycerol-3-phosphate.svg": {
+"H": 250.0,
+"W": 594.0,
+"font": 15.0,
+"nested": false
+},
+"hydrogenation-1.svg": {
+"H": 118.0,
+"W": 760.0,
+"font": 13.5,
+"nested": false
+},
+"hydrogenation-2.svg": {
+"H": 286.0,
+"W": 760.0,
+"font": 13.5,
+"nested": false
+},
+"hydrogenation-3.svg": {
+"H": 173.0,
+"W": 760.0,
+"font": 13.5,
+"nested": false
+},
+"hydrogenation-4.svg": {
+"H": 323.0,
+"W": 760.0,
+"font": 13.5,
+"nested": false
+},
+"hydrogenation.svg": {
+"H": 900.0,
+"W": 760.0,
+"font": 13.5,
+"nested": false
+},
+"isocitrate-alpha-ketoglutarate.svg": {
+"H": 386.0,
+"W": 606.0,
+"font": 14.0,
+"nested": false
+},
+"l-beta-hydroxyacyl-coa-beta-ketoacyl-coa.svg": {
+"H": 322.0,
+"W": 661.0,
+"font": 16.0,
+"nested": false
+},
+"malate-oxaloacetate.svg": {
+"H": 296.0,
+"W": 594.0,
+"font": 14.0,
+"nested": false
+},
+"myelin_ms.svg": {
+"H": 430.0,
+"W": 860.0,
+"font": 13.0,
+"nested": false
+},
+"nonessential_aa-1.svg": {
+"H": 339.0,
+"W": 782.0,
+"font": 14.0,
+"nested": false
+},
+"nonessential_aa-2.svg": {
+"H": 253.0,
+"W": 782.0,
+"font": 14.0,
+"nested": false
+},
+"nonessential_aa-v2-1.svg": {
+"H": 223.0,
+"W": 782.0,
+"font": 14.0,
+"nested": false
+},
+"nonessential_aa-v2-2.svg": {
+"H": 96.0,
+"W": 782.0,
+"font": 14.0,
+"nested": false
+},
+"nonessential_aa-v2-3.svg": {
+"H": 273.0,
+"W": 782.0,
+"font": 14.0,
+"nested": false
+},
+"nonessential_aa.svg": {
+"H": 592.0,
+"W": 782.0,
+"font": 14.0,
+"nested": false
+},
+"oxaloacetate-acetyl-coa-citrate-coa-sh.svg": {
+"H": 386.0,
+"W": 594.0,
+"font": 14.0,
+"nested": false
+},
+"phosphoenolpyruvate-adp-pyruvate-atp.svg": {
+"H": 276.0,
+"W": 629.0,
+"font": 14.0,
+"nested": false
+},
+"pyruvate-acetaldehyde.svg": {
+"H": 294.0,
+"W": 649.0,
+"font": 14.0,
+"nested": false
+},
+"pyruvate-acetyl-coa.svg": {
+"H": 294.0,
+"W": 599.0,
+"font": 16.0,
+"nested": false
+},
+"pyruvate-co2-oxaloacetate.svg": {
+"H": 340.0,
+"W": 594.0,
+"font": 14.0,
+"nested": false
+},
+"pyruvate-lactate.svg": {
+"H": 250.0,
+"W": 594.0,
+"font": 14.0,
+"nested": false
+},
+"respiration-1.svg": {
+"H": 285.0,
+"W": 900.0,
+"font": 13.5,
+"nested": false
+},
+"respiration-2.svg": {
+"H": 112.0,
+"W": 900.0,
+"font": 13.5,
+"nested": false
+},
+"respiration-3.svg": {
+"H": 303.0,
+"W": 900.0,
+"font": 13.5,
+"nested": false
+},
+"respiration.svg": {
+"H": 700.0,
+"W": 900.0,
+"font": 13.5,
+"nested": false
+},
+"sphingolipids.svg": {
+"H": 520.0,
+"W": 920.0,
+"font": 15.0,
+"nested": false
+},
+"step1.svg": {
+"H": 376.0,
+"W": 982.0,
+"font": 13.5,
+"nested": false
+},
+"step10.svg": {
+"H": 292.0,
+"W": 629.0,
+"font": 13.0,
+"nested": false
+},
+"step2.svg": {
+"H": 470.0,
+"W": 865.0,
+"font": 13.5,
+"nested": false
+},
+"step3.svg": {
+"H": 470.0,
+"W": 825.0,
+"font": 13.5,
+"nested": false
+},
+"step4.svg": {
+"H": 376.0,
+"W": 825.0,
+"font": 13.5,
+"nested": false
+},
+"step5.svg": {
+"H": 292.0,
+"W": 755.0,
+"font": 14.0,
+"nested": false
+},
+"step6.svg": {
+"H": 336.0,
+"W": 773.0,
+"font": 13.0,
+"nested": false
+},
+"step7.svg": {
+"H": 292.0,
+"W": 610.0,
+"font": 13.0,
+"nested": false
+},
+"step8.svg": {
+"H": 292.0,
+"W": 607.0,
+"font": 13.0,
+"nested": false
+},
+"step9.svg": {
+"H": 292.0,
+"W": 629.0,
+"font": 13.0,
+"nested": false
+},
+"succinate-fumarate.svg": {
+"H": 296.0,
+"W": 603.0,
+"font": 14.0,
+"nested": false
+},
+"trans-enoyl-coa-l-beta-hydroxyacyl-coa.svg": {
+"H": 366.0,
+"W": 594.0,
+"font": 16.0,
+"nested": false
+},
+"trna_loading-1.svg": {
+"H": 390.0,
+"W": 900.0,
+"font": 14.0,
+"nested": false
+},
+"trna_loading-2.svg": {
+"H": 290.0,
+"W": 900.0,
+"font": 14.0,
+"nested": false
+},
+"trna_loading-v2-1.svg": {
+"H": 320.0,
+"W": 900.0,
+"font": 14.0,
+"nested": false
+},
+"trna_loading-v2-2.svg": {
+"H": 360.0,
+"W": 900.0,
+"font": 14.0,
+"nested": false
+},
+"trna_loading.svg": {
+"H": 680.0,
+"W": 900.0,
+"font": 14.0,
+"nested": false
+}
+}
