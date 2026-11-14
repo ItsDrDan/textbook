@@ -1,0 +1,305 @@
+{
+ "note": "Page tags moved on LibreTexts 2026-11-13 so the printed (tag-driven) Index matches the list on the Index page. Section numbers are those of 2026-11-13.",
+ "moves": [
+  {
+   "tag": "alcohol dehydrogenase",
+   "from": "4.6",
+   "to": "4.5"
+  },
+  {
+   "tag": "alkaloid",
+   "from": "7.3",
+   "to": "7.9"
+  },
+  {
+   "tag": "alkyl halide",
+   "from": "2.3",
+   "to": "2.8"
+  },
+  {
+   "tag": "allosteric enzyme",
+   "from": "11.4",
+   "to": "11.6"
+  },
+  {
+   "tag": "allosteric regulation",
+   "from": "11.4",
+   "to": "11.6"
+  },
+  {
+   "tag": "alpha helix",
+   "from": "10.5",
+   "to": "10.7"
+  },
+  {
+   "tag": "amide",
+   "from": "7.3",
+   "to": "7.4"
+  },
+  {
+   "tag": "anomers",
+   "from": "8.2",
+   "to": "8.4"
+  },
+  {
+   "tag": "benzene",
+   "from": "3.3",
+   "to": "3.7"
+  },
+  {
+   "tag": "carbonyl group",
+   "from": "5.5",
+   "to": "5.1"
+  },
+  {
+   "tag": "cellulose",
+   "from": "8.1",
+   "to": "8.7"
+  },
+  {
+   "tag": "chylomicron",
+   "from": "15.3",
+   "to": "15.1"
+  },
+  {
+   "tag": "complementary base pairs",
+   "from": "1.8",
+   "to": "12.2"
+  },
+  {
+   "tag": "dehydration",
+   "from": "4.4",
+   "to": "4.5"
+  },
+  {
+   "tag": "diabetic ketoacidosis",
+   "from": "15.4",
+   "to": "15.5"
+  },
+  {
+   "tag": "diffusion",
+   "from": "9.3",
+   "to": "9.5"
+  },
+  {
+   "tag": "diol",
+   "from": "4.2",
+   "to": "4.6"
+  },
+  {
+   "tag": "emulsification",
+   "from": "15.3",
+   "to": "15.1"
+  },
+  {
+   "tag": "enzyme inhibitor",
+   "from": "11.6",
+   "to": "11.4"
+  },
+  {
+   "tag": "ether",
+   "from": "4.3",
+   "to": "4.8"
+  },
+  {
+   "tag": "functional group",
+   "from": "2.1",
+   "to": "1.6"
+  },
+  {
+   "tag": "genetic code",
+   "from": "12.3",
+   "to": "12.6"
+  },
+  {
+   "tag": "glycogen",
+   "from": "8.1",
+   "to": "8.7"
+  },
+  {
+   "tag": "glycol",
+   "from": "4.2",
+   "to": "4.6"
+  },
+  {
+   "tag": "glycolysis",
+   "from": "13.1",
+   "to": "13.5"
+  },
+  {
+   "tag": "haloalkane",
+   "from": "2.3",
+   "to": "2.8"
+  },
+  {
+   "tag": "hemoglobin",
+   "from": "10.1",
+   "to": "10.9"
+  },
+  {
+   "tag": "hydrogenation",
+   "from": "3.2",
+   "to": "3.4"
+  },
+  {
+   "tag": "imf",
+   "from": "1.5",
+   "to": "1.8"
+  },
+  {
+   "tag": "inhibitor",
+   "from": "11.6",
+   "to": "11.4"
+  },
+  {
+   "tag": "intermolecular forces",
+   "from": "1.5",
+   "to": "1.8"
+  },
+  {
+   "tag": "ketoacidosis",
+   "from": "15.4",
+   "to": "15.5"
+  },
+  {
+   "tag": "ketone bodies",
+   "from": "15.4",
+   "to": "15.5"
+  },
+  {
+   "tag": "ketosis",
+   "from": "15.4",
+   "to": "15.5"
+  },
+  {
+   "tag": "lipase",
+   "from": "15.3",
+   "to": "15.1"
+  },
+  {
+   "tag": "maltose",
+   "from": "8.3",
+   "to": "8.6"
+  },
+  {
+   "tag": "messenger rna",
+   "from": "12.3",
+   "to": "12.5"
+  },
+  {
+   "tag": "molecular geometry",
+   "from": "1.4",
+   "to": "1.5"
+  },
+  {
+   "tag": "mrna",
+   "from": "12.3",
+   "to": "12.5"
+  },
+  {
+   "tag": "organic chemistry",
+   "from": "2.2",
+   "to": "1.6"
+  },
+  {
+   "tag": "oxidative deamination",
+   "from": "15.10",
+   "to": "15.8"
+  },
+  {
+   "tag": "peptide",
+   "from": "10.3",
+   "to": "10.4"
+  },
+  {
+   "tag": "phosphodiester bond",
+   "from": "12.3",
+   "to": "12.2"
+  },
+  {
+   "tag": "reactive oxygen species",
+   "from": "14.4",
+   "to": "13.6"
+  },
+  {
+   "tag": "reduction",
+   "from": "4.4",
+   "to": "5.4"
+  },
+  {
+   "tag": "ribosomal rna",
+   "from": "12.3",
+   "to": "12.5"
+  },
+  {
+   "tag": "rrna",
+   "from": "12.3",
+   "to": "12.5"
+  },
+  {
+   "tag": "secondary amine",
+   "from": "7.2",
+   "to": "7.1"
+  },
+  {
+   "tag": "secondary structure",
+   "from": "10.5",
+   "to": "10.7"
+  },
+  {
+   "tag": "simple diffusion",
+   "from": "9.3",
+   "to": "9.5"
+  },
+  {
+   "tag": "sphingolipid",
+   "from": "9.1",
+   "to": "9.4"
+  },
+  {
+   "tag": "starch",
+   "from": "8.1",
+   "to": "8.7"
+  },
+  {
+   "tag": "steroid",
+   "from": "9.1",
+   "to": "9.6"
+  },
+  {
+   "tag": "sucrose",
+   "from": "8.5",
+   "to": "8.6"
+  },
+  {
+   "tag": "transamination",
+   "from": "15.10",
+   "to": "15.8"
+  },
+  {
+   "tag": "transfer rna",
+   "from": "12.3",
+   "to": "12.5"
+  },
+  {
+   "tag": "translation",
+   "from": "12.3",
+   "to": "12.6"
+  },
+  {
+   "tag": "trna",
+   "from": "12.3",
+   "to": "12.5"
+  },
+  {
+   "tag": "urea",
+   "from": "15.8",
+   "to": "15.9"
+  },
+  {
+   "tag": "urea cycle",
+   "from": "15.8",
+   "to": "15.9"
+  }
+ ]
+}
