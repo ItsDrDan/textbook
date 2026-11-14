@@ -1,0 +1,846 @@
+{
+ "uploads": [
+  {
+   "file_id": "512766",
+   "name": "fig-p597137-fischer-to-haworth.svg",
+   "owner_page": "597137",
+   "shown_on": "597137",
+   "path": "figures/pages/batchT/fig-p597137-fischer-to-haworth.svg",
+   "changes": {
+    "13": "14"
+   },
+   "printed_before": {
+    "13": 5.75
+   },
+   "printed_after": {
+    "14": 6.19
+   },
+   "pdf_pages": [
+    649
+   ]
+  },
+  {
+   "file_id": "512577",
+   "name": "fig-p597144-7.svg",
+   "owner_page": "597144",
+   "shown_on": "597144",
+   "path": "figures/pages/batchT/fig-p597144-7.svg",
+   "changes": {
+    "11": "13"
+   },
+   "printed_before": {
+    "11": 5.31
+   },
+   "printed_after": {
+    "13": 6.28
+   },
+   "pdf_pages": [
+    715
+   ]
+  },
+  {
+   "file_id": "512768",
+   "name": "fig-p597146-phosphatidylcholine.svg",
+   "owner_page": "597146",
+   "shown_on": "597146",
+   "path": "figures/pages/batchT/fig-p597146-phosphatidylcholine.svg",
+   "changes": {
+    "13": "14",
+    "12": "14"
+   },
+   "printed_before": {
+    "13": 5.85,
+    "12": 5.4
+   },
+   "printed_after": {
+    "14": 6.3
+   },
+   "pdf_pages": [
+    731
+   ]
+  },
+  {
+   "file_id": "512584",
+   "name": "fig-p597157-1.svg",
+   "owner_page": "597157",
+   "shown_on": "597157",
+   "path": "figures/pages/batchT/fig-p597157-1.svg",
+   "changes": {
+    "13": "14.5"
+   },
+   "printed_before": {
+    "13": 5.51
+   },
+   "printed_after": {
+    "14.5": 6.15
+   },
+   "pdf_pages": [
+    808
+   ]
+  },
+  {
+   "file_id": "512594",
+   "name": "fig-p597172-2.svg",
+   "owner_page": "597172",
+   "shown_on": "597172",
+   "path": "figures/pages/batchT/fig-p597172-2.svg",
+   "changes": {
+    "12": "13"
+   },
+   "printed_before": {
+    "12": 5.79
+   },
+   "printed_after": {
+    "13": 6.27
+   },
+   "pdf_pages": [
+    917
+   ]
+  },
+  {
+   "file_id": "512603",
+   "name": "fig-p597183-2.svg",
+   "owner_page": "597183",
+   "shown_on": "597183",
+   "path": "figures/pages/batchT/fig-p597183-2.svg",
+   "changes": {
+    "12": "13"
+   },
+   "printed_before": {
+    "12": 5.75
+   },
+   "printed_after": {
+    "13": 6.23
+   },
+   "pdf_pages": [
+    989
+   ]
+  },
+  {
+   "file_id": "512604",
+   "name": "fig-p597183-3.svg",
+   "owner_page": "597183",
+   "shown_on": "597183",
+   "path": "figures/pages/batchT/fig-p597183-3.svg",
+   "changes": {
+    "15": "16"
+   },
+   "printed_before": {
+    "15": 5.75
+   },
+   "printed_after": {
+    "16": 6.13
+   },
+   "pdf_pages": [
+    989
+   ]
+  },
+  {
+   "file_id": "512767",
+   "name": "fig-p597179-elongation.svg",
+   "owner_page": "597179",
+   "shown_on": "597179",
+   "path": "figures/pages/batchT/fig-p597179-elongation.svg",
+   "changes": {
+    "13": "13.5",
+    "12.5": "13.5"
+   },
+   "printed_before": {
+    "13": 5.95,
+    "12.5": 5.72
+   },
+   "printed_after": {
+    "13.5": 6.18
+   },
+   "pdf_pages": [
+    1000
+   ]
+  },
+  {
+   "file_id": "512606",
+   "name": "fig-p597192-1.svg",
+   "owner_page": "597192",
+   "shown_on": "597192",
+   "path": "figures/pages/batchT/fig-p597192-1.svg",
+   "changes": {
+    "13": "14"
+   },
+   "printed_before": {
+    "13": 5.67
+   },
+   "printed_after": {
+    "14": 6.11
+   },
+   "pdf_pages": [
+    1081
+   ]
+  },
+  {
+   "file_id": "512774",
+   "name": "fig-p597193-glycolysis-flow.svg",
+   "owner_page": "597193",
+   "shown_on": "597193",
+   "path": "figures/pages/batchT/fig-p597193-glycolysis-flow.svg",
+   "changes": {
+    "12.5": "14.5",
+    "13": "14.5",
+    "14": "14.5"
+   },
+   "printed_before": {
+    "12.5": 5.35,
+    "13": 5.56,
+    "14": 5.99
+   },
+   "printed_after": {
+    "14.5": 6.21
+   },
+   "pdf_pages": [
+    1094
+   ]
+  },
+  {
+   "file_id": "512618",
+   "name": "fig-p597197-5.svg",
+   "owner_page": "597197",
+   "shown_on": "597197",
+   "path": "figures/pages/batchT/fig-p597197-5.svg",
+   "changes": {
+    "12": "13"
+   },
+   "printed_before": {
+    "12": 5.67
+   },
+   "printed_after": {
+    "13": 6.14
+   },
+   "pdf_pages": [
+    1119
+   ]
+  },
+  {
+   "file_id": "512791",
+   "name": "fig-p597202-cac-flow.svg",
+   "owner_page": "597202",
+   "shown_on": "597202",
+   "path": "figures/pages/batchT/fig-p597202-cac-flow.svg",
+   "changes": {
+    "13.5": "14.5",
+    "13": "14.5"
+   },
+   "printed_before": {
+    "13.5": 5.78,
+    "13": 5.57
+   },
+   "printed_after": {
+    "14.5": 6.21
+   },
+   "pdf_pages": [
+    1174
+   ]
+  },
+  {
+   "file_id": "512775",
+   "name": "fig-p597204-yield-flow.svg",
+   "owner_page": "597204",
+   "shown_on": "597204",
+   "path": "figures/pages/batchT/fig-p597204-yield-flow.svg",
+   "changes": {
+    "11": "14.5"
+   },
+   "printed_before": {
+    "11": 4.77
+   },
+   "printed_after": {
+    "14.5": 6.29
+   },
+   "pdf_pages": [
+    1200
+   ]
+  },
+  {
+   "file_id": "512624",
+   "name": "fig-p597204-2.svg",
+   "owner_page": "597204",
+   "shown_on": "597204",
+   "path": "figures/pages/batchT/fig-p597204-2.svg",
+   "changes": {
+    "12": "13",
+    "11": "13"
+   },
+   "printed_before": {
+    "12": 5.79,
+    "11": 5.31
+   },
+   "printed_after": {
+    "13": 6.28
+   },
+   "pdf_pages": [
+    1200
+   ]
+  },
+  {
+   "file_id": "512625",
+   "name": "fig-p597207-1.svg",
+   "owner_page": "597207",
+   "shown_on": "597211",
+   "path": "figures/pages/batchT/fig-p597207-1.svg",
+   "changes": {
+    "12": "13"
+   },
+   "printed_before": {
+    "12": 5.66
+   },
+   "printed_after": {
+    "13": 6.13
+   },
+   "pdf_pages": [
+    1237
+   ]
+  },
+  {
+   "file_id": "512630",
+   "name": "fig-p597212-1.svg",
+   "owner_page": "597212",
+   "shown_on": "597212",
+   "path": "figures/pages/batchT/fig-p597212-1.svg",
+   "changes": {
+    "14.5": "15.5"
+   },
+   "printed_before": {
+    "14.5": 5.89
+   },
+   "printed_after": {
+    "15.5": 6.3
+   },
+   "pdf_pages": [
+    1240
+   ]
+  },
+  {
+   "file_id": "512631",
+   "name": "fig-p597212-2.svg",
+   "owner_page": "597212",
+   "shown_on": "597212",
+   "path": "figures/pages/batchT/fig-p597212-2.svg",
+   "changes": {
+    "14": "14.5"
+   },
+   "printed_before": {
+    "14": 5.89
+   },
+   "printed_after": {
+    "14.5": 6.1
+   },
+   "pdf_pages": [
+    1240
+   ]
+  },
+  {
+   "file_id": "512627",
+   "name": "fig-p597209-1.svg",
+   "owner_page": "597209",
+   "shown_on": "597209",
+   "path": "figures/pages/batchT/fig-p597209-1.svg",
+   "changes": {
+    "12": "14"
+   },
+   "printed_before": {
+    "12": 5.3
+   },
+   "printed_after": {
+    "14": 6.18
+   },
+   "pdf_pages": [
+    1259
+   ]
+  },
+  {
+   "file_id": "512628",
+   "name": "fig-p597209-2.svg",
+   "owner_page": "597209",
+   "shown_on": "597209",
+   "path": "figures/pages/batchT/fig-p597209-2.svg",
+   "changes": {
+    "12": "14"
+   },
+   "printed_before": {
+    "12": 5.3
+   },
+   "printed_after": {
+    "14": 6.18
+   },
+   "pdf_pages": [
+    1259
+   ]
+  },
+  {
+   "file_id": "512634",
+   "name": "fig-p597216-2.svg",
+   "owner_page": "597216",
+   "shown_on": "597216",
+   "path": "figures/pages/batchT/fig-p597216-2.svg",
+   "changes": {
+    "13": "14.5",
+    "12": "14.5"
+   },
+   "printed_before": {
+    "13": 5.54,
+    "12": 5.11
+   },
+   "printed_after": {
+    "14.5": 6.17
+   },
+   "pdf_pages": [
+    1285
+   ]
+  }
+ ],
+ "edits": {
+  "597201": [
+   {
+    "old": " Over the next seven steps, two carbons leave as CO<sub>2</sub>, three NAD<sup>+</sup> and one FAD are reduced, one GTP (worth one ATP) is made, and oxaloacetate is regenerated so the cycle can turn again.",
+    "new": "",
+    "count": 1,
+    "note": "A Steps of the Citric Acid Cycle (cut): What one turn of the citric acid cycle yields"
+   },
+   {
+    "old": " Recall that a compound is reduced when it gains electrons or hydrogen atoms and is oxidized when it loses electrons or hydrogen atoms.",
+    "new": "",
+    "count": 1,
+    "note": "A Electron Transport (cut): Definition of oxidation and reduction"
+   },
+   {
+    "old": "Each intermediate compound in the electron transport chain is reduced by the addition of one or two electrons in one reaction and then subsequently restored to its original form by delivering the electron(s) to the next compound along the chain. The successive",
+    "new": "The successive",
+    "count": 1,
+    "note": "A Oxidative Phosphorylation (cut): Chain components are reduced and then reoxidized as electrons pass along"
+   },
+   {
+    "old": "Experiment has shown that about 2.5 ATP molecules are formed for every molecule of NADH oxidized in the electron transport chain, and about 1.5 ATP molecules for every molecule of FADH<sub>2</sub> oxidized (older books use 3 and 2). Table",
+    "new": "Table",
+    "count": 1,
+    "note": "A Oxidative Phosphorylation (cut): ATP per NADH (2.5) and per FADH2 (1.5); older 3 and 2"
+   }
+  ],
+  "597203": [
+   {
+    "old": "In each step, the electrons are passed to a carrier that holds them more tightly, that is, one with a higher (more positive) reduction potential. Energy is released in each step, and the bigger the difference between the two carriers, the more energy is released. The energy is converted",
+    "new": "Energy is released at each step. The energy is converted",
+    "count": 1,
+    "note": "A What is oxidative phosphorylation? (merge): Electrons pass to carriers that hold them more tightly; energy released per step"
+   },
+   {
+    "old": " Coenzyme-Q (\\(\\ce{Q}\\)) is a hydrophobic electron carrier molecule that moves in a hydrophobic environment inside the lipid bilayer of the inner membrane from complexes I and II to complex III. Cytochrome c (\\(\\ce{Cyt \\; c}\\)) is a hydrophilic electron carrier molecule that moves along the surface of the inner membrane facing the intermembrane space from complex III to complex IV.",
+    "new": "",
+    "count": 1,
+    "note": "A Electron transport chain (cut): The two mobile carriers (coenzyme Q, cytochrome c) and their routes"
+   },
+   {
+    "old": " \\(\\ce{QH2}\\) then carries the electrons through the membrane to Complex III.",
+    "new": "",
+    "count": 1,
+    "note": "A Complex I (cut): Coenzyme Q carries electrons to Complex III"
+   },
+   {
+    "old": "<p>Coenzyme-Q passes on the electrons from complex II to complex III as from complex I to complex III.</p>",
+    "new": "",
+    "count": 1,
+    "note": "A Complex II (cut): Coenzyme Q carries electrons to Complex III"
+   },
+   {
+    "old": "<p>\\(\\ce{Cyt~ c}\\) carries the electron to complex IV.</p>",
+    "new": "",
+    "count": 1,
+    "note": "A Complex III (cut): Cytochrome c carries electrons from Complex III to Complex IV"
+   },
+   {
+    "old": " in a process called <strong>oxidative phosphorylation</strong>. It takes",
+    "new": "; this is the phosphorylation half of oxidative phosphorylation. It takes",
+    "count": 1,
+    "note": "A Chemiosmosis (fix-conflict): Definition of oxidative phosphorylation (ATP synthesis alone vs electron transport coupled to ATP synthesis)"
+   },
+   {
+    "old": "It is in the shape of a mushroom with two major parts: a stem-like part which is a hydrophobic portion embedded in the inner membrane, is called <strong>F<sub>O,</sub></strong> and a mushroom head-like part that protrudes into the matrix, is called <strong>F<sub>1,</sub></strong> as illustrated in Figure \\(\\PageIndex{2}\\) a.",
+    "new": "Its two major parts, <strong>F<sub>O</sub></strong> and <strong>F<sub>1</sub></strong>, are illustrated in Figure \\(\\PageIndex{2}\\) a.",
+    "count": 1,
+    "note": "A Structure and mechanisms of operation of ATP-synthase (merge): Mushroom shape of ATP synthase: F_O in the membrane, F_1 in the matrix"
+   },
+   {
+    "old": " When the electron transport chain operates without \\(\\ce{ATP}\\) synthesis, all of the electron transport energy is used as heat.",
+    "new": "",
+    "count": 1,
+    "note": "A Heating the body (cut): Uncoupled electron transport releases all its energy as heat"
+   },
+   {
+    "old": " The antidote hydroxocobalamin binds cyanide to form cyanocobalamin (vitamin B<sub>12</sub>), which the kidneys excrete.<sup>4</sup>",
+    "new": "<sup>4</sup>",
+    "count": 1,
+    "note": "A Valley Connection: Carbon Monoxide (cut): Cyanide antidote hydroxocobalamin"
+   },
+   {
+    "old": " In short, each NADH gives about 2.5 ATP and each FADH<sub>2</sub> about 1.5 ATP, because electrons from NADH pass three proton pumps (Complexes I, III and IV) and electrons from FADH<sub>2</sub> pass only two (III and IV). Each GTP counts as one ATP.",
+    "new": " Each GTP counts as one ATP.",
+    "count": 1,
+    "note": "A Account of ATP production from complete oxidation of glucose (cut): Why NADH is worth 2.5 ATP and FADH2 1.5 (three pumps vs two)"
+   }
+  ],
+  "597209": [
+   {
+    "old": " The process repeats on the fragment acyl-\\(\\ce{CoA}\\) again and again until the last acyl-\\(\\ce{CoA}\\) fragment left is acetyl-\\(\\ce{CoA}\\).",
+    "new": "",
+    "count": 1,
+    "note": "A beta-Oxidation of fatty acids (overview) (cut): The four reactions repeat until only acetyl CoA is left"
+   },
+   {
+    "old": "<p>As described next, acyl-CoA product is transported from the cytosol into mitochondria for the \\(\\beta\\)-oxidation process.</p>",
+    "new": "",
+    "count": 1,
+    "note": "A Activation of fatty acids (cut): Acyl CoA is transported from cytosol into mitochondria (and the pointer 'as described next' leads nowhere: the next heading is Reaction 1)"
+   },
+   {
+    "old": "<p>The second product of the above reaction is an acyl-\\(\\ce{CoA}\\) with two \\(\\ce{C's}\\) fewer than the initial acyl-\\(\\ce{CoA}\\).</p>",
+    "new": "",
+    "count": 1,
+    "note": "A Reaction 4 -cleavage by thiolysis (cut): Thiolysis leaves an acyl CoA two carbons shorter"
+   },
+   {
+    "old": "the number of cycles for a fatty acid containing",
+    "new": "the number of cycles (the Lecture Connection calls them repetitions) for a fatty acid containing",
+    "count": 1,
+    "note": "A Number of beta-oxidation cycles (fix-conflict): 'cycles' vs 'repetitions' for rounds of beta-oxidation"
+   },
+   {
+    "old": "So, after adding ten from the last acetyl-\\(\\ce{CoA}\\) to the formula ( \\((0.5\\times{n}-1)\\times{14})~\\ce{ATP's}\\) and subtracting 2 for the \\(\\ce{2ATP's}\\) consumed in the activation step, the formula",
+    "new": "So, the formula",
+    "count": 1,
+    "note": "A ATP Yield from fatty acid oxidation (merge): Derivation of the ATP formula: +10 for the last acetyl CoA, -2 for activation (stated twice in a row)"
+   },
+   {
+    "old": " Glucose is a quick energy source, but animals use fats as relatively longer-term energy storage molecules due to their higher energy density.",
+    "new": "",
+    "count": 1,
+    "note": "A ATP Yield from fatty acid oxidation (cut): Glucose is quick energy; fat is the denser long-term store"
+   },
+   {
+    "old": "8 &minus; 1 = 7 cycles, so",
+    "new": "8 &minus; 1 = 7 repetitions, so",
+    "count": 1,
+    "note": "A Lecture Connection: Example 1 (fix-conflict): 'cycles' vs 'repetitions' for rounds of beta-oxidation"
+   },
+   {
+    "old": "(from step 1 of each cycle)",
+    "new": "(from step 1 of each repetition)",
+    "count": 1,
+    "note": "A Lecture Connection: Example 1 (fix-conflict): 'cycles' vs 'repetitions' for rounds of beta-oxidation"
+   },
+   {
+    "old": "(from step 3 of each cycle)",
+    "new": "(from step 3 of each repetition)",
+    "count": 1,
+    "note": "A Lecture Connection: Example 1 (fix-conflict): 'cycles' vs 'repetitions' for rounds of beta-oxidation"
+   },
+   {
+    "old": "one more cycle (1.5",
+    "new": "one more repetition (1.5",
+    "count": 1,
+    "note": "A Lecture Connection: Example 1 (fix-conflict): 'cycles' vs 'repetitions' for rounds of beta-oxidation"
+   },
+   {
+    "old": "<em>n</em>/2 &minus; 1 cycles.",
+    "new": "<em>n</em>/2 &minus; 1 repetitions.",
+    "count": 1,
+    "note": "A Lecture Connection: Summary (fix-conflict): 'cycles' vs 'repetitions' for rounds of beta-oxidation"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/glycerol-glycerol-3-phosphate.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/glycerol-glycerol-3-phosphate.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (glycerol-glycerol-3-phosphate.svg); cache-bust"
+   }
+  ],
+  "597213": [
+   {
+    "old": " When the acetone in the blood reaches the lungs, its volatility causes it to be expelled in the breath. The sweet smell of acetone, a characteristic of ketosis, is frequently noticed on the breath of severely diabetic patients.",
+    "new": "",
+    "count": 1,
+    "note": "A Ketosis (source text) (cut): Acetone is exhaled; fruity breath"
+   },
+   {
+    "old": "(to 6.9 from a normal value of 7.4)",
+    "new": "(to as low as 6.9 from a normal value of 7.4)",
+    "count": 1,
+    "note": "A Ketoacidosis (source text) (fix-conflict): Blood pH in ketoacidosis (6.9 in source text vs 7.30 or lower in the Valley Connection)"
+   },
+   {
+    "old": " Untreated patients may go into a coma. At that point, prompt treatment is necessary if the person&rsquo;s life is to be saved.",
+    "new": "",
+    "count": 1,
+    "note": "A Ketoacidosis (source text) (cut): Untreated ketoacidosis leads to coma; it is an emergency"
+   },
+   {
+    "old": " In <strong>DKA</strong> insulin does not function, glucose cannot be used for energy, fats are broken down to acetyl CoA, and ketogenesis runs unchecked; the ketone bodies are soluble in blood and urine, and acetone is detectable in the breath.",
+    "new": "",
+    "count": 1,
+    "note": "A Lecture Connection: Ketosis vs. ketoacidosis (cut): How DKA arises (no insulin -> fat breakdown -> ketone bodies)"
+   }
+  ],
+  "597214": [
+   {
+    "old": "occurs in the cytosol and endoplasmic reticulum of the cell and is chemically similar to the beta-oxidation process, but with a couple of key differences.",
+    "new": "occurs in the cytosol of the cell. Its reaction types mirror those of beta-oxidation, but it is a separate pathway with several key differences.",
+    "count": 1,
+    "note": "A Introduction (source text) (fix-conflict): Is lipogenesis beta-oxidation reversed? Where does it happen? (course convention: cytosol; elongation in the ER is stated under Elongation)"
+   },
+   {
+    "old": ", the only regulatory enzyme of fatty acid synthesis",
+    "new": "",
+    "count": 1,
+    "note": "A Introduction (source text) (fix-conflict): Acetyl CoA carboxylase: 'only' vs 'main' regulated enzyme"
+   },
+   {
+    "old": "From this point forward, the chemical reactions resemble those of beta oxidation reversed.",
+    "new": "From this point forward, the reaction types mirror those of beta-oxidation in reverse order, although the pathway is not beta-oxidation run backward (see the Lecture Connection).",
+    "count": 1,
+    "note": "A Introduction (source text) (fix-conflict): Is lipogenesis beta-oxidation reversed?"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/print/fa_synthesis-v2-1.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/print/fa_synthesis-v2-1.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (fa_synthesis-v2-1.svg); cache-bust"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/print/fa_synthesis-v2-2.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/print/fa_synthesis-v2-2.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (fa_synthesis-v2-2.svg); cache-bust"
+   }
+  ],
+  "597074": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch02.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch02.svg?v=20261113t\"",
+    "count": 2,
+    "note": "B figure labels enlarged to print at 6 pt or more (ch02.svg); cache-bust"
+   }
+  ],
+  "597086": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch03.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch03.svg?v=20261113t\"",
+    "count": 2,
+    "note": "B figure labels enlarged to print at 6 pt or more (ch03.svg); cache-bust"
+   }
+  ],
+  "597132": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch07.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch07.svg?v=20261113t\"",
+    "count": 2,
+    "note": "B figure labels enlarged to print at 6 pt or more (ch07.svg); cache-bust"
+   }
+  ],
+  "597147": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/pathways/oer/sphingolipids.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/pathways/oer/sphingolipids.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (sphingolipids.svg); cache-bust"
+   }
+  ],
+  "597164": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch10.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch10.svg?v=20261113t\"",
+    "count": 2,
+    "note": "B figure labels enlarged to print at 6 pt or more (ch10.svg); cache-bust"
+   }
+  ],
+  "597173": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch11.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch11.svg?v=20261113t\"",
+    "count": 2,
+    "note": "B figure labels enlarged to print at 6 pt or more (ch11.svg); cache-bust"
+   }
+  ],
+  "597184": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch12.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch12.svg?v=20261113t\"",
+    "count": 2,
+    "note": "B figure labels enlarged to print at 6 pt or more (ch12.svg); cache-bust"
+   }
+  ],
+  "597196": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597196-1-1.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597196-1-1.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (fig-p597196-1-1.svg); cache-bust"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597196-1-2.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597196-1-2.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (fig-p597196-1-2.svg); cache-bust"
+   }
+  ],
+  "597198": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch13.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch13.svg?v=20261113t\"",
+    "count": 2,
+    "note": "B figure labels enlarged to print at 6 pt or more (ch13.svg); cache-bust"
+   }
+  ],
+  "597202": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597202-1-v2-1.svg?v=20261113b\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597202-1-v2-1.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (fig-p597202-1-v2-1.svg); cache-bust"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597202-1-v2-2.svg?v=20261113b\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597202-1-v2-2.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (fig-p597202-1-v2-2.svg); cache-bust"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597202-1-v2-3.svg?v=20261113b\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/print/fig-p597202-1-v2-3.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (fig-p597202-1-v2-3.svg); cache-bust"
+   }
+  ],
+  "597216": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step1.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step1.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (step1.svg); cache-bust"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step2.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step2.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (step2.svg); cache-bust"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step3.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step3.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (step3.svg); cache-bust"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step4.svg\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step4.svg?v=20261113t\"",
+    "count": 1,
+    "note": "B figure labels enlarged to print at 6 pt or more (step4.svg); cache-bust"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0180,fb-3B-0321,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2053,fb-3B-2054,fb-3B-2055&amp;n=8&amp;title=The%20Urea%20Cycle\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0180,fb-3B-0321,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2311,fb-3B-2312,fb-3B-2313,fb-3B-2314,fb-3B-2315&amp;n=10&amp;title=The%20Urea%20Cycle\"",
+    "count": 2,
+    "note": "C 15.9 Try It: five new questions added to the selection (13 in the pool, 10 per round)"
+   }
+  ],
+  "597218": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch15.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch15.svg?v=20261113t\"",
+    "count": 2,
+    "note": "B figure labels enlarged to print at 6 pt or more (ch15.svg); cache-bust"
+   }
+  ],
+  "597067": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=isomers&amp;ids=fb-3B-0206,fb-3B-0207,fb-3B-0214,fb-3B-0215,fb-3B-0563,fb-3B-0564,fb-3B-0570&amp;n=7&amp;title=Isomers%20or%20the%20same%20molecule%3F\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=isomers&amp;ids=fb-3B-0206,fb-3B-0207,fb-3B-0214,fb-3B-0215,fb-3B-0563,fb-3B-0564,fb-3B-0570,fb-3B-2256,fb-3B-2257,fb-3B-2258,fb-3B-2259,fb-3B-2260&amp;n=10&amp;title=Isomers%20or%20the%20same%20molecule%3F\"",
+    "count": 2,
+    "note": "C 2.3 Try It: five new questions added to the selection (12 in the pool, 10 per round)"
+   }
+  ],
+  "597069": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons&amp;ids=fb-3B-0013,fb-3B-0015,fb-3B-0240,fb-3B-0256,fb-3B-0350,fb-3B-0533&amp;n=6&amp;title=Naming%20alkanes\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons&amp;ids=fb-3B-0013,fb-3B-0015,fb-3B-0240,fb-3B-0256,fb-3B-0350,fb-3B-0533,fb-3B-2261,fb-3B-2262,fb-3B-2263,fb-3B-2264,fb-3B-2265&amp;n=10&amp;title=Naming%20alkanes\"",
+    "count": 2,
+    "note": "C 2.5 Try It: five new questions added to the selection (11 in the pool, 10 per round)"
+   }
+  ],
+  "597091": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=isomers,alcohols&amp;ids=fb-3B-0036,fb-3B-0037,fb-3B-0355,fb-3B-0363,fb-3B-0393,fb-3B-0529,fb-3B-0568,fb-3B-0902,fb-3B-0923&amp;n=9&amp;title=Naming%20and%20classifying%20alcohols\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=isomers,alcohols&amp;ids=fb-3B-0036,fb-3B-0037,fb-3B-0355,fb-3B-0363,fb-3B-0393,fb-3B-0529,fb-3B-0568,fb-3B-0902,fb-3B-0923,fb-3B-2266,fb-3B-2267,fb-3B-2268,fb-3B-2269,fb-3B-2270&amp;n=10&amp;title=Naming%20and%20classifying%20alcohols\"",
+    "count": 2,
+    "note": "C 4.2 Try It: five new questions added to the selection (14 in the pool, 10 per round)"
+   }
+  ],
+  "597098": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;ids=fb-3B-0039,fb-3B-0048,fb-3B-0250,fb-3B-0361,fb-3B-0511,fb-3B-0679,fb-3B-0680,fb-3B-0922&amp;n=8&amp;title=Thiols%20and%20disulfides\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;ids=fb-3B-0039,fb-3B-0048,fb-3B-0250,fb-3B-0361,fb-3B-0511,fb-3B-0679,fb-3B-0680,fb-3B-0922,fb-3B-2271,fb-3B-2272,fb-3B-2273,fb-3B-2274,fb-3B-2275&amp;n=10&amp;title=Thiols%20and%20disulfides\"",
+    "count": 2,
+    "note": "C 4.9 Try It: five new questions added to the selection (13 in the pool, 10 per round)"
+   }
+  ],
+  "597109": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&amp;ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002&amp;n=6&amp;title=Naming%20carboxylic%20acids\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&amp;ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002,fb-3B-2276,fb-3B-2277,fb-3B-2278,fb-3B-2279,fb-3B-2280&amp;n=10&amp;title=Naming%20carboxylic%20acids\"",
+    "count": 2,
+    "note": "C 6.1 Try It: five new questions added to the selection (11 in the pool, 10 per round)"
+   }
+  ],
+  "597113": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,acids_esters&amp;ids=fb-3B-0006,fb-3B-0069,fb-3B-0077,fb-3B-0221,fb-3B-0373,fb-3B-0534,fb-3B-0571,fb-3B-0932&amp;n=8&amp;title=Esters\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,acids_esters&amp;ids=fb-3B-0006,fb-3B-0069,fb-3B-0077,fb-3B-0221,fb-3B-0373,fb-3B-0534,fb-3B-0571,fb-3B-0932,fb-3B-2281,fb-3B-2282,fb-3B-2283,fb-3B-2284,fb-3B-2285&amp;n=10&amp;title=Esters\"",
+    "count": 2,
+    "note": "C 6.5 Try It: five new questions added to the selection (13 in the pool, 10 per round)"
+   }
+  ],
+  "597138": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=carbonyls,carbs&amp;ids=fb-3B-0055,fb-3B-0185,fb-3B-0422,fb-3B-2081,fb-3B-2082,fb-3B-2083&amp;n=6&amp;title=Sugar%20redox\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=carbonyls,carbs&amp;ids=fb-3B-0055,fb-3B-0185,fb-3B-0422,fb-3B-2081,fb-3B-2082,fb-3B-2083,fb-3B-2286,fb-3B-2287,fb-3B-2288,fb-3B-2289,fb-3B-2290&amp;n=10&amp;title=Sugar%20redox\"",
+    "count": 2,
+    "note": "C 8.5 Try It: five new questions added to the selection (11 in the pool, 10 per round)"
+   }
+  ],
+  "597140": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0098,fb-3B-0099,fb-3B-0183,fb-3B-0263,fb-3B-0425,fb-3B-0740,fb-3B-0937,fb-3B-0944&amp;n=8&amp;title=Polysaccharides\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0098,fb-3B-0099,fb-3B-0183,fb-3B-0263,fb-3B-0425,fb-3B-0740,fb-3B-0937,fb-3B-0944,fb-3B-2291,fb-3B-2292,fb-3B-2293,fb-3B-2294,fb-3B-2295&amp;n=10&amp;title=Polysaccharides\"",
+    "count": 2,
+    "note": "C 8.7 Try It: five new questions added to the selection (13 in the pool, 10 per round)"
+   }
+  ],
+  "597154": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0279,fb-3B-0439,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750&amp;n=9&amp;title=Classify%20the%20side%20chain\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0279,fb-3B-0439,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750,fb-3B-2296,fb-3B-2297,fb-3B-2298,fb-3B-2299,fb-3B-2300&amp;n=10&amp;title=Classify%20the%20side%20chain\"",
+    "count": 2,
+    "note": "C 10.1 Try It: five new questions added to the selection (14 in the pool, 10 per round)"
+   }
+  ],
+  "597191": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=carbs,metabolism&amp;ids=fb-3B-0095,fb-3B-0152,fb-3B-0176,fb-3B-0307,fb-3B-0344,fb-3B-0425,fb-3B-1005,fb-3B-2026,fb-3B-2027&amp;n=7&amp;title=Digestion\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=carbs,metabolism&amp;ids=fb-3B-0095,fb-3B-0152,fb-3B-0176,fb-3B-0307,fb-3B-0344,fb-3B-0425,fb-3B-1005,fb-3B-2026,fb-3B-2027,fb-3B-2301,fb-3B-2302,fb-3B-2303,fb-3B-2304,fb-3B-2305&amp;n=10&amp;title=Digestion\"",
+    "count": 2,
+    "note": "C 13.3 Try It: five new questions added to the selection (14 in the pool, 10 per round)"
+   }
+  ],
+  "597207": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=lipids,metabolism&amp;ids=fb-3B-0176,fb-3B-0320,fb-3B-0342,fb-3B-0977,fb-3B-2044,fb-3B-2045,fb-3B-2046,fb-3B-2102&amp;n=8&amp;title=Fat%20Digestion%20and%20Activation\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=lipids,metabolism&amp;ids=fb-3B-0176,fb-3B-0320,fb-3B-0342,fb-3B-0977,fb-3B-2044,fb-3B-2045,fb-3B-2046,fb-3B-2102,fb-3B-2306,fb-3B-2307,fb-3B-2308,fb-3B-2309,fb-3B-2310&amp;n=10&amp;title=Fat%20Digestion%20and%20Activation\"",
+    "count": 2,
+    "note": "C 15.3 Try It: five new questions added to the selection (13 in the pool, 10 per round)"
+   }
+  ]
+ }
+}

@@ -67,6 +67,14 @@ for t, items in bank.items():
     for x in items:
         if x['id'] in EXPLICIT and x['id'] not in used and usable(x):
             SETS[EXPLICIT[x['id']]].append(x); used.add(x['id'])
+# Questions added on 2026-11-13 (fb-3B-2238 and later) carry "sec", the section that teaches them: file each one under
+# that chapter, whatever the widget patterns matched.
+for t, items in bank.items():
+    for x in items:
+        if int(x['id'].split('-')[2]) >= 2238 and x.get('sec') and usable(x):
+            ch = int(x['sec'].split('.')[0])
+            for c in SETS: SETS[c] = [y for y in SETS[c] if y['id'] != x['id']]
+            SETS[ch].append(x); used.add(x['id'])
 unmatched = [x['id'] for items in bank.values() for x in items if usable(x) and x['id'] not in used and x['id'] not in LEFT_OUT]
 if unmatched: print('WARNING: usable bank items in no chapter set:', ', '.join(sorted(unmatched)))
 

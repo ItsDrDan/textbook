@@ -1,0 +1,396 @@
+[
+ {
+  "file_id": "512766",
+  "name": "fig-p597137-fischer-to-haworth.svg",
+  "owner_page": "597137",
+  "shown_on": "597137",
+  "path": "figures/pages/batchT/fig-p597137-fischer-to-haworth.svg",
+  "changes": {
+   "13": "14"
+  },
+  "printed_before": {
+   "13": 5.75
+  },
+  "printed_after": {
+   "14": 6.19
+  },
+  "pdf_pages": [
+   649
+  ]
+ },
+ {
+  "file_id": "512577",
+  "name": "fig-p597144-7.svg",
+  "owner_page": "597144",
+  "shown_on": "597144",
+  "path": "figures/pages/batchT/fig-p597144-7.svg",
+  "changes": {
+   "11": "13"
+  },
+  "printed_before": {
+   "11": 5.31
+  },
+  "printed_after": {
+   "13": 6.28
+  },
+  "pdf_pages": [
+   715
+  ]
+ },
+ {
+  "file_id": "512768",
+  "name": "fig-p597146-phosphatidylcholine.svg",
+  "owner_page": "597146",
+  "shown_on": "597146",
+  "path": "figures/pages/batchT/fig-p597146-phosphatidylcholine.svg",
+  "changes": {
+   "13": "14",
+   "12": "14"
+  },
+  "printed_before": {
+   "13": 5.85,
+   "12": 5.4
+  },
+  "printed_after": {
+   "14": 6.3
+  },
+  "pdf_pages": [
+   731
+  ]
+ },
+ {
+  "file_id": "512584",
+  "name": "fig-p597157-1.svg",
+  "owner_page": "597157",
+  "shown_on": "597157",
+  "path": "figures/pages/batchT/fig-p597157-1.svg",
+  "changes": {
+   "13": "14.5"
+  },
+  "printed_before": {
+   "13": 5.51
+  },
+  "printed_after": {
+   "14.5": 6.15
+  },
+  "pdf_pages": [
+   808
+  ]
+ },
+ {
+  "file_id": "512594",
+  "name": "fig-p597172-2.svg",
+  "owner_page": "597172",
+  "shown_on": "597172",
+  "path": "figures/pages/batchT/fig-p597172-2.svg",
+  "changes": {
+   "12": "13"
+  },
+  "printed_before": {
+   "12": 5.79
+  },
+  "printed_after": {
+   "13": 6.27
+  },
+  "pdf_pages": [
+   917
+  ]
+ },
+ {
+  "file_id": "512603",
+  "name": "fig-p597183-2.svg",
+  "owner_page": "597183",
+  "shown_on": "597183",
+  "path": "figures/pages/batchT/fig-p597183-2.svg",
+  "changes": {
+   "12": "13"
+  },
+  "printed_before": {
+   "12": 5.75
+  },
+  "printed_after": {
+   "13": 6.23
+  },
+  "pdf_pages": [
+   989
+  ]
+ },
+ {
+  "file_id": "512604",
+  "name": "fig-p597183-3.svg",
+  "owner_page": "597183",
+  "shown_on": "597183",
+  "path": "figures/pages/batchT/fig-p597183-3.svg",
+  "changes": {
+   "15": "16"
+  },
+  "printed_before": {
+   "15": 5.75
+  },
+  "printed_after": {
+   "16": 6.13
+  },
+  "pdf_pages": [
+   989
+  ]
+ },
+ {
+  "file_id": "512767",
+  "name": "fig-p597179-elongation.svg",
+  "owner_page": "597179",
+  "shown_on": "597179",
+  "path": "figures/pages/batchT/fig-p597179-elongation.svg",
+  "changes": {
+   "13": "13.5",
+   "12.5": "13.5"
+  },
+  "printed_before": {
+   "13": 5.95,
+   "12.5": 5.72
+  },
+  "printed_after": {
+   "13.5": 6.18
+  },
+  "pdf_pages": [
+   1000
+  ]
+ },
+ {
+  "file_id": "512606",
+  "name": "fig-p597192-1.svg",
+  "owner_page": "597192",
+  "shown_on": "597192",
+  "path": "figures/pages/batchT/fig-p597192-1.svg",
+  "changes": {
+   "13": "14"
+  },
+  "printed_before": {
+   "13": 5.67
+  },
+  "printed_after": {
+   "14": 6.11
+  },
+  "pdf_pages": [
+   1081
+  ]
+ },
+ {
+  "file_id": "512774",
+  "name": "fig-p597193-glycolysis-flow.svg",
+  "owner_page": "597193",
+  "shown_on": "597193",
+  "path": "figures/pages/batchT/fig-p597193-glycolysis-flow.svg",
+  "changes": {
+   "12.5": "14.5",
+   "13": "14.5",
+   "14": "14.5"
+  },
+  "printed_before": {
+   "12.5": 5.35,
+   "13": 5.56,
+   "14": 5.99
+  },
+  "printed_after": {
+   "14.5": 6.21
+  },
+  "pdf_pages": [
+   1094
+  ]
+ },
+ {
+  "file_id": "512618",
+  "name": "fig-p597197-5.svg",
+  "owner_page": "597197",
+  "shown_on": "597197",
+  "path": "figures/pages/batchT/fig-p597197-5.svg",
+  "changes": {
+   "12": "13"
+  },
+  "printed_before": {
+   "12": 5.67
+  },
+  "printed_after": {
+   "13": 6.14
+  },
+  "pdf_pages": [
+   1119
+  ]
+ },
+ {
+  "file_id": "512791",
+  "name": "fig-p597202-cac-flow.svg",
+  "owner_page": "597202",
+  "shown_on": "597202",
+  "path": "figures/pages/batchT/fig-p597202-cac-flow.svg",
+  "changes": {
+   "13.5": "14.5",
+   "13": "14.5"
+  },
+  "printed_before": {
+   "13.5": 5.78,
+   "13": 5.57
+  },
+  "printed_after": {
+   "14.5": 6.21
+  },
+  "pdf_pages": [
+   1174
+  ]
+ },
+ {
+  "file_id": "512775",
+  "name": "fig-p597204-yield-flow.svg",
+  "owner_page": "597204",
+  "shown_on": "597204",
+  "path": "figures/pages/batchT/fig-p597204-yield-flow.svg",
+  "changes": {
+   "11": "14.5"
+  },
+  "printed_before": {
+   "11": 4.77
+  },
+  "printed_after": {
+   "14.5": 6.29
+  },
+  "pdf_pages": [
+   1200
+  ]
+ },
+ {
+  "file_id": "512624",
+  "name": "fig-p597204-2.svg",
+  "owner_page": "597204",
+  "shown_on": "597204",
+  "path": "figures/pages/batchT/fig-p597204-2.svg",
+  "changes": {
+   "12": "13",
+   "11": "13"
+  },
+  "printed_before": {
+   "12": 5.79,
+   "11": 5.31
+  },
+  "printed_after": {
+   "13": 6.28
+  },
+  "pdf_pages": [
+   1200
+  ]
+ },
+ {
+  "file_id": "512625",
+  "name": "fig-p597207-1.svg",
+  "owner_page": "597207",
+  "shown_on": "597211",
+  "path": "figures/pages/batchT/fig-p597207-1.svg",
+  "changes": {
+   "12": "13"
+  },
+  "printed_before": {
+   "12": 5.66
+  },
+  "printed_after": {
+   "13": 6.13
+  },
+  "pdf_pages": [
+   1237
+  ]
+ },
+ {
+  "file_id": "512630",
+  "name": "fig-p597212-1.svg",
+  "owner_page": "597212",
+  "shown_on": "597212",
+  "path": "figures/pages/batchT/fig-p597212-1.svg",
+  "changes": {
+   "14.5": "15.5"
+  },
+  "printed_before": {
+   "14.5": 5.89
+  },
+  "printed_after": {
+   "15.5": 6.3
+  },
+  "pdf_pages": [
+   1240
+  ]
+ },
+ {
+  "file_id": "512631",
+  "name": "fig-p597212-2.svg",
+  "owner_page": "597212",
+  "shown_on": "597212",
+  "path": "figures/pages/batchT/fig-p597212-2.svg",
+  "changes": {
+   "14": "14.5"
+  },
+  "printed_before": {
+   "14": 5.89
+  },
+  "printed_after": {
+   "14.5": 6.1
+  },
+  "pdf_pages": [
+   1240
+  ]
+ },
+ {
+  "file_id": "512627",
+  "name": "fig-p597209-1.svg",
+  "owner_page": "597209",
+  "shown_on": "597209",
+  "path": "figures/pages/batchT/fig-p597209-1.svg",
+  "changes": {
+   "12": "14"
+  },
+  "printed_before": {
+   "12": 5.3
+  },
+  "printed_after": {
+   "14": 6.18
+  },
+  "pdf_pages": [
+   1259
+  ]
+ },
+ {
+  "file_id": "512628",
+  "name": "fig-p597209-2.svg",
+  "owner_page": "597209",
+  "shown_on": "597209",
+  "path": "figures/pages/batchT/fig-p597209-2.svg",
+  "changes": {
+   "12": "14"
+  },
+  "printed_before": {
+   "12": 5.3
+  },
+  "printed_after": {
+   "14": 6.18
+  },
+  "pdf_pages": [
+   1259
+  ]
+ },
+ {
+  "file_id": "512634",
+  "name": "fig-p597216-2.svg",
+  "owner_page": "597216",
+  "shown_on": "597216",
+  "path": "figures/pages/batchT/fig-p597216-2.svg",
+  "changes": {
+   "13": "14.5",
+   "12": "14.5"
+  },
+  "printed_before": {
+   "13": 5.54,
+   "12": 5.11
+  },
+  "printed_after": {
+   "14.5": 6.17
+  },
+  "pdf_pages": [
+   1285
+  ]
+ }
+]
