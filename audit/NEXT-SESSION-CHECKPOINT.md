@@ -69,3 +69,9 @@ node tools/check_struct_labels.js
 - The widget alignment classified questions from stems and correct answers; distractors and images were not read.
 - Changed Try It boxes start students' saved progress over.
 - Batch Q assumes the live pages still equal `pages/live`; the publish dry-run must confirm that.
+
+## Update 2026-11-13 (batch U and ADAPT)
+
+- ADAPT: the 78 new questions (fb-3B-2238 to 2315) are live in course 4605 and read back identical to the bank. See `adapt/README.md`.
+- Figure generators hold the enlarged label sizes (`concept_maps.py`, `oer_figs.js` sphingolipids, `glycolysis.js`). Run `python3 tools/check_figure_labels.py` after regenerating any figure; it fails if a label drops below its recorded print size (`tools/figure_label_floors.json`). `oer_figs.js` has drifted from nine of its live figures, so regenerate only the figure you mean to change.
+- Batch U (`tools/batchU_build.py`): 14.4 cyanide told once, 15.4 stage numbering and the inherited "Unsaturated fatty acids" box, cache-busts for regenerated figures. `fig-p597204-yield-flow.svg` must be re-uploaded to LibreTexts file 512775 (owner page 597204).

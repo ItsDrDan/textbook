@@ -105,3 +105,11 @@ When the answer choices are drawn structures, the A–D grid is shuffled for eac
 - **Export files:** all 36 QTI zips, the payloads and the CSV were rebuilt from the bank the same day (see tools/BANK_FIX_2026-11-13.md), so they now match the live course for every id.
 - **How the save works (for next time):** open the question in an assignment's question view, click the pencil, and the request the editor sends is PATCH /api/questions/{id} with the get-question-to-edit object, where attachments, learning_outcomes, media_uploads, tags and clone_history are arrays (not JSON strings), qti_answer_json is left out, and these are added: qti_prompt, qti_randomize_order, qti_simple_choice_0..3, qti_json, reason_for_edit, changes_are_topical "", session_identifier (a UUID), source_url_required true, framework_item_sync_question {descriptors: [], levels: []}, webwork_attachments [], automatically_update_revision "1", assignment_id 0, revision_action "notify". A body in that shape saves from a plain fetch; "propagate" is refused when the question text changes.
 
+
+## Update of 2026-11-13 (evening): 78 new questions created live
+
+- **Live course now holds 1,109 questions:** Ch1 114, Ch2 75, Ch3 85, Ch4 64, Ch5 93, Ch6 69, Ch7 57, Ch8 86, Ch9 75, Ch10 80, Ch11 82, Ch12 58, Ch13 58, Ch14 51, Ch15 62. Random-draw sizes per student are unchanged.
+- **Added:** fb-3B-2238 to 2315 (78 bank items: Lewis structures, alkene and alkyne naming, ketone bodies, and the thin-topic set). Chapter comes from each item's `sec` tag: Ch1 8, Ch2 10, Ch3 6, Ch4 10, Ch6 10, Ch8 10, Ch10 5, Ch13 5, Ch15 14.
+- Each was created through the ADAPT API straight into its chapter assignment and chapter folder, public, CC BY 4.0, author Daniel Kwasniewski, no video hint. Points follow each assignment's default.
+- **Read back:** every one of the 78 is in its assignment, with stem, choices, key and feedback identical to the bank. None of the titles existed before, and no assignment has a duplicate title.
+- **How creation works (for next time):** POST /api/questions with the same editor-shaped body as the PATCH above, minus the server fields (id, page_id, iframe_id, dates, revision fields, qti_answer_json), with `assignment_id` set to the chapter assignment and `folder_id` to the chapter folder (14979 + chapter). The reply names the assignment the question was added to.
