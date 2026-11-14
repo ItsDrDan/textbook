@@ -9,7 +9,7 @@
 
 ## Update, end of 2026-11-13
 
-Batch R (`audit/BATCH_R_REVIEW.md`, branch `content/2026-11-batchR`) drafts most of the "Work not done" list below: Rosa story edits, bank gaps, section exercises, Check steps, Valley questions, cumulative-mix caps, the low-confidence errata and the P3 page fixes. See the 2026-11-13 batch R entry in `tools/ISSUE_LEDGER.md` for what is and is not in it. It is not merged and not published.
+Batch R (`audit/BATCH_R_REVIEW.md`, branch `content/2026-11-batchR`) drafts most of the "Work not done" list below: Rosa story edits, bank gaps, section exercises, Check steps, Valley questions, cumulative-mix caps, the low-confidence errata and the P3 page fixes. See the 2026-11-13 batch R entry in `tools/ISSUE_LEDGER.md` for what is and is not in it. **Merged (PR #53) and published on 2026-11-13; all 54 pages read back identical.** Still to do from it: confirm in the next PDF compile; add the 18 new questions (fb-3B-2238 to 2255) to Final Boss and ADAPT; thin-topic questions; the duplicated inherited prose (author decision).
 
 ## Waiting on the instructor (in order)
 

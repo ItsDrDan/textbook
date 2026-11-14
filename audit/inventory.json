@@ -182,7 +182,7 @@
  {
   "id": "597270",
   "title": "About This Book",
-  "bytes": 25905,
+  "bytes": 26134,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 5,
@@ -652,7 +652,7 @@
  {
   "id": "597056",
   "title": "1.3: Drawing Lewis Structures",
-  "bytes": 30455,
+  "bytes": 30611,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -674,12 +674,12 @@
    "https://www.youtube.com/embed/-WH0D2cWcJc?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure&q=lewis|octet|valence|electron|bond&n=10&title=Lewis%20structures"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure&ids=fb-3B-0000,fb-3B-0008,fb-3B-2238,fb-3B-2239,fb-3B-2240,fb-3B-2241,fb-3B-2242,fb-3B-2243,fb-3B-2244,fb-3B-2245&n=10&title=Lewis%20structures"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=lewis|octet|valence|electron|bond&amp;n=10&amp;title=Lewis%20structures"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;ids=fb-3B-0000,fb-3B-0008,fb-3B-2238,fb-3B-2239,fb-3B-2240,fb-3B-2241,fb-3B-2242,fb-3B-2243,fb-3B-2244,fb-3B-2245&amp;n=10&amp;title=Lewis%20structures"
   ],
   "headings": [
    [
@@ -1178,7 +1178,7 @@
  {
   "id": "597061",
   "title": "1.8: Intermolecular Interactions",
-  "bytes": 84888,
+  "bytes": 85299,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -1206,7 +1206,7 @@
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=hydrogen%20bond%7Cdispersion%7Cdipole%7Cboiling%7Csolub%7Cpolar&amp;n=10&amp;title=Intermolecular%20forces"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&amp;n=10&amp;title=Intermolecular%20forces"
   ],
   "headings": [
    [
@@ -1340,7 +1340,7 @@
  {
   "id": "597062",
   "title": "1.9: Chapter Guide - Bonding Review - Lewis Structures and Intermolecular Forces",
-  "bytes": 32886,
+  "bytes": 33879,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -1947,7 +1947,7 @@
  {
   "id": "597070",
   "title": "2.6: Physical Properties of Alkanes",
-  "bytes": 27230,
+  "bytes": 28719,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -1960,9 +1960,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 0,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -1996,6 +1996,10 @@
    [
     3,
     "State, size, and shape"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [
@@ -2261,7 +2265,7 @@
  {
   "id": "597074",
   "title": "2.10: Chapter Guide - Alkanes and Cycloalkanes",
-  "bytes": 31876,
+  "bytes": 33069,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -2375,7 +2379,7 @@
  {
   "id": "597075",
   "title": "2.11: Practice Problems",
-  "bytes": 91432,
+  "bytes": 91456,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 3,
@@ -2393,12 +2397,12 @@
   "key_items": 89,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-2&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers&n=12&fresh=1&chmax=2&title=Cumulative+mix,+Chapters+1-2&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-2&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers&amp;n=12&amp;fresh=1&amp;chmax=2&amp;title=Cumulative+mix,+Chapters+1-2&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -2569,7 +2573,7 @@
  {
   "id": "597078",
   "title": "3.1: Alkenes- Structures and Names",
-  "bytes": 22520,
+  "bytes": 22552,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -2587,12 +2591,12 @@
   "key_items": 2,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&ids=fb-3B-0027,fb-3B-0028,fb-3B-0212,fb-3B-0217,fb-3B-0394,fb-3B-0566,fb-3B-0572&n=7&title=Naming%20alkenes%20and%20alkynes"
+   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&ids=fb-3B-0027,fb-3B-0028,fb-3B-2246,fb-3B-2247,fb-3B-2248,fb-3B-2249,fb-3B-2250,fb-3B-2251&n=8&title=Naming%20alkenes%20and%20alkynes"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&amp;q=alkene%7Calkyne%7Cdouble%20bond%7Ctriple%20bond%7Cene%7Cyne&amp;n=10&amp;title=Naming%20alkenes%20and%20alkynes"
+   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&amp;ids=fb-3B-0027,fb-3B-0028,fb-3B-2246,fb-3B-2247,fb-3B-2248,fb-3B-2249,fb-3B-2250,fb-3B-2251&amp;n=8&amp;title=Naming%20alkenes%20and%20alkynes"
   ],
   "headings": [
    [
@@ -2685,11 +2689,11 @@
     "Learning Objectives"
    ],
    [
-    4,
+    3,
     "Example \\(\\PageIndex{1}\\)"
    ],
    [
-    5,
+    4,
     "Solution"
    ],
    [
@@ -2867,7 +2871,7 @@
  {
   "id": "597082",
   "title": "3.5: Polymers",
-  "bytes": 18256,
+  "bytes": 19703,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -2880,9 +2884,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 0,
-  "details": 1,
+  "details": 2,
   "print_key": 1,
-  "key_items": 1,
+  "key_items": 2,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -3143,7 +3147,7 @@
  {
   "id": "597086",
   "title": "3.9: Chapter Guide - Alkenes, Alkynes, and Aromatic Compounds",
-  "bytes": 35092,
+  "bytes": 36141,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -3254,7 +3258,7 @@
  {
   "id": "597087",
   "title": "3.10: Practice Problems",
-  "bytes": 98740,
+  "bytes": 98764,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -3272,12 +3276,12 @@
   "key_items": 84,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-3&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic&n=12&fresh=1&chmax=3&title=Cumulative+mix,+Chapters+1-3&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-3&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic&amp;n=12&amp;fresh=1&amp;chmax=3&amp;title=Cumulative+mix,+Chapters+1-3&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -4076,7 +4080,7 @@
  {
   "id": "597098",
   "title": "4.9: Organic Sulfur Compounds",
-  "bytes": 12248,
+  "bytes": 13574,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -4089,9 +4093,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [
    "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&ids=fb-3B-0039,fb-3B-0048,fb-3B-0250,fb-3B-0361,fb-3B-0511,fb-3B-0679,fb-3B-0680,fb-3B-0922&n=8&title=Thiols%20and%20disulfides"
@@ -4133,6 +4137,10 @@
    [
     3,
     "Thiols in the mouth"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -4334,7 +4342,7 @@
  {
   "id": "597101",
   "title": "4.12: Practice Problems",
-  "bytes": 76184,
+  "bytes": 76208,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -4352,12 +4360,12 @@
   "key_items": 76,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-4&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols&n=12&fresh=1&chmax=4&title=Cumulative+mix,+Chapters+1-4&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-4&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols&amp;n=12&amp;fresh=1&amp;chmax=4&amp;title=Cumulative+mix,+Chapters+1-4&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -5119,7 +5127,7 @@
  {
   "id": "597108",
   "title": "5.7: Practice Problems",
-  "bytes": 82567,
+  "bytes": 82591,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -5137,12 +5145,12 @@
   "key_items": 79,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-5&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality&n=12&fresh=1&chmax=5&title=Cumulative+mix,+Chapters+1-5&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-5&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality&amp;n=12&amp;fresh=1&amp;chmax=5&amp;title=Cumulative+mix,+Chapters+1-5&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -5318,7 +5326,7 @@
  {
   "id": "597109",
   "title": "6.1: Carboxylic Acids - Structures and Names",
-  "bytes": 27371,
+  "bytes": 27367,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -5336,12 +5344,12 @@
   "key_items": 2,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002&n=6&title=Naming%20acids%20and%20esters"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002&n=6&title=Naming%20carboxylic%20acids"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&amp;ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002&amp;n=6&amp;title=Naming%20acids%20and%20esters"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&amp;ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002&amp;n=6&amp;title=Naming%20carboxylic%20acids"
   ],
   "headings": [
    [
@@ -5718,12 +5726,12 @@
  {
   "id": "597114",
   "title": "6.6: Physical Properties of Esters",
-  "bytes": 16016,
+  "bytes": 19169,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
   "examples": 0,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 1,
   "imgs_no_alt": 0,
   "tables": 1,
@@ -5731,9 +5739,9 @@
   "rosa": 0,
   "in_the_lab": 1,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -5761,6 +5769,10 @@
    [
     3,
     "Why fruit smells like fruit"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [
@@ -6194,7 +6206,7 @@
  {
   "id": "597120",
   "title": "6.12: Practice Problems",
-  "bytes": 90505,
+  "bytes": 90529,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -6212,12 +6224,12 @@
   "key_items": 78,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-6&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters&n=12&fresh=1&chmax=6&title=Cumulative+mix,+Chapters+1-6&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-6&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters&amp;n=12&amp;fresh=1&amp;chmax=6&amp;title=Cumulative+mix,+Chapters+1-6&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -6685,7 +6697,7 @@
  {
   "id": "597124",
   "title": "7.4: Amides- Structures and Names",
-  "bytes": 15423,
+  "bytes": 15419,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -7124,7 +7136,7 @@
  {
   "id": "597131",
   "title": "7.11: Neurotransmitters",
-  "bytes": 31731,
+  "bytes": 33001,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 1,
@@ -7137,9 +7149,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 10,
+  "details": 11,
   "print_key": 1,
-  "key_items": 10,
+  "key_items": 11,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -7311,7 +7323,7 @@
  {
   "id": "597133",
   "title": "7.13: Practice Problems",
-  "bytes": 87884,
+  "bytes": 87908,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -7329,12 +7341,12 @@
   "key_items": 83,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-7&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines&n=12&fresh=1&chmax=7&title=Cumulative+mix,+Chapters+1-7&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-7&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines&amp;n=12&amp;fresh=1&amp;chmax=7&amp;title=Cumulative+mix,+Chapters+1-7&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -7676,12 +7688,12 @@
  {
   "id": "597136",
   "title": "8.3: Important Hexoses",
-  "bytes": 21481,
+  "bytes": 23784,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
   "examples": 0,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 6,
   "imgs_no_alt": 0,
   "tables": 1,
@@ -7689,9 +7701,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -7737,6 +7749,10 @@
    [
     3,
     "Carbohydrates on cell surfaces: blood types"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -8175,7 +8191,7 @@
  {
   "id": "597142",
   "title": "8.9: Practice Problems",
-  "bytes": 87004,
+  "bytes": 87028,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -8193,12 +8209,12 @@
   "key_items": 90,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-8&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs&n=12&fresh=1&chmax=8&title=Cumulative+mix,+Chapters+1-8&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-8&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs&amp;n=12&amp;fresh=1&amp;chmax=8&amp;title=Cumulative+mix,+Chapters+1-8&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -8340,7 +8356,7 @@
  {
   "id": "597047",
   "title": "9: Lipids",
-  "bytes": 6040,
+  "bytes": 6106,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -8623,12 +8639,12 @@
  {
   "id": "597147",
   "title": "9.4: Sphingolipids",
-  "bytes": 9444,
+  "bytes": 12013,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
   "examples": 0,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 5,
   "imgs_no_alt": 0,
   "tables": 0,
@@ -8636,9 +8652,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -8664,6 +8680,10 @@
    [
     3,
     "Sphingomyelin and the myelin sheath"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -8678,7 +8698,7 @@
  {
   "id": "597148",
   "title": "9.5: Membranes and Membrane Lipids",
-  "bytes": 21880,
+  "bytes": 21948,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -8941,7 +8961,7 @@
  {
   "id": "597151",
   "title": "9.8: Practice Problems",
-  "bytes": 92047,
+  "bytes": 92071,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -8959,12 +8979,12 @@
   "key_items": 82,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-9&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids&n=12&fresh=1&chmax=9&title=Cumulative+mix,+Chapters+1-9&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-9&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids&amp;n=12&amp;fresh=1&amp;chmax=9&amp;title=Cumulative+mix,+Chapters+1-9&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -9103,7 +9123,7 @@
  {
   "id": "597048",
   "title": "10: Amino Acids and Proteins",
-  "bytes": 6486,
+  "bytes": 6532,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -9307,7 +9327,7 @@
  {
   "id": "597156",
   "title": "10.3: Reactions of Amino Acids",
-  "bytes": 8928,
+  "bytes": 10430,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -9320,9 +9340,9 @@
   "rosa": 0,
   "in_the_lab": 2,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -9352,6 +9372,10 @@
    [
     3,
     "Valley Connection: Milk, Casein and Cheese"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -9581,12 +9605,12 @@
  {
   "id": "597160",
   "title": "10.7: Secondary structure of proteins",
-  "bytes": 16975,
+  "bytes": 19619,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
   "examples": 0,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 12,
   "imgs_no_alt": 0,
   "tables": 0,
@@ -9594,9 +9618,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -9634,6 +9658,10 @@
    [
     3,
     "Helix, sheet, and what holds them"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -9723,12 +9751,12 @@
  {
   "id": "597162",
   "title": "10.9: Quaternary structure of proteins",
-  "bytes": 9242,
+  "bytes": 13481,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
   "examples": 0,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 1,
   "imgs_no_alt": 0,
   "tables": 0,
@@ -9736,9 +9764,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 2,
+  "print_key": 1,
+  "key_items": 2,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -9764,6 +9792,10 @@
    [
     3,
     "Valley Connection: Nitrate in Well Water and &ldquo;Blue Baby&rdquo; Hemoglobin"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -9956,7 +9988,7 @@
  {
   "id": "597165",
   "title": "10.12: Practice Problems",
-  "bytes": 99143,
+  "bytes": 99169,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -9974,12 +10006,12 @@
   "key_items": 90,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-10&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins&n=12&fresh=1&chmax=10&title=Cumulative+mix,+Chapters+1-10&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-10&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins&amp;n=12&amp;fresh=1&amp;chmax=10&amp;title=Cumulative+mix,+Chapters+1-10&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -10163,12 +10195,12 @@
  {
   "id": "597166",
   "title": "11.1: Enzymes",
-  "bytes": 25431,
+  "bytes": 27974,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
   "examples": 1,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 3,
   "imgs_no_alt": 0,
   "tables": 3,
@@ -10176,9 +10208,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -10212,6 +10244,10 @@
    [
     3,
     "Worked example"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -10302,12 +10338,12 @@
  {
   "id": "597168",
   "title": "11.3: Enzyme Activity",
-  "bytes": 22104,
+  "bytes": 24880,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
   "examples": 3,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 4,
   "imgs_no_alt": 0,
   "tables": 1,
@@ -10315,9 +10351,9 @@
   "rosa": 0,
   "in_the_lab": 1,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -10363,6 +10399,10 @@
    [
     3,
     "Enzymes as blood tests"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -10458,12 +10498,12 @@
  {
   "id": "597170",
   "title": "11.5: Enzyme Cofactors and Vitamins",
-  "bytes": 20593,
+  "bytes": 25443,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
   "examples": 1,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 1,
   "imgs_no_alt": 0,
   "tables": 2,
@@ -10471,9 +10511,9 @@
   "rosa": 0,
   "in_the_lab": 1,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 3,
+  "print_key": 1,
+  "key_items": 3,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -10515,6 +10555,10 @@
    [
     3,
     "Valley Connection: Folic Acid in the Tortilla"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [
@@ -10532,12 +10576,12 @@
  {
   "id": "597171",
   "title": "11.6: Enzyme Regulation- Allosteric Control and Feedback Inhibition",
-  "bytes": 14451,
+  "bytes": 17465,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
   "examples": 1,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 3,
   "imgs_no_alt": 0,
   "tables": 0,
@@ -10545,9 +10589,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -10577,6 +10621,10 @@
    [
     3,
     "Feedback inhibition: the end product shuts off the first step"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -10761,7 +10809,7 @@
  {
   "id": "597174",
   "title": "11.9: Practice Problems",
-  "bytes": 94124,
+  "bytes": 94150,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -10779,12 +10827,12 @@
   "key_items": 86,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-11&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes&n=12&fresh=1&chmax=11&title=Cumulative+mix,+Chapters+1-11&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-11&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes&amp;n=12&amp;fresh=1&amp;chmax=11&amp;title=Cumulative+mix,+Chapters+1-11&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -10916,7 +10964,7 @@
  {
   "id": "597050",
   "title": "12: Nucleic Acids and Protein Synthesis",
-  "bytes": 6071,
+  "bytes": 6113,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -10955,12 +11003,12 @@
  {
   "id": "597175",
   "title": "12.1: Nucleotides",
-  "bytes": 16943,
+  "bytes": 19377,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
   "examples": 1,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 7,
   "imgs_no_alt": 0,
   "tables": 2,
@@ -10968,9 +11016,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -11000,6 +11048,10 @@
    [
     3,
     "Worked example"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [
@@ -11016,7 +11068,7 @@
  {
   "id": "597176",
   "title": "12.2: Nucleic Acid Structure",
-  "bytes": 31363,
+  "bytes": 31299,
   "objectives": 0,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -11034,12 +11086,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0287,fb-3B-0288,fb-3B-0325,fb-3B-0326,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960&n=10&title=DNA+structure+and+replication&game=helix"
+   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0287,fb-3B-0288,fb-3B-0325,fb-3B-0326,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960&n=10&title=DNA+structure&game=helix"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0287,fb-3B-0288,fb-3B-0325,fb-3B-0326,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix"
+   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0287,fb-3B-0288,fb-3B-0325,fb-3B-0326,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960&amp;n=10&amp;title=DNA+structure&amp;game=helix"
   ],
   "headings": [
    [
@@ -11202,12 +11254,12 @@
  {
   "id": "597178",
   "title": "12.4: Ribonucleic acid (RNA) and transcription",
-  "bytes": 21895,
+  "bytes": 24235,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
   "examples": 2,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 8,
   "imgs_no_alt": 1,
   "tables": 0,
@@ -11215,9 +11267,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -11275,6 +11327,10 @@
    [
     3,
     "Worked example"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [
@@ -11451,12 +11507,12 @@
  {
   "id": "597180",
   "title": "12.7: Mutations and Genetic Diseases",
-  "bytes": 27073,
+  "bytes": 31424,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
   "examples": 3,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 4,
   "imgs_no_alt": 0,
   "tables": 2,
@@ -11464,9 +11520,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 2,
+  "print_key": 1,
+  "key_items": 2,
   "videos": [
    "https://www.youtube.com/embed/vl6Vlf2thvI?rel=0"
   ],
@@ -11502,6 +11558,10 @@
    [
     3,
     "Worked examples"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [
@@ -11776,7 +11836,7 @@
  {
   "id": "597185",
   "title": "12.11: Practice Problems",
-  "bytes": 86394,
+  "bytes": 86420,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -11794,12 +11854,12 @@
   "key_items": 85,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-12&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic&n=12&fresh=1&chmax=12&title=Cumulative+mix,+Chapters+1-12&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-12&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic&amp;n=12&amp;fresh=1&amp;chmax=12&amp;title=Cumulative+mix,+Chapters+1-12&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -11937,7 +11997,7 @@
  {
   "id": "597051",
   "title": "13: Carbohydrate Metabolism",
-  "bytes": 6271,
+  "bytes": 6298,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -12117,12 +12177,12 @@
  {
   "id": "597189",
   "title": "13.2: ATP- the Universal Energy Currency",
-  "bytes": 18748,
+  "bytes": 22105,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
   "examples": 2,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 7,
   "imgs_no_alt": 0,
   "tables": 1,
@@ -12130,9 +12190,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -12158,6 +12218,10 @@
    [
     3,
     "Coupled reactions: why ATP shows up next to so many steps"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -12797,7 +12861,7 @@
  {
   "id": "597199",
   "title": "13.11: Practice Problems",
-  "bytes": 83927,
+  "bytes": 83953,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -12815,12 +12879,12 @@
   "key_items": 77,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-13&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&n=12&fresh=1&chmax=13&title=Cumulative+mix,+Chapters+1-13&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-13&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;chmax=13&amp;title=Cumulative+mix,+Chapters+1-13&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -13135,7 +13199,7 @@
  {
   "id": "597202",
   "title": "14.3: Citric acid cycle",
-  "bytes": 28447,
+  "bytes": 28793,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -13210,7 +13274,7 @@
  {
   "id": "597203",
   "title": "14.4: Oxidative Phosphorylation",
-  "bytes": 53452,
+  "bytes": 53464,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -13343,7 +13407,7 @@
  {
   "id": "597204",
   "title": "14.5: Energy Output in Complete Glucose Catabolism",
-  "bytes": 28052,
+  "bytes": 28050,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 1,
@@ -13353,7 +13417,7 @@
   "imgs_no_alt": 0,
   "tables": 1,
   "valley": 0,
-  "rosa": 2,
+  "rosa": 1,
   "in_the_lab": 0,
   "summary": 1,
   "details": 7,
@@ -13518,7 +13582,7 @@
  {
   "id": "597206",
   "title": "14.7: Practice Problems",
-  "bytes": 83075,
+  "bytes": 83101,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -13536,12 +13600,12 @@
   "key_items": 76,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&n=12&fresh=1&title=Cumulative+mix,+Chapters+1-14&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&n=12&fresh=1&chmax=14&title=Cumulative+mix,+Chapters+1-14&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-14&amp;game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;chmax=14&amp;title=Cumulative+mix,+Chapters+1-14&amp;game=finalboss"
   ],
   "headings": [
    [
@@ -14015,7 +14079,7 @@
  {
   "id": "597213",
   "title": "15.5: Ketone Bodies and Ketoacidosis",
-  "bytes": 22016,
+  "bytes": 22104,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -14033,12 +14097,12 @@
   "key_items": 1,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048&n=5&title=Ketone%20Bodies"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048,fb-3B-2252,fb-3B-2253,fb-3B-2254,fb-3B-2255&n=8&title=Ketone%20Bodies"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048&amp;n=5&amp;title=Ketone%20Bodies"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048,fb-3B-2252,fb-3B-2253,fb-3B-2254,fb-3B-2255&amp;n=8&amp;title=Ketone%20Bodies"
   ],
   "headings": [
    [
@@ -14074,12 +14138,12 @@
  {
   "id": "597214",
   "title": "15.6: Biosynthesis of Fatty Acids",
-  "bytes": 15686,
+  "bytes": 18427,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
   "examples": 0,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 2,
   "imgs_no_alt": 1,
   "tables": 2,
@@ -14087,9 +14151,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 1,
+  "details": 2,
   "print_key": 1,
-  "key_items": 1,
+  "key_items": 2,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -14147,7 +14211,7 @@
  {
   "id": "597215",
   "title": "15.7: Digestion of Proteins",
-  "bytes": 15854,
+  "bytes": 17364,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -14160,9 +14224,9 @@
   "rosa": 0,
   "in_the_lab": 1,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -14188,6 +14252,10 @@
    [
     3,
     "Valley Connection: Beans and Corn Tortillas"
+   ],
+   [
+    2,
+    "Answers"
    ]
   ],
   "objectives_cor": [],
@@ -14418,12 +14486,12 @@
  {
   "id": "597217",
   "title": "15.11: Biosynthesis of Nonessential Amino Acids",
-  "bytes": 11611,
+  "bytes": 14147,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
   "examples": 0,
-  "exercises": 0,
+  "exercises": 1,
   "figures": 3,
   "imgs_no_alt": 2,
   "tables": 1,
@@ -14431,9 +14499,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 1,
+  "details": 2,
   "print_key": 1,
-  "key_items": 1,
+  "key_items": 2,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
