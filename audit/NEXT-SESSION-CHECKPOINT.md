@@ -7,6 +7,10 @@
 - Latest PDF checked: `~/Downloads/Full.pdf`, 2026-11-13 16:37, 1,340 pp.
 - Coverage: every page has a ledger row, a pedagogy score and script checks. Correctness of problems rests on the 11-11 and 11-13 re-solves, not on this pass.
 
+## Update, end of 2026-11-13
+
+Batch R (`audit/BATCH_R_REVIEW.md`, branch `content/2026-11-batchR`) drafts most of the "Work not done" list below: Rosa story edits, bank gaps, section exercises, Check steps, Valley questions, cumulative-mix caps, the low-confidence errata and the P3 page fixes. See the 2026-11-13 batch R entry in `tools/ISSUE_LEDGER.md` for what is and is not in it. It is not merged and not published.
+
 ## Waiting on the instructor (in order)
 
 1. **Rosa story edits.** The Part 15 emergency-department check (P0) was approved on 2026-11-13 and is in batch Q. Seven smaller story edits are still held (Part 12 timeline "six months later" and insulin wording, Part 9 LDL follow-up, Part 10 repeat test, Part 13 meals, 14.5 burrito example ×2). Once decided, clear `skip` on those rows in `audit/edits/rosa_valley.json` (or edit the `new` text) and rerun `python3 tools/batchQ_build.py`.

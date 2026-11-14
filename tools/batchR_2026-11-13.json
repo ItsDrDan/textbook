@@ -1,0 +1,683 @@
+{
+ "uploads": [],
+ "edits": {
+  "597050": [
+   {
+    "old": "A year later, Rosa&rsquo;s A1c is 8.1%",
+    "new": "Six months later, Rosa&rsquo;s A1c is 8.1%",
+    "count": 1,
+    "note": "A Rosa Ch 12 landing, Rosa Part 12: Timeline contradiction. Part 12 puts the 8.1% A1c and the start of insulin 'a year later'; Part 15 says 'One year after her deep cleaning ... her A1c is 7.0%'. The deep cleaning (P"
+   },
+   {
+    "old": "so her nurse practitioner adds a once-daily",
+    "new": "so, after they talk through the options, her nurse practitioner adds a once-daily",
+    "count": 1,
+    "note": "A Rosa Ch 12 landing, Rosa Part 12: Going straight from metformin to basal insulin at A1c 8.1% in a patient with albuminuria is a simplification; current diabetes standards usually consider other drug classes first. "
+   }
+  ],
+  "597047": [
+   {
+    "old": "She keeps Rosa on <strong>atorvastatin</strong>, which lowers the liver&rsquo;s production of cholesterol, and suggests",
+    "new": "She keeps Rosa on <strong>atorvastatin</strong>, which lowers the liver&rsquo;s production of cholesterol, plans to recheck the panel to see whether the LDL is coming down, and suggests",
+    "count": 1,
+    "note": "A Rosa Ch 9 landing, Rosa Part 9: Rosa is already on atorvastatin in Part 1 with LDL 142 mg/dL, above the chart's own goal (under 100). 'Keeps her on' with no follow-up reads as if an above-goal LDL on treatment ne"
+   }
+  ],
+  "597048": [
+   {
+    "old": "where under 30 is normal.",
+    "new": "where under 30 is normal; a result like this is repeated to confirm it.",
+    "count": 1,
+    "note": "A Rosa Ch 10 landing, Rosa Part 10: A single raised urine albumin-to-creatinine ratio is confirmed with repeat testing before it is called kidney damage."
+   }
+  ],
+  "597051": [
+   {
+    "old": "and reminds her not to skip meals.",
+    "new": "and they plan what she will do when a meal is late or missed.",
+    "count": 1,
+    "note": "A Rosa Ch 13 landing, Rosa Part 13: Less blaming of the patient; same clinical point."
+   }
+  ],
+  "597204": [
+   {
+    "old": "(b) About how long would Rosa need to walk to use 260 Calories?",
+    "new": "(b) About how many minutes of brisk walking use 260 Calories of energy?",
+    "count": 1,
+    "note": "A Rosa 14.5 Example 4 problem: Avoids the 'walk off the burrito' framing (exercise as payment for a culturally familiar food) for a patient with diabetes; the calculation is unchanged."
+   },
+   {
+    "old": "Rosa&rsquo;s 30-minute evening walk uses about 140 Calories, roughly half the burrito.",
+    "new": "For comparison, Rosa&rsquo;s 30-minute evening walk uses about 140 Calories.",
+    "count": 1,
+    "note": "A Rosa 14.5 Example 4 solution: Same reason as the problem statement."
+   }
+  ],
+  "597079": [
+   {
+    "old": "<h4 class=\"box-legend editable\">Example \\(\\PageIndex{1}\\)</h4>",
+    "new": "<h3 class=\"box-legend editable\">Example \\(\\PageIndex{1}\\)</h3>",
+    "count": 1,
+    "note": "B 3.2 heading order: Example h4 -> h3 (it sat directly under an h2)"
+   },
+   {
+    "old": "<h5 class=\"editable\">Solution</h5>",
+    "new": "<h4 class=\"editable\">Solution</h4>",
+    "count": 1,
+    "note": "B 3.2 heading order: Solution h5 -> h4"
+   }
+  ],
+  "597061": [
+   {
+    "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=hydrogen%20bond%7Cdispersion%7Cdipole%7Cboiling%7Csolub%7Cpolar&amp;n=10&amp;title=Intermolecular%20forces\"",
+    "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&amp;n=10&amp;title=Intermolecular%20forces\"",
+    "count": 1,
+    "note": "B \"Open this practice in a new tab\" opened the old question filter; now the same selection as the embedded box"
+   }
+  ],
+  "597078": [
+   {
+    "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&amp;q=alkene%7Calkyne%7Cdouble%20bond%7Ctriple%20bond%7Cene%7Cyne&amp;n=10&amp;title=Naming%20alkenes%20and%20alkynes\"",
+    "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;ids=fb-3B-0027,fb-3B-0028,fb-3B-0212,fb-3B-0217,fb-3B-0394,fb-3B-0566,fb-3B-0572&amp;n=7&amp;title=Naming%20alkenes%20and%20alkynes\"",
+    "count": 1,
+    "note": "B \"Open this practice in a new tab\" opened the old question filter; now the same selection as the embedded box"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;ids=fb-3B-0027,fb-3B-0028,fb-3B-0212,fb-3B-0217,fb-3B-0394,fb-3B-0566,fb-3B-0572&amp;n=7&amp;title=Naming%20alkenes%20and%20alkynes\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&amp;ids=fb-3B-0027,fb-3B-0028,fb-3B-2246,fb-3B-2247,fb-3B-2248,fb-3B-2249,fb-3B-2250,fb-3B-2251&amp;n=8&amp;title=Naming%20alkenes%20and%20alkynes\"",
+    "count": 2,
+    "note": "G 3.1 Naming alkenes and alkynes: six new naming questions replace the isomer-counting items, so the box matches its title"
+   }
+  ],
+  "597109": [
+   {
+    "old": "title=Naming%20acids%20and%20esters",
+    "new": "title=Naming%20carboxylic%20acids",
+    "count": 2,
+    "note": "B Try It title: \"Naming acids and esters\" -> \"Naming carboxylic acids\" (the rest is taught in a later section)"
+   },
+   {
+    "old": "Try It: Naming acids and esters",
+    "new": "Try It: Naming carboxylic acids",
+    "count": 2,
+    "note": "B Try It title text: \"Naming acids and esters\" -> \"Naming carboxylic acids\""
+   }
+  ],
+  "597176": [
+   {
+    "old": "title=DNA+structure+and+replication",
+    "new": "title=DNA+structure",
+    "count": 2,
+    "note": "B Try It title: \"DNA structure and replication\" -> \"DNA structure\" (the rest is taught in a later section)"
+   },
+   {
+    "old": "Try It: DNA structure and replication",
+    "new": "Try It: DNA structure",
+    "count": 2,
+    "note": "B Try It title text: \"DNA structure and replication\" -> \"DNA structure\""
+   }
+  ],
+  "597270": [
+   {
+    "old": "the games have no required timed mode.",
+    "new": "the games have no required timed mode. One limit comes from the platform, not from this book: the pop-up definitions that appear on glossary words open with a mouse or a touch only. The same definitions are on the Glossary page, which works with the keyboard and with screen readers.",
+    "count": 1,
+    "note": "B accessibility statement: glossary pop-ups (added by LibreTexts) cannot be opened from the keyboard; the Glossary page is the accessible route"
+   },
+   {
+    "old": "Each one cites its sources, and the longer ones end with a &ldquo;Think about it&rdquo; question:",
+    "new": "Each one cites its sources and ends with a &ldquo;Think about it&rdquo; question:",
+    "count": 1,
+    "note": "C About This Book: every Valley box has a question again"
+   }
+  ],
+  "597070": [
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. U.S. Census Bure",
+    "new": "<p><strong>Think about it:</strong> Bottled gas can also be butane, C<sub>4</sub>H<sub>10</sub>. Work out its molar mass and compare it with air (about 29 g/mol). Will leaking butane rise or sink? Then explain why butane boils at a higher temperature than propane (&minus;1 &deg;C compared with &minus;42 &deg;C in the table).</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>Butane is 4(12) + 10(1) = <strong>58 g/mol</strong>, about twice the mass of air, so it <strong>sinks</strong> and collects in low spots just as propane does. Both molecules are nonpolar, so the only attractions between them are dispersion forces. Butane is the larger molecule with more surface area, so its dispersion forces are stronger and it takes more energy to boil.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. U.S. Census Bure",
+    "count": 1,
+    "note": "C Valley Connection 2.6: \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: Bottled gas can also be butane,&hellip;&rdquo;</strong></p><div>Butane is 4(12) + 10(1) = <strong>58 g/mol</strong>, about twice the mass of air, so it <strong>sinks</strong> and collects in low spots just as propane does. Both molecules are nonpolar, so the only attractions between them are dispersion forces. Butane is the larger molecule with more surface area, so its dispersion forces are stronger and it takes more energy to boil.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: &ldquo;Think about it: Bottled gas can also be butane,&hellip;&rdquo;"
+   }
+  ],
+  "597082": [
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. NOAA, Monterey B",
+    "new": "<p><strong>Think about it:</strong> Polypropylene, in the table above, is made from propene, CH<sub>2</sub>=CHCH<sub>3</sub>. Write a section of the polymer that is three monomer units long. What happened to each C=C double bond, and were any atoms lost?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;. Each C=C became a C&ndash;C single bond, and the two carbons used the freed bonds to join the monomers on either side. No atoms were lost: this is addition polymerization, so the polymer contains every atom of the monomers. The CH<sub>3</sub> group hangs off every other carbon of the chain.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. NOAA, Monterey B",
+    "count": 1,
+    "note": "C Valley Connection 3.5: \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "The ester group is not part of the chain; it hangs off every other carbon as a side group.</div></div>\n</div></div>\n</div></div>",
+    "new": "The ester group is not part of the chain; it hangs off every other carbon as a side group.</div></div>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: Polypropylene, in the table above, is&hellip;&rdquo;</strong></p><div>&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;. Each C=C became a C&ndash;C single bond, and the two carbons used the freed bonds to join the monomers on either side. No atoms were lost: this is addition polymerization, so the polymer contains every atom of the monomers. The CH<sub>3</sub> group hangs off every other carbon of the chain.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print key: &ldquo;Think about it: Polypropylene, in the table above, is&hellip;&rdquo;"
+   }
+  ],
+  "597098": [
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. UC Davis News, <",
+    "new": "<p><strong>Think about it:</strong> Methanethiol, CH<sub>3</sub>SH, is one of the small thiols with a strong smell. Write the equation for its mild oxidation. Name the functional group in the product, and say where you will meet that bond again in this course.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>2 CH<sub>3</sub>SH + [O] &rarr; CH<sub>3</sub>&ndash;S&ndash;S&ndash;CH<sub>3</sub> + H<sub>2</sub>O. Each thiol loses its S&ndash;H hydrogen and the two sulfur atoms join. The product is a <strong>disulfide</strong>. The same S&ndash;S bond forms between cysteine side chains and helps hold proteins in shape (Chapter 10).</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. UC Davis News, <",
+    "count": 1,
+    "note": "C Valley Connection 4.9: \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: Methanethiol, CH3SH, is one of the&hellip;&rdquo;</strong></p><div>2 CH<sub>3</sub>SH + [O] &rarr; CH<sub>3</sub>&ndash;S&ndash;S&ndash;CH<sub>3</sub> + H<sub>2</sub>O. Each thiol loses its S&ndash;H hydrogen and the two sulfur atoms join. The product is a <strong>disulfide</strong>. The same S&ndash;S bond forms between cysteine side chains and helps hold proteins in shape (Chapter 10).</div></div>\n</div></div>\n</div></div></div>",
+    "count": 1,
+    "note": "print-only answer key added: &ldquo;Think about it: Methanethiol, CH3SH, is one of the&hellip;&rdquo;"
+   }
+  ],
+  "597131": [
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. CalEPA, <a style",
+    "new": "<p><strong>Think about it:</strong> Which functional group in acetylcholine does acetylcholinesterase break, and what are the two products? Use your answer to explain why a muscle keeps twitching when an organophosphate blocks the enzyme.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>The enzyme hydrolyzes the <strong>ester</strong>, giving <strong>acetate and choline</strong>. Those pieces no longer fit the receptor, so the signal stops and the muscle relaxes. When the enzyme is blocked, the ester is not hydrolyzed. Acetylcholine stays in the synapse, keeps binding its receptors, and the muscle keeps getting the signal to contract.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. CalEPA, <a style",
+    "count": 1,
+    "note": "C Valley Connection 7.11: \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "etylcholine is not broken down. One blocks reuptake; the other blocks enzymatic breakdown.</div></div>\n</div></div>\n</div>",
+    "new": "etylcholine is not broken down. One blocks reuptake; the other blocks enzymatic breakdown.</div></div>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: Which functional group in acetylcholine does&hellip;&rdquo;</strong></p><div>The enzyme hydrolyzes the <strong>ester</strong>, giving <strong>acetate and choline</strong>. Those pieces no longer fit the receptor, so the signal stops and the muscle relaxes. When the enzyme is blocked, the ester is not hydrolyzed. Acetylcholine stays in the synapse, keeps binding its receptors, and the muscle keeps getting the signal to contract.</div></div>\n</div></div>\n</div>",
+    "count": 1,
+    "note": "print key: &ldquo;Think about it: Which functional group in acetylcholine does&hellip;&rdquo;"
+   }
+  ],
+  "597156": [
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Depar",
+    "new": "<p><strong>Think about it:</strong> Casein clumps at pH 4.6, its pI. Suppose the solution is at pH 7 instead. Is the net charge on casein positive, negative or zero? Explain why casein stays dissolved at that pH.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><strong>Negative.</strong> A pH of 7 is above the pI, so the groups that can lose an H<sup>+</sup> have lost it: there are more &ndash;COO<sup>&minus;</sup> groups than &ndash;NH<sub>3</sub><sup>+</sup> groups. Every casein molecule carries the same kind of net charge, so the molecules repel one another and stay spread out in the water. Adding acid puts H<sup>+</sup> back on until the net charge is zero at pH 4.6, and then they clump.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Depar",
+    "count": 1,
+    "note": "C Valley Connection 10.3: \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: Casein clumps at pH 4.6, its&hellip;&rdquo;</strong></p><div><strong>Negative.</strong> A pH of 7 is above the pI, so the groups that can lose an H<sup>+</sup> have lost it: there are more &ndash;COO<sup>&minus;</sup> groups than &ndash;NH<sub>3</sub><sup>+</sup> groups. Every casein molecule carries the same kind of net charge, so the molecules repel one another and stay spread out in the water. Adding acid puts H<sup>+</sup> back on until the net charge is zero at pH 4.6, and then they clump.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: &ldquo;Think about it: Casein clumps at pH 4.6, its&hellip;&rdquo;"
+   }
+  ],
+  "597162": [
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. J. Scott, Califo",
+    "new": "<p><strong>Think about it:</strong> Carbon monoxide and nitrite both keep hemoglobin from carrying O<sub>2</sub>, but in different ways. Compare what each one does at the iron of the heme group. In either case, has the quaternary structure of hemoglobin been taken apart?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>CO leaves the iron as Fe<sup>2+</sup> but binds to it about 200 times more tightly than O<sub>2</sub>, so the site is occupied. Nitrite <strong>oxidizes</strong> the iron from Fe<sup>2+</sup> to Fe<sup>3+</sup> (the iron loses an electron), and Fe<sup>3+</sup> cannot carry O<sub>2</sub>. No: in both cases the four subunits are still together. The protein is intact, but the heme sites are out of service.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. J. Scott, Califo",
+    "count": 1,
+    "note": "C Valley Connection 10.9: \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 10.9</p>\n<p>Hemoglobin has two &alpha; chains of 141 amino acids each and two &beta; chains of 146 amino acids each. Myoglobin is one chain of 153 amino acids.</p><ol style=\"list-style-type: lower-alpha;\"><li>How many subunits does hemoglobin have? What is the name for a protein with that number of subunits? How many amino acids does it contain in all?</li><li>Which of the two proteins has quaternary structure? Explain.</li><li>What holds the subunits of hemoglobin together? How many O<sub>2</sub> molecules can one hemoglobin carry, and why?</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Four subunits, so hemoglobin is a tetramer. Total: (2 &times; 141) + (2 &times; 146) = 282 + 292 = 574 amino acids.</li><li>Only hemoglobin. Quaternary structure exists only when two or more separate chains pack into one functional protein. Myoglobin is a single chain, so it stops at tertiary structure, however large it is.</li><li>The same R-group interactions that hold tertiary structure, acting between chains instead of within one chain. In hemoglobin these are the weak ones: hydrophobic interactions, hydrogen bonds and salt bridges. Hemoglobin carries four O<sub>2</sub>: each of the four subunits has one heme, and each Fe<sup>2+</sup> binds one O<sub>2</sub>.</li></ol><p><strong>Check.</strong> 282 + 292 = 574, and 574 is larger than either chain alone, as it must be. Count chains, not amino acids, to decide on quaternary structure: four chains, yes; one chain, no.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 10.9: practice exercise added (the section had none): Decide whether a protein has quaternary structure, count its subunits, and name the forces that hold subunits together."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: Carbon monoxide and nitrite both keep&hellip;&rdquo;</strong></p><div>CO leaves the iron as Fe<sup>2+</sup> but binds to it about 200 times more tightly than O<sub>2</sub>, so the site is occupied. Nitrite <strong>oxidizes</strong> the iron from Fe<sup>2+</sup> to Fe<sup>3+</sup> (the iron loses an electron), and Fe<sup>3+</sup> cannot carry O<sub>2</sub>. No: in both cases the four subunits are still together. The protein is intact, but the heme sites are out of service.</div></div>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 10.9</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Four subunits, so hemoglobin is a tetramer. Total: (2 &times; 141) + (2 &times; 146) = 282 + 292 = 574 amino acids.</li><li>Only hemoglobin. Quaternary structure exists only when two or more separate chains pack into one functional protein. Myoglobin is a single chain, so it stops at tertiary structure, however large it is.</li><li>The same R-group interactions that hold tertiary structure, acting between chains instead of within one chain. In hemoglobin these are the weak ones: hydrophobic interactions, hydrogen bonds and salt bridges. Hemoglobin carries four O<sub>2</sub>: each of the four subunits has one heme, and each Fe<sup>2+</sup> binds one O<sub>2</sub>.</li></ol><p><strong>Check.</strong> 282 + 292 = 574, and 574 is larger than either chain alone, as it must be. Count chains, not amino acids, to decide on quaternary structure: four chains, yes; one chain, no.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: &ldquo;Think about it: Carbon monoxide and nitrite both keep&hellip;&rdquo;, Practice 10.9"
+   }
+  ],
+  "597170": [
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. UC Davis Fruit &",
+    "new": "<p><strong>Think about it:</strong> Vitamin E has an &ndash;OH group, and &ndash;OH groups can hydrogen bond with water. Why is vitamin E fat-soluble anyway? Use your answer to explain why a person who cannot absorb fat can run low on vitamin E.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>One polar &ndash;OH is far outweighed by the long nonpolar hydrocarbon tail and ring, so the molecule as a whole is nonpolar. Like dissolves like: it dissolves in fats and lipid membranes, not in water. Because it travels dissolved in dietary fat, a person who absorbs fat poorly also absorbs vitamin E poorly.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. UC Davis Fruit &",
+    "count": 1,
+    "note": "C Valley Connection 11.5 (almonds and vitamin E): \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Centers for Dise",
+    "new": "<p><strong>Think about it:</strong> Folate is turned into THF in the body. By the definitions in this section, is THF a cofactor or a coenzyme? Explain your choice, and explain why the cells of an early embryo need so much of it.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>THF is a <strong>coenzyme</strong>. It is an organic molecule made from a vitamin. A cofactor in this course is an inorganic ion such as Zn<sup>2+</sup> or Mg<sup>2+</sup>. THF carries the one-carbon units used to build nucleotides. An embryo&rsquo;s cells divide fast, and every division needs a full new copy of the DNA, so they need a steady supply of nucleotides.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Centers for Dise",
+    "count": 1,
+    "note": "C Valley Connection 11.5 (folic acid in the tortilla): \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 11.5</p>\n<p>Five enzyme helpers are Zn<sup>2+</sup>, NAD<sup>+</sup>, Mg<sup>2+</sup>, coenzyme A and FAD.</p><ol style=\"list-style-type: lower-alpha;\"><li>Classify each helper as a cofactor or a coenzyme.</li><li>For each coenzyme, name the vitamin it is made from.</li><li>A patient takes large daily supplements of vitamin C and of vitamin A. Which one is more likely to build up to a toxic level? Explain.</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Cofactors: Zn<sup>2+</sup> and Mg<sup>2+</sup>. They are inorganic metal ions. Coenzymes: NAD<sup>+</sup>, coenzyme A and FAD. They are organic molecules.</li><li>NAD<sup>+</sup> comes from niacin (B<sub>3</sub>). FAD comes from riboflavin (B<sub>2</sub>). Coenzyme A comes from pantothenic acid (B<sub>5</sub>).</li><li>Vitamin A. It is fat-soluble, so the excess is stored in the liver and in fat tissue. Vitamin C is water-soluble, so the excess leaves quickly in the urine.</li></ol><p><strong>Check.</strong> Two cofactors plus three coenzymes accounts for all five helpers. Every cofactor on the list is a metal ion with a charge and no carbon. Every coenzyme traces back to a B vitamin, and the B vitamins are water-soluble.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 11.5: practice exercise added (the section had none): Tell a cofactor from a coenzyme, link a coenzyme to its vitamin, and compare water-soluble and fat-soluble vitamins."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: Vitamin E has an &ndash;OH group,&hellip;&rdquo;</strong></p><div>One polar &ndash;OH is far outweighed by the long nonpolar hydrocarbon tail and ring, so the molecule as a whole is nonpolar. Like dissolves like: it dissolves in fats and lipid membranes, not in water. Because it travels dissolved in dietary fat, a person who absorbs fat poorly also absorbs vitamin E poorly.</div></div>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: Folate is turned into THF in&hellip;&rdquo;</strong></p><div>THF is a <strong>coenzyme</strong>. It is an organic molecule made from a vitamin. A cofactor in this course is an inorganic ion such as Zn<sup>2+</sup> or Mg<sup>2+</sup>. THF carries the one-carbon units used to build nucleotides. An embryo&rsquo;s cells divide fast, and every division needs a full new copy of the DNA, so they need a steady supply of nucleotides.</div></div>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 11.5</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Cofactors: Zn<sup>2+</sup> and Mg<sup>2+</sup>. They are inorganic metal ions. Coenzymes: NAD<sup>+</sup>, coenzyme A and FAD. They are organic molecules.</li><li>NAD<sup>+</sup> comes from niacin (B<sub>3</sub>). FAD comes from riboflavin (B<sub>2</sub>). Coenzyme A comes from pantothenic acid (B<sub>5</sub>).</li><li>Vitamin A. It is fat-soluble, so the excess is stored in the liver and in fat tissue. Vitamin C is water-soluble, so the excess leaves quickly in the urine.</li></ol><p><strong>Check.</strong> Two cofactors plus three coenzymes accounts for all five helpers. Every cofactor on the list is a metal ion with a charge and no carbon. Every coenzyme traces back to a B vitamin, and the B vitamins are water-soluble.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: &ldquo;Think about it: Vitamin E has an &ndash;OH group,&hellip;&rdquo;, &ldquo;Think about it: Folate is turned into THF in&hellip;&rdquo;, Practice 11.5"
+   }
+  ],
+  "597180": [
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Depar",
+    "new": "<p><strong>Think about it:</strong> Sickle cell anemia, one of the screened conditions, comes from a point mutation. Using this course&rsquo;s definition, what happened to the DNA? Why does this change only one amino acid in hemoglobin, while an insertion or deletion would change many?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>A point mutation is a <strong>substitution</strong>: one base is replaced by another (GAG becomes GTG in the worked example on this page). The number of bases stays the same, so the reading frame does not move and only that one codon is read differently. An insertion or deletion shifts the reading frame, so every codon after it is read differently and the amino acids that follow all change.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Depar",
+    "count": 1,
+    "note": "C Valley Connection 12.7: \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 12.7</p>\n<p>A normal mRNA reads 5&prime;-AUG CCA GAA UGG UAA-3&prime; and codes for Met-Pro-Glu-Trp. Codons you will need: AAA = Lys, GAU = Asp, GGU = Gly; UAA and UGA are stop codons. Classify each mutation and write the peptide it gives.</p><ol style=\"list-style-type: lower-alpha;\"><li>GAA becomes AAA.</li><li>UGG becomes UGA.</li><li>One A of the codon GAA is deleted.</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>One base is replaced and the base count stays at 15, so it is a point mutation (substitution). AAA codes for Lys, a different amino acid: a missense mutation. The peptide is Met-Pro-Lys-Trp. A negatively charged side chain (Glu) is replaced by a positively charged one (Lys), so the protein may fold or work differently.</li><li>A substitution again, but the new codon UGA is a stop: a nonsense mutation. The peptide is cut short to Met-Pro-Glu and is probably non-functional.</li><li>A deletion mutation. Fourteen bases remain, and they are read in threes as AUG CCA GAU GGU AA. Every codon after the deletion is read in the wrong frame: a frameshift. The peptide is now Met-Pro-Asp-Gly, and the original stop codon is no longer in frame, so the ribosome keeps reading past it.</li></ol><p><strong>Check.</strong> Count the bases first. (a) and (b) keep 15 bases, so each is a substitution and changes one codon only. (c) has 14 bases, which is not a multiple of three, so the frame shifts and everything after the deletion changes.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 12.7: practice exercise added (the section had none): Classify a mutation (silent, missense, nonsense, frameshift) and predict its effect on the protein."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: Sickle cell anemia, one of the&hellip;&rdquo;</strong></p><div>A point mutation is a <strong>substitution</strong>: one base is replaced by another (GAG becomes GTG in the worked example on this page). The number of bases stays the same, so the reading frame does not move and only that one codon is read differently. An insertion or deletion shifts the reading frame, so every codon after it is read differently and the amino acids that follow all change.</div></div>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 12.7</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>One base is replaced and the base count stays at 15, so it is a point mutation (substitution). AAA codes for Lys, a different amino acid: a missense mutation. The peptide is Met-Pro-Lys-Trp. A negatively charged side chain (Glu) is replaced by a positively charged one (Lys), so the protein may fold or work differently.</li><li>A substitution again, but the new codon UGA is a stop: a nonsense mutation. The peptide is cut short to Met-Pro-Glu and is probably non-functional.</li><li>A deletion mutation. Fourteen bases remain, and they are read in threes as AUG CCA GAU GGU AA. Every codon after the deletion is read in the wrong frame: a frameshift. The peptide is now Met-Pro-Asp-Gly, and the original stop codon is no longer in frame, so the ribosome keeps reading past it.</li></ol><p><strong>Check.</strong> Count the bases first. (a) and (b) keep 15 bases, so each is a substitution and changes one codon only. (c) has 14 bases, which is not a multiple of three, so the frame shifts and everything after the deletion changes.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: &ldquo;Think about it: Sickle cell anemia, one of the&hellip;&rdquo;, Practice 12.7"
+   }
+  ],
+  "597215": [
+   {
+    "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Food and Agricul",
+    "new": "<p><strong>Think about it:</strong> The lysine in beans is locked inside bean protein. What type of reaction frees it during digestion, and what bond is broken? Which pancreatic enzyme cuts next to lysine? Where does the free lysine go next?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>Digestion is <strong>hydrolysis</strong>: water is added across the <strong>peptide (amide) bonds</strong> that join the amino acids. <strong>Trypsin</strong> cuts peptide bonds on the carboxyl side of the basic amino acids lysine and arginine, and other peptidases finish the job. The free lysine is absorbed through the intestinal wall into the blood and joins the amino acid pool, where it can be used to build new proteins.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Food and Agricul",
+    "count": 1,
+    "note": "C Valley Connection 15.7: \"Think about it\" question added (the box had none)"
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>&ldquo;Think about it: The lysine in beans is locked&hellip;&rdquo;</strong></p><div>Digestion is <strong>hydrolysis</strong>: water is added across the <strong>peptide (amide) bonds</strong> that join the amino acids. <strong>Trypsin</strong> cuts peptide bonds on the carboxyl side of the basic amino acids lysine and arginine, and other peptidases finish the job. The free lysine is absorbed through the intestinal wall into the blood and joins the amino acid pool, where it can be used to build new proteins.</div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: &ldquo;Think about it: The lysine in beans is locked&hellip;&rdquo;"
+   }
+  ],
+  "597114": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 6.6</p>\n<p>Four compounds have nearly the same molar mass: pentane (72 g/mol), methyl acetate (74 g/mol), 1-butanol (74 g/mol) and propanoic acid (74 g/mol).</p><ol style=\"list-style-type: lower-alpha;\"><li>Rank the four from lowest to highest boiling point. Give the reason for each position.</li><li>Can two methyl acetate molecules hydrogen bond to each other? Can methyl acetate hydrogen bond to water? Explain.</li><li>Which dissolves better in water, methyl acetate or pentane? Why?</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Pentane &lt; methyl acetate &lt; 1-butanol &lt; propanoic acid. Pentane is nonpolar and has only dispersion forces. Methyl acetate is polar, so it adds dipole&ndash;dipole forces, but it has no O&ndash;H. 1-Butanol has an O&ndash;H and hydrogen bonds to itself. Propanoic acid forms hydrogen-bonded dimers, the strongest attraction of the four.</li><li>Not to each other: an ester has no H bonded to O, so it has nothing to donate. To water, yes: the O&ndash;H of water donates a hydrogen bond to the C=O oxygen of the ester.</li><li>Methyl acetate. It can accept hydrogen bonds from water and it has only three carbons, so it is somewhat soluble. Pentane cannot hydrogen bond with water at all and is insoluble.</li></ol><p><strong>Check.</strong> The measured boiling points agree with the ranking: pentane 36 &deg;C, methyl acetate 57 &deg;C (Table 6.6.1), 1-butanol 117 &deg;C, propanoic acid 141 &deg;C. Methyl acetate and propanoic acid are isomers (C<sub>3</sub>H<sub>6</sub>O<sub>2</sub>), so the 84-degree gap comes from hydrogen bonding alone, not from mass.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 6.6: practice exercise added (the section had none): Compare boiling points and water solubility of esters with alkanes, alcohols and carboxylic acids of similar molar mass."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 6.6</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Pentane &lt; methyl acetate &lt; 1-butanol &lt; propanoic acid. Pentane is nonpolar and has only dispersion forces. Methyl acetate is polar, so it adds dipole&ndash;dipole forces, but it has no O&ndash;H. 1-Butanol has an O&ndash;H and hydrogen bonds to itself. Propanoic acid forms hydrogen-bonded dimers, the strongest attraction of the four.</li><li>Not to each other: an ester has no H bonded to O, so it has nothing to donate. To water, yes: the O&ndash;H of water donates a hydrogen bond to the C=O oxygen of the ester.</li><li>Methyl acetate. It can accept hydrogen bonds from water and it has only three carbons, so it is somewhat soluble. Pentane cannot hydrogen bond with water at all and is insoluble.</li></ol><p><strong>Check.</strong> The measured boiling points agree with the ranking: pentane 36 &deg;C, methyl acetate 57 &deg;C (Table 6.6.1), 1-butanol 117 &deg;C, propanoic acid 141 &deg;C. Methyl acetate and propanoic acid are isomers (C<sub>3</sub>H<sub>6</sub>O<sub>2</sub>), so the 84-degree gap comes from hydrogen bonding alone, not from mass.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 6.6"
+   }
+  ],
+  "597136": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 8.3</p>\n<p>Glucose, C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>, has a molar mass of 180 g/mol, so 1 mmol of glucose is 180 mg. Use 1 L = 10 dL.</p><ol style=\"list-style-type: lower-alpha;\"><li>Show that 1 mmol/L of glucose equals 18 mg/dL.</li><li>A chart from a Canadian clinic lists a fasting glucose of 6.1 mmol/L. Convert it to mg/dL and classify it as normal, prediabetes or diabetes.</li><li>A meter in a Fresno clinic reads 54 mg/dL. Convert it to mmol/L and interpret the value.</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>1 mmol/L = 180 mg in 1 L = 180 mg in 10 dL = 18 mg/dL.</li><li>mmol/L to mg/dL: multiply by 18. 6.1 mmol/L &times; 18 = 109.8, about 110 mg/dL. A fasting value of 100&ndash;125 mg/dL is prediabetes.</li><li>mg/dL to mmol/L: divide by 18. 54 mg/dL &divide; 18 = 3.0 mmol/L. That is below about 70 mg/dL (3.9 mmol/L), so the patient is hypoglycemic.</li></ol><p><strong>Check.</strong> Reverse each conversion: 110 &divide; 18 = 6.1 mmol/L and 3.0 &times; 18 = 54 mg/dL. The number in mg/dL is always the larger one, 18 times the number in mmol/L. If your mg/dL answer is smaller than the mmol/L value, you divided when you should have multiplied.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 8.3: practice exercise added (the section had none): Convert a blood glucose value between mg/dL and mmol/L and interpret it against the fasting ranges."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 8.3</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>1 mmol/L = 180 mg in 1 L = 180 mg in 10 dL = 18 mg/dL.</li><li>mmol/L to mg/dL: multiply by 18. 6.1 mmol/L &times; 18 = 109.8, about 110 mg/dL. A fasting value of 100&ndash;125 mg/dL is prediabetes.</li><li>mg/dL to mmol/L: divide by 18. 54 mg/dL &divide; 18 = 3.0 mmol/L. That is below about 70 mg/dL (3.9 mmol/L), so the patient is hypoglycemic.</li></ol><p><strong>Check.</strong> Reverse each conversion: 110 &divide; 18 = 6.1 mmol/L and 3.0 &times; 18 = 54 mg/dL. The number in mg/dL is always the larger one, 18 times the number in mmol/L. If your mg/dL answer is smaller than the mmol/L value, you divided when you should have multiplied.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 8.3"
+   }
+  ],
+  "597147": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 9.4</p>\n<p>Lipid X is hydrolyzed completely. The products are sphingosine, one fatty acid, phosphate and choline. Lipid Y gives sphingosine, one fatty acid and galactose.</p><ol style=\"list-style-type: lower-alpha;\"><li>Name lipid X. Where in the body is it most abundant?</li><li>What type of bond holds the fatty acid in lipid X? How is this different from the bond that holds the fatty acids in a triacylglycerol?</li><li>Name lipid Y and the larger group of lipids it belongs to. What is the quickest way to tell Y from X?</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Sphingomyelin. The backbone is sphingosine and the head is phosphate plus choline. It is the main lipid of the myelin sheath that wraps nerve axons.</li><li>An amide bond. Sphingosine has an amine on C2, so the C=O of the fatty acid is bonded to N. In a triacylglycerol the C=O is bonded to an O of glycerol, an ester.</li><li>A cerebroside, which is a glycolipid. Its head is one sugar (galactose) and it has no phosphate. Sphingomyelin has a phosphate.</li></ol><p><strong>Check.</strong> Count the parts. X has four (sphingosine, fatty acid, phosphate, choline) and Y has three (sphingosine, fatty acid, sugar). Both have only one fatty acid and no glycerol, so neither is a glycerophospholipid. Both were split by water, so both are hydrolyzable lipids.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 9.4: practice exercise added (the section had none): Recognise a sphingolipid from its parts, name the amide bond that holds its fatty acid, and tell sphingomyelin from a ce"
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 9.4</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Sphingomyelin. The backbone is sphingosine and the head is phosphate plus choline. It is the main lipid of the myelin sheath that wraps nerve axons.</li><li>An amide bond. Sphingosine has an amine on C2, so the C=O of the fatty acid is bonded to N. In a triacylglycerol the C=O is bonded to an O of glycerol, an ester.</li><li>A cerebroside, which is a glycolipid. Its head is one sugar (galactose) and it has no phosphate. Sphingomyelin has a phosphate.</li></ol><p><strong>Check.</strong> Count the parts. X has four (sphingosine, fatty acid, phosphate, choline) and Y has three (sphingosine, fatty acid, sugar). Both have only one fatty acid and no glycerol, so neither is a glycerophospholipid. Both were split by water, so both are hydrolyzable lipids.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 9.4"
+   }
+  ],
+  "597160": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 10.7</p>\n<p>Three structural proteins are keratin (hair), fibroin (silk) and collagen (tendon and gums).</p><ol style=\"list-style-type: lower-alpha;\"><li>Match each protein with its main secondary structure.</li><li>What interaction holds all three of these structures together? Name the two groups involved.</li><li>A student writes: &ldquo;The &alpha;-helix is held together by attractions between the R groups.&rdquo; Correct the statement. Where do the R groups point in an &alpha;-helix?</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Keratin is mostly &alpha;-helix. Silk fibroin is mostly &beta;-pleated sheet. Collagen is a triple helix of three chains.</li><li>Hydrogen bonds between a backbone C=O and a backbone N&ndash;H. In the &alpha;-helix each C=O bonds to the N&ndash;H four residues further along the same chain (intramolecular). In silk the bonds run between neighboring strands, and in collagen between the three chains.</li><li>The helix is held by hydrogen bonds between backbone C=O and N&ndash;H groups. The R groups point outward from the helix and are not what holds it. R-group interactions belong to tertiary structure.</li></ol><p><strong>Check.</strong> Ask which atoms are bonding. If the answer is backbone C=O and N&ndash;H, the level is secondary. If the question mentions side chains, it is about tertiary structure.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 10.7: practice exercise added (the section had none): Identify the secondary structures and state what holds them together (backbone hydrogen bonds, not R groups)."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 10.7</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Keratin is mostly &alpha;-helix. Silk fibroin is mostly &beta;-pleated sheet. Collagen is a triple helix of three chains.</li><li>Hydrogen bonds between a backbone C=O and a backbone N&ndash;H. In the &alpha;-helix each C=O bonds to the N&ndash;H four residues further along the same chain (intramolecular). In silk the bonds run between neighboring strands, and in collagen between the three chains.</li><li>The helix is held by hydrogen bonds between backbone C=O and N&ndash;H groups. The R groups point outward from the helix and are not what holds it. R-group interactions belong to tertiary structure.</li></ol><p><strong>Check.</strong> Ask which atoms are bonding. If the answer is backbone C=O and N&ndash;H, the level is secondary. If the question mentions side chains, it is about tertiary structure.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 10.7"
+   }
+  ],
+  "597166": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 11.1</p>\n<p>Classify the enzyme that catalyzes each reaction into one of the six enzyme classes. State the clue you used.</p><ol style=\"list-style-type: lower-alpha;\"><li>lactose + H<sub>2</sub>O &rarr; glucose + galactose</li><li>pyruvate + NADH + H<sup>+</sup> &rarr; lactate + NAD<sup>+</sup></li><li>fructose-6-phosphate + ATP &rarr; fructose-1,6-bisphosphate + ADP</li><li>pyruvate &rarr; acetaldehyde + CO<sub>2</sub></li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Hydrolase (lactase). Water is a reactant and one molecule is split into two.</li><li>Oxidoreductase (lactate dehydrogenase). NADH becomes NAD<sup>+</sup>, so pyruvate is reduced.</li><li>Transferase (a kinase). A phosphate group leaves ATP and shows up on the sugar. It is not a ligase, because two molecules do not become one.</li><li>Lyase (pyruvate decarboxylase). CO<sub>2</sub> is removed with no water and no NAD<sup>+</sup>.</li></ol><p><strong>Check.</strong> Ask the three questions in order. NAD<sup>+</sup> or FAD in the equation? Only (b). Water splitting a bond, or ATP joining two molecules? Water in (a); ATP appears in (c), but two reactants give two products, so nothing was joined. What is left is a group moving between molecules (c) or one molecule losing CO<sub>2</sub> (d).</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 11.1: practice exercise added (the section had none): Assign an enzyme to one of the six classes from its reaction equation."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 11.1</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Hydrolase (lactase). Water is a reactant and one molecule is split into two.</li><li>Oxidoreductase (lactate dehydrogenase). NADH becomes NAD<sup>+</sup>, so pyruvate is reduced.</li><li>Transferase (a kinase). A phosphate group leaves ATP and shows up on the sugar. It is not a ligase, because two molecules do not become one.</li><li>Lyase (pyruvate decarboxylase). CO<sub>2</sub> is removed with no water and no NAD<sup>+</sup>.</li></ol><p><strong>Check.</strong> Ask the three questions in order. NAD<sup>+</sup> or FAD in the equation? Only (b). Water splitting a bond, or ATP joining two molecules? Water in (a); ATP appears in (c), but two reactants give two products, so nothing was joined. What is left is a group moving between molecules (c) or one molecule losing CO<sub>2</sub> (d).</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 11.1"
+   }
+  ],
+  "597168": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 11.3</p>\n<p>Pepsin digests protein in the stomach. Its optimum pH is about 2 and it works at 37 &deg;C.</p><ol style=\"list-style-type: lower-alpha;\"><li>Stomach contents move into the small intestine, where the pH is about 8. What happens to the activity of pepsin? Explain.</li><li>In a test tube at pH 2 and 37 &deg;C, with protein substrate in large excess, the amount of pepsin is doubled. What happens to the rate?</li><li>One sample of pepsin is cooled to 4 &deg;C and then warmed back to 37 &deg;C. A second sample is heated to 90 &deg;C and then cooled back to 37 &deg;C. Which sample is active again? Explain.</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Activity falls to almost zero. At pH 8 the acidic and basic R groups in the active site no longer carry the charges needed to bind the substrate, and six pH units from the optimum the enzyme denatures.</li><li>The rate doubles. With substrate in excess, the rate is directly proportional to the enzyme concentration.</li><li>The cooled sample. Cold only slows the molecules; the enzyme stays intact and activity returns on warming. Heating to 90 &deg;C denatures the enzyme. The active site loses its shape, and cooling does not refold it.</li></ol><p><strong>Check.</strong> Sort each change into one of two kinds. Fewer or more collisions (cooling, more enzyme) is reversible and leaves the enzyme intact. Damage to the active site (pH far from the optimum, excess heat) is not undone by reversing the condition.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 11.3: practice exercise added (the section had none): Predict how pH, enzyme concentration and temperature change the rate, and whether the change is reversible."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 11.3</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Activity falls to almost zero. At pH 8 the acidic and basic R groups in the active site no longer carry the charges needed to bind the substrate, and six pH units from the optimum the enzyme denatures.</li><li>The rate doubles. With substrate in excess, the rate is directly proportional to the enzyme concentration.</li><li>The cooled sample. Cold only slows the molecules; the enzyme stays intact and activity returns on warming. Heating to 90 &deg;C denatures the enzyme. The active site loses its shape, and cooling does not refold it.</li></ol><p><strong>Check.</strong> Sort each change into one of two kinds. Fewer or more collisions (cooling, more enzyme) is reversible and leaves the enzyme intact. Damage to the active site (pH far from the optimum, excess heat) is not undone by reversing the condition.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 11.3"
+   }
+  ],
+  "597171": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 11.6</p>\n<p>Bacteria make the nucleotide CTP from the amino acid aspartate in a pathway of several steps. The first enzyme of the pathway is called ATCase. When CTP builds up, CTP binds to ATCase at a site that is not the active site, and the enzyme slows down. ATP binds to another regulatory site on ATCase, and the enzyme speeds up.</p><ol style=\"list-style-type: lower-alpha;\"><li>Give the two terms that describe the effect of CTP on ATCase. Is the effect reversible?</li><li>Why is it better for CTP to slow the first enzyme of the pathway than the last one?</li><li>What term describes the effect of ATP on ATCase? How does ATP change the active site without binding there?</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Negative allosteric control and feedback inhibition. CTP is the end product, and it binds an allosteric site on the first enzyme. It is reversible: when CTP is used up, it leaves the enzyme and the pathway restarts.</li><li>Stopping the first step shuts off the whole pathway, so no aspartate and no energy are wasted. If only the last enzyme were slowed, the earlier enzymes would keep running and the intermediates would pile up.</li><li>Positive allosteric control. ATP is an activator. Binding at the regulatory site changes the shape of the enzyme, and the active site binds its substrate better, so the rate rises.</li></ol><p><strong>Check.</strong> In both cases the regulator binds at a site other than the active site, which is what &ldquo;allosteric&rdquo; means. The rate went down with CTP (negative) and up with ATP (positive). Neither one competes with the substrate for the active site.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 11.6: practice exercise added (the section had none): Explain allosteric control (negative and positive) and why feedback inhibition acts on the first enzyme of a pathway."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 11.6</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Negative allosteric control and feedback inhibition. CTP is the end product, and it binds an allosteric site on the first enzyme. It is reversible: when CTP is used up, it leaves the enzyme and the pathway restarts.</li><li>Stopping the first step shuts off the whole pathway, so no aspartate and no energy are wasted. If only the last enzyme were slowed, the earlier enzymes would keep running and the intermediates would pile up.</li><li>Positive allosteric control. ATP is an activator. Binding at the regulatory site changes the shape of the enzyme, and the active site binds its substrate better, so the rate rises.</li></ol><p><strong>Check.</strong> In both cases the regulator binds at a site other than the active site, which is what &ldquo;allosteric&rdquo; means. The rate went down with CTP (negative) and up with ATP (positive). Neither one competes with the substrate for the active site.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 11.6"
+   }
+  ],
+  "597175": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 12.1</p>\n<p>Use the three questions: which base, which sugar, how many phosphates?</p><ol style=\"list-style-type: lower-alpha;\"><li>A molecule contains uracil, a sugar with an OH on C2&prime;, and one phosphate group on C5&prime;. Name it and give its abbreviation. Is it a building block of DNA or of RNA?</li><li>The abbreviation dAMP stands for a nucleotide. Name its base, its sugar and its number of phosphates. Is the base a purine or a pyrimidine?</li><li>The phosphate is removed from the molecule in part (a). Name the product. Is it a nucleoside or a nucleotide?</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Uridine 5&prime;-monophosphate, UMP. An OH on C2&prime; means the sugar is ribose, and uracil is found only in RNA, so it is an RNA nucleotide.</li><li>Adenine, 2-deoxyribose (the &ldquo;d&rdquo;), and one phosphate (the &ldquo;M&rdquo; for mono). Adenine is a purine: two fused rings. The full name is deoxyadenosine 5&prime;-monophosphate.</li><li>Uridine. Base plus sugar with no phosphate is a nucleoside.</li></ol><p><strong>Check.</strong> Each name must answer all three questions. UMP: uracil, ribose, one phosphate. dAMP: adenine, deoxyribose, one phosphate. &ldquo;Pure As Gold&rdquo; confirms that A is a purine, and U sits with the pyrimidines (U, T, C).</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 12.1: practice exercise added (the section had none): Identify the base, sugar and phosphate of a nucleotide and name it; tell a nucleoside from a nucleotide."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 12.1</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Uridine 5&prime;-monophosphate, UMP. An OH on C2&prime; means the sugar is ribose, and uracil is found only in RNA, so it is an RNA nucleotide.</li><li>Adenine, 2-deoxyribose (the &ldquo;d&rdquo;), and one phosphate (the &ldquo;M&rdquo; for mono). Adenine is a purine: two fused rings. The full name is deoxyadenosine 5&prime;-monophosphate.</li><li>Uridine. Base plus sugar with no phosphate is a nucleoside.</li></ol><p><strong>Check.</strong> Each name must answer all three questions. UMP: uracil, ribose, one phosphate. dAMP: adenine, deoxyribose, one phosphate. &ldquo;Pure As Gold&rdquo; confirms that A is a purine, and U sits with the pyrimidines (U, T, C).</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 12.1"
+   }
+  ],
+  "597178": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 12.4</p>\n<p>The template strand of a short gene reads 3&prime;-TACCGTGAAACGATC-5&prime;. Codons you will need: AUG = Met (start), GCA = Ala, CUU = Leu, UGC = Cys, UAG = stop.</p><ol style=\"list-style-type: lower-alpha;\"><li>Write the mRNA, labeled 5&prime; to 3&prime;.</li><li>Write the coding strand of the DNA.</li><li>Write the peptide that this mRNA codes for.</li><li>Write the anticodon on the tRNA that pairs with the codon CUU. Label its ends.</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Complement the template and use U in place of T (A &rarr; U, T &rarr; A, G &rarr; C, C &rarr; G): 5&prime;-AUG GCA CUU UGC UAG-3&prime;.</li><li>The coding strand matches the mRNA with T in place of U: 5&prime;-ATGGCACTTTGCTAG-3&prime;.</li><li>AUG = Met, GCA = Ala, CUU = Leu, UGC = Cys, UAG = stop. The peptide is Met-Ala-Leu-Cys.</li><li>The anticodon is complementary and antiparallel to the codon: 3&prime;-GAA-5&prime;.</li></ol><p><strong>Check.</strong> The template starts 3&prime;-TAC, so the mRNA starts 5&prime;-AUG, the start codon. Fifteen bases make five codons; the last is a stop, so there are four amino acids. The mRNA has no T, and the coding strand has no U.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 12.4: practice exercise added (the section had none): Transcribe a DNA template strand into mRNA, write the coding strand, read the codons, and give an anticodon."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 12.4</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Complement the template and use U in place of T (A &rarr; U, T &rarr; A, G &rarr; C, C &rarr; G): 5&prime;-AUG GCA CUU UGC UAG-3&prime;.</li><li>The coding strand matches the mRNA with T in place of U: 5&prime;-ATGGCACTTTGCTAG-3&prime;.</li><li>AUG = Met, GCA = Ala, CUU = Leu, UGC = Cys, UAG = stop. The peptide is Met-Ala-Leu-Cys.</li><li>The anticodon is complementary and antiparallel to the codon: 3&prime;-GAA-5&prime;.</li></ol><p><strong>Check.</strong> The template starts 3&prime;-TAC, so the mRNA starts 5&prime;-AUG, the start codon. Fifteen bases make five codons; the last is a stop, so there are four amino acids. The mRNA has no T, and the coding strand has no U.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 12.4"
+   }
+  ],
+  "597189": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 13.2</p>\n<p>Use 7.3 kcal/mol for the hydrolysis of ATP and the values in Table 13.2.1: hydrolysis of glycerol 3-phosphate releases 2.2 kcal/mol, and hydrolysis of 1,3-bisphosphoglycerate to 3-phosphoglycerate releases 11.8 kcal/mol.</p><ol style=\"list-style-type: lower-alpha;\"><li>Glycerol + P<sub>i</sub> &rarr; glycerol 3-phosphate + H<sub>2</sub>O requires 2.2 kcal/mol. Find the overall energy change when this reaction is coupled to the hydrolysis of ATP. Is the coupled reaction favorable?</li><li>Find the energy change for 1,3-bisphosphoglycerate + ADP &rarr; 3-phosphoglycerate + ATP. Is it favorable?</li><li>Rank AMP, ADP and ATP from least to most stored energy. Which type of bond holds that energy?</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Add the two reactions. Glycerol + P<sub>i</sub> &rarr; glycerol 3-phosphate + H<sub>2</sub>O is +2.2 kcal/mol. ATP + H<sub>2</sub>O &rarr; ADP + P<sub>i</sub> is &minus;7.3 kcal/mol. Sum: glycerol + ATP &rarr; glycerol 3-phosphate + ADP, +2.2 + (&minus;7.3) = &minus;5.1 kcal/mol. The sign is negative, so the coupled reaction is favorable.</li><li>Hydrolysis of 1,3-bisphosphoglycerate is &minus;11.8 kcal/mol. Making ATP is the reverse of ATP hydrolysis, so ADP + P<sub>i</sub> &rarr; ATP + H<sub>2</sub>O is +7.3 kcal/mol. Sum: &minus;11.8 + 7.3 = &minus;4.5 kcal/mol. Favorable.</li><li>AMP &lt; ADP &lt; ATP. The energy is in the phosphoanhydride bonds between phosphates: AMP has none, ADP has one and ATP has two.</li></ol><p><strong>Check.</strong> The answers agree with the table. Glycerol 3-phosphate sits below ATP, so ATP can phosphorylate glycerol. 1,3-Bisphosphoglycerate sits above ATP, so it can phosphorylate ADP. In both sums the water and the free phosphate cancel, and each answer is smaller in size than the larger number that went in.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 13.2: practice exercise added (the section had none): Use ATP hydrolysis (7.3 kcal/mol) to decide whether a coupled reaction is favorable; rank ATP, ADP and AMP."
+   },
+   {
+    "old": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n</div></div>",
+    "new": "City College, CC BY 4.0; the section text above keeps its own license and attribution.</p>\n\n<div class=\"showprint answer-key\"><div class=\"mt-section\"><h2 class=\"editable\">Answers</h2>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 13.2</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Add the two reactions. Glycerol + P<sub>i</sub> &rarr; glycerol 3-phosphate + H<sub>2</sub>O is +2.2 kcal/mol. ATP + H<sub>2</sub>O &rarr; ADP + P<sub>i</sub> is &minus;7.3 kcal/mol. Sum: glycerol + ATP &rarr; glycerol 3-phosphate + ADP, +2.2 + (&minus;7.3) = &minus;5.1 kcal/mol. The sign is negative, so the coupled reaction is favorable.</li><li>Hydrolysis of 1,3-bisphosphoglycerate is &minus;11.8 kcal/mol. Making ATP is the reverse of ATP hydrolysis, so ADP + P<sub>i</sub> &rarr; ATP + H<sub>2</sub>O is +7.3 kcal/mol. Sum: &minus;11.8 + 7.3 = &minus;4.5 kcal/mol. Favorable.</li><li>AMP &lt; ADP &lt; ATP. The energy is in the phosphoanhydride bonds between phosphates: AMP has none, ADP has one and ATP has two.</li></ol><p><strong>Check.</strong> The answers agree with the table. Glycerol 3-phosphate sits below ATP, so ATP can phosphorylate glycerol. 1,3-Bisphosphoglycerate sits above ATP, so it can phosphorylate ADP. In both sums the water and the free phosphate cancel, and each answer is smaller in size than the larger number that went in.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print-only answer key added: Practice 13.2"
+   }
+  ],
+  "597214": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 15.6</p>\n<p>The liver builds one molecule of palmitic acid (16 carbons) from acetyl CoA.</p><ol style=\"list-style-type: lower-alpha;\"><li>How many rounds of chain elongation are needed? How many malonyl CoA and how many NADPH are used?</li><li>Malonyl CoA has three carbons. Why does each round add only two carbons to the chain?</li><li>Give three ways lipogenesis differs from &beta;-oxidation: location, coenzyme and hormone signal.</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>The chain starts as a 2-carbon acetyl group and each round adds 2 carbons: (16 &minus; 2) &divide; 2 = 7 rounds. Each round uses one malonyl CoA, so 7 malonyl CoA. Each round has two reductions (steps 2 and 4), each using one NADPH: 7 &times; 2 = 14 NADPH.</li><li>In step 1, the condensation, one carbon of the malonyl group leaves as CO<sub>2</sub>. Three carbons arrive and one leaves, so the chain grows by two.</li><li>Lipogenesis takes place in the cytosol, uses NADPH (a reduction), and is turned on by insulin. &beta;-Oxidation takes place in the mitochondrial matrix, uses FAD and NAD<sup>+</sup> (an oxidation), and is turned on by glucagon and epinephrine.</li></ol><p><strong>Check.</strong> Count carbons: 2 from the starting acetyl group + (7 &times; 2) from malonyl = 16. Palmitic acid has 16 carbons, so seven rounds is right. In all, 8 acetyl CoA are used: 1 as the starter and 7 that were first carboxylated to malonyl CoA.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 15.6: practice exercise added (the section had none): Count what one palmitate costs to build and compare lipogenesis with beta-oxidation."
+   },
+   {
+    "old": "rboxylase, a ligase. Coenzyme: biotin carries the CO<sub>2</sub>; ATP supplies the energy.</div></div>\n</div></div>\n</div></div>",
+    "new": "rboxylase, a ligase. Coenzyme: biotin carries the CO<sub>2</sub>; ATP supplies the energy.</div></div>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 15.6</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>The chain starts as a 2-carbon acetyl group and each round adds 2 carbons: (16 &minus; 2) &divide; 2 = 7 rounds. Each round uses one malonyl CoA, so 7 malonyl CoA. Each round has two reductions (steps 2 and 4), each using one NADPH: 7 &times; 2 = 14 NADPH.</li><li>In step 1, the condensation, one carbon of the malonyl group leaves as CO<sub>2</sub>. Three carbons arrive and one leaves, so the chain grows by two.</li><li>Lipogenesis takes place in the cytosol, uses NADPH (a reduction), and is turned on by insulin. &beta;-Oxidation takes place in the mitochondrial matrix, uses FAD and NAD<sup>+</sup> (an oxidation), and is turned on by glucagon and epinephrine.</li></ol><p><strong>Check.</strong> Count carbons: 2 from the starting acetyl group + (7 &times; 2) from malonyl = 16. Palmitic acid has 16 carbons, so seven rounds is right. In all, 8 acetyl CoA are used: 1 as the starter and 7 that were first carboxylated to malonyl CoA.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print key: Practice 15.6"
+   }
+  ],
+  "597217": [
+   {
+    "old": "<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "new": "<div class=\"box-exercise\">\n<p class=\"boxtitle\">Practice 15.11</p>\n<p>Use the course list of ten essential amino acids (PVT TIM HaLL).</p><ol style=\"list-style-type: lower-alpha;\"><li>Pyruvate accepts an amino group from glutamate. Name the amino acid formed, the other product, and the type of reaction.</li><li>Classify each amino acid as essential or nonessential: leucine, serine, lysine, glutamate, arginine.</li><li>Tyrosine is on the nonessential list. Explain why a person with phenylketonuria (PKU) must get tyrosine from the diet.</li></ol>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><ol style=\"list-style-type: lower-alpha;\"><li>Alanine. Glutamate, having given up its amino group, becomes &alpha;-ketoglutarate. The reaction is a transamination (the ALT reaction running in reverse).</li><li>Essential: leucine, lysine and arginine (this course counts arginine). Nonessential: serine and glutamate.</li><li>The body makes tyrosine from the essential amino acid phenylalanine in one step, using the enzyme phenylalanine hydroxylase. People with PKU lack that enzyme, so they cannot make tyrosine, and it becomes essential for them.</li></ol><p><strong>Check.</strong> In (a) the amino group only moves: an amino acid and an &alpha;-keto acid go in, and a new amino acid and a new &alpha;-keto acid come out. In (b), leucine, lysine and arginine are the two Ls and the lower-case a of PVT TIM HaLL; serine and glutamate are not in the mnemonic.</p></div></details></div>\n</div>\n<p style=\"font-size:0.9em;color:#555;\">Lecture Connection by Daniel Kwasniewski",
+    "count": 1,
+    "note": "D 15.11: practice exercise added (the section had none): Use transamination to make a nonessential amino acid, sort essential from nonessential, and explain why tyrosine becomes"
+   },
+   {
+    "old": "onessential: its carbon skeleton is a citric acid cycle intermediate the body already has.</div></div>\n</div></div>\n</div></div>",
+    "new": "onessential: its carbon skeleton is a citric acid cycle intermediate the body already has.</div></div>\n<div class=\"answer-key-item\"><p style=\"page-break-after:avoid;break-after:avoid\"><strong>Practice 15.11</strong></p><div><ol style=\"list-style-type: lower-alpha;\"><li>Alanine. Glutamate, having given up its amino group, becomes &alpha;-ketoglutarate. The reaction is a transamination (the ALT reaction running in reverse).</li><li>Essential: leucine, lysine and arginine (this course counts arginine). Nonessential: serine and glutamate.</li><li>The body makes tyrosine from the essential amino acid phenylalanine in one step, using the enzyme phenylalanine hydroxylase. People with PKU lack that enzyme, so they cannot make tyrosine, and it becomes essential for them.</li></ol><p><strong>Check.</strong> In (a) the amino group only moves: an amino acid and an &alpha;-keto acid go in, and a new amino acid and a new &alpha;-keto acid come out. In (b), leucine, lysine and arginine are the two Ls and the lower-case a of PVT TIM HaLL; serine and glutamate are not in the mnemonic.</p></div></div>\n</div></div>\n</div></div>",
+    "count": 1,
+    "note": "print key: Practice 15.11"
+   }
+  ],
+  "597062": [
+   {
+    "old": "You will see this exact ion again when amines act as bases (Chapter 7).</p>",
+    "new": "You will see this exact ion again when amines act as bases (Chapter 7).</p>\n<p><strong>Check</strong></p>\n<p>Count the valence electrons, adding 1 for a negative charge and subtracting 1 for a positive charge. CH<sub>3</sub>O<sup>&minus;</sup>: 4 + 3 + 6 + 1 = 14, and the drawing shows 4 bonds (8 e<sup>&minus;</sup>) plus 3 lone pairs (6 e<sup>&minus;</sup>) = 14. CH<sub>3</sub>NH<sub>3</sub><sup>+</sup>: 4 + 6 + 5 &minus; 1 = 14, and the drawing shows 7 bonds = 14 e<sup>&minus;</sup> with no lone pairs. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 2: Check step added"
+   },
+   {
+    "old": "Polar bonds do not always mean a polar molecule. Always check the symmetry.</p>",
+    "new": "Polar bonds do not always mean a polar molecule. Always check the symmetry.</p>\n<p><strong>Check</strong></p>\n<p>Look at the four groups on the central carbon. CCl<sub>4</sub> has four identical groups (Cl, Cl, Cl, Cl), so it is nonpolar, the same pattern as CH<sub>4</sub>. CHCl<sub>3</sub> has one group that differs (H, Cl, Cl, Cl), so the pulls cannot cancel and it is polar. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 3: Check step added"
+   },
+   {
+    "old": "Same size, very different boiling points. The IMFs made the difference.</p>",
+    "new": "Same size, very different boiling points. The IMFs made the difference.</p>\n<p><strong>Check</strong></p>\n<p>The ranking follows the order of IMF strength, dispersion &lt; dipole&ndash;dipole &lt; hydrogen bonding, and the numbers rise in the same order: &minus;42 &lt; &minus;25 &lt; 78 &deg;C. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 4: Check step added"
+   }
+  ],
+  "597074": [
+   {
+    "old": "<p>Name: <strong>4-ethyl-2-methylhexane</strong> (C<sub>9</sub>H<sub>20</sub>)</p>",
+    "new": "<p>Name: <strong>4-ethyl-2-methylhexane</strong> (C<sub>9</sub>H<sub>20</sub>)</p>\n<p><strong>Check.</strong> Rebuild the molecule from the name: a 6-carbon chain, a 2-carbon ethyl on C4 and a 1-carbon methyl on C2 give 6 + 2 + 1 = 9 carbons, the same 9 carbons as in the formula you started with. An alkane with 9 carbons has 2(9) + 2 = 20 hydrogens, which matches C<sub>9</sub>H<sub>20</sub>. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 1: Check step added"
+   },
+   {
+    "old": "<p>Name: <strong>2-bromo-4-methylpentane</strong></p>",
+    "new": "<p>Name: <strong>2-bromo-4-methylpentane</strong></p>\n<p><strong>Check.</strong> Draw the name back out: five carbons, Br on C2, CH<sub>3</sub> on C4 gives CH<sub>3</sub>CHBrCH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>3</sub>, the formula you started with. The opposite numbering would give 4-bromo-2-methylpentane, which uses the same numbers {2, 4} but gives the lower one to methyl, the later name in the alphabet. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 2: Check step added"
+   },
+   {
+    "old": "so by C<sub>n</sub>H<sub>2n+2</sub> it is <strong>C<sub>9</sub>H<sub>20</sub></strong>.</p>",
+    "new": "so by C<sub>n</sub>H<sub>2n+2</sub> it is <strong>C<sub>9</sub>H<sub>20</sub></strong>.</p>\n<p><strong>Check.</strong> Count the hydrogens directly from the condensed formula, left to right: 3 + 1 + 3 + 1 + 5 + 1 + 3 + 3 = 20. That matches 2(9) + 2 = 20, so no carbon was given too many or too few bonds. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 3: Check step added"
+   },
+   {
+    "old": "written in opposite directions, not isomers. Naming is the fastest way to check.</p>",
+    "new": "written in opposite directions, not isomers. Naming is the fastest way to check.</p>\n<p><strong>Check.</strong> Both formulas are C<sub>5</sub>H<sub>12</sub>, and in both the CH carbon holds the same three groups: two CH<sub>3</sub> groups and one CH<sub>2</sub>CH<sub>3</sub> group. Same formula and same connections mean the same molecule. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 4: Check step added"
+   }
+  ],
+  "597086": [
+   {
+    "old": "Each double-bond carbon has two different groups, so <strong>yes</strong>, cis and trans isomers exist.</p>",
+    "new": "Each double-bond carbon has two different groups, so <strong>yes</strong>, cis and trans isomers exist. Check: draw the name back out. A 6-carbon chain with the C=C between C2 and C3 and a methyl on C5 is CH<sub>3</sub>CH=CHCH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>3</sub>, the formula you started with, and its 7 carbons and 14 hydrogens fit C<sub>n</sub>H<sub>2n</sub> for one double bond. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 1: Check step added"
+   },
+   {
+    "old": "<p>Product: (CH<sub>3</sub>)<sub>3</sub>C&ndash;OH, <strong>2-methyl-2-propanol</strong>.</p>",
+    "new": "<p>Product: (CH<sub>3</sub>)<sub>3</sub>C&ndash;OH, <strong>2-methyl-2-propanol</strong>. Check: the new H went to the carbon that started with more H&rsquo;s (2 versus 0), and C<sub>4</sub>H<sub>8</sub> + H<sub>2</sub>O adds up to the product, C<sub>4</sub>H<sub>10</sub>O. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 3: Check step added"
+   },
+   {
+    "old": "Notice this is simply an addition reaction (Chapter Summary item 3) run backwards.</p>",
+    "new": "Notice this is simply an addition reaction (Chapter Summary item 3) run backwards. Check: C<sub>4</sub>H<sub>9</sub>Br minus HBr leaves C<sub>4</sub>H<sub>8</sub>, the formula of both butenes. In 2-butene, CH<sub>3</sub>CH=CHCH<sub>3</sub>, the double-bond carbons hold 2 carbon groups; in 1-butene, CH<sub>2</sub>=CHCH<sub>2</sub>CH<sub>3</sub>, they hold only 1. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 4: Check step added"
+   },
+   {
+    "old": "also called <strong><em>m</em>-dichlorobenzene</strong> (one carbon in between = meta).</p>",
+    "new": "also called <strong><em>m</em>-dichlorobenzene</strong> (one carbon in between = meta). Check: walk around the ring from one Cl to the other: C1, C2, C3. Next-door (1,2) would be ortho and straight across (1,4) would be para, so 1,3 is meta. Two Cl replaced two of benzene&rsquo;s six H, so the formula is C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub>. &#10003;</p>",
+    "count": 1,
+    "note": "E Chapter Guide 5: Check step added"
+   }
+  ],
+  "597203": [
+   {
+    "old": "equivalent to -218 kJ/mol. Oxidation of one NADH produces about 2.5 ATP. Making ATP costs 30.5 kJ/mol, so 30.5 kJ/mol &times; 2.5 = 76 kJ is stored per mole of NADH. The percentage of energy conserved as ATP, the <strong>energy efficiency</strong>, is therefore \\(\\frac{76}{218}",
+    "new": "equivalent to about &minus;220 kJ/mol. Oxidation of one NADH produces about 2.5 ATP. Making ATP costs 30.5 kJ/mol, so 30.5 kJ/mol &times; 2.5 = 76 kJ is stored per mole of NADH. The percentage of energy conserved as ATP, the <strong>energy efficiency</strong>, is therefore \\(\\frac{76}{220}",
+    "count": 1,
+    "note": "F a: imprecise (https://bio.libretexts.org/Bookshelves/Biochemistry/Fundamentals_of_Biochemistry_(Jakubows)"
+   }
+  ],
+  "597202": [
+   {
+    "old": "In the first step, a phosphate (\\(\\ce{Pi}\\)) group substitutes \\(\\ce{-S-CoA}\\) group from succinyl-\\(\\ce{CoA}\\).",
+    "new": "In the first step, a phosphate (\\(\\ce{Pi}\\)) group takes the place of the \\(\\ce{-S-CoA}\\) group of succinyl-\\(\\ce{CoA}\\). The table below calls this a hydrolysis because the thioester bond is split in the same way, but here phosphate does the splitting instead of water, and that is how the energy is kept to make GTP.",
+    "count": 1,
+    "note": "F b: imprecise (None)"
+   },
+   {
+    "old": "an oxidation that makes a <strong>C=C</strong> uses <strong>FAD</strong>.</p>\n\n<div class=\"box-note\">",
+    "new": "an oxidation that makes a <strong>C=C</strong> uses <strong>FAD</strong>. Step 4 is the one oxidation that fits neither pattern (a ketone becomes a thioester as CO<sub>2</sub> leaves), and it uses NAD<sup>+</sup>.</p>\n\n<div class=\"box-note\">",
+    "count": 1,
+    "note": "F b (second edit)"
+   }
+  ],
+  "597124": [
+   {
+    "old": "so this compound cannot hydrogen bond to itself and is a liquid, unlike benzamide (mp 132 &deg;C; see Section 7.5).",
+    "new": "so this compound cannot hydrogen bond to itself and melts far below benzamide (mp 132 &deg;C; see Section 7.5).",
+    "count": 1,
+    "note": "F c: could not verify (https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/527045/JSON)"
+   }
+  ],
+  "597148": [
+   {
+    "old": "A cell membrane is a phospholipid bilayer about 7 nm thick, described by",
+    "new": "A cell membrane is a phospholipid bilayer about 4 to 5 nm thick (up to about 10 nm where proteins and carbohydrates stick out), described by",
+    "count": 1,
+    "note": "F d: imprecise (http://book.bionumbers.org/what-is-the-thickness-of-the-cell-membrane/)"
+   }
+  ],
+  "597075": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-2&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers&amp;n=12&amp;fresh=1&amp;chmax=2&amp;title=Cumulative+mix,+Chapters+1-2&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 2.11 cumulative mix: only questions answerable by the end of Chapter 2 (chmax=2)"
+   }
+  ],
+  "597087": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-3&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic&amp;n=12&amp;fresh=1&amp;chmax=3&amp;title=Cumulative+mix,+Chapters+1-3&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 3.10 cumulative mix: only questions answerable by the end of Chapter 3 (chmax=3)"
+   }
+  ],
+  "597101": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-4&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols&amp;n=12&amp;fresh=1&amp;chmax=4&amp;title=Cumulative+mix,+Chapters+1-4&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 4.12 cumulative mix: only questions answerable by the end of Chapter 4 (chmax=4)"
+   }
+  ],
+  "597108": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-5&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality&amp;n=12&amp;fresh=1&amp;chmax=5&amp;title=Cumulative+mix,+Chapters+1-5&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 5.7 cumulative mix: only questions answerable by the end of Chapter 5 (chmax=5)"
+   }
+  ],
+  "597120": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-6&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters&amp;n=12&amp;fresh=1&amp;chmax=6&amp;title=Cumulative+mix,+Chapters+1-6&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 6.12 cumulative mix: only questions answerable by the end of Chapter 6 (chmax=6)"
+   }
+  ],
+  "597133": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-7&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines&amp;n=12&amp;fresh=1&amp;chmax=7&amp;title=Cumulative+mix,+Chapters+1-7&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 7.13 cumulative mix: only questions answerable by the end of Chapter 7 (chmax=7)"
+   }
+  ],
+  "597142": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-8&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs&amp;n=12&amp;fresh=1&amp;chmax=8&amp;title=Cumulative+mix,+Chapters+1-8&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 8.9 cumulative mix: only questions answerable by the end of Chapter 8 (chmax=8)"
+   }
+  ],
+  "597151": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-9&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids&amp;n=12&amp;fresh=1&amp;chmax=9&amp;title=Cumulative+mix,+Chapters+1-9&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 9.8 cumulative mix: only questions answerable by the end of Chapter 9 (chmax=9)"
+   }
+  ],
+  "597165": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-10&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins&amp;n=12&amp;fresh=1&amp;chmax=10&amp;title=Cumulative+mix,+Chapters+1-10&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 10.12 cumulative mix: only questions answerable by the end of Chapter 10 (chmax=10)"
+   }
+  ],
+  "597174": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-11&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes&amp;n=12&amp;fresh=1&amp;chmax=11&amp;title=Cumulative+mix,+Chapters+1-11&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 11.9 cumulative mix: only questions answerable by the end of Chapter 11 (chmax=11)"
+   }
+  ],
+  "597185": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-12&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic&amp;n=12&amp;fresh=1&amp;chmax=12&amp;title=Cumulative+mix,+Chapters+1-12&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 12.11 cumulative mix: only questions answerable by the end of Chapter 12 (chmax=12)"
+   }
+  ],
+  "597199": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-13&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;chmax=13&amp;title=Cumulative+mix,+Chapters+1-13&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 13.11 cumulative mix: only questions answerable by the end of Chapter 13 (chmax=13)"
+   }
+  ],
+  "597206": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-14&amp;game=finalboss\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;chmax=14&amp;title=Cumulative+mix,+Chapters+1-14&amp;game=finalboss\"",
+    "count": 2,
+    "note": "G 14.7 cumulative mix: only questions answerable by the end of Chapter 14 (chmax=14)"
+   }
+  ],
+  "597056": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=lewis|octet|valence|electron|bond&amp;n=10&amp;title=Lewis%20structures\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;ids=fb-3B-0000,fb-3B-0008,fb-3B-2238,fb-3B-2239,fb-3B-2240,fb-3B-2241,fb-3B-2242,fb-3B-2243,fb-3B-2244,fb-3B-2245&amp;n=10&amp;title=Lewis%20structures\"",
+    "count": 2,
+    "note": "G 1.3 Lewis structures: the box drew 37 of 39 questions from later sections; now the two on-topic items plus eight new Lewis-structure questions"
+   }
+  ],
+  "597213": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048&amp;n=5&amp;title=Ketone%20Bodies\"",
+    "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048,fb-3B-2252,fb-3B-2253,fb-3B-2254,fb-3B-2255&amp;n=8&amp;title=Ketone%20Bodies\"",
+    "count": 2,
+    "note": "G 15.5 Ketone Bodies: four new questions; back to eight per round"
+   }
+  ]
+ }
+}
