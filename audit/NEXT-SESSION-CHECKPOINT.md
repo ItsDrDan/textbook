@@ -94,3 +94,21 @@ node tools/check_struct_labels.js
 - **Batch AE (published 2026-11-13):** the last pages that slid sideways are fixed: 12.1, 14.3, 15.4 (wide equations, batch AC rule), 3.7 (benzene substitution diagram; phone rule `figure > * { min-width: 0; max-width: 100% }`), 1.7 (long condensed formulas widened a table even on desktop; the table now scrolls inside a `.tbl-scroll` box on screen, print untouched). All five read back identical; at 375 and 1100 px the page is exactly the screen width. Only scanned pages that have tables or were flagged; a book-wide overflow scan of every page was not run.
 - **Book-wide phone sweep (2026-11-14):** all 199 live pages loaded at 375 px in the signed-in browser and checked for any element wider than the screen that is not inside a scroll box. Only 10.8 (597161, disulfide-formation equation) still slid sideways; fixed in batch AF and rechecked at 375 and 1100 px. After this, no page in the book is wider than a phone screen. Method: load each page in a 375 px iframe, wait 2.5 s, compare `documentElement.scrollWidth` with the viewport and list unclipped elements past the right edge (script in this session; images that load lazily after 2.5 s are not measured).
 - **Batch AG (approved and published 2026-11-14, PR #80):** the last repeated text (14.2, 15.5, 15.6, about 300 words cut, with disagreements fixed: Kussmaul breathing in 15.5; one acetyl-CoA export route and the ACC-phosphorylation tip in 15.6; Stage III numbering in 14.2) and the two remaining low-confidence wording items (14.3 NADH rule, 10.5 tannic acid). All five pages read back identical and fit the screen at 375 and 1100 px. The "Duplicate telling" and "Low-confidence wording" items under "Work not done" are closed.
+
+## Final publication gate (2026-11-14, branch `audit/2026-11-final-gate`, local, uncommitted)
+
+- Verdict: lecture textbook READY WITH NAMED NONBLOCKING ITEMS. Reports: `FINAL_PUBLICATION_QA.md`, `RELEASE_BLOCKERS_AND_FIXES.md`, `LAB_MANUAL_INTEGRATION_BACKLOG.md`, `FINAL_RELEASE_CHECKLIST.md`.
+- Live = `pages/live` (199/199 by hash) = Full-3.pdf text. ~2,000 items re-solved by five independent reviewers: 0 wrong keys.
+- Batch AH drafted (13 edits, 12 pages, NOT published): lab-manual wording (1.5, For Instructors, About), problem-count claim, 7 small science/alt-text fixes, and Part C: citrate synthase switched to transferase everywhere (author decision 2026-11-14; bank fb-3B-2030 and ADAPT CSV updated locally; live ADAPT item, QTI zip and his Ch 14 slides still say ligase).
+- Open: cover "Unknown" needs a LibreTexts author record for `dkwasniewski` (root page already has author@ tag); 13.5 footer printed blank in Full-3 (tags fine; recompile). The "Recheck three Valley figures" item above was closed on 11-13.
+
+## Published 2026-11-14 (batch AH)
+
+Batch AH (21 edits, 15 pages) is live; every page read back identical to `tools/batchAH_sha_2026-11-14.json` and `pages/live` is synced. Bank fb-3B-2030 now keys transferase (goes live with the PR merge).
+
+## Check after publishing (do these when reviewing the published book)
+
+1. **Previous/Next arrows (real problem, item N1 in `RELEASE_BLOCKERS_AND_FIXES.md`).** On 2026-11-14, signed-out Safari on the iPhone 17 simulator showed "◀ Previous" with no title and "Next ▶ CHEM V101 Textbook Ventura College" on every page tried (6.7, 14.7); tapping Next opened Ventura College's Workbench book. Signed in on desktop, the same page correctly links 6.6 / 6.8. Analyze: (a) open several pages signed out on desktop and on a phone (private window), note where the arrows go; (b) recheck after the book moves from Workbench to the Bookshelf; (c) if still wrong, report to LibreTexts with page ids and screenshots. No page edit can fix it (LibreTexts builds the arrows).
+2. Full PDF compile: cover author (needs LibreTexts author record for `dkwasniewski`), 13.5 footer (p. ~1098 printed "curated by ."), batch AH text present, "Swipe sideways" = 0, labels ≥ 6 pt.
+3. Try It that uses fb-3B-2030 (metabolism bank) shows transferase after GitHub Pages redeploys.
+4. Instructor's Ch 14 slides and any exam key: citrate synthase = transferase.

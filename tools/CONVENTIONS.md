@@ -8,7 +8,7 @@ If you change a convention, update every "Depends on it" location in the same pa
 | ATP: 2.5 per NADH, 1.5 per FADH2, 10 per acetyl CoA; 30–32 per glucose (32 malate–aspartate, 30 glycerol-3-phosphate); 106 palmitate, 120 stearate; activation −2 | 13.4 "ATP numbers in this course" box; 14.5 tally | 13.4 table, 14.2 table, 14.4 efficiency, 14.1 per-carbon, 15.3 box, 15.4, 14.6/15.12 guides, 14.7/15.13 problems, bank/metabolism.json (fb-3B-0157, 0175, 0177), Find-the-Error 14.67, 15.69, concept maps ch14/15 |
 | ATP hydrolysis 7.3 kcal/mol (30.5 kJ/mol); "releases energy overall" (bond breaking costs energy) | 13.2 | 13.1, 13.4 efficiency (35%), 14.4 (35%) |
 | Three stages of catabolism; "cytosol" for glycolysis and lipogenesis | 13.1, 9.5 | 13.5, 15.6, Chapter 13–15 guides |
-| Six traditional enzyme classes (EC 7 translocases mentioned, not assessed); citrate synthase = ligase; aconitase = lyase | 11.1; 14.3 table | 14.6 guide, Glossary (ligase, transferase), bank fb-3B-2030, ADAPT ch14 copy, Final Boss copy |
+| Six traditional enzyme classes (EC 7 translocases mentioned, not assessed); citrate synthase = transferase (switched from ligase 2026-11-14, batch AH); aconitase = lyase | 11.1; 14.3 table | 14.6 guide, Glossary (ligase, transferase), bank fb-3B-2030, ADAPT ch14 copy, Final Boss copy |
 | Cofactor = inorganic ion; coenzyme = organic, usually vitamin-derived | 11.5 | 11.4 tip, 11.8 guide, Glossary |
 | Feedback inhibition = allosteric regulation (11.6), not filed under noncompetitive inhibition | 11.6 | 11.4 tip |
 | Heavy metals: irreversible **and** noncompetitive inhibitors that bind –SH (also disrupt disulfides/salt bridges); never cofactors | 11.4, 10.10 | 11.8 guide, bank fb-3B-0895 |
