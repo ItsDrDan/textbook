@@ -82,3 +82,5 @@ Also on 4.2: part (b) of both exercises sat outside the exercise box as a stray 
 - Print keys: 108 pages have a print-only key; on every one the number of key entries equals the number of hidden inline answers (1,591 = 1,591; six guides also have one "drawn example" disclosure, which does print).
 - After batch Q, no exercise in the book is without an answer. Chapter 1 and 7.4 exercises show their answers in the open (inherited "Answer a:" lines), which is a spoiler-placement issue (P3), not a missing key.
 - 211 answers are three words or fewer ("B.", a name, a number). Most are naming or matching items where a bare answer is the answer; they are flagged `bare_answer` in the CSV for a later pass.
+
+**Update 2026-11-14 (batch AG):** the "not drafted" list above is closed. 14.3 step 5 wording, 14.4 (−220 kJ/mol), 9.5 (4 to 5 nm) and 7.4 (no "is a liquid" claim) were already fixed live; the 14.3 NADH rule now includes the aldehyde oxidation of glycolysis step 6, and 10.5 replaces "alkaloid reagents" with "tannic acid and similar polyphenols".

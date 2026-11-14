@@ -1,4 +1,4 @@
-# Batch AG review (draft, not published)
+# Batch AG review (approved by the author and published 2026-11-14)
 
 Each row: what changes, why, then the text before and after. Approve all, or name rows to drop or reword.
 Words removed per page: 14.2 42, 15.5 62, 15.6 202, 14.3 -13, 10.5 -16.
