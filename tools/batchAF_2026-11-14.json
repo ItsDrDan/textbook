@@ -1,0 +1,13 @@
+{
+ "uploads": [],
+ "edits": {
+  "597161": [
+   {
+    "old": "d that holds amino acid residues together in proteins.</p>\n\n<p class=\"mt-align-center\">\\(\\ce{R-SH + HS-R' -&gt;[Oxidatio",
+    "new": "d that holds amino acid residues together in proteins.</p>\n\n<style type=\"text/css\">/*<![CDATA[*/@media screen and (max-width: 600px) { .mt-content-container p:has(> mjx-container) { overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; max-width: 100%; padding-bottom: 2px; } }/*]]>*/</style><p class=\"mt-align-center\">\\(\\ce{R-SH + HS-R' -&gt;[Oxidatio",
+    "count": 1,
+    "note": "phone: equation paragraphs scroll sideways inside themselves"
+   }
+  ]
+ }
+}
