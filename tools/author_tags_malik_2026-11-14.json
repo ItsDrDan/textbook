@@ -1,0 +1,28 @@
+{
+ "date": "2026-11-14",
+ "tag_added": "author@Muhammad Arif Malik",
+ "why": "Malik-adapted pages tagged only authorname:mmalik printed a blank footer author (\"curated by .\") in some full compiles: 1.7, 9.4, 10.10, 13.5 on 2026-11-13, 14.3 once, 6.10 and 9.3 in the 12:20 compile of 2026-11-14. 14.3 got this tag on 2026-11-13; this adds it to the other 19.",
+ "method": "GET /@api/deki/pages/{id}/tags, PUT the same list plus the one tag (XML <tags><tag value=.../></tags>); test page 597118 first (web footer names Malik, body hash unchanged), then 18; all 19 read back with the new tag and no tag lost; no page body changed",
+ "caveat": "13.5 printed blank once on 2026-11-14 although it had an author@ tag, so this may not stop every blank footer; check the next full compile",
+ "pages": [
+  "597118",
+  "597060",
+  "597104",
+  "597105",
+  "597106",
+  "597146",
+  "597147",
+  "597159",
+  "597160",
+  "597161",
+  "597162",
+  "597163",
+  "597178",
+  "597182",
+  "597188",
+  "597193",
+  "597203",
+  "597209",
+  "597210"
+ ]
+}
