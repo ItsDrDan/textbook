@@ -11,8 +11,8 @@ Branch: `audit/2026-11-master-refinement` (local; not pushed). Nothing was publi
 | `tools/audit_inventory.py` → `audit/inventory.json` | Inventory of all 199 pages: components, embeds, headings, objectives, PDF page ranges. | n/a |
 | `tools/question_ledger.py` → `audit/QUESTION-LEDGER.csv` | 1,812 examples and exercises, one row each. | n/a |
 | `tools/coverage_ledger.py` → `audit/TEXTBOOK-COVERAGE-LEDGER.md` | One row per page. | n/a |
-| `tools/batchQ_build.py` → `tools/batchQ_2026-11-13.json`, `tools/batchQ_sha_2026-11-13.json` | **Draft** page edits: 308 edits on 117 pages, 0 uploads. | **No. Waiting for the instructor's "publish".** |
-| `audit/edits/*.json` | The reviewers' edit lists that feed batch Q (pedagogy ×3, glossary, Rosa/Valley with 9 held, widgets). | n/a |
+| `tools/batchQ_build.py` → `tools/batchQ_2026-11-13.json`, `tools/batchQ_sha_2026-11-13.json` | **Draft** page edits: 310 edits on 117 pages, 0 uploads. | **No. Waiting for the instructor's "publish".** |
+| `audit/edits/*.json` | The reviewers' edit lists that feed batch Q (pedagogy ×3, glossary, Rosa/Valley with 7 held, widgets). | n/a |
 | `audit/reviews/*.md` | The reviewers' full reports. | n/a |
 | `audit/*.md` | The nine deliverables of the brief, plus `BATCH_Q_REVIEW.md` (readable list of every draft edit). | n/a |
 | `.gitignore` | `audit/preview/` (the edited-page previews the build writes). | n/a |
@@ -27,11 +27,11 @@ Branch: `audit/2026-11-master-refinement` (local; not pushed). Nothing was publi
 | C | 2 | 1 | Exemplar 4.5: oxidation defined at first use; Summary completed (the other two 4.5 edits are counted in B and D) |
 | D | 67 | 63 | Pedagogy edits (7 P1, 47 P2, 13 P3) |
 | E | 29 | 1 | Glossary: 11 Spanish equivalents, 5 definitions, 13 section pointers |
-| F (Rosa/Valley) | 27 | 25 | Fictional-patient line on Parts 2–15; HDL cut-off; garlic county claim; two dead links; 7.11 source links; small fixes |
+| F (Rosa/Valley) | 29 | 25 | Fictional-patient line on Parts 2–15; HDL cut-off; garlic county claim; two dead links; 7.11 source links; small fixes |
 | F (Try It) | 144 | 60 | 73 widgets: new question selection (iframe `src` and its "open in a new tab" link) |
-| **Total** | **308** | **117** | |
+| **Total** | **310** | **117** | |
 
-Held out of the batch: 9 Rosa story edits (see `ROSA-AND-VALLEY-CONTINUITY.md`), including the P0 on Part 15.
+Held out of the batch: 7 Rosa story edits (see `ROSA-AND-VALLEY-CONTINUITY.md`). The two Part 15 edits (P0) were approved by the instructor on 2026-11-13 ("Use proposed ER check") and are in the batch.
 
 ## Tests run
 

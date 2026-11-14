@@ -961,6 +961,12 @@
     "note": "D P2 15 landing: Same promise; 15.1, 15.2, 15.6, 15.7, 15.8 and 15.11 have no Try It widget."
    },
    {
+    "old": "Her nurse practitioner adjusts her medicines until she can eat again. Her daughter notices a fruity smell on her breath.",
+    "new": "Her daughter notices a fruity smell on her breath. Vomiting that will not stop, ketones and fruity breath are warning signs of diabetic ketoacidosis (DKA), so her plan says to get care right away. At the emergency department a blood test shows that her blood pH is normal: she has ketosis from not eating, not ketoacidosis (Section 15.5). She is given IV fluids, and her nurse practitioner adjusts her medicines until she can eat again.",
+    "count": 1,
+    "note": "F Rosa/Valley Ch 15 landing, Rosa Part 15: As written, a patient with diabetes who has vomited for two days, has moderate ketones and fruity breath is managed at home. CDC (the book's own source 1 in 15.5) lists fruity breath and vomiting with"
+   },
+   {
     "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
     "new": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page. Rosa is a fictional patient; her story is not medical advice.</em></p>",
     "count": 1,
@@ -1409,6 +1415,32 @@
     "note": "E Glossary (low): Same: overview mention in 14.2, taught in 14.4."
    }
   ],
+  "597218": [
+   {
+    "old": "and her breath smells fruity; later her lab report",
+    "new": "and her breath smells fruity (she is checked for DKA, and her blood pH is normal); later her lab report",
+    "count": 1,
+    "note": "F Rosa/Valley 15.12 Chapter Guide, Clinical Update recap: Keeps the guide recap in step with the corrected Part 15 story."
+   },
+   {
+    "old": "When the kidneys are not working well, BUN rises.",
+    "new": "When the kidneys are not working well, BUN rises; it also rises with dehydration, which is one reason it is read together with creatinine.",
+    "count": 2,
+    "note": "F Rosa/Valley 15.12 Chapter Guide, Case Question 15.3 answer (occurs twice: inline answer and print key; change both): Rosa has just been dehydrated from a stomach virus; BUN alone is not specific for kidney damage."
+   },
+   {
+    "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+    "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+    "count": 1,
+    "note": "F Try It selection 15.12 Amino acid metabolism: 21/31 of current pool ON; 0 FORWARD, 2 RELATED, 8 OFF."
+   },
+   {
+    "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+    "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+    "count": 1,
+    "note": "F Try It selection 15.12 Amino acid metabolism (new-tab link): same selection for the \"open in a new tab\" link"
+   }
+  ],
   "597040": [
    {
     "old": "<p><em>Keep Rosa in mind as you read. Her questions for this chapter are in the <strong>Clinical Update</strong> on the Chapter Guide page.</em></p>",
@@ -1479,26 +1511,6 @@
     "new": "A basic nitrogen accepts H<sup>+</sup> from HCl to form a salt (for lidocaine&rsquo;s amine, R<sub>3</sub>NH<sup>+</sup> Cl<sup>&minus;</sup>; a basic nitrogen in metformin does the same).",
     "count": 2,
     "note": "F Rosa/Valley 7.12 Chapter Guide, Case Question 7.1 answer (occurs twice: inline answer and print key; change both): Metformin is a biguanide, not an R3N amine, so the R3NH+ formula describes lidocaine only."
-   }
-  ],
-  "597218": [
-   {
-    "old": "When the kidneys are not working well, BUN rises.",
-    "new": "When the kidneys are not working well, BUN rises; it also rises with dehydration, which is one reason it is read together with creatinine.",
-    "count": 2,
-    "note": "F Rosa/Valley 15.12 Chapter Guide, Case Question 15.3 answer (occurs twice: inline answer and print key; change both): Rosa has just been dehydrated from a stomach virus; BUN alone is not specific for kidney damage."
-   },
-   {
-    "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
-    "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
-    "count": 1,
-    "note": "F Try It selection 15.12 Amino acid metabolism: 21/31 of current pool ON; 0 FORWARD, 2 RELATED, 8 OFF."
-   },
-   {
-    "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
-    "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
-    "count": 1,
-    "note": "F Try It selection 15.12 Amino acid metabolism (new-tab link): same selection for the \"open in a new tab\" link"
    }
   ],
   "597162": [

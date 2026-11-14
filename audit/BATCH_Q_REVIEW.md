@@ -1,6 +1,6 @@
 # Batch Q review sheet (draft, not published)
 
-308 edits on 117 pages, built by `tools/batchQ_build.py` and count-checked against `pages/live`. Tags are stripped here for reading; the exact strings are in `tools/batchQ_2026-11-13.json`.
+310 edits on 117 pages, built by `tools/batchQ_build.py` and count-checked against `pages/live`. Tags are stripped here for reading; the exact strings are in `tools/batchQ_2026-11-13.json`.
 
 Parts: **A** version line · **B** answers for inherited exercises · **C** exemplar 4.5 · **D** pedagogy (P1–P3) · **E** Glossary · **F** Rosa/Valley and Try It selections.
 
@@ -752,6 +752,15 @@ Try It selection edits (144) are listed one line each at the end; their question
 - **E Glossary (low): Same: overview mention in 14.2, taught in 14.4.**
   - was: Español: citocromo Section 14.2
   - now: Español: citocromo Section 14.4
+
+## Rosa Part 15 (approved 2026-11-13: "Use proposed ER check")
+
+- **15 landing (597053), P0**
+  - was: Her nurse practitioner adjusts her medicines until she can eat again. Her daughter notices a fruity smell on her breath.
+  - now: Her daughter notices a fruity smell on her breath. Vomiting that will not stop, ketones and fruity breath are warning signs of diabetic ketoacidosis (DKA), so her plan says to get care right away. At the emergency department a blood test shows that her blood pH is normal: she has ketosis from not eating, not ketoacidosis (Section 15.5). She is given IV fluids, and her nurse practitioner adjusts her medicines until she can eat again.
+- **15.12 Clinical Update recap (597218), P0**
+  - was: and her breath smells fruity; later her lab report
+  - now: and her breath smells fruity (she is checked for DKA, and her blood pH is normal); later her lab report
 
 ## Try It selections
 

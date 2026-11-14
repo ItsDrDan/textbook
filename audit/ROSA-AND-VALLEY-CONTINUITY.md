@@ -2,7 +2,7 @@
 
 Read in full: all 15 Rosa story boxes (chapter landing pages) and all 15 Clinical Updates with every case question and answer (Chapter Guides); Rosa's appearances in 9.6 Example 1, the 13.8 metformin box and 14.5 Example 4; all 25 Valley Connection boxes on 24 pages with their questions, answers and source lists. Not read: "Rosa's Case Files" in the external game.
 
-Edits: `audit/edits/rosa_valley.json` (36). 27 are in the batch Q draft; **9 are held for the instructor because they change the story** (marked `skip`).
+Edits: `audit/edits/rosa_valley.json` (36). 29 are in the batch Q draft, including the two Part 15 edits the instructor approved on 2026-11-13; **7 are held for the instructor because they change the story** (marked `skip`).
 
 ## Part A. Rosa continuity
 
@@ -30,7 +30,7 @@ Edits: `audit/edits/rosa_valley.json` (36). 27 are in the batch Q draft; **9 are
 
 **Case questions:** 39 of 45 need the chapter's chemistry, 5 are half-answered by the story (4.2, 5.1, 7.1, 11.1, 11.2), 1 (12.1) can be answered by re-reading.
 
-### Held for the instructor (story changes; nothing drafted into batch Q)
+### Story changes (the two P0 rows were approved on 2026-11-13 and are in batch Q; the rest are held)
 
 | Sev | Page | Now | Proposed | Why |
 |---|---|---|---|---|

@@ -7,8 +7,7 @@
   "reason": "As written, a patient with diabetes who has vomited for two days, has moderate ketones and fruity breath is managed at home. CDC (the book's own source 1 in 15.5) lists fruity breath and vomiting with inability to keep food or drink down as reasons to go to the ER or call 911, and says DKA also occurs in type 2 diabetes. The rewrite keeps the chemistry (ketosis versus ketoacidosis, blood pH) and models the safe action. No dose or treatment advice added.",
   "severity": "P0",
   "source_url": "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html",
-  "skip": true,
-  "held_for": "instructor decision: changes the Rosa story"
+  "held_for": "approved by the instructor 2026-11-13 (\"Use proposed ER check\")"
  },
  {
   "page_id": "597218",
@@ -18,8 +17,7 @@
   "reason": "Keeps the guide recap in step with the corrected Part 15 story.",
   "severity": "P0",
   "source_url": "https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html",
-  "skip": true,
-  "held_for": "instructor decision: changes the Rosa story"
+  "held_for": "approved by the instructor 2026-11-13 (\"Use proposed ER check\")"
  },
  {
   "page_id": "597050",
