@@ -33,4 +33,4 @@ If you change a convention, update every "Depends on it" location in the same pa
 
 Section numbers above follow the 2026-11-12 renumbering (12.9→12.5, 12.5–12.8→12.6–12.9; 13.7→13.9, 13.8–13.9→13.7–13.8; Chapter 15 reordered into a lipid block 15.1–15.6 and a protein block 15.7–15.11). Map: tools/section_moves_2026-11-12.json.
 
-Index: the printed Index in the full-book PDF comes from the tags on each page, not from the list on the Index page. When a term moves to another section, move its tag as well (see tools/index_tag_moves_2026-11-13.json).
+Index: the printed Index in the full-book PDF comes from the tags on each page, not from the list on the Index page. When a term moves to another section, move its tag as well (see tools/index_tag_moves_2026-11-13.json). A tag with a plain hyphen does not print; add a copy of the tag with an en dash (omega–3 fatty acid) beside it.
