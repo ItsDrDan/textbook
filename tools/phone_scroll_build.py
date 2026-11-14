@@ -95,7 +95,8 @@ for pf in sorted(glob.glob('pages/live/*.html')):
 
 WS = sorted(set(range(480, 1021, 60)))
 STYLE = ('<style type="text/css">/*<![CDATA[*/.fig-scroll-hint { display: none !important; } @media screen and (max-width: 600px) { '
-         '.fig-scroll { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%; max-width: 100%; min-width: 0; } '
+         'figure > * { min-width: 0; max-width: 100%; } '   # an inner wrapper inside a flex <figure> must not grow to the image width
+         '.fig-scroll { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; width: 100%; max-width: min(100%, calc(100vw - 20px)); min-width: 0; } '
          '.fig-scroll img { max-width: none !important; } ' + ' '.join('.fig-scroll img.fig-w%d { width: %dpx !important; }' % (w, w) for w in WS) +
          ' .fig-scroll-hint { display: block !important; font-size: 0.8em; color: #5a6478; margin: 0 0 4px; } }/*]]>*/</style>')
 for pid in edits:
