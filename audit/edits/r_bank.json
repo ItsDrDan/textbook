@@ -1,0 +1,368 @@
+{
+ "lewis": [
+  {
+   "t": "structure",
+   "q": "How many valence electrons must appear in the Lewis structure of the ammonium ion, NH<sub>4</sub><sup>+</sup>?",
+   "c": [
+    "8",
+    "9",
+    "10",
+    "11"
+   ],
+   "h": "Add the valence electrons of every atom from the group numbers, then adjust for the charge. Does a positive charge mean an electron was gained or lost?",
+   "w": "N brings 5 and the four H atoms bring 4, for 9. A 1+ charge means one electron has been lost, so the structure uses <b>8 electrons</b>: four N–H bonds and no lone pairs.",
+   "k": 0,
+   "d": 1,
+   "x": [
+    null,
+    "9 is the count for the neutral atoms (5 + 4). For a cation you must subtract one electron for each positive charge.",
+    "10 comes from adding an electron for the charge. Electrons are added for negative charges; a positive charge means one electron is missing.",
+    "11 uses nitrogen's atomic number (7) instead of its valence electrons. Only the outer-shell electrons count: 5 for N, a Group 5A element."
+   ]
+  },
+  {
+   "t": "structure",
+   "q": "In the correct Lewis structure of carbon dioxide, O=C=O, how many lone pairs are there in the whole molecule?",
+   "c": [
+    "4",
+    "2",
+    "8",
+    "0"
+   ],
+   "h": "CO<sub>2</sub> has 16 valence electrons. Work out how many are used in the two double bonds, then see what is left over and which atoms still need them.",
+   "w": "The two double bonds use 8 of the 16 valence electrons. The other 8 are nonbonding: two lone pairs on each oxygen, <b>4 lone pairs</b> in all. Carbon has none, because its four bonds already give it an octet.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "2 would be one lone pair on each oxygen. Each O has only 4 bonding electrons from its double bond, so it needs two lone pairs to reach 8.",
+    "8 is the number of nonbonding electrons, not pairs. A lone pair is two electrons, so 8 electrons make 4 lone pairs.",
+    "Carbon has no lone pairs, but each oxygen does. With only the two double bonds drawn, the structure would use 8 of the 16 valence electrons and each O would have just 4."
+   ]
+  },
+  {
+   "t": "structure",
+   "q": "Which of these molecules needs a <b>triple</b> bond so that every atom (other than H) has an octet?",
+   "c": [
+    "N<sub>2</sub>",
+    "O<sub>2</sub>",
+    "C<sub>2</sub>H<sub>4</sub>",
+    "NH<sub>3</sub>"
+   ],
+   "h": "Count the valence electrons for each molecule and try single bonds first. How many extra shared pairs does each one need to finish its octets?",
+   "w": "N<sub>2</sub> has only 10 valence electrons. Each N needs three shared pairs to reach eight, which gives <b>:N≡N:</b> with one lone pair on each nitrogen.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "O<sub>2</sub> has 12 valence electrons. Two shared pairs (a double bond) plus two lone pairs on each O already give both atoms an octet.",
+    "C<sub>2</sub>H<sub>4</sub> has 12 valence electrons. Four C–H bonds and a C=C double bond give each carbon four bonds, which is an octet.",
+    "NH<sub>3</sub> has 8 valence electrons. Three N–H single bonds and one lone pair on N complete the octet with no multiple bond."
+   ]
+  },
+  {
+   "t": "structure",
+   "q": "In the Lewis structure of hydrogen cyanide, H–C≡N:, how many electrons are bonding and how many are nonbonding?",
+   "c": [
+    "8 bonding, 2 nonbonding",
+    "4 bonding, 6 nonbonding",
+    "6 bonding, 4 nonbonding",
+    "10 bonding, 0 nonbonding"
+   ],
+   "h": "Each line in a structure is one shared pair. A triple bond counts as three lines.",
+   "w": "The H–C bond is one shared pair and the C≡N triple bond is three, so 4 pairs = 8 bonding electrons. The remaining 2 of the 10 valence electrons are the lone pair on N: <b>8 bonding, 2 nonbonding</b>.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "This is the structure before step 5, with only single bonds and three lone pairs on N. Carbon would have just 4 electrons, so two of those lone pairs must become shared pairs.",
+    "This describes H–C=N with two lone pairs on N. Carbon would have only three bonds (6 electrons), so it would not have an octet.",
+    "This forgets the lone pair on nitrogen. N has three bonds (6 electrons) and needs one lone pair to reach eight."
+   ]
+  },
+  {
+   "t": "structure",
+   "q": "Four students describe a Lewis structure for O<sub>2</sub>. Which description is correct?",
+   "c": [
+    "a double bond between the O atoms, with two lone pairs on each O",
+    "a single bond between the O atoms, with three lone pairs on each O",
+    "a triple bond between the O atoms, with one lone pair on each O",
+    "a double bond between the O atoms, with three lone pairs on each O"
+   ],
+   "h": "Count first, draw second: how many valence electrons do two oxygen atoms have? The right structure uses exactly that many and gives each O eight.",
+   "w": "Two O atoms have 2 × 6 = 12 valence electrons. A double bond (4 electrons) plus two lone pairs on each O (8 electrons) uses <b>exactly 12</b> and puts eight electrons around each oxygen.",
+   "k": 0,
+   "d": 3,
+   "x": [
+    null,
+    "Each O would have an octet, but count the electrons: 2 + 12 = 14. O<sub>2</sub> has only 12 valence electrons, so this structure has two too many.",
+    "Each O would have an octet, but the structure uses only 6 + 4 = 10 electrons. O<sub>2</sub> has 12, so two electrons have been left out.",
+    "This uses 4 + 12 = 16 electrons, four more than O<sub>2</sub> has. It would also put 10 electrons around each oxygen, which breaks the octet rule."
+   ]
+  },
+  {
+   "t": "structure",
+   "q": "In the Lewis structure of formaldehyde, CH<sub>2</sub>O, which atom is the central atom, and why?",
+   "c": [
+    "carbon, because H can form only one bond and C is less electronegative than O",
+    "oxygen, because it has the most valence electrons of the three elements",
+    "hydrogen, because there are more H atoms than any other kind of atom",
+    "oxygen, because the most electronegative atom goes in the center"
+   ],
+   "h": "Which atoms can never be in the middle because they form only one bond? Of the atoms that are left, compare electronegativity.",
+   "w": "Hydrogen forms one bond, so it is always on the outside. Of C and O, the <b>less electronegative atom, carbon</b>, goes in the center, bonded to both H atoms and double-bonded to O.",
+   "k": 0,
+   "d": 1,
+   "x": [
+    null,
+    "The number of valence electrons does not decide the center. Carbon forms four bonds and is less electronegative than oxygen, so it holds the other atoms together.",
+    "Hydrogen can share only one pair of electrons (the duet rule), so it can never connect two other atoms. It is always on the outside.",
+    "The rule is the reverse: the least electronegative atom (other than H) goes in the center. Oxygen ends up on the outside with two lone pairs."
+   ]
+  },
+  {
+   "t": "structure",
+   "q": "A student draws ethylene, C<sub>2</sub>H<sub>4</sub>, with a C–C single bond, two H atoms on each carbon and no lone pairs. What is wrong with this structure?",
+   "c": [
+    "It uses only 10 of the 12 valence electrons, and each carbon has only six electrons; a C=C double bond is needed.",
+    "Nothing is wrong, because C<sub>2</sub>H<sub>4</sub> has 10 valence electrons and all 10 are used.",
+    "It has too many electrons, so one of the C–H bonds should be removed.",
+    "The hydrogen atoms do not have octets, so each H needs three lone pairs."
+   ],
+   "h": "Count the valence electrons of two C and four H, then count the electrons in the drawing. Next check the number of electrons around each carbon.",
+   "w": "C<sub>2</sub>H<sub>4</sub> has 2(4) + 4(1) = 12 valence electrons, but five single bonds use only 10, and each carbon has three bonds (six electrons). Sharing the last two electrons between the carbons gives <b>H<sub>2</sub>C=CH<sub>2</sub></b>, with an octet on each carbon.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "The total is 2(4) + 4(1) = 12, not 10. Each carbon in the drawing has only three bonds, so neither has an octet.",
+    "The drawing has too few electrons, not too many: 10 used out of 12. Removing a bond would leave a carbon even further from an octet.",
+    "Hydrogen follows the duet rule: one bond (two electrons) fills its shell. It never carries lone pairs in these structures."
+   ]
+  },
+  {
+   "t": "structure",
+   "q": "In the Lewis structure of the hydroxide ion, OH<sup>−</sup>, how many lone pairs are on the oxygen atom?",
+   "c": [
+    "3",
+    "2",
+    "4",
+    "1"
+   ],
+   "h": "Count the valence electrons, remembering the charge. One pair is used for the O–H bond; where do the rest go?",
+   "w": "O has 6 valence electrons, H has 1 and the 1− charge adds 1, for 8. The O–H bond uses 2 and the other 6 sit on oxygen as <b>3 lone pairs</b>, giving O an octet.",
+   "k": 0,
+   "d": 3,
+   "x": [
+    null,
+    "Two lone pairs is the pattern for neutral oxygen with two bonds, as in H<sub>2</sub>O. Here O has only one bond, and the extra electron from the 1− charge makes a third lone pair.",
+    "Four lone pairs would put all 8 valence electrons on oxygen and leave none for the O–H bond. One pair has to be shared with hydrogen.",
+    "One lone pair plus one bond puts only four electrons around oxygen. The ion has 8 valence electrons, and the six that are not in the bond belong on O."
+   ]
+  }
+ ],
+ "alkene_naming": [
+  {
+   "t": "hydrocarbons",
+   "q": "Which condensed formula is 2-hexene (hex-2-ene)?",
+   "c": [
+    "CH<sub>3</sub>CH=CHCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>",
+    "CH<sub>2</sub>=CHCH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>",
+    "CH<sub>3</sub>CH<sub>2</sub>CH=CHCH<sub>2</sub>CH<sub>3</sub>",
+    "CH<sub>3</sub>CH=CHCH<sub>2</sub>CH<sub>3</sub>"
+   ],
+   "h": "The stem gives the number of carbons in the chain. The number tells you which carbon the double bond starts on.",
+   "w": "Hex- means a six-carbon chain and 2- means the double bond starts at carbon 2, between C2 and C3: <b>CH<sub>3</sub>CH=CHCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub></b>.",
+   "k": 0,
+   "d": 1,
+   "x": [
+    null,
+    "Here the double bond starts at the first carbon of the chain, so this is 1-hexene.",
+    "Here the double bond is between C3 and C4, in the middle of the chain, so this is 3-hexene.",
+    "The double bond is in the right place, but count the carbons: there are only five. This is 2-pentene."
+   ]
+  },
+  {
+   "t": "hydrocarbons",
+   "q": "What is the IUPAC name of CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>CH=CHCH<sub>3</sub>?",
+   "c": [
+    "2-heptene",
+    "5-heptene",
+    "2-hexene",
+    "2-heptyne"
+   ],
+   "h": "Count the carbons in the chain, then number from the end that reaches the double bond first.",
+   "w": "The chain has seven carbons (hept-). Numbering from the right end reaches the double bond at carbon 2, the lowest possible number, so the name is <b>2-heptene</b> (hept-2-ene).",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "This numbers the chain from the left end. The chain must be numbered from the end nearer the double bond, which gives 2 instead of 5.",
+    "Count again: there are seven carbons, including both CH carbons of the double bond. Hex- would mean six.",
+    "The ending -yne is for a C≡C triple bond. This compound has a C=C double bond, so the ending is -ene."
+   ]
+  },
+  {
+   "t": "hydrocarbons",
+   "q": "What is the IUPAC name of CH<sub>3</sub>CH(CH<sub>3</sub>)CH<sub>2</sub>CH=CH<sub>2</sub>?",
+   "c": [
+    "4-methyl-1-pentene",
+    "2-methyl-4-pentene",
+    "1-hexene",
+    "2-methylpentane"
+   ],
+   "h": "When a chain has both a double bond and a branch, which one decides the direction of numbering?",
+   "w": "The longest chain containing the double bond has five carbons. The double bond has priority, so number from the right: the double bond is at C1 and the methyl group lands on C4, giving <b>4-methyl-1-pentene</b> (4-methylpent-1-ene).",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "This numbers from the left to give the methyl group the lower number. The double bond gets the lowest number, even if that gives the branch a higher one.",
+    "1-Hexene is an unbranched six-carbon chain. Here the longest chain is five carbons, and the sixth carbon is a methyl branch.",
+    "The ending -ane is for a compound with only single bonds. The C=C must appear in the name as -ene, and it also sets the numbering."
+   ]
+  },
+  {
+   "t": "hydrocarbons",
+   "q": "Which condensed formula is 3-methyl-1-butene (3-methylbut-1-ene)?",
+   "c": [
+    "CH<sub>2</sub>=CHCH(CH<sub>3</sub>)CH<sub>3</sub>",
+    "CH<sub>2</sub>=C(CH<sub>3</sub>)CH<sub>2</sub>CH<sub>3</sub>",
+    "CH<sub>3</sub>CH=C(CH<sub>3</sub>)CH<sub>3</sub>",
+    "CH<sub>2</sub>=CHCH(CH<sub>3</sub>)CH<sub>2</sub>CH<sub>3</sub>"
+   ],
+   "h": "Write a four-carbon chain, put the double bond where the name says, then number from that end to place the methyl group.",
+   "w": "But-1-ene is a four-carbon chain with the double bond between C1 and C2. A methyl group on C3 gives <b>CH<sub>2</sub>=CHCH(CH<sub>3</sub>)CH<sub>3</sub></b>.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "Here the methyl group is on C2, one of the double-bond carbons. This is 2-methyl-1-butene.",
+    "Here the double bond is between C2 and C3 and the methyl group is on C2. This is 2-methyl-2-butene.",
+    "The double bond and the methyl group are at the right numbers, but the chain has five carbons. This is 3-methyl-1-pentene."
+   ]
+  },
+  {
+   "t": "hydrocarbons",
+   "q": "A hydrocarbon is a ring of five carbon atoms with one C=C double bond in the ring and no branches. What is its name?",
+   "c": [
+    "cyclopentene",
+    "cyclopentane",
+    "1-pentene",
+    "cyclohexene"
+   ],
+   "h": "Build the name from three parts: one for the ring, one for the number of carbons and one for the double bond.",
+   "w": "Cyclo- means a ring, pent- means five carbons and -ene means a C=C double bond: <b>cyclopentene</b>, C<sub>5</sub>H<sub>8</sub>.",
+   "k": 0,
+   "d": 1,
+   "x": [
+    null,
+    "Cyclopentane is the five-carbon ring with only single bonds. The double bond changes the ending from -ane to -ene.",
+    "1-Pentene is an open chain of five carbons with a double bond. A ring needs the prefix cyclo-.",
+    "Hex- means six carbons. This ring has five, so the stem is pent-."
+   ]
+  },
+  {
+   "t": "hydrocarbons",
+   "q": "Which condensed formula is 2-pentyne (pent-2-yne)?",
+   "c": [
+    "CH<sub>3</sub>C≡CCH<sub>2</sub>CH<sub>3</sub>",
+    "HC≡CCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>",
+    "CH<sub>3</sub>CH=CHCH<sub>2</sub>CH<sub>3</sub>",
+    "CH<sub>3</sub>C≡CCH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub>"
+   ],
+   "h": "The ending tells you the kind of multiple bond, the stem tells you the chain length and the number tells you where the multiple bond starts.",
+   "w": "Pent- is five carbons, -yne is a C≡C triple bond and 2- puts it between C2 and C3: <b>CH<sub>3</sub>C≡CCH<sub>2</sub>CH<sub>3</sub></b>. The triple-bond carbons carry no hydrogens here because each already has four bonds.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "Here the triple bond starts at the first carbon of the chain, so this is 1-pentyne.",
+    "This has a C=C double bond, so it is 2-pentene. The ending -yne means a triple bond.",
+    "The triple bond is at C2, but the chain has six carbons. This is 2-hexyne."
+   ]
+  }
+ ],
+ "ketone_bodies": [
+  {
+   "t": "metabolism",
+   "q": "The three ketone bodies are acetoacetate, CH<sub>3</sub>–CO–CH<sub>2</sub>–COO<sup>−</sup>, β-hydroxybutyrate, CH<sub>3</sub>–CH(OH)–CH<sub>2</sub>–COO<sup>−</sup>, and acetone, CH<sub>3</sub>–CO–CH<sub>3</sub>. Which statement about their functional groups is correct?",
+   "c": [
+    "β-Hydroxybutyrate has a hydroxyl group and a carboxylate group but no ketone group.",
+    "Acetone has a carboxylic acid group as well as a ketone group.",
+    "Acetoacetate has a hydroxyl group and a carboxylate group but no ketone group.",
+    "All three have a ketone C=O between two carbons, which is why they are called ketone bodies."
+   ],
+   "h": "A ketone is a C=O with a carbon on each side. Check each formula for that group, for –OH and for –COO<sup>−</sup>.",
+   "w": "β-Hydroxybutyrate has an –OH on its β carbon where acetoacetate has a C=O, so it is <b>a \"ketone body\" that is not a ketone</b>. Acetoacetate is a ketone and a carboxylate; acetone is only a ketone.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "Acetone is CH<sub>3</sub>–CO–CH<sub>3</sub>: a ketone and nothing else. With no –COOH group, it is the one ketone body that is not an acid.",
+    "That describes β-hydroxybutyrate. Acetoacetate keeps the ketone C=O on its β carbon; reducing that C=O is what makes the hydroxyl compound.",
+    "The name is traditional, not exact. β-Hydroxybutyrate has an alcohol carbon, CH(OH), where the ketone carbon would be."
+   ]
+  },
+  {
+   "t": "metabolism",
+   "q": "During a long fast, why does the liver turn much of its acetyl CoA into ketone bodies instead of oxidizing it in the citric acid cycle?",
+   "c": [
+    "Oxaloacetate is being used to make glucose, so the cycle cannot accept all the acetyl CoA from β-oxidation.",
+    "Oxaloacetate builds up and blocks the cycle, so the acetyl CoA from glycolysis has nowhere to go.",
+    "The liver has no mitochondria, so it cannot run the citric acid cycle at all.",
+    "Insulin is high during a fast, and insulin switches on ketone body formation."
+   ],
+   "h": "Acetyl CoA enters the citric acid cycle by joining a four-carbon acceptor. What else is the liver using that acceptor for when no carbohydrate is coming in?",
+   "w": "In a fast, fatty acid oxidation floods the liver with acetyl CoA while oxaloacetate is diverted to glucose synthesis. With <b>too little oxaloacetate to accept it</b>, the extra acetyl CoA is joined into acetoacetate, which gives β-hydroxybutyrate and acetone.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "It is the other way around: oxaloacetate runs low because it is pulled out for glucose synthesis. In a fast the acetyl CoA also comes mainly from fatty acids, not from glycolysis.",
+    "Liver cells have many mitochondria, and both β-oxidation and ketone body formation take place there. The cycle still runs; it is just short of oxaloacetate.",
+    "Insulin is low during a fast. Low insulin lets fat cells release fatty acids, and that is the source of the extra acetyl CoA."
+   ]
+  },
+  {
+   "t": "metabolism",
+   "q": "How does ketoacidosis differ from ketosis?",
+   "c": [
+    "In ketosis ketone bodies build up in the blood and urine; in ketoacidosis they overwhelm the blood buffers and blood pH falls.",
+    "In ketosis blood pH falls; in ketoacidosis the blood buffers hold the pH at its normal value.",
+    "In ketosis only acetone is made; in ketoacidosis the liver makes glucose instead of ketone bodies.",
+    "In ketosis blood pH falls below 7.4; in ketoacidosis blood pH rises above 7.4."
+   ],
+   "h": "Both words begin with keto-. What does the extra part, \"acidosis\", say about the blood?",
+   "w": "Ketosis means ketone bodies are accumulating in the blood and urine while the pH is still buffered. When the acidic ketone bodies exceed what the buffers can handle, <b>blood pH drops</b> (to 7.30 or lower in DKA), and the condition is ketoacidosis.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "This reverses the two terms. The word \"acidosis\" marks the condition in which the pH has actually dropped.",
+    "All three ketone bodies are made in both conditions, and the liver is making glucose in both. The difference is whether blood pH has fallen.",
+    "Acidosis means the blood has become more acidic, so the pH goes down, not up. In ketosis alone the buffers are still holding the pH."
+   ]
+  },
+  {
+   "t": "metabolism",
+   "q": "A patient in diabetic ketoacidosis has fruity-smelling breath. Which ketone body causes the odor, and does it lower blood pH?",
+   "c": [
+    "acetone; it is volatile and is breathed out, and with no carboxylic acid group it does not release H<sup>+</sup>",
+    "acetone; it is breathed out, and it is the strongest acid of the three ketone bodies",
+    "acetoacetate; it is a volatile acid that is breathed out and also releases H<sup>+</sup>",
+    "β-hydroxybutyrate; its –OH group makes it evaporate easily, and it does not release H<sup>+</sup>"
+   ],
+   "h": "One ketone body is a small molecule with only a ketone group. Think about which functional group releases H<sup>+</sup> and which molecule evaporates most easily.",
+   "w": "<b>Acetone</b>, CH<sub>3</sub>–CO–CH<sub>3</sub>, is small and volatile, so it leaves the blood in the lungs and is smelled on the breath. It has no carboxylic acid group, so the drop in pH comes from the other two, acetoacetate and β-hydroxybutyrate.",
+   "k": 0,
+   "d": 2,
+   "x": [
+    null,
+    "Acetone is the right compound, but it is not an acid: it has no –COOH group to release H<sup>+</sup>. The two acidic ketone bodies are the ones that lower the pH.",
+    "Acetoacetate does release H<sup>+</sup>, but at blood pH it is an ion, and ions do not evaporate into the breath. The odor comes from the neutral, volatile ketone.",
+    "β-Hydroxybutyrate has a carboxylic acid group, so it does release H<sup>+</sup>. Its –OH and –COO<sup>−</sup> groups hold it in the blood, so it is not breathed out."
+   ]
+  }
+ ]
+}

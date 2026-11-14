@@ -1,0 +1,166 @@
+{
+ "checks": [
+  {
+   "page_id": 597062,
+   "example": 2,
+   "old": "You will see this exact ion again when amines act as bases (Chapter 7).</p>",
+   "new": "You will see this exact ion again when amines act as bases (Chapter 7).</p>\n<p><strong>Check</strong></p>\n<p>Count the valence electrons, adding 1 for a negative charge and subtracting 1 for a positive charge. CH<sub>3</sub>O<sup>&minus;</sup>: 4 + 3 + 6 + 1 = 14, and the drawing shows 4 bonds (8 e<sup>&minus;</sup>) plus 3 lone pairs (6 e<sup>&minus;</sup>) = 14. CH<sub>3</sub>NH<sub>3</sub><sup>+</sup>: 4 + 6 + 5 &minus; 1 = 14, and the drawing shows 7 bonds = 14 e<sup>&minus;</sup> with no lone pairs. &#10003;</p>",
+   "check_text": "Count the valence electrons, adding 1 for a negative charge and subtracting 1 for a positive charge. CH<sub>3</sub>O<sup>&minus;</sup>: 4 + 3 + 6 + 1 = 14, and the drawing shows 4 bonds (8 e<sup>&minus;</sup>) plus 3 lone pairs (6 e<sup>&minus;</sup>) = 14. CH<sub>3</sub>NH<sub>3</sub><sup>+</sup>: 4 + 6 + 5 &minus; 1 = 14, and the drawing shows 7 bonds = 14 e<sup>&minus;</sup> with no lone pairs.",
+   "style_matched": "Page 597062 Examples 5 and 6: <p><strong>Check</strong></p>\\n<p>… &#10003;</p> (heading paragraph, then text paragraph)"
+  },
+  {
+   "page_id": 597062,
+   "example": 3,
+   "old": "Polar bonds do not always mean a polar molecule. Always check the symmetry.</p>",
+   "new": "Polar bonds do not always mean a polar molecule. Always check the symmetry.</p>\n<p><strong>Check</strong></p>\n<p>Look at the four groups on the central carbon. CCl<sub>4</sub> has four identical groups (Cl, Cl, Cl, Cl), so it is nonpolar, the same pattern as CH<sub>4</sub>. CHCl<sub>3</sub> has one group that differs (H, Cl, Cl, Cl), so the pulls cannot cancel and it is polar. &#10003;</p>",
+   "check_text": "Look at the four groups on the central carbon. CCl<sub>4</sub> has four identical groups (Cl, Cl, Cl, Cl), so it is nonpolar, the same pattern as CH<sub>4</sub>. CHCl<sub>3</sub> has one group that differs (H, Cl, Cl, Cl), so the pulls cannot cancel and it is polar.",
+   "style_matched": "Page 597062 Examples 5 and 6: <p><strong>Check</strong></p>\\n<p>… &#10003;</p> (heading paragraph, then text paragraph)"
+  },
+  {
+   "page_id": 597062,
+   "example": 4,
+   "old": "Same size, very different boiling points. The IMFs made the difference.</p>",
+   "new": "Same size, very different boiling points. The IMFs made the difference.</p>\n<p><strong>Check</strong></p>\n<p>The ranking follows the order of IMF strength, dispersion &lt; dipole&ndash;dipole &lt; hydrogen bonding, and the numbers rise in the same order: &minus;42 &lt; &minus;25 &lt; 78 &deg;C. &#10003;</p>",
+   "check_text": "The ranking follows the order of IMF strength, dispersion &lt; dipole&ndash;dipole &lt; hydrogen bonding, and the numbers rise in the same order: &minus;42 &lt; &minus;25 &lt; 78 &deg;C.",
+   "style_matched": "Page 597062 Examples 5 and 6: <p><strong>Check</strong></p>\\n<p>… &#10003;</p> (heading paragraph, then text paragraph)"
+  },
+  {
+   "page_id": 597074,
+   "example": 1,
+   "old": "<p>Name: <strong>4-ethyl-2-methylhexane</strong> (C<sub>9</sub>H<sub>20</sub>)</p>",
+   "new": "<p>Name: <strong>4-ethyl-2-methylhexane</strong> (C<sub>9</sub>H<sub>20</sub>)</p>\n<p><strong>Check.</strong> Rebuild the molecule from the name: a 6-carbon chain, a 2-carbon ethyl on C4 and a 1-carbon methyl on C2 give 6 + 2 + 1 = 9 carbons, the same 9 carbons as in the formula you started with. An alkane with 9 carbons has 2(9) + 2 = 20 hydrogens, which matches C<sub>9</sub>H<sub>20</sub>. &#10003;</p>",
+   "check_text": "Rebuild the molecule from the name: a 6-carbon chain, a 2-carbon ethyl on C4 and a 1-carbon methyl on C2 give 6 + 2 + 1 = 9 carbons, the same 9 carbons as in the formula you started with. An alkane with 9 carbons has 2(9) + 2 = 20 hydrogens, which matches C<sub>9</sub>H<sub>20</sub>.",
+   "style_matched": "Page 597074 Example 5: <p><strong>Check.</strong> … &#10003;</p> (new paragraph, bold run-in label)"
+  },
+  {
+   "page_id": 597074,
+   "example": 2,
+   "old": "<p>Name: <strong>2-bromo-4-methylpentane</strong></p>",
+   "new": "<p>Name: <strong>2-bromo-4-methylpentane</strong></p>\n<p><strong>Check.</strong> Draw the name back out: five carbons, Br on C2, CH<sub>3</sub> on C4 gives CH<sub>3</sub>CHBrCH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>3</sub>, the formula you started with. The opposite numbering would give 4-bromo-2-methylpentane, which uses the same numbers {2, 4} but gives the lower one to methyl, the later name in the alphabet. &#10003;</p>",
+   "check_text": "Draw the name back out: five carbons, Br on C2, CH<sub>3</sub> on C4 gives CH<sub>3</sub>CHBrCH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>3</sub>, the formula you started with. The opposite numbering would give 4-bromo-2-methylpentane, which uses the same numbers {2, 4} but gives the lower one to methyl, the later name in the alphabet.",
+   "style_matched": "Page 597074 Example 5: <p><strong>Check.</strong> … &#10003;</p> (new paragraph, bold run-in label)"
+  },
+  {
+   "page_id": 597074,
+   "example": 3,
+   "old": "so by C<sub>n</sub>H<sub>2n+2</sub> it is <strong>C<sub>9</sub>H<sub>20</sub></strong>.</p>",
+   "new": "so by C<sub>n</sub>H<sub>2n+2</sub> it is <strong>C<sub>9</sub>H<sub>20</sub></strong>.</p>\n<p><strong>Check.</strong> Count the hydrogens directly from the condensed formula, left to right: 3 + 1 + 3 + 1 + 5 + 1 + 3 + 3 = 20. That matches 2(9) + 2 = 20, so no carbon was given too many or too few bonds. &#10003;</p>",
+   "check_text": "Count the hydrogens directly from the condensed formula, left to right: 3 + 1 + 3 + 1 + 5 + 1 + 3 + 3 = 20. That matches 2(9) + 2 = 20, so no carbon was given too many or too few bonds.",
+   "style_matched": "Page 597074 Example 5: <p><strong>Check.</strong> … &#10003;</p> (new paragraph, bold run-in label)"
+  },
+  {
+   "page_id": 597074,
+   "example": 4,
+   "old": "written in opposite directions, not isomers. Naming is the fastest way to check.</p>",
+   "new": "written in opposite directions, not isomers. Naming is the fastest way to check.</p>\n<p><strong>Check.</strong> Both formulas are C<sub>5</sub>H<sub>12</sub>, and in both the CH carbon holds the same three groups: two CH<sub>3</sub> groups and one CH<sub>2</sub>CH<sub>3</sub> group. Same formula and same connections mean the same molecule. &#10003;</p>",
+   "check_text": "Both formulas are C<sub>5</sub>H<sub>12</sub>, and in both the CH carbon holds the same three groups: two CH<sub>3</sub> groups and one CH<sub>2</sub>CH<sub>3</sub> group. Same formula and same connections mean the same molecule.",
+   "style_matched": "Page 597074 Example 5: <p><strong>Check.</strong> … &#10003;</p> (new paragraph, bold run-in label)"
+  },
+  {
+   "page_id": 597086,
+   "example": 1,
+   "old": "Each double-bond carbon has two different groups, so <strong>yes</strong>, cis and trans isomers exist.</p>",
+   "new": "Each double-bond carbon has two different groups, so <strong>yes</strong>, cis and trans isomers exist. Check: draw the name back out. A 6-carbon chain with the C=C between C2 and C3 and a methyl on C5 is CH<sub>3</sub>CH=CHCH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>3</sub>, the formula you started with, and its 7 carbons and 14 hydrogens fit C<sub>n</sub>H<sub>2n</sub> for one double bond. &#10003;</p>",
+   "check_text": "draw the name back out. A 6-carbon chain with the C=C between C2 and C3 and a methyl on C5 is CH<sub>3</sub>CH=CHCH<sub>2</sub>CH(CH<sub>3</sub>)CH<sub>3</sub>, the formula you started with, and its 7 carbons and 14 hydrogens fit C<sub>n</sub>H<sub>2n</sub> for one double bond.",
+   "style_matched": "Page 597086 Example 2: plain \"Check: … &#10003;\" run on at the end of the last Solution paragraph (no bold, no new <p>)"
+  },
+  {
+   "page_id": 597086,
+   "example": 3,
+   "old": "<p>Product: (CH<sub>3</sub>)<sub>3</sub>C&ndash;OH, <strong>2-methyl-2-propanol</strong>.</p>",
+   "new": "<p>Product: (CH<sub>3</sub>)<sub>3</sub>C&ndash;OH, <strong>2-methyl-2-propanol</strong>. Check: the new H went to the carbon that started with more H&rsquo;s (2 versus 0), and C<sub>4</sub>H<sub>8</sub> + H<sub>2</sub>O adds up to the product, C<sub>4</sub>H<sub>10</sub>O. &#10003;</p>",
+   "check_text": "the new H went to the carbon that started with more H&rsquo;s (2 versus 0), and C<sub>4</sub>H<sub>8</sub> + H<sub>2</sub>O adds up to the product, C<sub>4</sub>H<sub>10</sub>O.",
+   "style_matched": "Page 597086 Example 2: plain \"Check: … &#10003;\" run on at the end of the last Solution paragraph (no bold, no new <p>)"
+  },
+  {
+   "page_id": 597086,
+   "example": 4,
+   "old": "Notice this is simply an addition reaction (Chapter Summary item 3) run backwards.</p>",
+   "new": "Notice this is simply an addition reaction (Chapter Summary item 3) run backwards. Check: C<sub>4</sub>H<sub>9</sub>Br minus HBr leaves C<sub>4</sub>H<sub>8</sub>, the formula of both butenes. In 2-butene, CH<sub>3</sub>CH=CHCH<sub>3</sub>, the double-bond carbons hold 2 carbon groups; in 1-butene, CH<sub>2</sub>=CHCH<sub>2</sub>CH<sub>3</sub>, they hold only 1. &#10003;</p>",
+   "check_text": "C<sub>4</sub>H<sub>9</sub>Br minus HBr leaves C<sub>4</sub>H<sub>8</sub>, the formula of both butenes. In 2-butene, CH<sub>3</sub>CH=CHCH<sub>3</sub>, the double-bond carbons hold 2 carbon groups; in 1-butene, CH<sub>2</sub>=CHCH<sub>2</sub>CH<sub>3</sub>, they hold only 1.",
+   "style_matched": "Page 597086 Example 2: plain \"Check: … &#10003;\" run on at the end of the last Solution paragraph (no bold, no new <p>)"
+  },
+  {
+   "page_id": 597086,
+   "example": 5,
+   "old": "also called <strong><em>m</em>-dichlorobenzene</strong> (one carbon in between = meta).</p>",
+   "new": "also called <strong><em>m</em>-dichlorobenzene</strong> (one carbon in between = meta). Check: walk around the ring from one Cl to the other: C1, C2, C3. Next-door (1,2) would be ortho and straight across (1,4) would be para, so 1,3 is meta. Two Cl replaced two of benzene&rsquo;s six H, so the formula is C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub>. &#10003;</p>",
+   "check_text": "walk around the ring from one Cl to the other: C1, C2, C3. Next-door (1,2) would be ortho and straight across (1,4) would be para, so 1,3 is meta. Two Cl replaced two of benzene&rsquo;s six H, so the formula is C<sub>6</sub>H<sub>4</sub>Cl<sub>2</sub>.",
+   "style_matched": "Page 597086 Example 2: plain \"Check: … &#10003;\" run on at the end of the last Solution paragraph (no bold, no new <p>)"
+  }
+ ],
+ "facts": [
+  {
+   "item": "a",
+   "page_id": 597203,
+   "quote": "The potential difference between these redox pairs is 1.14 volts, equivalent to -218 kJ/mol.",
+   "verdict": "imprecise",
+   "evidence": "dG = -nFE = -(2)(96,485 C/mol)(1.14 V) = -219,986 J/mol = -220 kJ/mol (-52.6 kcal/mol), not -218. Even with unrounded potentials (+0.816 V and -0.320 V, E = 1.136 V) the result is -219 kJ/mol. The page has no kcal values, so nothing else needs to change. Efficiency: 30.5 x 2.5 = 76 kJ; 76/220 = 34.7%, still \"about 35%\" and still consistent with CONVENTIONS (13.4 and 14.4 both 35%). No other page in pages/live uses \"218 kJ\". The loaded source (Jakubowski and Flatt, Fundamentals of Biochemistry 19.1) rounds the same reaction to \"about -55 kcal/mol, -230 kJ/mol\", so textbooks vary by a few kJ, but -220 is what 1.14 V gives. Smallest fix: change 218 to 220 in both places (the sentence and the fraction).",
+   "source_url": "https://bio.libretexts.org/Bookshelves/Biochemistry/Fundamentals_of_Biochemistry_(Jakubowski_and_Flatt)/02%3A_Unit_II-_Bioenergetics_and_Metabolism/19%3A_Oxidative_Phosphorylation/19.01%3A_Electron-Transfer_Reactions_in_Mitochondria",
+   "proposed_edit": {
+    "old": "equivalent to -218 kJ/mol. Oxidation of one NADH produces about 2.5 ATP. Making ATP costs 30.5 kJ/mol, so 30.5 kJ/mol &times; 2.5 = 76 kJ is stored per mole of NADH. The percentage of energy conserved as ATP, the <strong>energy efficiency</strong>, is therefore \\(\\frac{76}{218}",
+    "new": "equivalent to about &minus;220 kJ/mol. Oxidation of one NADH produces about 2.5 ATP. Making ATP costs 30.5 kJ/mol, so 30.5 kJ/mol &times; 2.5 = 76 kJ is stored per mole of NADH. The percentage of energy conserved as ATP, the <strong>energy efficiency</strong>, is therefore \\(\\frac{76}{220}"
+   }
+  },
+  {
+   "item": "b",
+   "page_id": 597202,
+   "quote": "In the first step, a phosphate (\\(\\ce{Pi}\\)) group substitutes \\(\\ce{-S-CoA}\\) group from succinyl-\\(\\ce{CoA}\\).",
+   "verdict": "imprecise",
+   "evidence": "What disagrees: (1) The numbered narrative for step 5 says phosphate substitutes for the -S-CoA group (no water involved), while the four-question table row 5 says \"Hydrolysis, then phosphorylation (deconstructed)\" and \"The thioester bond is hydrolyzed and the energy released converts GDP to GTP\". The same page also says \"Water enters in steps 1 and 7\", which leaves no water for a step 5 hydrolysis. Chemically the narrative is right: succinyl CoA synthetase splits the thioester with phosphate, and that phosphate ends up on GDP; the table is the lecture simplification. Reconciliation: keep the table and add one sentence to the narrative (proposed_edit). (2) The rule in the table intro, \"an oxidation that makes a C=O (alcohol -> carbonyl) uses NAD+; an oxidation that makes a C=C uses FAD\", and the Professor Tip version (\"oxidizing a C-OH to C=O goes with NADH, oxidizing a C-C to C=C goes with FADH2\") cover steps 3, 6 and 8 but omit step 4 (alpha-ketoglutarate -> succinyl CoA), an NAD+ oxidation that is ketone -> thioester with loss of CO2, not alcohol -> carbonyl. The older paragraph higher on the page does mention ketone -> thioester, and the table row 4 explains it, so the fix is one added sentence (additional_edit). Verified from the page text itself and standard biochemistry; no web source was needed.",
+   "source_url": null,
+   "proposed_edit": {
+    "old": "In the first step, a phosphate (\\(\\ce{Pi}\\)) group substitutes \\(\\ce{-S-CoA}\\) group from succinyl-\\(\\ce{CoA}\\).",
+    "new": "In the first step, a phosphate (\\(\\ce{Pi}\\)) group takes the place of the \\(\\ce{-S-CoA}\\) group of succinyl-\\(\\ce{CoA}\\). The table below calls this a hydrolysis because the thioester bond is split in the same way, but here phosphate does the splitting instead of water, and that is how the energy is kept to make GTP."
+   },
+   "additional_edit": {
+    "old": "an oxidation that makes a <strong>C=C</strong> uses <strong>FAD</strong>.</p>\n\n<div class=\"box-note\">",
+    "new": "an oxidation that makes a <strong>C=C</strong> uses <strong>FAD</strong>. Step 4 is the one oxidation that fits neither pattern (a ketone becomes a thioester as CO<sub>2</sub> leaves), and it uses NAD<sup>+</sup>.</p>\n\n<div class=\"box-note\">"
+   }
+  },
+  {
+   "item": "c",
+   "page_id": 597124,
+   "quote": "A 3&deg; amide has no N&ndash;H, so this compound cannot hydrogen bond to itself and is a liquid, unlike benzamide (mp 132 &deg;C; see Section 7.5).",
+   "verdict": "could not verify",
+   "evidence": "No authoritative experimental melting point found. PubChem CID 527045 (N-ethyl-N-methylbenzamide, C10H13NO) lists no experimental melting point, boiling point or physical description (only GC retention indices). The only statement of physical state loaded is a vendor catalog page (EvitaChem) calling it a \"colorless to pale yellow liquid\", which is not a primary source; a Joback estimate on Chemeo puts the melting point near 38 C (estimate only, from the search summary; the PDF itself could not be read). From memory, not loaded: the close analog N,N-dimethylbenzamide is a low-melting solid (mp about 43 to 45 C), so \"liquid\" is plausible but not safe to state as fact. Proposed wording keeps the teaching point (no N-H, so much lower melting than benzamide) without asserting the state.",
+   "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/527045/JSON",
+   "proposed_edit": {
+    "old": "so this compound cannot hydrogen bond to itself and is a liquid, unlike benzamide (mp 132 &deg;C; see Section 7.5).",
+    "new": "so this compound cannot hydrogen bond to itself and melts far below benzamide (mp 132 &deg;C; see Section 7.5)."
+   },
+   "other_urls_loaded": [
+    "https://www.evitachem.com/product/evt-14062832"
+   ]
+  },
+  {
+   "item": "d",
+   "page_id": 597148,
+   "quote": "A cell membrane is a phospholipid bilayer about 7 nm thick",
+   "verdict": "imprecise",
+   "evidence": "Cell Biology by the Numbers (Milo and Phillips): the lipid bilayer is about 4 nm thick including head groups (hydrophobic core about 3 nm); whole-membrane values of 4 to 10 nm are reported, the larger ones reflecting protein and carbohydrate protrusions. So 7 nm is within the range quoted for a whole plasma membrane but is too thick for \"a phospholipid bilayer\". Page 9.3 (597146) gives no thickness in its text; the only numbers are in the alt text of the Figure 3 bilayer cross-section (head region 0.7 to 1.0 nm, intermediate zone about 0.3 nm, tail region 2.5 to 3.5 nm), which add up to roughly 4.5 to 6 nm for the whole bilayer. So the two pages do mildly disagree (about 5 nm implied on 9.3 versus 7 nm stated on 9.5).",
+   "source_url": "http://book.bionumbers.org/what-is-the-thickness-of-the-cell-membrane/",
+   "proposed_edit": {
+    "old": "A cell membrane is a phospholipid bilayer about 7 nm thick, described by",
+    "new": "A cell membrane is a phospholipid bilayer about 4 to 5 nm thick (up to about 10 nm where proteins and carbohydrates stick out), described by"
+   }
+  },
+  {
+   "item": "e",
+   "page_id": 597158,
+   "quote": "Alkaloid reagents, such as tannic acid (used in tanning leather)",
+   "verdict": "correct",
+   "evidence": "Tannic acid is properly one of the alkaloidal reagents: the name means reagents that precipitate alkaloids (tannic, picric, trichloroacetic, phosphotungstic acids), and the same anions precipitate proteins by pairing with positively charged amino groups, as the table says. Hammarsten, A Text-book of Physiological Chemistry, lists \"precipitation by tannic acid in acetic acid solutions\" among the \"so-called alkaloid reagents\", so even the page's spelling \"alkaloid reagents\" has textbook precedent; \"alkaloidal reagents\" is the usual lab-manual form. The statement is correct. The proposed edit is optional: it uses the standard term and heads off the misreading that tannic acid is itself an alkaloid.",
+   "source_url": "https://runeberg.org/physchem/0113.html",
+   "proposed_edit": {
+    "old": "Alkaloid reagents, such as tannic acid (used in tanning leather)",
+    "new": "Alkaloidal reagents (acids that also precipitate alkaloids), such as tannic acid (used in tanning leather)"
+   },
+   "edit_optional": true,
+   "skip": true
+  }
+ ],
+ "notes": [
+  "597062 Examples 1, 5, 6; 597074 Example 5; 597086 Example 2 already have a Check and were skipped."
+ ]
+}

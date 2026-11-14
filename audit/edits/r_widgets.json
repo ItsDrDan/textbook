@@ -1,0 +1,114 @@
+[
+ {
+  "page_id": "597075",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-2&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers&amp;n=12&amp;fresh=1&amp;chmax=2&amp;title=Cumulative+mix,+Chapters+1-2&amp;game=finalboss\"",
+  "count": 2,
+  "note": "2.11 cumulative mix: only questions answerable by the end of Chapter 2 (chmax=2)"
+ },
+ {
+  "page_id": "597087",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-3&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic&amp;n=12&amp;fresh=1&amp;chmax=3&amp;title=Cumulative+mix,+Chapters+1-3&amp;game=finalboss\"",
+  "count": 2,
+  "note": "3.10 cumulative mix: only questions answerable by the end of Chapter 3 (chmax=3)"
+ },
+ {
+  "page_id": "597101",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-4&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols&amp;n=12&amp;fresh=1&amp;chmax=4&amp;title=Cumulative+mix,+Chapters+1-4&amp;game=finalboss\"",
+  "count": 2,
+  "note": "4.12 cumulative mix: only questions answerable by the end of Chapter 4 (chmax=4)"
+ },
+ {
+  "page_id": "597108",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-5&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality&amp;n=12&amp;fresh=1&amp;chmax=5&amp;title=Cumulative+mix,+Chapters+1-5&amp;game=finalboss\"",
+  "count": 2,
+  "note": "5.7 cumulative mix: only questions answerable by the end of Chapter 5 (chmax=5)"
+ },
+ {
+  "page_id": "597120",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-6&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters&amp;n=12&amp;fresh=1&amp;chmax=6&amp;title=Cumulative+mix,+Chapters+1-6&amp;game=finalboss\"",
+  "count": 2,
+  "note": "6.12 cumulative mix: only questions answerable by the end of Chapter 6 (chmax=6)"
+ },
+ {
+  "page_id": "597133",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-7&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines&amp;n=12&amp;fresh=1&amp;chmax=7&amp;title=Cumulative+mix,+Chapters+1-7&amp;game=finalboss\"",
+  "count": 2,
+  "note": "7.13 cumulative mix: only questions answerable by the end of Chapter 7 (chmax=7)"
+ },
+ {
+  "page_id": "597142",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-8&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs&amp;n=12&amp;fresh=1&amp;chmax=8&amp;title=Cumulative+mix,+Chapters+1-8&amp;game=finalboss\"",
+  "count": 2,
+  "note": "8.9 cumulative mix: only questions answerable by the end of Chapter 8 (chmax=8)"
+ },
+ {
+  "page_id": "597151",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-9&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids&amp;n=12&amp;fresh=1&amp;chmax=9&amp;title=Cumulative+mix,+Chapters+1-9&amp;game=finalboss\"",
+  "count": 2,
+  "note": "9.8 cumulative mix: only questions answerable by the end of Chapter 9 (chmax=9)"
+ },
+ {
+  "page_id": "597165",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-10&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins&amp;n=12&amp;fresh=1&amp;chmax=10&amp;title=Cumulative+mix,+Chapters+1-10&amp;game=finalboss\"",
+  "count": 2,
+  "note": "10.12 cumulative mix: only questions answerable by the end of Chapter 10 (chmax=10)"
+ },
+ {
+  "page_id": "597174",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-11&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes&amp;n=12&amp;fresh=1&amp;chmax=11&amp;title=Cumulative+mix,+Chapters+1-11&amp;game=finalboss\"",
+  "count": 2,
+  "note": "11.9 cumulative mix: only questions answerable by the end of Chapter 11 (chmax=11)"
+ },
+ {
+  "page_id": "597185",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-12&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic&amp;n=12&amp;fresh=1&amp;chmax=12&amp;title=Cumulative+mix,+Chapters+1-12&amp;game=finalboss\"",
+  "count": 2,
+  "note": "12.11 cumulative mix: only questions answerable by the end of Chapter 12 (chmax=12)"
+ },
+ {
+  "page_id": "597199",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-13&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;chmax=13&amp;title=Cumulative+mix,+Chapters+1-13&amp;game=finalboss\"",
+  "count": 2,
+  "note": "13.11 cumulative mix: only questions answerable by the end of Chapter 13 (chmax=13)"
+ },
+ {
+  "page_id": "597206",
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;title=Cumulative+mix,+Chapters+1-14&amp;game=finalboss\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbonyls,chirality,acids_esters,amines,carbs,lipids,proteins,enzymes,nucleic,metabolism&amp;n=12&amp;fresh=1&amp;chmax=14&amp;title=Cumulative+mix,+Chapters+1-14&amp;game=finalboss\"",
+  "count": 2,
+  "note": "14.7 cumulative mix: only questions answerable by the end of Chapter 14 (chmax=14)"
+ },
+ {
+  "page_id": "597056",
+  "count": 2,
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=lewis|octet|valence|electron|bond&amp;n=10&amp;title=Lewis%20structures\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;ids=fb-3B-0000,fb-3B-0008,fb-3B-2238,fb-3B-2239,fb-3B-2240,fb-3B-2241,fb-3B-2242,fb-3B-2243,fb-3B-2244,fb-3B-2245&amp;n=10&amp;title=Lewis%20structures\"",
+  "note": "1.3 Lewis structures: the box drew 37 of 39 questions from later sections; now the two on-topic items plus eight new Lewis-structure questions"
+ },
+ {
+  "page_id": "597078",
+  "count": 2,
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;ids=fb-3B-0027,fb-3B-0028,fb-3B-0212,fb-3B-0217,fb-3B-0394,fb-3B-0566,fb-3B-0572&amp;n=7&amp;title=Naming%20alkenes%20and%20alkynes\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&amp;ids=fb-3B-0027,fb-3B-0028,fb-3B-2246,fb-3B-2247,fb-3B-2248,fb-3B-2249,fb-3B-2250,fb-3B-2251&amp;n=8&amp;title=Naming%20alkenes%20and%20alkynes\"",
+  "note": "3.1 Naming alkenes and alkynes: six new naming questions replace the isomer-counting items, so the box matches its title"
+ },
+ {
+  "page_id": "597213",
+  "count": 2,
+  "old": "\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048&amp;n=5&amp;title=Ketone%20Bodies\"",
+  "new": "\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048,fb-3B-2252,fb-3B-2253,fb-3B-2254,fb-3B-2255&amp;n=8&amp;title=Ketone%20Bodies\"",
+  "note": "15.5 Ketone Bodies: four new questions; back to eight per round"
+ }
+]

@@ -1,6 +1,7 @@
 /* Textbook "Try it" widget. Two engines:
    1) Exam bank:  practice.html?t=alcohols,carbonyls&n=8      (Final Boss 3B questions, by topic)
                   &fresh=1   new random set each visit, spread evenly across the listed topics (cumulative mixes)
+                  &chmax=4   drop questions that need a chapter later than 4 (bank items carry "sec", the first section that teaches them)
                   practice.html?ids=fb-3B-0019,fb-3B-0020      (hand-picked questions)
                   practice.html?t=hydrocarbons&q=hydrogenation|addition   (regex filter on the question text)
    2) Reaction lab: practice.html?rxn=hydration,hydrohalogenation&mode=product   (generated from Bond Voyage templates)
@@ -47,6 +48,7 @@ async function bankMode(){
  if(ids.length){const want=new Set(ids);items=items.filter(q=>want.has(q.id))}
  const rx=P.get('q');if(rx){let re;try{re=new RegExp(rx,'i')}catch(e){re=null}if(re)items=items.filter(q=>re.test(q.q+' '+q.c.join(' ')+' '+q.w))}
  const dmax=+P.get('dmax');if(dmax)items=items.filter(q=>!q.d||q.d<=dmax);
+ const chmax=+P.get('chmax');if(chmax)items=items.filter(q=>!q.sec||parseInt(q.sec,10)<=chmax); /* chmax=N: only questions answerable by the end of Chapter N (each item's "sec" is the first section that teaches it); used by the Cumulative Review mixes */
  const n=+P.get('n');
  if(n&&items.length>n&&P.get('fresh')){/* fresh=1: a new random set on every visit, spread evenly across the listed topics (used by the Cumulative Review mixes) */
   const by={};for(const q of items){(by[q.t]=by[q.t]||[]).push(q)}const keys=shuf(Object.keys(by));for(const k of keys)by[k]=shuf(by[k]);

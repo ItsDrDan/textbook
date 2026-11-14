@@ -1,0 +1,113 @@
+{
+ "questions": [
+  {
+   "page_id": 597070,
+   "section": "2.6",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. U.S. Census Bure",
+   "new": "<p><strong>Think about it:</strong> Bottled gas can also be butane, C<sub>4</sub>H<sub>10</sub>. Work out its molar mass and compare it with air (about 29 g/mol). Will leaking butane rise or sink? Then explain why butane boils at a higher temperature than propane (&minus;1 &deg;C compared with &minus;42 &deg;C in the table).</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>Butane is 4(12) + 10(1) = <strong>58 g/mol</strong>, about twice the mass of air, so it <strong>sinks</strong> and collects in low spots just as propane does. Both molecules are nonpolar, so the only attractions between them are dispersion forces. Butane is the larger molecule with more surface area, so its dispersion forces are stronger and it takes more energy to boil.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. U.S. Census Bure",
+   "question_text": "Bottled gas can also be butane, C<sub>4</sub>H<sub>10</sub>. Work out its molar mass and compare it with air (about 29 g/mol). Will leaking butane rise or sink? Then explain why butane boils at a higher temperature than propane (&minus;1 &deg;C compared with &minus;42 &deg;C in the table).",
+   "answer_text": "Butane is 4(12) + 10(1) = <strong>58 g/mol</strong>, about twice the mass of air, so it <strong>sinks</strong> and collects in low spots just as propane does. Both molecules are nonpolar, so the only attractions between them are dispersion forces. Butane is the larger molecule with more surface area, so its dispersion forces are stronger and it takes more energy to boil."
+  },
+  {
+   "page_id": 597082,
+   "section": "3.5",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. NOAA, Monterey B",
+   "new": "<p><strong>Think about it:</strong> Polypropylene, in the table above, is made from propene, CH<sub>2</sub>=CHCH<sub>3</sub>. Write a section of the polymer that is three monomer units long. What happened to each C=C double bond, and were any atoms lost?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;. Each C=C became a C&ndash;C single bond, and the two carbons used the freed bonds to join the monomers on either side. No atoms were lost: this is addition polymerization, so the polymer contains every atom of the monomers. The CH<sub>3</sub> group hangs off every other carbon of the chain.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. NOAA, Monterey B",
+   "question_text": "Polypropylene, in the table above, is made from propene, CH<sub>2</sub>=CHCH<sub>3</sub>. Write a section of the polymer that is three monomer units long. What happened to each C=C double bond, and were any atoms lost?",
+   "answer_text": "&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;CH<sub>2</sub>&ndash;CH(CH<sub>3</sub>)&ndash;. Each C=C became a C&ndash;C single bond, and the two carbons used the freed bonds to join the monomers on either side. No atoms were lost: this is addition polymerization, so the polymer contains every atom of the monomers. The CH<sub>3</sub> group hangs off every other carbon of the chain."
+  },
+  {
+   "page_id": 597098,
+   "section": "4.9",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. UC Davis News, <",
+   "new": "<p><strong>Think about it:</strong> Methanethiol, CH<sub>3</sub>SH, is one of the small thiols with a strong smell. Write the equation for its mild oxidation. Name the functional group in the product, and say where you will meet that bond again in this course.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>2 CH<sub>3</sub>SH + [O] &rarr; CH<sub>3</sub>&ndash;S&ndash;S&ndash;CH<sub>3</sub> + H<sub>2</sub>O. Each thiol loses its S&ndash;H hydrogen and the two sulfur atoms join. The product is a <strong>disulfide</strong>. The same S&ndash;S bond forms between cysteine side chains and helps hold proteins in shape (Chapter 10).</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. UC Davis News, <",
+   "question_text": "Methanethiol, CH<sub>3</sub>SH, is one of the small thiols with a strong smell. Write the equation for its mild oxidation. Name the functional group in the product, and say where you will meet that bond again in this course.",
+   "answer_text": "2 CH<sub>3</sub>SH + [O] &rarr; CH<sub>3</sub>&ndash;S&ndash;S&ndash;CH<sub>3</sub> + H<sub>2</sub>O. Each thiol loses its S&ndash;H hydrogen and the two sulfur atoms join. The product is a <strong>disulfide</strong>. The same S&ndash;S bond forms between cysteine side chains and helps hold proteins in shape (Chapter 10)."
+  },
+  {
+   "page_id": 597131,
+   "section": "7.11",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. CalEPA, <a style",
+   "new": "<p><strong>Think about it:</strong> Which functional group in acetylcholine does acetylcholinesterase break, and what are the two products? Use your answer to explain why a muscle keeps twitching when an organophosphate blocks the enzyme.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>The enzyme hydrolyzes the <strong>ester</strong>, giving <strong>acetate and choline</strong>. Those pieces no longer fit the receptor, so the signal stops and the muscle relaxes. When the enzyme is blocked, the ester is not hydrolyzed. Acetylcholine stays in the synapse, keeps binding its receptors, and the muscle keeps getting the signal to contract.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. CalEPA, <a style",
+   "question_text": "Which functional group in acetylcholine does acetylcholinesterase break, and what are the two products? Use your answer to explain why a muscle keeps twitching when an organophosphate blocks the enzyme.",
+   "answer_text": "The enzyme hydrolyzes the <strong>ester</strong>, giving <strong>acetate and choline</strong>. Those pieces no longer fit the receptor, so the signal stops and the muscle relaxes. When the enzyme is blocked, the ester is not hydrolyzed. Acetylcholine stays in the synapse, keeps binding its receptors, and the muscle keeps getting the signal to contract."
+  },
+  {
+   "page_id": 597156,
+   "section": "10.3",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Depar",
+   "new": "<p><strong>Think about it:</strong> Casein clumps at pH 4.6, its pI. Suppose the solution is at pH 7 instead. Is the net charge on casein positive, negative or zero? Explain why casein stays dissolved at that pH.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div><strong>Negative.</strong> A pH of 7 is above the pI, so the groups that can lose an H<sup>+</sup> have lost it: there are more &ndash;COO<sup>&minus;</sup> groups than &ndash;NH<sub>3</sub><sup>+</sup> groups. Every casein molecule carries the same kind of net charge, so the molecules repel one another and stay spread out in the water. Adding acid puts H<sup>+</sup> back on until the net charge is zero at pH 4.6, and then they clump.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Depar",
+   "question_text": "Casein clumps at pH 4.6, its pI. Suppose the solution is at pH 7 instead. Is the net charge on casein positive, negative or zero? Explain why casein stays dissolved at that pH.",
+   "answer_text": "<strong>Negative.</strong> A pH of 7 is above the pI, so the groups that can lose an H<sup>+</sup> have lost it: there are more &ndash;COO<sup>&minus;</sup> groups than &ndash;NH<sub>3</sub><sup>+</sup> groups. Every casein molecule carries the same kind of net charge, so the molecules repel one another and stay spread out in the water. Adding acid puts H<sup>+</sup> back on until the net charge is zero at pH 4.6, and then they clump."
+  },
+  {
+   "page_id": 597162,
+   "section": "10.9",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. J. Scott, Califo",
+   "new": "<p><strong>Think about it:</strong> Carbon monoxide and nitrite both keep hemoglobin from carrying O<sub>2</sub>, but in different ways. Compare what each one does at the iron of the heme group. In either case, has the quaternary structure of hemoglobin been taken apart?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>CO leaves the iron as Fe<sup>2+</sup> but binds to it about 200 times more tightly than O<sub>2</sub>, so the site is occupied. Nitrite <strong>oxidizes</strong> the iron from Fe<sup>2+</sup> to Fe<sup>3+</sup> (the iron loses an electron), and Fe<sup>3+</sup> cannot carry O<sub>2</sub>. No: in both cases the four subunits are still together. The protein is intact, but the heme sites are out of service.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. J. Scott, Califo",
+   "question_text": "Carbon monoxide and nitrite both keep hemoglobin from carrying O<sub>2</sub>, but in different ways. Compare what each one does at the iron of the heme group. In either case, has the quaternary structure of hemoglobin been taken apart?",
+   "answer_text": "CO leaves the iron as Fe<sup>2+</sup> but binds to it about 200 times more tightly than O<sub>2</sub>, so the site is occupied. Nitrite <strong>oxidizes</strong> the iron from Fe<sup>2+</sup> to Fe<sup>3+</sup> (the iron loses an electron), and Fe<sup>3+</sup> cannot carry O<sub>2</sub>. No: in both cases the four subunits are still together. The protein is intact, but the heme sites are out of service."
+  },
+  {
+   "page_id": 597170,
+   "section": "11.5 (almonds and vitamin E)",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. UC Davis Fruit &",
+   "new": "<p><strong>Think about it:</strong> Vitamin E has an &ndash;OH group, and &ndash;OH groups can hydrogen bond with water. Why is vitamin E fat-soluble anyway? Use your answer to explain why a person who cannot absorb fat can run low on vitamin E.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>One polar &ndash;OH is far outweighed by the long nonpolar hydrocarbon tail and ring, so the molecule as a whole is nonpolar. Like dissolves like: it dissolves in fats and lipid membranes, not in water. Because it travels dissolved in dietary fat, a person who absorbs fat poorly also absorbs vitamin E poorly.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. UC Davis Fruit &",
+   "question_text": "Vitamin E has an &ndash;OH group, and &ndash;OH groups can hydrogen bond with water. Why is vitamin E fat-soluble anyway? Use your answer to explain why a person who cannot absorb fat can run low on vitamin E.",
+   "answer_text": "One polar &ndash;OH is far outweighed by the long nonpolar hydrocarbon tail and ring, so the molecule as a whole is nonpolar. Like dissolves like: it dissolves in fats and lipid membranes, not in water. Because it travels dissolved in dietary fat, a person who absorbs fat poorly also absorbs vitamin E poorly."
+  },
+  {
+   "page_id": 597170,
+   "section": "11.5 (folic acid in the tortilla)",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Centers for Dise",
+   "new": "<p><strong>Think about it:</strong> Folate is turned into THF in the body. By the definitions in this section, is THF a cofactor or a coenzyme? Explain your choice, and explain why the cells of an early embryo need so much of it.</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>THF is a <strong>coenzyme</strong>. It is an organic molecule made from a vitamin. A cofactor in this course is an inorganic ion such as Zn<sup>2+</sup> or Mg<sup>2+</sup>. THF carries the one-carbon units used to build nucleotides. An embryo&rsquo;s cells divide fast, and every division needs a full new copy of the DNA, so they need a steady supply of nucleotides.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Centers for Dise",
+   "question_text": "Folate is turned into THF in the body. By the definitions in this section, is THF a cofactor or a coenzyme? Explain your choice, and explain why the cells of an early embryo need so much of it.",
+   "answer_text": "THF is a <strong>coenzyme</strong>. It is an organic molecule made from a vitamin. A cofactor in this course is an inorganic ion such as Zn<sup>2+</sup> or Mg<sup>2+</sup>. THF carries the one-carbon units used to build nucleotides. An embryo&rsquo;s cells divide fast, and every division needs a full new copy of the DNA, so they need a steady supply of nucleotides."
+  },
+  {
+   "page_id": 597180,
+   "section": "12.7",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Depar",
+   "new": "<p><strong>Think about it:</strong> Sickle cell anemia, one of the screened conditions, comes from a point mutation. Using this course&rsquo;s definition, what happened to the DNA? Why does this change only one amino acid in hemoglobin, while an insertion or deletion would change many?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>A point mutation is a <strong>substitution</strong>: one base is replaced by another (GAG becomes GTG in the worked example on this page). The number of bases stays the same, so the reading frame does not move and only that one codon is read differently. An insertion or deletion shifts the reading frame, so every codon after it is read differently and the amino acids that follow all change.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. California Depar",
+   "question_text": "Sickle cell anemia, one of the screened conditions, comes from a point mutation. Using this course&rsquo;s definition, what happened to the DNA? Why does this change only one amino acid in hemoglobin, while an insertion or deletion would change many?",
+   "answer_text": "A point mutation is a <strong>substitution</strong>: one base is replaced by another (GAG becomes GTG in the worked example on this page). The number of bases stays the same, so the reading frame does not move and only that one codon is read differently. An insertion or deletion shifts the reading frame, so every codon after it is read differently and the amino acids that follow all change."
+  },
+  {
+   "page_id": 597215,
+   "section": "15.7",
+   "old": "<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Food and Agricul",
+   "new": "<p><strong>Think about it:</strong> The lysine in beans is locked inside bean protein. What type of reaction frees it during digestion, and what bond is broken? Which pancreatic enzyme cuts next to lysine? Where does the free lysine go next?</p>\n<div class=\"hideprint answer-inline\"><details class=\"hideprint\"><summary>Answer</summary><div>Digestion is <strong>hydrolysis</strong>: water is added across the <strong>peptide (amide) bonds</strong> that join the amino acids. <strong>Trypsin</strong> cuts peptide bonds on the carboxyl side of the basic amino acids lysine and arginine, and other peptidases finish the job. The free lysine is absorbed through the intestinal wall into the blood and joins the amino acid pool, where it can be used to build new proteins.</div></details></div>\n<p style=\"font-size:0.9em;margin-bottom:0;\"><strong>Sources:</strong> 1. Food and Agricul",
+   "question_text": "The lysine in beans is locked inside bean protein. What type of reaction frees it during digestion, and what bond is broken? Which pancreatic enzyme cuts next to lysine? Where does the free lysine go next?",
+   "answer_text": "Digestion is <strong>hydrolysis</strong>: water is added across the <strong>peptide (amide) bonds</strong> that join the amino acids. <strong>Trypsin</strong> cuts peptide bonds on the carboxyl side of the basic amino acids lysine and arginine, and other peptidases finish the job. The free lysine is absorbed through the intestinal wall into the blood and joins the amino acid pool, where it can be used to build new proteins."
+  }
+ ],
+ "rechecks": [
+  {
+   "item": "(a) 11.4 cholinesterase medical supervision, 3 CCR 6728",
+   "page_id": 597169,
+   "page_sentence": "Workers who mix, load or apply the most toxic organophosphate or carbamate pesticides on more than six days in any 30-day period must be under a doctor's medical supervision. A lab measures their red-cell and plasma cholinesterase and compares it with their own baseline. If red-cell activity falls to 70% of baseline (or plasma to 60%), the worker is removed from exposure until both return to at least 80%.",
+   "verified": true,
+   "source_url": "https://www.law.cornell.edu/regulations/california/3-CCR-6728 ; https://www.law.cornell.edu/regulations/california/3-CCR-6000 ; https://cdpr.ca.gov/wp-content/uploads/2025/01/dpr_22-002_oal_text_medical_supervision.pdf ; https://www.cdpr.ca.gov/proposed-regulation/dpr-22-002-medical-supervision-program/",
+   "what_source_says": "Loaded the Cornell LII copy of 3 CCR 6728. (e): remove the employee if plasma cholinesterase 'falls to 60% or less of baseline' or red cell to 70% or less; return when values are '80% or more of their respective baseline values'. (d): investigate work practices when levels fall below 80% of baseline. (a): pesticides with signal word DANGER or WARNING containing an organophosphate or carbamate. 3 CCR 6000 'regularly handle': handling 'for more than 6 calendar days' in any qualifying 30-day period (days in closed systems or with water-soluble packets excluded once a baseline exists). All four numbers on the page (6 days/30 days, 70%, 60%, 80%) match. On the 'amended in 2025' report: the latest amendment I could find is DPR 22-002 (OEHHA-registered physician; baseline after 30 exposure-free days, verified every two years), filed 08/30/2022, effective 01/01/2023 per DPR's rulemaking page; LII's history note for 6728 also ends at operative January 1, 2023. The DPR PDF sits under a /2025/01/ upload path, which may be the origin of the '2025' report. I found no 2025 amendment to 6728 and none of these documents change the thresholds. Not checked against the official Westlaw/OAL CCR site (not loaded).",
+   "proposed_edit": null
+  },
+  {
+   "item": "(b) 9.2 Fresno County share of 2022/23 almond crop",
+   "page_id": 597145,
+   "page_sentence": "Fresno County alone produced about 20% of the state's 2022/23 crop.",
+   "verified": true,
+   "source_url": "https://www.almonds.org/sites/default/files/2023-12/Almanac_2023.pdf",
+   "what_source_says": "Almond Board of California, Almond Almanac 2023, production by county, crop year 2022/23: Fresno 20.2%, 518,257,385 lb (next: Stanislaus 14.9%, 383,377,720 lb; Merced 11.2%, 287,488,465 lb). CAVEAT: I could not open the PDF directly (WebFetch refused it, over 10 MB). These figures are the search engine's text extract of that PDF's county table, not a page I read myself. Cross-check: 518.3 million lb against the 2.57 billion lb 2022 crop (USDA NASS objective report, also via search extract) is 20.2%. A Farm Progress article reported 'nearly 25%' and 636 million lb from the county crop report, a different data set (page returned 403, not loaded). The page's 'about 20%' matches its cited source. The page's source link uses it.almonds.org, which served the file but is the Italian-site mirror; the almonds.org URL above is the main one.",
+   "proposed_edit": null
+  },
+  {
+   "item": "(c) 4.5 ALDH2*2 carrier frequency in people of East Asian descent",
+   "page_id": 597094,
+   "page_sentence": "About 40% of people of East Asian descent carry it.",
+   "verified": true,
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11288122/",
+   "what_source_says": "Loaded Rwere et al., J Transl Med 2024 (doi 10.1186/s12967-024-05507-x): 'In East Asian countries, ~ 40% of the population carry a genetic variant in the aldehyde dehydrogenase 2 (ALDH2) enzyme'. Also loaded the current NIAAA Alcohol Flush Reaction page (updated September 2022, https://www.niaaa.nih.gov/publications/alcohol-flush-reaction): it gives no percentage, only that the variants 'are more common among people of East Asian ancestry'. A 2009 NIAAA release (seen in search results only, not loaded) gives 30 to 50 percent. The page's 'about 40%' is supported. The page says 'East Asian', not 'Far East Asian'. Optional: add the 2024 paper beside source 5 (Ehlers 2007, an archived copy); no text change needed.",
+   "proposed_edit": null
+  }
+ ]
+}
