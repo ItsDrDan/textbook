@@ -2,8 +2,8 @@
 
 ## State
 
-- Repo `textbook-git`, branch **`audit/2026-11-master-refinement`**, local only (not pushed, no PR). `main` is unchanged at 80741ee.
-- Live LibreTexts book: unchanged by this pass. `pages/live` still matches it.
+- Repo `textbook-git`, branch **`audit/2026-11-master-refinement`**, pushed, no PR, not merged. `main` is unchanged at 80741ee.
+- Live LibreTexts book: **batch Q published 2026-11-13** (310 edits, 117 pages, all read back identical), plus the Index page pointers and 13 page tags. `pages/live` matches it. Items 2 and 3 below are done.
 - Latest PDF checked: `~/Downloads/Full.pdf`, 2026-11-13 16:37, 1,340 pp.
 - Coverage: every page has a ledger row, a pedagogy score and script checks. Correctness of problems rests on the 11-11 and 11-13 re-solves, not on this pass.
 
@@ -19,8 +19,7 @@
 
 ## First checks after publishing
 
-- Compile page 597094 (4.5) alone: key shows Exercise 4.5.1 beside the Valley answer; no new page break.
-- Compile 597091 (4.2): both exercises list parts (a) and (b) inside the box; new key prints.
+- Done: 597094 (4.5) and 597091 (4.2) compiled alone; the new text and keys print.
 - Open three changed Try It boxes in the book (4.8, 13.4, 3.1) and answer a question in each.
 - Next full PDF: version line on p. 15; 24 answers in print; rerun `tools/audit_inventory.py` with the new PDF.
 

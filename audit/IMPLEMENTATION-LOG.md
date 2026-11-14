@@ -1,6 +1,10 @@
 # Implementation log (master refinement pass, 2026-11-13)
 
-Branch: `audit/2026-11-master-refinement` (local; not pushed). Nothing was published to LibreTexts, pushed to GitHub or deployed in this pass.
+Branch: `audit/2026-11-master-refinement` (pushed; no PR; not merged, so nothing is deployed to GitHub Pages).
+
+**Batch Q was published on LibreTexts on 2026-11-13 on the instructor's "Publish batch Q".** Dry run first: all 117 live pages matched their expected `before` hash and every edit matched its count. Pilot save on 597270, then the other 116. **All 117 pages read back identical to the planned text.** Then the Index page (488231): 13 pointers changed to follow the Glossary (read back identical), and the 13 matching page tags moved on 18 pages (`tools/index_tag_moves_batchQ_2026-11-13.json`; each tag list read back as planned). `pages/live` is synced (hash-checked).
+
+Single-page compiles after publishing: **4.5 (597094)** prints the oxidation definition, the completed Summary, the outline bridge and Exercise 4.5.1 in the key; **4.2 (597091)** prints both exercise parts inside the box and the new "Answers to Exercises" key. In both, the new answers also print beside their exercise, as every existing inline answer in the book does (2.5 on p. 165 and the 4.5 Valley answer on p. 325 of the 16:37 export do the same).
 
 ## Files changed
 
@@ -11,7 +15,7 @@ Branch: `audit/2026-11-master-refinement` (local; not pushed). Nothing was publi
 | `tools/audit_inventory.py` → `audit/inventory.json` | Inventory of all 199 pages: components, embeds, headings, objectives, PDF page ranges. | n/a |
 | `tools/question_ledger.py` → `audit/QUESTION-LEDGER.csv` | 1,812 examples and exercises, one row each. | n/a |
 | `tools/coverage_ledger.py` → `audit/TEXTBOOK-COVERAGE-LEDGER.md` | One row per page. | n/a |
-| `tools/batchQ_build.py` → `tools/batchQ_2026-11-13.json`, `tools/batchQ_sha_2026-11-13.json` | **Draft** page edits: 310 edits on 117 pages, 0 uploads. | **No. Waiting for the instructor's "publish".** |
+| `tools/batchQ_build.py` → `tools/batchQ_2026-11-13.json`, `tools/batchQ_sha_2026-11-13.json` | **Draft** page edits: 310 edits on 117 pages, 0 uploads. | **Yes, published 2026-11-13.** |
 | `audit/edits/*.json` | The reviewers' edit lists that feed batch Q (pedagogy ×3, glossary, Rosa/Valley with 7 held, widgets). | n/a |
 | `audit/reviews/*.md` | The reviewers' full reports. | n/a |
 | `audit/*.md` | The nine deliverables of the brief, plus `BATCH_Q_REVIEW.md` (readable list of every draft edit). | n/a |
@@ -53,4 +57,4 @@ Held out of the batch: 7 Rosa story edits (see `ROSA-AND-VALLEY-CONTINUITY.md`).
 | Earlier corrections still present | PDF text search | transcription direction, tyrosine, ATP numbers, ten essential amino acids, first-aid advice: all present |
 | Scope scan | keyword scan of all pages | no pKa, R/S, E/Z, meso, Newman, chair-flip, Km or hybridization content outside the disclaimers |
 
-Not run: any check that needs batch Q to be live (single-page compiles, the next full PDF), a screen-reader session, phone hardware.
+Not run: the next full-book PDF (needs a new compile), a screen-reader session, phone hardware.

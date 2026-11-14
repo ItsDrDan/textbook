@@ -1,0 +1,71 @@
+{
+ "date": "2026-11-13",
+ "note": "batch Q: Index list (488231) pointers and page tags moved with the Glossary pointers; every page tag list read back as planned",
+ "moves": [
+  {
+   "term": "alkane",
+   "from": "597065",
+   "to": "597066"
+  },
+  {
+   "term": "hydrocarbon",
+   "from": "597065",
+   "to": "597059"
+  },
+  {
+   "term": "digestion",
+   "from": "597188",
+   "to": "597191"
+  },
+  {
+   "term": "cori cycle",
+   "from": "597192",
+   "to": "597197"
+  },
+  {
+   "term": "molecular formula",
+   "from": "597066",
+   "to": "597060"
+  },
+  {
+   "term": "condensed structural formula",
+   "from": "597066",
+   "to": "597068"
+  },
+  {
+   "term": "substitution reaction",
+   "from": "597084",
+   "to": "597071"
+  },
+  {
+   "term": "mitochondrial matrix",
+   "from": "597200",
+   "to": "597201"
+  },
+  {
+   "term": "anticodon",
+   "from": "597179",
+   "to": "597183"
+  },
+  {
+   "term": "dna",
+   "from": "597177",
+   "to": "597176"
+  },
+  {
+   "term": "atp synthase",
+   "from": "597201",
+   "to": "597203"
+  },
+  {
+   "term": "coenzyme q",
+   "from": "597201",
+   "to": "597203"
+  },
+  {
+   "term": "cytochrome",
+   "from": "597201",
+   "to": "597203"
+  }
+ ]
+}

@@ -182,7 +182,7 @@
  {
   "id": "597270",
   "title": "About This Book",
-  "bytes": 25889,
+  "bytes": 25905,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 5,
@@ -652,7 +652,7 @@
  {
   "id": "597056",
   "title": "1.3: Drawing Lewis Structures",
-  "bytes": 30304,
+  "bytes": 30455,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -828,7 +828,7 @@
  {
   "id": "597058",
   "title": "1.5: Characteristics of Molecules",
-  "bytes": 51208,
+  "bytes": 51434,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -849,12 +849,12 @@
    "https://www.youtube.com/embed/0fzuzHnkPAc?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure&q=shape|angle|polar|tetrahedral|trigonal|linear|bent&n=10&title=Shapes%20and%20polarity"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&ids=fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0899&n=10&title=Shapes%20and%20polarity"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=shape|angle|polar|tetrahedral|trigonal|linear|bent&amp;n=10&amp;title=Shapes%20and%20polarity"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&amp;ids=fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0899&amp;n=10&amp;title=Shapes%20and%20polarity"
   ],
   "headings": [
    [
@@ -950,7 +950,7 @@
  {
   "id": "597059",
   "title": "1.6: Introduction to Organic Chemistry",
-  "bytes": 30604,
+  "bytes": 30701,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -1178,7 +1178,7 @@
  {
   "id": "597061",
   "title": "1.8: Intermolecular Interactions",
-  "bytes": 84354,
+  "bytes": 84888,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -1201,7 +1201,7 @@
    "https://www.youtube.com/embed/lAcgVwEmjM8?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&q=hydrogen bond|dispersion|dipole|boiling|solub|polar&n=10&title=Intermolecular%20forces"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties&ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&n=10&title=Intermolecular%20forces"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -1340,7 +1340,7 @@
  {
   "id": "597062",
   "title": "1.9: Chapter Guide - Bonding Review - Lewis Structures and Intermolecular Forces",
-  "bytes": 31686,
+  "bytes": 32886,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -1360,16 +1360,16 @@
    "https://www.youtube.com/embed/RNQKJ1hnHes?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure&q=bond|shape|angle|polar|lewis|tetrahedral|trigonal|octet&n=10&title=Bonding+and+shape&game=lewis",
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&q=hydrogen+bond|dispersion|dipole|boiling|solub|polar&n=10&title=Intermolecular+forces&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0008,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0555,fb-3B-0556,fb-3B-0557,fb-3B-0558,fb-3B-0559,fb-3B-0560,fb-3B-0561,fb-3B-0562,fb-3B-0899&n=10&title=Bonding+and+shape&game=lewis",
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties&ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&n=10&title=Intermolecular+forces&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/textbook/figures/conceptmaps/ch01.svg?v=20261113",
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=hydrogen+bond|dispersion|dipole|boiling|solub|polar&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss",
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=bond|shape|angle|polar|lewis|tetrahedral|trigonal|octet&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss",
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&amp;ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0008,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0555,fb-3B-0556,fb-3B-0557,fb-3B-0558,fb-3B-0559,fb-3B-0560,fb-3B-0561,fb-3B-0562,fb-3B-0899&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis"
   ],
   "headings": [
    [
@@ -1528,7 +1528,7 @@
  {
   "id": "597232",
   "title": "1.11: Practice Games",
-  "bytes": 9099,
+  "bytes": 10299,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 1,
@@ -1551,8 +1551,8 @@
    "https://itsdrdan.github.io/organic/",
    "https://itsdrdan.github.io/IMF/?course=3B",
    "https://itsdrdan.github.io/finalexam/?course=3B",
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure&q=bond|shape|angle|polar|lewis|tetrahedral|trigonal|octet&n=10&title=Bonding+and+shape&game=lewis",
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&q=hydrogen+bond|dispersion|dipole|boiling|solub|polar&n=10&title=Intermolecular+forces&game=finalboss"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0008,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0555,fb-3B-0556,fb-3B-0557,fb-3B-0558,fb-3B-0559,fb-3B-0560,fb-3B-0561,fb-3B-0562,fb-3B-0899&n=10&title=Bonding+and+shape&game=lewis",
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties&ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&n=10&title=Intermolecular+forces&game=finalboss"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -1564,8 +1564,8 @@
    "https://itsdrdan.github.io/games/",
    "https://itsdrdan.github.io/lewisstructures/?course=3B",
    "https://itsdrdan.github.io/organic/",
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=hydrogen+bond|dispersion|dipole|boiling|solub|polar&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss",
-   "https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=bond|shape|angle|polar|lewis|tetrahedral|trigonal|octet&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss",
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&amp;ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0008,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0555,fb-3B-0556,fb-3B-0557,fb-3B-0558,fb-3B-0559,fb-3B-0560,fb-3B-0561,fb-3B-0562,fb-3B-0899&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis"
   ],
   "headings": [
    [
@@ -1603,7 +1603,7 @@
  {
   "id": "597040",
   "title": "2: Alkanes and Cycloalkanes",
-  "bytes": 7652,
+  "bytes": 7714,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -1613,7 +1613,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 6,
+  "rosa": 7,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -1738,7 +1738,7 @@
  {
   "id": "597067",
   "title": "2.3: Branched-Chain Alkanes",
-  "bytes": 26304,
+  "bytes": 26422,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -1758,12 +1758,12 @@
    "https://www.youtube.com/embed/kEkvxf6e-Ro?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&q=isomer|conform|branch|same&n=10&title=Isomers%20or%20the%20same%20molecule%3F"
+   "https://itsdrdan.github.io/textbook/practice.html?t=isomers&ids=fb-3B-0206,fb-3B-0207,fb-3B-0214,fb-3B-0215,fb-3B-0563,fb-3B-0564,fb-3B-0570&n=7&title=Isomers%20or%20the%20same%20molecule%3F"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;q=isomer|conform|branch|same&amp;n=10&amp;title=Isomers%20or%20the%20same%20molecule%3F"
+   "https://itsdrdan.github.io/textbook/practice.html?t=isomers&amp;ids=fb-3B-0206,fb-3B-0207,fb-3B-0214,fb-3B-0215,fb-3B-0563,fb-3B-0564,fb-3B-0570&amp;n=7&amp;title=Isomers%20or%20the%20same%20molecule%3F"
   ],
   "headings": [
    [
@@ -1851,7 +1851,7 @@
  {
   "id": "597069",
   "title": "2.5: IUPAC Nomenclature",
-  "bytes": 37732,
+  "bytes": 37925,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -1872,12 +1872,12 @@
    "https://www.youtube.com/embed/OxLTA0CZrd4?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&q=alkane|IUPAC|branch|methyl|ethyl&n=10&title=Naming%20alkanes"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons&ids=fb-3B-0013,fb-3B-0015,fb-3B-0240,fb-3B-0256,fb-3B-0350,fb-3B-0533&n=6&title=Naming%20alkanes"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&amp;q=alkane|IUPAC|branch|methyl|ethyl&amp;n=10&amp;title=Naming%20alkanes"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons&amp;ids=fb-3B-0013,fb-3B-0015,fb-3B-0240,fb-3B-0256,fb-3B-0350,fb-3B-0533&amp;n=6&amp;title=Naming%20alkanes"
   ],
   "headings": [
    [
@@ -2012,7 +2012,7 @@
  {
   "id": "597071",
   "title": "2.7: Chemical Properties of Alkanes",
-  "bytes": 18604,
+  "bytes": 18717,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -2082,7 +2082,7 @@
  {
   "id": "597072",
   "title": "2.8: Halogenated Hydrocarbons",
-  "bytes": 26762,
+  "bytes": 26865,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -2261,7 +2261,7 @@
  {
   "id": "597074",
   "title": "2.10: Chapter Guide - Alkanes and Cycloalkanes",
-  "bytes": 31214,
+  "bytes": 31876,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -2282,14 +2282,14 @@
    "https://www.youtube.com/embed/xbsGe976lZ4?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&q=alkane|cycloalk|conform|combust|halogenation|substitution|saturated|isomer|branch|IUPAC&n=12&title=Alkanes+and+isomers&game=origins"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&ids=fb-3B-0013,fb-3B-0014,fb-3B-0015,fb-3B-0017,fb-3B-0018,fb-3B-0019,fb-3B-0020,fb-3B-0206,fb-3B-0207,fb-3B-0209,fb-3B-0210,fb-3B-0214,fb-3B-0215,fb-3B-0240,fb-3B-0241,fb-3B-0256,fb-3B-0350,fb-3B-0351,fb-3B-0352,fb-3B-0395,fb-3B-0533,fb-3B-0563,fb-3B-0564,fb-3B-0567,fb-3B-0570,fb-3B-0789,fb-3B-0912,fb-3B-0913,fb-3B-0917,fb-3B-0918,fb-3B-2061,fb-3B-2062,fb-3B-2063,fb-3B-2064,fb-3B-2065,fb-3B-2066,fb-3B-2125&n=12&title=Alkanes+and+isomers&game=origins"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/textbook/figures/conceptmaps/ch02.svg?v=20261113",
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;q=alkane|cycloalk|conform|combust|halogenation|substitution|saturated|isomer|branch|IUPAC&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&amp;ids=fb-3B-0013,fb-3B-0014,fb-3B-0015,fb-3B-0017,fb-3B-0018,fb-3B-0019,fb-3B-0020,fb-3B-0206,fb-3B-0207,fb-3B-0209,fb-3B-0210,fb-3B-0214,fb-3B-0215,fb-3B-0240,fb-3B-0241,fb-3B-0256,fb-3B-0350,fb-3B-0351,fb-3B-0352,fb-3B-0395,fb-3B-0533,fb-3B-0563,fb-3B-0564,fb-3B-0567,fb-3B-0570,fb-3B-0789,fb-3B-0912,fb-3B-0913,fb-3B-0917,fb-3B-0918,fb-3B-2061,fb-3B-2062,fb-3B-2063,fb-3B-2064,fb-3B-2065,fb-3B-2066,fb-3B-2125&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins"
   ],
   "headings": [
    [
@@ -2468,7 +2468,7 @@
  {
   "id": "597231",
   "title": "2.12: Practice Games",
-  "bytes": 5413,
+  "bytes": 6075,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -2490,7 +2490,7 @@
    "https://itsdrdan.github.io/organic/",
    "https://itsdrdan.github.io/organicreactions/",
    "https://itsdrdan.github.io/textbook/practice.html?rxn=combustion,substitution&mode=mix&title=Alkane+reactions&game=orgrxn",
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&q=alkane|cycloalk|conform|combust|halogenation|substitution|saturated|isomer|branch|IUPAC&n=12&title=Alkanes+and+isomers&game=origins"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&ids=fb-3B-0013,fb-3B-0014,fb-3B-0015,fb-3B-0017,fb-3B-0018,fb-3B-0019,fb-3B-0020,fb-3B-0206,fb-3B-0207,fb-3B-0209,fb-3B-0210,fb-3B-0214,fb-3B-0215,fb-3B-0240,fb-3B-0241,fb-3B-0256,fb-3B-0350,fb-3B-0351,fb-3B-0352,fb-3B-0395,fb-3B-0533,fb-3B-0563,fb-3B-0564,fb-3B-0567,fb-3B-0570,fb-3B-0789,fb-3B-0912,fb-3B-0913,fb-3B-0917,fb-3B-0918,fb-3B-2061,fb-3B-2062,fb-3B-2063,fb-3B-2064,fb-3B-2065,fb-3B-2066,fb-3B-2125&n=12&title=Alkanes+and+isomers&game=origins"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -2502,7 +2502,7 @@
    "https://itsdrdan.github.io/organic/",
    "https://itsdrdan.github.io/organicreactions/",
    "https://itsdrdan.github.io/textbook/practice.html?rxn=combustion,substitution&amp;mode=mix&amp;title=Alkane+reactions&amp;game=orgrxn",
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;q=alkane|cycloalk|conform|combust|halogenation|substitution|saturated|isomer|branch|IUPAC&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&amp;ids=fb-3B-0013,fb-3B-0014,fb-3B-0015,fb-3B-0017,fb-3B-0018,fb-3B-0019,fb-3B-0020,fb-3B-0206,fb-3B-0207,fb-3B-0209,fb-3B-0210,fb-3B-0214,fb-3B-0215,fb-3B-0240,fb-3B-0241,fb-3B-0256,fb-3B-0350,fb-3B-0351,fb-3B-0352,fb-3B-0395,fb-3B-0533,fb-3B-0563,fb-3B-0564,fb-3B-0567,fb-3B-0570,fb-3B-0789,fb-3B-0912,fb-3B-0913,fb-3B-0917,fb-3B-0918,fb-3B-2061,fb-3B-2062,fb-3B-2063,fb-3B-2064,fb-3B-2065,fb-3B-2066,fb-3B-2125&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins"
   ],
   "headings": [
    [
@@ -2532,7 +2532,7 @@
  {
   "id": "597041",
   "title": "3: Alkenes, Alkynes, and Aromatic Compounds",
-  "bytes": 5285,
+  "bytes": 5347,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -2542,7 +2542,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 5,
+  "rosa": 6,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -2569,7 +2569,7 @@
  {
   "id": "597078",
   "title": "3.1: Alkenes- Structures and Names",
-  "bytes": 22480,
+  "bytes": 22520,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -2587,7 +2587,7 @@
   "key_items": 2,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&q=alkene|alkyne|double bond|triple bond|ene|yne&n=10&title=Naming%20alkenes%20and%20alkynes"
+   "https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&ids=fb-3B-0027,fb-3B-0028,fb-3B-0212,fb-3B-0217,fb-3B-0394,fb-3B-0566,fb-3B-0572&n=7&title=Naming%20alkenes%20and%20alkynes"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -2655,7 +2655,7 @@
  {
   "id": "597079",
   "title": "3.2: Cis-Trans Isomers (Geometric Isomers)",
-  "bytes": 27046,
+  "bytes": 27112,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -2783,7 +2783,7 @@
  {
   "id": "597081",
   "title": "3.4: Chemical Properties of Alkenes",
-  "bytes": 28520,
+  "bytes": 28761,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 4,
@@ -2867,7 +2867,7 @@
  {
   "id": "597082",
   "title": "3.5: Polymers",
-  "bytes": 18215,
+  "bytes": 18256,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -2981,7 +2981,7 @@
  {
   "id": "597084",
   "title": "3.7: Aromatic Compounds- Benzene",
-  "bytes": 26326,
+  "bytes": 26432,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -3143,7 +3143,7 @@
  {
   "id": "597086",
   "title": "3.9: Chapter Guide - Alkenes, Alkynes, and Aromatic Compounds",
-  "bytes": 34928,
+  "bytes": 35092,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -3412,7 +3412,7 @@
  {
   "id": "597042",
   "title": "4: Alcohols, Phenols, Ethers, and Thiols",
-  "bytes": 5144,
+  "bytes": 5206,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -3422,7 +3422,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 4,
+  "rosa": 5,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -3506,7 +3506,7 @@
  {
   "id": "597091",
   "title": "4.2: Alcohols - Nomenclature and Classification",
-  "bytes": 42031,
+  "bytes": 43983,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -3519,17 +3519,17 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 2,
+  "print_key": 1,
+  "key_items": 2,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&q=IUPAC%20name%7Ccommon%20name%7Cclassif%7Cprimary%7Csecondary%7Ctertiary&n=10&title=Naming%20and%20classifying%20alcohols"
+   "https://itsdrdan.github.io/textbook/practice.html?t=isomers,alcohols&ids=fb-3B-0036,fb-3B-0037,fb-3B-0355,fb-3B-0363,fb-3B-0393,fb-3B-0529,fb-3B-0568,fb-3B-0902,fb-3B-0923&n=9&title=Naming%20and%20classifying%20alcohols"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=IUPAC%20name%7Ccommon%20name%7Cclassif%7Cprimary%7Csecondary%7Ctertiary&amp;n=10&amp;title=Naming%20and%20classifying%20alcohols"
+   "https://itsdrdan.github.io/textbook/practice.html?t=isomers,alcohols&amp;ids=fb-3B-0036,fb-3B-0037,fb-3B-0355,fb-3B-0363,fb-3B-0393,fb-3B-0529,fb-3B-0568,fb-3B-0902,fb-3B-0923&amp;n=9&amp;title=Naming%20and%20classifying%20alcohols"
   ],
   "headings": [
    [
@@ -3591,6 +3591,10 @@
    [
     3,
     "Keep an eye out for isomers"
+   ],
+   [
+    2,
+    "Answers to Exercises"
    ]
   ],
   "objectives_cor": [
@@ -3608,7 +3612,7 @@
  {
   "id": "597092",
   "title": "4.3: Physical Properties of Alcohols",
-  "bytes": 18269,
+  "bytes": 18565,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -3626,12 +3630,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&q=alcohol%7Cether%7Chydrogen%20bond%7COH&n=10&title=Boiling%20points%20and%20solubility"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties,alcohols&ids=fb-3B-0042,fb-3B-0043,fb-3B-0223,fb-3B-0225,fb-3B-0227,fb-3B-0595,fb-3B-0599,fb-3B-0600,fb-3B-0605,fb-3B-0607,fb-3B-0612,fb-3B-0614,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627&n=10&title=Boiling%20points%20and%20solubility"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=alcohol%7Cether%7Chydrogen%20bond%7COH&amp;n=10&amp;title=Boiling%20points%20and%20solubility"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties,alcohols&amp;ids=fb-3B-0042,fb-3B-0043,fb-3B-0223,fb-3B-0225,fb-3B-0227,fb-3B-0595,fb-3B-0599,fb-3B-0600,fb-3B-0605,fb-3B-0607,fb-3B-0612,fb-3B-0614,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627&amp;n=10&amp;title=Boiling%20points%20and%20solubility"
   ],
   "headings": [
    [
@@ -3677,7 +3681,7 @@
  {
   "id": "597093",
   "title": "4.4: Reactions that Form Alcohols",
-  "bytes": 15248,
+  "bytes": 16251,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -3690,9 +3694,9 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [],
   "widgets": [],
   "other_iframes": [],
@@ -3738,6 +3742,10 @@
    [
     3,
     "Alcohols in the clinic: strength labels"
+   ],
+   [
+    2,
+    "Answers to Exercises"
    ]
   ],
   "objectives_cor": [],
@@ -3752,7 +3760,7 @@
  {
   "id": "597094",
   "title": "4.5: Reactions of Alcohols",
-  "bytes": 37867,
+  "bytes": 39535,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -3765,9 +3773,9 @@
   "rosa": 0,
   "in_the_lab": 1,
   "summary": 1,
-  "details": 1,
+  "details": 2,
   "print_key": 1,
-  "key_items": 1,
+  "key_items": 2,
   "videos": [
    "https://www.youtube.com/embed/l3Sb_GWBano?rel=0",
    "https://www.youtube.com/embed/veiUgkx_Dlc?rel=0"
@@ -3983,7 +3991,7 @@
  {
   "id": "597097",
   "title": "4.8: Ethers",
-  "bytes": 22463,
+  "bytes": 23490,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -3996,19 +4004,19 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [
    "https://www.youtube.com/embed/nN-RMEEbjLI?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&q=ether%7Coxy&n=10&title=Ethers"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,properties,alcohols&ids=fb-3B-0005,fb-3B-0038,fb-3B-0208,fb-3B-0213,fb-3B-0219,fb-3B-0223,fb-3B-0225,fb-3B-0228,fb-3B-0362,fb-3B-0558,fb-3B-0565,fb-3B-0599,fb-3B-0600,fb-3B-0614,fb-3B-0615&n=10&title=Ethers"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=ether%7Coxy&amp;n=10&amp;title=Ethers"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,properties,alcohols&amp;ids=fb-3B-0005,fb-3B-0038,fb-3B-0208,fb-3B-0213,fb-3B-0219,fb-3B-0223,fb-3B-0225,fb-3B-0228,fb-3B-0362,fb-3B-0558,fb-3B-0565,fb-3B-0599,fb-3B-0600,fb-3B-0614,fb-3B-0615&amp;n=10&amp;title=Ethers"
   ],
   "headings": [
    [
@@ -4050,6 +4058,10 @@
    [
     3,
     "Functional group isomers"
+   ],
+   [
+    2,
+    "Answers to Exercises"
    ]
   ],
   "objectives_cor": [],
@@ -4064,7 +4076,7 @@
  {
   "id": "597098",
   "title": "4.9: Organic Sulfur Compounds",
-  "bytes": 11782,
+  "bytes": 12248,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -4082,12 +4094,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&q=thiol%7Cdisulfide%7Cmercaptan&n=10&title=Thiols%20and%20disulfides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&ids=fb-3B-0039,fb-3B-0048,fb-3B-0250,fb-3B-0361,fb-3B-0511,fb-3B-0679,fb-3B-0680,fb-3B-0922&n=8&title=Thiols%20and%20disulfides"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=thiol%7Cdisulfide%7Cmercaptan&amp;n=10&amp;title=Thiols%20and%20disulfides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;ids=fb-3B-0039,fb-3B-0048,fb-3B-0250,fb-3B-0361,fb-3B-0511,fb-3B-0679,fb-3B-0680,fb-3B-0922&amp;n=8&amp;title=Thiols%20and%20disulfides"
   ],
   "headings": [
    [
@@ -4215,7 +4227,7 @@
  {
   "id": "597100",
   "title": "4.11: Chapter Guide - Alcohols, Phenols, Ethers, and Thiols",
-  "bytes": 33099,
+  "bytes": 33265,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -4233,14 +4245,14 @@
   "key_items": 10,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&n=12&title=Alcohols,+phenols,+ethers+and+thiols&game=origins"
+   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&n=12&title=Alcohols,+phenols,+ethers+and+thiols&game=origins"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/textbook/figures/conceptmaps/ch04.svg?v=20261113",
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins"
+   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins"
   ],
   "headings": [
    [
@@ -4411,7 +4423,7 @@
  {
   "id": "597234",
   "title": "4.13: Practice Games",
-  "bytes": 6486,
+  "bytes": 6582,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -4434,7 +4446,7 @@
    "https://itsdrdan.github.io/IMF/?course=3B",
    "https://itsdrdan.github.io/finalexam/?course=3B",
    "https://itsdrdan.github.io/textbook/practice.html?rxn=dehydration,ox1Ald,ox1Acid,ox2&mode=mix&title=Alcohol+reactions&game=orgrxn",
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&n=12&title=Alcohols,+phenols,+ethers+and+thiols&game=origins"
+   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&n=12&title=Alcohols,+phenols,+ethers+and+thiols&game=origins"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -4448,7 +4460,7 @@
    "https://itsdrdan.github.io/games/",
    "https://itsdrdan.github.io/organicreactions/",
    "https://itsdrdan.github.io/textbook/practice.html?rxn=dehydration,ox1Ald,ox1Acid,ox2&amp;mode=mix&amp;title=Alcohol+reactions&amp;game=orgrxn",
-   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins"
+   "https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins"
   ],
   "headings": [
    [
@@ -4482,7 +4494,7 @@
  {
   "id": "597043",
   "title": "5: Aldehydes and Ketones",
-  "bytes": 5154,
+  "bytes": 5216,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -4492,7 +4504,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 4,
+  "rosa": 5,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -4519,7 +4531,7 @@
  {
   "id": "597102",
   "title": "5.1: Aldehydes and Ketones- Structure and Names",
-  "bytes": 24763,
+  "bytes": 27484,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -4532,17 +4544,17 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 3,
+  "print_key": 1,
+  "key_items": 3,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbonyls&n=10&title=Aldehydes%20and%20ketones"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,carbonyls&ids=fb-3B-0049,fb-3B-0050,fb-3B-0051,fb-3B-0220,fb-3B-0255,fb-3B-0364,fb-3B-0365,fb-3B-0371,fb-3B-0391,fb-3B-0392,fb-3B-0569,fb-3B-0900&n=10&title=Aldehydes%20and%20ketones"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbonyls&amp;n=10&amp;title=Aldehydes%20and%20ketones"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,carbonyls&amp;ids=fb-3B-0049,fb-3B-0050,fb-3B-0051,fb-3B-0220,fb-3B-0255,fb-3B-0364,fb-3B-0365,fb-3B-0371,fb-3B-0391,fb-3B-0392,fb-3B-0569,fb-3B-0900&amp;n=10&amp;title=Aldehydes%20and%20ketones"
   ],
   "headings": [
    [
@@ -4608,6 +4620,10 @@
    [
     3,
     "Naming molecules with more than one functional group"
+   ],
+   [
+    2,
+    "Answers to Exercises"
    ]
   ],
   "objectives_cor": [
@@ -4624,7 +4640,7 @@
  {
   "id": "597103",
   "title": "5.2: Properties of Aldehydes and Ketones",
-  "bytes": 31027,
+  "bytes": 31333,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -4642,12 +4658,12 @@
   "key_items": 3,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&q=aldehyde%7Cketone%7Ccarbonyl%7CC%3DO&n=10&title=Carbonyl%20properties"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,carbonyls&ids=fb-3B-0052,fb-3B-0059,fb-3B-0229,fb-3B-0370,fb-3B-0556,fb-3B-0559,fb-3B-0596,fb-3B-0603,fb-3B-0607,fb-3B-0612,fb-3B-0613,fb-3B-2123&n=10&title=Carbonyl%20properties"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=aldehyde%7Cketone%7Ccarbonyl%7CC%3DO&amp;n=10&amp;title=Carbonyl%20properties"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,carbonyls&amp;ids=fb-3B-0052,fb-3B-0059,fb-3B-0229,fb-3B-0370,fb-3B-0556,fb-3B-0559,fb-3B-0596,fb-3B-0603,fb-3B-0607,fb-3B-0612,fb-3B-0613,fb-3B-2123&amp;n=10&amp;title=Carbonyl%20properties"
   ],
   "headings": [
    [
@@ -4705,7 +4721,7 @@
  {
   "id": "597104",
   "title": "5.3: Adding Alcohols to Aldehydes and Ketones- Hemiacetals and Acetals",
-  "bytes": 21410,
+  "bytes": 21411,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -4773,7 +4789,7 @@
  {
   "id": "597105",
   "title": "5.4: Reduction and Oxidation (Redox) Reactions",
-  "bytes": 34010,
+  "bytes": 34100,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -4885,7 +4901,7 @@
  {
   "id": "597106",
   "title": "5.5: Introduction to Stereochemistry",
-  "bytes": 37694,
+  "bytes": 37687,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -5265,7 +5281,7 @@
  {
   "id": "597044",
   "title": "6: Carboxylic Acids and Esters",
-  "bytes": 5068,
+  "bytes": 5130,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -5275,7 +5291,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 5,
+  "rosa": 6,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -5302,7 +5318,7 @@
  {
   "id": "597109",
   "title": "6.1: Carboxylic Acids - Structures and Names",
-  "bytes": 26062,
+  "bytes": 27371,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -5315,17 +5331,17 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 0,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 2,
+  "print_key": 1,
+  "key_items": 2,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&q=IUPAC%20name%7Ccommon%20name%7Cbenzoic&n=9&title=Naming%20acids%20and%20esters"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002&n=6&title=Naming%20acids%20and%20esters"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&amp;q=IUPAC%20name%7Ccommon%20name%7Cbenzoic&amp;n=9&amp;title=Naming%20acids%20and%20esters"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&amp;ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002&amp;n=6&amp;title=Naming%20acids%20and%20esters"
   ],
   "headings": [
    [
@@ -5379,6 +5395,10 @@
    [
     3,
     "Acids you will meet by their common names"
+   ],
+   [
+    2,
+    "Answers to Exercises"
    ]
   ],
   "objectives_cor": [
@@ -5501,7 +5521,7 @@
  {
   "id": "597112",
   "title": "6.4: Chemical Properties of Carboxylic Acids- Ionization and Neutralization",
-  "bytes": 17225,
+  "bytes": 19538,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -5514,9 +5534,9 @@
   "rosa": 0,
   "in_the_lab": 1,
   "summary": 0,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 2,
+  "print_key": 1,
+  "key_items": 2,
   "videos": [],
   "widgets": [
    "https://itsdrdan.github.io/textbook/practice.html?rxn=neutralAcid&mode=mix&n=10&title=Neutralizing%20carboxylic%20acids"
@@ -5578,6 +5598,10 @@
    [
     3,
     "Carboxylates in the clinic"
+   ],
+   [
+    2,
+    "Answers to Exercises"
    ]
   ],
   "objectives_cor": [],
@@ -5593,7 +5617,7 @@
  {
   "id": "597113",
   "title": "6.5: Esters - Structures and Names",
-  "bytes": 25738,
+  "bytes": 27210,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -5606,17 +5630,17 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 0,
-  "details": 1,
+  "details": 3,
   "print_key": 1,
-  "key_items": 1,
+  "key_items": 3,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&q=ester%7Coate&n=10&title=Esters"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,acids_esters&ids=fb-3B-0006,fb-3B-0069,fb-3B-0077,fb-3B-0221,fb-3B-0373,fb-3B-0534,fb-3B-0571,fb-3B-0932&n=8&title=Esters"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&amp;q=ester%7Coate&amp;n=10&amp;title=Esters"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,acids_esters&amp;ids=fb-3B-0006,fb-3B-0069,fb-3B-0077,fb-3B-0221,fb-3B-0373,fb-3B-0534,fb-3B-0571,fb-3B-0932&amp;n=8&amp;title=Esters"
   ],
   "headings": [
    [
@@ -5753,7 +5777,7 @@
  {
   "id": "597115",
   "title": "6.7: Preparation of Esters",
-  "bytes": 14011,
+  "bytes": 14034,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -5824,7 +5848,7 @@
  {
   "id": "597116",
   "title": "6.8: Hydrolysis of Esters",
-  "bytes": 22975,
+  "bytes": 24733,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -5837,9 +5861,9 @@
   "rosa": 0,
   "in_the_lab": 1,
   "summary": 1,
-  "details": 1,
+  "details": 3,
   "print_key": 1,
-  "key_items": 1,
+  "key_items": 3,
   "videos": [
    "https://www.youtube.com/embed/vfSSUIcgzTY?rel=0",
    "https://www.youtube.com/embed/ALFE2tNIY5c?rel=0"
@@ -5977,7 +6001,7 @@
  {
   "id": "597118",
   "title": "6.10: Acid-base reactions",
-  "bytes": 17942,
+  "bytes": 18144,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -5998,12 +6022,12 @@
    "https://www.youtube.com/embed/T8Uxtqoi1-8?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&q=acidic%7Cioniz%7Csalt%7Ccarboxylate%7Cstrong%20acid%7Cweak%20acid&n=10&title=Acidity%20and%20carboxylate%20salts"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties,acids_esters&ids=fb-3B-0071,fb-3B-0072,fb-3B-0073,fb-3B-0078,fb-3B-0379,fb-3B-0629,fb-3B-0699,fb-3B-0700,fb-3B-0904,fb-3B-0909,fb-3B-2006,fb-3B-2007,fb-3B-2075,fb-3B-2077&n=10&title=Acidity%20and%20carboxylate%20salts"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&amp;q=acidic%7Cioniz%7Csalt%7Ccarboxylate%7Cstrong%20acid%7Cweak%20acid&amp;n=10&amp;title=Acidity%20and%20carboxylate%20salts"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties,acids_esters&amp;ids=fb-3B-0071,fb-3B-0072,fb-3B-0073,fb-3B-0078,fb-3B-0379,fb-3B-0629,fb-3B-0699,fb-3B-0700,fb-3B-0904,fb-3B-0909,fb-3B-2006,fb-3B-2007,fb-3B-2075,fb-3B-2077&amp;n=10&amp;title=Acidity%20and%20carboxylate%20salts"
   ],
   "headings": [
    [
@@ -6329,7 +6353,7 @@
  {
   "id": "597045",
   "title": "7: Amines and Amides",
-  "bytes": 5511,
+  "bytes": 5600,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -6339,7 +6363,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 4,
+  "rosa": 5,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -6366,7 +6390,7 @@
  {
   "id": "597121",
   "title": "7.1: Amines - Structures and Names",
-  "bytes": 25971,
+  "bytes": 30492,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -6379,17 +6403,17 @@
   "rosa": 0,
   "in_the_lab": 0,
   "summary": 1,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 6,
+  "print_key": 1,
+  "key_items": 6,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=amines&q=classif|primary|secondary|tertiary|quaternary|name|aniline&n=10&title=Classify%20and%20name%20amines"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,aromatic,amines&ids=fb-3B-0035,fb-3B-0079,fb-3B-0080,fb-3B-0081,fb-3B-0082,fb-3B-0252,fb-3B-0382,fb-3B-0383,fb-3B-0384,fb-3B-0407,fb-3B-0528,fb-3B-0532,fb-3B-0589,fb-3B-0590,fb-3B-0591,fb-3B-0592,fb-3B-0593,fb-3B-0594,fb-3B-0897,fb-3B-0933&n=10&title=Classify%20and%20name%20amines"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=amines&amp;q=classif|primary|secondary|tertiary|quaternary|name|aniline&amp;n=10&amp;title=Classify%20and%20name%20amines"
+   "https://itsdrdan.github.io/textbook/practice.html?t=structure,aromatic,amines&amp;ids=fb-3B-0035,fb-3B-0079,fb-3B-0080,fb-3B-0081,fb-3B-0082,fb-3B-0252,fb-3B-0382,fb-3B-0383,fb-3B-0384,fb-3B-0407,fb-3B-0528,fb-3B-0532,fb-3B-0589,fb-3B-0590,fb-3B-0591,fb-3B-0592,fb-3B-0593,fb-3B-0594,fb-3B-0897,fb-3B-0933&amp;n=10&amp;title=Classify%20and%20name%20amines"
   ],
   "headings": [
    [
@@ -6487,6 +6511,10 @@
    [
     3,
     "Aniline derivatives"
+   ],
+   [
+    2,
+    "Answers to Exercises"
    ]
   ],
   "objectives_cor": [
@@ -6503,7 +6531,7 @@
  {
   "id": "597122",
   "title": "7.2: Physical Properties of Amines",
-  "bytes": 16488,
+  "bytes": 16760,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -6521,12 +6549,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&n=10&title=Rank%20by%20boiling%20point%20and%20solubility"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties,amines&ids=fb-3B-0085,fb-3B-0222,fb-3B-0597,fb-3B-0598,fb-3B-0604,fb-3B-0606,fb-3B-0608,fb-3B-0609,fb-3B-0610,fb-3B-0623,fb-3B-0628&n=10&title=Rank%20by%20boiling%20point%20and%20solubility"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;n=10&amp;title=Rank%20by%20boiling%20point%20and%20solubility"
+   "https://itsdrdan.github.io/textbook/practice.html?t=properties,amines&amp;ids=fb-3B-0085,fb-3B-0222,fb-3B-0597,fb-3B-0598,fb-3B-0604,fb-3B-0606,fb-3B-0608,fb-3B-0609,fb-3B-0610,fb-3B-0623,fb-3B-0628&amp;n=10&amp;title=Rank%20by%20boiling%20point%20and%20solubility"
   ],
   "headings": [
    [
@@ -6564,7 +6592,7 @@
  {
   "id": "597123",
   "title": "7.3: Amines as Bases",
-  "bytes": 28085,
+  "bytes": 28923,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -6577,9 +6605,9 @@
   "rosa": 0,
   "in_the_lab": 1,
   "summary": 1,
-  "details": 1,
+  "details": 2,
   "print_key": 1,
-  "key_items": 1,
+  "key_items": 2,
   "videos": [
    "https://www.youtube.com/embed/T8Uxtqoi1-8?rel=0"
   ],
@@ -6787,7 +6815,7 @@
  {
   "id": "597126",
   "title": "7.6: Formation of Amides",
-  "bytes": 9002,
+  "bytes": 8995,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -6848,7 +6876,7 @@
  {
   "id": "597127",
   "title": "7.7: Chemical Properties of Amides- Hydrolysis",
-  "bytes": 15704,
+  "bytes": 17442,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -6861,9 +6889,9 @@
   "rosa": 0,
   "in_the_lab": 1,
   "summary": 0,
-  "details": 0,
-  "print_key": 0,
-  "key_items": 0,
+  "details": 1,
+  "print_key": 1,
+  "key_items": 1,
   "videos": [
    "https://www.youtube.com/embed/HU4KHyptdVA?rel=0"
   ],
@@ -6911,6 +6939,10 @@
    [
     3,
     "Amide drugs: the link decides the metabolism"
+   ],
+   [
+    2,
+    "Answers to Exercises"
    ]
   ],
   "objectives_cor": [
@@ -7092,7 +7124,7 @@
  {
   "id": "597131",
   "title": "7.11: Neurotransmitters",
-  "bytes": 31309,
+  "bytes": 31731,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 1,
@@ -7171,7 +7203,7 @@
  {
   "id": "597132",
   "title": "7.12: Chapter Guide - Amines and Amides",
-  "bytes": 38350,
+  "bytes": 38522,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -7447,7 +7479,7 @@
  {
   "id": "597046",
   "title": "8: Carbohydrates",
-  "bytes": 5972,
+  "bytes": 6034,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -7457,7 +7489,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 3,
+  "rosa": 4,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -7555,7 +7587,7 @@
  {
   "id": "597135",
   "title": "8.2: Classes of Monosaccharides",
-  "bytes": 27994,
+  "bytes": 28226,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -7575,12 +7607,12 @@
    "https://www.youtube.com/embed/417CUTR3H1E?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&q=aldo|keto|fischer|chiral|enantiomer|epimer|diastereomer|D-|L-&n=10&title=Classify%20sugars"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0090,fb-3B-0100,fb-3B-0257,fb-3B-0261,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0727,fb-3B-0728,fb-3B-0935,fb-3B-0941&n=10&title=Classify%20sugars"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=aldo|keto|fischer|chiral|enantiomer|epimer|diastereomer|D-|L-&amp;n=10&amp;title=Classify%20sugars"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0090,fb-3B-0100,fb-3B-0257,fb-3B-0261,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0727,fb-3B-0728,fb-3B-0935,fb-3B-0941&amp;n=10&amp;title=Classify%20sugars"
   ],
   "headings": [
    [
@@ -7644,7 +7676,7 @@
  {
   "id": "597136",
   "title": "8.3: Important Hexoses",
-  "bytes": 21447,
+  "bytes": 21481,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -7719,7 +7751,7 @@
  {
   "id": "597137",
   "title": "8.4: Cyclic Structures of Monosaccharides",
-  "bytes": 27632,
+  "bytes": 28826,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -7740,14 +7772,14 @@
    "https://www.youtube.com/embed/xMjXa2mliZA?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&q=haworth|anomer|fischer|chiral|hemiacetal|classif|aldo|keto&n=10&title=Sugar+structures&game=carbs",
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&q=haworth|anomer|mutarot|pyranose|furanose|hemiacetal&n=10&title=Haworth%20rings%20and%20anomers"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,fb-3B-0101,fb-3B-0102,fb-3B-0257,fb-3B-0258,fb-3B-0261,fb-3B-0262,fb-3B-0415,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0420,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0724,fb-3B-0725,fb-3B-0726,fb-3B-0727,fb-3B-0728,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0935,fb-3B-0941,fb-3B-0943&n=10&title=Sugar+structures&game=carbs",
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0091,fb-3B-0092,fb-3B-0101,fb-3B-0102,fb-3B-0258,fb-3B-0262,fb-3B-0420,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0943&n=10&title=Haworth%20rings%20and%20anomers"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=haworth|anomer|fischer|chiral|hemiacetal|classif|aldo|keto&amp;n=10&amp;title=Sugar+structures&amp;game=carbs",
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=haworth|anomer|mutarot|pyranose|furanose|hemiacetal&amp;n=10&amp;title=Haworth%20rings%20and%20anomers"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,fb-3B-0101,fb-3B-0102,fb-3B-0257,fb-3B-0258,fb-3B-0261,fb-3B-0262,fb-3B-0415,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0420,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0724,fb-3B-0725,fb-3B-0726,fb-3B-0727,fb-3B-0728,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0935,fb-3B-0941,fb-3B-0943&amp;n=10&amp;title=Sugar+structures&amp;game=carbs",
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0091,fb-3B-0092,fb-3B-0101,fb-3B-0102,fb-3B-0258,fb-3B-0262,fb-3B-0420,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0943&amp;n=10&amp;title=Haworth%20rings%20and%20anomers"
   ],
   "headings": [
    [
@@ -7791,7 +7823,7 @@
  {
   "id": "597138",
   "title": "8.5: Properties of Monosaccharides",
-  "bytes": 21644,
+  "bytes": 21763,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -7811,12 +7843,12 @@
    "https://www.youtube.com/embed/pwyW-X99GI8?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&q=reduc|benedict|oxid|sorbitol|xylitol|alditol|aldonic|uronic|aldaric&n=10&title=Sugar%20redox"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbonyls,carbs&ids=fb-3B-0055,fb-3B-0185,fb-3B-0422,fb-3B-2081,fb-3B-2082,fb-3B-2083&n=6&title=Sugar%20redox"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=reduc|benedict|oxid|sorbitol|xylitol|alditol|aldonic|uronic|aldaric&amp;n=10&amp;title=Sugar%20redox"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbonyls,carbs&amp;ids=fb-3B-0055,fb-3B-0185,fb-3B-0422,fb-3B-2081,fb-3B-2082,fb-3B-2083&amp;n=6&amp;title=Sugar%20redox"
   ],
   "headings": [
    [
@@ -7861,7 +7893,7 @@
  {
   "id": "597139",
   "title": "8.6: Disaccharides",
-  "bytes": 38440,
+  "bytes": 38778,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -7881,12 +7913,12 @@
    "https://www.youtube.com/embed/ALFE2tNIY5c?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&q=disacch|maltose|lactose|sucrose|glycosidic|condensation|hydroly&n=10&title=Disaccharides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0094,fb-3B-0095,fb-3B-0096,fb-3B-0097,fb-3B-0184,fb-3B-0259,fb-3B-0260,fb-3B-0344,fb-3B-0421,fb-3B-0423,fb-3B-0424,fb-3B-0426,fb-3B-0737,fb-3B-0738,fb-3B-0739,fb-3B-0741,fb-3B-0742,fb-3B-0743,fb-3B-0980,fb-3B-2115,fb-3B-2116&n=10&title=Disaccharides"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=disacch|maltose|lactose|sucrose|glycosidic|condensation|hydroly&amp;n=10&amp;title=Disaccharides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0094,fb-3B-0095,fb-3B-0096,fb-3B-0097,fb-3B-0184,fb-3B-0259,fb-3B-0260,fb-3B-0344,fb-3B-0421,fb-3B-0423,fb-3B-0424,fb-3B-0426,fb-3B-0737,fb-3B-0738,fb-3B-0739,fb-3B-0741,fb-3B-0742,fb-3B-0743,fb-3B-0980,fb-3B-2115,fb-3B-2116&amp;n=10&amp;title=Disaccharides"
   ],
   "headings": [
    [
@@ -7958,7 +7990,7 @@
  {
   "id": "597140",
   "title": "8.7: Polysaccharides",
-  "bytes": 22661,
+  "bytes": 22727,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -7976,12 +8008,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&q=starch|glycogen|cellulose|amylose|amylopectin|polysacch&n=10&title=Polysaccharides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0098,fb-3B-0099,fb-3B-0183,fb-3B-0263,fb-3B-0425,fb-3B-0740,fb-3B-0937,fb-3B-0944&n=8&title=Polysaccharides"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=starch|glycogen|cellulose|amylose|amylopectin|polysacch&amp;n=10&amp;title=Polysaccharides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0098,fb-3B-0099,fb-3B-0183,fb-3B-0263,fb-3B-0425,fb-3B-0740,fb-3B-0937,fb-3B-0944&amp;n=8&amp;title=Polysaccharides"
   ],
   "headings": [
    [
@@ -8240,7 +8272,7 @@
  {
   "id": "597238",
   "title": "8.10: Practice Games",
-  "bytes": 5764,
+  "bytes": 6486,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -8262,7 +8294,7 @@
    "https://itsdrdan.github.io/stereochemistry/?topic=dl,fischrel,mirror",
    "https://itsdrdan.github.io/IMF/?course=3B",
    "https://itsdrdan.github.io/finalexam/?course=3B",
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&q=haworth|anomer|fischer|chiral|hemiacetal|classif|aldo|keto&n=10&title=Sugar+structures&game=carbs",
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,fb-3B-0101,fb-3B-0102,fb-3B-0257,fb-3B-0258,fb-3B-0261,fb-3B-0262,fb-3B-0415,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0420,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0724,fb-3B-0725,fb-3B-0726,fb-3B-0727,fb-3B-0728,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0935,fb-3B-0941,fb-3B-0943&n=10&title=Sugar+structures&game=carbs",
    "https://itsdrdan.github.io/textbook/practice.html?t=carbs&n=14&title=Carbohydrates&game=carbs"
   ],
   "other_iframes": [],
@@ -8273,8 +8305,8 @@
    "https://itsdrdan.github.io/finalexam/?course=3B",
    "https://itsdrdan.github.io/games/",
    "https://itsdrdan.github.io/stereochemistry/?topic=dl,fischrel,mirror",
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;n=14&amp;title=Carbohydrates&amp;game=carbs",
-   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=haworth|anomer|fischer|chiral|hemiacetal|classif|aldo|keto&amp;n=10&amp;title=Sugar+structures&amp;game=carbs"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,fb-3B-0101,fb-3B-0102,fb-3B-0257,fb-3B-0258,fb-3B-0261,fb-3B-0262,fb-3B-0415,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0420,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0724,fb-3B-0725,fb-3B-0726,fb-3B-0727,fb-3B-0728,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0935,fb-3B-0941,fb-3B-0943&amp;n=10&amp;title=Sugar+structures&amp;game=carbs",
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;n=14&amp;title=Carbohydrates&amp;game=carbs"
   ],
   "headings": [
    [
@@ -8308,7 +8340,7 @@
  {
   "id": "597047",
   "title": "9: Lipids",
-  "bytes": 5978,
+  "bytes": 6040,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -8318,7 +8350,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 5,
+  "rosa": 6,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -8347,7 +8379,7 @@
  {
   "id": "597144",
   "title": "9.1: Fatty Acids",
-  "bytes": 39688,
+  "bytes": 40041,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -8365,12 +8397,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=fatty%20acid|saturated|omega|melting|cis|trans|essential|prostaglandin|eicosanoid|wax&n=10&title=Fatty%20acids"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0103,fb-3B-0104,fb-3B-0187,fb-3B-0267,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0434,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0762,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0858,fb-3B-0945,fb-3B-0946&n=10&title=Fatty%20acids"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=fatty%20acid|saturated|omega|melting|cis|trans|essential|prostaglandin|eicosanoid|wax&amp;n=10&amp;title=Fatty%20acids"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0103,fb-3B-0104,fb-3B-0187,fb-3B-0267,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0434,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0762,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0858,fb-3B-0945,fb-3B-0946&amp;n=10&amp;title=Fatty%20acids"
   ],
   "headings": [
    [
@@ -8422,7 +8454,7 @@
  {
   "id": "597145",
   "title": "9.2: Fats and Oils",
-  "bytes": 56696,
+  "bytes": 57676,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -8445,14 +8477,14 @@
    "https://www.youtube.com/embed/M7VkdbGkPXY?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=fatty+acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega&n=10&title=Fatty+acids+and+triacylglycerols&game=lipidlab",
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=triacyl|triglycer|glycerol|hydrogenation|saponif|soap|lipase|fat|oil&n=10&title=Triacylglycerol%20reactions"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0187,fb-3B-0188,fb-3B-0265,fb-3B-0267,fb-3B-0270,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0430,fb-3B-0431,fb-3B-0434,fb-3B-0435,fb-3B-0437,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0761,fb-3B-0762,fb-3B-0763,fb-3B-0764,fb-3B-0765,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0853,fb-3B-0854,fb-3B-0858,fb-3B-0860,fb-3B-0945,fb-3B-0946,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&n=10&title=Fatty+acids+and+triacylglycerols&game=lipidlab",
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0270,fb-3B-0430,fb-3B-0431,fb-3B-0435,fb-3B-0437,fb-3B-0762,fb-3B-0763,fb-3B-0765,fb-3B-0853,fb-3B-0854,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&n=10&title=Triacylglycerol%20reactions"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=fatty+acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab",
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=triacyl|triglycer|glycerol|hydrogenation|saponif|soap|lipase|fat|oil&amp;n=10&amp;title=Triacylglycerol%20reactions"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0187,fb-3B-0188,fb-3B-0265,fb-3B-0267,fb-3B-0270,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0430,fb-3B-0431,fb-3B-0434,fb-3B-0435,fb-3B-0437,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0761,fb-3B-0762,fb-3B-0763,fb-3B-0764,fb-3B-0765,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0853,fb-3B-0854,fb-3B-0858,fb-3B-0860,fb-3B-0945,fb-3B-0946,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab",
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0270,fb-3B-0430,fb-3B-0431,fb-3B-0435,fb-3B-0437,fb-3B-0762,fb-3B-0763,fb-3B-0765,fb-3B-0853,fb-3B-0854,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&amp;n=10&amp;title=Triacylglycerol%20reactions"
   ],
   "headings": [
    [
@@ -8516,7 +8548,7 @@
  {
   "id": "597146",
   "title": "9.3: Glycerophospholipids",
-  "bytes": 26162,
+  "bytes": 26318,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -8646,7 +8678,7 @@
  {
   "id": "597148",
   "title": "9.5: Membranes and Membrane Lipids",
-  "bytes": 21703,
+  "bytes": 21880,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -8666,12 +8698,12 @@
    "https://www.youtube.com/embed/Ptmlvtei8hw?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=membrane|bilayer|transport|diffusion|phospholipid|sphingo&n=10&title=Membranes%20and%20transport"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0109,fb-3B-0110,fb-3B-0112,fb-3B-0189,fb-3B-0271,fb-3B-0272,fb-3B-0432,fb-3B-0436,fb-3B-0855,fb-3B-0856,fb-3B-0949,fb-3B-0950&n=10&title=Membranes%20and%20transport"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=membrane|bilayer|transport|diffusion|phospholipid|sphingo&amp;n=10&amp;title=Membranes%20and%20transport"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0109,fb-3B-0110,fb-3B-0112,fb-3B-0189,fb-3B-0271,fb-3B-0272,fb-3B-0432,fb-3B-0436,fb-3B-0855,fb-3B-0856,fb-3B-0949,fb-3B-0950&amp;n=10&amp;title=Membranes%20and%20transport"
   ],
   "headings": [
    [
@@ -8711,7 +8743,7 @@
  {
   "id": "597149",
   "title": "9.6: Steroids",
-  "bytes": 34249,
+  "bytes": 34588,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -8721,7 +8753,7 @@
   "imgs_no_alt": 0,
   "tables": 4,
   "valley": 0,
-  "rosa": 2,
+  "rosa": 3,
   "in_the_lab": 0,
   "summary": 1,
   "details": 0,
@@ -8729,12 +8761,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=steroid|cholesterol|bile|hormone|vitamin|hydrolyzable|classif|family&n=10&title=Steroids%20and%20lipid%20classes"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0111,fb-3B-0186,fb-3B-0190,fb-3B-0268,fb-3B-0432,fb-3B-0433,fb-3B-0436,fb-3B-0766,fb-3B-0767,fb-3B-0857,fb-3B-0859,fb-3B-0861,fb-3B-0939,fb-3B-0947,fb-3B-2118,fb-3B-2119,fb-3B-2121&n=10&title=Steroids%20and%20lipid%20classes"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=steroid|cholesterol|bile|hormone|vitamin|hydrolyzable|classif|family&amp;n=10&amp;title=Steroids%20and%20lipid%20classes"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0111,fb-3B-0186,fb-3B-0190,fb-3B-0268,fb-3B-0432,fb-3B-0433,fb-3B-0436,fb-3B-0766,fb-3B-0767,fb-3B-0857,fb-3B-0859,fb-3B-0861,fb-3B-0939,fb-3B-0947,fb-3B-2118,fb-3B-2119,fb-3B-2121&amp;n=10&amp;title=Steroids%20and%20lipid%20classes"
   ],
   "headings": [
    [
@@ -8794,7 +8826,7 @@
  {
   "id": "597150",
   "title": "9.7: Chapter Guide - Lipids",
-  "bytes": 29966,
+  "bytes": 30198,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -8812,14 +8844,14 @@
   "key_items": 11,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&n=14&title=Lipids&game=lipidlab"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20triacyl%7CGram%20for%20gram%2C%20fat%20stores%20pr%29%29&n=14&title=Lipids&game=lipidlab"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/textbook/figures/conceptmaps/ch09.svg?v=20261113",
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;n=14&amp;title=Lipids&amp;game=lipidlab"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20triacyl%7CGram%20for%20gram%2C%20fat%20stores%20pr%29%29&amp;n=14&amp;title=Lipids&amp;game=lipidlab"
   ],
   "headings": [
    [
@@ -9002,7 +9034,7 @@
  {
   "id": "597239",
   "title": "9.9: Practice Games",
-  "bytes": 6032,
+  "bytes": 7004,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -9024,8 +9056,8 @@
    "https://itsdrdan.github.io/IMF/?course=3B",
    "https://itsdrdan.github.io/finalexam/?course=3B",
    "https://itsdrdan.github.io/games/3b.html",
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=fatty+acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega&n=10&title=Fatty+acids+and+triacylglycerols&game=lipidlab",
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&n=14&title=Lipids&game=lipidlab"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0187,fb-3B-0188,fb-3B-0265,fb-3B-0267,fb-3B-0270,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0430,fb-3B-0431,fb-3B-0434,fb-3B-0435,fb-3B-0437,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0761,fb-3B-0762,fb-3B-0763,fb-3B-0764,fb-3B-0765,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0853,fb-3B-0854,fb-3B-0858,fb-3B-0860,fb-3B-0945,fb-3B-0946,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&n=10&title=Fatty+acids+and+triacylglycerols&game=lipidlab",
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20triacyl%7CGram%20for%20gram%2C%20fat%20stores%20pr%29%29&n=14&title=Lipids&game=lipidlab"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -9036,8 +9068,8 @@
    "https://itsdrdan.github.io/games/",
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/lipids/",
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;n=14&amp;title=Lipids&amp;game=lipidlab",
-   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=fatty+acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0187,fb-3B-0188,fb-3B-0265,fb-3B-0267,fb-3B-0270,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0430,fb-3B-0431,fb-3B-0434,fb-3B-0435,fb-3B-0437,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0761,fb-3B-0762,fb-3B-0763,fb-3B-0764,fb-3B-0765,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0853,fb-3B-0854,fb-3B-0858,fb-3B-0860,fb-3B-0945,fb-3B-0946,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab",
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20triacyl%7CGram%20for%20gram%2C%20fat%20stores%20pr%29%29&amp;n=14&amp;title=Lipids&amp;game=lipidlab"
   ],
   "headings": [
    [
@@ -9071,7 +9103,7 @@
  {
   "id": "597048",
   "title": "10: Amino Acids and Proteins",
-  "bytes": 6424,
+  "bytes": 6486,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -9081,7 +9113,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 4,
+  "rosa": 5,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -9110,7 +9142,7 @@
  {
   "id": "597154",
   "title": "10.1: Properties of Amino Acids",
-  "bytes": 41487,
+  "bytes": 41612,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -9128,12 +9160,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&q=amino%20acid%7CR%20group%7Cside%20chain%7Cnonpolar%7Cpolar%7Cessential%7Cabbrev&n=10&title=Classify%20the%20side%20chain"
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&ids=fb-3B-0115,fb-3B-0279,fb-3B-0439,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750&n=9&title=Classify%20the%20side%20chain"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=amino%20acid%7CR%20group%7Cside%20chain%7Cnonpolar%7Cpolar%7Cessential%7Cabbrev&amp;n=10&amp;title=Classify%20the%20side%20chain"
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0279,fb-3B-0439,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750&amp;n=9&amp;title=Classify%20the%20side%20chain"
   ],
   "headings": [
    [
@@ -9188,7 +9220,7 @@
  {
   "id": "597155",
   "title": "10.2: Acid-Base Properties of Amino Acids",
-  "bytes": 24285,
+  "bytes": 25257,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -9208,14 +9240,14 @@
    "https://www.youtube.com/embed/Y_bXmJDoANI?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&q=amino+acid|R+group|side+chain|zwitter|isoelectric|pI|nonpolar|polar&n=10&title=Amino+acids+and+charge&game=peptides",
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&q=zwitter%7Cisoelectric%7CpI%7Ccharge%7Cprotonat%7CpH&n=10&title=Amino%20acids%20and%20charge"
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-0192,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0279,fb-3B-0438,fb-3B-0439,fb-3B-0446,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0936,fb-3B-0952,fb-3B-2090,fb-3B-2092,fb-3B-2093&n=10&title=Amino+acids+and+charge&game=peptides",
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&ids=fb-3B-0116,fb-3B-0117,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0438,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0952&n=10&title=Amino%20acids%20and%20charge"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=amino+acid|R+group|side+chain|zwitter|isoelectric|pI|nonpolar|polar&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides",
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=zwitter%7Cisoelectric%7CpI%7Ccharge%7Cprotonat%7CpH&amp;n=10&amp;title=Amino%20acids%20and%20charge"
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-0192,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0279,fb-3B-0438,fb-3B-0439,fb-3B-0446,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0936,fb-3B-0952,fb-3B-2090,fb-3B-2092,fb-3B-2093&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides",
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0116,fb-3B-0117,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0438,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0952&amp;n=10&amp;title=Amino%20acids%20and%20charge"
   ],
   "headings": [
    [
@@ -9394,7 +9426,7 @@
  {
   "id": "597158",
   "title": "10.5: Proteins",
-  "bytes": 32830,
+  "bytes": 32992,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -9461,7 +9493,7 @@
  {
   "id": "597159",
   "title": "10.6: Primary structure of proteins",
-  "bytes": 25073,
+  "bytes": 25010,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -9691,7 +9723,7 @@
  {
   "id": "597162",
   "title": "10.9: Quaternary structure of proteins",
-  "bytes": 9240,
+  "bytes": 9242,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -9746,7 +9778,7 @@
  {
   "id": "597163",
   "title": "10.10: Protein misfolding and denaturation",
-  "bytes": 23012,
+  "bytes": 23150,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -9825,7 +9857,7 @@
  {
   "id": "597164",
   "title": "10.11: Chapter Guide - Amino Acids and Proteins",
-  "bytes": 25758,
+  "bytes": 25880,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -9843,14 +9875,14 @@
   "key_items": 11,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&n=14&title=Amino+acids+and+proteins&game=peptides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29&n=14&title=Amino+acids+and+proteins&game=peptides"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/textbook/figures/conceptmaps/ch10.svg?v=20261113",
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides"
   ],
   "headings": [
    [
@@ -10017,7 +10049,7 @@
  {
   "id": "597240",
   "title": "10.13: Practice Games",
-  "bytes": 7012,
+  "bytes": 7816,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -10040,8 +10072,8 @@
    "https://itsdrdan.github.io/pHcharge/?topic=aa74,pi,aaform,peptide",
    "https://itsdrdan.github.io/IMF/?course=3B",
    "https://itsdrdan.github.io/finalexam/?course=3B",
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&q=amino+acid|R+group|side+chain|zwitter|isoelectric|pI|nonpolar|polar&n=10&title=Amino+acids+and+charge&game=peptides",
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&n=14&title=Amino+acids+and+proteins&game=peptides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-0192,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0279,fb-3B-0438,fb-3B-0439,fb-3B-0446,fb-3B-0448,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0757,fb-3B-0863,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0936,fb-3B-0952,fb-3B-2090,fb-3B-2092,fb-3B-2093,fb-3B-2106,fb-3B-2107,fb-3B-2108&n=10&title=Amino+acids+and+charge&game=peptides",
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29&n=14&title=Amino+acids+and+proteins&game=peptides"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -10053,8 +10085,8 @@
    "https://itsdrdan.github.io/games/",
    "https://itsdrdan.github.io/pHcharge/?topic=aa74,pi,aaform,peptide",
    "https://itsdrdan.github.io/stereochemistry/?topic=aa",
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides",
-   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=amino+acid|R+group|side+chain|zwitter|isoelectric|pI|nonpolar|polar&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides"
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-0192,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0279,fb-3B-0438,fb-3B-0439,fb-3B-0446,fb-3B-0448,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0757,fb-3B-0863,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0936,fb-3B-0952,fb-3B-2090,fb-3B-2092,fb-3B-2093,fb-3B-2106,fb-3B-2107,fb-3B-2108&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides",
+   "https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides"
   ],
   "headings": [
    [
@@ -10092,7 +10124,7 @@
  {
   "id": "597049",
   "title": "11: Enzymes and Vitamins",
-  "bytes": 6246,
+  "bytes": 6364,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -10102,7 +10134,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 4,
+  "rosa": 5,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -10195,7 +10227,7 @@
  {
   "id": "597167",
   "title": "11.2: Enzyme Action",
-  "bytes": 16865,
+  "bytes": 16867,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -10270,7 +10302,7 @@
  {
   "id": "597168",
   "title": "11.3: Enzyme Activity",
-  "bytes": 22103,
+  "bytes": 22104,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -10345,7 +10377,7 @@
  {
   "id": "597169",
   "title": "11.4: Enzyme Inhibition",
-  "bytes": 28647,
+  "bytes": 29452,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -10365,12 +10397,12 @@
    "https://www.youtube.com/embed/6EDBlowVST0?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&q=inhibit%7Cactive%20site%7Csubstrate%7Cactivation%20energy%7Cdenatur%7Coptimum%7Crate%7Ctemperature%7CpH&n=10&title=Enzyme%20activity%20and%20inhibition"
+   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-0135,fb-3B-0136,fb-3B-0197,fb-3B-0198,fb-3B-0199,fb-3B-0284,fb-3B-0285,fb-3B-0453,fb-3B-0454,fb-3B-0455,fb-3B-0824,fb-3B-0825,fb-3B-0826,fb-3B-0827,fb-3B-0828,fb-3B-0829,fb-3B-0830,fb-3B-0837,fb-3B-0874,fb-3B-0875,fb-3B-0879,fb-3B-0880,fb-3B-0882,fb-3B-0883,fb-3B-0884,fb-3B-0886,fb-3B-0887,fb-3B-0888,fb-3B-0889,fb-3B-0890,fb-3B-0891,fb-3B-0892,fb-3B-0893,fb-3B-0895,fb-3B-0983,fb-3B-2109,fb-3B-2122&n=10&title=Enzyme%20activity%20and%20inhibition"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=inhibit%7Cactive%20site%7Csubstrate%7Cactivation%20energy%7Cdenatur%7Coptimum%7Crate%7Ctemperature%7CpH&amp;n=10&amp;title=Enzyme%20activity%20and%20inhibition"
+   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-0135,fb-3B-0136,fb-3B-0197,fb-3B-0198,fb-3B-0199,fb-3B-0284,fb-3B-0285,fb-3B-0453,fb-3B-0454,fb-3B-0455,fb-3B-0824,fb-3B-0825,fb-3B-0826,fb-3B-0827,fb-3B-0828,fb-3B-0829,fb-3B-0830,fb-3B-0837,fb-3B-0874,fb-3B-0875,fb-3B-0879,fb-3B-0880,fb-3B-0882,fb-3B-0883,fb-3B-0884,fb-3B-0886,fb-3B-0887,fb-3B-0888,fb-3B-0889,fb-3B-0890,fb-3B-0891,fb-3B-0892,fb-3B-0893,fb-3B-0895,fb-3B-0983,fb-3B-2109,fb-3B-2122&amp;n=10&amp;title=Enzyme%20activity%20and%20inhibition"
   ],
   "headings": [
    [
@@ -10634,7 +10666,7 @@
  {
   "id": "597173",
   "title": "11.8: Chapter Guide - Enzymes and Vitamins",
-  "bytes": 27801,
+  "bytes": 27929,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -10652,14 +10684,14 @@
   "key_items": 10,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&n=14&title=Enzymes+and+vitamins&game=enzyme"
+   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%29&n=14&title=Enzymes+and+vitamins&game=enzyme"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/textbook/figures/conceptmaps/ch11.svg?v=20261113",
-   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme"
+   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%29&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme"
   ],
   "headings": [
    [
@@ -10822,7 +10854,7 @@
  {
   "id": "597241",
   "title": "11.10: Practice Games",
-  "bytes": 4788,
+  "bytes": 5654,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -10843,8 +10875,8 @@
    "https://itsdrdan.github.io/enzymes/",
    "https://itsdrdan.github.io/finalexam/?course=3B",
    "https://itsdrdan.github.io/games/3b.html",
-   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&q=inhibit|active+site|substrate|activation+energy|denatur|optimum|rate|temperature|pH&n=10&title=Enzyme+activity+and+inhibition&game=enzyme",
-   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&n=14&title=Enzymes+and+vitamins&game=enzyme"
+   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-0135,fb-3B-0136,fb-3B-0197,fb-3B-0198,fb-3B-0199,fb-3B-0284,fb-3B-0285,fb-3B-0453,fb-3B-0454,fb-3B-0455,fb-3B-0824,fb-3B-0825,fb-3B-0826,fb-3B-0827,fb-3B-0828,fb-3B-0829,fb-3B-0830,fb-3B-0837,fb-3B-0874,fb-3B-0875,fb-3B-0879,fb-3B-0880,fb-3B-0882,fb-3B-0883,fb-3B-0884,fb-3B-0886,fb-3B-0887,fb-3B-0888,fb-3B-0889,fb-3B-0890,fb-3B-0891,fb-3B-0892,fb-3B-0893,fb-3B-0895,fb-3B-0983,fb-3B-2109,fb-3B-2122&n=10&title=Enzyme+activity+and+inhibition&game=enzyme",
+   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%29&n=14&title=Enzymes+and+vitamins&game=enzyme"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -10853,8 +10885,8 @@
    "https://itsdrdan.github.io/finalexam/?course=3B",
    "https://itsdrdan.github.io/games/",
    "https://itsdrdan.github.io/games/3b.html",
-   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme",
-   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=inhibit|active+site|substrate|activation+energy|denatur|optimum|rate|temperature|pH&amp;n=10&amp;title=Enzyme+activity+and+inhibition&amp;game=enzyme"
+   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-0135,fb-3B-0136,fb-3B-0197,fb-3B-0198,fb-3B-0199,fb-3B-0284,fb-3B-0285,fb-3B-0453,fb-3B-0454,fb-3B-0455,fb-3B-0824,fb-3B-0825,fb-3B-0826,fb-3B-0827,fb-3B-0828,fb-3B-0829,fb-3B-0830,fb-3B-0837,fb-3B-0874,fb-3B-0875,fb-3B-0879,fb-3B-0880,fb-3B-0882,fb-3B-0883,fb-3B-0884,fb-3B-0886,fb-3B-0887,fb-3B-0888,fb-3B-0889,fb-3B-0890,fb-3B-0891,fb-3B-0892,fb-3B-0893,fb-3B-0895,fb-3B-0983,fb-3B-2109,fb-3B-2122&amp;n=10&amp;title=Enzyme+activity+and+inhibition&amp;game=enzyme",
+   "https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%29&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme"
   ],
   "headings": [
    [
@@ -10884,7 +10916,7 @@
  {
   "id": "597050",
   "title": "12: Nucleic Acids and Protein Synthesis",
-  "bytes": 5953,
+  "bytes": 6071,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -10894,7 +10926,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 4,
+  "rosa": 5,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -10984,7 +11016,7 @@
  {
   "id": "597176",
   "title": "12.2: Nucleic Acid Structure",
-  "bytes": 30901,
+  "bytes": 31363,
   "objectives": 0,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -11002,12 +11034,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&q=DNA|base+pair|nucleotide|purine|pyrimidine|replication|double+helix|complement&n=10&title=DNA+structure+and+replication&game=helix"
+   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0287,fb-3B-0288,fb-3B-0325,fb-3B-0326,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960&n=10&title=DNA+structure+and+replication&game=helix"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;q=DNA|base+pair|nucleotide|purine|pyrimidine|replication|double+helix|complement&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix"
+   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0287,fb-3B-0288,fb-3B-0325,fb-3B-0326,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix"
   ],
   "headings": [
    [
@@ -11170,7 +11202,7 @@
  {
   "id": "597178",
   "title": "12.4: Ribonucleic acid (RNA) and transcription",
-  "bytes": 21958,
+  "bytes": 21895,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -11338,7 +11370,7 @@
  {
   "id": "597179",
   "title": "12.6: Protein Synthesis and the Genetic Code",
-  "bytes": 26443,
+  "bytes": 26547,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -11486,7 +11518,7 @@
  {
   "id": "597181",
   "title": "12.8: Viruses",
-  "bytes": 15665,
+  "bytes": 15644,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -11547,7 +11579,7 @@
  {
   "id": "597182",
   "title": "12.9: Genetic engineering",
-  "bytes": 23637,
+  "bytes": 23643,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -11837,7 +11869,7 @@
  {
   "id": "597242",
   "title": "12.12: Practice Games",
-  "bytes": 5808,
+  "bytes": 6380,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -11859,7 +11891,7 @@
    "https://itsdrdan.github.io/aminoacids/",
    "https://itsdrdan.github.io/IMF/?course=3B",
    "https://itsdrdan.github.io/finalexam/?course=3B",
-   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&q=DNA|base+pair|nucleotide|purine|pyrimidine|replication|double+helix|complement&n=10&title=DNA+structure+and+replication&game=helix",
+   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0145,fb-3B-0204,fb-3B-0287,fb-3B-0288,fb-3B-0290,fb-3B-0325,fb-3B-0326,fb-3B-0334,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960,fb-3B-0962&n=10&title=DNA+structure+and+replication&game=helix",
    "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&q=codon|translation|transcription|mRNA|tRNA|ribosome|mutation|genetic+code&n=10&title=From+gene+to+protein&game=helix"
   ],
   "other_iframes": [],
@@ -11870,7 +11902,7 @@
    "https://itsdrdan.github.io/finalexam/?course=3B",
    "https://itsdrdan.github.io/games/",
    "https://itsdrdan.github.io/nucleicacids/",
-   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;q=DNA|base+pair|nucleotide|purine|pyrimidine|replication|double+helix|complement&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix",
+   "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0145,fb-3B-0204,fb-3B-0287,fb-3B-0288,fb-3B-0290,fb-3B-0325,fb-3B-0326,fb-3B-0334,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960,fb-3B-0962&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix",
    "https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;q=codon|translation|transcription|mRNA|tRNA|ribosome|mutation|genetic+code&amp;n=10&amp;title=From+gene+to+protein&amp;game=helix"
   ],
   "headings": [
@@ -11905,7 +11937,7 @@
  {
   "id": "597051",
   "title": "13: Carbohydrate Metabolism",
-  "bytes": 6153,
+  "bytes": 6271,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -11915,7 +11947,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 5,
+  "rosa": 6,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -11944,7 +11976,7 @@
  {
   "id": "597188",
   "title": "13.1: Basics of metabolism",
-  "bytes": 45638,
+  "bytes": 45788,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -11962,12 +11994,12 @@
   "key_items": 1,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=coenzyme%7CNAD%7CFAD%7Ccatabol%7Canabol%7CStage&n=10&title=Stages%20and%20Coenzymes"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0468,fb-3B-0470,fb-3B-0473,fb-3B-0940,fb-3B-0967,fb-3B-0972,fb-3B-2038&n=10&title=Stages%20and%20Coenzymes"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=coenzyme%7CNAD%7CFAD%7Ccatabol%7Canabol%7CStage&amp;n=10&amp;title=Stages%20and%20Coenzymes"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0468,fb-3B-0470,fb-3B-0473,fb-3B-0940,fb-3B-0967,fb-3B-0972,fb-3B-2038&amp;n=10&amp;title=Stages%20and%20Coenzymes"
   ],
   "headings": [
    [
@@ -12085,7 +12117,7 @@
  {
   "id": "597189",
   "title": "13.2: ATP- the Universal Energy Currency",
-  "bytes": 18685,
+  "bytes": 18748,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -12140,7 +12172,7 @@
  {
   "id": "597191",
   "title": "13.3: Digestion (Stage I of Catabolism)",
-  "bytes": 16922,
+  "bytes": 17012,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -12160,12 +12192,12 @@
    "https://www.youtube.com/embed/1UvuBYUbFk0?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=digest%7Camylase%7Clactase%7Csucrase%7Cstomach%7Cmouth%7Cbile&n=7&title=Digestion"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs,metabolism&ids=fb-3B-0095,fb-3B-0152,fb-3B-0176,fb-3B-0307,fb-3B-0344,fb-3B-0425,fb-3B-1005,fb-3B-2026,fb-3B-2027&n=7&title=Digestion"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=digest%7Camylase%7Clactase%7Csucrase%7Cstomach%7Cmouth%7Cbile&amp;n=7&amp;title=Digestion"
+   "https://itsdrdan.github.io/textbook/practice.html?t=carbs,metabolism&amp;ids=fb-3B-0095,fb-3B-0152,fb-3B-0176,fb-3B-0307,fb-3B-0344,fb-3B-0425,fb-3B-1005,fb-3B-2026,fb-3B-2027&amp;n=7&amp;title=Digestion"
   ],
   "headings": [
    [
@@ -12214,7 +12246,7 @@
  {
   "id": "597192",
   "title": "13.4: Stage II of Carbohydrate Catabolism",
-  "bytes": 32510,
+  "bytes": 33170,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -12234,14 +12266,14 @@
    "https://www.youtube.com/embed/78YEo1BlhuM?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=glycoly|pyruvate|lactate|acetyl+CoA|NAD|ATP|cori|fermentation&n=10&title=Glycolysis+and+pyruvate&game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=pyruvate%7Clactate%7Canaerobic%7Caerobic%7Cyeast%7Cethanol&n=10&title=Fates%20of%20Pyruvate"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0168,fb-3B-0297,fb-3B-0308,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2018&n=10&title=Glycolysis+and+pyruvate&game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0308,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2018&n=10&title=Fates%20of%20Pyruvate"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycoly|pyruvate|lactate|acetyl+CoA|NAD|ATP|cori|fermentation&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=pyruvate%7Clactate%7Canaerobic%7Caerobic%7Cyeast%7Cethanol&amp;n=10&amp;title=Fates%20of%20Pyruvate"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0168,fb-3B-0297,fb-3B-0308,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2018&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0308,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2018&amp;n=10&amp;title=Fates%20of%20Pyruvate"
   ],
   "headings": [
    [
@@ -12294,7 +12326,7 @@
  {
   "id": "597193",
   "title": "13.5: Oxidation of glucose -the glycolysis",
-  "bytes": 29826,
+  "bytes": 30038,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -12315,12 +12347,12 @@
    "https://www.youtube.com/embed/7V2kRH0K8QU?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=glycolysis%7Chexokinase%7Cphosphofructokinase%7Cglyceraldehyde%7CPEP%7Cphosphoenol&n=10&title=Glycolysis%20Step%20by%20Step"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0153,fb-3B-0168,fb-3B-0297,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-1001,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-2010,fb-3B-2011,fb-3B-2012,fb-3B-2017&n=10&title=Glycolysis%20Step%20by%20Step"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycolysis%7Chexokinase%7Cphosphofructokinase%7Cglyceraldehyde%7CPEP%7Cphosphoenol&amp;n=10&amp;title=Glycolysis%20Step%20by%20Step"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0153,fb-3B-0168,fb-3B-0297,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-1001,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-2010,fb-3B-2011,fb-3B-2012,fb-3B-2017&amp;n=10&amp;title=Glycolysis%20Step%20by%20Step"
   ],
   "headings": [
    [
@@ -12507,7 +12539,7 @@
  {
   "id": "597197",
   "title": "13.8: Gluconeogenesis- Glucose Synthesis from Noncarbohydrates",
-  "bytes": 38070,
+  "bytes": 38148,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 1,
@@ -12580,7 +12612,7 @@
  {
   "id": "597195",
   "title": "13.9: Regulation of Glucose Metabolism and Metabolism During Stress",
-  "bytes": 43478,
+  "bytes": 43547,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -12657,7 +12689,7 @@
  {
   "id": "597198",
   "title": "13.10: Chapter Guide - Carbohydrate Metabolism",
-  "bytes": 34883,
+  "bytes": 35681,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -12675,7 +12707,7 @@
   "key_items": 13,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=glycogen|gluconeo|insulin|glucagon|digest|amylase|blood+glucose|pentose|catabol|anabol&n=10&title=Carbohydrate+metabolism&game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-0162,fb-3B-0163,fb-3B-0164,fb-3B-0176,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0307,fb-3B-0468,fb-3B-0470,fb-3B-0472,fb-3B-0473,fb-3B-0940,fb-3B-0964,fb-3B-0965,fb-3B-0967,fb-3B-0969,fb-3B-0972,fb-3B-1005,fb-3B-1008,fb-3B-1009,fb-3B-1010,fb-3B-1011,fb-3B-1012,fb-3B-2013,fb-3B-2014,fb-3B-2015,fb-3B-2016,fb-3B-2020,fb-3B-2021,fb-3B-2022,fb-3B-2023,fb-3B-2024,fb-3B-2025,fb-3B-2026,fb-3B-2027,fb-3B-2028,fb-3B-2029,fb-3B-2038,fb-3B-2114&n=10&title=Carbohydrate+metabolism&game=marathon"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -12683,7 +12715,7 @@
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/metabolism/?topic=rosa13,rosarx&amp;src=book",
    "https://itsdrdan.github.io/textbook/figures/conceptmaps/ch13.svg?v=20261113",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycogen|gluconeo|insulin|glucagon|digest|amylase|blood+glucose|pentose|catabol|anabol&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-0162,fb-3B-0163,fb-3B-0164,fb-3B-0176,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0307,fb-3B-0468,fb-3B-0470,fb-3B-0472,fb-3B-0473,fb-3B-0940,fb-3B-0964,fb-3B-0965,fb-3B-0967,fb-3B-0969,fb-3B-0972,fb-3B-1005,fb-3B-1008,fb-3B-1009,fb-3B-1010,fb-3B-1011,fb-3B-1012,fb-3B-2013,fb-3B-2014,fb-3B-2015,fb-3B-2016,fb-3B-2020,fb-3B-2021,fb-3B-2022,fb-3B-2023,fb-3B-2024,fb-3B-2025,fb-3B-2026,fb-3B-2027,fb-3B-2028,fb-3B-2029,fb-3B-2038,fb-3B-2114&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon"
   ],
   "headings": [
    [
@@ -12858,7 +12890,7 @@
  {
   "id": "597243",
   "title": "13.12: Practice Games",
-  "bytes": 5371,
+  "bytes": 6731,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -12879,8 +12911,8 @@
    "https://itsdrdan.github.io/metabolism/?src=book",
    "https://itsdrdan.github.io/finalexam/?course=3B",
    "https://itsdrdan.github.io/games/3b.html",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=glycoly|pyruvate|lactate|acetyl+CoA|NAD|ATP|cori|fermentation&n=10&title=Glycolysis+and+pyruvate&game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=glycogen|gluconeo|insulin|glucagon|digest|amylase|blood+glucose|pentose|catabol|anabol&n=10&title=Carbohydrate+metabolism&game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0168,fb-3B-0297,fb-3B-0308,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1001,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2010,fb-3B-2011,fb-3B-2012,fb-3B-2017,fb-3B-2018&n=10&title=Glycolysis+and+pyruvate&game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-0162,fb-3B-0163,fb-3B-0164,fb-3B-0176,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0307,fb-3B-0468,fb-3B-0470,fb-3B-0472,fb-3B-0473,fb-3B-0940,fb-3B-0964,fb-3B-0965,fb-3B-0967,fb-3B-0969,fb-3B-0972,fb-3B-1005,fb-3B-1008,fb-3B-1009,fb-3B-1010,fb-3B-1011,fb-3B-1012,fb-3B-2013,fb-3B-2014,fb-3B-2015,fb-3B-2016,fb-3B-2020,fb-3B-2021,fb-3B-2022,fb-3B-2023,fb-3B-2024,fb-3B-2025,fb-3B-2026,fb-3B-2027,fb-3B-2028,fb-3B-2029,fb-3B-2038,fb-3B-2114&n=10&title=Carbohydrate+metabolism&game=marathon"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -12890,8 +12922,8 @@
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/metabolism/?src=book",
    "https://itsdrdan.github.io/metabolism/?topic=rosa13,rosarx&amp;src=book",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycogen|gluconeo|insulin|glucagon|digest|amylase|blood+glucose|pentose|catabol|anabol&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycoly|pyruvate|lactate|acetyl+CoA|NAD|ATP|cori|fermentation&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-0162,fb-3B-0163,fb-3B-0164,fb-3B-0176,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0307,fb-3B-0468,fb-3B-0470,fb-3B-0472,fb-3B-0473,fb-3B-0940,fb-3B-0964,fb-3B-0965,fb-3B-0967,fb-3B-0969,fb-3B-0972,fb-3B-1005,fb-3B-1008,fb-3B-1009,fb-3B-1010,fb-3B-1011,fb-3B-1012,fb-3B-2013,fb-3B-2014,fb-3B-2015,fb-3B-2016,fb-3B-2020,fb-3B-2021,fb-3B-2022,fb-3B-2023,fb-3B-2024,fb-3B-2025,fb-3B-2026,fb-3B-2027,fb-3B-2028,fb-3B-2029,fb-3B-2038,fb-3B-2114&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0168,fb-3B-0297,fb-3B-0308,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1001,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2010,fb-3B-2011,fb-3B-2012,fb-3B-2017,fb-3B-2018&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon"
   ],
   "headings": [
    [
@@ -12921,7 +12953,7 @@
  {
   "id": "597052",
   "title": "14: Metabolism and Energy Production",
-  "bytes": 5985,
+  "bytes": 6103,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -12931,7 +12963,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 3,
+  "rosa": 4,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -13021,7 +13053,7 @@
  {
   "id": "597201",
   "title": "14.2: Stage III of Catabolism",
-  "bytes": 25993,
+  "bytes": 25928,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -13103,7 +13135,7 @@
  {
   "id": "597202",
   "title": "14.3: Citric acid cycle",
-  "bytes": 28083,
+  "bytes": 28447,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -13123,12 +13155,12 @@
    "https://www.youtube.com/embed/UZlmm-yzWrQ?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=citric%7Ccycle%7CKrebs%7Coxaloacetate%7Csuccin&n=10&title=Citric%20Acid%20Cycle"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0157,fb-3B-0170,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0313,fb-3B-0314,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0966,fb-3B-0968,fb-3B-0976,fb-3B-2030,fb-3B-2031&n=10&title=Citric%20Acid%20Cycle"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=citric%7Ccycle%7CKrebs%7Coxaloacetate%7Csuccin&amp;n=10&amp;title=Citric%20Acid%20Cycle"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0157,fb-3B-0170,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0313,fb-3B-0314,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0966,fb-3B-0968,fb-3B-0976,fb-3B-2030,fb-3B-2031&amp;n=10&amp;title=Citric%20Acid%20Cycle"
   ],
   "headings": [
    [
@@ -13178,7 +13210,7 @@
  {
   "id": "597203",
   "title": "14.4: Oxidative Phosphorylation",
-  "bytes": 53203,
+  "bytes": 53452,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -13196,12 +13228,12 @@
   "key_items": 3,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=electron%20transport%7Ccomplex%7CATP%20synthase%7Ccyanide%7CDNP%7Cchemiosm&n=10&title=Electron%20Transport"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0156,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0304,fb-3B-0310,fb-3B-0315,fb-3B-0316,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0973,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2040,fb-3B-2041&n=10&title=Electron%20Transport"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=electron%20transport%7Ccomplex%7CATP%20synthase%7Ccyanide%7CDNP%7Cchemiosm&amp;n=10&amp;title=Electron%20Transport"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0156,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0304,fb-3B-0310,fb-3B-0315,fb-3B-0316,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0973,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2040,fb-3B-2041&amp;n=10&amp;title=Electron%20Transport"
   ],
   "headings": [
    [
@@ -13311,7 +13343,7 @@
  {
   "id": "597204",
   "title": "14.5: Energy Output in Complete Glucose Catabolism",
-  "bytes": 27292,
+  "bytes": 28052,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 1,
@@ -13329,12 +13361,12 @@
   "key_items": 7,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=citric|krebs|electron+transport|ATP+synthase|oxidative+phosph|NADH|FADH|coenzyme+Q|cytochrome|mitochondri&n=12&title=Citric+acid+cycle+and+electron+transport&game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0304,fb-3B-0310,fb-3B-0313,fb-3B-0314,fb-3B-0315,fb-3B-0316,fb-3B-0467,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0485,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0966,fb-3B-0968,fb-3B-0973,fb-3B-0974,fb-3B-0976,fb-3B-2030,fb-3B-2031,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2037,fb-3B-2040,fb-3B-2041,fb-3B-2042&n=12&title=Citric+acid+cycle+and+electron+transport&game=marathon"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=citric|krebs|electron+transport|ATP+synthase|oxidative+phosph|NADH|FADH|coenzyme+Q|cytochrome|mitochondri&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0304,fb-3B-0310,fb-3B-0313,fb-3B-0314,fb-3B-0315,fb-3B-0316,fb-3B-0467,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0485,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0966,fb-3B-0968,fb-3B-0973,fb-3B-0974,fb-3B-0976,fb-3B-2030,fb-3B-2031,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2037,fb-3B-2040,fb-3B-2041,fb-3B-2042&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon"
   ],
   "headings": [
    [
@@ -13390,7 +13422,7 @@
  {
   "id": "597205",
   "title": "14.6: Chapter Guide - Metabolism and Energy Production",
-  "bytes": 27940,
+  "bytes": 28349,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -13400,7 +13432,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 5,
+  "rosa": 6,
   "in_the_lab": 0,
   "summary": 1,
   "details": 10,
@@ -13408,7 +13440,7 @@
   "key_items": 10,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER&n=8&title=Energy+and+redox&game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-0308,fb-3B-0323,fb-3B-0466,fb-3B-0467,fb-3B-0470,fb-3B-0473,fb-3B-0474,fb-3B-0485,fb-3B-0966,fb-3B-0967,fb-3B-0968,fb-3B-0970,fb-3B-0973,fb-3B-0974,fb-3B-0975,fb-3B-2037,fb-3B-2039,fb-3B-2042&n=8&title=Energy+and+redox&game=marathon"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -13416,7 +13448,7 @@
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/metabolism/?topic=rosa14&amp;src=book",
    "https://itsdrdan.github.io/textbook/figures/conceptmaps/ch14.svg?v=20261113",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-0308,fb-3B-0323,fb-3B-0466,fb-3B-0467,fb-3B-0470,fb-3B-0473,fb-3B-0474,fb-3B-0485,fb-3B-0966,fb-3B-0967,fb-3B-0968,fb-3B-0970,fb-3B-0973,fb-3B-0974,fb-3B-0975,fb-3B-2037,fb-3B-2039,fb-3B-2042&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon"
   ],
   "headings": [
    [
@@ -13579,7 +13611,7 @@
  {
   "id": "597244",
   "title": "14.8: Practice Games",
-  "bytes": 5442,
+  "bytes": 6580,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -13600,8 +13632,8 @@
    "https://itsdrdan.github.io/metabolism/?src=book",
    "https://itsdrdan.github.io/finalexam/?course=3B",
    "https://itsdrdan.github.io/games/3b.html",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=citric|krebs|electron+transport|ATP+synthase|oxidative+phosph|NADH|FADH|coenzyme+Q|cytochrome|mitochondri&n=12&title=Citric+acid+cycle+and+electron+transport&game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER&n=8&title=Energy+and+redox&game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0304,fb-3B-0310,fb-3B-0313,fb-3B-0314,fb-3B-0315,fb-3B-0316,fb-3B-0467,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0485,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0966,fb-3B-0968,fb-3B-0973,fb-3B-0974,fb-3B-0976,fb-3B-2030,fb-3B-2031,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2037,fb-3B-2040,fb-3B-2041,fb-3B-2042&n=12&title=Citric+acid+cycle+and+electron+transport&game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-0308,fb-3B-0323,fb-3B-0466,fb-3B-0467,fb-3B-0470,fb-3B-0473,fb-3B-0474,fb-3B-0485,fb-3B-0966,fb-3B-0967,fb-3B-0968,fb-3B-0970,fb-3B-0973,fb-3B-0974,fb-3B-0975,fb-3B-2037,fb-3B-2039,fb-3B-2042&n=8&title=Energy+and+redox&game=marathon"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -13611,8 +13643,8 @@
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/metabolism/?src=book",
    "https://itsdrdan.github.io/metabolism/?topic=rosa14&amp;src=book",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=citric|krebs|electron+transport|ATP+synthase|oxidative+phosph|NADH|FADH|coenzyme+Q|cytochrome|mitochondri&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-0308,fb-3B-0323,fb-3B-0466,fb-3B-0467,fb-3B-0470,fb-3B-0473,fb-3B-0474,fb-3B-0485,fb-3B-0966,fb-3B-0967,fb-3B-0968,fb-3B-0970,fb-3B-0973,fb-3B-0974,fb-3B-0975,fb-3B-2037,fb-3B-2039,fb-3B-2042&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0304,fb-3B-0310,fb-3B-0313,fb-3B-0314,fb-3B-0315,fb-3B-0316,fb-3B-0467,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0485,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0966,fb-3B-0968,fb-3B-0973,fb-3B-0974,fb-3B-0976,fb-3B-2030,fb-3B-2031,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2037,fb-3B-2040,fb-3B-2041,fb-3B-2042&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon"
   ],
   "headings": [
    [
@@ -13642,7 +13674,7 @@
  {
   "id": "597053",
   "title": "15: Metabolism of Lipids and Proteins",
-  "bytes": 5003,
+  "bytes": 5437,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -13652,7 +13684,7 @@
   "imgs_no_alt": 0,
   "tables": 0,
   "valley": 0,
-  "rosa": 4,
+  "rosa": 5,
   "in_the_lab": 0,
   "summary": 0,
   "details": 3,
@@ -13801,7 +13833,7 @@
  {
   "id": "597207",
   "title": "15.3: Fatty Acid Activation and Transport",
-  "bytes": 9415,
+  "bytes": 9479,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 0,
@@ -13819,12 +13851,12 @@
   "key_items": 0,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=bile%7Clipase%7Cchylomicron%7Ccarnitine%7Cactivation%7Cglycerol&n=10&title=Fat%20Digestion%20and%20Activation"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids,metabolism&ids=fb-3B-0176,fb-3B-0320,fb-3B-0342,fb-3B-0977,fb-3B-2044,fb-3B-2045,fb-3B-2046,fb-3B-2102&n=8&title=Fat%20Digestion%20and%20Activation"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=bile%7Clipase%7Cchylomicron%7Ccarnitine%7Cactivation%7Cglycerol&amp;n=10&amp;title=Fat%20Digestion%20and%20Activation"
+   "https://itsdrdan.github.io/textbook/practice.html?t=lipids,metabolism&amp;ids=fb-3B-0176,fb-3B-0320,fb-3B-0342,fb-3B-0977,fb-3B-2044,fb-3B-2045,fb-3B-2046,fb-3B-2102&amp;n=8&amp;title=Fat%20Digestion%20and%20Activation"
   ],
   "headings": [
    [
@@ -13856,7 +13888,7 @@
  {
   "id": "597209",
   "title": "15.4: Oxidation of fatty acids",
-  "bytes": 42090,
+  "bytes": 42858,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -13877,14 +13909,14 @@
    "https://www.youtube.com/embed/D--AtATgfyM?rel=0"
   ],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=fatty+acid|%CE%B2-oxid|beta-oxid|beta+oxid|acetyl+CoA|ketone+bod|ketosis|ketoacid|lipogen&n=10&title=%CE%B2-Oxidation+and+ketone+bodies&game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=oxidation%7Cfatty%20acid%7Ccarnitine%7Cstearic%7Cpalmitic%7Clauric%7Cacetyl%20CoA&n=10&title=Fatty%20Acid%20Oxidation"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-0179,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0309,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2047,fb-3B-2100,fb-3B-2101,fb-3B-2102&n=10&title=%CE%B2-Oxidation+and+ketone+bodies&game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0158,fb-3B-0177,fb-3B-0178,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2100,fb-3B-2101,fb-3B-2102&n=10&title=Fatty%20Acid%20Oxidation"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=fatty+acid|%CE%B2-oxid|beta-oxid|beta+oxid|acetyl+CoA|ketone+bod|ketosis|ketoacid|lipogen&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=oxidation%7Cfatty%20acid%7Ccarnitine%7Cstearic%7Cpalmitic%7Clauric%7Cacetyl%20CoA&amp;n=10&amp;title=Fatty%20Acid%20Oxidation"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-0179,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0309,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2047,fb-3B-2100,fb-3B-2101,fb-3B-2102&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0158,fb-3B-0177,fb-3B-0178,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2100,fb-3B-2101,fb-3B-2102&amp;n=10&amp;title=Fatty%20Acid%20Oxidation"
   ],
   "headings": [
    [
@@ -13983,7 +14015,7 @@
  {
   "id": "597213",
   "title": "15.5: Ketone Bodies and Ketoacidosis",
-  "bytes": 22040,
+  "bytes": 22016,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -14001,12 +14033,12 @@
   "key_items": 1,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=ketone%20bod%7Cacetoacetate%7Cketoacidosis%7Chydroxybutyrate%7Cacetone&n=8&title=Ketone%20Bodies"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048&n=5&title=Ketone%20Bodies"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=ketone%20bod%7Cacetoacetate%7Cketoacidosis%7Chydroxybutyrate%7Cacetone&amp;n=8&amp;title=Ketone%20Bodies"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048&amp;n=5&amp;title=Ketone%20Bodies"
   ],
   "headings": [
    [
@@ -14115,7 +14147,7 @@
  {
   "id": "597215",
   "title": "15.7: Digestion of Proteins",
-  "bytes": 15806,
+  "bytes": 15854,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -14245,7 +14277,7 @@
  {
   "id": "597216",
   "title": "15.9: The Urea Cycle",
-  "bytes": 18749,
+  "bytes": 18889,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 1,
@@ -14263,12 +14295,12 @@
   "key_items": 2,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=urea%7Cammoni%7CBUN&n=8&title=The%20Urea%20Cycle"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0180,fb-3B-0321,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2053,fb-3B-2054,fb-3B-2055&n=8&title=The%20Urea%20Cycle"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
   "game_links": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea%7Cammoni%7CBUN&amp;n=8&amp;title=The%20Urea%20Cycle"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0180,fb-3B-0321,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2053,fb-3B-2054,fb-3B-2055&amp;n=8&amp;title=The%20Urea%20Cycle"
   ],
   "headings": [
    [
@@ -14314,7 +14346,7 @@
  {
   "id": "597210",
   "title": "15.10: Fates of the Amino Acid Carbon Skeletons",
-  "bytes": 16554,
+  "bytes": 16598,
   "objectives": 1,
   "lecture_connection": 1,
   "professor_tip": 2,
@@ -14439,7 +14471,7 @@
  {
   "id": "597218",
   "title": "15.12: Chapter Guide - Metabolism of Lipids and Proteins",
-  "bytes": 34237,
+  "bytes": 34774,
   "objectives": 1,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -14457,7 +14489,7 @@
   "key_items": 13,
   "videos": [],
   "widgets": [
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&n=10&title=Amino+acid+metabolism&game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&n=10&title=Amino+acid+metabolism&game=marathon"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -14465,7 +14497,7 @@
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/metabolism/?topic=rosa15,rosarx&amp;src=book",
    "https://itsdrdan.github.io/textbook/figures/conceptmaps/ch15.svg?v=20261113",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon"
   ],
   "headings": [
    [
@@ -14640,7 +14672,7 @@
  {
   "id": "597245",
   "title": "15.14: Practice Games",
-  "bytes": 5549,
+  "bytes": 6295,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,
@@ -14661,8 +14693,8 @@
    "https://itsdrdan.github.io/metabolism/?src=book",
    "https://itsdrdan.github.io/finalexam/?course=3B",
    "https://itsdrdan.github.io/games/3b.html",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=fatty+acid|%CE%B2-oxid|beta-oxid|beta+oxid|acetyl+CoA|ketone+bod|ketosis|ketoacid|lipogen&n=10&title=%CE%B2-Oxidation+and+ketone+bodies&game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&n=10&title=Amino+acid+metabolism&game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-0179,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0309,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2047,fb-3B-2048,fb-3B-2100,fb-3B-2101,fb-3B-2102&n=10&title=%CE%B2-Oxidation+and+ketone+bodies&game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&n=10&title=Amino+acid+metabolism&game=marathon"
   ],
   "other_iframes": [],
   "iframes_no_title": 0,
@@ -14672,8 +14704,8 @@
    "https://itsdrdan.github.io/games/3b.html",
    "https://itsdrdan.github.io/metabolism/?src=book",
    "https://itsdrdan.github.io/metabolism/?topic=rosa15,rosarx&amp;src=book",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=fatty+acid|%CE%B2-oxid|beta-oxid|beta+oxid|acetyl+CoA|ketone+bod|ketosis|ketoacid|lipogen&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon",
-   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon"
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon",
+   "https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-0179,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0309,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2047,fb-3B-2048,fb-3B-2100,fb-3B-2101,fb-3B-2102&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon"
   ],
   "headings": [
    [
@@ -14857,7 +14889,7 @@
  {
   "id": "488232",
   "title": "Glossary",
-  "bytes": 152157,
+  "bytes": 152733,
   "objectives": 0,
   "lecture_connection": 0,
   "professor_tip": 0,

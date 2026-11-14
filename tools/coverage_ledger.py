@@ -24,8 +24,8 @@ out = ['# Textbook coverage ledger (master refinement pass, 2026-11-13)', '',
        '- **Scores** = accuracy / clarity / prerequisites / visuals / reasoning / practice / transfer, 0-4, from the pedagogy reviews in `audit/reviews/` (visuals judged from alt text and captions only).',
        '- **Correctness** for every page: all problems re-solved on 2026-11-11 and 2026-11-13 (`tools/REVIEW_2026-11-13.md`); this pass did not re-solve them, except the items listed in the errata file.',
        '- **web_checked / pdf_checked**: `script` = automated checks of this pass ran on the page (links, headings, alt text, tables, answer-key parity for web; text scan, tags, footer and page mapping for PDF). `viewed` = a rendered page was looked at. Neither means every pixel was inspected.',
-       '- **Batch Q** = number of draft edits waiting for the instructor\'s publish OK (`tools/batchQ_2026-11-13.json`). Nothing in this ledger is live yet.', '',
-       '| Section | Page id | PDF pages | Print | Objectives | Components | Scores | Main finding (this pass) | Sev | Batch Q edits | web_checked | pdf_checked | Next action |',
+       '- **Batch Q** = number of edits published on LibreTexts on 2026-11-13 with the instructor\'s OK (`tools/batchQ_2026-11-13.json`); every page was read back identical to the planned text.', '',
+       '| Section | Page id | PDF pages | Print | Objectives | Components | Scores | Main finding (this pass) | Sev | Batch Q edits (live) | web_checked | pdf_checked | Next action |',
        '|---|---|---|---|---|---|---|---|---|---|---|---|---|']
 VIEWED_PDF = {'597094', '597232', '597074'}
 for r in INV:
@@ -45,7 +45,7 @@ for r in INV:
     pdf = f"{r['pdf_start']}-{r['pdf_end']}" if r.get('pdf_start') else 'n/a'
     prn = f"{r.get('print_start', '')}-{r.get('print_end', '')}" if r.get('pdf_start') else 'n/a'
     obj = ', '.join(filter(None, ['obj ' + ','.join(r['objectives_cor']) if r['objectives_cor'] else '', 'unit ' + '; '.join(r['outline_units']) if r['outline_units'] else ''])) or '-'
-    nxt = 'publish batch Q edits after OK, then recheck in the next PDF' if notes else ('none' if pid in scores or not re.match(r'\d', t) else 'none')
+    nxt = 'recheck in the next full PDF' if notes else ('none' if pid in scores or not re.match(r'\d', t) else 'none')
     out.append(f"| {t} | {pid} | {pdf} | {prn} | {obj} | {', '.join(comp) or '-'} | {scores.get(pid, '-')} | {f.replace('|', '/') or '-'} | {sev(notes) if notes else ('P3' if f else '-')} | {len(notes) or '-'} | script | {'script + viewed' if pid in VIEWED_PDF else ('script' if r.get('pdf_start') else 'n/a')} | {nxt} |")
 open('audit/TEXTBOOK-COVERAGE-LEDGER.md', 'w').write('\n'.join(out) + '\n')
 print('rows', len(INV), 'scored', len(scores), 'pages with batch Q edits', len(B))

@@ -61,7 +61,7 @@ The About page says every page passed an automated WCAG 2.1 A/AA scan and that t
 | Bookmarks | 1,713 outline entries. |
 | Hyperlinks | 5,350 link annotations. Not each one followed. |
 | Blank or near-blank pages | 15 footer-only pages, listed above. None caused by hidden content. |
-| Answers in print | Print keys present on 108 pages; after batch Q every exercise has one. Keys sit at the end of the page, not beside the questions. |
+| Answers in print | Print keys present on 108 pages; after batch Q every exercise has one. **Correction after the single-page compiles:** hidden inline answers are not hidden in print. Each answer prints open beside its question and again in the key at the end of the page (seen on 2.5, p. 165, and the 4.5 Valley answer, p. 325, of the 16:37 export, and in the new compiles). Earlier testing found no class the PDF service honours for hiding, so this is a known platform limit; it does mean the print copy shows answers next to the questions. |
 | Text under 6 pt, missing glyphs, raw MathJax | Not re-measured in this pass; the 16:20/16:37 check in `ISSUE_LEDGER.md` stands (31 pages with words under 6 pt; worst: 14.5.2 at 4.8 pt, 15.9.1 at 5.1 pt). |
 | Reading order | Tag tree exists and follows source order (Prince); not audited page by page with a screen reader. |
 
