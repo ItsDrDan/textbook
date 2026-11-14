@@ -1,0 +1,203 @@
+{
+ "uploads": [],
+ "edits": {
+  "597203": [
+   {
+    "old": "Cyanide blocks the same enzyme, cytochrome c oxidase, and a high blood lactate",
+    "new": "Cyanide blocks cytochrome c oxidase too (the Molecule in the Clinic box below explains how), and a high blood lactate",
+    "count": 1,
+    "note": "14.4 Valley box: cyanide mechanism left to the Molecule in the Clinic box"
+   },
+   {
+    "old": "A patient pulled from a house fire can have both carbon monoxide and cyanide (from burning plastics and foam) in the blood. CO occupies hemoglobin so O<sub>2</sub> is not delivered; cyanide binds the iron of cytochrome c oxidase so the O<sub>2</sub> that does arrive cannot be used. In both cases the tissues switch to anaerobic glycolysis and blood <em>lactate</em> rises, causing <em>metabolic acidosis</em>. High-flow oxygen helps displace CO from hemoglobin; for cyanide the antidote hydroxocobalamin (a form of vitamin B<sub>12</sub>) binds the cyanide ion so it can be excreted as cyanocobalamin, because more oxygen alone cannot unblock the enzyme.",
+    "new": "A patient pulled from a house fire can have both carbon monoxide and cyanide in the blood. CO occupies hemoglobin, so O<sub>2</sub> is not delivered; cyanide blocks cytochrome c oxidase, so the O<sub>2</sub> that does arrive cannot be used (Molecule in the Clinic, above). Either way the tissues switch to anaerobic glycolysis and blood <em>lactate</em> rises, causing <em>metabolic acidosis</em>. High-flow oxygen helps displace CO from hemoglobin, but more oxygen alone cannot unblock the enzyme, which is why cyanide needs its own antidote.",
+    "count": 1,
+    "note": "14.4 Nursing box: keeps the CO-versus-cyanide comparison; the binding and antidote details are told once, in the Molecule in the Clinic box"
+   }
+  ],
+  "597209": [
+   {
+    "old": "i.e., the 1st stage of catabolism of fats,",
+    "new": "which is Stage I of catabolism (digestion, Section 13.1),",
+    "count": 1,
+    "note": "15.4: source text now names the three stages of catabolism as Stage I, II, III"
+   },
+   {
+    "old": "The second stage of fatty acid catabolism starts with",
+    "new": "Stage II starts with",
+    "count": 1,
+    "note": "15.4: Stage II of catabolism"
+   },
+   {
+    "old": "for the second stage of its catabolism. In the second stage, the",
+    "new": "for the rest of Stage II. There, the",
+    "count": 1,
+    "note": "15.4: Stage II of catabolism"
+   },
+   {
+    "old": "which is the third stage of the catabolism,",
+    "new": "which is Stage III of catabolism,",
+    "count": 1,
+    "note": "15.4: Stage III of catabolism"
+   },
+   {
+    "old": "<p>This is stage 3 of fatty acid breakdown, the <em>fatty acid spiral</em>.",
+    "new": "<p>This is stage 3 of fatty acid breakdown (after activation and transport, Section 15.3), the <em>fatty acid spiral</em>. All three of these belong to Stage II of catabolism, the stage that turns a fuel into acetyl CoA.",
+    "count": 1,
+    "note": "15.4 Lecture Connection: \"stage 3 of fatty acid breakdown\" tied to Stage II of catabolism, so the two numberings do not clash"
+   },
+   {
+    "old": "<section class=\"box-note\">\n<span id=\"Unsaturated_fatty_acids\"></span><div class=\"mt-section\"><h3 class=\"box-legend editable\">Unsaturated fatty acids</h3>\n\n<p>Unsaturated fatty acids have \\(\\ce{C=C}\\) bond in their alkyl chain. \\(\\beta\\)-Oxidation of unsaturated fatty acids happens the same way as for saturated fatty acids except for the following changes. If \\(\\ce{C=C}\\) bond is a <em>trans</em>-\\(\\ce{C=C}\\) bond between \\(\\alpha\\) and \\(\\beta\\) \\(\\ce{C's}\\), reaction 1 in the \\(\\beta\\)-oxidation is not needed and \\(\\ce{FADH2}\\) from reaction 1 is not produced. If \\(\\ce{C=C}\\) bond is a cis-\\(\\ce{C=C}\\) bond or it is between \\(\\beta\\) and \\(\\gamma\\) \\(\\ce{C's}\\), it goes through isomerization reactions catalyzed by isomerase enzymes to convert the \\(\\ce{C=C}\\) bond into a <em>trans </em>\\(\\ce{C=C}\\) bond between \\(\\alpha\\) and \\(\\beta\\) \\(\\ce{C's}\\) before reaction 2 happens on it. Unsaturated fatty acids yield a little less \\(\\ce{ATP's}\\) due to one \\(\\ce{FADH2}\\) less produced per \\(\\ce{C=C}\\) bond, but the difference is small and the formula: \\((7\\times{n}-6)~\\ce{ATP's}\\), still gives a reasonably accurate estimate of \\(\\ce{ATP}\\) yield.</p>\n</div></section>\n\n",
+    "new": "",
+    "count": 1,
+    "note": "15.4: source box \"Unsaturated fatty acids\" removed; the Lecture Connection section of the same name covers it in course terms"
+   },
+   {
+    "old": "The number of acetyl CoA and the number of repetitions do not change.</p>",
+    "new": "The number of acetyl CoA and the number of repetitions do not change. Because the difference is small, 7<em>n</em> &minus; 6 still gives a close estimate for an unsaturated fatty acid.</p>",
+    "count": 1,
+    "note": "15.4 Lecture Connection: keeps the one fact that only the removed box stated"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/glycerol-glycerol-3-phosphate.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/glycerol-glycerol-3-phosphate.svg?v=20261113u\"",
+    "count": 1,
+    "note": "figure label sizes: cache-bust for glycerol-glycerol-3-phosphate.svg"
+   }
+  ],
+  "597062": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch01.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch01.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch01.svg"
+   }
+  ],
+  "597074": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch02.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch02.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch02.svg"
+   }
+  ],
+  "597086": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch03.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch03.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch03.svg"
+   }
+  ],
+  "597100": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch04.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch04.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch04.svg"
+   }
+  ],
+  "597107": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch05.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch05.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch05.svg"
+   }
+  ],
+  "597119": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch06.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch06.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch06.svg"
+   }
+  ],
+  "597132": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch07.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch07.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch07.svg"
+   }
+  ],
+  "597141": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch08.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch08.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch08.svg"
+   }
+  ],
+  "597150": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch09.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch09.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch09.svg"
+   }
+  ],
+  "597164": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch10.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch10.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch10.svg"
+   }
+  ],
+  "597173": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch11.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch11.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch11.svg"
+   }
+  ],
+  "597184": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch12.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch12.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch12.svg"
+   }
+  ],
+  "597198": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch13.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch13.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch13.svg"
+   }
+  ],
+  "597205": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch14.svg?v=20261113\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch14.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch14.svg"
+   }
+  ],
+  "597216": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step1.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step1.svg?v=20261113u\"",
+    "count": 1,
+    "note": "figure label sizes: cache-bust for step1.svg"
+   },
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step4.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step4.svg?v=20261113u\"",
+    "count": 1,
+    "note": "figure label sizes: cache-bust for step4.svg"
+   }
+  ],
+  "597218": [
+   {
+    "old": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch15.svg?v=20261113t\"",
+    "new": "\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch15.svg?v=20261113u\"",
+    "count": 2,
+    "note": "figure label sizes: cache-bust for ch15.svg"
+   }
+  ]
+ }
+}

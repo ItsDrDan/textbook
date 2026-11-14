@@ -1,0 +1,331 @@
+{
+ "figures/conceptmaps/ch02.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.4121,
+  "shown_on": "597074",
+  "note": "printed 5.77 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/conceptmaps/ch03.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.4121,
+  "shown_on": "597086",
+  "note": "printed 5.77 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/conceptmaps/ch07.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.4121,
+  "shown_on": "597132",
+  "note": "printed 5.77 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597137-fischer-to-haworth.svg": {
+  "floor": 14.0,
+  "scale_pt_per_px": 0.4423,
+  "shown_on": "597137",
+  "note": "printed 5.75 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597144-7.svg": {
+  "floor": 13.0,
+  "scale_pt_per_px": 0.4827,
+  "shown_on": "597144",
+  "note": "printed 5.31 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597146-phosphatidylcholine.svg": {
+  "floor": 14.0,
+  "scale_pt_per_px": 0.45,
+  "shown_on": "597146",
+  "note": "printed 5.4 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pathways/oer/sphingolipids.svg": {
+  "floor": 15.0,
+  "scale_pt_per_px": 0.4156,
+  "shown_on": "597147",
+  "note": "printed 5.61 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597157-1.svg": {
+  "floor": 14.5,
+  "scale_pt_per_px": 0.4238,
+  "shown_on": "597157",
+  "note": "printed 5.51 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/conceptmaps/ch10.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.4121,
+  "shown_on": "597164",
+  "note": "printed 5.77 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597172-2.svg": {
+  "floor": 13.0,
+  "scale_pt_per_px": 0.4825,
+  "shown_on": "597172",
+  "note": "printed 5.79 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/conceptmaps/ch11.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.4121,
+  "shown_on": "597173",
+  "note": "printed 5.77 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597183-2.svg": {
+  "floor": 13.0,
+  "scale_pt_per_px": 0.4792,
+  "shown_on": "597183",
+  "note": "printed 5.75 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597183-3.svg": {
+  "floor": 16.0,
+  "scale_pt_per_px": 0.3833,
+  "shown_on": "597183",
+  "note": "printed 5.75 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597179-elongation.svg": {
+  "floor": 13.5,
+  "scale_pt_per_px": 0.4577,
+  "shown_on": "597179",
+  "note": "printed 5.72 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/conceptmaps/ch12.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.4121,
+  "shown_on": "597184",
+  "note": "printed 5.77 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597192-1.svg": {
+  "floor": 14.0,
+  "scale_pt_per_px": 0.4362,
+  "shown_on": "597192",
+  "note": "printed 5.67 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597193-glycolysis-flow.svg": {
+  "floor": 14.5,
+  "scale_pt_per_px": 0.428,
+  "shown_on": "597193",
+  "note": "printed 5.35 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/print/fig-p597196-1-1.svg": {
+  "floor": 13.5,
+  "scale_pt_per_px": 0.4575,
+  "shown_on": "597196",
+  "note": "printed 5.49 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/print/fig-p597196-1-2.svg": {
+  "floor": 13.5,
+  "scale_pt_per_px": 0.4575,
+  "shown_on": "597196",
+  "note": "printed 5.49 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597197-5.svg": {
+  "floor": 13.0,
+  "scale_pt_per_px": 0.4725,
+  "shown_on": "597197",
+  "note": "printed 5.67 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/conceptmaps/ch13.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.4121,
+  "shown_on": "597198",
+  "note": "printed 5.77 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597202-cac-flow.svg": {
+  "floor": 14.5,
+  "scale_pt_per_px": 0.4281,
+  "shown_on": "597202",
+  "note": "printed 5.57 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/print/fig-p597202-1-v2-1.svg": {
+  "floor": 15.0,
+  "scale_pt_per_px": 0.4129,
+  "shown_on": "597202",
+  "note": "printed 5.37 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/print/fig-p597202-1-v2-2.svg": {
+  "floor": 15.0,
+  "scale_pt_per_px": 0.4129,
+  "shown_on": "597202",
+  "note": "printed 5.37 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/print/fig-p597202-1-v2-3.svg": {
+  "floor": 15.0,
+  "scale_pt_per_px": 0.4129,
+  "shown_on": "597202",
+  "note": "printed 5.37 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597204-yield-flow.svg": {
+  "floor": 14.0,
+  "scale_pt_per_px": 0.4336,
+  "shown_on": "597204",
+  "note": "printed 4.77 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597204-2.svg": {
+  "floor": 13.0,
+  "scale_pt_per_px": 0.4827,
+  "shown_on": "597204",
+  "note": "printed 5.31 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597207-1.svg": {
+  "floor": 13.0,
+  "scale_pt_per_px": 0.4717,
+  "shown_on": "597211",
+  "note": "printed 5.66 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597212-1.svg": {
+  "floor": 15.0,
+  "scale_pt_per_px": 0.4062,
+  "shown_on": "597212",
+  "note": "printed 5.89 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597212-2.svg": {
+  "floor": 14.5,
+  "scale_pt_per_px": 0.4207,
+  "shown_on": "597212",
+  "note": "printed 5.89 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pathways/reactions/glycerol-glycerol-3-phosphate.svg": {
+  "floor": 15.0,
+  "scale_pt_per_px": 0.4077,
+  "shown_on": "597209",
+  "note": "printed 5.3 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597209-1.svg": {
+  "floor": 14.0,
+  "scale_pt_per_px": 0.4417,
+  "shown_on": "597209",
+  "note": "printed 5.3 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/pages/batchT/fig-p597209-2.svg": {
+  "floor": 14.0,
+  "scale_pt_per_px": 0.4417,
+  "shown_on": "597209",
+  "note": "printed 5.3 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/print/fa_synthesis-v2-1.svg": {
+  "floor": 12.0,
+  "scale_pt_per_px": 0.5218,
+  "shown_on": "597214",
+  "note": "printed 5.74 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/print/fa_synthesis-v2-2.svg": {
+  "floor": 12.0,
+  "scale_pt_per_px": 0.5218,
+  "shown_on": "597214",
+  "note": "printed 5.74 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pathways/urea/step1.svg": {
+  "floor": 13.5,
+  "scale_pt_per_px": 0.4592,
+  "shown_on": "597216",
+  "note": "printed 5.74 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pathways/urea/step2.svg": {
+  "floor": 13.5,
+  "scale_pt_per_px": 0.4592,
+  "shown_on": "597216",
+  "note": "printed 5.74 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pathways/urea/step3.svg": {
+  "floor": 13.5,
+  "scale_pt_per_px": 0.4592,
+  "shown_on": "597216",
+  "note": "printed 5.74 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pathways/urea/step4.svg": {
+  "floor": 13.5,
+  "scale_pt_per_px": 0.4592,
+  "shown_on": "597216",
+  "note": "printed 5.74 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/pages/batchT/fig-p597216-2.svg": {
+  "floor": 14.5,
+  "scale_pt_per_px": 0.4258,
+  "shown_on": "597216",
+  "note": "printed 5.11 pt before the 2026-11-13 fix",
+  "hosted": "LibreTexts file (this copy is the source)"
+ },
+ "figures/conceptmaps/ch15.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.4121,
+  "shown_on": "597218",
+  "note": "printed 5.77 pt before the 2026-11-13 fix",
+  "hosted": "GitHub"
+ },
+ "figures/conceptmaps/ch01.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.412,
+  "note": "concept map; edge labels from tools/concept_maps.py (edgefont)",
+  "hosted": "GitHub"
+ },
+ "figures/conceptmaps/ch04.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.412,
+  "note": "concept map; edge labels from tools/concept_maps.py (edgefont)",
+  "hosted": "GitHub"
+ },
+ "figures/conceptmaps/ch05.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.412,
+  "note": "concept map; edge labels from tools/concept_maps.py (edgefont)",
+  "hosted": "GitHub"
+ },
+ "figures/conceptmaps/ch06.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.412,
+  "note": "concept map; edge labels from tools/concept_maps.py (edgefont)",
+  "hosted": "GitHub"
+ },
+ "figures/conceptmaps/ch08.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.412,
+  "note": "concept map; edge labels from tools/concept_maps.py (edgefont)",
+  "hosted": "GitHub"
+ },
+ "figures/conceptmaps/ch09.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.412,
+  "note": "concept map; edge labels from tools/concept_maps.py (edgefont)",
+  "hosted": "GitHub"
+ },
+ "figures/conceptmaps/ch14.svg": {
+  "floor": 15.5,
+  "scale_pt_per_px": 0.412,
+  "note": "concept map; edge labels from tools/concept_maps.py (edgefont)",
+  "hosted": "GitHub"
+ }
+}

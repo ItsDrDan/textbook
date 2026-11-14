@@ -134,7 +134,7 @@ function hydrogenation() {
 /* ---------------- 4. Sphingolipid general structure (9.4) ---------------- */
 function sphingolipids() {
   const W = 920; let o = TITLE(18, 30, 'Sphingolipids: one backbone, different head groups');
-  o += note(18, 54, 'Every sphingolipid is built on sphingosine. Change the two highlighted parts (R and X) to get each class.');
+  o += note(18, 54, 'Every sphingolipid is built on sphingosine. Change the two highlighted parts (R and X) to get each class.', { fs: 15 }); // 15 px prints at about 6.2 pt; 13.5 printed at 5.6 pt
   const x0 = 60, y0 = 110, gap = 56; // vertical three-carbon backbone
   const bx = x0 + 140;
   { const pre = textW('X–O–', 17), sx = bx - 4 - pre - firstW('CH_2', 17) / 2; o += hlRect(sx - 6, y0 - 15, firstW('X', 17) + 12, 30) + label(sx, y0, 'X–O–CH_2', 17).svg; }
@@ -147,10 +147,10 @@ function sphingolipids() {
   // trans alkene tail drawn as condensed text going down
   const ty = c3y + gap; o += line(bx - 4, c3y + 12, bx - 4, ty - 12) + label(bx - 4, ty, 'CH', 16, { anchor: 'middle' }).svg + dbl(bx - 4, ty + 12, bx - 4, ty + 34, 3) + label(bx - 4, ty + 46, 'CH', 16, { anchor: 'middle' }).svg;
   o += line(bx - 4, ty + 58, bx - 4, ty + 76) + label(bx - 4, ty + 90, '(CH_2)_12', 16, { anchor: 'middle' }).svg + line(bx - 4, ty + 102, bx - 4, ty + 118) + label(bx - 4, ty + 132, 'CH_3', 16, { anchor: 'middle' }).svg;
-  o += note(bx + 30, ty + 23, 'trans C=C', { italic: true });
+  o += note(bx + 30, ty + 23, 'trans C=C', { italic: true, fs: 15 });
   o += `<path d="M${bx - 60} ${c2y - 30} Q ${bx - 90} ${c2y + 60} ${bx - 60} ${ty + 140}" fill="none" stroke="#c9bfe6" stroke-width="2"/>`;
-  o += label(bx - 96, c2y + 120, 'sphingosine', 14, { anchor: 'end', weight: 800, color: PURPLE, italic: true }).svg;
-  o += label(bx - 96, c2y + 138, 'backbone', 14, { anchor: 'end', weight: 800, color: PURPLE, italic: true }).svg;
+  o += label(bx - 96, c2y + 120, 'sphingosine', 15, { anchor: 'end', weight: 800, color: PURPLE, italic: true }).svg;
+  o += label(bx - 96, c2y + 138, 'backbone', 15, { anchor: 'end', weight: 800, color: PURPLE, italic: true }).svg;
   // table of classes
   const tx = 470, tyy = 230; const rows = [
     ['Class', 'R (on N)', 'X (on O)'],
@@ -162,9 +162,10 @@ function sphingolipids() {
   const cw = [128, 132, 124], rh = 34;
   rows.forEach((r, i) => { let cx2 = tx; const yy2 = tyy + i * rh; if (i === 0) o += `<rect x="${tx - 8}" y="${yy2 - 20}" width="${cw.reduce((a, b) => a + b) + 8}" height="${rh}" rx="6" fill="#efeaf9"/>`;
     else if (i % 2 === 0) o += `<rect x="${tx - 8}" y="${yy2 - 20}" width="${cw.reduce((a, b) => a + b) + 8}" height="${rh}" fill="#f7f9fc"/>`;
-    r.forEach((c, j) => { o += label(cx2, yy2 - 2, c, i === 0 ? 14 : 13.5, { weight: i === 0 || j === 0 ? 900 : 700, color: i === 0 ? PURPLE : j === 1 ? RED : j === 2 ? BLUE : '#3b4a63' }).svg; cx2 += cw[j]; }); });
-  o += note(tx - 8, tyy + rows.length * rh + 8, 'Sphingomyelin is a phospholipid; cerebrosides and gangliosides');
-  o += note(tx - 8, tyy + rows.length * rh + 26, 'are glycolipids. All have two nonpolar tails and a polar head.');
+    r.forEach((c, j) => { o += label(cx2, yy2 - 2, c, 15, { weight: i === 0 || j === 0 ? 900 : 700, color: i === 0 ? PURPLE : j === 1 ? RED : j === 2 ? BLUE : '#3b4a63' }).svg; cx2 += cw[j]; }); });
+  o += note(tx - 8, tyy + rows.length * rh + 8, 'Sphingomyelin is a phospholipid; cerebrosides and', { fs: 15 });
+  o += note(tx - 8, tyy + rows.length * rh + 26, 'gangliosides are glycolipids. All have two nonpolar tails', { fs: 15 });
+  o += note(tx - 8, tyy + rows.length * rh + 44, 'and a polar head.', { fs: 15 });
   const H = 520; return svgWrap(W, H, o, 'General structure of sphingolipids. A sphingosine backbone: carbon 1 carries CH2-O-X, carbon 2 carries an amide N-H bonded to C=O and a fatty acid chain R, carbon 3 carries an OH, followed by a trans CH=CH double bond and a long (CH2)12-CH3 tail. A table lists the classes: sphingosine has a free NH2 and X = H; ceramide has a fatty acid R and X = H; sphingomyelin has a fatty acid and X = phosphocholine; a cerebroside has a fatty acid and one sugar as X; a ganglioside has a fatty acid and a chain of sugars as X.');
 }
 
