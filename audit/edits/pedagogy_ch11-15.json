@@ -1,0 +1,202 @@
+[
+ {
+  "page_id": "597049",
+  "section": "11 landing",
+  "old": "answer the Try It questions in each section as you go",
+  "new": "work the examples and exercises in each section as you go, plus the Try It questions where a section has them",
+  "reason": "The route page promises Try It questions in each section, but in Chapter 11 only 11.4 (and the 11.8 guide) has a Try It widget; 11.1, 11.3, 11.5 and 11.6 have no exercise of any kind. An anxious student goes looking for something that is not there.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597050",
+  "section": "12 landing",
+  "old": "answer the Try It questions in each section as you go",
+  "new": "work the examples and exercises in each section as you go, plus the Try It questions where a section has them",
+  "reason": "Same promise; in Chapter 12 only 12.2 (and the 12.10 guide) has a Try It widget.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597051",
+  "section": "13 landing",
+  "old": "answer the Try It questions in each section as you go",
+  "new": "work the examples and exercises in each section as you go, plus the Try It questions where a section has them",
+  "reason": "Same promise; 13.2 and 13.6-13.9 have no Try It widget.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597052",
+  "section": "14 landing",
+  "old": "answer the Try It questions in each section as you go",
+  "new": "work the examples and exercises in each section as you go, plus the Try It questions where a section has them",
+  "reason": "Same promise; 14.1 and 14.2 have no Try It widget.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597053",
+  "section": "15 landing",
+  "old": "answer the Try It questions in each section as you go",
+  "new": "work the examples and exercises in each section as you go, plus the Try It questions where a section has them",
+  "reason": "Same promise; 15.1, 15.2, 15.6, 15.7, 15.8 and 15.11 have no Try It widget.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597167",
+  "section": "11.2",
+  "old": "An OH group would most likely engage in hydrogen bonding with an appropriate functional group present in the active site of an enzyme.",
+  "new": "Hydrogen bonding. The OH group is polar, so it can donate or accept a hydrogen bond (Section 1.8) with a polar group in the active site.",
+  "reason": "The only worked example on the page states the answer with no reason and no check. The new wording gives the why in the same length and points back to where hydrogen bonding was taught.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597169",
+  "section": "11.4",
+  "old": "which in this course count as both irreversible and noncompetitive inhibitors",
+  "new": "which in this course count as both irreversible (the bond is too tight to let go) and noncompetitive (they need not sit in the active site, and more substrate does not help) inhibitors",
+  "reason": "The same table says a noncompetitive inhibitor is reversible ('Reversible? Yes'), then calls heavy metals 'irreversible and noncompetitive' with no explanation. The course convention is kept; the added words say in what sense each label applies.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597171",
+  "section": "11.6",
+  "old": "have both a binding site, for substrate binding and catalysis",
+  "new": "have both an active site, for substrate binding and catalysis",
+  "reason": "Inherited text renames the active site a 'binding site' in the one sentence that defines an allosteric enzyme; every other page (and this page's Lecture Connection) says active site.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597168",
+  "section": "11.3",
+  "old": "An enzyme exhibits maximum activity over the narrow pH range in which a molecule exists in its properly charged form. The median value of this pH range is called the",
+  "new": "An enzyme is most active over the narrow pH range in which its active-site groups and its substrate carry the right charges. The middle of this pH range is called the",
+  "reason": "Dense inherited sentence: 'a molecule' is not identified and 'median value' is statistics vocabulary. The new wording matches the paragraph before it and the Lecture Connection.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597178",
+  "section": "12.4",
+  "old": "is the process of mRNA synthesis using a protein synthesis gene portion of a DNA strand as a template",
+  "new": "is the synthesis of mRNA using one strand of a gene as the template",
+  "reason": "This is the highlighted definition of transcription, and 'a protein synthesis gene portion of a DNA strand' is close to unreadable. Same meaning, half the words.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597178",
+  "section": "12.4",
+  "old": "Therefore, the primary structure of the information strand is shown as the primary structure of the DNA.",
+  "new": "That is why the sequence of a gene is usually written as its coding strand.",
+  "reason": "Inherited text switches to 'information strand' (used nowhere else in the chapter; the convention is 'coding strand') and the sentence is hard to parse. The Lecture Connection on the same page says the same thing plainly.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597179",
+  "section": "12.6",
+  "old": "codes for Met-Pro-Arg-Val-Asp.",
+  "new": "splits into the codons AUG CCA CGA GUU GAC, which code for Met-Pro-Arg-Val-Asp. Check: 15 bases make five codons, so five amino acids.",
+  "reason": "The inherited example gives only the answer. Showing the split into codons is the step students miss, and the count is the same sanity check the house examples in 12.4 use.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597181",
+  "section": "12.8",
+  "old": "use their nucleic acids in much the same way as the DNA viruses, penetrating a host cell and inducing it to replicate the viral RNA and synthesize viral proteins.",
+  "new": "work much as DNA viruses do: the virus enters a host cell and makes the cell copy the viral nucleic acid (here RNA) and build viral proteins.",
+  "reason": "The inherited paragraph compares RNA viruses to 'the DNA viruses', but the passage that described DNA viruses was cut, so the comparison points at nothing. The new sentence states the shared process itself.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597192",
+  "section": "13.4",
+  "old": "<strong>Thiamine</strong> is the cofactor of pyruvate dehydrogenase",
+  "new": "<strong>Thiamine</strong> is made into a coenzyme (TPP) of pyruvate dehydrogenase",
+  "reason": "Course convention (11.5): cofactor = inorganic ion, coenzyme = organic. The same page's Lecture Connection, 13.1 and 13.10 already say coenzyme; this sentence in the Nursing box was missed by the earlier cofactor fix.",
+  "severity": "P1"
+ },
+ {
+  "page_id": "597195",
+  "section": "13.9",
+  "old": "Insulin is the body&rsquo;s only major anabolic (storage) hormone for fuel; every counter-regulatory hormone is catabolic (mobilizing).",
+  "new": "Insulin is the body&rsquo;s main storage hormone for fuel; the counter-regulatory hormones mobilize stored fuel. One catch: the gluconeogenesis they switch on is itself an anabolic pathway (Section 13.1).",
+  "reason": "13.1 Example 2 teaches that gluconeogenesis is anabolic, and this page's table says glucagon and cortisol turn it on. A student applying the 'check' as written would label gluconeogenesis catabolic on an exam.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597189",
+  "section": "13.2",
+  "old": "Attaching a phosphate to glucose using free phosphate has &Delta;G&deg;&prime; = +3.3 kcal/mol.",
+  "new": "Attaching a phosphate to glucose using free phosphate has an energy change (&Delta;G&deg;&prime;) of +3.3 kcal/mol; the plus sign means energy must be put in.",
+  "reason": "The symbol is used here for the first time on the page with no definition (13.1 also prints \u0394G without one). The Professor Tip just above speaks of 'the change' being negative or positive, so tying the symbol to that wording is the missing bridge.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597197",
+  "section": "13.8",
+  "old": "<td>Fructose 2,6-bisphosphate (high)</td>",
+  "new": "<td>Fructose 2,6-bisphosphate (high); a signal molecule, not the glycolysis intermediate fructose 1,6-bisphosphate</td>",
+  "reason": "The name differs by one digit from the step-3 product students have just learned, and the neighbouring cells name fructose-1,6-bisphosphatase. Nothing on the page tells the reader these are two different molecules; 13.9 avoids the name altogether ('a second signaling molecule').",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597201",
+  "section": "14.2",
+  "old": "We have seen that two carbon atoms enter the citric acid cycle from acetyl-CoA (step 1), and two different carbon atoms exit the cycle as carbon dioxide (steps 3 and 4). Yet nowhere in our discussion of the citric acid cycle have we indicated how oxygen is used. Recall, however, that in",
+  "new": "Two carbon atoms enter the citric acid cycle as acetyl-CoA (step 1), and two carbon atoms leave as carbon dioxide (steps 3 and 4; Section 14.3 shows every step). Notice that oxygen is not used anywhere in the cycle. But in",
+  "reason": "Inherited prose says 'We have seen' and 'nowhere in our discussion' about a step-by-step discussion that was moved to 14.3, which the student has not read yet. An anxious reader goes hunting for the discussion they 'missed'. The new wording states the same facts and points forward. (The next sentence, 'Recall, too, that very little ATP...', has the same stale 'Recall' and could become 'Very little ATP...'.)",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597202",
+  "section": "14.3",
+  "old": "Two turns of the citric acid cycle per glucose molecule yield ten energetic molecules: \\(\\ce{6NADH}\\), \\(\\ce{2FADH_{2}}\\), and \\(\\ce{2ATP}\\)",
+  "new": "Two turns of the citric acid cycle per glucose molecule yield \\(\\ce{6NADH}\\), \\(\\ce{2FADH_{2}}\\), and \\(\\ce{2GTP}\\) (= 2 ATP), worth 20 ATP after electron transport (Section 14.5)",
+  "reason": "The highlighted box puts the number 'ten' next to the cycle, but here it counts molecules per glucose (6 + 2 + 2), while everywhere else in the chapter 'ten' is the 10 ATP per acetyl CoA. This is the easiest number in the chapter to mix up. The new text drops the molecule count, says GTP as the rest of the page does, and gives the ATP value (15 + 3 + 2 = 20, checked against the 14.5 tally).",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597203",
+  "section": "14.4",
+  "old": "Understand parts 2 and 3 of the third stage of food catabolism, i.e., oxidative phosphorylation, and the basics of the redox chemistry of the molecules involved, including flavin mononucleotide, ubiquinone, and cytochrome c.",
+  "new": "Describe how electron transport and ATP synthase together carry out oxidative phosphorylation, and name the two mobile electron carriers, coenzyme Q (ubiquinone) and cytochrome c.",
+  "reason": "The first objective promises flavin mononucleotide, which the page never teaches (the word appears only here; FMN appears only in one alt text), and uses the source book's 'parts 2 and 3 of the third stage' numbering that nothing else in this book uses. The Professor Tip on the same page says metal-center detail is background. The new objective matches what the Lecture Connection says the student owns.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597205",
+  "section": "14.6",
+  "old": "In aerobic metabolism, what is the final electron acceptor of the electron transport chain, and what does it form?",
+  "new": "Rosa breathes harder as she walks. What does the O<sub>2</sub> she takes in do at the end of the electron transport chain, and what does it form?",
+  "reason": "Case Question 14.1 is word-for-word the same idea as Practice Exercise 2 lower on the same page ('What is the final electron acceptor in electron transport, and what does it become?') and can be answered without knowing anything about Rosa. Tying it to her walk keeps the existing answer valid ('Oxygen, O2. It accepts electrons and H+ to form water.') and makes it a case question. Case Question 14.3 likewise repeats Exercise 4.",
+  "severity": "P3"
+ },
+ {
+  "page_id": "597213",
+  "section": "15.5",
+  "old": "Thus, during prolonged starvation, ketone bodies provide about 70% of the energy requirements of the brain.",
+  "new": "The brain cannot burn fatty acids, so during prolonged starvation ketone bodies supply about 70% of its energy.",
+  "reason": "Non sequitur in inherited prose: the sentence before names kidney and heart, then 'Thus' jumps to the brain with no reason given. The replacement states the reason (same one the page's Professor Tip uses) and keeps the 70% figure the Tip refers to.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597215",
+  "section": "15.7",
+  "old": "The urea cycle output follows the opposite way: more urea, more negative.",
+  "new": "Urea is the loss side: the balance is negative only when nitrogen leaving as urea is more than nitrogen eaten as protein.",
+  "reason": "The Check of Example 1 gives a rule that is wrong in general (a healthy adult on a high-protein diet makes more urea and stays in balance) and contradicts the page's own definition (intake versus excretion). A student would apply 'more urea = negative' on an exam.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597210",
+  "section": "15.10",
+  "old": "Amino acids that can degrade to pyruvate or oxaloacetate are called <strong>glucogenic</strong> because these products can form glucose through the gluconeogenesis pathway.",
+  "new": "Amino acids that can degrade to pyruvate or to a citric acid cycle intermediate such as oxaloacetate are called <strong>glucogenic</strong> because these products can form glucose through the gluconeogenesis pathway.",
+  "reason": "The inherited definition is narrower than the Lecture Connection, table and Summary on the same page (pyruvate or any cycle intermediate). Read literally it leaves glutamate, valine, etc. (alpha-ketoglutarate, succinyl CoA) unclassified, so the page defines its key term two ways.",
+  "severity": "P2"
+ },
+ {
+  "page_id": "597209",
+  "section": "15.4",
+  "old": "Understand obesity and the catabolism of glycerol, associated with \\(\\beta\\)-oxidation of fatty acids (ketone bodies are in Section 15.5).",
+  "new": "Describe the two steps that turn glycerol into dihydroxyacetone phosphate (obesity and BMI are background; ketone bodies are in Section 15.5).",
+  "reason": "The objective tells students to 'understand obesity', but the page's Professor Tip says the obesity, BMI and leptin material is background and not assessed. 'Understand' is also not checkable; the replacement names what the glycerol Practice item actually asks.",
+  "severity": "P3"
+ }
+]

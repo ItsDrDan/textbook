@@ -1,0 +1,1010 @@
+[
+ {
+  "page_id": "597058",
+  "section": "1.5 Shapes and polarity",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=shape|angle|polar|tetrahedral|trigonal|linear|bent&amp;n=10&amp;title=Shapes%20and%20polarity\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&amp;ids=fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0899&amp;n=10&amp;title=Shapes%20and%20polarity\"",
+  "reason": "7/18 of current pool ON; 11 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0004 (needs 1.6), fb-3B-0009 (needs 1.7), fb-3B-0404 (needs 1.7), fb-3B-0555 (needs 1.7), fb-3B-0556 (needs 1.7), fb-3B-0557 (needs 1.7), fb-3B-0558 (needs 1.7), fb-3B-0559 (needs 1.7), fb-3B-0560 (needs 1.7), fb-3B-0561 (needs 1.7), fb-3B-0562 (needs 1.7)."
+ },
+ {
+  "page_id": "597058",
+  "section": "1.5 Shapes and polarity (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=shape|angle|polar|tetrahedral|trigonal|linear|bent&amp;n=10&amp;title=Shapes%20and%20polarity\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&amp;ids=fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0899&amp;n=10&amp;title=Shapes%20and%20polarity\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597061",
+  "section": "1.8 Intermolecular forces",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=hydrogen bond|dispersion|dipole|boiling|solub|polar&amp;n=10&amp;title=Intermolecular%20forces\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&amp;n=10&amp;title=Intermolecular%20forces\"",
+  "reason": "41/51 of current pool ON; 8 FORWARD, 2 RELATED, 0 OFF. Forward items: fb-3B-0224 (needs 2.6), fb-3B-0408 (needs 6.3), fb-3B-0617 (needs 2.6), fb-3B-0618 (needs 2.6), fb-3B-0619 (needs 2.6), fb-3B-0620 (needs 2.6), fb-3B-0903 (needs 4.10), fb-3B-0907 (needs 6.3)."
+ },
+ {
+  "page_id": "597062",
+  "section": "1.9 Bonding and shape",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=bond|shape|angle|polar|lewis|tetrahedral|trigonal|octet&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&amp;ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0008,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0555,fb-3B-0556,fb-3B-0557,fb-3B-0558,fb-3B-0559,fb-3B-0560,fb-3B-0561,fb-3B-0562,fb-3B-0899&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis\"",
+  "reason": "17/39 of current pool ON; 3 FORWARD, 19 RELATED, 0 OFF. Forward items: fb-3B-0407 (needs 7.1), fb-3B-0528 (needs 7.1), fb-3B-0897 (needs 7.1)."
+ },
+ {
+  "page_id": "597062",
+  "section": "1.9 Bonding and shape (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=bond|shape|angle|polar|lewis|tetrahedral|trigonal|octet&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&amp;ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0008,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0555,fb-3B-0556,fb-3B-0557,fb-3B-0558,fb-3B-0559,fb-3B-0560,fb-3B-0561,fb-3B-0562,fb-3B-0899&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597062",
+  "section": "1.9 Intermolecular forces",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=hydrogen+bond|dispersion|dipole|boiling|solub|polar&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss\"",
+  "reason": "41/51 of current pool ON; 8 FORWARD, 2 RELATED, 0 OFF. Forward items: fb-3B-0224 (needs 2.6), fb-3B-0408 (needs 6.3), fb-3B-0617 (needs 2.6), fb-3B-0618 (needs 2.6), fb-3B-0619 (needs 2.6), fb-3B-0620 (needs 2.6), fb-3B-0903 (needs 4.10), fb-3B-0907 (needs 6.3)."
+ },
+ {
+  "page_id": "597062",
+  "section": "1.9 Intermolecular forces (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=hydrogen+bond|dispersion|dipole|boiling|solub|polar&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597232",
+  "section": "1.11 Bonding and shape",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=bond|shape|angle|polar|lewis|tetrahedral|trigonal|octet&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&amp;ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0008,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0555,fb-3B-0556,fb-3B-0557,fb-3B-0558,fb-3B-0559,fb-3B-0560,fb-3B-0561,fb-3B-0562,fb-3B-0899&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis\"",
+  "reason": "17/39 of current pool ON; 3 FORWARD, 19 RELATED, 0 OFF. Forward items: fb-3B-0407 (needs 7.1), fb-3B-0528 (needs 7.1), fb-3B-0897 (needs 7.1)."
+ },
+ {
+  "page_id": "597232",
+  "section": "1.11 Bonding and shape (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure&amp;q=bond|shape|angle|polar|lewis|tetrahedral|trigonal|octet&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&amp;ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0008,fb-3B-0011,fb-3B-0012,fb-3B-0228,fb-3B-0229,fb-3B-0230,fb-3B-0406,fb-3B-0555,fb-3B-0556,fb-3B-0557,fb-3B-0558,fb-3B-0559,fb-3B-0560,fb-3B-0561,fb-3B-0562,fb-3B-0899&amp;n=10&amp;title=Bonding+and+shape&amp;game=lewis\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597232",
+  "section": "1.11 Intermolecular forces",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=hydrogen+bond|dispersion|dipole|boiling|solub|polar&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss\"",
+  "reason": "41/51 of current pool ON; 8 FORWARD, 2 RELATED, 0 OFF. Forward items: fb-3B-0224 (needs 2.6), fb-3B-0408 (needs 6.3), fb-3B-0617 (needs 2.6), fb-3B-0618 (needs 2.6), fb-3B-0619 (needs 2.6), fb-3B-0620 (needs 2.6), fb-3B-0903 (needs 4.10), fb-3B-0907 (needs 6.3)."
+ },
+ {
+  "page_id": "597232",
+  "section": "1.11 Intermolecular forces (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=hydrogen+bond|dispersion|dipole|boiling|solub|polar&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-0227,fb-3B-0411,fb-3B-0595,fb-3B-0596,fb-3B-0597,fb-3B-0598,fb-3B-0599,fb-3B-0600,fb-3B-0601,fb-3B-0602,fb-3B-0603,fb-3B-0604,fb-3B-0605,fb-3B-0606,fb-3B-0607,fb-3B-0608,fb-3B-0609,fb-3B-0611,fb-3B-0612,fb-3B-0613,fb-3B-0614,fb-3B-0615,fb-3B-0616,fb-3B-0622,fb-3B-0623,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627,fb-3B-0628,fb-3B-0630,fb-3B-0631,fb-3B-0632,fb-3B-0633,fb-3B-0634,fb-3B-0635,fb-3B-0636,fb-3B-0637,fb-3B-0638&amp;n=10&amp;title=Intermolecular+forces&amp;game=finalboss\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597067",
+  "section": "2.3 Isomers or the same molecule?",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;q=isomer|conform|branch|same&amp;n=10&amp;title=Isomers%20or%20the%20same%20molecule%3F\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=isomers&amp;ids=fb-3B-0206,fb-3B-0207,fb-3B-0214,fb-3B-0215,fb-3B-0563,fb-3B-0564,fb-3B-0570&amp;n=7&amp;title=Isomers%20or%20the%20same%20molecule%3F\"",
+  "reason": "7/58 of current pool ON; 51 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0013 (needs 2.5), fb-3B-0014 (needs 2.4), fb-3B-0015 (needs 2.5), fb-3B-0016 (needs 3.2), fb-3B-0017 (needs 2.9), fb-3B-0018 (needs 2.6), fb-3B-0208 (needs 4.8), fb-3B-0209 (needs 2.8), fb-3B-0210 (needs 2.8), fb-3B-0212 (needs 3.1), fb-3B-0213 (needs 4.8), fb-3B-0216 (needs 3.2), fb-3B-0217 (needs 3.1), fb-3B-0218 (needs 3.2), fb-3B-0219 (needs 4.8), fb-3B-0220 (needs 5.1), fb-3B-0221 (needs 6.5), fb-3B-0241 (needs 2.8), fb-3B-0345 (needs 3.4), fb-3B-0349 (needs 3.6), fb-3B-0350 (needs 2.5), fb-3B-0391 (needs 5.1), fb-3B-0392 (needs 5.1), fb-3B-0393 (needs 4.2), fb-3B-0394 (needs 3.1), fb-3B-0396 (needs 3.2), fb-3B-0533 (needs 2.5), fb-3B-0565 (needs 4.8), fb-3B-0566 (needs 3.1), fb-3B-0567 (needs 2.9), fb-3B-0568 (needs 4.2), fb-3B-0569 (needs 5.1), fb-3B-0571 (needs 6.5), fb-3B-0572 (needs 3.1), fb-3B-0573 (needs 3.2), fb-3B-0574 (needs 3.2), fb-3B-0576 (needs 3.2), fb-3B-0577 (needs 3.2), fb-3B-0578 (needs 3.2), fb-3B-0579 (needs 3.2), fb-3B-0580 (needs 3.2), fb-3B-0655 (needs 3.4), fb-3B-0657 (needs 3.6), fb-3B-0789 (needs 2.9), fb-3B-0792 (needs 4.6), fb-3B-0915 (needs 3.4), fb-3B-0921 (needs 3.2), fb-3B-2061 (needs 2.4), fb-3B-2062 (needs 2.4), fb-3B-2063 (needs 2.4), fb-3B-2067 (needs 3.5)."
+ },
+ {
+  "page_id": "597067",
+  "section": "2.3 Isomers or the same molecule? (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;q=isomer|conform|branch|same&amp;n=10&amp;title=Isomers%20or%20the%20same%20molecule%3F\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=isomers&amp;ids=fb-3B-0206,fb-3B-0207,fb-3B-0214,fb-3B-0215,fb-3B-0563,fb-3B-0564,fb-3B-0570&amp;n=7&amp;title=Isomers%20or%20the%20same%20molecule%3F\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597069",
+  "section": "2.5 Naming alkanes",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&amp;q=alkane|IUPAC|branch|methyl|ethyl&amp;n=10&amp;title=Naming%20alkanes\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons&amp;ids=fb-3B-0013,fb-3B-0015,fb-3B-0240,fb-3B-0256,fb-3B-0350,fb-3B-0533&amp;n=6&amp;title=Naming%20alkanes\"",
+  "reason": "4/41 of current pool ON; 31 FORWARD, 6 RELATED, 0 OFF. Forward items: fb-3B-0017 (needs 2.9), fb-3B-0018 (needs 2.6), fb-3B-0023 (needs 3.4), fb-3B-0025 (needs 3.5), fb-3B-0028 (needs 3.1), fb-3B-0241 (needs 2.8), fb-3B-0345 (needs 3.4), fb-3B-0347 (needs 3.4), fb-3B-0349 (needs 3.6), fb-3B-0351 (needs 2.9), fb-3B-0354 (needs 3.4), fb-3B-0497 (needs 3.4), fb-3B-0500 (needs 3.4), fb-3B-0501 (needs 3.4), fb-3B-0502 (needs 3.4), fb-3B-0504 (needs 3.4), fb-3B-0656 (needs 3.4), fb-3B-0657 (needs 3.6), fb-3B-0658 (needs 3.4), fb-3B-0659 (needs 3.4), fb-3B-0660 (needs 3.4), fb-3B-0662 (needs 3.4), fb-3B-0665 (needs 3.4), fb-3B-0666 (needs 3.4), fb-3B-0667 (needs 3.4), fb-3B-0915 (needs 3.4), fb-3B-0916 (needs 3.4), fb-3B-0917 (needs 2.7), fb-3B-0918 (needs 2.9), fb-3B-2064 (needs 2.7), fb-3B-2067 (needs 3.5)."
+ },
+ {
+  "page_id": "597069",
+  "section": "2.5 Naming alkanes (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&amp;q=alkane|IUPAC|branch|methyl|ethyl&amp;n=10&amp;title=Naming%20alkanes\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons&amp;ids=fb-3B-0013,fb-3B-0015,fb-3B-0240,fb-3B-0256,fb-3B-0350,fb-3B-0533&amp;n=6&amp;title=Naming%20alkanes\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597074",
+  "section": "2.10 Alkanes and isomers",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;q=alkane|cycloalk|conform|combust|halogenation|substitution|saturated|isomer|branch|IUPAC&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&amp;ids=fb-3B-0013,fb-3B-0014,fb-3B-0015,fb-3B-0017,fb-3B-0018,fb-3B-0019,fb-3B-0020,fb-3B-0206,fb-3B-0207,fb-3B-0209,fb-3B-0210,fb-3B-0214,fb-3B-0215,fb-3B-0240,fb-3B-0241,fb-3B-0256,fb-3B-0350,fb-3B-0351,fb-3B-0352,fb-3B-0395,fb-3B-0533,fb-3B-0563,fb-3B-0564,fb-3B-0567,fb-3B-0570,fb-3B-0789,fb-3B-0912,fb-3B-0913,fb-3B-0917,fb-3B-0918,fb-3B-2061,fb-3B-2062,fb-3B-2063,fb-3B-2064,fb-3B-2065,fb-3B-2066,fb-3B-2125&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins\"",
+  "reason": "31/69 of current pool ON; 38 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0016 (needs 3.2), fb-3B-0028 (needs 3.1), fb-3B-0208 (needs 4.8), fb-3B-0212 (needs 3.1), fb-3B-0213 (needs 4.8), fb-3B-0216 (needs 3.2), fb-3B-0217 (needs 3.1), fb-3B-0218 (needs 3.2), fb-3B-0219 (needs 4.8), fb-3B-0220 (needs 5.1), fb-3B-0221 (needs 6.5), fb-3B-0236 (needs 3.4), fb-3B-0239 (needs 3.4), fb-3B-0242 (needs 3.4), fb-3B-0345 (needs 3.4), fb-3B-0348 (needs 3.4), fb-3B-0349 (needs 3.6), fb-3B-0391 (needs 5.1), fb-3B-0392 (needs 5.1), fb-3B-0393 (needs 4.2), fb-3B-0394 (needs 3.1), fb-3B-0565 (needs 4.8), fb-3B-0566 (needs 3.1), fb-3B-0568 (needs 4.2), fb-3B-0569 (needs 5.1), fb-3B-0571 (needs 6.5), fb-3B-0572 (needs 3.1), fb-3B-0574 (needs 3.2), fb-3B-0577 (needs 3.2), fb-3B-0578 (needs 3.2), fb-3B-0579 (needs 3.2), fb-3B-0580 (needs 3.2), fb-3B-0655 (needs 3.4), fb-3B-0668 (needs 3.4), fb-3B-0792 (needs 4.6), fb-3B-0914 (needs 3.4), fb-3B-0915 (needs 3.4), fb-3B-2067 (needs 3.5)."
+ },
+ {
+  "page_id": "597074",
+  "section": "2.10 Alkanes and isomers (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;q=alkane|cycloalk|conform|combust|halogenation|substitution|saturated|isomer|branch|IUPAC&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&amp;ids=fb-3B-0013,fb-3B-0014,fb-3B-0015,fb-3B-0017,fb-3B-0018,fb-3B-0019,fb-3B-0020,fb-3B-0206,fb-3B-0207,fb-3B-0209,fb-3B-0210,fb-3B-0214,fb-3B-0215,fb-3B-0240,fb-3B-0241,fb-3B-0256,fb-3B-0350,fb-3B-0351,fb-3B-0352,fb-3B-0395,fb-3B-0533,fb-3B-0563,fb-3B-0564,fb-3B-0567,fb-3B-0570,fb-3B-0789,fb-3B-0912,fb-3B-0913,fb-3B-0917,fb-3B-0918,fb-3B-2061,fb-3B-2062,fb-3B-2063,fb-3B-2064,fb-3B-2065,fb-3B-2066,fb-3B-2125&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597231",
+  "section": "2.12 Alkanes and isomers",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;q=alkane|cycloalk|conform|combust|halogenation|substitution|saturated|isomer|branch|IUPAC&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&amp;ids=fb-3B-0013,fb-3B-0014,fb-3B-0015,fb-3B-0017,fb-3B-0018,fb-3B-0019,fb-3B-0020,fb-3B-0206,fb-3B-0207,fb-3B-0209,fb-3B-0210,fb-3B-0214,fb-3B-0215,fb-3B-0240,fb-3B-0241,fb-3B-0256,fb-3B-0350,fb-3B-0351,fb-3B-0352,fb-3B-0395,fb-3B-0533,fb-3B-0563,fb-3B-0564,fb-3B-0567,fb-3B-0570,fb-3B-0789,fb-3B-0912,fb-3B-0913,fb-3B-0917,fb-3B-0918,fb-3B-2061,fb-3B-2062,fb-3B-2063,fb-3B-2064,fb-3B-2065,fb-3B-2066,fb-3B-2125&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins\"",
+  "reason": "31/69 of current pool ON; 38 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0016 (needs 3.2), fb-3B-0028 (needs 3.1), fb-3B-0208 (needs 4.8), fb-3B-0212 (needs 3.1), fb-3B-0213 (needs 4.8), fb-3B-0216 (needs 3.2), fb-3B-0217 (needs 3.1), fb-3B-0218 (needs 3.2), fb-3B-0219 (needs 4.8), fb-3B-0220 (needs 5.1), fb-3B-0221 (needs 6.5), fb-3B-0236 (needs 3.4), fb-3B-0239 (needs 3.4), fb-3B-0242 (needs 3.4), fb-3B-0345 (needs 3.4), fb-3B-0348 (needs 3.4), fb-3B-0349 (needs 3.6), fb-3B-0391 (needs 5.1), fb-3B-0392 (needs 5.1), fb-3B-0393 (needs 4.2), fb-3B-0394 (needs 3.1), fb-3B-0565 (needs 4.8), fb-3B-0566 (needs 3.1), fb-3B-0568 (needs 4.2), fb-3B-0569 (needs 5.1), fb-3B-0571 (needs 6.5), fb-3B-0572 (needs 3.1), fb-3B-0574 (needs 3.2), fb-3B-0577 (needs 3.2), fb-3B-0578 (needs 3.2), fb-3B-0579 (needs 3.2), fb-3B-0580 (needs 3.2), fb-3B-0655 (needs 3.4), fb-3B-0668 (needs 3.4), fb-3B-0792 (needs 4.6), fb-3B-0914 (needs 3.4), fb-3B-0915 (needs 3.4), fb-3B-2067 (needs 3.5)."
+ },
+ {
+  "page_id": "597231",
+  "section": "2.12 Alkanes and isomers (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;q=alkane|cycloalk|conform|combust|halogenation|substitution|saturated|isomer|branch|IUPAC&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&amp;ids=fb-3B-0013,fb-3B-0014,fb-3B-0015,fb-3B-0017,fb-3B-0018,fb-3B-0019,fb-3B-0020,fb-3B-0206,fb-3B-0207,fb-3B-0209,fb-3B-0210,fb-3B-0214,fb-3B-0215,fb-3B-0240,fb-3B-0241,fb-3B-0256,fb-3B-0350,fb-3B-0351,fb-3B-0352,fb-3B-0395,fb-3B-0533,fb-3B-0563,fb-3B-0564,fb-3B-0567,fb-3B-0570,fb-3B-0789,fb-3B-0912,fb-3B-0913,fb-3B-0917,fb-3B-0918,fb-3B-2061,fb-3B-2062,fb-3B-2063,fb-3B-2064,fb-3B-2065,fb-3B-2066,fb-3B-2125&amp;n=12&amp;title=Alkanes+and+isomers&amp;game=origins\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597078",
+  "section": "3.1 Naming alkenes and alkynes",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&amp;q=alkene|alkyne|double bond|triple bond|ene|yne&amp;n=10&amp;title=Naming%20alkenes%20and%20alkynes\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,isomers&amp;ids=fb-3B-0027,fb-3B-0028,fb-3B-0212,fb-3B-0217,fb-3B-0394,fb-3B-0566,fb-3B-0572&amp;n=7&amp;title=Naming%20alkenes%20and%20alkynes\"",
+  "reason": "2/57 of current pool ON; 50 FORWARD, 0 RELATED, 5 OFF. Forward items: fb-3B-0016 (needs 3.2), fb-3B-0021 (needs 3.4), fb-3B-0022 (needs 3.4), fb-3B-0023 (needs 3.4), fb-3B-0024 (needs 3.4), fb-3B-0025 (needs 3.5), fb-3B-0026 (needs 3.6), fb-3B-0236 (needs 3.4), fb-3B-0237 (needs 3.4), fb-3B-0238 (needs 3.4), fb-3B-0239 (needs 3.4), fb-3B-0242 (needs 3.4), fb-3B-0345 (needs 3.4), fb-3B-0346 (needs 3.4), fb-3B-0347 (needs 3.4), fb-3B-0348 (needs 3.4), fb-3B-0349 (needs 3.6), fb-3B-0353 (needs 3.2), fb-3B-0354 (needs 3.4), fb-3B-0497 (needs 3.4), fb-3B-0498 (needs 3.4), fb-3B-0499 (needs 3.4), fb-3B-0500 (needs 3.4), fb-3B-0501 (needs 3.4), fb-3B-0502 (needs 3.4), fb-3B-0503 (needs 3.4), fb-3B-0504 (needs 3.4), fb-3B-0575 (needs 3.2), fb-3B-0576 (needs 3.2), fb-3B-0621 (needs 3.6), fb-3B-0655 (needs 3.4), fb-3B-0656 (needs 3.4), fb-3B-0657 (needs 3.6), fb-3B-0658 (needs 3.4), fb-3B-0659 (needs 3.4), fb-3B-0660 (needs 3.4), fb-3B-0661 (needs 3.7), fb-3B-0662 (needs 3.4), fb-3B-0663 (needs 3.4), fb-3B-0664 (needs 3.4), fb-3B-0665 (needs 3.4), fb-3B-0666 (needs 3.4), fb-3B-0667 (needs 3.4), fb-3B-0668 (needs 3.4), fb-3B-0914 (needs 3.4), fb-3B-0915 (needs 3.4), fb-3B-0916 (needs 3.4), fb-3B-2067 (needs 3.5), fb-3B-2068 (needs 3.5), fb-3B-2069 (needs 3.5)."
+ },
+ {
+  "page_id": "597091",
+  "section": "4.2 Naming and classifying alcohols",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=IUPAC%20name%7Ccommon%20name%7Cclassif%7Cprimary%7Csecondary%7Ctertiary&amp;n=10&amp;title=Naming%20and%20classifying%20alcohols\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=isomers,alcohols&amp;ids=fb-3B-0036,fb-3B-0037,fb-3B-0355,fb-3B-0363,fb-3B-0393,fb-3B-0529,fb-3B-0568,fb-3B-0902,fb-3B-0923&amp;n=9&amp;title=Naming%20and%20classifying%20alcohols\"",
+  "reason": "6/10 of current pool ON; 4 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0038 (needs 4.8), fb-3B-0040 (needs 4.7), fb-3B-0359 (needs 4.5), fb-3B-0361 (needs 4.9)."
+ },
+ {
+  "page_id": "597091",
+  "section": "4.2 Naming and classifying alcohols (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=IUPAC%20name%7Ccommon%20name%7Cclassif%7Cprimary%7Csecondary%7Ctertiary&amp;n=10&amp;title=Naming%20and%20classifying%20alcohols\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=isomers,alcohols&amp;ids=fb-3B-0036,fb-3B-0037,fb-3B-0355,fb-3B-0363,fb-3B-0393,fb-3B-0529,fb-3B-0568,fb-3B-0902,fb-3B-0923&amp;n=9&amp;title=Naming%20and%20classifying%20alcohols\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597092",
+  "section": "4.3 Boiling points and solubility",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=alcohol%7Cether%7Chydrogen%20bond%7COH&amp;n=10&amp;title=Boiling%20points%20and%20solubility\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties,alcohols&amp;ids=fb-3B-0042,fb-3B-0043,fb-3B-0223,fb-3B-0225,fb-3B-0227,fb-3B-0595,fb-3B-0599,fb-3B-0600,fb-3B-0605,fb-3B-0607,fb-3B-0612,fb-3B-0614,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627&amp;n=10&amp;title=Boiling%20points%20and%20solubility\"",
+  "reason": "14/52 of current pool ON; 9 FORWARD, 27 RELATED, 2 OFF. Forward items: fb-3B-0231 (needs 7.3), fb-3B-0232 (needs 7.3), fb-3B-0233 (needs 4.10), fb-3B-0408 (needs 6.3), fb-3B-0410 (needs 4.10), fb-3B-0903 (needs 4.10), fb-3B-0905 (needs 4.10), fb-3B-0906 (needs 7.3), fb-3B-0907 (needs 6.3)."
+ },
+ {
+  "page_id": "597092",
+  "section": "4.3 Boiling points and solubility (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=alcohol%7Cether%7Chydrogen%20bond%7COH&amp;n=10&amp;title=Boiling%20points%20and%20solubility\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties,alcohols&amp;ids=fb-3B-0042,fb-3B-0043,fb-3B-0223,fb-3B-0225,fb-3B-0227,fb-3B-0595,fb-3B-0599,fb-3B-0600,fb-3B-0605,fb-3B-0607,fb-3B-0612,fb-3B-0614,fb-3B-0624,fb-3B-0625,fb-3B-0626,fb-3B-0627&amp;n=10&amp;title=Boiling%20points%20and%20solubility\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597097",
+  "section": "4.8 Ethers",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=ether%7Coxy&amp;n=10&amp;title=Ethers\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,properties,alcohols&amp;ids=fb-3B-0005,fb-3B-0038,fb-3B-0208,fb-3B-0213,fb-3B-0219,fb-3B-0223,fb-3B-0225,fb-3B-0228,fb-3B-0362,fb-3B-0558,fb-3B-0565,fb-3B-0599,fb-3B-0600,fb-3B-0614,fb-3B-0615&amp;n=10&amp;title=Ethers\"",
+  "reason": "2/18 of current pool ON; 5 FORWARD, 11 RELATED, 0 OFF. Forward items: fb-3B-0048 (needs 4.9), fb-3B-0922 (needs 4.9), fb-3B-0924 (needs 6.7), fb-3B-0925 (needs 6.7), fb-3B-2076 (needs 4.10)."
+ },
+ {
+  "page_id": "597097",
+  "section": "4.8 Ethers (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=ether%7Coxy&amp;n=10&amp;title=Ethers\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,properties,alcohols&amp;ids=fb-3B-0005,fb-3B-0038,fb-3B-0208,fb-3B-0213,fb-3B-0219,fb-3B-0223,fb-3B-0225,fb-3B-0228,fb-3B-0362,fb-3B-0558,fb-3B-0565,fb-3B-0599,fb-3B-0600,fb-3B-0614,fb-3B-0615&amp;n=10&amp;title=Ethers\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597098",
+  "section": "4.9 Thiols and disulfides",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=thiol%7Cdisulfide%7Cmercaptan&amp;n=10&amp;title=Thiols%20and%20disulfides\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;ids=fb-3B-0039,fb-3B-0048,fb-3B-0250,fb-3B-0361,fb-3B-0511,fb-3B-0679,fb-3B-0680,fb-3B-0922&amp;n=8&amp;title=Thiols%20and%20disulfides\"",
+  "reason": "8/11 of current pool ON; 3 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0251 (needs 6.7), fb-3B-0924 (needs 6.7), fb-3B-0925 (needs 6.7)."
+ },
+ {
+  "page_id": "597098",
+  "section": "4.9 Thiols and disulfides (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=thiol%7Cdisulfide%7Cmercaptan&amp;n=10&amp;title=Thiols%20and%20disulfides\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;ids=fb-3B-0039,fb-3B-0048,fb-3B-0250,fb-3B-0361,fb-3B-0511,fb-3B-0679,fb-3B-0680,fb-3B-0922&amp;n=8&amp;title=Thiols%20and%20disulfides\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597100",
+  "section": "4.11 Alcohols, phenols, ethers and thiols",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins\"",
+  "reason": "49/52 of current pool ON; 3 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0251 (needs 6.7), fb-3B-0924 (needs 6.7), fb-3B-0925 (needs 6.7)."
+ },
+ {
+  "page_id": "597100",
+  "section": "4.11 Alcohols, phenols, ethers and thiols (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597234",
+  "section": "4.13 Alcohols, phenols, ethers and thiols",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins\"",
+  "reason": "49/52 of current pool ON; 3 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0251 (needs 6.7), fb-3B-0924 (needs 6.7), fb-3B-0925 (needs 6.7)."
+ },
+ {
+  "page_id": "597234",
+  "section": "4.13 Alcohols, phenols, ethers and thiols (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=alcohols&amp;q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&amp;n=12&amp;title=Alcohols,+phenols,+ethers+and+thiols&amp;game=origins\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597102",
+  "section": "5.1 Aldehydes and ketones",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbonyls&amp;n=10&amp;title=Aldehydes%20and%20ketones\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,carbonyls&amp;ids=fb-3B-0049,fb-3B-0050,fb-3B-0051,fb-3B-0220,fb-3B-0255,fb-3B-0364,fb-3B-0365,fb-3B-0371,fb-3B-0391,fb-3B-0392,fb-3B-0569,fb-3B-0900&amp;n=10&amp;title=Aldehydes%20and%20ketones\"",
+  "reason": "6/48 of current pool ON; 42 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0052 (needs 5.2), fb-3B-0053 (needs 5.2), fb-3B-0054 (needs 5.2), fb-3B-0055 (needs 5.4), fb-3B-0056 (needs 5.4), fb-3B-0057 (needs 5.3), fb-3B-0058 (needs 5.3), fb-3B-0059 (needs 5.2), fb-3B-0243 (needs 5.3), fb-3B-0244 (needs 5.3), fb-3B-0245 (needs 5.4), fb-3B-0246 (needs 5.4), fb-3B-0366 (needs 5.4), fb-3B-0367 (needs 5.4), fb-3B-0368 (needs 5.3), fb-3B-0369 (needs 5.3), fb-3B-0370 (needs 5.2), fb-3B-0372 (needs 5.3), fb-3B-0512 (needs 5.4), fb-3B-0513 (needs 5.4), fb-3B-0514 (needs 5.3), fb-3B-0515 (needs 5.3), fb-3B-0516 (needs 5.3), fb-3B-0681 (needs 5.4), fb-3B-0682 (needs 5.4), fb-3B-0683 (needs 5.4), fb-3B-0684 (needs 5.2), fb-3B-0685 (needs 5.2), fb-3B-0686 (needs 5.3), fb-3B-0687 (needs 5.3), fb-3B-0688 (needs 5.3), fb-3B-0689 (needs 5.3), fb-3B-0690 (needs 5.3), fb-3B-0691 (needs 5.3), fb-3B-0692 (needs 5.4), fb-3B-0693 (needs 5.3), fb-3B-0926 (needs 5.4), fb-3B-0927 (needs 5.4), fb-3B-0928 (needs 5.3), fb-3B-0929 (needs 5.3), fb-3B-0930 (needs 5.3), fb-3B-2123 (needs 5.2)."
+ },
+ {
+  "page_id": "597102",
+  "section": "5.1 Aldehydes and ketones (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbonyls&amp;n=10&amp;title=Aldehydes%20and%20ketones\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,carbonyls&amp;ids=fb-3B-0049,fb-3B-0050,fb-3B-0051,fb-3B-0220,fb-3B-0255,fb-3B-0364,fb-3B-0365,fb-3B-0371,fb-3B-0391,fb-3B-0392,fb-3B-0569,fb-3B-0900&amp;n=10&amp;title=Aldehydes%20and%20ketones\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597103",
+  "section": "5.2 Carbonyl properties",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=aldehyde%7Cketone%7Ccarbonyl%7CC%3DO&amp;n=10&amp;title=Carbonyl%20properties\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,carbonyls&amp;ids=fb-3B-0052,fb-3B-0059,fb-3B-0229,fb-3B-0370,fb-3B-0556,fb-3B-0559,fb-3B-0596,fb-3B-0603,fb-3B-0607,fb-3B-0612,fb-3B-0613,fb-3B-2123&amp;n=10&amp;title=Carbonyl%20properties\"",
+  "reason": "4/12 of current pool ON; 1 FORWARD, 7 RELATED, 0 OFF. Forward items: fb-3B-0907 (needs 6.3)."
+ },
+ {
+  "page_id": "597103",
+  "section": "5.2 Carbonyl properties (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;q=aldehyde%7Cketone%7Ccarbonyl%7CC%3DO&amp;n=10&amp;title=Carbonyl%20properties\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,carbonyls&amp;ids=fb-3B-0052,fb-3B-0059,fb-3B-0229,fb-3B-0370,fb-3B-0556,fb-3B-0559,fb-3B-0596,fb-3B-0603,fb-3B-0607,fb-3B-0612,fb-3B-0613,fb-3B-2123&amp;n=10&amp;title=Carbonyl%20properties\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597109",
+  "section": "6.1 Naming acids and esters",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&amp;q=IUPAC%20name%7Ccommon%20name%7Cbenzoic&amp;n=9&amp;title=Naming%20acids%20and%20esters\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&amp;ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002&amp;n=6&amp;title=Naming%20acids%20and%20esters\"",
+  "reason": "4/12 of current pool ON; 8 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0069 (needs 6.5), fb-3B-0073 (needs 6.4), fb-3B-0380 (needs 6.8), fb-3B-0521 (needs 6.8), fb-3B-0629 (needs 6.4), fb-3B-0694 (needs 6.7), fb-3B-0696 (needs 6.7), fb-3B-2075 (needs 6.4)."
+ },
+ {
+  "page_id": "597109",
+  "section": "6.1 Naming acids and esters (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&amp;q=IUPAC%20name%7Ccommon%20name%7Cbenzoic&amp;n=9&amp;title=Naming%20acids%20and%20esters\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&amp;ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B-0901,fb-3B-2001,fb-3B-2002&amp;n=6&amp;title=Naming%20acids%20and%20esters\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597113",
+  "section": "6.5 Esters",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&amp;q=ester%7Coate&amp;n=10&amp;title=Esters\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,acids_esters&amp;ids=fb-3B-0006,fb-3B-0069,fb-3B-0077,fb-3B-0221,fb-3B-0373,fb-3B-0534,fb-3B-0571,fb-3B-0932&amp;n=8&amp;title=Esters\"",
+  "reason": "5/40 of current pool ON; 26 FORWARD, 9 RELATED, 0 OFF. Forward items: fb-3B-0070 (needs 6.7), fb-3B-0074 (needs 6.8), fb-3B-0075 (needs 6.8), fb-3B-0078 (needs 6.10), fb-3B-0374 (needs 6.7), fb-3B-0376 (needs 6.8), fb-3B-0377 (needs 6.8), fb-3B-0380 (needs 6.8), fb-3B-0381 (needs 6.8), fb-3B-0517 (needs 6.7), fb-3B-0518 (needs 6.7), fb-3B-0519 (needs 6.8), fb-3B-0520 (needs 6.8), fb-3B-0521 (needs 6.8), fb-3B-0694 (needs 6.7), fb-3B-0695 (needs 6.7), fb-3B-0696 (needs 6.7), fb-3B-0697 (needs 6.8), fb-3B-0698 (needs 6.8), fb-3B-0701 (needs 6.8), fb-3B-0702 (needs 6.8), fb-3B-0703 (needs 6.7), fb-3B-0704 (needs 6.8), fb-3B-0931 (needs 6.8), fb-3B-2005 (needs 6.6), fb-3B-2009 (needs 6.9)."
+ },
+ {
+  "page_id": "597113",
+  "section": "6.5 Esters (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&amp;q=ester%7Coate&amp;n=10&amp;title=Esters\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,acids_esters&amp;ids=fb-3B-0006,fb-3B-0069,fb-3B-0077,fb-3B-0221,fb-3B-0373,fb-3B-0534,fb-3B-0571,fb-3B-0932&amp;n=8&amp;title=Esters\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597118",
+  "section": "6.10 Acidity and carboxylate salts",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&amp;q=acidic%7Cioniz%7Csalt%7Ccarboxylate%7Cstrong%20acid%7Cweak%20acid&amp;n=10&amp;title=Acidity%20and%20carboxylate%20salts\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties,acids_esters&amp;ids=fb-3B-0071,fb-3B-0072,fb-3B-0073,fb-3B-0078,fb-3B-0379,fb-3B-0629,fb-3B-0699,fb-3B-0700,fb-3B-0904,fb-3B-0909,fb-3B-2006,fb-3B-2007,fb-3B-2075,fb-3B-2077&amp;n=10&amp;title=Acidity%20and%20carboxylate%20salts\"",
+  "reason": "10/18 of current pool ON; 0 FORWARD, 8 RELATED, 0 OFF."
+ },
+ {
+  "page_id": "597118",
+  "section": "6.10 Acidity and carboxylate salts (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&amp;q=acidic%7Cioniz%7Csalt%7Ccarboxylate%7Cstrong%20acid%7Cweak%20acid&amp;n=10&amp;title=Acidity%20and%20carboxylate%20salts\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties,acids_esters&amp;ids=fb-3B-0071,fb-3B-0072,fb-3B-0073,fb-3B-0078,fb-3B-0379,fb-3B-0629,fb-3B-0699,fb-3B-0700,fb-3B-0904,fb-3B-0909,fb-3B-2006,fb-3B-2007,fb-3B-2075,fb-3B-2077&amp;n=10&amp;title=Acidity%20and%20carboxylate%20salts\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597121",
+  "section": "7.1 Classify and name amines",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=amines&amp;q=classif|primary|secondary|tertiary|quaternary|name|aniline&amp;n=10&amp;title=Classify%20and%20name%20amines\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,aromatic,amines&amp;ids=fb-3B-0035,fb-3B-0079,fb-3B-0080,fb-3B-0081,fb-3B-0082,fb-3B-0252,fb-3B-0382,fb-3B-0383,fb-3B-0384,fb-3B-0407,fb-3B-0528,fb-3B-0532,fb-3B-0589,fb-3B-0590,fb-3B-0591,fb-3B-0592,fb-3B-0593,fb-3B-0594,fb-3B-0897,fb-3B-0933&amp;n=10&amp;title=Classify%20and%20name%20amines\"",
+  "reason": "14/18 of current pool ON; 4 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0388 (needs 7.4), fb-3B-0524 (needs 7.3), fb-3B-0707 (needs 7.7), fb-3B-0934 (needs 7.6)."
+ },
+ {
+  "page_id": "597121",
+  "section": "7.1 Classify and name amines (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=amines&amp;q=classif|primary|secondary|tertiary|quaternary|name|aniline&amp;n=10&amp;title=Classify%20and%20name%20amines\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=structure,aromatic,amines&amp;ids=fb-3B-0035,fb-3B-0079,fb-3B-0080,fb-3B-0081,fb-3B-0082,fb-3B-0252,fb-3B-0382,fb-3B-0383,fb-3B-0384,fb-3B-0407,fb-3B-0528,fb-3B-0532,fb-3B-0589,fb-3B-0590,fb-3B-0591,fb-3B-0592,fb-3B-0593,fb-3B-0594,fb-3B-0897,fb-3B-0933&amp;n=10&amp;title=Classify%20and%20name%20amines\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597122",
+  "section": "7.2 Rank by boiling point and solubility",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;n=10&amp;title=Rank%20by%20boiling%20point%20and%20solubility\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=properties,amines&amp;ids=fb-3B-0085,fb-3B-0222,fb-3B-0597,fb-3B-0598,fb-3B-0604,fb-3B-0606,fb-3B-0608,fb-3B-0609,fb-3B-0610,fb-3B-0623,fb-3B-0628&amp;n=10&amp;title=Rank%20by%20boiling%20point%20and%20solubility\"",
+  "reason": "9/65 of current pool ON; 3 FORWARD, 41 RELATED, 12 OFF. Forward items: fb-3B-0231 (needs 7.3), fb-3B-0232 (needs 7.3), fb-3B-0906 (needs 7.3)."
+ },
+ {
+  "page_id": "597122",
+  "section": "7.2 Rank by boiling point and solubility (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties&amp;n=10&amp;title=Rank%20by%20boiling%20point%20and%20solubility\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=properties,amines&amp;ids=fb-3B-0085,fb-3B-0222,fb-3B-0597,fb-3B-0598,fb-3B-0604,fb-3B-0606,fb-3B-0608,fb-3B-0609,fb-3B-0610,fb-3B-0623,fb-3B-0628&amp;n=10&amp;title=Rank%20by%20boiling%20point%20and%20solubility\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597135",
+  "section": "8.2 Classify sugars",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=aldo|keto|fischer|chiral|enantiomer|epimer|diastereomer|D-|L-&amp;n=10&amp;title=Classify%20sugars\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0090,fb-3B-0100,fb-3B-0257,fb-3B-0261,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0727,fb-3B-0728,fb-3B-0935,fb-3B-0941&amp;n=10&amp;title=Classify%20sugars\"",
+  "reason": "16/46 of current pool ON; 30 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0091 (needs 8.4), fb-3B-0092 (needs 8.4), fb-3B-0093 (needs 8.3), fb-3B-0101 (needs 8.4), fb-3B-0102 (needs 8.4), fb-3B-0185 (needs 8.5), fb-3B-0258 (needs 8.4), fb-3B-0259 (needs 8.6), fb-3B-0262 (needs 8.4), fb-3B-0415 (needs 8.3), fb-3B-0420 (needs 8.4), fb-3B-0421 (needs 8.6), fb-3B-0422 (needs 8.5), fb-3B-0424 (needs 8.6), fb-3B-0724 (needs 8.3), fb-3B-0725 (needs 8.3), fb-3B-0726 (needs 8.3), fb-3B-0729 (needs 8.4), fb-3B-0730 (needs 8.4), fb-3B-0731 (needs 8.4), fb-3B-0732 (needs 8.4), fb-3B-0733 (needs 8.4), fb-3B-0734 (needs 8.4), fb-3B-0736 (needs 8.4), fb-3B-0741 (needs 8.6), fb-3B-0743 (needs 8.6), fb-3B-0744 (needs 8.4), fb-3B-0943 (needs 8.4), fb-3B-0980 (needs 8.6), fb-3B-2081 (needs 8.5)."
+ },
+ {
+  "page_id": "597135",
+  "section": "8.2 Classify sugars (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=aldo|keto|fischer|chiral|enantiomer|epimer|diastereomer|D-|L-&amp;n=10&amp;title=Classify%20sugars\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0090,fb-3B-0100,fb-3B-0257,fb-3B-0261,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0727,fb-3B-0728,fb-3B-0935,fb-3B-0941&amp;n=10&amp;title=Classify%20sugars\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597137",
+  "section": "8.4 Sugar structures",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=haworth|anomer|fischer|chiral|hemiacetal|classif|aldo|keto&amp;n=10&amp;title=Sugar+structures&amp;game=carbs\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,fb-3B-0101,fb-3B-0102,fb-3B-0257,fb-3B-0258,fb-3B-0261,fb-3B-0262,fb-3B-0415,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0420,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0724,fb-3B-0725,fb-3B-0726,fb-3B-0727,fb-3B-0728,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0935,fb-3B-0941,fb-3B-0943&amp;n=10&amp;title=Sugar+structures&amp;game=carbs\"",
+  "reason": "35/51 of current pool ON; 16 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0094 (needs 8.6), fb-3B-0097 (needs 8.6), fb-3B-0185 (needs 8.5), fb-3B-0259 (needs 8.6), fb-3B-0260 (needs 8.6), fb-3B-0421 (needs 8.6), fb-3B-0423 (needs 8.6), fb-3B-0424 (needs 8.6), fb-3B-0739 (needs 8.6), fb-3B-0741 (needs 8.6), fb-3B-0742 (needs 8.6), fb-3B-0743 (needs 8.6), fb-3B-0937 (needs 8.7), fb-3B-0942 (needs 8.6), fb-3B-0980 (needs 8.6), fb-3B-2081 (needs 8.5)."
+ },
+ {
+  "page_id": "597137",
+  "section": "8.4 Sugar structures (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=haworth|anomer|fischer|chiral|hemiacetal|classif|aldo|keto&amp;n=10&amp;title=Sugar+structures&amp;game=carbs\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,fb-3B-0101,fb-3B-0102,fb-3B-0257,fb-3B-0258,fb-3B-0261,fb-3B-0262,fb-3B-0415,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0420,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0724,fb-3B-0725,fb-3B-0726,fb-3B-0727,fb-3B-0728,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0935,fb-3B-0941,fb-3B-0943&amp;n=10&amp;title=Sugar+structures&amp;game=carbs\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597137",
+  "section": "8.4 Haworth rings and anomers",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=haworth|anomer|mutarot|pyranose|furanose|hemiacetal&amp;n=10&amp;title=Haworth%20rings%20and%20anomers\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0091,fb-3B-0092,fb-3B-0101,fb-3B-0102,fb-3B-0258,fb-3B-0262,fb-3B-0420,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0943&amp;n=10&amp;title=Haworth%20rings%20and%20anomers\"",
+  "reason": "17/31 of current pool ON; 13 FORWARD, 1 RELATED, 0 OFF. Forward items: fb-3B-0094 (needs 8.6), fb-3B-0097 (needs 8.6), fb-3B-0259 (needs 8.6), fb-3B-0260 (needs 8.6), fb-3B-0421 (needs 8.6), fb-3B-0423 (needs 8.6), fb-3B-0424 (needs 8.6), fb-3B-0739 (needs 8.6), fb-3B-0741 (needs 8.6), fb-3B-0742 (needs 8.6), fb-3B-0937 (needs 8.7), fb-3B-0942 (needs 8.6), fb-3B-0980 (needs 8.6)."
+ },
+ {
+  "page_id": "597137",
+  "section": "8.4 Haworth rings and anomers (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=haworth|anomer|mutarot|pyranose|furanose|hemiacetal&amp;n=10&amp;title=Haworth%20rings%20and%20anomers\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0091,fb-3B-0092,fb-3B-0101,fb-3B-0102,fb-3B-0258,fb-3B-0262,fb-3B-0420,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0943&amp;n=10&amp;title=Haworth%20rings%20and%20anomers\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597138",
+  "section": "8.5 Sugar redox",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=reduc|benedict|oxid|sorbitol|xylitol|alditol|aldonic|uronic|aldaric&amp;n=10&amp;title=Sugar%20redox\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbonyls,carbs&amp;ids=fb-3B-0055,fb-3B-0185,fb-3B-0422,fb-3B-2081,fb-3B-2082,fb-3B-2083&amp;n=6&amp;title=Sugar%20redox\"",
+  "reason": "5/14 of current pool ON; 9 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0094 (needs 8.6), fb-3B-0097 (needs 8.6), fb-3B-0260 (needs 8.6), fb-3B-0421 (needs 8.6), fb-3B-0424 (needs 8.6), fb-3B-0741 (needs 8.6), fb-3B-0742 (needs 8.6), fb-3B-0942 (needs 8.6), fb-3B-0980 (needs 8.6)."
+ },
+ {
+  "page_id": "597138",
+  "section": "8.5 Sugar redox (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=reduc|benedict|oxid|sorbitol|xylitol|alditol|aldonic|uronic|aldaric&amp;n=10&amp;title=Sugar%20redox\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbonyls,carbs&amp;ids=fb-3B-0055,fb-3B-0185,fb-3B-0422,fb-3B-2081,fb-3B-2082,fb-3B-2083&amp;n=6&amp;title=Sugar%20redox\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597139",
+  "section": "8.6 Disaccharides",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=disacch|maltose|lactose|sucrose|glycosidic|condensation|hydroly&amp;n=10&amp;title=Disaccharides\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0094,fb-3B-0095,fb-3B-0096,fb-3B-0097,fb-3B-0184,fb-3B-0259,fb-3B-0260,fb-3B-0344,fb-3B-0421,fb-3B-0423,fb-3B-0424,fb-3B-0426,fb-3B-0737,fb-3B-0738,fb-3B-0739,fb-3B-0741,fb-3B-0742,fb-3B-0743,fb-3B-0980,fb-3B-2115,fb-3B-2116&amp;n=10&amp;title=Disaccharides\"",
+  "reason": "21/46 of current pool ON; 6 FORWARD, 19 RELATED, 0 OFF. Forward items: fb-3B-0098 (needs 8.7), fb-3B-0183 (needs 8.7), fb-3B-0263 (needs 8.7), fb-3B-0425 (needs 8.7), fb-3B-0740 (needs 8.7), fb-3B-0937 (needs 8.7)."
+ },
+ {
+  "page_id": "597139",
+  "section": "8.6 Disaccharides (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=disacch|maltose|lactose|sucrose|glycosidic|condensation|hydroly&amp;n=10&amp;title=Disaccharides\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0094,fb-3B-0095,fb-3B-0096,fb-3B-0097,fb-3B-0184,fb-3B-0259,fb-3B-0260,fb-3B-0344,fb-3B-0421,fb-3B-0423,fb-3B-0424,fb-3B-0426,fb-3B-0737,fb-3B-0738,fb-3B-0739,fb-3B-0741,fb-3B-0742,fb-3B-0743,fb-3B-0980,fb-3B-2115,fb-3B-2116&amp;n=10&amp;title=Disaccharides\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597140",
+  "section": "8.7 Polysaccharides",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=starch|glycogen|cellulose|amylose|amylopectin|polysacch&amp;n=10&amp;title=Polysaccharides\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0098,fb-3B-0099,fb-3B-0183,fb-3B-0263,fb-3B-0425,fb-3B-0740,fb-3B-0937,fb-3B-0944&amp;n=8&amp;title=Polysaccharides\"",
+  "reason": "8/18 of current pool ON; 0 FORWARD, 10 RELATED, 0 OFF."
+ },
+ {
+  "page_id": "597140",
+  "section": "8.7 Polysaccharides (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=starch|glycogen|cellulose|amylose|amylopectin|polysacch&amp;n=10&amp;title=Polysaccharides\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0098,fb-3B-0099,fb-3B-0183,fb-3B-0263,fb-3B-0425,fb-3B-0740,fb-3B-0937,fb-3B-0944&amp;n=8&amp;title=Polysaccharides\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597238",
+  "section": "8.10 Sugar structures",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=haworth|anomer|fischer|chiral|hemiacetal|classif|aldo|keto&amp;n=10&amp;title=Sugar+structures&amp;game=carbs\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,fb-3B-0101,fb-3B-0102,fb-3B-0257,fb-3B-0258,fb-3B-0261,fb-3B-0262,fb-3B-0415,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0420,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0724,fb-3B-0725,fb-3B-0726,fb-3B-0727,fb-3B-0728,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0935,fb-3B-0941,fb-3B-0943&amp;n=10&amp;title=Sugar+structures&amp;game=carbs\"",
+  "reason": "35/51 of current pool ON; 0 FORWARD, 16 RELATED, 0 OFF."
+ },
+ {
+  "page_id": "597238",
+  "section": "8.10 Sugar structures (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;q=haworth|anomer|fischer|chiral|hemiacetal|classif|aldo|keto&amp;n=10&amp;title=Sugar+structures&amp;game=carbs\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs&amp;ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,fb-3B-0101,fb-3B-0102,fb-3B-0257,fb-3B-0258,fb-3B-0261,fb-3B-0262,fb-3B-0415,fb-3B-0416,fb-3B-0417,fb-3B-0418,fb-3B-0419,fb-3B-0420,fb-3B-0720,fb-3B-0721,fb-3B-0722,fb-3B-0723,fb-3B-0724,fb-3B-0725,fb-3B-0726,fb-3B-0727,fb-3B-0728,fb-3B-0729,fb-3B-0730,fb-3B-0731,fb-3B-0732,fb-3B-0733,fb-3B-0734,fb-3B-0735,fb-3B-0736,fb-3B-0744,fb-3B-0935,fb-3B-0941,fb-3B-0943&amp;n=10&amp;title=Sugar+structures&amp;game=carbs\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597144",
+  "section": "9.1 Fatty acids",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=fatty%20acid|saturated|omega|melting|cis|trans|essential|prostaglandin|eicosanoid|wax&amp;n=10&amp;title=Fatty%20acids\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0103,fb-3B-0104,fb-3B-0187,fb-3B-0267,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0434,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0762,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0858,fb-3B-0945,fb-3B-0946&amp;n=10&amp;title=Fatty%20acids\"",
+  "reason": "18/66 of current pool ON; 40 FORWARD, 8 RELATED, 0 OFF. Forward items: fb-3B-0105 (needs 9.2), fb-3B-0107 (needs 9.2), fb-3B-0109 (needs 9.3), fb-3B-0110 (needs 9.4), fb-3B-0111 (needs 9.6), fb-3B-0114 (needs 9.2), fb-3B-0188 (needs 9.2), fb-3B-0189 (needs 9.5), fb-3B-0190 (needs 9.6), fb-3B-0265 (needs 9.2), fb-3B-0266 (needs 15.4), fb-3B-0268 (needs 9.6), fb-3B-0270 (needs 9.2), fb-3B-0271 (needs 9.5), fb-3B-0272 (needs 9.5), fb-3B-0342 (needs 15.1), fb-3B-0343 (needs 15.2), fb-3B-0432 (needs 9.4), fb-3B-0435 (needs 9.2), fb-3B-0436 (needs 9.5), fb-3B-0437 (needs 9.2), fb-3B-0761 (needs 9.2), fb-3B-0764 (needs 9.2), fb-3B-0765 (needs 9.2), fb-3B-0766 (needs 9.6), fb-3B-0767 (needs 9.6), fb-3B-0853 (needs 9.2), fb-3B-0854 (needs 9.2), fb-3B-0856 (needs 9.3), fb-3B-0857 (needs 9.6), fb-3B-0860 (needs 9.2), fb-3B-0948 (needs 9.2), fb-3B-0949 (needs 9.5), fb-3B-0950 (needs 9.5), fb-3B-0984 (needs 9.2), fb-3B-2087 (needs 9.2), fb-3B-2088 (needs 9.2), fb-3B-2118 (needs 9.6), fb-3B-2119 (needs 9.6), fb-3B-2121 (needs 9.6)."
+ },
+ {
+  "page_id": "597144",
+  "section": "9.1 Fatty acids (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=fatty%20acid|saturated|omega|melting|cis|trans|essential|prostaglandin|eicosanoid|wax&amp;n=10&amp;title=Fatty%20acids\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0103,fb-3B-0104,fb-3B-0187,fb-3B-0267,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0434,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0762,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0858,fb-3B-0945,fb-3B-0946&amp;n=10&amp;title=Fatty%20acids\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597145",
+  "section": "9.2 Fatty acids and triacylglycerols",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=fatty+acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0187,fb-3B-0188,fb-3B-0265,fb-3B-0267,fb-3B-0270,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0430,fb-3B-0431,fb-3B-0434,fb-3B-0435,fb-3B-0437,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0761,fb-3B-0762,fb-3B-0763,fb-3B-0764,fb-3B-0765,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0853,fb-3B-0854,fb-3B-0858,fb-3B-0860,fb-3B-0945,fb-3B-0946,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab\"",
+  "reason": "40/65 of current pool ON; 19 FORWARD, 6 RELATED, 0 OFF. Forward items: fb-3B-0109 (needs 9.3), fb-3B-0110 (needs 9.4), fb-3B-0111 (needs 9.6), fb-3B-0186 (needs 9.6), fb-3B-0190 (needs 9.6), fb-3B-0266 (needs 15.4), fb-3B-0342 (needs 15.1), fb-3B-0343 (needs 15.2), fb-3B-0432 (needs 9.4), fb-3B-0436 (needs 9.5), fb-3B-0766 (needs 9.6), fb-3B-0767 (needs 9.6), fb-3B-0856 (needs 9.3), fb-3B-0857 (needs 9.6), fb-3B-0859 (needs 9.6), fb-3B-0949 (needs 9.5), fb-3B-2118 (needs 9.6), fb-3B-2119 (needs 9.6), fb-3B-2121 (needs 9.6)."
+ },
+ {
+  "page_id": "597145",
+  "section": "9.2 Fatty acids and triacylglycerols (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=fatty+acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0187,fb-3B-0188,fb-3B-0265,fb-3B-0267,fb-3B-0270,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0430,fb-3B-0431,fb-3B-0434,fb-3B-0435,fb-3B-0437,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0761,fb-3B-0762,fb-3B-0763,fb-3B-0764,fb-3B-0765,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0853,fb-3B-0854,fb-3B-0858,fb-3B-0860,fb-3B-0945,fb-3B-0946,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597145",
+  "section": "9.2 Triacylglycerol reactions",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=triacyl|triglycer|glycerol|hydrogenation|saponif|soap|lipase|fat|oil&amp;n=10&amp;title=Triacylglycerol%20reactions\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0270,fb-3B-0430,fb-3B-0431,fb-3B-0435,fb-3B-0437,fb-3B-0762,fb-3B-0763,fb-3B-0765,fb-3B-0853,fb-3B-0854,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&amp;n=10&amp;title=Triacylglycerol%20reactions\"",
+  "reason": "17/68 of current pool ON; 21 FORWARD, 30 RELATED, 0 OFF. Forward items: fb-3B-0109 (needs 9.3), fb-3B-0110 (needs 9.4), fb-3B-0111 (needs 9.6), fb-3B-0112 (needs 9.5), fb-3B-0186 (needs 9.6), fb-3B-0190 (needs 9.6), fb-3B-0266 (needs 15.4), fb-3B-0342 (needs 15.1), fb-3B-0343 (needs 15.2), fb-3B-0432 (needs 9.4), fb-3B-0436 (needs 9.5), fb-3B-0766 (needs 9.6), fb-3B-0767 (needs 9.6), fb-3B-0855 (needs 9.5), fb-3B-0856 (needs 9.3), fb-3B-0857 (needs 9.6), fb-3B-0859 (needs 9.6), fb-3B-0949 (needs 9.5), fb-3B-2118 (needs 9.6), fb-3B-2119 (needs 9.6), fb-3B-2121 (needs 9.6)."
+ },
+ {
+  "page_id": "597145",
+  "section": "9.2 Triacylglycerol reactions (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=triacyl|triglycer|glycerol|hydrogenation|saponif|soap|lipase|fat|oil&amp;n=10&amp;title=Triacylglycerol%20reactions\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0270,fb-3B-0430,fb-3B-0431,fb-3B-0435,fb-3B-0437,fb-3B-0762,fb-3B-0763,fb-3B-0765,fb-3B-0853,fb-3B-0854,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&amp;n=10&amp;title=Triacylglycerol%20reactions\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597148",
+  "section": "9.5 Membranes and transport",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=membrane|bilayer|transport|diffusion|phospholipid|sphingo&amp;n=10&amp;title=Membranes%20and%20transport\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0109,fb-3B-0110,fb-3B-0112,fb-3B-0189,fb-3B-0271,fb-3B-0272,fb-3B-0432,fb-3B-0436,fb-3B-0855,fb-3B-0856,fb-3B-0949,fb-3B-0950&amp;n=10&amp;title=Membranes%20and%20transport\"",
+  "reason": "12/30 of current pool ON; 9 FORWARD, 9 RELATED, 0 OFF. Forward items: fb-3B-0186 (needs 9.6), fb-3B-0190 (needs 9.6), fb-3B-0268 (needs 9.6), fb-3B-0342 (needs 15.1), fb-3B-0343 (needs 15.2), fb-3B-0767 (needs 9.6), fb-3B-2118 (needs 9.6), fb-3B-2119 (needs 9.6), fb-3B-2121 (needs 9.6)."
+ },
+ {
+  "page_id": "597148",
+  "section": "9.5 Membranes and transport (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=membrane|bilayer|transport|diffusion|phospholipid|sphingo&amp;n=10&amp;title=Membranes%20and%20transport\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0109,fb-3B-0110,fb-3B-0112,fb-3B-0189,fb-3B-0271,fb-3B-0272,fb-3B-0432,fb-3B-0436,fb-3B-0855,fb-3B-0856,fb-3B-0949,fb-3B-0950&amp;n=10&amp;title=Membranes%20and%20transport\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597149",
+  "section": "9.6 Steroids and lipid classes",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=steroid|cholesterol|bile|hormone|vitamin|hydrolyzable|classif|family&amp;n=10&amp;title=Steroids%20and%20lipid%20classes\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0111,fb-3B-0186,fb-3B-0190,fb-3B-0268,fb-3B-0432,fb-3B-0433,fb-3B-0436,fb-3B-0766,fb-3B-0767,fb-3B-0857,fb-3B-0859,fb-3B-0861,fb-3B-0939,fb-3B-0947,fb-3B-2118,fb-3B-2119,fb-3B-2121&amp;n=10&amp;title=Steroids%20and%20lipid%20classes\"",
+  "reason": "15/32 of current pool ON; 0 FORWARD, 17 RELATED, 0 OFF."
+ },
+ {
+  "page_id": "597149",
+  "section": "9.6 Steroids and lipid classes (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=steroid|cholesterol|bile|hormone|vitamin|hydrolyzable|classif|family&amp;n=10&amp;title=Steroids%20and%20lipid%20classes\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0111,fb-3B-0186,fb-3B-0190,fb-3B-0268,fb-3B-0432,fb-3B-0433,fb-3B-0436,fb-3B-0766,fb-3B-0767,fb-3B-0857,fb-3B-0859,fb-3B-0861,fb-3B-0939,fb-3B-0947,fb-3B-2118,fb-3B-2119,fb-3B-2121&amp;n=10&amp;title=Steroids%20and%20lipid%20classes\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597150",
+  "section": "9.7 Lipids",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;n=14&amp;title=Lipids&amp;game=lipidlab\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20triacyl%7CGram%20for%20gram%2C%20fat%20stores%20pr%29%29&amp;n=14&amp;title=Lipids&amp;game=lipidlab\"",
+  "reason": "74/77 of current pool ON; 3 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0266 (needs 15.4), fb-3B-0342 (needs 15.1), fb-3B-0343 (needs 15.2)."
+ },
+ {
+  "page_id": "597150",
+  "section": "9.7 Lipids (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;n=14&amp;title=Lipids&amp;game=lipidlab\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20triacyl%7CGram%20for%20gram%2C%20fat%20stores%20pr%29%29&amp;n=14&amp;title=Lipids&amp;game=lipidlab\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597239",
+  "section": "9.9 Fatty acids and triacylglycerols",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=fatty+acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0187,fb-3B-0188,fb-3B-0265,fb-3B-0267,fb-3B-0270,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0430,fb-3B-0431,fb-3B-0434,fb-3B-0435,fb-3B-0437,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0761,fb-3B-0762,fb-3B-0763,fb-3B-0764,fb-3B-0765,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0853,fb-3B-0854,fb-3B-0858,fb-3B-0860,fb-3B-0945,fb-3B-0946,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab\"",
+  "reason": "40/65 of current pool ON; 3 FORWARD, 22 RELATED, 0 OFF. Forward items: fb-3B-0266 (needs 15.4), fb-3B-0342 (needs 15.1), fb-3B-0343 (needs 15.2)."
+ },
+ {
+  "page_id": "597239",
+  "section": "9.9 Fatty acids and triacylglycerols (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=fatty+acid|triacyl|triglycer|saturated|hydrogenation|saponif|soap|omega&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0187,fb-3B-0188,fb-3B-0265,fb-3B-0267,fb-3B-0270,fb-3B-0427,fb-3B-0428,fb-3B-0429,fb-3B-0430,fb-3B-0431,fb-3B-0434,fb-3B-0435,fb-3B-0437,fb-3B-0758,fb-3B-0759,fb-3B-0760,fb-3B-0761,fb-3B-0762,fb-3B-0763,fb-3B-0764,fb-3B-0765,fb-3B-0850,fb-3B-0851,fb-3B-0852,fb-3B-0853,fb-3B-0854,fb-3B-0858,fb-3B-0860,fb-3B-0945,fb-3B-0946,fb-3B-0948,fb-3B-0984,fb-3B-2087,fb-3B-2088&amp;n=10&amp;title=Fatty+acids+and+triacylglycerols&amp;game=lipidlab\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597239",
+  "section": "9.9 Lipids",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;n=14&amp;title=Lipids&amp;game=lipidlab\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20triacyl%7CGram%20for%20gram%2C%20fat%20stores%20pr%29%29&amp;n=14&amp;title=Lipids&amp;game=lipidlab\"",
+  "reason": "74/77 of current pool ON; 3 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0266 (needs 15.4), fb-3B-0342 (needs 15.1), fb-3B-0343 (needs 15.2)."
+ },
+ {
+  "page_id": "597239",
+  "section": "9.9 Lipids (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;n=14&amp;title=Lipids&amp;game=lipidlab\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids&amp;q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20triacyl%7CGram%20for%20gram%2C%20fat%20stores%20pr%29%29&amp;n=14&amp;title=Lipids&amp;game=lipidlab\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597154",
+  "section": "10.1 Classify the side chain",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=amino%20acid%7CR%20group%7Cside%20chain%7Cnonpolar%7Cpolar%7Cessential%7Cabbrev&amp;n=10&amp;title=Classify%20the%20side%20chain\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0279,fb-3B-0439,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750&amp;n=9&amp;title=Classify%20the%20side%20chain\"",
+  "reason": "9/55 of current pool ON; 39 FORWARD, 7 RELATED, 0 OFF. Forward items: fb-3B-0116 (needs 10.2), fb-3B-0118 (needs 10.4), fb-3B-0120 (needs 10.4), fb-3B-0121 (needs 10.6), fb-3B-0122 (needs 10.7), fb-3B-0123 (needs 10.8), fb-3B-0125 (needs 10.10), fb-3B-0126 (needs 10.5), fb-3B-0127 (needs 10.8), fb-3B-0195 (needs 10.2), fb-3B-0273 (needs 10.4), fb-3B-0275 (needs 10.2), fb-3B-0276 (needs 10.7), fb-3B-0277 (needs 10.8), fb-3B-0340 (needs 10.10), fb-3B-0341 (needs 15.11), fb-3B-0438 (needs 10.2), fb-3B-0440 (needs 10.8), fb-3B-0441 (needs 10.4), fb-3B-0443 (needs 10.10), fb-3B-0445 (needs 10.8), fb-3B-0448 (needs 10.3), fb-3B-0755 (needs 10.2), fb-3B-0757 (needs 10.3), fb-3B-0862 (needs 10.8), fb-3B-0863 (needs 10.3), fb-3B-0864 (needs 10.2), fb-3B-0865 (needs 10.2), fb-3B-0866 (needs 10.4), fb-3B-0867 (needs 10.4), fb-3B-0868 (needs 10.10), fb-3B-0870 (needs 10.2), fb-3B-0871 (needs 10.2), fb-3B-0951 (needs 10.8), fb-3B-0953 (needs 10.4), fb-3B-0981 (needs 10.8), fb-3B-2091 (needs 10.4), fb-3B-2106 (needs 10.3), fb-3B-2107 (needs 10.3)."
+ },
+ {
+  "page_id": "597154",
+  "section": "10.1 Classify the side chain (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=amino%20acid%7CR%20group%7Cside%20chain%7Cnonpolar%7Cpolar%7Cessential%7Cabbrev&amp;n=10&amp;title=Classify%20the%20side%20chain\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0279,fb-3B-0439,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750&amp;n=9&amp;title=Classify%20the%20side%20chain\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597155",
+  "section": "10.2 Amino acids and charge",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=amino+acid|R+group|side+chain|zwitter|isoelectric|pI|nonpolar|polar&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-0192,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0279,fb-3B-0438,fb-3B-0439,fb-3B-0446,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0936,fb-3B-0952,fb-3B-2090,fb-3B-2092,fb-3B-2093&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides\"",
+  "reason": "31/63 of current pool ON; 32 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0118 (needs 10.4), fb-3B-0120 (needs 10.4), fb-3B-0121 (needs 10.6), fb-3B-0122 (needs 10.7), fb-3B-0123 (needs 10.8), fb-3B-0125 (needs 10.10), fb-3B-0126 (needs 10.5), fb-3B-0127 (needs 10.8), fb-3B-0273 (needs 10.4), fb-3B-0276 (needs 10.7), fb-3B-0277 (needs 10.8), fb-3B-0340 (needs 10.10), fb-3B-0341 (needs 15.11), fb-3B-0440 (needs 10.8), fb-3B-0441 (needs 10.4), fb-3B-0443 (needs 10.10), fb-3B-0445 (needs 10.8), fb-3B-0448 (needs 10.3), fb-3B-0757 (needs 10.3), fb-3B-0862 (needs 10.8), fb-3B-0863 (needs 10.3), fb-3B-0866 (needs 10.4), fb-3B-0867 (needs 10.4), fb-3B-0868 (needs 10.10), fb-3B-0869 (needs 10.7), fb-3B-0951 (needs 10.8), fb-3B-0953 (needs 10.4), fb-3B-0981 (needs 10.8), fb-3B-2106 (needs 10.3), fb-3B-2107 (needs 10.3), fb-3B-2108 (needs 10.3), fb-3B-2111 (needs 10.10)."
+ },
+ {
+  "page_id": "597155",
+  "section": "10.2 Amino acids and charge (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=amino+acid|R+group|side+chain|zwitter|isoelectric|pI|nonpolar|polar&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-0192,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0279,fb-3B-0438,fb-3B-0439,fb-3B-0446,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0936,fb-3B-0952,fb-3B-2090,fb-3B-2092,fb-3B-2093&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597155",
+  "section": "10.2 Amino acids and charge",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=zwitter%7Cisoelectric%7CpI%7Ccharge%7Cprotonat%7CpH&amp;n=10&amp;title=Amino%20acids%20and%20charge\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0116,fb-3B-0117,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0438,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0952&amp;n=10&amp;title=Amino%20acids%20and%20charge\"",
+  "reason": "15/46 of current pool ON; 19 FORWARD, 12 RELATED, 0 OFF. Forward items: fb-3B-0123 (needs 10.8), fb-3B-0126 (needs 10.5), fb-3B-0127 (needs 10.8), fb-3B-0273 (needs 10.4), fb-3B-0276 (needs 10.7), fb-3B-0277 (needs 10.8), fb-3B-0340 (needs 10.10), fb-3B-0440 (needs 10.8), fb-3B-0862 (needs 10.8), fb-3B-0863 (needs 10.3), fb-3B-0866 (needs 10.4), fb-3B-0868 (needs 10.10), fb-3B-0869 (needs 10.7), fb-3B-0872 (needs 10.9), fb-3B-0951 (needs 10.8), fb-3B-0953 (needs 10.4), fb-3B-0981 (needs 10.8), fb-3B-2108 (needs 10.3), fb-3B-2111 (needs 10.10)."
+ },
+ {
+  "page_id": "597155",
+  "section": "10.2 Amino acids and charge (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=zwitter%7Cisoelectric%7CpI%7Ccharge%7Cprotonat%7CpH&amp;n=10&amp;title=Amino%20acids%20and%20charge\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0116,fb-3B-0117,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0438,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0952&amp;n=10&amp;title=Amino%20acids%20and%20charge\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597164",
+  "section": "10.11 Amino acids and proteins",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides\"",
+  "reason": "76/77 of current pool ON; 1 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0341 (needs 15.11)."
+ },
+ {
+  "page_id": "597164",
+  "section": "10.11 Amino acids and proteins (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597240",
+  "section": "10.13 Amino acids and charge",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=amino+acid|R+group|side+chain|zwitter|isoelectric|pI|nonpolar|polar&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-0192,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0279,fb-3B-0438,fb-3B-0439,fb-3B-0446,fb-3B-0448,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0757,fb-3B-0863,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0936,fb-3B-0952,fb-3B-2090,fb-3B-2092,fb-3B-2093,fb-3B-2106,fb-3B-2107,fb-3B-2108&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides\"",
+  "reason": "37/63 of current pool ON; 1 FORWARD, 25 RELATED, 0 OFF. Forward items: fb-3B-0341 (needs 15.11)."
+ },
+ {
+  "page_id": "597240",
+  "section": "10.13 Amino acids and charge (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=amino+acid|R+group|side+chain|zwitter|isoelectric|pI|nonpolar|polar&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-0192,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0279,fb-3B-0438,fb-3B-0439,fb-3B-0446,fb-3B-0448,fb-3B-0745,fb-3B-0746,fb-3B-0747,fb-3B-0748,fb-3B-0749,fb-3B-0750,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0757,fb-3B-0863,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0936,fb-3B-0952,fb-3B-2090,fb-3B-2092,fb-3B-2093,fb-3B-2106,fb-3B-2107,fb-3B-2108&amp;n=10&amp;title=Amino+acids+and+charge&amp;game=peptides\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597240",
+  "section": "10.13 Amino acids and proteins",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides\"",
+  "reason": "76/77 of current pool ON; 1 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0341 (needs 15.11)."
+ },
+ {
+  "page_id": "597240",
+  "section": "10.13 Amino acids and proteins (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29&amp;n=14&amp;title=Amino+acids+and+proteins&amp;game=peptides\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597169",
+  "section": "11.4 Enzyme activity and inhibition",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=inhibit%7Cactive%20site%7Csubstrate%7Cactivation%20energy%7Cdenatur%7Coptimum%7Crate%7Ctemperature%7CpH&amp;n=10&amp;title=Enzyme%20activity%20and%20inhibition\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-0135,fb-3B-0136,fb-3B-0197,fb-3B-0198,fb-3B-0199,fb-3B-0284,fb-3B-0285,fb-3B-0453,fb-3B-0454,fb-3B-0455,fb-3B-0824,fb-3B-0825,fb-3B-0826,fb-3B-0827,fb-3B-0828,fb-3B-0829,fb-3B-0830,fb-3B-0837,fb-3B-0874,fb-3B-0875,fb-3B-0879,fb-3B-0880,fb-3B-0882,fb-3B-0883,fb-3B-0884,fb-3B-0886,fb-3B-0887,fb-3B-0888,fb-3B-0889,fb-3B-0890,fb-3B-0891,fb-3B-0892,fb-3B-0893,fb-3B-0895,fb-3B-0983,fb-3B-2109,fb-3B-2122&amp;n=10&amp;title=Enzyme%20activity%20and%20inhibition\"",
+  "reason": "41/72 of current pool ON; 10 FORWARD, 21 RELATED, 0 OFF. Forward items: fb-3B-0137 (needs 11.6), fb-3B-0200 (needs 11.5), fb-3B-0452 (needs 12.2), fb-3B-0456 (needs 11.5), fb-3B-0834 (needs 11.5), fb-3B-0836 (needs 11.6), fb-3B-0894 (needs 11.5), fb-3B-0958 (needs 11.5), fb-3B-2095 (needs 11.7), fb-3B-2096 (needs 11.7)."
+ },
+ {
+  "page_id": "597169",
+  "section": "11.4 Enzyme activity and inhibition (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=inhibit%7Cactive%20site%7Csubstrate%7Cactivation%20energy%7Cdenatur%7Coptimum%7Crate%7Ctemperature%7CpH&amp;n=10&amp;title=Enzyme%20activity%20and%20inhibition\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-0135,fb-3B-0136,fb-3B-0197,fb-3B-0198,fb-3B-0199,fb-3B-0284,fb-3B-0285,fb-3B-0453,fb-3B-0454,fb-3B-0455,fb-3B-0824,fb-3B-0825,fb-3B-0826,fb-3B-0827,fb-3B-0828,fb-3B-0829,fb-3B-0830,fb-3B-0837,fb-3B-0874,fb-3B-0875,fb-3B-0879,fb-3B-0880,fb-3B-0882,fb-3B-0883,fb-3B-0884,fb-3B-0886,fb-3B-0887,fb-3B-0888,fb-3B-0889,fb-3B-0890,fb-3B-0891,fb-3B-0892,fb-3B-0893,fb-3B-0895,fb-3B-0983,fb-3B-2109,fb-3B-2122&amp;n=10&amp;title=Enzyme%20activity%20and%20inhibition\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597173",
+  "section": "11.8 Enzymes and vitamins",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%29&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme\"",
+  "reason": "84/85 of current pool ON; 1 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0452 (needs 12.2)."
+ },
+ {
+  "page_id": "597173",
+  "section": "11.8 Enzymes and vitamins (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%29&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597241",
+  "section": "11.10 Enzyme activity and inhibition",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=inhibit|active+site|substrate|activation+energy|denatur|optimum|rate|temperature|pH&amp;n=10&amp;title=Enzyme+activity+and+inhibition&amp;game=enzyme\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-0135,fb-3B-0136,fb-3B-0197,fb-3B-0198,fb-3B-0199,fb-3B-0284,fb-3B-0285,fb-3B-0453,fb-3B-0454,fb-3B-0455,fb-3B-0824,fb-3B-0825,fb-3B-0826,fb-3B-0827,fb-3B-0828,fb-3B-0829,fb-3B-0830,fb-3B-0837,fb-3B-0874,fb-3B-0875,fb-3B-0879,fb-3B-0880,fb-3B-0882,fb-3B-0883,fb-3B-0884,fb-3B-0886,fb-3B-0887,fb-3B-0888,fb-3B-0889,fb-3B-0890,fb-3B-0891,fb-3B-0892,fb-3B-0893,fb-3B-0895,fb-3B-0983,fb-3B-2109,fb-3B-2122&amp;n=10&amp;title=Enzyme+activity+and+inhibition&amp;game=enzyme\"",
+  "reason": "41/72 of current pool ON; 1 FORWARD, 30 RELATED, 0 OFF. Forward items: fb-3B-0452 (needs 12.2)."
+ },
+ {
+  "page_id": "597241",
+  "section": "11.10 Enzyme activity and inhibition (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=inhibit|active+site|substrate|activation+energy|denatur|optimum|rate|temperature|pH&amp;n=10&amp;title=Enzyme+activity+and+inhibition&amp;game=enzyme\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-0135,fb-3B-0136,fb-3B-0197,fb-3B-0198,fb-3B-0199,fb-3B-0284,fb-3B-0285,fb-3B-0453,fb-3B-0454,fb-3B-0455,fb-3B-0824,fb-3B-0825,fb-3B-0826,fb-3B-0827,fb-3B-0828,fb-3B-0829,fb-3B-0830,fb-3B-0837,fb-3B-0874,fb-3B-0875,fb-3B-0879,fb-3B-0880,fb-3B-0882,fb-3B-0883,fb-3B-0884,fb-3B-0886,fb-3B-0887,fb-3B-0888,fb-3B-0889,fb-3B-0890,fb-3B-0891,fb-3B-0892,fb-3B-0893,fb-3B-0895,fb-3B-0983,fb-3B-2109,fb-3B-2122&amp;n=10&amp;title=Enzyme+activity+and+inhibition&amp;game=enzyme\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597241",
+  "section": "11.10 Enzymes and vitamins",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%29&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme\"",
+  "reason": "84/85 of current pool ON; 1 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0452 (needs 12.2)."
+ },
+ {
+  "page_id": "597241",
+  "section": "11.10 Enzymes and vitamins (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=enzymes&amp;q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%29&amp;n=14&amp;title=Enzymes+and+vitamins&amp;game=enzyme\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597176",
+  "section": "12.2 DNA structure and replication",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;q=DNA|base+pair|nucleotide|purine|pyrimidine|replication|double+helix|complement&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0287,fb-3B-0288,fb-3B-0325,fb-3B-0326,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix\"",
+  "reason": "27/56 of current pool ON; 29 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0145 (needs 12.3), fb-3B-0146 (needs 12.4), fb-3B-0147 (needs 12.6), fb-3B-0150 (needs 12.8), fb-3B-0204 (needs 12.3), fb-3B-0205 (needs 12.6), fb-3B-0289 (needs 12.6), fb-3B-0290 (needs 12.3), fb-3B-0291 (needs 12.6), fb-3B-0293 (needs 12.8), fb-3B-0327 (needs 12.5), fb-3B-0329 (needs 12.4), fb-3B-0332 (needs 12.7), fb-3B-0333 (needs 12.7), fb-3B-0334 (needs 12.3), fb-3B-0336 (needs 12.4), fb-3B-0462 (needs 12.6), fb-3B-0463 (needs 12.4), fb-3B-0773 (needs 12.6), fb-3B-0838 (needs 12.4), fb-3B-0847 (needs 12.3), fb-3B-0961 (needs 12.4), fb-3B-0962 (needs 12.3), fb-3B-0963 (needs 12.6), fb-3B-0982 (needs 12.6), fb-3B-2097 (needs 12.9), fb-3B-2098 (needs 12.9), fb-3B-2099 (needs 12.9), fb-3B-2117 (needs 12.7)."
+ },
+ {
+  "page_id": "597176",
+  "section": "12.2 DNA structure and replication (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;q=DNA|base+pair|nucleotide|purine|pyrimidine|replication|double+helix|complement&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0287,fb-3B-0288,fb-3B-0325,fb-3B-0326,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597242",
+  "section": "12.12 DNA structure and replication",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;q=DNA|base+pair|nucleotide|purine|pyrimidine|replication|double+helix|complement&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0145,fb-3B-0204,fb-3B-0287,fb-3B-0288,fb-3B-0290,fb-3B-0325,fb-3B-0326,fb-3B-0334,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960,fb-3B-0962&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix\"",
+  "reason": "32/56 of current pool ON; 0 FORWARD, 24 RELATED, 0 OFF."
+ },
+ {
+  "page_id": "597242",
+  "section": "12.12 DNA structure and replication (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;q=DNA|base+pair|nucleotide|purine|pyrimidine|replication|double+helix|complement&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=nucleic&amp;ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-0143,fb-3B-0144,fb-3B-0145,fb-3B-0204,fb-3B-0287,fb-3B-0288,fb-3B-0290,fb-3B-0325,fb-3B-0326,fb-3B-0334,fb-3B-0335,fb-3B-0459,fb-3B-0460,fb-3B-0461,fb-3B-0768,fb-3B-0769,fb-3B-0770,fb-3B-0771,fb-3B-0772,fb-3B-0841,fb-3B-0842,fb-3B-0843,fb-3B-0844,fb-3B-0845,fb-3B-0846,fb-3B-0849,fb-3B-0938,fb-3B-0960,fb-3B-0962&amp;n=10&amp;title=DNA+structure+and+replication&amp;game=helix\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597188",
+  "section": "13.1 Stages and Coenzymes",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=coenzyme%7CNAD%7CFAD%7Ccatabol%7Canabol%7CStage&amp;n=10&amp;title=Stages%20and%20Coenzymes\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0468,fb-3B-0470,fb-3B-0473,fb-3B-0940,fb-3B-0967,fb-3B-0972,fb-3B-2038&amp;n=10&amp;title=Stages%20and%20Coenzymes\"",
+  "reason": "11/92 of current pool ON; 81 FORWARD, 0 RELATED, 0 OFF. Forward items: fb-3B-0153 (needs 13.4), fb-3B-0154 (needs 13.4), fb-3B-0157 (needs 14.3), fb-3B-0164 (needs 13.6), fb-3B-0166 (needs 13.4), fb-3B-0167 (needs 13.4), fb-3B-0169 (needs 15.6), fb-3B-0170 (needs 14.3), fb-3B-0171 (needs 14.2), fb-3B-0172 (needs 14.4), fb-3B-0173 (needs 14.4), fb-3B-0174 (needs 14.4), fb-3B-0175 (needs 14.3), fb-3B-0177 (needs 15.4), fb-3B-0178 (needs 15.4), fb-3B-0294 (needs 14.3), fb-3B-0295 (needs 14.3), fb-3B-0296 (needs 14.3), fb-3B-0297 (needs 13.4), fb-3B-0299 (needs 15.4), fb-3B-0303 (needs 15.4), fb-3B-0304 (needs 14.4), fb-3B-0308 (needs 13.4), fb-3B-0309 (needs 15.4), fb-3B-0310 (needs 14.4), fb-3B-0312 (needs 13.4), fb-3B-0313 (needs 14.3), fb-3B-0314 (needs 14.3), fb-3B-0315 (needs 14.4), fb-3B-0316 (needs 14.4), fb-3B-0317 (needs 15.4), fb-3B-0318 (needs 15.4), fb-3B-0319 (needs 15.4), fb-3B-0324 (needs 15.6), fb-3B-0465 (needs 15.4), fb-3B-0467 (needs 14.5), fb-3B-0469 (needs 13.4), fb-3B-0475 (needs 14.3), fb-3B-0476 (needs 14.3), fb-3B-0478 (needs 14.3), fb-3B-0479 (needs 14.3), fb-3B-0480 (needs 13.4), fb-3B-0481 (needs 13.4), fb-3B-0483 (needs 13.4), fb-3B-0484 (needs 13.4), fb-3B-0485 (needs 14.1), fb-3B-0487 (needs 15.4), fb-3B-0488 (needs 15.4), fb-3B-0489 (needs 15.4), fb-3B-0491 (needs 14.4), fb-3B-0492 (needs 14.4), fb-3B-0493 (needs 14.4), fb-3B-0965 (needs 13.7), fb-3B-0966 (needs 14.3), fb-3B-0968 (needs 14.3), fb-3B-0969 (needs 13.2), fb-3B-0970 (needs 13.4), fb-3B-0971 (needs 13.4), fb-3B-0973 (needs 14.4), fb-3B-0974 (needs 14.5), fb-3B-0975 (needs 13.2), fb-3B-0977 (needs 15.3), fb-3B-0978 (needs 15.4), fb-3B-0979 (needs 15.4), fb-3B-1006 (needs 13.4), fb-3B-1007 (needs 13.4), fb-3B-1011 (needs 13.6), fb-3B-2018 (needs 13.4), fb-3B-2019 (needs 14.1), fb-3B-2024 (needs 13.6), fb-3B-2034 (needs 14.4), fb-3B-2036 (needs 14.4), fb-3B-2037 (needs 14.5), fb-3B-2039 (needs 14.5), fb-3B-2040 (needs 14.4), fb-3B-2042 (needs 14.2), fb-3B-2051 (needs 15.8), fb-3B-2060 (needs 15.8), fb-3B-2100 (needs 15.4), fb-3B-2101 (needs 15.4), fb-3B-2102 (needs 15.3)."
+ },
+ {
+  "page_id": "597188",
+  "section": "13.1 Stages and Coenzymes (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=coenzyme%7CNAD%7CFAD%7Ccatabol%7Canabol%7CStage&amp;n=10&amp;title=Stages%20and%20Coenzymes\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0468,fb-3B-0470,fb-3B-0473,fb-3B-0940,fb-3B-0967,fb-3B-0972,fb-3B-2038&amp;n=10&amp;title=Stages%20and%20Coenzymes\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597191",
+  "section": "13.3 Digestion",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=digest%7Camylase%7Clactase%7Csucrase%7Cstomach%7Cmouth%7Cbile&amp;n=7&amp;title=Digestion\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs,metabolism&amp;ids=fb-3B-0095,fb-3B-0152,fb-3B-0176,fb-3B-0307,fb-3B-0344,fb-3B-0425,fb-3B-1005,fb-3B-2026,fb-3B-2027&amp;n=7&amp;title=Digestion\"",
+  "reason": "6/12 of current pool ON; 4 FORWARD, 2 RELATED, 0 OFF. Forward items: fb-3B-0156 (needs 14.4), fb-3B-0320 (needs 15.3), fb-3B-2103 (needs 15.7), fb-3B-2104 (needs 15.7)."
+ },
+ {
+  "page_id": "597191",
+  "section": "13.3 Digestion (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=digest%7Camylase%7Clactase%7Csucrase%7Cstomach%7Cmouth%7Cbile&amp;n=7&amp;title=Digestion\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=carbs,metabolism&amp;ids=fb-3B-0095,fb-3B-0152,fb-3B-0176,fb-3B-0307,fb-3B-0344,fb-3B-0425,fb-3B-1005,fb-3B-2026,fb-3B-2027&amp;n=7&amp;title=Digestion\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597192",
+  "section": "13.4 Glycolysis and pyruvate",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycoly|pyruvate|lactate|acetyl+CoA|NAD|ATP|cori|fermentation&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0168,fb-3B-0297,fb-3B-0308,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2018&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon\"",
+  "reason": "26/136 of current pool ON; 94 FORWARD, 16 RELATED, 0 OFF. Forward items: fb-3B-0155 (needs 15.8), fb-3B-0156 (needs 14.4), fb-3B-0157 (needs 14.3), fb-3B-0158 (needs 15.4), fb-3B-0159 (needs 15.4), fb-3B-0160 (needs 13.7), fb-3B-0161 (needs 13.7), fb-3B-0162 (needs 13.8), fb-3B-0164 (needs 13.6), fb-3B-0169 (needs 15.6), fb-3B-0170 (needs 14.3), fb-3B-0171 (needs 14.2), fb-3B-0172 (needs 14.4), fb-3B-0173 (needs 14.4), fb-3B-0174 (needs 14.4), fb-3B-0175 (needs 14.3), fb-3B-0177 (needs 15.4), fb-3B-0178 (needs 15.4), fb-3B-0179 (needs 15.4), fb-3B-0294 (needs 14.3), fb-3B-0295 (needs 14.3), fb-3B-0296 (needs 14.3), fb-3B-0299 (needs 15.4), fb-3B-0302 (needs 15.4), fb-3B-0303 (needs 15.4), fb-3B-0304 (needs 14.4), fb-3B-0309 (needs 15.4), fb-3B-0310 (needs 14.4), fb-3B-0313 (needs 14.3), fb-3B-0314 (needs 14.3), fb-3B-0315 (needs 14.4), fb-3B-0317 (needs 15.4), fb-3B-0318 (needs 15.4), fb-3B-0319 (needs 15.4), fb-3B-0322 (needs 15.10), fb-3B-0324 (needs 15.6), fb-3B-0465 (needs 15.4), fb-3B-0467 (needs 14.5), fb-3B-0471 (needs 15.10), fb-3B-0475 (needs 14.3), fb-3B-0476 (needs 14.3), fb-3B-0477 (needs 14.3), fb-3B-0478 (needs 14.3), fb-3B-0479 (needs 14.3), fb-3B-0485 (needs 14.1), fb-3B-0486 (needs 15.4), fb-3B-0487 (needs 15.4), fb-3B-0488 (needs 15.4), fb-3B-0489 (needs 15.4), fb-3B-0490 (needs 15.4), fb-3B-0491 (needs 14.4), fb-3B-0492 (needs 14.4), fb-3B-0493 (needs 14.4), fb-3B-0964 (needs 13.8), fb-3B-0965 (needs 13.7), fb-3B-0966 (needs 14.3), fb-3B-0968 (needs 14.3), fb-3B-0973 (needs 14.4), fb-3B-0974 (needs 14.5), fb-3B-0976 (needs 14.3), fb-3B-0977 (needs 15.3), fb-3B-0978 (needs 15.4), fb-3B-0979 (needs 15.4), fb-3B-1001 (needs 13.5), fb-3B-1011 (needs 13.6), fb-3B-1012 (needs 13.8), fb-3B-2010 (needs 13.5), fb-3B-2011 (needs 13.5), fb-3B-2012 (needs 13.5), fb-3B-2013 (needs 13.6), fb-3B-2017 (needs 13.5), fb-3B-2019 (needs 14.1), fb-3B-2020 (needs 13.9), fb-3B-2021 (needs 13.8), fb-3B-2024 (needs 13.6), fb-3B-2028 (needs 13.9), fb-3B-2029 (needs 13.8), fb-3B-2030 (needs 14.3), fb-3B-2031 (needs 14.3), fb-3B-2033 (needs 14.4), fb-3B-2034 (needs 14.4), fb-3B-2035 (needs 14.4), fb-3B-2036 (needs 14.4), fb-3B-2037 (needs 14.5), fb-3B-2039 (needs 14.5), fb-3B-2040 (needs 14.4), fb-3B-2041 (needs 14.4), fb-3B-2042 (needs 14.2), fb-3B-2047 (needs 15.4), fb-3B-2051 (needs 15.8), fb-3B-2058 (needs 15.10), fb-3B-2060 (needs 15.8), fb-3B-2100 (needs 15.4), fb-3B-2101 (needs 15.4)."
+ },
+ {
+  "page_id": "597192",
+  "section": "13.4 Glycolysis and pyruvate (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycoly|pyruvate|lactate|acetyl+CoA|NAD|ATP|cori|fermentation&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0168,fb-3B-0297,fb-3B-0308,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2018&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597192",
+  "section": "13.4 Fates of Pyruvate",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=pyruvate%7Clactate%7Canaerobic%7Caerobic%7Cyeast%7Cethanol&amp;n=10&amp;title=Fates%20of%20Pyruvate\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0308,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2018&amp;n=10&amp;title=Fates%20of%20Pyruvate\"",
+  "reason": "14/58 of current pool ON; 33 FORWARD, 11 RELATED, 0 OFF. Forward items: fb-3B-0155 (needs 15.8), fb-3B-0156 (needs 14.4), fb-3B-0159 (needs 15.4), fb-3B-0162 (needs 13.8), fb-3B-0164 (needs 13.6), fb-3B-0175 (needs 14.3), fb-3B-0179 (needs 15.4), fb-3B-0322 (needs 15.10), fb-3B-0467 (needs 14.5), fb-3B-0471 (needs 15.10), fb-3B-0475 (needs 14.3), fb-3B-0479 (needs 14.3), fb-3B-0485 (needs 14.1), fb-3B-0491 (needs 14.4), fb-3B-0964 (needs 13.8), fb-3B-0965 (needs 13.7), fb-3B-0974 (needs 14.5), fb-3B-0976 (needs 14.3), fb-3B-1011 (needs 13.6), fb-3B-1012 (needs 13.8), fb-3B-2010 (needs 13.5), fb-3B-2013 (needs 13.6), fb-3B-2017 (needs 13.5), fb-3B-2019 (needs 14.1), fb-3B-2021 (needs 13.8), fb-3B-2024 (needs 13.6), fb-3B-2028 (needs 13.9), fb-3B-2029 (needs 13.8), fb-3B-2037 (needs 14.5), fb-3B-2042 (needs 14.2), fb-3B-2047 (needs 15.4), fb-3B-2058 (needs 15.10), fb-3B-2060 (needs 15.8)."
+ },
+ {
+  "page_id": "597192",
+  "section": "13.4 Fates of Pyruvate (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=pyruvate%7Clactate%7Canaerobic%7Caerobic%7Cyeast%7Cethanol&amp;n=10&amp;title=Fates%20of%20Pyruvate\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0308,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2018&amp;n=10&amp;title=Fates%20of%20Pyruvate\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597193",
+  "section": "13.5 Glycolysis Step by Step",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycolysis%7Chexokinase%7Cphosphofructokinase%7Cglyceraldehyde%7CPEP%7Cphosphoenol&amp;n=10&amp;title=Glycolysis%20Step%20by%20Step\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0153,fb-3B-0168,fb-3B-0297,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-1001,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-2010,fb-3B-2011,fb-3B-2012,fb-3B-2017&amp;n=10&amp;title=Glycolysis%20Step%20by%20Step\"",
+  "reason": "16/46 of current pool ON; 21 FORWARD, 9 RELATED, 0 OFF. Forward items: fb-3B-0156 (needs 14.4), fb-3B-0160 (needs 13.7), fb-3B-0161 (needs 13.7), fb-3B-0162 (needs 13.8), fb-3B-0164 (needs 13.6), fb-3B-0173 (needs 14.4), fb-3B-0467 (needs 14.5), fb-3B-0485 (needs 14.1), fb-3B-0964 (needs 13.8), fb-3B-0965 (needs 13.7), fb-3B-0974 (needs 14.5), fb-3B-0976 (needs 14.3), fb-3B-0977 (needs 15.3), fb-3B-2013 (needs 13.6), fb-3B-2020 (needs 13.9), fb-3B-2021 (needs 13.8), fb-3B-2029 (needs 13.8), fb-3B-2037 (needs 14.5), fb-3B-2041 (needs 14.4), fb-3B-2042 (needs 14.2), fb-3B-2047 (needs 15.4)."
+ },
+ {
+  "page_id": "597193",
+  "section": "13.5 Glycolysis Step by Step (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycolysis%7Chexokinase%7Cphosphofructokinase%7Cglyceraldehyde%7CPEP%7Cphosphoenol&amp;n=10&amp;title=Glycolysis%20Step%20by%20Step\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0153,fb-3B-0168,fb-3B-0297,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-1001,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-2010,fb-3B-2011,fb-3B-2012,fb-3B-2017&amp;n=10&amp;title=Glycolysis%20Step%20by%20Step\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597198",
+  "section": "13.10 Carbohydrate metabolism",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycogen|gluconeo|insulin|glucagon|digest|amylase|blood+glucose|pentose|catabol|anabol&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-0162,fb-3B-0163,fb-3B-0164,fb-3B-0176,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0307,fb-3B-0468,fb-3B-0470,fb-3B-0472,fb-3B-0473,fb-3B-0940,fb-3B-0964,fb-3B-0965,fb-3B-0967,fb-3B-0969,fb-3B-0972,fb-3B-1005,fb-3B-1008,fb-3B-1009,fb-3B-1010,fb-3B-1011,fb-3B-1012,fb-3B-2013,fb-3B-2014,fb-3B-2015,fb-3B-2016,fb-3B-2020,fb-3B-2021,fb-3B-2022,fb-3B-2023,fb-3B-2024,fb-3B-2025,fb-3B-2026,fb-3B-2027,fb-3B-2028,fb-3B-2029,fb-3B-2038,fb-3B-2114&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon\"",
+  "reason": "37/55 of current pool ON; 16 FORWARD, 2 RELATED, 0 OFF. Forward items: fb-3B-0156 (needs 14.4), fb-3B-0159 (needs 15.4), fb-3B-0169 (needs 15.6), fb-3B-0179 (needs 15.4), fb-3B-0320 (needs 15.3), fb-3B-0322 (needs 15.10), fb-3B-0324 (needs 15.6), fb-3B-0471 (needs 15.10), fb-3B-2019 (needs 14.1), fb-3B-2035 (needs 14.4), fb-3B-2040 (needs 14.4), fb-3B-2044 (needs 15.2), fb-3B-2050 (needs 15.6), fb-3B-2103 (needs 15.7), fb-3B-2104 (needs 15.7), fb-3B-2105 (needs 15.7)."
+ },
+ {
+  "page_id": "597198",
+  "section": "13.10 Carbohydrate metabolism (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycogen|gluconeo|insulin|glucagon|digest|amylase|blood+glucose|pentose|catabol|anabol&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-0162,fb-3B-0163,fb-3B-0164,fb-3B-0176,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0307,fb-3B-0468,fb-3B-0470,fb-3B-0472,fb-3B-0473,fb-3B-0940,fb-3B-0964,fb-3B-0965,fb-3B-0967,fb-3B-0969,fb-3B-0972,fb-3B-1005,fb-3B-1008,fb-3B-1009,fb-3B-1010,fb-3B-1011,fb-3B-1012,fb-3B-2013,fb-3B-2014,fb-3B-2015,fb-3B-2016,fb-3B-2020,fb-3B-2021,fb-3B-2022,fb-3B-2023,fb-3B-2024,fb-3B-2025,fb-3B-2026,fb-3B-2027,fb-3B-2028,fb-3B-2029,fb-3B-2038,fb-3B-2114&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597243",
+  "section": "13.12 Glycolysis and pyruvate",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycoly|pyruvate|lactate|acetyl+CoA|NAD|ATP|cori|fermentation&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0168,fb-3B-0297,fb-3B-0308,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1001,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2010,fb-3B-2011,fb-3B-2012,fb-3B-2017,fb-3B-2018&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon\"",
+  "reason": "31/136 of current pool ON; 75 FORWARD, 30 RELATED, 0 OFF. Forward items: fb-3B-0155 (needs 15.8), fb-3B-0156 (needs 14.4), fb-3B-0157 (needs 14.3), fb-3B-0158 (needs 15.4), fb-3B-0159 (needs 15.4), fb-3B-0169 (needs 15.6), fb-3B-0170 (needs 14.3), fb-3B-0171 (needs 14.2), fb-3B-0172 (needs 14.4), fb-3B-0173 (needs 14.4), fb-3B-0174 (needs 14.4), fb-3B-0175 (needs 14.3), fb-3B-0177 (needs 15.4), fb-3B-0178 (needs 15.4), fb-3B-0179 (needs 15.4), fb-3B-0294 (needs 14.3), fb-3B-0295 (needs 14.3), fb-3B-0296 (needs 14.3), fb-3B-0299 (needs 15.4), fb-3B-0302 (needs 15.4), fb-3B-0303 (needs 15.4), fb-3B-0304 (needs 14.4), fb-3B-0309 (needs 15.4), fb-3B-0310 (needs 14.4), fb-3B-0313 (needs 14.3), fb-3B-0314 (needs 14.3), fb-3B-0315 (needs 14.4), fb-3B-0317 (needs 15.4), fb-3B-0318 (needs 15.4), fb-3B-0319 (needs 15.4), fb-3B-0322 (needs 15.10), fb-3B-0324 (needs 15.6), fb-3B-0465 (needs 15.4), fb-3B-0467 (needs 14.5), fb-3B-0471 (needs 15.10), fb-3B-0475 (needs 14.3), fb-3B-0476 (needs 14.3), fb-3B-0477 (needs 14.3), fb-3B-0478 (needs 14.3), fb-3B-0479 (needs 14.3), fb-3B-0485 (needs 14.1), fb-3B-0486 (needs 15.4), fb-3B-0487 (needs 15.4), fb-3B-0488 (needs 15.4), fb-3B-0489 (needs 15.4), fb-3B-0490 (needs 15.4), fb-3B-0491 (needs 14.4), fb-3B-0492 (needs 14.4), fb-3B-0493 (needs 14.4), fb-3B-0966 (needs 14.3), fb-3B-0968 (needs 14.3), fb-3B-0973 (needs 14.4), fb-3B-0974 (needs 14.5), fb-3B-0976 (needs 14.3), fb-3B-0977 (needs 15.3), fb-3B-0978 (needs 15.4), fb-3B-0979 (needs 15.4), fb-3B-2019 (needs 14.1), fb-3B-2030 (needs 14.3), fb-3B-2031 (needs 14.3), fb-3B-2033 (needs 14.4), fb-3B-2034 (needs 14.4), fb-3B-2035 (needs 14.4), fb-3B-2036 (needs 14.4), fb-3B-2037 (needs 14.5), fb-3B-2039 (needs 14.5), fb-3B-2040 (needs 14.4), fb-3B-2041 (needs 14.4), fb-3B-2042 (needs 14.2), fb-3B-2047 (needs 15.4), fb-3B-2051 (needs 15.8), fb-3B-2058 (needs 15.10), fb-3B-2060 (needs 15.8), fb-3B-2100 (needs 15.4), fb-3B-2101 (needs 15.4)."
+ },
+ {
+  "page_id": "597243",
+  "section": "13.12 Glycolysis and pyruvate (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycoly|pyruvate|lactate|acetyl+CoA|NAD|ATP|cori|fermentation&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-0167,fb-3B-0168,fb-3B-0297,fb-3B-0308,fb-3B-0311,fb-3B-0312,fb-3B-0469,fb-3B-0480,fb-3B-0481,fb-3B-0482,fb-3B-0483,fb-3B-0484,fb-3B-0970,fb-3B-0971,fb-3B-1001,fb-3B-1002,fb-3B-1003,fb-3B-1004,fb-3B-1006,fb-3B-1007,fb-3B-1010,fb-3B-2010,fb-3B-2011,fb-3B-2012,fb-3B-2017,fb-3B-2018&amp;n=10&amp;title=Glycolysis+and+pyruvate&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597243",
+  "section": "13.12 Carbohydrate metabolism",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycogen|gluconeo|insulin|glucagon|digest|amylase|blood+glucose|pentose|catabol|anabol&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-0162,fb-3B-0163,fb-3B-0164,fb-3B-0176,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0307,fb-3B-0468,fb-3B-0470,fb-3B-0472,fb-3B-0473,fb-3B-0940,fb-3B-0964,fb-3B-0965,fb-3B-0967,fb-3B-0969,fb-3B-0972,fb-3B-1005,fb-3B-1008,fb-3B-1009,fb-3B-1010,fb-3B-1011,fb-3B-1012,fb-3B-2013,fb-3B-2014,fb-3B-2015,fb-3B-2016,fb-3B-2020,fb-3B-2021,fb-3B-2022,fb-3B-2023,fb-3B-2024,fb-3B-2025,fb-3B-2026,fb-3B-2027,fb-3B-2028,fb-3B-2029,fb-3B-2038,fb-3B-2114&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon\"",
+  "reason": "37/55 of current pool ON; 16 FORWARD, 2 RELATED, 0 OFF. Forward items: fb-3B-0156 (needs 14.4), fb-3B-0159 (needs 15.4), fb-3B-0169 (needs 15.6), fb-3B-0179 (needs 15.4), fb-3B-0320 (needs 15.3), fb-3B-0322 (needs 15.10), fb-3B-0324 (needs 15.6), fb-3B-0471 (needs 15.10), fb-3B-2019 (needs 14.1), fb-3B-2035 (needs 14.4), fb-3B-2040 (needs 14.4), fb-3B-2044 (needs 15.2), fb-3B-2050 (needs 15.6), fb-3B-2103 (needs 15.7), fb-3B-2104 (needs 15.7), fb-3B-2105 (needs 15.7)."
+ },
+ {
+  "page_id": "597243",
+  "section": "13.12 Carbohydrate metabolism (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=glycogen|gluconeo|insulin|glucagon|digest|amylase|blood+glucose|pentose|catabol|anabol&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-0162,fb-3B-0163,fb-3B-0164,fb-3B-0176,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-0307,fb-3B-0468,fb-3B-0470,fb-3B-0472,fb-3B-0473,fb-3B-0940,fb-3B-0964,fb-3B-0965,fb-3B-0967,fb-3B-0969,fb-3B-0972,fb-3B-1005,fb-3B-1008,fb-3B-1009,fb-3B-1010,fb-3B-1011,fb-3B-1012,fb-3B-2013,fb-3B-2014,fb-3B-2015,fb-3B-2016,fb-3B-2020,fb-3B-2021,fb-3B-2022,fb-3B-2023,fb-3B-2024,fb-3B-2025,fb-3B-2026,fb-3B-2027,fb-3B-2028,fb-3B-2029,fb-3B-2038,fb-3B-2114&amp;n=10&amp;title=Carbohydrate+metabolism&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597202",
+  "section": "14.3 Citric Acid Cycle",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=citric%7Ccycle%7CKrebs%7Coxaloacetate%7Csuccin&amp;n=10&amp;title=Citric%20Acid%20Cycle\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0157,fb-3B-0170,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0313,fb-3B-0314,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0966,fb-3B-0968,fb-3B-0976,fb-3B-2030,fb-3B-2031&amp;n=10&amp;title=Citric%20Acid%20Cycle\"",
+  "reason": "19/69 of current pool ON; 38 FORWARD, 1 RELATED, 11 OFF. Forward items: fb-3B-0155 (needs 15.8), fb-3B-0158 (needs 15.4), fb-3B-0159 (needs 15.4), fb-3B-0169 (needs 15.6), fb-3B-0172 (needs 14.4), fb-3B-0177 (needs 15.4), fb-3B-0178 (needs 15.4), fb-3B-0179 (needs 15.4), fb-3B-0180 (needs 15.9), fb-3B-0299 (needs 15.4), fb-3B-0302 (needs 15.4), fb-3B-0303 (needs 15.4), fb-3B-0310 (needs 14.4), fb-3B-0316 (needs 14.4), fb-3B-0317 (needs 15.4), fb-3B-0318 (needs 15.4), fb-3B-0321 (needs 15.9), fb-3B-0322 (needs 15.10), fb-3B-0465 (needs 15.4), fb-3B-0467 (needs 14.5), fb-3B-0487 (needs 15.4), fb-3B-0488 (needs 15.4), fb-3B-0489 (needs 15.4), fb-3B-0491 (needs 14.4), fb-3B-0494 (needs 15.9), fb-3B-0495 (needs 15.9), fb-3B-0496 (needs 15.9), fb-3B-0978 (needs 15.4), fb-3B-2034 (needs 14.4), fb-3B-2036 (needs 14.4), fb-3B-2037 (needs 14.5), fb-3B-2039 (needs 14.5), fb-3B-2041 (needs 14.4), fb-3B-2043 (needs 15.4), fb-3B-2053 (needs 15.9), fb-3B-2054 (needs 15.9), fb-3B-2055 (needs 15.9), fb-3B-2058 (needs 15.10)."
+ },
+ {
+  "page_id": "597202",
+  "section": "14.3 Citric Acid Cycle (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=citric%7Ccycle%7CKrebs%7Coxaloacetate%7Csuccin&amp;n=10&amp;title=Citric%20Acid%20Cycle\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0157,fb-3B-0170,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0313,fb-3B-0314,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0966,fb-3B-0968,fb-3B-0976,fb-3B-2030,fb-3B-2031&amp;n=10&amp;title=Citric%20Acid%20Cycle\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597203",
+  "section": "14.4 Electron Transport",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=electron%20transport%7Ccomplex%7CATP%20synthase%7Ccyanide%7CDNP%7Cchemiosm&amp;n=10&amp;title=Electron%20Transport\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0156,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0304,fb-3B-0310,fb-3B-0315,fb-3B-0316,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0973,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2040,fb-3B-2041&amp;n=10&amp;title=Electron%20Transport\"",
+  "reason": "20/32 of current pool ON; 3 FORWARD, 2 RELATED, 7 OFF. Forward items: fb-3B-0467 (needs 14.5), fb-3B-0974 (needs 14.5), fb-3B-2037 (needs 14.5)."
+ },
+ {
+  "page_id": "597203",
+  "section": "14.4 Electron Transport (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=electron%20transport%7Ccomplex%7CATP%20synthase%7Ccyanide%7CDNP%7Cchemiosm&amp;n=10&amp;title=Electron%20Transport\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0156,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0304,fb-3B-0310,fb-3B-0315,fb-3B-0316,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0973,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2040,fb-3B-2041&amp;n=10&amp;title=Electron%20Transport\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597204",
+  "section": "14.5 Citric acid cycle and electron transport",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=citric|krebs|electron+transport|ATP+synthase|oxidative+phosph|NADH|FADH|coenzyme+Q|cytochrome|mitochondri&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0304,fb-3B-0310,fb-3B-0313,fb-3B-0314,fb-3B-0315,fb-3B-0316,fb-3B-0467,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0485,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0966,fb-3B-0968,fb-3B-0973,fb-3B-0974,fb-3B-0976,fb-3B-2030,fb-3B-2031,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2037,fb-3B-2040,fb-3B-2041,fb-3B-2042&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon\"",
+  "reason": "43/100 of current pool ON; 25 FORWARD, 1 RELATED, 31 OFF. Forward items: fb-3B-0169 (needs 15.6), fb-3B-0177 (needs 15.4), fb-3B-0178 (needs 15.4), fb-3B-0179 (needs 15.4), fb-3B-0303 (needs 15.4), fb-3B-0309 (needs 15.4), fb-3B-0317 (needs 15.4), fb-3B-0318 (needs 15.4), fb-3B-0319 (needs 15.4), fb-3B-0320 (needs 15.3), fb-3B-0322 (needs 15.10), fb-3B-0324 (needs 15.6), fb-3B-0465 (needs 15.4), fb-3B-0487 (needs 15.4), fb-3B-0488 (needs 15.4), fb-3B-0489 (needs 15.4), fb-3B-0496 (needs 15.9), fb-3B-0978 (needs 15.4), fb-3B-0979 (needs 15.4), fb-3B-2043 (needs 15.4), fb-3B-2058 (needs 15.10), fb-3B-2060 (needs 15.8), fb-3B-2100 (needs 15.4), fb-3B-2101 (needs 15.4), fb-3B-2102 (needs 15.3)."
+ },
+ {
+  "page_id": "597204",
+  "section": "14.5 Citric acid cycle and electron transport (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=citric|krebs|electron+transport|ATP+synthase|oxidative+phosph|NADH|FADH|coenzyme+Q|cytochrome|mitochondri&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0304,fb-3B-0310,fb-3B-0313,fb-3B-0314,fb-3B-0315,fb-3B-0316,fb-3B-0467,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0485,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0966,fb-3B-0968,fb-3B-0973,fb-3B-0974,fb-3B-0976,fb-3B-2030,fb-3B-2031,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2037,fb-3B-2040,fb-3B-2041,fb-3B-2042&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597205",
+  "section": "14.6 Energy and redox",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-0308,fb-3B-0323,fb-3B-0466,fb-3B-0467,fb-3B-0470,fb-3B-0473,fb-3B-0474,fb-3B-0485,fb-3B-0966,fb-3B-0967,fb-3B-0968,fb-3B-0970,fb-3B-0973,fb-3B-0974,fb-3B-0975,fb-3B-2037,fb-3B-2039,fb-3B-2042&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon\"",
+  "reason": "22/101 of current pool ON; 30 FORWARD, 21 RELATED, 28 OFF. Forward items: fb-3B-0158 (needs 15.4), fb-3B-0169 (needs 15.6), fb-3B-0177 (needs 15.4), fb-3B-0178 (needs 15.4), fb-3B-0180 (needs 15.9), fb-3B-0299 (needs 15.4), fb-3B-0302 (needs 15.4), fb-3B-0303 (needs 15.4), fb-3B-0309 (needs 15.4), fb-3B-0317 (needs 15.4), fb-3B-0318 (needs 15.4), fb-3B-0319 (needs 15.4), fb-3B-0320 (needs 15.3), fb-3B-0324 (needs 15.6), fb-3B-0465 (needs 15.4), fb-3B-0471 (needs 15.10), fb-3B-0486 (needs 15.4), fb-3B-0487 (needs 15.4), fb-3B-0488 (needs 15.4), fb-3B-0489 (needs 15.4), fb-3B-0490 (needs 15.4), fb-3B-0977 (needs 15.3), fb-3B-0978 (needs 15.4), fb-3B-0979 (needs 15.4), fb-3B-2043 (needs 15.4), fb-3B-2048 (needs 15.5), fb-3B-2100 (needs 15.4), fb-3B-2101 (needs 15.4), fb-3B-2102 (needs 15.3), fb-3B-2105 (needs 15.7)."
+ },
+ {
+  "page_id": "597205",
+  "section": "14.6 Energy and redox (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-0308,fb-3B-0323,fb-3B-0466,fb-3B-0467,fb-3B-0470,fb-3B-0473,fb-3B-0474,fb-3B-0485,fb-3B-0966,fb-3B-0967,fb-3B-0968,fb-3B-0970,fb-3B-0973,fb-3B-0974,fb-3B-0975,fb-3B-2037,fb-3B-2039,fb-3B-2042&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597244",
+  "section": "14.8 Citric acid cycle and electron transport",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=citric|krebs|electron+transport|ATP+synthase|oxidative+phosph|NADH|FADH|coenzyme+Q|cytochrome|mitochondri&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0304,fb-3B-0310,fb-3B-0313,fb-3B-0314,fb-3B-0315,fb-3B-0316,fb-3B-0467,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0485,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0966,fb-3B-0968,fb-3B-0973,fb-3B-0974,fb-3B-0976,fb-3B-2030,fb-3B-2031,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2037,fb-3B-2040,fb-3B-2041,fb-3B-2042&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon\"",
+  "reason": "43/100 of current pool ON; 25 FORWARD, 1 RELATED, 31 OFF. Forward items: fb-3B-0169 (needs 15.6), fb-3B-0177 (needs 15.4), fb-3B-0178 (needs 15.4), fb-3B-0179 (needs 15.4), fb-3B-0303 (needs 15.4), fb-3B-0309 (needs 15.4), fb-3B-0317 (needs 15.4), fb-3B-0318 (needs 15.4), fb-3B-0319 (needs 15.4), fb-3B-0320 (needs 15.3), fb-3B-0322 (needs 15.10), fb-3B-0324 (needs 15.6), fb-3B-0465 (needs 15.4), fb-3B-0487 (needs 15.4), fb-3B-0488 (needs 15.4), fb-3B-0489 (needs 15.4), fb-3B-0496 (needs 15.9), fb-3B-0978 (needs 15.4), fb-3B-0979 (needs 15.4), fb-3B-2043 (needs 15.4), fb-3B-2058 (needs 15.10), fb-3B-2060 (needs 15.8), fb-3B-2100 (needs 15.4), fb-3B-2101 (needs 15.4), fb-3B-2102 (needs 15.3)."
+ },
+ {
+  "page_id": "597244",
+  "section": "14.8 Citric acid cycle and electron transport (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=citric|krebs|electron+transport|ATP+synthase|oxidative+phosph|NADH|FADH|coenzyme+Q|cytochrome|mitochondri&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-0174,fb-3B-0175,fb-3B-0294,fb-3B-0295,fb-3B-0296,fb-3B-0298,fb-3B-0304,fb-3B-0310,fb-3B-0313,fb-3B-0314,fb-3B-0315,fb-3B-0316,fb-3B-0467,fb-3B-0475,fb-3B-0476,fb-3B-0477,fb-3B-0478,fb-3B-0479,fb-3B-0485,fb-3B-0491,fb-3B-0492,fb-3B-0493,fb-3B-0966,fb-3B-0968,fb-3B-0973,fb-3B-0974,fb-3B-0976,fb-3B-2030,fb-3B-2031,fb-3B-2032,fb-3B-2033,fb-3B-2034,fb-3B-2035,fb-3B-2036,fb-3B-2037,fb-3B-2040,fb-3B-2041,fb-3B-2042&amp;n=12&amp;title=Citric+acid+cycle+and+electron+transport&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597244",
+  "section": "14.8 Energy and redox",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-0308,fb-3B-0323,fb-3B-0466,fb-3B-0467,fb-3B-0470,fb-3B-0473,fb-3B-0474,fb-3B-0485,fb-3B-0966,fb-3B-0967,fb-3B-0968,fb-3B-0970,fb-3B-0973,fb-3B-0974,fb-3B-0975,fb-3B-2037,fb-3B-2039,fb-3B-2042&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon\"",
+  "reason": "22/101 of current pool ON; 30 FORWARD, 21 RELATED, 28 OFF. Forward items: fb-3B-0158 (needs 15.4), fb-3B-0169 (needs 15.6), fb-3B-0177 (needs 15.4), fb-3B-0178 (needs 15.4), fb-3B-0180 (needs 15.9), fb-3B-0299 (needs 15.4), fb-3B-0302 (needs 15.4), fb-3B-0303 (needs 15.4), fb-3B-0309 (needs 15.4), fb-3B-0317 (needs 15.4), fb-3B-0318 (needs 15.4), fb-3B-0319 (needs 15.4), fb-3B-0320 (needs 15.3), fb-3B-0324 (needs 15.6), fb-3B-0465 (needs 15.4), fb-3B-0471 (needs 15.10), fb-3B-0486 (needs 15.4), fb-3B-0487 (needs 15.4), fb-3B-0488 (needs 15.4), fb-3B-0489 (needs 15.4), fb-3B-0490 (needs 15.4), fb-3B-0977 (needs 15.3), fb-3B-0978 (needs 15.4), fb-3B-0979 (needs 15.4), fb-3B-2043 (needs 15.4), fb-3B-2048 (needs 15.5), fb-3B-2100 (needs 15.4), fb-3B-2101 (needs 15.4), fb-3B-2102 (needs 15.3), fb-3B-2105 (needs 15.7)."
+ },
+ {
+  "page_id": "597244",
+  "section": "14.8 Energy and redox (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=kcal|Calorie|energy|oxidized|reduced|oxidation|LEO|GER&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-0308,fb-3B-0323,fb-3B-0466,fb-3B-0467,fb-3B-0470,fb-3B-0473,fb-3B-0474,fb-3B-0485,fb-3B-0966,fb-3B-0967,fb-3B-0968,fb-3B-0970,fb-3B-0973,fb-3B-0974,fb-3B-0975,fb-3B-2037,fb-3B-2039,fb-3B-2042&amp;n=8&amp;title=Energy+and+redox&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597207",
+  "section": "15.3 Fat Digestion and Activation",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=bile%7Clipase%7Cchylomicron%7Ccarnitine%7Cactivation%7Cglycerol&amp;n=10&amp;title=Fat%20Digestion%20and%20Activation\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids,metabolism&amp;ids=fb-3B-0176,fb-3B-0320,fb-3B-0342,fb-3B-0977,fb-3B-2044,fb-3B-2045,fb-3B-2046,fb-3B-2102&amp;n=8&amp;title=Fat%20Digestion%20and%20Activation\"",
+  "reason": "7/26 of current pool ON; 9 FORWARD, 0 RELATED, 10 OFF. Forward items: fb-3B-0177 (needs 15.4), fb-3B-0303 (needs 15.4), fb-3B-0317 (needs 15.4), fb-3B-0465 (needs 15.4), fb-3B-0488 (needs 15.4), fb-3B-0979 (needs 15.4), fb-3B-2043 (needs 15.4), fb-3B-2049 (needs 15.6), fb-3B-2050 (needs 15.6)."
+ },
+ {
+  "page_id": "597207",
+  "section": "15.3 Fat Digestion and Activation (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=bile%7Clipase%7Cchylomicron%7Ccarnitine%7Cactivation%7Cglycerol&amp;n=10&amp;title=Fat%20Digestion%20and%20Activation\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=lipids,metabolism&amp;ids=fb-3B-0176,fb-3B-0320,fb-3B-0342,fb-3B-0977,fb-3B-2044,fb-3B-2045,fb-3B-2046,fb-3B-2102&amp;n=8&amp;title=Fat%20Digestion%20and%20Activation\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597209",
+  "section": "15.4 \u03b2-Oxidation and ketone bodies",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=fatty+acid|%CE%B2-oxid|beta-oxid|beta+oxid|acetyl+CoA|ketone+bod|ketosis|ketoacid|lipogen&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-0179,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0309,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2047,fb-3B-2100,fb-3B-2101,fb-3B-2102&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon\"",
+  "reason": "27/69 of current pool ON; 9 FORWARD, 1 RELATED, 32 OFF. Forward items: fb-3B-0169 (needs 15.6), fb-3B-0322 (needs 15.10), fb-3B-0324 (needs 15.6), fb-3B-0471 (needs 15.10), fb-3B-2048 (needs 15.5), fb-3B-2049 (needs 15.6), fb-3B-2050 (needs 15.6), fb-3B-2055 (needs 15.9), fb-3B-2103 (needs 15.7)."
+ },
+ {
+  "page_id": "597209",
+  "section": "15.4 \u03b2-Oxidation and ketone bodies (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=fatty+acid|%CE%B2-oxid|beta-oxid|beta+oxid|acetyl+CoA|ketone+bod|ketosis|ketoacid|lipogen&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-0179,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0309,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2047,fb-3B-2100,fb-3B-2101,fb-3B-2102&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597209",
+  "section": "15.4 Fatty Acid Oxidation",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=oxidation%7Cfatty%20acid%7Ccarnitine%7Cstearic%7Cpalmitic%7Clauric%7Cacetyl%20CoA&amp;n=10&amp;title=Fatty%20Acid%20Oxidation\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0158,fb-3B-0177,fb-3B-0178,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2100,fb-3B-2101,fb-3B-2102&amp;n=10&amp;title=Fatty%20Acid%20Oxidation\"",
+  "reason": "23/86 of current pool ON; 8 FORWARD, 3 RELATED, 52 OFF. Forward items: fb-3B-0169 (needs 15.6), fb-3B-0322 (needs 15.10), fb-3B-0324 (needs 15.6), fb-3B-0471 (needs 15.10), fb-3B-2049 (needs 15.6), fb-3B-2050 (needs 15.6), fb-3B-2055 (needs 15.9), fb-3B-2103 (needs 15.7)."
+ },
+ {
+  "page_id": "597209",
+  "section": "15.4 Fatty Acid Oxidation (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=oxidation%7Cfatty%20acid%7Ccarnitine%7Cstearic%7Cpalmitic%7Clauric%7Cacetyl%20CoA&amp;n=10&amp;title=Fatty%20Acid%20Oxidation\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0158,fb-3B-0177,fb-3B-0178,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2100,fb-3B-2101,fb-3B-2102&amp;n=10&amp;title=Fatty%20Acid%20Oxidation\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597213",
+  "section": "15.5 Ketone Bodies",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=ketone%20bod%7Cacetoacetate%7Cketoacidosis%7Chydroxybutyrate%7Cacetone&amp;n=8&amp;title=Ketone%20Bodies\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048&amp;n=5&amp;title=Ketone%20Bodies\"",
+  "reason": "5/15 of current pool ON; 3 FORWARD, 1 RELATED, 6 OFF. Forward items: fb-3B-0322 (needs 15.10), fb-3B-0471 (needs 15.10), fb-3B-2049 (needs 15.6). Only 5 on-focus items exist in the whole bank for this section; n lowered."
+ },
+ {
+  "page_id": "597213",
+  "section": "15.5 Ketone Bodies (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=ketone%20bod%7Cacetoacetate%7Cketoacidosis%7Chydroxybutyrate%7Cacetone&amp;n=8&amp;title=Ketone%20Bodies\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-2048&amp;n=5&amp;title=Ketone%20Bodies\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597216",
+  "section": "15.9 The Urea Cycle",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea%7Cammoni%7CBUN&amp;n=8&amp;title=The%20Urea%20Cycle\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0180,fb-3B-0321,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2053,fb-3B-2054,fb-3B-2055&amp;n=8&amp;title=The%20Urea%20Cycle\"",
+  "reason": "8/15 of current pool ON; 1 FORWARD, 5 RELATED, 1 OFF. Forward items: fb-3B-0322 (needs 15.10)."
+ },
+ {
+  "page_id": "597216",
+  "section": "15.9 The Urea Cycle (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea%7Cammoni%7CBUN&amp;n=8&amp;title=The%20Urea%20Cycle\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0180,fb-3B-0321,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2053,fb-3B-2054,fb-3B-2055&amp;n=8&amp;title=The%20Urea%20Cycle\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597218",
+  "section": "15.12 Amino acid metabolism",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+  "reason": "21/31 of current pool ON; 0 FORWARD, 2 RELATED, 8 OFF."
+ },
+ {
+  "page_id": "597218",
+  "section": "15.12 Amino acid metabolism (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597245",
+  "section": "15.14 \u03b2-Oxidation and ketone bodies",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=fatty+acid|%CE%B2-oxid|beta-oxid|beta+oxid|acetyl+CoA|ketone+bod|ketosis|ketoacid|lipogen&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-0179,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0309,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2047,fb-3B-2048,fb-3B-2100,fb-3B-2101,fb-3B-2102&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon\"",
+  "reason": "28/69 of current pool ON; 0 FORWARD, 9 RELATED, 32 OFF."
+ },
+ {
+  "page_id": "597245",
+  "section": "15.14 \u03b2-Oxidation and ketone bodies (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=fatty+acid|%CE%B2-oxid|beta-oxid|beta+oxid|acetyl+CoA|ketone+bod|ketosis|ketoacid|lipogen&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-0179,fb-3B-0299,fb-3B-0302,fb-3B-0303,fb-3B-0309,fb-3B-0317,fb-3B-0318,fb-3B-0319,fb-3B-0320,fb-3B-0465,fb-3B-0486,fb-3B-0487,fb-3B-0488,fb-3B-0489,fb-3B-0490,fb-3B-0977,fb-3B-0978,fb-3B-0979,fb-3B-2043,fb-3B-2047,fb-3B-2048,fb-3B-2100,fb-3B-2101,fb-3B-2102&amp;n=10&amp;title=%CE%B2-Oxidation+and+ketone+bodies&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ },
+ {
+  "page_id": "597245",
+  "section": "15.14 Amino acid metabolism",
+  "old": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+  "new": "src=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+  "reason": "21/31 of current pool ON; 0 FORWARD, 2 RELATED, 8 OFF."
+ },
+ {
+  "page_id": "597245",
+  "section": "15.14 Amino acid metabolism (new-tab link)",
+  "old": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;q=urea|transamin|deamin|ammoni|nitrogen|amino+acid|glucogenic|ketogenic|essential&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+  "new": "href=\"https://itsdrdan.github.io/textbook/practice.html?t=metabolism&amp;ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-0471,fb-3B-0494,fb-3B-0495,fb-3B-0496,fb-3B-2051,fb-3B-2052,fb-3B-2053,fb-3B-2054,fb-3B-2055,fb-3B-2056,fb-3B-2057,fb-3B-2058,fb-3B-2059,fb-3B-2060,fb-3B-2103,fb-3B-2104,fb-3B-2105&amp;n=10&amp;title=Amino+acid+metabolism&amp;game=marathon\"",
+  "reason": "same selection for the \"open in a new tab\" link"
+ }
+]
