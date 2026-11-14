@@ -158,7 +158,7 @@ function stepSVG(k, set) {
   const all = [...froms, ...prods], tall = Math.max(...all.map(p => p.m.h)), titled = set.title !== '';
   const topPad = titled ? 64 : 48, arrowW = Math.max(190, textW(st.enz || '', 13) * 1.05 + 24), gapP = 40;
   const H = tall + topPad + 70 + (st.below || st.outBelow ? 44 : 0) + (set.keyText ? 20 : 0);
-  let o = '', x = 14; const midY = topPad + tall / 2; const nfs = all.length > 2 ? 12.5 : 14;
+  let o = '', x = 14; const midY = topPad + tall / 2; const nfs = 14; /* was 12.5 when a step has more than two molecules; 12.5 printed at 5.7 pt (2026-11-13). slot() widens with the text, so the layout follows */
   const slot = (m, id) => Math.max(m.w, textW(MOL_[id].name, nfs) + 12);
   if (titled) o += label(14, 22, `${set.title || 'Step'} ${k}`, 18, { weight: 900, color: '#5b4790' }).svg + ((set.COEF || {})[k] ? label(90, 22, set.twice || '(happens twice per glucose)', 13, { color: MUTED, weight: 600 }).svg : '');
   const place = (list) => list.forEach((p, i) => { if (i) { o += label(x - 4, midY, '+', 24, { anchor: 'middle', weight: 800 }).svg; x += 16; }

@@ -1,7 +1,7 @@
 import json, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from pathway import render  # Python port of pathway.js (no node needed)
-# Print sizing (2026-11-13): font 17 / edge labels 14 so the maps print at about 7 pt; leaf text wraps at 19 characters.
+# Print sizing (2026-11-13): font 17 / edge labels 15.5 (they printed at 5.8 pt at 14; 15.5 prints at about 6.4 pt); leaf text wraps at 19 characters.
 # Each map: title, root, branches [(link, node, [(link, leaf),...]),...]
 M = {
 1:("Bonding review","Covalent molecules",[
@@ -112,7 +112,7 @@ def spec(ch, title, root, br):
             txt="\n".join("• "+wrap((ll+": "+lf.replace("\n"," ")),16).replace("\n","\n   ") for ll,lf in leaves)
             nodes.append({"id":f"l{i}","label":txt,"col":i,"row":2.8,"kind":"note"})
             edges.append({"from":nid,"to":f"l{i}","kind":"side"})
-    return {"title":f"Chapter {ch} concept map: {title}","colw":205,"rowh":100,"font":17,"edgefont":14,"pad":18,"nodes":nodes,"edges":edges}
+    return {"title":f"Chapter {ch} concept map: {title}","colw":205,"rowh":100,"font":17,"edgefont":15.5,"pad":18,"nodes":nodes,"edges":edges}
 
 def wrap(s, w=19):
     out=[];line=''
