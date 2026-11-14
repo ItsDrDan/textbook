@@ -112,3 +112,5 @@ Batch AH (21 edits, 15 pages) is live; every page read back identical to `tools/
 2. Full PDF compile: cover author (needs LibreTexts author record for `dkwasniewski`), 13.5 footer (p. ~1098 printed "curated by ."), batch AH text present, "Swipe sideways" = 0, labels ≥ 6 pt.
 3. Done 2026-11-14: the Try It shows fb-3B-2030 with transferase as the key, and live ADAPT question 355222 keys transferase (read back).
 4. Instructor's Ch 14 slides and any exam key: citrate synthase = transferase.
+
+- 2026-11-14 12:20 compile: all batch AH text printed; cover still "Unknown"; footers of 6.10 and 9.3 printed blank (13.5 fixed). The tag `author@Muhammad Arif Malik` was then added to the 19 Malik pages that lacked it (`tools/author_tags_malik_2026-11-14.json`). Next compile: check that no footer prints "curated by .".
