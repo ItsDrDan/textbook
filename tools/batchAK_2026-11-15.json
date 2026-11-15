@@ -123,7 +123,7 @@
    {
     "old": "Reduction: 2-pentanone + H<sub>2</sub> &rarr; 2-pentanol; 2-pentanol is already reduced and does not add H<sub>2</sub>.",
     "new": "Reduction: 2-pentanone + [H] &rarr; 2-pentanol; 2-pentanol is already reduced and does not react with [H].",
-    "count": 1
+    "count": 2
    },
    {
     "old": "[H] (a reducing agent such as H<sub>2</sub>/Pd or NaBH<sub>4</sub>)",

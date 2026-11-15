@@ -54,7 +54,7 @@ P = '597108'
 e(P, 'Reduction of 3-hexanone with H<sub>2</sub> (catalyst) gives', 'Reduction of 3-hexanone with [H] gives')
 e(P, 'when each is reduced with H<sub>2</sub>/Ni.', 'when each is reduced with [H].')
 e(P, 'Reduction: 2-pentanone + H<sub>2</sub> &rarr; 2-pentanol; 2-pentanol is already reduced and does not add H<sub>2</sub>.',
-     'Reduction: 2-pentanone + [H] &rarr; 2-pentanol; 2-pentanol is already reduced and does not react with [H].')
+     'Reduction: 2-pentanone + [H] &rarr; 2-pentanol; 2-pentanol is already reduced and does not react with [H].', 2)
 e(P, '[H] (a reducing agent such as H<sub>2</sub>/Pd or NaBH<sub>4</sub>)', '[H] (a reducing agent such as NaBH<sub>4</sub>)')
 
 # 7.12 Chapter Guide (Reaction Roadmap)
