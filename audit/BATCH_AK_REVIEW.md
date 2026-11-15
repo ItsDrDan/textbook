@@ -1,0 +1,140 @@
+# Batch AK review: QR codes in print for Try It and lab boxes (2026-11-15)
+
+127 boxes on 102 pages. Screen view unchanged; in print the "Not loading?" line is hidden and a QR code with a short address prints instead.
+
+| Page | Short address | Opens |
+|---|---|---|
+| 597056 | itsdrdan.github.io/textbook/t/597056a | `https://itsdrdan.github.io/textbook/practice.html?t=structure&ids=fb-3B-0000,fb-3B-0008,fb-3B-2238,fb-3B-2239,fb-3B-2...` |
+| 597058 | itsdrdan.github.io/textbook/t/597058a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&ids=fb-3B-0001,fb-3B-0002,fb-3B-0003,fb-3B-0...` |
+| 597061 | itsdrdan.github.io/textbook/t/597061a | `https://itsdrdan.github.io/textbook/practice.html?t=properties&ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-...` |
+| 597061 | itsdrdan.github.io/textbook/t/597061hb | `https://itsdrdan.github.io/IMF/?course=3B&mode=lab&view=lab` |
+| 597062 | itsdrdan.github.io/textbook/t/597062a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0...` |
+| 597062 | itsdrdan.github.io/textbook/t/597062b | `https://itsdrdan.github.io/textbook/practice.html?t=properties&ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-...` |
+| 597067 | itsdrdan.github.io/textbook/t/597067a | `https://itsdrdan.github.io/textbook/practice.html?t=isomers&ids=fb-3B-0206,fb-3B-0207,fb-3B-0214,fb-3B-0215,fb-3B-056...` |
+| 597069 | itsdrdan.github.io/textbook/t/597069a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons&ids=fb-3B-0013,fb-3B-0015,fb-3B-0240,fb-3B...` |
+| 597071 | itsdrdan.github.io/textbook/t/597071a | `https://itsdrdan.github.io/textbook/practice.html?rxn=combustion,substitution&mode=mix&n=10&title=Alkane%20reactions` |
+| 597074 | itsdrdan.github.io/textbook/t/597074a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&ids=fb-3B-0013,fb-3B-0014,fb-3B-00...` |
+| 597075 | itsdrdan.github.io/textbook/t/597075a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers&n=12&fresh=1&chmax=2&ti...` |
+| 597078 | itsdrdan.github.io/textbook/t/597078a | `https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons&ids=fb-3B-0027,fb-3B-0028,fb-3B-2246,fb-3B-2247,fb-3...` |
+| 597081 | itsdrdan.github.io/textbook/t/597081a | `https://itsdrdan.github.io/textbook/practice.html?rxn=hydrogenation,halogenAdd,hydrohalogenation,hydration&mode=produ...` |
+| 597085 | itsdrdan.github.io/textbook/t/597085a | `https://itsdrdan.github.io/textbook/practice.html?t=aromatic&n=10&title=Aromatic%20compounds` |
+| 597086 | itsdrdan.github.io/textbook/t/597086a | `https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,aromatic&q=alkene|alkyne|addition|markov|hydrogenat|...` |
+| 597087 | itsdrdan.github.io/textbook/t/597087a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic&n=12&fresh=1&c...` |
+| 597090 | itsdrdan.github.io/textbook/t/597090lab | `https://itsdrdan.github.io/organic/?mode=spot&groups=alcohol,phenol,ether,thiol,alkene&view=lab` |
+| 597091 | itsdrdan.github.io/textbook/t/597091a | `https://itsdrdan.github.io/textbook/practice.html?t=isomers,alcohols&ids=fb-3B-0036,fb-3B-0037,fb-3B-0355,fb-3B-0363,...` |
+| 597092 | itsdrdan.github.io/textbook/t/597092a | `https://itsdrdan.github.io/textbook/practice.html?t=properties,alcohols&ids=fb-3B-0042,fb-3B-0043,fb-3B-0223,fb-3B-02...` |
+| 597094 | itsdrdan.github.io/textbook/t/597094a | `https://itsdrdan.github.io/textbook/practice.html?rxn=dehydration%2Cox1Ald%2Cox1Acid%2Cox2&mode=mix&n=10&title=Alcoho...` |
+| 597097 | itsdrdan.github.io/textbook/t/597097a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,properties,alcohols&ids=fb-3B-0005,fb-3B-0038,f...` |
+| 597098 | itsdrdan.github.io/textbook/t/597098a | `https://itsdrdan.github.io/textbook/practice.html?t=alcohols&ids=fb-3B-0039,fb-3B-0048,fb-3B-0250,fb-3B-0361,fb-3B-05...` |
+| 597100 | itsdrdan.github.io/textbook/t/597100a | `https://itsdrdan.github.io/textbook/practice.html?t=alcohols&q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&n=12&title=A...` |
+| 597101 | itsdrdan.github.io/textbook/t/597101a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols&n=12&...` |
+| 597102 | itsdrdan.github.io/textbook/t/597102a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,carbonyls&ids=fb-3B-0049,fb-3B-0050,fb-3B-0051,...` |
+| 597103 | itsdrdan.github.io/textbook/t/597103a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,carbonyls&ids=fb-3B-0052,fb-3B-0059,fb-3B-02...` |
+| 597104 | itsdrdan.github.io/textbook/t/597104a | `https://itsdrdan.github.io/textbook/practice.html?rxn=hemiacetal%2Cacetal&mode=mix&n=10&title=Hemiacetals%20and%20ace...` |
+| 597105 | itsdrdan.github.io/textbook/t/597105a | `https://itsdrdan.github.io/textbook/practice.html?rxn=oxAldAcid%2Creduction&mode=mix&n=10&title=Oxidation%20and%20red...` |
+| 597106 | itsdrdan.github.io/textbook/t/597106a | `https://itsdrdan.github.io/textbook/practice.html?t=chirality&n=10&title=Chirality` |
+| 597107 | itsdrdan.github.io/textbook/t/597107a | `https://itsdrdan.github.io/textbook/practice.html?t=carbonyls,chirality&n=12&title=Carbonyls+and+chirality&game=final...` |
+| 597108 | itsdrdan.github.io/textbook/t/597108a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597109 | itsdrdan.github.io/textbook/t/597109a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,acids_esters&ids=fb-3B-0068,fb-3B-0254,fb-3B-0378,fb-3B...` |
+| 597112 | itsdrdan.github.io/textbook/t/597112a | `https://itsdrdan.github.io/textbook/practice.html?rxn=neutralAcid&mode=mix&n=10&title=Neutralizing%20carboxylic%20acids` |
+| 597113 | itsdrdan.github.io/textbook/t/597113a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,isomers,acids_esters&ids=fb-3B-0006,fb-3B-0069,fb-3B-00...` |
+| 597115 | itsdrdan.github.io/textbook/t/597115a | `https://itsdrdan.github.io/textbook/practice.html?rxn=esterification&mode=mix&n=10&title=Esterification` |
+| 597116 | itsdrdan.github.io/textbook/t/597116a | `https://itsdrdan.github.io/textbook/practice.html?rxn=esterHydrolysis%2Csaponification&mode=mix&n=10&title=Ester%20hy...` |
+| 597118 | itsdrdan.github.io/textbook/t/597118a | `https://itsdrdan.github.io/textbook/practice.html?t=properties,acids_esters&ids=fb-3B-0071,fb-3B-0072,fb-3B-0073,fb-3...` |
+| 597119 | itsdrdan.github.io/textbook/t/597119a | `https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&n=12&title=Carboxylic+acids+and+esters&game=finalboss` |
+| 597120 | itsdrdan.github.io/textbook/t/597120a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597121 | itsdrdan.github.io/textbook/t/597121a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,aromatic,amines&ids=fb-3B-0035,fb-3B-0079,fb-3B-0080,fb...` |
+| 597122 | itsdrdan.github.io/textbook/t/597122a | `https://itsdrdan.github.io/textbook/practice.html?t=properties,amines&ids=fb-3B-0085,fb-3B-0222,fb-3B-0597,fb-3B-0598...` |
+| 597123 | itsdrdan.github.io/textbook/t/597123a | `https://itsdrdan.github.io/textbook/practice.html?rxn=neutralAmine&mode=mix&n=10&title=Amine%20neutralization` |
+| 597126 | itsdrdan.github.io/textbook/t/597126a | `https://itsdrdan.github.io/textbook/practice.html?rxn=amidation&mode=mix&n=10&title=Amidation` |
+| 597127 | itsdrdan.github.io/textbook/t/597127a | `https://itsdrdan.github.io/textbook/practice.html?rxn=amideHydrolysis,amideBase&mode=mix&n=10&title=Amide%20hydrolysis` |
+| 597132 | itsdrdan.github.io/textbook/t/597132a | `https://itsdrdan.github.io/textbook/practice.html?t=amines&n=12&title=Amines+and+amides&game=finalboss` |
+| 597133 | itsdrdan.github.io/textbook/t/597133a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597135 | itsdrdan.github.io/textbook/t/597135a | `https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0090,fb-3B-0100,fb-3B-0257,fb-3B-0261,fb-3B-0416,...` |
+| 597137 | itsdrdan.github.io/textbook/t/597137a | `https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,...` |
+| 597137 | itsdrdan.github.io/textbook/t/597137b | `https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0091,fb-3B-0092,fb-3B-0101,fb-3B-0102,fb-3B-0258,...` |
+| 597138 | itsdrdan.github.io/textbook/t/597138a | `https://itsdrdan.github.io/textbook/practice.html?t=carbonyls,carbs&ids=fb-3B-0055,fb-3B-0185,fb-3B-0422,fb-3B-2081,f...` |
+| 597139 | itsdrdan.github.io/textbook/t/597139a | `https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0094,fb-3B-0095,fb-3B-0096,fb-3B-0097,fb-3B-0184,...` |
+| 597140 | itsdrdan.github.io/textbook/t/597140a | `https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0098,fb-3B-0099,fb-3B-0183,fb-3B-0263,fb-3B-0425,...` |
+| 597141 | itsdrdan.github.io/textbook/t/597141a | `https://itsdrdan.github.io/textbook/practice.html?t=carbs&n=14&title=Carbohydrates&game=carbs` |
+| 597142 | itsdrdan.github.io/textbook/t/597142a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597144 | itsdrdan.github.io/textbook/t/597144a | `https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0103,fb-3B-0104,fb-3B-0187,fb-3B-0267,fb-3B-0427...` |
+| 597145 | itsdrdan.github.io/textbook/t/597145a | `https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107...` |
+| 597145 | itsdrdan.github.io/textbook/t/597145lab | `https://itsdrdan.github.io/lipids/?topic=lab&view=lab` |
+| 597145 | itsdrdan.github.io/textbook/t/597145b | `https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0106,fb-3B-0107,fb-3B-0114,fb-3B-0270,fb-3B-0430...` |
+| 597148 | itsdrdan.github.io/textbook/t/597148a | `https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0109,fb-3B-0110,fb-3B-0112,fb-3B-0189,fb-3B-0271...` |
+| 597149 | itsdrdan.github.io/textbook/t/597149a | `https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0111,fb-3B-0186,fb-3B-0190,fb-3B-0268,fb-3B-0432...` |
+| 597150 | itsdrdan.github.io/textbook/t/597150a | `https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20tri...` |
+| 597151 | itsdrdan.github.io/textbook/t/597151a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597154 | itsdrdan.github.io/textbook/t/597154a | `https://itsdrdan.github.io/textbook/practice.html?t=proteins&ids=fb-3B-0115,fb-3B-0279,fb-3B-0439,fb-3B-0745,fb-3B-07...` |
+| 597155 | itsdrdan.github.io/textbook/t/597155a | `https://itsdrdan.github.io/textbook/practice.html?t=proteins&ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-01...` |
+| 597155 | itsdrdan.github.io/textbook/t/597155lab | `https://itsdrdan.github.io/pHcharge/?topic=dial&view=lab` |
+| 597155 | itsdrdan.github.io/textbook/t/597155b | `https://itsdrdan.github.io/textbook/practice.html?t=proteins&ids=fb-3B-0116,fb-3B-0117,fb-3B-0195,fb-3B-0274,fb-3B-02...` |
+| 597157 | itsdrdan.github.io/textbook/t/597157lab | `https://itsdrdan.github.io/aminoacids/?mode=build&view=lab` |
+| 597164 | itsdrdan.github.io/textbook/t/597164a | `https://itsdrdan.github.io/textbook/practice.html?t=proteins&q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29...` |
+| 597165 | itsdrdan.github.io/textbook/t/597165a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597168 | itsdrdan.github.io/textbook/t/597168lab | `https://itsdrdan.github.io/enzymes/?explore=1&view=lab` |
+| 597169 | itsdrdan.github.io/textbook/t/597169lab | `https://itsdrdan.github.io/enzymes/?topic=bench&fam=inh&view=lab` |
+| 597169 | itsdrdan.github.io/textbook/t/597169a | `https://itsdrdan.github.io/textbook/practice.html?t=enzymes&ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-013...` |
+| 597173 | itsdrdan.github.io/textbook/t/597173a | `https://itsdrdan.github.io/textbook/practice.html?t=enzymes&q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%...` |
+| 597174 | itsdrdan.github.io/textbook/t/597174a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597176 | itsdrdan.github.io/textbook/t/597176a | `https://itsdrdan.github.io/textbook/practice.html?t=nucleic&ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-014...` |
+| 597184 | itsdrdan.github.io/textbook/t/597184a | `https://itsdrdan.github.io/textbook/practice.html?t=nucleic&q=codon|translation|transcription|mRNA|tRNA|ribosome|muta...` |
+| 597185 | itsdrdan.github.io/textbook/t/597185a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597188 | itsdrdan.github.io/textbook/t/597188a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0181,fb-3B-0305,fb-3B-0306,fb-3B-...` |
+| 597191 | itsdrdan.github.io/textbook/t/597191a | `https://itsdrdan.github.io/textbook/practice.html?t=carbs,metabolism&ids=fb-3B-0095,fb-3B-0152,fb-3B-0176,fb-3B-0307,...` |
+| 597192 | itsdrdan.github.io/textbook/t/597192a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-...` |
+| 597192 | itsdrdan.github.io/textbook/t/597192b | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-0166,fb-3B-...` |
+| 597193 | itsdrdan.github.io/textbook/t/597193a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0153,fb-3B-0168,fb-3B-0297,fb-3B-0311,fb-3B-...` |
+| 597198 | itsdrdan.github.io/textbook/t/597198a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-...` |
+| 597199 | itsdrdan.github.io/textbook/t/597199a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597202 | itsdrdan.github.io/textbook/t/597202a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0157,fb-3B-0170,fb-3B-0175,fb-3B-0294,fb-3B-...` |
+| 597203 | itsdrdan.github.io/textbook/t/597203a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0156,fb-3B-0171,fb-3B-0172,fb-3B-0173,fb-3B-...` |
+| 597204 | itsdrdan.github.io/textbook/t/597204a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-...` |
+| 597205 | itsdrdan.github.io/textbook/t/597205a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-...` |
+| 597206 | itsdrdan.github.io/textbook/t/597206a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597207 | itsdrdan.github.io/textbook/t/597207a | `https://itsdrdan.github.io/textbook/practice.html?t=lipids,metabolism&ids=fb-3B-0176,fb-3B-0320,fb-3B-0342,fb-3B-0977...` |
+| 597209 | itsdrdan.github.io/textbook/t/597209a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-...` |
+| 597209 | itsdrdan.github.io/textbook/t/597209b | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0158,fb-3B-0177,fb-3B-0178,fb-3B-0299,fb-3B-...` |
+| 597210 | itsdrdan.github.io/textbook/t/597210a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&q=transamin%7Cdeamin%7Cglucogenic%7Cketogenic%7Calanin...` |
+| 597213 | itsdrdan.github.io/textbook/t/597213a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0159,fb-3B-0179,fb-3B-0309,fb-3B-2047,fb-3B-...` |
+| 597216 | itsdrdan.github.io/textbook/t/597216a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0180,fb-3B-0321,fb-3B-0494,fb-3B-0495,fb-3B-...` |
+| 597218 | itsdrdan.github.io/textbook/t/597218a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-...` |
+| 597219 | itsdrdan.github.io/textbook/t/597219a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties,hydrocarbons,isomers,aromatic,alcohols,carbo...` |
+| 597231 | itsdrdan.github.io/textbook/t/597231a | `https://itsdrdan.github.io/textbook/practice.html?rxn=combustion,substitution&mode=mix&title=Alkane+reactions&game=or...` |
+| 597231 | itsdrdan.github.io/textbook/t/597231b | `https://itsdrdan.github.io/textbook/practice.html?t=structure,hydrocarbons,isomers&ids=fb-3B-0013,fb-3B-0014,fb-3B-00...` |
+| 597232 | itsdrdan.github.io/textbook/t/597232a | `https://itsdrdan.github.io/textbook/practice.html?t=structure,properties&ids=fb-3B-0000,fb-3B-0001,fb-3B-0002,fb-3B-0...` |
+| 597232 | itsdrdan.github.io/textbook/t/597232b | `https://itsdrdan.github.io/textbook/practice.html?t=properties&ids=fb-3B-0222,fb-3B-0223,fb-3B-0225,fb-3B-0226,fb-3B-...` |
+| 597233 | itsdrdan.github.io/textbook/t/597233a | `https://itsdrdan.github.io/textbook/practice.html?rxn=hydrogenation,halogenAdd,hydrohalogenation,hydration&mode=produ...` |
+| 597233 | itsdrdan.github.io/textbook/t/597233b | `https://itsdrdan.github.io/textbook/practice.html?t=hydrocarbons,aromatic&q=alkene|alkyne|addition|markov|hydrogenat|...` |
+| 597234 | itsdrdan.github.io/textbook/t/597234a | `https://itsdrdan.github.io/textbook/practice.html?rxn=dehydration,ox1Ald,ox1Acid,ox2&mode=mix&title=Alcohol+reactions...` |
+| 597234 | itsdrdan.github.io/textbook/t/597234b | `https://itsdrdan.github.io/textbook/practice.html?t=alcohols&q=%5E%28%3F%21%5B%5Cs%5CS%5D%2Athioester%29&n=12&title=A...` |
+| 597235 | itsdrdan.github.io/textbook/t/597235a | `https://itsdrdan.github.io/textbook/practice.html?rxn=oxAldAcid,reduction,hemiacetal,acetal&mode=mix&title=Aldehyde+a...` |
+| 597235 | itsdrdan.github.io/textbook/t/597235b | `https://itsdrdan.github.io/textbook/practice.html?t=carbonyls,chirality&n=12&title=Carbonyls+and+chirality&game=final...` |
+| 597236 | itsdrdan.github.io/textbook/t/597236a | `https://itsdrdan.github.io/textbook/practice.html?rxn=esterification,esterHydrolysis,saponification,neutralAcid&mode=...` |
+| 597236 | itsdrdan.github.io/textbook/t/597236b | `https://itsdrdan.github.io/textbook/practice.html?t=acids_esters&n=12&title=Carboxylic+acids+and+esters&game=finalboss` |
+| 597237 | itsdrdan.github.io/textbook/t/597237a | `https://itsdrdan.github.io/textbook/practice.html?rxn=amidation,amideHydrolysis,amideBase,neutralAmine&mode=mix&title...` |
+| 597237 | itsdrdan.github.io/textbook/t/597237b | `https://itsdrdan.github.io/textbook/practice.html?t=amines&n=12&title=Amines+and+amides&game=finalboss` |
+| 597238 | itsdrdan.github.io/textbook/t/597238a | `https://itsdrdan.github.io/textbook/practice.html?t=carbs&ids=fb-3B-0090,fb-3B-0091,fb-3B-0092,fb-3B-0093,fb-3B-0100,...` |
+| 597238 | itsdrdan.github.io/textbook/t/597238b | `https://itsdrdan.github.io/textbook/practice.html?t=carbs&n=14&title=Carbohydrates&game=carbs` |
+| 597239 | itsdrdan.github.io/textbook/t/597239a | `https://itsdrdan.github.io/textbook/practice.html?t=lipids&ids=fb-3B-0103,fb-3B-0104,fb-3B-0105,fb-3B-0106,fb-3B-0107...` |
+| 597239 | itsdrdan.github.io/textbook/t/597239b | `https://itsdrdan.github.io/textbook/practice.html?t=lipids&q=%5E%28%3F%21%28During%7CAfter%20fat%20digestion%2C%20tri...` |
+| 597240 | itsdrdan.github.io/textbook/t/597240a | `https://itsdrdan.github.io/textbook/practice.html?t=proteins&ids=fb-3B-0115,fb-3B-0116,fb-3B-0117,fb-3B-0191,fb-3B-01...` |
+| 597240 | itsdrdan.github.io/textbook/t/597240b | `https://itsdrdan.github.io/textbook/practice.html?t=proteins&q=%5E%28%3F%21%28The%20body%20makes%20nonessential%29%29...` |
+| 597241 | itsdrdan.github.io/textbook/t/597241a | `https://itsdrdan.github.io/textbook/practice.html?t=enzymes&ids=fb-3B-0131,fb-3B-0132,fb-3B-0133,fb-3B-0134,fb-3B-013...` |
+| 597241 | itsdrdan.github.io/textbook/t/597241b | `https://itsdrdan.github.io/textbook/practice.html?t=enzymes&q=%5E%28%3F%21%28Which%20type%20of%20digestive%20enzy%29%...` |
+| 597242 | itsdrdan.github.io/textbook/t/597242a | `https://itsdrdan.github.io/textbook/practice.html?t=nucleic&ids=fb-3B-0139,fb-3B-0140,fb-3B-0141,fb-3B-0142,fb-3B-014...` |
+| 597242 | itsdrdan.github.io/textbook/t/597242b | `https://itsdrdan.github.io/textbook/practice.html?t=nucleic&q=codon|translation|transcription|mRNA|tRNA|ribosome|muta...` |
+| 597243 | itsdrdan.github.io/textbook/t/597243a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0153,fb-3B-0154,fb-3B-0163,fb-3B-0165,fb-3B-...` |
+| 597243 | itsdrdan.github.io/textbook/t/597243b | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0152,fb-3B-0160,fb-3B-0161,fb-3B-...` |
+| 597244 | itsdrdan.github.io/textbook/t/597244a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0156,fb-3B-0157,fb-3B-0170,fb-3B-0171,fb-3B-...` |
+| 597244 | itsdrdan.github.io/textbook/t/597244b | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0151,fb-3B-0294,fb-3B-0300,fb-3B-0301,fb-3B-...` |
+| 597245 | itsdrdan.github.io/textbook/t/597245a | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0158,fb-3B-0159,fb-3B-0177,fb-3B-0178,fb-3B-...` |
+| 597245 | itsdrdan.github.io/textbook/t/597245b | `https://itsdrdan.github.io/textbook/practice.html?t=metabolism&ids=fb-3B-0155,fb-3B-0180,fb-3B-0321,fb-3B-0322,fb-3B-...` |
+
+## Checks (2026-11-15, before publishing)
+
+- All 127 QR codes decoded with the browser's barcode reader at the printed size (96 px, about 1 inch), each to its own short address.
+- Short address checked: itsdrdan.github.io/textbook/t/597155a forwards to the 10.2 Try It practice.
+- Screen view: the "Not loading?" line is unchanged on screen; the QR block uses LibreTexts' `showprint` class, which is hidden on screen.
+- Not yet checked: the PDF. Proof that `div.hideprint` hides in the PDF: the inline answer blocks (`div.hideprint answer-inline`) do not print. The QR image and the hidden line need the next full compile to confirm.
