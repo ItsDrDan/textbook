@@ -33,7 +33,7 @@
   "597105": [
    {
     "old": "<h4 class=\"editable\">Catalytic hydrogenation of aldehydes and ketones</h4>\n\n<p>Hydrogen (\\(\\ce{H2}\\)) reduces aldehydes and ketones to alcohols in the presence of a metal catalyst such as finely divided \\(\\ce{Ni}\\), \\(\\ce{Pd}\\) or \\(\\ce{Pt}\\), as shown in the following examples.</p>",
-    "new": "<h4 class=\"editable\">Reduction of aldehydes and ketones</h4>\n\n<p>A reducing agent, written [H] over the arrow, reduces aldehydes and ketones to alcohols: one H adds to the carbonyl carbon and one H adds to the oxygen, as shown in the following examples.</p>",
+    "new": "<h4 class=\"editable\">Writing reduction as [H]</h4>\n\n<p>A reducing agent, written [H] over the arrow, reduces aldehydes and ketones to alcohols: one H adds to the carbonyl carbon and one H adds to the oxygen, as shown in the following examples.</p>",
     "count": 1
    },
    {
