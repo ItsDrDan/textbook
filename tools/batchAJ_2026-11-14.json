@@ -1,0 +1,68 @@
+{
+ "uploads": [],
+ "edits": {
+  "597090": [
+   {
+    "old": "<div class=\"box-note\">\n<p class=\"boxtitle\">Professor Tip</p>\n<p>Many real molecules carry more than one of these groups.",
+    "new": "<div class=\"box-note\" style=\"border-left:6px solid #1f8a70;\">\n<p class=\"boxtitle\">Hands-on Lab: Spot the group</p>\n<p>Tap any atom of the named group in a real molecule: a drug, a flavor or an amino acid. A right tap lights up the whole group; a wrong tap tells you which group that atom belongs to. This set asks only about groups you know so far: alcohol, phenol, ether, thiol, and the alkene from Chapter 3. Your progress is saved in this browser.</p>\n<p class=\"hideprint\"><iframe src=\"https://itsdrdan.github.io/organic/?mode=spot&amp;groups=alcohol,phenol,ether,thiol,alkene&amp;view=lab\" width=\"100%\" height=\"560\" style=\"border:0;border-radius:12px;background:#f5f6fb;\" title=\"Hands-on Lab: Spot the group\" loading=\"lazy\"></iframe></p>\n<p class=\"hideprint\" style=\"font-size:0.9em;\">Not loading? <a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"https://itsdrdan.github.io/organic/?mode=spot&amp;groups=alcohol,phenol,ether,thiol,alkene&amp;view=lab\">Open this lab in a new tab</a>.</p>\n<p class=\"showprint\" style=\"font-size:0.9em;\">This lab runs online: open this section in the web edition of the book, or play it in <em>Functional Group Flashcards</em> at itsdrdan.github.io.</p>\n</div>\n<div class=\"box-note\">\n<p class=\"boxtitle\">Professor Tip</p>\n<p>Many real molecules carry more than one of these groups.",
+    "count": 1,
+    "note": "4.1: Spot It (before the Professor Tip in \"Sorting a molecule into the right family\")",
+    "why": "Author request 2026-11-14 (\"Add the six\"; H-Bond Lab in 1.8 as an option)"
+   }
+  ],
+  "597145": [
+   {
+    "old": "</div><div class=\"mt-section\" id=\"section_8\"><h3 class=\"editable\">Oxidation of fats (rancidity)</h3>",
+    "new": "<div class=\"box-note\" style=\"border-left:6px solid #1f8a70;\">\n<p class=\"boxtitle\">Hands-on Lab: Build and break fats</p>\n<p>Build a triacylglycerol one ester bond at a time by tapping the &ndash;OH of a fatty acid and the H of glycerol that leave as water, then take fats and waxes apart by hydrolysis (acid or lipase) or saponification (NaOH or KOH). A wrong pick tells you why it is wrong. Your progress is saved in this browser.</p>\n<p class=\"hideprint\"><iframe src=\"https://itsdrdan.github.io/lipids/?topic=lab&amp;view=lab\" width=\"100%\" height=\"600\" style=\"border:0;border-radius:12px;background:#f5f6fb;\" title=\"Hands-on Lab: Build and break fats\" loading=\"lazy\"></iframe></p>\n<p class=\"hideprint\" style=\"font-size:0.9em;\">Not loading? <a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"https://itsdrdan.github.io/lipids/?topic=lab&amp;view=lab\">Open this lab in a new tab</a>.</p>\n<p class=\"showprint\" style=\"font-size:0.9em;\">This lab runs online: open this section in the web edition of the book, or play it in <em>Lipid Lab</em> at itsdrdan.github.io.</p>\n</div>\n</div><div class=\"mt-section\" id=\"section_8\"><h3 class=\"editable\">Oxidation of fats (rancidity)</h3>",
+    "count": 1,
+    "note": "9.2: Build and break fats (end of \"The three reactions\", before \"Oxidation of fats\")",
+    "why": "Author request 2026-11-14 (\"Add the six\"; H-Bond Lab in 1.8 as an option)"
+   }
+  ],
+  "597155": [
+   {
+    "old": "<div class=\"box-note\" style=\"border-left:6px solid #86509b;\">\n<p class=\"boxtitle\">Try It: Amino acids and charge</p>\n<p>Zwitterions, pI and the form of an amino acid above and below its pI. Your progress is saved in this browser.</p>\n<p><iframe src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0116,fb-3B-0117,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0438,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0952&amp;n=10&amp;title=Amino%20acids%20and%20charge\" width=\"100%\" height=\"620\" style=\"border:0;border-radius:12px;background:#f5f6fb;\" title=\"Try It: Amino acids and charge\" loading=\"lazy\"></iframe></p>",
+    "new": "<div class=\"box-note\" style=\"border-left:6px solid #1f8a70;\">\n<p class=\"boxtitle\">Hands-on Lab: pH Dial</p>\n<p>Predict an amino acid&rsquo;s net charge, then turn the dial between strongly acidic, the pI, pH 7.4 and strongly basic. Watch each group gain or lose H<sup>+</sup> and the electrophoresis spot move, explain what happened, and apply it to a second amino acid. Your progress is saved in this browser.</p>\n<p class=\"hideprint\"><iframe src=\"https://itsdrdan.github.io/pHcharge/?topic=dial&amp;view=lab\" width=\"100%\" height=\"640\" style=\"border:0;border-radius:12px;background:#f5f6fb;\" title=\"Hands-on Lab: pH Dial\" loading=\"lazy\"></iframe></p>\n<p class=\"hideprint\" style=\"font-size:0.9em;\">Not loading? <a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"https://itsdrdan.github.io/pHcharge/?topic=dial&amp;view=lab\">Open this lab in a new tab</a>.</p>\n<p class=\"showprint\" style=\"font-size:0.9em;\">This lab runs online: open this section in the web edition of the book, or play it in <em>Proton Patrol</em> at itsdrdan.github.io.</p>\n</div>\n<div class=\"box-note\" style=\"border-left:6px solid #86509b;\">\n<p class=\"boxtitle\">Try It: Amino acids and charge</p>\n<p>Zwitterions, pI and the form of an amino acid above and below its pI. Your progress is saved in this browser.</p>\n<p><iframe src=\"https://itsdrdan.github.io/textbook/practice.html?t=proteins&amp;ids=fb-3B-0116,fb-3B-0117,fb-3B-0195,fb-3B-0274,fb-3B-0275,fb-3B-0438,fb-3B-0753,fb-3B-0754,fb-3B-0755,fb-3B-0756,fb-3B-0864,fb-3B-0865,fb-3B-0870,fb-3B-0871,fb-3B-0952&amp;n=10&amp;title=Amino%20acids%20and%20charge\" width=\"100%\" height=\"620\" style=\"border:0;border-radius:12px;background:#f5f6fb;\" title=\"Try It: Amino acids and charge\" loading=\"lazy\"></iframe></p>",
+    "count": 1,
+    "note": "10.2: pH Dial (after the worked examples, before the second Try It box)",
+    "why": "Author request 2026-11-14 (\"Add the six\"; H-Bond Lab in 1.8 as an option)"
+   }
+  ],
+  "597157": [
+   {
+    "old": "</div><div class=\"mt-section\" id=\"section_4\"><h3 class=\"editable\">Naming and writing peptides</h3>",
+    "new": "<div class=\"box-note\" style=\"border-left:6px solid #1f8a70;\">\n<p class=\"boxtitle\">Hands-on Lab: Condense and hydrolyze</p>\n<p>Build a peptide by picking the H and the OH that leave as water, or pick the peptide bond that hydrolysis breaks. Some rounds ask how many peptide bonds or water molecules a chain has (<em>n</em> amino acids, <em>n</em> &minus; 1 bonds). Your progress is saved in this browser.</p>\n<p class=\"hideprint\"><iframe src=\"https://itsdrdan.github.io/aminoacids/?mode=build&amp;view=lab\" width=\"100%\" height=\"560\" style=\"border:0;border-radius:12px;background:#f5f6fb;\" title=\"Hands-on Lab: Condense and hydrolyze\" loading=\"lazy\"></iframe></p>\n<p class=\"hideprint\" style=\"font-size:0.9em;\">Not loading? <a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"https://itsdrdan.github.io/aminoacids/?mode=build&amp;view=lab\">Open this lab in a new tab</a>.</p>\n<p class=\"showprint\" style=\"font-size:0.9em;\">This lab runs online: open this section in the web edition of the book, or play it in <em>Peptide Party</em> at itsdrdan.github.io.</p>\n</div>\n</div><div class=\"mt-section\" id=\"section_4\"><h3 class=\"editable\">Naming and writing peptides</h3>",
+    "count": 1,
+    "note": "10.4: Condense & Hydrolyze (end of \"Condensation builds it, hydrolysis breaks it\")",
+    "why": "Author request 2026-11-14 (\"Add the six\"; H-Bond Lab in 1.8 as an option)"
+   }
+  ],
+  "597168": [
+   {
+    "old": "</div><div class=\"mt-section\" id=\"section_8\"><h3 class=\"editable\">Worked examples</h3>",
+    "new": "<div class=\"box-note\" style=\"border-left:6px solid #1f8a70;\">\n<p class=\"boxtitle\">Hands-on Lab: Enzyme Bench</p>\n<p>Every control is live: amount of substrate, amount of enzyme, temperature, pH, and the enzyme itself (pepsin, trypsin or a typical body enzyme). The red dot shows the rate at your settings. Work through the goals, such as finding where more substrate stops helping, or denaturing the enzyme with heat and cooling it again. The inhibitor controls belong to Section 11.4. For guided questions (predict, change one control, explain), open the <a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"https://itsdrdan.github.io/enzymes/?topic=bench&amp;fam=temp,pH,sub&amp;view=lab\">Enzyme Bench lab</a>.</p>\n<p class=\"hideprint\"><iframe src=\"https://itsdrdan.github.io/enzymes/?explore=1&amp;view=lab\" width=\"100%\" height=\"640\" style=\"border:0;border-radius:12px;background:#f5f6fb;\" title=\"Hands-on Lab: Enzyme Bench\" loading=\"lazy\"></iframe></p>\n<p class=\"hideprint\" style=\"font-size:0.9em;\">Not loading? <a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"https://itsdrdan.github.io/enzymes/?explore=1&amp;view=lab\">Open this lab in a new tab</a>.</p>\n<p class=\"showprint\" style=\"font-size:0.9em;\">This lab runs online: open this section in the web edition of the book, or play it in <em>Enzyme Engine</em> at itsdrdan.github.io.</p>\n</div>\n</div><div class=\"mt-section\" id=\"section_8\"><h3 class=\"editable\">Worked examples</h3>",
+    "count": 1,
+    "note": "11.3: Enzyme Bench free play (end of \"Four variables, four curves\", before \"Worked examples\")",
+    "why": "Author request 2026-11-14 (\"Add the six\"; H-Bond Lab in 1.8 as an option)"
+   }
+  ],
+  "597169": [
+   {
+    "old": "</div><div class=\"mt-section\" id=\"section_6\"><h3 class=\"editable\">Drugs that are inhibitors</h3>",
+    "new": "<div class=\"box-note\" style=\"border-left:6px solid #1f8a70;\">\n<p class=\"boxtitle\">Hands-on Lab: Inhibitors on the Enzyme Bench</p>\n<p>An inhibitor is present and the substrate is low. Predict what flooding the enzyme with substrate will do, turn the substrate up, then explain the result and apply it to a new case. A competitive inhibitor can be outcompeted by more substrate; a noncompetitive inhibitor cannot. Your progress is saved in this browser.</p>\n<p class=\"hideprint\"><iframe src=\"https://itsdrdan.github.io/enzymes/?topic=bench&amp;fam=inh&amp;view=lab\" width=\"100%\" height=\"600\" style=\"border:0;border-radius:12px;background:#f5f6fb;\" title=\"Hands-on Lab: Inhibitors on the Enzyme Bench\" loading=\"lazy\"></iframe></p>\n<p class=\"hideprint\" style=\"font-size:0.9em;\">Not loading? <a style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"https://itsdrdan.github.io/enzymes/?topic=bench&amp;fam=inh&amp;view=lab\">Open this lab in a new tab</a>.</p>\n<p class=\"showprint\" style=\"font-size:0.9em;\">This lab runs online: open this section in the web edition of the book, or play it in <em>Enzyme Engine</em> at itsdrdan.github.io.</p>\n</div>\n</div><div class=\"mt-section\" id=\"section_6\"><h3 class=\"editable\">Drugs that are inhibitors</h3>",
+    "count": 1,
+    "note": "11.4: Enzyme Bench inhibitor lab (end of \"Competitive, noncompetitive, irreversible\", before \"Drugs that are inhibitors\")",
+    "why": "Author request 2026-11-14 (\"Add the six\"; H-Bond Lab in 1.8 as an option)"
+   }
+  ],
+  "597061": [
+   {
+    "old": "<span id=\"Hydrogen_Bonding_and_DNA\"></span>",
+    "new": "<div class=\"box-note\" style=\"border-left:6px solid #1f8a70;\">\n<p class=\"boxtitle\">See It Move: H-Bond Lab</p>\n<p>Heat or cool a box of water, ammonia, hydrogen fluoride, methanol or methane and watch hydrogen bonds form and break. Predict first, then check. <a class=\"hideprint\" style=\"text-decoration:underline\" target=\"_blank\" rel=\"noopener\" href=\"https://itsdrdan.github.io/IMF/?course=3B&amp;mode=lab&amp;view=lab\">Open the H-Bond Lab</a> (opens in a new tab).</p>\n<p class=\"showprint\" style=\"font-size:0.9em;\">The H-Bond Lab is in <em>Sticky Molecules</em> at itsdrdan.github.io; the web edition links to it.</p>\n</div>\n<span id=\"Hydrogen_Bonding_and_DNA\"></span>",
+    "count": 1,
+    "note": "1.8: H-Bond Lab link box (end of \"Hydrogen Bonding Intermolecular Forces\", before \"Hydrogen Bonding and DNA\")",
+    "why": "Author request 2026-11-14 (\"Add the six\"; H-Bond Lab in 1.8 as an option)"
+   }
+  ]
+ }
+}
