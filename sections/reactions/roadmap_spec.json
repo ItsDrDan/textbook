@@ -140,7 +140,7 @@
   {
    "from": "ket",
    "to": "alc",
-   "label": "H₂, Ni",
+   "label": "[H]",
    "kind": "dashed",
    "curve": true,
    "labelSide": "below",

@@ -15,7 +15,7 @@ const ROWS={
    ['ox1Acid',nm(/^ethanol$/),'Oxidation of a 1&deg; alcohol (excess [O])','Excess oxidizing agent: primary alcohol &rarr; aldehyde &rarr; carboxylic acid.','4.5'],
    ['ox2',nm(/^2-propanol/),'Oxidation of a 2&deg; alcohol','[O]: a secondary alcohol becomes a ketone. A tertiary alcohol does not react.','4.5']],
 5:[['oxAldAcid',nm(/acetaldehyde/),'Oxidation of an aldehyde','[O] (including Tollens&rsquo; and Benedict&rsquo;s reagents): &ndash;CHO becomes &ndash;COOH. Ketones do not react.','5.4'],
-   ['reduction',nm(/^2-butanone$/),'Reduction','H<sub>2</sub> with Ni adds across the C=O: an aldehyde gives a 1&deg; alcohol, a ketone gives a 2&deg; alcohol.','5.4'],
+   ['reduction',nm(/^2-butanone$/),'Reduction','[H] (a reducing agent) adds H atoms across the C=O: an aldehyde gives a 1&deg; alcohol, a ketone gives a 2&deg; alcohol.','5.4'],
    ['hemiacetal',r=>/acetaldehyde/.test(r.reactants[0].name)&&r.reactants[1].name==='methanol','Hemiacetal formation','One alcohol adds across the C=O; the carbon ends up with &ndash;OH and &ndash;OR.','5.3'],
    ['acetal',r=>/acetaldehyde/.test(r.reactants[0].name)&&r.reactants[1].name==='methanol','Acetal formation','Two alcohols react with the C=O (acid catalyst); the carbon ends up with two &ndash;OR groups, and H<sub>2</sub>O is released.','5.3']],
 6:[['esterification',r=>/acetic acid/.test(r.reactants[0].name)&&r.reactants[1].name==='ethanol','Esterification','Carboxylic acid + alcohol, acid catalyst and heat: a condensation that makes an ester and H<sub>2</sub>O.','6.7'],
