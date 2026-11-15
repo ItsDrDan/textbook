@@ -1,6 +1,6 @@
 # Batch AJ review: hands-on labs from the study games (2026-11-14)
 
-Author's request: "Add the six" demos from `RENAISSANCE-2026-11-14/INTERACTIVE_DEMOS_FOR_TEXTBOOKS.md`, test them in the iOS simulator, fix what is needed, check the code and the fit with each section, and add the H-Bond Lab to 1.8 if the page has room. Nothing is published yet.
+Author's request: "Add the six" demos from `RENAISSANCE-2026-11-14/INTERACTIVE_DEMOS_FOR_TEXTBOOKS.md`, test them in the iOS simulator, fix what is needed, check the code and the fit with each section, and add the H-Bond Lab to 1.8 if the page has room. Published 2026-11-14: games pushed to main first, then the seven pages (dry run and read-back 7/7).
 
 ## The seven boxes
 
