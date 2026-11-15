@@ -1,4 +1,4 @@
-"""Batch AK (2026-11-15), bank part: the six carbonyl-reduction questions say [H] instead of H2 + Ni/metal catalyst.
+"""Batch AK (2026-11-15), bank part: the seven carbonyl-reduction questions say [H] instead of H2 + Ni/metal catalyst.
 Exact-phrase replacements, applied to every copy of the 3B bank (textbook bank, Final Boss, Bond Voyage exam mode,
 shared questionbank). fb-3B-0498 (sorbic acid + excess H2/Ni) and fb-3B-0702 (H2, Ni as a hydrogenation distractor)
 are true hydrogenation items and stay. Run from the folder holding the repos:  python3 textbook/tools/batchAK_bank.py"""
@@ -20,6 +20,29 @@ R = [
  ('are each reduced with H<sub>2</sub> and a Ni catalyst.', 'are each reduced with [H] (a reducing agent).'),
  ('Reduction adds H<sub>2</sub> across the C=O, so the –OH ends up', 'Reduction adds two H atoms across the C=O, so the –OH ends up'),
  ('H<sub>2</sub> with a Ni catalyst reduces both aldehydes and ketones.', '[H] reduces both aldehydes and ketones.'),
+ # fb-3B-0683 (found in the ADAPT scan)
+ ('when it is treated with H<sub>2</sub> and a Ni catalyst (the benzene ring does not react)?', 'when it is treated with [H] (a reducing agent)? The benzene ring does not react.'),
+ ('Styrene has no oxygen, so H<sub>2</sub> just gives ethylbenzene.', 'Styrene has no oxygen, so reducing it cannot create an –OH.'),
+ ('This drawing is styrene, which has no oxygen. H<sub>2</sub> would add across its C=C and could not create an –OH.', 'This drawing is styrene, which has no oxygen. Reducing it could not create an –OH.'),
+ # fb-3B-0366, 0367, 0512 (found in the second scan)
+ ('Catalytic hydrogenation (H<sub>2</sub>, Ni) of pentanal,', 'Reduction ([H]) of pentanal,'),
+ ('Reduction is the reverse of oxidation: H<sub>2</sub> adds across the C=O on the same carbon.', 'Reduction is the reverse of oxidation: [H] adds H atoms across the C=O on the same carbon.'),
+ ('The carboxylic acid is an oxidation product. H<sub>2</sub> with Ni is a reduction.', 'The carboxylic acid is an oxidation product. [H] is a reduction.'),
+ ('An alkene has no oxygen. H<sub>2</sub> adds across the C=O; it does not remove the oxygen.', 'An alkene has no oxygen. [H] adds H atoms across the C=O; it does not remove the oxygen.'),
+ ('takes up H<sub>2</sub> over platinum, which product and alcohol class result?', 'is reduced with [H] (a reducing agent), which product and alcohol class result?'),
+ ('and a ketone cannot form one. Adding H<sub>2</sub> is reduction.', 'and a ketone cannot form one. Adding [H] is reduction.'),
+ ('is reduced with H<sub>2</sub> and a catalyst under conditions that do not affect the benzene ring.', 'is reduced with [H] (a reducing agent); the benzene ring is not affected.'),
+ ('Reduction adds H<sub>2</sub> across the C=O. What kind of alcohol does an aldehyde give?', 'Reduction adds H atoms across the C=O. What kind of alcohol does an aldehyde give?'),
+ ('H<sub>2</sub> adds across C=O, turning the aldehyde CHO into CH<sub>2</sub>OH:', '[H] adds H atoms across the C=O, turning the aldehyde CHO into CH<sub>2</sub>OH:'),
+ ('This drawing is benzoic acid, the oxidation product. H<sub>2</sub> is a reducing agent.', 'This drawing is benzoic acid, the oxidation product. [H] is a reducing agent.'),
+ ('This drawing is toluene: the oxygen is gone completely. H<sub>2</sub> adds across the C=O; it does not remove the oxygen.', 'This drawing is toluene: the oxygen is gone completely. [H] adds H atoms across the C=O; it does not remove the oxygen.'),
+ # fb-3B-0245, 0681, 0682, 0692 (third scan; these phrases occur only in reduction items)
+ ('Adding H<sub>2</sub> across the C=O of 2-pentanone', 'Adding H atoms across the C=O of 2-pentanone'),
+ ('H<sub>2</sub> adds to the C=O at C2', 'H atoms add to the C=O at C2'),
+ ('H<sub>2</sub> adds one H to the C and one H to the O of the C=O.', '[H] adds one H to the C and one H to the O of the C=O.'),
+ ('H<sub>2</sub> adds across the C=O', '[H] adds H atoms across the C=O'),
+ ('H<sub>2</sub> is a reducing agent.', '[H] is a reducing agent.'),
+ ('is the reduction product (H<sub>2</sub>), the opposite reaction.', 'is the reduction product ([H]), the opposite reaction.'),  # fb-3B-0684
  # fb-3B-2287
  ('Sorbitol comes from reducing glucose with H<sub>2</sub> and a metal catalyst.', 'Sorbitol comes from reducing glucose with [H].'),
  # fb-3B-2289
