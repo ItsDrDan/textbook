@@ -137,4 +137,4 @@
 - All 127 QR codes decoded with the browser's barcode reader at the printed size (96 px, about 1 inch), each to its own short address.
 - Short address checked: itsdrdan.github.io/textbook/t/597155a forwards to the 10.2 Try It practice.
 - Screen view: the "Not loading?" line is unchanged on screen; the QR block uses LibreTexts' `showprint` class, which is hidden on screen.
-- Not yet checked: the PDF. Proof that `div.hideprint` hides in the PDF: the inline answer blocks (`div.hideprint answer-inline`) do not print. The QR image and the hidden line need the next full compile to confirm.
+- Published 2026-11-15 (dry run and read-back 102/102). Not yet checked: the PDF. Proof that `div.hideprint` hides in the PDF: the inline answer blocks (`div.hideprint answer-inline`) do not print. The QR image and the hidden line need the next full compile to confirm.
