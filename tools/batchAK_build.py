@@ -24,7 +24,7 @@ ROW_NEW = '<td>[H] (a reducing agent) adds H atoms across the C=O: an aldehyde g
 # 5.4 Redox
 P = '597105'
 e(P, '<h4 class="editable">Catalytic hydrogenation of aldehydes and ketones</h4>\n\n<p>Hydrogen (\\(\\ce{H2}\\)) reduces aldehydes and ketones to alcohols in the presence of a metal catalyst such as finely divided \\(\\ce{Ni}\\), \\(\\ce{Pd}\\) or \\(\\ce{Pt}\\), as shown in the following examples.</p>',
-     '<h4 class="editable">Reduction of aldehydes and ketones</h4>\n\n<p>A reducing agent, written [H] over the arrow, reduces aldehydes and ketones to alcohols: one H adds to the carbonyl carbon and one H adds to the oxygen, as shown in the following examples.</p>')
+     '<h4 class="editable">Writing reduction as [H]</h4>\n\n<p>A reducing agent, written [H] over the arrow, reduces aldehydes and ketones to alcohols: one H adds to the carbonyl carbon and one H adds to the oxygen, as shown in the following examples.</p>')
 e(P, '<img alt="Butanal, CH3CH2CH2CH=O, plus H-H, with Ni over the arrow, gives 1-butanol, CH3CH2CH2CH2OH." class="internal" src="/@api/deki/files/428357/clipboard_eaa97acffbd4cb342e067ad23f4b2da9e.png" fileid="428357" />',
      '<img alt="Butanal, CH3CH2CH2CH=O, with [H] over the arrow, gives 1-butanol, CH3CH2CH2CH2OH." class="internal" width="545" style="max-width:100%;height:auto;" src="/@api/deki/files/{{BUTANAL}}/fig-p597105-red-butanal.svg" fileid="{{BUTANAL}}" />')
 e(P, '<img alt="Cyclohexanone (a hexagon with C=O) plus H-H, with Ni over the arrow, gives cyclohexanol (a hexagon with OH)." class="internal" src="/@api/deki/files/428358/clipboard_eecc65630ff897e76d3e43e26c9d9a9bd.png" fileid="428358" />',
