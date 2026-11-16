@@ -5,6 +5,9 @@ Everything here is served from GitHub Pages at `https://itsdrdan.github.io/textb
 
 | Folder | What it is |
 |---|---|
+| `index.html` | The public **download page** at https://itsdrdan.github.io/textbook/ : read-online and PDF links for the whole book and each chapter, plus links to the lab manual and games. |
+| `pdf/` | Chapter PDFs (plus front and back matter) cut by bookmark from the LibreTexts full-book compile of 2026-11-15. The full-book button links to LibreTexts' live PDF, so only these need re-cutting after big edits. |
+| `practice-sets.html` | The old index: a list of every Try It practice set. |
 | `practice.html` | The **Try It** widget that the book embeds (iframe). Two engines: exam-bank questions and a reaction lab. See the comment at the top of `js/widget.js` for the URL options. |
 | `js/engine.js` | Structure drawing, compound library, reaction templates and name checking, extracted from Bond Voyage! (`ItsDrDan/organicreactions`). Edit there first, then copy here. |
 | `js/fbx.js` | The Exam Practice module shared by the games (Final Boss question renderer). |
