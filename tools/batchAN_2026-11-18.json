@@ -1,0 +1,64 @@
+{
+ "uploads": [],
+ "edits": {
+  "597114": [
+   {
+    "old": "propyl acetate (pear), pentyl acetate (banana), octyl acetate (orange)",
+    "new": "propyl acetate and pentyl acetate (both pear; the banana ester is isopentyl acetate, its branched isomer), octyl acetate (orange)",
+    "count": 1,
+    "note": "6.6 In the Lab: pentyl acetate = pear",
+    "why": "Author decision 2026-11-18: keep the book's pear (6.5 tip, 6.6 table, 6.11 Example 2); the manual changes to match."
+   }
+  ],
+  "597094": [
+   {
+    "old": "the 3&deg; alcohol that chromate cannot oxidize reacts fastest with the Lucas reagent.</p>",
+    "new": "the 3&deg; alcohol that chromate cannot oxidize reacts fastest with the Lucas reagent.</p>\n<p>Why the switch? Chromium(VI) compounds are toxic and cause cancer, and their waste needs special handling, so the teaching lab avoids them. Dichromate is still one of the most common oxidizing agents in chemistry, so know the chromate test and its orange-to-green color change for exams.</p>",
+    "count": 1,
+    "note": "4.5 In the Lab: why the lab uses Lucas instead of chromate",
+    "why": "Author decision 2026-11-18: keep the chromate chemistry; the lab dropped it only for safety."
+   }
+  ],
+  "597191": [
+   {
+    "old": "<p><strong>Digestion of starch:</strong> in <strong>Experiment 13 &ndash; Enzymes</strong> you mix starch with amylase",
+    "new": "<p><strong>Digestion of starch and sucrose:</strong> in <strong>Experiment 8 &ndash; Tests for Carbohydrates</strong> (Part E) you model digestion by heating starch and sucrose with dilute HCl. The acid hydrolyzes the glycosidic bonds, just as digestive enzymes do: the iodine test shows the starch is gone, and Benedict&rsquo;s test turns positive because reducing sugars (glucose, and fructose from sucrose) appear. The tubes heated with water alone do not change.</p>\n<p>In <strong>Experiment 13 &ndash; Enzymes</strong> you mix starch with amylase",
+    "count": 1,
+    "note": "13.3 In the Lab: digestion modeled by Exp 8 Part E acid hydrolysis",
+    "why": "Author decision 2026-11-18: the digestion-of-foods lab topic is the HCl hydrolysis in the carbohydrates lab (exp08.js E.1-E.4)."
+   },
+   {
+    "old": "<p style=\"font-size:0.95em;\"><strong>Lab manual:</strong> <a href=\"https://itsdrdan.github.io/chem3b-lab-manual/pdf/experiments/Exp13_Enzymes.pdf\" target=\"_blank\" rel=\"noopener\">Experiment 13 &ndash; Enzymes (PDF)</a></p>",
+    "new": "<p style=\"font-size:0.95em;\"><strong>Lab manual:</strong> <a href=\"https://itsdrdan.github.io/chem3b-lab-manual/pdf/experiments/Exp08_TestsForCarbohydrates.pdf\" target=\"_blank\" rel=\"noopener\">Experiment 8 &ndash; Tests for Carbohydrates (PDF)</a>; <a href=\"https://itsdrdan.github.io/chem3b-lab-manual/pdf/experiments/Exp13_Enzymes.pdf\" target=\"_blank\" rel=\"noopener\">Experiment 13 &ndash; Enzymes (PDF)</a></p>",
+    "count": 1,
+    "note": "13.3 In the Lab: link Exp 8 too",
+    "why": "Same."
+   }
+  ],
+  "597272": [
+   {
+    "old": "<a href=\"/@go/page/597138\">8.5</a>, <a href=\"/@go/page/597140\">8.7</a>",
+    "new": "<a href=\"/@go/page/597138\">8.5</a>, <a href=\"/@go/page/597140\">8.7</a>, <a href=\"/@go/page/597191\">13.3</a>",
+    "count": 1,
+    "note": "Course Outline Alignment table: Exp 8 also 13.3",
+    "why": "Same."
+   },
+   {
+    "old": "<p>Two outline lab topics are not yet in the manual: digestion of foods (Section 13.3 ties it to the amylase work in Experiment 13) and analysis of simulated urine",
+    "new": "<p>Digestion of foods is modeled by the acid hydrolysis of starch and sucrose in Experiment 8 (Part E) and by the amylase work in Experiment 13 (Section 13.3). One outline lab topic is not yet in the manual: analysis of simulated urine",
+    "count": 1,
+    "note": "Course Outline Alignment: digestion covered by Exp 8",
+    "why": "Same."
+   }
+  ],
+  "597396": [
+   {
+    "old": "Digestion of foods and simulated-urine analysis (outline lab topics) are not yet in the manual.",
+    "new": "The outline&rsquo;s digestion-of-foods topic is the acid hydrolysis of starch and sucrose in Experiment 8 (with amylase in Experiment 13); simulated-urine analysis is not yet in the manual.",
+    "count": 1,
+    "note": "For Instructors: digestion covered by Exp 8",
+    "why": "Same."
+   }
+  ]
+ }
+}
