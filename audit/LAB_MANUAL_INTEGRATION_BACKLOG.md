@@ -1,5 +1,7 @@
 # Lab manual integration backlog
 
+> **Status 2026-11-18: DONE.** Batches AM (PR #98), AN (PR #99) and AO (PR #100) tied every In the Lab box to the CHEM 3B Laboratory Manual (Alexandra Aloia and Daniel Kwasniewski; itsdrdan.github.io/chem3b-lab-manual) and added the front-matter links; checked in print in Full (25).pdf. Author decisions: pentyl acetate = pear; digestion of foods = Exp 8 Part E acid hydrolysis; chromate kept in 4.5. Remaining: urine-analysis, soap and digestion labs exist only as drafts in the manual repo `drafts/`; if adopted, re-add soap to the 6.8 and 9.2 boxes and link the urine boxes (13.9, 15.5, 15.7). The table below is the original 2026-11-14 backlog, kept for history.
+
 Written 2026-11-14 during the final publication gate. **This is not a list of textbook defects.** The companion CHEM 3B lab manual is still being written; everything below waits for it. Source: every "In the Lab" box and every lab mention in `pages/live/` (live LibreTexts, matched by hash on 2026-11-14).
 
 ## How the book refers to the lab today
