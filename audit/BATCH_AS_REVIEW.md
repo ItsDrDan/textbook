@@ -1,6 +1,6 @@
 # Batch AS review: 14.4 Wikipedia credit, 2026-11-19
 
-Not published. 1 edit on 1 page. Found while checking Full (32).pdf against batches AP, AQ and AR (all 164 edits print correctly).
+Published 2026-11-19 (live hash checked). 1 edit on 1 page. Found while checking Full (32).pdf against batches AP, AQ and AR (all 164 edits print correctly).
 
 ## 14.4: Oxidative Phosphorylation (page 597203)
 
