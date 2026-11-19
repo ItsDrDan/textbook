@@ -1,0 +1,682 @@
+{
+ "uploads": [],
+ "edits": {
+  "597072": [
+   {
+    "old": "href=\"http://ozonewatch.gsfc.nasa.gov/daily.php?date=2006-09-24\"",
+    "new": "href=\"https://ozonewatch.gsfc.nasa.gov/Scripts/big_image.php?date=2006-09-24&amp;hem=S\"",
+    "count": 1,
+    "note": "P1 2.8 CFC figure credit: Ozone Watch link moved",
+    "why": "Old daily.php URL returns HTTP 404. New URL loads 'Ozone Hole Watch: Southern ozone map for 24 September 2006'."
+   }
+  ],
+  "597061": [
+   {
+    "old": "In 2000, Kellar Autumn, who leads a multi-institutional gecko research team, found that geckos adhered equally well to both polar silicon dioxide and nonpolar gallium arsenide.",
+    "new": "In 2002, Kellar Autumn, who leads a multi-institutional gecko research team, found that geckos adhered equally well to both polar silicon dioxide and nonpolar gallium arsenide (Source: Autumn et al., <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC129431/\" rel=\"noopener\" target=\"_blank\"><em>PNAS</em>, 2002</a>).",
+    "count": 1,
+    "note": "P1 1.8 gecko box: 2000 -> 2002, cited",
+    "why": "The SiO2 vs GaAs result is Autumn K. et al., Evidence for van der Waals adhesion in gecko setae, PNAS 99:12252 (2002): 'Adhesion to hydrophilic and hydrophobic polarizable surfaces was similar.' The 2000 Nature paper measured single-seta force. Error inherited from OpenStax Chemistry 2e 10.1."
+   }
+  ],
+  "597080": [
+   {
+    "old": "Fruit processors artificially introduce ethylene to hasten the ripening process; exposure to as little as 0.1 mg of ethylene for 24 h can ripen 1 kg of tomatoes.",
+    "new": "Fruit processors artificially introduce ethylene to hasten the ripening process; ripening rooms hold fruit such as tomatoes and bananas in about 100 to 150 ppm ethylene (Source: M. E. Saltveit, USDA Agriculture Handbook 66, <a style=\"text-decoration:underline\" href=\"https://webarchive.library.unt.edu/eot2008/20090305020046id_/http://www.ba.ars.usda.gov/hb66/020ethylene.pdf\" rel=\"noopener\" target=\"_blank\">Ethylene Effects</a>).",
+    "count": 1,
+    "note": "P2 3.3 Environmental Note: unsourced '0.1 mg ethylene ripens 1 kg tomatoes' replaced with the sourced commercial ripening concentration",
+    "why": "No primary source found for the 0.1 mg/1 kg figure (rewritten). Saltveit: fruit treated with C2H4 before sale 'include avocados, bananas, honeydew melons, lemons, oranges and tomatoes. An effective atmosphere of 100 to 150 uL L-1 C2H4 in air'. Same source as 3.4 Valley Connection note 1."
+   }
+  ],
+  "597085": [
+   {
+    "old": "Only a few milligrams of benzo[a]pyrene per kilogram of body weight are required to induce cancer in experimental animals.",
+    "new": "The U.S. EPA classifies benzo[a]pyrene as carcinogenic to humans (Source: U.S. EPA, <a style=\"text-decoration:underline\" href=\"https://iris.epa.gov/ChemicalLanding/&amp;substance_nmbr=136\" rel=\"noopener\" target=\"_blank\">IRIS: Benzo[a]pyrene, 2017</a>).",
+    "count": 1,
+    "note": "P2 3.8 PAHs and Cancer: unsourced animal-dose sentence replaced with EPA classification",
+    "why": "No source found for 'a few milligrams per kilogram' (rewritten). EPA IRIS (updated 01/19/2017): cancer descriptor 'Carcinogenic to humans'."
+   },
+   {
+    "old": "which is why smokers have a much higher rate of oral squamous cell carcinoma and of <em>periodontitis</em> (infection and bone loss around the teeth that follows untreated <em>gingivitis</em>).",
+    "new": "which is why smokers have a much higher rate of oral squamous cell carcinoma (Source: National Cancer Institute, <a style=\"text-decoration:underline\" href=\"https://www.cancer.gov/types/head-and-neck/patient/oral-prevention-pdq\" rel=\"noopener\" target=\"_blank\">Oral Cavity Cancer Prevention</a>) and of <em>periodontitis</em> (infection and bone loss around the teeth that follows untreated <em>gingivitis</em>) (Source: CDC, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/tobacco/campaign/tips/diseases/periodontal-gum-disease.html\" rel=\"noopener\" target=\"_blank\">Smoking, Gum Disease, and Tooth Loss</a>).",
+    "count": 1,
+    "note": "P2 3.8 Clinical Connection: Dental Hygiene: smoking claims cited",
+    "why": "NCI PDQ: 'Using tobacco is the most common cause of oral cavity ... cancers.' CDC: smokers have 'twice the risk for gum disease compared with a nonsmoker.'"
+   }
+  ],
+  "597070": [
+   {
+    "old": "One liter of oil can create a slick 2.5 hectares (6.3 acres) in size.",
+    "new": "Spread to the thinnest visible sheen, about 0.04 &micro;m thick, one liter of oil can cover about 2.5 hectares (6.2 acres) (Source: A. Lewis for the Bonn Agreement, <a style=\"text-decoration:underline\" href=\"https://www.bonnagreement.org/site/assets/files/3952/current-status-report-final-19jan07.pdf\" rel=\"noopener\" target=\"_blank\">Current Status of the Bonn Agreement Oil Appearance Code, 2007</a>).",
+    "count": 1,
+    "note": "P2 2.6 Figure 1 caption: oil-slick area sourced; acres corrected 6.3 -> 6.2",
+    "why": "Bonn Agreement Oil Appearance Code 1 'Sheen' is 0.04 to 0.30 um, 40-300 litres per km2; 'oil layers below 0.04 microns ... cannot be easily detected'. 1 L / 40 L per km2 = 0.025 km2 = 2.5 ha. 2.5 ha x 2.471 = 6.18 acres, so 6.3 was a small conversion error."
+   }
+  ],
+  "597084": [
+   {
+    "old": "in which there is a decrease in the numbers of both the red and white blood cells.</p>",
+    "new": "in which there is a decrease in the numbers of both the red and white blood cells. Long-term exposure can also cause leukemia, and benzene is a known human carcinogen (Source: ATSDR, <a style=\"text-decoration:underline\" href=\"https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=38&amp;toxid=14\" rel=\"noopener\" target=\"_blank\">ToxFAQs: Benzene</a>).</p>",
+    "count": 1,
+    "note": "P2 3.7 Benzene and Us: leukemia and carcinogen classification added, cited",
+    "why": "ATSDR ToxFAQs: reduced red and white cells 'lead to anemia'; 'Long-term exposure may also cause leukemia' (acute myelogenous leukemia); DHHS and EPA: 'known human carcinogen'. The box had no source and omitted the best-known long-term effect."
+   }
+  ],
+  "597039": [
+   {
+    "old": "<td data-th=\"Typical goal or reference range\">Under 100 mg/dL (lower for some patients)</td>",
+    "new": "<td data-th=\"Typical goal or reference range\">Under 100 mg/dL; under 70 for adults 40&ndash;75 with diabetes and other heart risk factors</td>",
+    "count": 1,
+    "note": "P2 Ch 1 Rosa's chart: LDL goal updated to the ADA 2026 goal",
+    "why": "ADA Standards of Care 2026, Sec. 10, Rec. 10.20 (Grade A): for people with diabetes aged 40-75 at higher cardiovascular risk (one or more additional ASCVD risk factors), high-intensity statin with 'an LDL cholesterol goal of <70 mg/dL'. Rosa (52, low HDL, high TG, BP 138/86) is in that group. 'Under 100' was the older general goal."
+   },
+   {
+    "old": "</tbody></table>",
+    "new": "</tbody></table>\n<p style=\"font-size:0.9em;\">Goals and ranges: A1c (Source: American Diabetes Association, <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12690178/\" rel=\"noopener\" target=\"_blank\">Standards of Care in Diabetes&mdash;2026, Section 6</a>); LDL and blood pressure (Source: American Diabetes Association, <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC12690187/\" rel=\"noopener\" target=\"_blank\">Standards of Care in Diabetes&mdash;2026, Section 10</a>); fasting glucose (Source: MedlinePlus, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/ency/article/003482.htm\" rel=\"noopener\" target=\"_blank\">Blood sugar test</a>); HDL and triglycerides (Source: MedlinePlus, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html\" rel=\"noopener\" target=\"_blank\">Cholesterol levels</a>).</p>",
+    "count": 1,
+    "note": "P2 Ch 1 Rosa's chart: source line added under the table",
+    "why": "ADA 2026 Sec. 6 Rec. 6.3a: 'An A1C goal of <7% ... is appropriate for many nonpregnant adults'. Sec. 10 Rec. 10.4: BP goal <130/80; Rec. 10.20: LDL <70. MedlinePlus 003482: fasting '70 to 99 mg/dL' normal. MedlinePlus Cholesterol levels: HDL in women 'less than 50 mg/dL are considered low'; 'A normal triglyceride level is below 150 mg/dL'."
+   }
+  ],
+  "597040": [
+   {
+    "old": "to use a water-based moisturizer instead.",
+    "new": "to use a water-based moisturizer instead (Source: MedlinePlus, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/ency/patientinstructions/000049.htm\" rel=\"noopener\" target=\"_blank\">Oxygen safety</a>).",
+    "count": 1,
+    "note": "P2 Ch 2 Rosa's Story: home-oxygen petroleum-jelly warning cited",
+    "why": "MedlinePlus Oxygen safety: 'Do not use Vaseline or other petroleum-based creams and lotions on your face or upper part of your body'; water-based products such as K-Y Jelly are safe."
+   }
+  ],
+  "597074": [
+   {
+    "old": "petroleum-based products on the face are discouraged as a fire risk, and water-based products are used instead.",
+    "new": "petroleum-based products on the face are discouraged as a fire risk, and water-based products are used instead (Source: MedlinePlus, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/ency/patientinstructions/000049.htm\" rel=\"noopener\" target=\"_blank\">Oxygen safety</a>).",
+    "count": 1,
+    "note": "P2 2.10 Chapter Guide safety note: home-oxygen petroleum warning cited",
+    "why": "Same MedlinePlus Oxygen safety page."
+   }
+  ],
+  "597041": [
+   {
+    "old": "the FDA has since removed partially hydrogenated oils from the U.S. food supply, but",
+    "new": "the FDA has since removed partially hydrogenated oils from the U.S. food supply (Source: U.S. FDA, <a style=\"text-decoration:underline\" href=\"https://www.fda.gov/food/food-additives-petitions/trans-fat\" rel=\"noopener\" target=\"_blank\">Trans Fat</a>), but",
+    "count": 1,
+    "note": "P2 Ch 3 Rosa's Story: FDA PHO removal cited",
+    "why": "FDA Trans Fat: in 2015 FDA determined PHOs, 'then the major source of artificial trans fat in the food supply', are no longer GRAS; most uses ended June 18, 2018; final compliance Jan 1, 2021."
+   },
+   {
+    "old": "and smoking is one of the strongest risk factors for gum disease.</p>",
+    "new": "and smokers have twice the risk of gum disease that nonsmokers have (Source: CDC, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/tobacco/campaign/tips/diseases/periodontal-gum-disease.html\" rel=\"noopener\" target=\"_blank\">Smoking, Gum Disease, and Tooth Loss</a>).</p>",
+    "count": 1,
+    "note": "P2 Ch 3 Rosa's Story: smoking/gum disease reworded to the CDC figure and cited",
+    "why": "CDC: 'You have twice the risk for gum disease compared with a nonsmoker.' 'One of the strongest risk factors' is not stated by the source, so the sentence now gives the source's number."
+   }
+  ],
+  "597059": [
+   {
+    "old": "has removed partially hydrogenated oils from the US food supply.</p>",
+    "new": "has removed partially hydrogenated oils from the US food supply (Source: U.S. FDA, <a style=\"text-decoration:underline\" href=\"https://www.fda.gov/food/food-additives-petitions/trans-fat\" rel=\"noopener\" target=\"_blank\">Trans Fat</a>).</p>",
+    "count": 1,
+    "note": "P2 1.6 To Your Health: FDA PHO removal cited",
+    "why": "Same FDA Trans Fat page; it also supports 'most of the trans fat ... once came from partially hydrogenated oils' earlier in the paragraph."
+   }
+  ],
+  "597079": [
+   {
+    "old": "Partially hydrogenated oils were removed from the U.S. food supply for this reason.",
+    "new": "Partially hydrogenated oils were removed from the U.S. food supply for this reason (Source: U.S. FDA, <a style=\"text-decoration:underline\" href=\"https://www.fda.gov/food/food-additives-petitions/trans-fat\" rel=\"noopener\" target=\"_blank\">Trans Fat</a>).",
+    "count": 1,
+    "note": "P2 3.2 Clinical Connection: Nursing: FDA PHO removal cited",
+    "why": "Same FDA Trans Fat page."
+   }
+  ],
+  "597103": [
+   {
+    "old": "Smoke studies have identified acrolein and formaldehyde, along with benzene, as the main gas-phase contributors to health risk in wildfire smoke.<sup>5</sup>",
+    "new": "Smoke studies have identified acrolein, formaldehyde, benzene and hydrogen cyanide as the main gas-phase contributors to health risk in wildfire smoke.<sup>6</sup>",
+    "count": 1,
+    "note": "P1 597103 VC: add hydrogen cyanide to the list of main gas-phase risk contributors; footnote becomes 6",
+    "why": "O'Dell et al. 2020 (the study that makes this finding): \"acrolein, formaldehyde, benzene, and hydrogen cyanide are the dominant contributors to gas-phase HAPs risk in smoke plumes.\""
+   },
+   {
+    "old": "5. Navarro, K. M., et al., <a style=\"text-decoration:underline\" href=\"https://par.nsf.gov/servlets/purl/10310689\" rel=\"noopener\" target=\"_blank\">Exposure to Particulate Matter and Estimation of Volatile Organic Compounds across Wildland Firefighter Job Tasks</a>, <em>Environmental Science &amp; Technology</em>, 2021.",
+    "new": "5. National Cancer Institute, <a style=\"text-decoration:underline\" href=\"https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/formaldehyde/formaldehyde-fact-sheet\" rel=\"noopener\" target=\"_blank\">Formaldehyde and Cancer Risk</a>. 6. O&rsquo;Dell, K., et al., <a style=\"text-decoration:underline\" href=\"https://doi.org/10.1021/acs.est.0c04497\" rel=\"noopener\" target=\"_blank\">Hazardous Air Pollutants in Fresh and Aged Western US Wildfire Smoke and Implications for Long-Term Exposure</a>, <em>Environmental Science &amp; Technology</em>, 2020.",
+    "count": 1,
+    "note": "P1+P2 597103 VC Sources: fn 5 Navarro replaced; new 5 = National Cancer Institute (carcinogen sentence), 6 = O'Dell et al. 2020 (smoke sentence)",
+    "why": "Navarro et al. 2021 only used acrolein, benzene and formaldehyde to estimate firefighter exposure; it does not identify them as the main risk contributors. O'Dell et al., ES&T 54(19), 2020, doi 10.1021/acs.est.0c04497 (PubMed 32857515) does."
+   },
+   {
+    "old": "Formaldehyde is also classified as a known human carcinogen by the International Agency for Research on Cancer and the U.S. National Toxicology Program.",
+    "new": "Formaldehyde is also classified as a known human carcinogen by the International Agency for Research on Cancer and the U.S. National Toxicology Program.<sup>5</sup>",
+    "count": 1,
+    "note": "P2 597103 VC: footnote 5 added to the formaldehyde carcinogen sentence",
+    "why": "NCI fact sheet: \"IARC classifies formaldehyde as a human carcinogen\"; in 2011 NTP named it \"a known human carcinogen in its 12th Report on Carcinogens.\""
+   },
+   {
+    "old": "The normal concentration of acetone in the human body is less than 1 mg/100 mL of blood.",
+    "new": "The normal concentration of acetone in the human body is less than 1 mg/100 mL of blood (Source: ATSDR, <a style=\"text-decoration:underline\" href=\"https://www.atsdr.cdc.gov/toxprofiles/tp21.pdf\" rel=\"noopener\" target=\"_blank\">Toxicological Profile for Acetone</a>, 2022).",
+    "count": 1,
+    "note": "P2 597103 To Your Health (Ball text): inline source for normal blood acetone",
+    "why": "ATSDR Toxicological Profile for Acetone (June 2022), table of acetone levels in human samples: healthy whole blood 0.84-1.90 mg/L (= 0.08-0.19 mg/100 mL), healthy nonfasted plasma 1.74 mg/L; ketoacidotic plasma 290-424 mg/L. Supports \"less than 1 mg/100 mL\"."
+   },
+   {
+    "old": "The text is reproduced unchanged; the figure descriptions",
+    "new": "The text is reproduced unchanged except for one added source citation; the figure descriptions",
+    "count": 1,
+    "note": "P2 597103 attribution line: note the added citation in the Ball text",
+    "why": "Keeps the adaptation statement accurate after the acetone citation was added to the CC BY-NC-SA source text."
+   }
+  ],
+  "597093": [
+   {
+    "old": "Ingestion of as little as 10 mL of methanol can cause permanent blindness, and about 30 mL (1 oz) can be fatal, although the fatal dose varies widely from person to person (",
+    "new": "Ingestion of as little as 4 to 10 mL of methanol can cause permanent blindness, and the lethal dose is estimated at 300 to 1,000 mg per kg of body weight (very roughly 30 to 90 mL for an adult), although it varies widely from person to person (",
+    "count": 1,
+    "note": "P1 597093: methanol blindness and lethal-dose numbers rewritten to match the UKHSA overview already cited",
+    "why": "UKHSA Methanol: toxicological overview (updated 11 Oct 2024): \"Ingestion of as little as 4 to 10mL of methanol in adults may cause permanent damage\"; \"minimal lethal dose ... 300 to 1,000mg/kg\". It gives no 30 mL / 1 oz figure. 30-90 mL = 21-70 g for 70 kg / 0.79 g/mL, rounded."
+   },
+   {
+    "old": "when soap and water are not available. 62% is above 60%",
+    "new": "when soap and water are not available (Source: CDC, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/clean-hands/about/hand-sanitizer.html\" rel=\"noopener\" target=\"_blank\">Hand Sanitizer Guidelines and Recommendations</a>). 62% is above 60%",
+    "count": 1,
+    "note": "P2 597093 Lecture Connection example: inline CDC source for the 60% alcohol advice",
+    "why": "CDC: \"If soap and water are unavailable, use a hand sanitizer with at least 60% alcohol to clean your hands.\""
+   }
+  ],
+  "597094": [
+   {
+    "old": "which is why Section 4.4 warns that as little as 10 mL can cause blindness.",
+    "new": "which is why Section 4.4 warns that as little as 4 to 10 mL can cause blindness.",
+    "count": 1,
+    "note": "P1 597094 Clinical Connection: cross-reference to the 4.4 methanol number kept consistent (10 mL -> 4 to 10 mL)",
+    "why": "Same UKHSA source as the 597093 fix; this sentence repeats the 4.4 number."
+   },
+   {
+    "old": "href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6527027/\"",
+    "new": "href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC6527027/\"",
+    "count": 1,
+    "note": "P3 link 597094 VC fn 3: moved URL (301 redirect) updated",
+    "why": "Old ncbi.nlm.nih.gov/pmc URL 301-redirects to pmc.ncbi.nlm.nih.gov; article verified (Zakhari 2006, ARH 29(4))."
+   },
+   {
+    "old": "href=\"https://webarchive.library.unt.edu/eot2008/20090131021247/http:/pubs.niaaa.nih.gov/publications/arh301/14-17.pdf\"",
+    "new": "href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC3860438/\"",
+    "count": 1,
+    "note": "P3 link 597094 VC fn 5: web-archive PDF replaced with the PMC copy of the same article",
+    "why": "Archive PDF returned empty; PMC3860438 is the same Ehlers 2007 ARH 30(1) article and states the variant is \"found in approximately 40 percent of people of Far East Asian descent.\""
+   }
+  ],
+  "597043": [
+   {
+    "old": "An A1c of 8.4% corresponds to an average glucose of about 194 mg/dL.",
+    "new": "An A1c of 8.4% corresponds to an average glucose of about 194 mg/dL (Source: Nathan et al., <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC2742903/\" rel=\"noopener\" target=\"_blank\">Translating the A1C Assay Into Estimated Average Glucose Values</a>, <em>Diabetes Care</em>, 2008).",
+    "count": 1,
+    "note": "P2 597043 Rosa Part 5: inline source for the A1c to average glucose conversion",
+    "why": "Nathan et al. 2008 (ADAG): \"AG(mg/dl) = 28.7 x A1C - 46.7\"; 28.7 x 8.4 - 46.7 = 194.4. (The ADA chart lists only 8% -> 183 and 8.5% -> 197, so the paper with the equation is cited.)"
+   }
+  ],
+  "597044": [
+   {
+    "old": "can drop below about 5.5, the point at which enamel starts to dissolve.",
+    "new": "can drop below about 5.5, the point at which enamel starts to dissolve (Source: C. Dawes, <a style=\"text-decoration:underline\" href=\"https://jcda.ca/sites/default/files/back_issues/vol-69/issue-11/722.pdf\" rel=\"noopener\" target=\"_blank\">What Is the Critical pH and Why Does a Tooth Dissolve in Acid?</a>, <em>J Can Dent Assoc</em>, 2003).",
+    "count": 1,
+    "note": "P2 597044 Rosa Part 6: inline source for the enamel critical pH of about 5.5",
+    "why": "Dawes 2003, JCDA 69(11):722-4: critical pH \"may be 5.5\" with high salivary calcium and phosphate (up to 6.5 with low; plaque fluid as low as 5.1). \"About 5.5\" is the usual value."
+   }
+  ],
+  "597112": [
+   {
+    "old": "Below a mouth pH of about 5.5 it starts to dissolve:",
+    "new": "Below a mouth pH of about 5.5 it starts to dissolve (Source: C. Dawes, <a style=\"text-decoration:underline\" href=\"https://jcda.ca/sites/default/files/back_issues/vol-69/issue-11/722.pdf\" rel=\"noopener\" target=\"_blank\">What Is the Critical pH and Why Does a Tooth Dissolve in Acid?</a>, <em>J Can Dent Assoc</em>, 2003):",
+    "count": 1,
+    "note": "P2 597112 Dental Hygiene box: inline source for the critical pH of about 5.5",
+    "why": "Same Dawes 2003 source. The box only has a \"Further reading\" line, not a Sources list, so the inline style is used."
+   }
+  ],
+  "597113": [
+   {
+    "old": "href=\"https://doaj.org/article/290b3f0e98854dadbbe566fff71874f0\"",
+    "new": "href=\"https://doi.org/10.3390/horticulturae9030382\"",
+    "count": 1,
+    "note": "P3 link 597113 VC fn 5: DOAJ record (403 to fetchers) replaced with the article DOI",
+    "why": "Wang et al., Horticulturae 9(3):382, 2023, doi 10.3390/horticulturae9030382; same article, more stable link."
+   }
+  ],
+  "597123": [
+   {
+    "old": "The lethal dose for an adult was long quoted as about 50 mg, but current estimates are much higher, roughly 0.5 to 1 g.",
+    "new": "The lethal dose for an adult was long quoted as about 50&ndash;60 mg, but current estimates are much higher, roughly 0.5 to 1 g (Source: B. Mayer, <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC3880486/\" rel=\"noopener\" target=\"_blank\">How Much Nicotine Kills a Human?</a>, <em>Archives of Toxicology</em>, 2014).",
+    "count": 1,
+    "note": "P2. 7.3 To Your Health (alkaloids): nicotine lethal dose had no source",
+    "why": "Mayer 2014 (Arch Toxicol 88:5-7): \"the lower limit causing fatal outcomes is 0.5-1 g of ingested nicotine\"; he traces the old figure (60 mg) to a 1906 textbook. \"50\" -> \"50-60\" so the old figure matches the cited paper."
+   }
+  ],
+  "597134": [
+   {
+    "old": "(about 60%&ndash;65% by mass of the average diet)",
+    "new": "(about half of the calories in the average U.S. diet; Source: USDA Agricultural Research Service, <a style=\"text-decoration:underline\" href=\"https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/1718/Table_7_EIN_INC_17.pdf\" rel=\"noopener\" target=\"_blank\">What We Eat in America, NHANES 2017&ndash;2018</a>)",
+    "count": 1,
+    "note": "P2. 8.1 section text: carbohydrates \"about 60%-65% by mass of the average diet\"",
+    "why": "WWEIA NHANES 2017-2018 Table 7: carbohydrate supplies about 47% of energy for U.S. adults (44-49% across income groups). By mass it is about 60% of macronutrient grams (Table 1: men 281 g carbohydrate vs 95 g protein + 101 g fat), so \"60-65% by mass\" was only defensible at the low end; calories are the figure students meet in nutrition."
+   },
+   {
+    "old": "Carbohydrates are about 65% of the diet and a major source of energy",
+    "new": "Carbohydrates supply about half of our calories (47% for U.S. adults) and are a major source of energy",
+    "count": 1,
+    "note": "P2. 8.1 Lecture Connection: \"Carbohydrates are about 65% of the diet\"",
+    "why": "Same source as the section-text edit above (cited there, same page). 65% overstated the share of calories."
+   }
+  ],
+  "597141": [
+   {
+    "old": "O<sub><em>n</em></sub>, about 65% of the diet.",
+    "new": "O<sub><em>n</em></sub>, about half of dietary calories.",
+    "count": 1,
+    "note": "P2. 8.8 Chapter Guide Key Idea 1: \"about 65% of the diet\"",
+    "why": "Matches the corrected 8.1 wording (USDA WWEIA 2017-2018, cited in 8.1). No citation added in the guide: it points to Section 8.1."
+   }
+  ],
+  "597136": [
+   {
+    "old": "and normal urine may contain anywhere from a trace to 20 mg glucose/dL urine.</p>",
+    "new": "and normal urine contains little or no glucose, 0&ndash;15 mg/dL (Source: MedlinePlus, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/ency/article/003581.htm\" rel=\"noopener\" target=\"_blank\">Glucose Urine Test</a>).</p>",
+    "count": 1,
+    "note": "P1. 8.3 section text: normal urine glucose \"a trace to 20 mg/dL\"",
+    "why": "MedlinePlus: \"Normal glucose range in urine: 0 to 0.8 mmol/l (0 to 15 mg/dL)\" and glucose \"is not usually found in urine\"."
+   },
+   {
+    "old": "a persistently high level is <em>hyperglycemia</em>. (Many other countries",
+    "new": "a persistently high level is <em>hyperglycemia</em> (Source: American Diabetes Association, <a style=\"text-decoration:underline\" href=\"https://doi.org/10.2337/dc26-S002\" rel=\"noopener\" target=\"_blank\">Standards of Care in Diabetes&mdash;2026, Section 2</a> and <a style=\"text-decoration:underline\" href=\"https://doi.org/10.2337/dc26-S006\" rel=\"noopener\" target=\"_blank\">Section 6</a>). (Many other countries",
+    "count": 1,
+    "note": "P2. 8.3 Lecture Connection \"Glucose in the blood\": fasting 70-99, hypoglycemia <70, prediabetes 100-125, diabetes >=126 had no source",
+    "why": "ADA 2026 Section 2 (Diabetes Care 49 Suppl 1:S27-S49): Table 2.1 \"FPG >=126 mg/dL\"; Table 2.2 \"FPG 100 mg/dL ... to 125 mg/dL (IFG)\" (so normal is below 100). Section 6 (S132-S149) Table 6.4: Level 1 hypoglycemia \"Glucose <70 mg/dL\". One citation for the sentence."
+   },
+   {
+    "old": "<p>All of the extensive clinical studies completed to date have indicated that these artificial sweeteners approved for use in the United States are safe for consumption by healthy individuals in moderate amounts.</p>",
+    "new": "<p>In 2023 the World Health Organization&rsquo;s cancer agency (IARC) listed aspartame as &ldquo;possibly carcinogenic to humans&rdquo; on limited evidence, but the WHO&ndash;FAO expert committee on food additives (JECFA) kept its acceptable daily intake of 40 mg per kg of body weight (Source: World Health Organization, <a style=\"text-decoration:underline\" href=\"https://www.who.int/news/item/14-07-2023-aspartame-hazard-and-risk-assessment-results-released\" rel=\"noopener\" target=\"_blank\">Aspartame Hazard and Risk Assessment Results Released</a>, 2023). The sweeteners approved in the United States are considered safe for healthy people in moderate amounts.</p>",
+    "count": 1,
+    "note": "P2. 8.3 Looking Closer: Artificial Sweeteners: \"All of the extensive clinical studies ... are safe\"",
+    "why": "Outdated: WHO/IARC/JECFA joint release, 14 July 2023: \"IARC classified aspartame as possibly carcinogenic to humans (Group 2B)\"; \"JECFA reaffirmed the acceptable daily intake of 40 mg/kg body weight.\" \"All ... studies\" could not be sourced and is no longer true (IARC weighed some studies as positive), so it was rewritten; the closing safety sentence keeps the author's point without \"all studies\"."
+   },
+   {
+    "old": "about 180 times",
+    "new": "about 200 times",
+    "count": 1,
+    "note": "8.3 aspartame sweetness, same as 10.6",
+    "why": "MedlinePlus (cited in 10.6): aspartame is about 200 times sweeter than sugar."
+   }
+  ],
+  "597137": [
+   {
+    "old": "6.5% or higher supports a diagnosis of diabetes)",
+    "new": "6.5% or higher supports a diagnosis of diabetes; source: American Diabetes Association, <a style=\"text-decoration:underline\" href=\"https://doi.org/10.2337/dc26-S002\" rel=\"noopener\" target=\"_blank\">Standards of Care in Diabetes&mdash;2026, Section 2</a>)",
+    "count": 1,
+    "note": "P2. 8.4 Nursing box: HbA1c cutoffs had no source",
+    "why": "ADA 2026 Section 2: Table 2.1 \"A1C >=6.5% (>=48 mmol/mol)\"; Table 2.2 \"A1C 5.7-6.4% (39-47 mmol/mol)\". The cutoffs are already inside parentheses, so the source is added there after a semicolon instead of a second pair of parentheses."
+   }
+  ],
+  "597139": [
+   {
+    "old": "The incidence of galactosemia in the United States is 1 in every 65,000 newborn babies.</p>",
+    "new": "Classic galactosemia occurs in about 1 in 30,000 to 60,000 newborns (Source: MedlinePlus Genetics, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/genetics/condition/galactosemia/\" rel=\"noopener\" target=\"_blank\">Galactosemia</a>).</p>",
+    "count": 1,
+    "note": "P1. 8.6 To Your Health: galactosemia \"1 in every 65,000 newborn babies\"",
+    "why": "MedlinePlus Genetics: \"Classic galactosemia occurs in 1 in 30,000 to 60,000 newborns.\" 65,000 was outside that range."
+   },
+   {
+    "old": "href=\"https://www.nass.usda.gov/publications/agcensus/2022/online-resources/county-profiles/california\"",
+    "new": "href=\"https://www.nass.usda.gov/sites/default/files/publications/agcensus/2022/Online_Resources/County_Profiles/California/cp06107.pdf\"",
+    "count": 1,
+    "note": "P3 link fix (free). 8.6 Valley Connection source 2 pointed to the California index page, not the Tulare profile",
+    "why": "The Tulare County profile (cp06107) lists milk from cows $2,814,167 thousand, ranked 1 of 1,770 U.S. counties. The www.nass.usda.gov path for this PDF returned 404; the data.nass.usda.gov path is the one search indexes."
+   }
+  ],
+  "597144": [
+   {
+    "old": "The average daily diet should contain about 4&ndash;6 g of the essential fatty acids.</p>",
+    "new": "Adults need about 12&ndash;17 g of linoleic acid and 1.1&ndash;1.6 g of &alpha;-linolenic acid each day (Source: Penn State Extension, <a style=\"text-decoration:underline\" href=\"https://extension.psu.edu/omega-fatty-acids\" rel=\"noopener\" target=\"_blank\">Omega Fatty Acids</a>, citing the Institute of Medicine Adequate Intakes).</p>",
+    "count": 1,
+    "note": "P1. 9.1 section text: \"about 4-6 g of the essential fatty acids\"",
+    "why": "Wrong (Ball). Penn State Extension: the Institute of Medicine \"has established an adequate intake of ALA and LA at 1.1 to 1.6 grams per day\" and 12 to 17 grams per day. NIH ODS (omega-3 fact sheet) gives the same ALA AIs, 1.6 g men and 1.1 g women. The ranges span women to men."
+   }
+  ],
+  "597145": [
+   {
+    "old": "Partially hydrogenated oils have since been phased out of U.S. processed foods.",
+    "new": "In 2015 the FDA ruled that partially hydrogenated oils are no longer &ldquo;generally recognized as safe,&rdquo; and they were phased out of U.S. foods by 2018&ndash;2021 (Source: U.S. Food and Drug Administration, <a style=\"text-decoration:underline\" href=\"https://www.fda.gov/food/food-additives-petitions/final-determination-regarding-partially-hydrogenated-oils-removing-trans-fat\" rel=\"noopener\" target=\"_blank\">Final Determination Regarding Partially Hydrogenated Oils</a>).",
+    "count": 1,
+    "note": "P2. 9.2 section text: PHO phase-out had no source",
+    "why": "FDA page: \"In 2015, FDA released its final determination that Partially Hydrogenated Oils (PHOs) are not\" GRAS; compliance June 18, 2018, extended to Jan 1, 2020 (non-petitioned) and Jan 1, 2021 (petitioned uses). The Lecture Connection repeats the phase-out; not re-cited (same page)."
+   },
+   {
+    "old": "keep saturated fat at or below 10% of daily calories.</p>",
+    "new": "keep saturated fat at or below 10% of daily calories (Source: USDA and HHS, <a style=\"text-decoration:underline\" href=\"https://www.dietaryguidelines.gov/\" rel=\"noopener\" target=\"_blank\">Dietary Guidelines for Americans, 2025&ndash;2030</a>).</p>",
+    "count": 1,
+    "note": "P2. 9.2 section text: \"keep saturated fat at or below 10% of daily calories\" had no source in the main text",
+    "why": "DGA 2025-2030 PDF (realfood.gov, linked from dietaryguidelines.gov): \"In general, saturated fat consumption should not exceed 10% of total daily\" calories."
+   },
+   {
+    "old": "Tulare County&rsquo;s milk was worth about $2.3 billion.<sup>2</sup>",
+    "new": "Tulare County sold about $2.8 billion of milk in 2022, more than any other U.S. county.<sup>2</sup>",
+    "count": 1,
+    "note": "P2. 9.2 Valley Connection: Tulare milk \"about $2.3 billion\" sourced only to a news site (GV Wire)",
+    "why": "The official Tulare 2024 crop report could not be reached (agcomm.tularecounty.ca.gov 403); news reports give $2.27 B for 2024, unconfirmed. Switched to the verified USDA 2022 Census figure ($2,814,167 thousand, rank 1 of 1,770 counties), which also matches Section 8.6. The year is stated so readers see why it differs from a county crop report."
+   },
+   {
+    "old": "2. GV Wire, <a style=\"text-decoration:underline\" href=\"https://gvwire.com/2025/11/04/fresno-is-nations-top-ag-county-at-9-billion-but-what-does-future-hold/\" rel=\"noopener\" target=\"_blank\">Fresno Is Nation&rsquo;s Top Ag County at $9 Billion</a>, 2025.",
+    "new": "2. Fresno County Department of Agriculture, <a style=\"text-decoration:underline\" href=\"https://www.fresnocountyca.gov/files/sharedassets/county/v/1/agricultural-commissioner/ag-crop-reports/ag-crop-and-livestock-report_2024.pdf\" rel=\"noopener\" target=\"_blank\">2024 Annual Crop &amp; Livestock Report</a>, 2025; USDA National Agricultural Statistics Service, <a style=\"text-decoration:underline\" href=\"https://www.nass.usda.gov/sites/default/files/publications/agcensus/2022/Online_Resources/County_Profiles/California/cp06107.pdf\" rel=\"noopener\" target=\"_blank\">2022 Census of Agriculture County Profile: Tulare County, California</a>, 2024.",
+    "count": 1,
+    "note": "P2. 9.2 Valley Connection source 2: GV Wire (news) replaced with the primary reports",
+    "why": "Fresno County 2024 report: the link is from the county Agricultural Commissioner page. The PDF is over the fetch size limit; almonds = $1.45 B and top commodity were confirmed through Agri-Pulse and The Business Journal coverage of this report. Tulare: see the previous edit. One numbered source keeps the list numbering."
+   },
+   {
+    "old": "href=\"https://www.webpages.uidaho.edu/ruminant_nutrition/Optional%20Reading%20Materials/Palmitic%20and%20stearic%20acid%20metabolism%20in%20lactating%20dairy%20cows.pdf\"",
+    "new": "href=\"https://doi.org/10.3168/jds.2014-7919\"",
+    "count": 1,
+    "note": "P1. 9.2 Valley Connection source 5: broken link (uidaho.edu now redirects to a 404 page)",
+    "why": "Same paper via its DOI: Loften JR et al., J Dairy Sci 97(8):4661-4674 (2014). The abstract names palmitic acid as the fatty acid present in the largest amount in milk fat; the \"oleic second\" part was seen only in a truncated abstract snippet."
+   }
+  ],
+  "597146": [
+   {
+    "old": "The risk is highest in babies born before about 28 weeks of gestation and is still significant up to about 34 weeks.",
+    "new": "The earlier a baby is born, the higher the risk; the problem is uncommon in babies born at 39 weeks or later (Source: MedlinePlus, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/ency/article/001563.htm\" rel=\"noopener\" target=\"_blank\">Neonatal Respiratory Distress Syndrome</a>).",
+    "count": 1,
+    "note": "P2. 9.3 IRDS: \"highest before about 28 weeks ... significant up to about 34 weeks\" had no source",
+    "why": "Could not source the 28/34-week cutoffs (StatPearls blocked by CAPTCHA). Rewritten to what MedlinePlus says: \"The more premature the baby is, the higher the chance of RDS\"; \"uncommon in babies born full-term or later (39 weeks or after)\". The 24-34-week steroid window stays in the Nursing box (CRICO)."
+   }
+  ],
+  "597149": [
+   {
+    "old": "triglycerides</strong> (the lab name for triacylglycerols) below 150. Many labs",
+    "new": "triglycerides</strong> (the lab name for triacylglycerols) below 150 (Source: MedlinePlus, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html\" rel=\"noopener\" target=\"_blank\">Cholesterol Levels: What You Need to Know</a>). Many labs",
+    "count": 1,
+    "note": "P2. 9.6 Lecture Connection: lipid-panel targets had no source",
+    "why": "MedlinePlus (adults 20+): total under 200; LDL under 100; HDL 60 or higher is best, under 40 (men) / under 50 (women) is low; triglycerides under 150. Matches every number."
+   },
+   {
+    "old": " A long-term investigation by the National Institutes of Health showed that among men ages 30 to 49, the incidence of heart disease was five times greater for those whose cholesterol levels were above 260 mg/100 mL of serum than for those with cholesterol levels of 200 mg/100 mL or less.",
+    "new": "",
+    "count": 1,
+    "note": "P2. 9.6 section text: NIH \"five times greater\" statistic (men 30-49, >260 vs <=200)",
+    "why": "DELETED: no source with this figure could be found (searched Framingham/NHLBI and Castelli 1986). The paragraph still says that elevated cholesterol is associated with heart disease risk, and the lipid targets are now sourced in the Lecture Connection."
+   },
+   {
+    "old": "Young adults average about 170 mg of cholesterol per 100 mL of blood, whereas males at age 55 may have cholesterol levels at 250 mg/100 mL or higher because the rate of cholesterol breakdown decreases with age. Females tend to have lower blood cholesterol levels than males.</p>",
+    "new": "It tends to rise in middle age: in 2021&ndash;2023, about 11% of U.S. adults had high total cholesterol (240 mg/dL or more), the share was highest in men aged 40&ndash;59 (18%), and men and women did not differ overall (Source: CDC National Center for Health Statistics, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/nchs/products/databriefs/db515.htm\" rel=\"noopener\" target=\"_blank\">Total and HDL Cholesterol in Adults, 2021&ndash;2023</a>).</p>",
+    "count": 1,
+    "note": "P2. 9.6 section text: outdated averages (170 young adults; 250 men at 55; \"females tend to have lower\")",
+    "why": "NCHS Data Brief 515 (Nov 2024): high total cholesterol 11.3% of adults; men 10.6% vs women 11.9% (not significantly different); men 40-59: 18.3%. The old means and the \"breakdown decreases with age\" reason had no source, and \"females lower\" is not supported by current data, so they were replaced."
+   }
+  ],
+  "597048": [
+   {
+    "old": "a urine albumin-to-creatinine ratio of 45 mg/g, where under 30 is normal; a result like this is repeated to confirm it.",
+    "new": "a urine albumin-to-creatinine ratio of 45 mg/g, where under 30 is normal; a result like this is repeated to confirm it (Source: National Kidney Foundation, <a style=\"text-decoration:underline\" href=\"https://www.kidney.org/kidney-topics/urine-albumin-creatinine-ratio-uacr\" rel=\"noopener\" target=\"_blank\">Urine albumin-creatinine ratio (uACR)</a>).",
+    "count": 1,
+    "note": "B1 P2: Rosa Part 10, uACR threshold and repeat test",
+    "why": "Clinical threshold had no source. NKF: a uACR under 30 mg/g is \"normal\" or \"at goal\"; the test \"often needs to be repeated one or more times to confirm the results.\""
+   }
+  ],
+  "597154": [
+   {
+    "old": "protein is not stored, so it must be eaten every day (about 0.8 g per kilogram of body weight for adults).",
+    "new": "protein is not stored, so it must be eaten every day: about 0.8 g per kilogram of body weight for adults (Source: Wolfe et al., <em>Advances in Nutrition</em>, <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC5347101/\" rel=\"noopener\" target=\"_blank\">Optimizing Protein Intake in Adults, 2017</a>).",
+    "count": 1,
+    "note": "B2 P2: 10.1 Lecture Connection, protein 0.8 g/kg/day",
+    "why": "Nutrition reference value had no source. Wolfe RR et al., Adv Nutr 2017;8:266: \"the EAR and the RDA for protein are 0.66 and 0.80 g/kg/d.\" (The National Academies DRI chapter could not be read by the fetcher; this peer-reviewed review restates the DRI value.)"
+   }
+  ],
+  "597159": [
+   {
+    "old": "For example, aspartame, about 180 times sweeter than sucrose and used as a sugar substitute, is a methyl ester of a dipeptide Asp-Phe, shown below.",
+    "new": "For example, aspartame, a sugar substitute about 200 times sweeter than sucrose (Source: MedlinePlus, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/ency/article/007492.htm\" rel=\"noopener\" target=\"_blank\">Sweeteners &ndash; sugar substitutes</a>), is a methyl ester of a dipeptide Asp-Phe, shown below.",
+    "count": 1,
+    "note": "C1/B5 P2: 10.6 aspartame \"about 180 times\" -> \"about 200 times\"",
+    "why": "Number was the low end of an old range and unsourced. MedlinePlus: aspartame is \"200 times sweeter than sucrose\" (FDA also says about 200 times, but its aspartame page now returns Page Not Found, so MedlinePlus is cited)."
+   },
+   {
+    "old": "(normal about 3.5&ndash;5.0 g/dL)",
+    "new": "(normal about 3.4&ndash;5.4 g/dL; Source: MedlinePlus, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/ency/article/003480.htm\" rel=\"noopener\" target=\"_blank\">Albumin blood test</a>)",
+    "count": 1,
+    "note": "B4 P2: 10.6 Clinical Connection: Nursing, serum albumin normal range",
+    "why": "Clinical reference range had no source. MedlinePlus gives \"3.4 to 5.4 g/dL (34 to 54 g/L)\"; the range is changed to match the cited source."
+   }
+  ],
+  "597165": [
+   {
+    "old": "a serum albumin of 2.1 g/dL (normal about 3.5&ndash;5.0 g/dL)",
+    "new": "a serum albumin of 2.1 g/dL (normal about 3.4&ndash;5.4 g/dL)",
+    "count": 1,
+    "note": "B4 P2: Problem 10.63, same albumin range",
+    "why": "Keeps the practice problem consistent with 10.6 (MedlinePlus 3.4-5.4 g/dL). Cited once on 10.6; not re-cited here. 2.1 g/dL is still low under either range, so the answer does not change."
+   }
+  ],
+  "597160": [
+   {
+    "old": "It is the most abundant protein of vertebrates making up 30% to 35% of their proteins by weight.",
+    "new": "It is the most abundant protein in mammals, making up about 30% of their protein by mass (Source: Ricard-Blum, <em>Cold Spring Harbor Perspectives in Biology</em>, <a style=\"text-decoration:underline\" href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC3003457/\" rel=\"noopener\" target=\"_blank\">The Collagen Family, 2011</a>).",
+    "count": 1,
+    "note": "B7 P2: 10.7 Triple helix, collagen share of protein",
+    "why": "Statistic had no source; 30-35% not found in a reliable source. Ricard-Blum 2011: \"Collagens are the most abundant proteins in mammals (~30% of total protein mass).\" Wording follows the source (mammals, about 30%)."
+   }
+  ],
+  "597162": [
+   {
+    "old": "Carbon monoxide is poisonous because it binds that same Fe<sup>2+</sup> about 200 times more tightly than O<sub>2</sub> does,",
+    "new": "Carbon monoxide is poisonous because it binds that same Fe<sup>2+</sup> more than 200 times more tightly than O<sub>2</sub> does (Source: ATSDR, <a style=\"text-decoration:underline\" href=\"https://www.atsdr.cdc.gov/ToxProfiles/tp201-c2.pdf\" rel=\"noopener\" target=\"_blank\">Toxicological Profile for Carbon Monoxide, ch. 2</a>),",
+    "count": 1,
+    "note": "B8 P2: 10.9 Lecture Connection, CO affinity for hemoglobin",
+    "why": "Quantitative clinical claim had no source. ATSDR Tox Profile ch. 2: \"The binding affinity of carbon monoxide for hemoglobin is over 200 times greater than\" that of oxygen. \"about 200\" -> \"more than 200\" to match. The \"about 200 times\" in the Think-about-it answer and 10.12 answer is left as is (not wrong)."
+   },
+   {
+    "old": "In the eastern San Joaquin Valley, about one in three domestic wells has nitrate above the public health limit,<sup>1</sup>",
+    "new": "When UC Davis tested 200 domestic wells in Stanislaus, Merced, Tulare and Kings counties, 42&ndash;46% had nitrate above the drinking-water limit,<sup>1</sup>",
+    "count": 1,
+    "note": "C3/A7 P2: nitrate box, \"about one in three domestic wells\" -> UC Davis sample result",
+    "why": "The 1-in-3 figure came from a 2010 news reprint (Truthout) that names no study. Lockhart, King and Harter (UC Davis, 2013), already cited in this box: \"Forty six percent of well water samples in Tul/Kings and 42% of well water samples in Stan/Mer exceeded the MCL for nitrate (10 mg/L NO3-N).\" Two hundred wells were sampled. Source 1 is replaced in place by that report (see the source-list edit)."
+   },
+   {
+    "old": "comes from crop fertilizer and dairy manure that soaks down into the groundwater.<sup>3</sup>",
+    "new": "comes from crop fertilizer and dairy manure that soaks down into the groundwater.<sup>1</sup>",
+    "count": 1,
+    "note": "C3 P2: nitrate box, manure/fertilizer sentence now cites new source 1 (same UC Davis report)",
+    "why": "The UC Davis report moves to slot 1, so its old slot 3 is freed for the replacement of the misattributed \"CDC\" source; list renumbered once."
+   },
+   {
+    "old": "cannot carry oxygen.<sup>4</sup>",
+    "new": "cannot carry oxygen.<sup>3</sup>",
+    "count": 1,
+    "note": "C4 P2: nitrate box, renumber 4 -> 3 (ATSDR replaces the misattributed source)",
+    "why": "ATSDR CSEM: nitrites oxidize hemoglobin to methemoglobin, which cannot carry oxygen effectively."
+   },
+   {
+    "old": "back to Fe<sup>2+</sup>.<sup>4,5</sup> The federal limit of 10 mg/L nitrate-nitrogen was set to protect infants. Boiling does not help; it concentrates the nitrate.<sup>6</sup>",
+    "new": "back to Fe<sup>2+</sup>.<sup>3,4</sup> The federal limit of 10 mg/L nitrate-nitrogen was set to protect infants.<sup>4</sup> Boiling does not help; it concentrates the nitrate.<sup>5</sup>",
+    "count": 1,
+    "note": "C4 + B9 P2: nitrate box, renumber 4,5 -> 3,4 and 6 -> 5; cite the 10 mg/L sentence",
+    "why": "ATSDR CSEM: \"Fetal hemoglobin (HbF) is more readily oxidized to MetHb by nitrites than is adult hemoglobin\"; the reducing enzyme \"has only about half the activity it has in adults.\" UW PEHSU factsheet (new 4): \"The 10 mg/L standard was set to protect infants from nitrates.\" Iowa HHS (new 5): boiling \"can concentrate them.\""
+   },
+   {
+    "old": "<strong>Sources:</strong> 1. J. Scott, California Watch, <a style=\"text-decoration:underline\" href=\"https://www.truthout.org/articles/nitrate-contamination-spreading-in-california-communities\" rel=\"noopener\" target=\"_blank\">&ldquo;Nitrate Contamination Spreading in California Communities&rdquo;</a>, May 2010 (reprint at Truthout). 2. <em>Scientific American</em>, <a style=\"text-decoration:underline\" href=\"https://www.scientificamerican.com/article/pollution-poverty-people-color-dont-drink-water/\" rel=\"noopener\" target=\"_blank\">&ldquo;Pollution, Poverty and People of Color: Don&rsquo;t Drink the Water&rdquo;</a>. 3. Lockhart, King and Harter, UC Davis, <a style=\"text-decoration:underline\" href=\"https://ccfruitandnuts.ucanr.edu/sites/default/files/2014-12/202721.pdf\" rel=\"noopener\" target=\"_blank\">nitrate in San Joaquin Valley domestic wells</a>. 4. CDC, <a style=\"text-decoration:underline\" href=\"https://stacks.cdc.gov/view/cdc/222399/cdc_222399_DS1.pdf\" rel=\"noopener\" target=\"_blank\">Nitrate and nitrite in drinking water and methemoglobinemia</a>. 5. University of Washington DEOHS,",
+    "new": "<strong>Sources:</strong> 1. Lockhart, King and Harter, UC Davis, <a style=\"text-decoration:underline\" href=\"https://ccfruitandnuts.ucanr.edu/sites/default/files/2014-12/202721.pdf\" rel=\"noopener\" target=\"_blank\">Identifying Sources of Groundwater Nitrate Contamination in the San Joaquin Valley</a>, 2013. 2. <em>Scientific American</em>, <a style=\"text-decoration:underline\" href=\"https://www.scientificamerican.com/article/pollution-poverty-people-color-dont-drink-water/\" rel=\"noopener\" target=\"_blank\">&ldquo;Pollution, Poverty and People of Color: Don&rsquo;t Drink the Water&rdquo;</a>. 3. Agency for Toxic Substances and Disease Registry (CDC), <a style=\"text-decoration:underline\" href=\"https://archive.cdc.gov/www_atsdr_cdc_gov/csem/nitrate-nitrite/who_risk.html\" rel=\"noopener\" target=\"_blank\">Nitrate/Nitrite Toxicity: Who Is at Most Risk</a>. 4. University of Washington DEOHS,",
+    "count": 1,
+    "note": "C3/C4 P2: nitrate box source list: drop Truthout reprint, UC Davis report to slot 1, ATSDR replaces the misattributed \"CDC\" PDF, renumber 5,6 -> 4,5",
+    "why": "Truthout reprint was a weak source and its claim is reworded. The \"CDC\" PDF on stacks.cdc.gov is really Chapter 33 of the AAP book Pediatric Environmental Health (c 2012 AAP), not a CDC document; the ATSDR (CDC) case study says the same things (HbF oxidized more readily; reductase about half adult activity). Renumbering was unavoidable to keep one entry per source."
+   },
+   {
+    "old": "fact sheet for health professionals</a>, 2014. 6. Iowa HHS,",
+    "new": "fact sheet for health professionals</a>, 2014. 5. Iowa HHS,",
+    "count": 1,
+    "note": "C4 P2: nitrate box, renumber 6 -> 5",
+    "why": "Follows the renumbering above."
+   }
+  ],
+  "597169": [
+   {
+    "old": "However, most people whose charts say &ldquo;penicillin allergy&rdquo; turn out not to be allergic when they are tested, and an allergy evaluation can let them receive the most effective drug.",
+    "new": "However, about 10% of U.S. patients report a penicillin allergy, and fewer than 1% of them are truly allergic when evaluated (Source: CDC, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/antibiotic-use/hcp/clinical-signs/index.html\" rel=\"noopener\" target=\"_blank\">Clinical Features of Penicillin Allergy</a>). An allergy evaluation can let them receive the most effective drug.",
+    "count": 1,
+    "note": "B10 P2: 11.4 To Your Health: Penicillin, allergy labels",
+    "why": "Health statistic had no source. CDC: \"10% of U.S. patients reported having a penicillin allergy\"; when evaluated, \"less than 1% of those patients were truly allergic.\" Rewritten to the source numbers."
+   },
+   {
+    "old": "https://bio.libretexts.org/TextMaps/Biochemistry/Book%3A_Biochemistry_Online_(Jakubowski)/06%3A_TRANSPORT_AND_KINETICS/6C%3A_Enzyme_Inhibition/C4._Noncompetitive_and_Mixed_Inhibition",
+    "new": "https://bio.libretexts.org/Bookshelves/Biochemistry/Fundamentals_of_Biochemistry_(Jakubowski_and_Flatt)/01%3A_Unit_I-_Structure_and_Catalysis/06%3A_Enzyme_Activity",
+    "count": 2,
+    "note": "Link P3: 11.4 \"noncompetitive inhibitor\" link (title + href)",
+    "why": "Old page now redirects into LibreTexts \"Under_Construction/Purgatory\"; new target is the same author's current book chapter (Jakubowski and Flatt, Fundamentals of Biochemistry, Ch. 6, which includes 6.4 Enzyme Inhibition)."
+   }
+  ],
+  "597180": [
+   {
+    "old": "PKU affects about 1 in 12,000 newborns in North America.",
+    "new": "In the United States, PKU affects about 1 in 25,000 newborns (Source: MedlinePlus Genetics, <a style=\"text-decoration:underline\" href=\"https://medlineplus.gov/genetics/condition/phenylketonuria/\" rel=\"noopener\" target=\"_blank\">Phenylketonuria</a>).",
+    "count": 1,
+    "note": "C2/B15 P2: 12.7 PKU incidence 1 in 12,000 (North America) -> 1 in 25,000 (U.S.)",
+    "why": "Older, unsourced figure. MedlinePlus Genetics: \"In the United States, PKU occurs in 1 in 25,000 newborns.\""
+   }
+  ],
+  "597181": [
+   {
+    "old": "type 16 is a DNA virus whose proteins disable two of the cell's growth-control proteins, and it now causes most <strong>oropharyngeal cancers</strong> (base of tongue, tonsils);",
+    "new": "type 16 is a DNA virus whose proteins disable two of the cell's growth-control proteins, and HPV is now linked to about 60% to 70% of <strong>oropharyngeal cancers</strong> (base of tongue, tonsils) (Source: CDC, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/cancer/hpv/basic-information.html\" rel=\"noopener\" target=\"_blank\">Basic Information about HPV and Cancer</a>);",
+    "count": 1,
+    "note": "B16 P2: 12.8 Clinical Connection: Dental Hygiene, HPV and oropharyngeal cancer",
+    "why": "Health statistic had no source. CDC: \"about 60% to 70% of cancers of the oropharynx may be linked to HPV.\" The CDC page does not attribute this to type 16 alone, so the share is given for HPV."
+   }
+  ],
+  "597184": [
+   {
+    "old": "HPV-16 (a DNA virus) causes most oropharyngeal cancers, so screen at every recall;",
+    "new": "HPV (type 16 above all, a DNA virus) is linked to about 60% to 70% of oropharyngeal cancers, so screen at every recall;",
+    "count": 1,
+    "note": "B16 P2: 12.10 Chapter Guide, Health Career Connection, same HPV claim",
+    "why": "Keeps the guide consistent with 12.8 (CDC: about 60-70% of oropharyngeal cancers may be linked to HPV). Cited once on 12.8; not re-cited here."
+   }
+  ],
+  "597158": [
+   {
+    "old": "href=\"http://www.pdb.org\"",
+    "new": "href=\"https://www.rcsb.org/structure/1I3D\"",
+    "count": 1,
+    "note": "Link P3: 10.5 hemoglobin Bart's image source, pdb.org (now redirects to wwpdb.org) -> RCSB entry 1I3D",
+    "why": "Moved link; link text www.pdb.org left as is."
+   }
+  ],
+  "597170": [
+   {
+    "old": "href=\"https://publications.ca.uky.edu/files/FCS3644.pdf\"",
+    "new": "href=\"https://publications.mgcafe.uky.edu/files/FCS3644.pdf\"",
+    "count": 1,
+    "note": "Link P3: 11.5 vitamin E source 4, UKY PDF moved",
+    "why": "301 redirect to publications.mgcafe.uky.edu; same document (FCS3-644, issued 08-2024)."
+   },
+   {
+    "old": "href=\"https://www.almonds.it/sites/default/files/2023-04/2022_Almanac.pdf\"",
+    "new": "href=\"https://it.almonds.org/sites/default/files/2023-04/2022_Almanac.pdf\"",
+    "count": 1,
+    "note": "Link P3: 11.5 almond source 2, Almanac PDF moved",
+    "why": "301 redirect from almonds.it to it.almonds.org; same 2022 Almond Almanac."
+   }
+  ],
+  "597192": [
+   {
+    "old": "Some of the serious complications of diabetes are as follows:</p>",
+    "new": "Some of the serious complications of diabetes are as follows (Source: Centers for Disease Control and Prevention, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/diabetes/about/index.html\" rel=\"noopener\" target=\"_blank\">About Diabetes</a>):</p>",
+    "count": 1,
+    "note": "P2: cite CDC for the complications list (amputations, blindness, kidney failure)",
+    "why": "Unsourced statistics. CDC About Diabetes (updated Jan 2 2026): diabetes is \"the No. 1 cause of kidney failure, lower-limb amputations, and adult blindness.\""
+   },
+   {
+    "old": "<li>It increases the risk of having a heart attack or stroke by two to four times.</li>",
+    "new": "<li>It doubles the risk of heart disease and also raises the risk of stroke (Source: Centers for Disease Control and Prevention, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/diabetes/diabetes-complications/diabetes-and-your-heart.html\" rel=\"noopener\" target=\"_blank\">Diabetes and Your Heart</a>).</li>",
+    "count": 1,
+    "note": "P1: \"two to four times\" -> \"doubles\", with CDC source",
+    "why": "Wrong/unsourced multiplier. CDC Diabetes and Your Heart: people with diabetes have \"twice the risk for heart disease\"; the page links reduced blood flow to the brain with stroke but gives no stroke multiplier, so the stroke clause states only \"raises the risk\"."
+   },
+   {
+    "old": "about 90&ndash;95% of people with diabetes have type 2. (Current CDC estimates are about 38 million Americans with diabetes; Section 13.9 gives the figures for Valley counties.)",
+    "new": "about 90&ndash;95% of people with diagnosed diabetes have type 2 (Source: Centers for Disease Control and Prevention, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/diabetes/about/index.html\" rel=\"noopener\" target=\"_blank\">About Diabetes</a>). CDC estimates that 40.1 million Americans, 12.0% of the population, had diabetes in 2023 (Source: Centers for Disease Control and Prevention, <a style=\"text-decoration:underline\" href=\"https://www.cdc.gov/diabetes/php/data-research/index.html\" rel=\"noopener\" target=\"_blank\">National Diabetes Statistics Report</a>); Section 13.9 gives the figures for Valley counties.",
+    "count": 1,
+    "note": "P1: 38 million -> 40.1 million (2023 data), cited; P2: cite CDC for 90-95% type 2",
+    "why": "Outdated number. CDC National Diabetes Statistics Report (updated Sept 16 2026): \"40.1 million\" people with diagnosed or undiagnosed diabetes in 2023, \"12.0%\" of the U.S. population. CDC About Diabetes: type 2 is \"about 90% to 95% of all diagnosed cases of diabetes.\" The parenthetical was made a sentence to avoid nested parentheses."
+   }
+  ],
+  "597195": [
+   {
+    "old": "For a patient who is awake and can swallow, the American Diabetes Association&rsquo;s &ldquo;15-15 rule&rdquo; applies:",
+    "new": "For a patient who is awake and can swallow, the American Diabetes Association&rsquo;s &ldquo;15-15 rule&rdquo; applies (Source: American Diabetes Association, <a style=\"text-decoration:underline\" href=\"https://diabetes.org/living-with-diabetes/hypoglycemia-low-blood-glucose\" rel=\"noopener\" target=\"_blank\">Hypoglycemia (Low Blood Glucose)</a>):",
+    "count": 1,
+    "note": "P2: link the ADA 15-15 rule",
+    "why": "In-text attribution with no link. ADA hypoglycemia page: use the \"15/15 rule of 15g fast-acting carbs/15 minutes\"; low blood glucose is below 70 mg/dL."
+   },
+   {
+    "old": "and periodontal treatment measurably improves glucose control.",
+    "new": "and periodontal treatment lowers HbA1c by about 0.4 percentage points on average (Source: Cochrane review, <a style=\"text-decoration:underline\" href=\"https://doi.org/10.1002/14651858.CD004714.pub4\" rel=\"noopener\" target=\"_blank\">Treatment of periodontitis for glycaemic control in people with diabetes mellitus</a>, 2022).",
+    "count": 1,
+    "note": "P2: quantify and cite periodontal treatment and glucose control (dental box)",
+    "why": "Unsourced health claim. Simpson TC et al., Cochrane Database Syst Rev 2022, CD004714.pub4: moderate-certainty evidence, absolute HbA1c reduction of 0.43% at 3-4 months after periodontal treatment (0.30% at 6 months)."
+   }
+  ],
+  "597053": [
+   {
+    "old": "Studies suggest that treating gum disease can modestly improve blood glucose control, along with",
+    "new": "Treating gum disease can modestly improve blood glucose control (Source: Cochrane review, <a style=\"text-decoration:underline\" href=\"https://doi.org/10.1002/14651858.CD004714.pub4\" rel=\"noopener\" target=\"_blank\">Treatment of periodontitis for glycaemic control in people with diabetes mellitus</a>, 2022), along with",
+    "count": 1,
+    "note": "P2: cite Cochrane for gum-disease treatment and glucose control (Rosa Part 15)",
+    "why": "Unsourced health claim in the case. Same Cochrane 2022 review (HbA1c about 0.4 points lower). \"Studies suggest\" dropped because the citation now carries the evidence."
+   }
+  ],
+  "597209": [
+   {
+    "old": "In earlier times, major human food was vegetables, and fats in food accounted for about 20% of food calories, but these days about one-third of food calories (roughly 33&ndash;36% in the United States) come from fats.",
+    "new": "Today about 36% of the food calories eaten in the United States come from fat (Source: U.S. Department of Agriculture, <a style=\"text-decoration:underline\" href=\"https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/1718/Table_5_EIN_MaleFemale_17.pdf\" rel=\"noopener\" target=\"_blank\">What We Eat in America, NHANES 2017&ndash;2018, Table 5</a>).",
+    "count": 1,
+    "note": "P2: replace unsourced fat-calorie history with the USDA figure",
+    "why": "The \"earlier times ... about 20%\" clause has no source and was deleted. USDA ARS What We Eat in America, NHANES 2017-2018, Table 5: total fat = 36% of energy for individuals 2 and over (and 36% for adults 20 and over)."
+   },
+   {
+    "old": "According to NIH, nearly 3 out of 4 adults aged 20 or above in the US are overweight or obese.",
+    "new": "According to NIH, nearly 3 out of 4 adults aged 20 or above in the US are overweight or obese (Source: National Institute of Diabetes and Digestive and Kidney Diseases, <a style=\"text-decoration:underline\" href=\"https://www.niddk.nih.gov/health-information/health-statistics/overweight-obesity\" rel=\"noopener\" target=\"_blank\">Overweight &amp; Obesity Statistics</a>).",
+    "count": 1,
+    "note": "P2: link the NIH \"3 out of 4\" figure",
+    "why": "In-text attribution with no link. NIDDK (NHANES 2017-2018, adults 20+): overweight 30.7% + obesity 42.4% = 73.1%."
+   }
+  ],
+  "597213": [
+   {
+    "old": " Fresno County&rsquo;s 2020 community health assessment, using California Health Interview Survey data, found 12% of Fresno County adults had ever been diagnosed with diabetes, compared with 9.8% statewide.<sup>4</sup>",
+    "new": "",
+    "count": 1,
+    "note": "P2: delete the unverifiable 2020 CHNA sentence (12% vs 9.8%)",
+    "why": "The 2020 CHNA PDF could not be opened (TLS certificate rejected) and no search result confirms 12% or 9.8%. Deleted rather than kept unverified; the PLACES 2023 sentence before it already makes the point with newer data."
+   },
+   {
+    "old": " 4. Fresno County Department of Public Health and Central Valley Health Policy Institute, <a style=\"text-decoration:underline\" href=\"https://chhs.fresnostate.edu/cvhpi/documents/2020-chna-report.pdf\" rel=\"noopener\" target=\"_blank\">Fresno County Community Health Needs Assessment</a>, 2020.",
+    "new": "",
+    "count": 1,
+    "note": "P2: remove Source 4 (its only claim was deleted)",
+    "why": "Source 4 is no longer cited anywhere in the box; it was the last item, so no renumbering is needed."
+   }
+  ],
+  "597208": [
+   {
+    "old": "Each individual must be referred by a licensed physician. An exercise physiologist works in a variety of settings, such as a hospital or in a wellness program at a commercial business, to design and monitor individual exercise plans. A registered clinical exercise physiologist must have an undergraduate degree in exercise physiology or a related degree. Some job opportunities require a master&rsquo;s degree in exercise physiology or a related degree.",
+    "new": "Many patients are referred by a physician. An exercise physiologist works in a variety of settings, such as a hospital or in a wellness program at a commercial business, to design and monitor individual exercise plans. Most exercise physiologists need at least a bachelor&rsquo;s degree in exercise science, exercise physiology, kinesiology or a related field, and some jobs require a master&rsquo;s degree (Source: U.S. Bureau of Labor Statistics, <a style=\"text-decoration:underline\" href=\"https://www.bls.gov/ooh/healthcare/exercise-physiologists.htm\" rel=\"noopener\" target=\"_blank\">Occupational Outlook Handbook: Exercise Physiologists</a>).",
+    "count": 1,
+    "note": "P2: career box: physician referral not mandatory; drop retired RCEP title; cite BLS",
+    "why": "Outdated and over-stated. BLS OOH: \"Most need at least a bachelor's degree in exercise science, exercise physiology, kinesiology, or a related\" field; physicians \"may prescribe exercise regimens for their patients and refer them to exercise physiologists\" (not \"must\"). ACSM merged the RCEP credential into a single ACSM-CEP exam in 2018, so the \"registered clinical exercise physiologist\" title was removed."
+   }
+  ],
+  "597211": [
+   {
+    "old": "href=\"https://www.intechopen.com/books/lipoproteins-role-in-health-and-diseases/pathophysiology-of-lipoprotein-oxidation\"",
+    "new": "href=\"https://www.intechopen.com/chapters/39567\"",
+    "count": 1,
+    "note": "P3 (free): update the moved IntechOpen chapter link in the Figure 1 credit",
+    "why": "Old URL 301-redirects to https://www.intechopen.com/chapters/39567, which is the same chapter (Jairam, Uchida, Narayanaswami, \"Pathophysiology of Lipoprotein Oxidation\", 2012, doi 10.5772/50622)."
+   }
+  ]
+ }
+}
