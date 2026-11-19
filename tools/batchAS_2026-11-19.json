@@ -1,0 +1,14 @@
+{
+ "uploads": [],
+ "edits": {
+  "597203": [
+   {
+    "old": "are described in the following sub-sections, where the chemical equations and figures are taken from the public domain source via Wikipedia.</p>",
+    "new": "are described in the following sub-sections. (Diagrams of <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Complex_I.svg\" rel=\"noopener\" target=\"_blank\">Complex I</a>, <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Complex_II.svg\" rel=\"noopener\" target=\"_blank\">Complex II</a> and <a style=\"text-decoration:underline\" href=\"https://commons.wikimedia.org/wiki/File:Complex_IV.svg\" rel=\"noopener\" target=\"_blank\">Complex IV</a>: Fvasconcellos, public domain, via Wikimedia Commons.)</p>",
+    "count": 1,
+    "note": "14.4: Wikipedia credit corrected to the actual Commons figures",
+    "why": "The old sentence called Wikipedia a \"public domain source\"; Wikipedia text is CC BY-SA 4.0. The section text is the book's own edited wording and the equations are standard facts, so only the three figures need credit: Commons files by Fvasconcellos, public domain (Commons API, 2026-11-19). Same fix as 13.5 and 14.3 in batch AR."
+   }
+  ]
+ }
+}
