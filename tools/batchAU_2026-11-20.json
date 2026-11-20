@@ -1,0 +1,21 @@
+{
+ "batch": "AU",
+ "date": "2026-11-20",
+ "uploads": [],
+ "edits": {
+  "597270": [
+   {
+    "old": "<strong>Version 1.2, November 2026</strong> (last updated November 14, 2026).",
+    "new": "<strong>Version 1.2, November 2026</strong> (last updated November 20, 2026).",
+    "count": 1,
+    "note": "About: last-updated date"
+   },
+   {
+    "old": "<li><strong>Update (November 17, 2026).</strong>",
+    "new": "<li><strong>Update (November 20, 2026).</strong> Checked before faculty review. <em>Sources:</em> every statistic, clinical value, date and regional fact that needs a source was checked against it; wrong numbers were corrected, weak or broken sources were replaced with government, journal and local primary sources (CDC, NIH, FDA, USDA, CDFA, the Fresno County Crop &amp; Livestock Report, the Almond Board&rsquo;s Almond Almanac), and citations were added where a number had none. The adapted step lists in 13.5 and 14.3 were rewritten, and the figure credits in 14.4 now name their real source. <em>Accessibility:</em> Figure 11.1.1 (alcohol dehydrogenase) is back; tables and figures that scroll sideways on a phone can now be reached and scrolled with the keyboard, and each is named for a screen reader; the &ldquo;Answer&rdquo; buttons are larger and show an arrow; small fixes in 3.7, 5.2, 11.6, 12.2, 12.3 and 15.4. An automated WCAG 2.1/2.2 AA scan of every page now finds no problems in the book&rsquo;s own content.</li>\n<li><strong>Update (November 17, 2026).</strong>",
+    "count": 1,
+    "note": "About: version history entry for November 18-20"
+   }
+  ]
+ }
+}
