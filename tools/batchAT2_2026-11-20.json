@@ -1,0 +1,999 @@
+{
+ "batch": "AT2",
+ "date": "2026-11-20",
+ "uploads": [],
+ "edits": {
+  "597062": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch01.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 1, Bonding review. Center: Covalent…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch01.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597073": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w540 internal\" alt=\"Left: cyclohexane drawn as a flat regular hexagon, labeled as the paper drawing with 120-degree angles. Right: the real chair conformation, a puckered six-carbon ring in which alternate carbons point up and down, labeled as having all bond angles near 109.5 degrees\" width=\"580\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512432/fig-p597073-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Left: cyclohexane drawn as a flat regular hexagon, labeled…\"><img class=\"fig-w540 internal\" alt=\"Left: cyclohexane drawn as a flat regular hexagon, labeled as the paper drawing with 120-degree angles. Right: the real chair conformation, a puckered six-carbon ring in which alternate carbons point up and down, labeled as having all bond angles near 109.5 degrees\" width=\"580\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512432/fig-p597073-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597074": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch02.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 2, Alkanes and cycloalkanes. Center:…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch02.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597086": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch03.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 3, Alkenes, alkynes, aromatics. Center:…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch03.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597091": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Five constitutional isomers of C4H10O. Top row: 1-butanol, 2-butanol, and 2-methyl-1-propanol are alcohols; 1-butanol and 2-butanol are positional isomers, and 2-methyl-1-propanol is a skeletal isomer of both. Bottom row: diethyl ether and methyl propyl ether are ethers, functional group isomers of the alcohols.\" width=\"649\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512458/fig-p597091-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Five constitutional isomers of C4H10O. Top row: 1-butanol, 2-butanol,…\"><img class=\"fig-w660 internal\" alt=\"Five constitutional isomers of C4H10O. Top row: 1-butanol, 2-butanol, and 2-methyl-1-propanol are alcohols; 1-butanol and 2-butanol are positional isomers, and 2-methyl-1-propanol is a skeletal isomer of both. Bottom row: diethyl ether and methyl propyl ether are ethers, functional group isomers of the alcohols.\" width=\"649\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512458/fig-p597091-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597094": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Dehydration of 2-butanol with acid and heat gives 2-butene as the major product and 1-butene as the minor product. The hydroxyl carbon (C2) can lose water together with a hydrogen from C3, giving 2-butene (a disubstituted alkene), or with a hydrogen from C1, giving 1-butene (monosubstituted).\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512459/fig-p597094-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Dehydration of 2-butanol with acid and heat gives 2-butene…\"><img class=\"fig-w780 internal\" alt=\"Dehydration of 2-butanol with acid and heat gives 2-butene as the major product and 1-butene as the minor product. The hydroxyl carbon (C2) can lose water together with a hydrogen from C3, giving 2-butene (a disubstituted alkene), or with a hydrogen from C1, giving 1-butene (monosubstituted).\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512459/fig-p597094-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597098": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Oxidation of two molecules of ethanethiol with an oxidizing agent, written [O], joins the two sulfur atoms to give diethyl disulfide; reduction with [H] breaks the disulfide bond and regenerates the two thiols.\" width=\"699\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512461/fig-p597098-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Oxidation of two molecules of ethanethiol with an oxidizing…\"><img class=\"fig-w720 internal\" alt=\"Oxidation of two molecules of ethanethiol with an oxidizing agent, written [O], joins the two sulfur atoms to give diethyl disulfide; reduction with [H] breaks the disulfide bond and regenerates the two thiols.\" width=\"699\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512461/fig-p597098-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597099": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Phenol loses a proton to water in a reversible equilibrium, giving the phenoxide ion and a hydronium ion. The negative charge on the phenoxide oxygen is shared with the aromatic ring, which stabilizes the ion and makes phenol a weak acid.\" width=\"666\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512462/fig-p597099-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Phenol loses a proton to water in a reversible…\"><img class=\"fig-w720 internal\" alt=\"Phenol loses a proton to water in a reversible equilibrium, giving the phenoxide ion and a hydronium ion. The negative charge on the phenoxide oxygen is shared with the aromatic ring, which stabilizes the ion and makes phenol a weak acid.\" width=\"666\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512462/fig-p597099-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Phenol reacts with aqueous sodium hydroxide to give sodium phenoxide, a water-soluble ionic salt, plus water. Cyclohexanol, an ordinary alcohol, does not react with sodium hydroxide.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512464/fig-p597099-3.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Phenol reacts with aqueous sodium hydroxide to give sodium…\"><img class=\"fig-w780 internal\" alt=\"Phenol reacts with aqueous sodium hydroxide to give sodium phenoxide, a water-soluble ionic salt, plus water. Cyclohexanol, an ordinary alcohol, does not react with sodium hydroxide.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512464/fig-p597099-3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597100": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch04.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 4, Alcohols, phenols, ethers, thiols.…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch04.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597104": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/oer/glucose_ring.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glucose interconverts between an open-chain aldehyde form, a six-carbon…\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/oer/glucose_ring.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Hemiacetal formation: ethanal (acetaldehyde) + methanol gives 1-methoxyethanol\" width=\"644\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512474/fig-p597104-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hemiacetal formation: ethanal (acetaldehyde) + methanol gives 1-methoxyethanol\"><img class=\"fig-w660 internal\" alt=\"Hemiacetal formation: ethanal (acetaldehyde) + methanol gives 1-methoxyethanol\" width=\"644\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512474/fig-p597104-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Acetal formation: ethanal (acetaldehyde) + methanol gives 1,1-dimethoxyethane\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512475/fig-p597104-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Acetal formation: ethanal (acetaldehyde) + methanol gives 1,1-dimethoxyethane\"><img class=\"fig-w780 internal\" alt=\"Acetal formation: ethanal (acetaldehyde) + methanol gives 1,1-dimethoxyethane\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512475/fig-p597104-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597105": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w600\" src=\"https://itsdrdan.github.io/textbook/figures/print/hydrogenation-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Partial hydrogenation of a vegetable oil. Top: a liquid…\"><img class=\"fig-w600\" src=\"https://itsdrdan.github.io/textbook/figures/print/hydrogenation-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597106": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Four Fischer projections of 2,3,4-trihydroxybutanal, labeled A to D, each with CHO at the top, two chiral carbons, and CH2OH at the bottom. A: OH on the right at both C2 and C3. B: OH on the left at both carbons; B is the mirror image of A, so A and B are enantiomers. C: OH on the left at C2 and on the right at C3. D: OH on the right at C2 and on the left at C3; C and D are enantiomers. A and C differ at only one carbon and are not mirror images, so they are diastereomers, as are A and D, B and C, and B and D.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512482/fig-p597106-3.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Four Fischer projections of 2,3,4-trihydroxybutanal, labeled A to D,…\"><img class=\"fig-w660 internal\" alt=\"Four Fischer projections of 2,3,4-trihydroxybutanal, labeled A to D, each with CHO at the top, two chiral carbons, and CH2OH at the bottom. A: OH on the right at both C2 and C3. B: OH on the left at both carbons; B is the mirror image of A, so A and B are enantiomers. C: OH on the left at C2 and on the right at C3. D: OH on the right at C2 and on the left at C3; C and D are enantiomers. A and C differ at only one carbon and are not mirror images, so they are diastereomers, as are A and D, B and C, and B and D.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512482/fig-p597106-3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597107": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Hemiacetal formation: ethanal (acetaldehyde) + methanol gives 1-methoxyethanol\" width=\"644\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512486/fig-p597107-3.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hemiacetal formation: ethanal (acetaldehyde) + methanol gives 1-methoxyethanol\"><img class=\"fig-w660 internal\" alt=\"Hemiacetal formation: ethanal (acetaldehyde) + methanol gives 1-methoxyethanol\" width=\"644\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512486/fig-p597107-3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch05.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 5, Aldehydes and ketones. Center:…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch05.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Hemiacetal formation: ethanal (acetaldehyde) + methanol gives 1-methoxyethanol\" width=\"644\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512489/fig-p597107-6.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hemiacetal formation: ethanal (acetaldehyde) + methanol gives 1-methoxyethanol (2)\"><img class=\"fig-w660 internal\" alt=\"Hemiacetal formation: ethanal (acetaldehyde) + methanol gives 1-methoxyethanol\" width=\"644\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512489/fig-p597107-6.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Acetal formation: ethanal (acetaldehyde) + 2 methanol gives 1,1-dimethoxyethane\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512490/fig-p597107-7.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Acetal formation: ethanal (acetaldehyde) + 2 methanol gives 1,1-dimethoxyethane\"><img class=\"fig-w780 internal\" alt=\"Acetal formation: ethanal (acetaldehyde) + 2 methanol gives 1,1-dimethoxyethane\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512490/fig-p597107-7.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597108": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Three Fischer projections of 2-chloro-3-hydroxybutanal, each with CHO at the top and CH3 at the bottom. X: Cl on the right at C2, OH on the right at C3. Y: Cl on the left at C2, OH on the right at C3. Z: Cl on the left at C2, OH on the left at C3.\" width=\"660\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512495/fig-p597108-3.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Three Fischer projections of 2-chloro-3-hydroxybutanal, each with CHO at…\"><img class=\"fig-w660 internal\" alt=\"Three Fischer projections of 2-chloro-3-hydroxybutanal, each with CHO at the top and CH3 at the bottom. X: Cl on the right at C2, OH on the right at C3. Y: Cl on the left at C2, OH on the right at C3. Z: Cl on the left at C2, OH on the left at C3.\" width=\"660\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512495/fig-p597108-3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597114": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><a style=\"text-decoration:underline\" href=\"https://itsdrdan.github.io/textbook/figures/pathways/ester_bp.svg\" target=\"_blank\" rel=\"noopener\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/ester_bp.svg?v=20261113\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Bar chart of boiling points for five compounds with…\"><a style=\"text-decoration:underline\" href=\"https://itsdrdan.github.io/textbook/figures/pathways/ester_bp.svg\" target=\"_blank\" rel=\"noopener\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/ester_bp.svg?v=20261113\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597115": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Esterification: ethanoic acid (acetic acid) + ethanol gives ethyl ethanoate\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512504/fig-p597115-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Esterification: ethanoic acid (acetic acid) + ethanol gives ethyl…\"><img class=\"fig-w780 internal\" alt=\"Esterification: ethanoic acid (acetic acid) + ethanol gives ethyl ethanoate\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512504/fig-p597115-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597116": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: ethyl butanoate gives butanoic acid + ethanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512506/fig-p597116-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hydrolysis: ethyl butanoate gives butanoic acid + ethanol\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: ethyl butanoate gives butanoic acid + ethanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512506/fig-p597116-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Saponification: ethyl butanoate gives butanoate ion + ethanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512507/fig-p597116-3.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Saponification: ethyl butanoate gives butanoate ion + ethanol\"><img class=\"fig-w780 internal\" alt=\"Saponification: ethyl butanoate gives butanoate ion + ethanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512507/fig-p597116-3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w600 internal\" alt=\"Saponification of a fat. Tristearin, a triacylglycerol, is drawn as a glycerol backbone of three stacked carbons, CH2, CH and CH2, each bonded through an oxygen to an ester carbonyl group, C double-bond O, that carries a (CH2)16CH3 chain. Tristearin plus 3 NaOH, heated, gives glycerol, CH2OH&ndash;CHOH&ndash;CH2OH, plus 3 sodium stearate, CH3(CH2)16COO minus Na plus, which is soap.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512776/fig-p597116-saponification-tristearin.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Saponification of a fat. Tristearin, a triacylglycerol, is drawn…\"><img class=\"fig-w600 internal\" alt=\"Saponification of a fat. Tristearin, a triacylglycerol, is drawn as a glycerol backbone of three stacked carbons, CH2, CH and CH2, each bonded through an oxygen to an ester carbonyl group, C double-bond O, that carries a (CH2)16CH3 chain. Tristearin plus 3 NaOH, heated, gives glycerol, CH2OH&ndash;CHOH&ndash;CH2OH, plus 3 sodium stearate, CH3(CH2)16COO minus Na plus, which is soap.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512776/fig-p597116-saponification-tristearin.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597119": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Neutralization: propanoic acid gives propanoate ion\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512512/fig-p597119-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Neutralization: propanoic acid gives propanoate ion\"><img class=\"fig-w780 internal\" alt=\"Neutralization: propanoic acid gives propanoate ion\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512512/fig-p597119-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Esterification: ethanoic acid (acetic acid) + ethanol gives ethyl ethanoate\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512513/fig-p597119-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Esterification: ethanoic acid (acetic acid) + ethanol gives ethyl…\"><img class=\"fig-w780 internal\" alt=\"Esterification: ethanoic acid (acetic acid) + ethanol gives ethyl ethanoate\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512513/fig-p597119-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Saponification: ethyl ethanoate gives ethanoate (acetate) ion + ethanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512514/fig-p597119-3.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Saponification: ethyl ethanoate gives ethanoate (acetate) ion + ethanol\"><img class=\"fig-w780 internal\" alt=\"Saponification: ethyl ethanoate gives ethanoate (acetate) ion + ethanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512514/fig-p597119-3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch06.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 6, Carboxylic acids and esters.…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch06.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Esterification: ethanoic acid (acetic acid) + ethanol gives ethyl ethanoate\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512515/fig-p597119-4.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Esterification: ethanoic acid (acetic acid) + ethanol gives ethyl… (2)\"><img class=\"fig-w780 internal\" alt=\"Esterification: ethanoic acid (acetic acid) + ethanol gives ethyl ethanoate\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512515/fig-p597119-4.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: ethyl ethanoate gives ethanoic acid (acetic acid) + ethanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512516/fig-p597119-5.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hydrolysis: ethyl ethanoate gives ethanoic acid (acetic acid) +…\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: ethyl ethanoate gives ethanoic acid (acetic acid) + ethanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512516/fig-p597119-5.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Saponification: methyl ethanoate gives ethanoate (acetate) ion + methanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512517/fig-p597119-6.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Saponification: methyl ethanoate gives ethanoate (acetate) ion + methanol\"><img class=\"fig-w780 internal\" alt=\"Saponification: methyl ethanoate gives ethanoate (acetate) ion + methanol\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512517/fig-p597119-6.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Neutralization: propanoic acid gives propanoate ion\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512518/fig-p597119-7.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Neutralization: propanoic acid gives propanoate ion (2)\"><img class=\"fig-w780 internal\" alt=\"Neutralization: propanoic acid gives propanoate ion\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512518/fig-p597119-7.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597123": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Qualitative horizontal bar chart of how much of the lidocaine is in the neutral, uncharged amine form, R3N, the only form that crosses the nerve membrane, in three places. No numbers are given. In the cartridge, which is acidic at about pH 3.5 to 6.5, the bar is very short: almost all the drug is the charged, dissolved salt R3NH+ Cl-. In healthy tissue, buffered to pH 7.4, the bar is much longer: more of the drug is neutral R3N, which crosses the nerve membrane. In an abscess or inflamed tissue, where the pH is lower than 7.4, the bar is short again: more drug stays as R3NH+, so anesthesia is slower and weaker.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512790/fig-p597123-lidocaine-neutral.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Qualitative horizontal bar chart of how much of the…\"><img class=\"fig-w720 internal\" alt=\"Qualitative horizontal bar chart of how much of the lidocaine is in the neutral, uncharged amine form, R3N, the only form that crosses the nerve membrane, in three places. No numbers are given. In the cartridge, which is acidic at about pH 3.5 to 6.5, the bar is very short: almost all the drug is the charged, dissolved salt R3NH+ Cl-. In healthy tissue, buffered to pH 7.4, the bar is much longer: more of the drug is neutral R3N, which crosses the nerve membrane. In an abscess or inflamed tissue, where the pH is lower than 7.4, the bar is short again: more drug stays as R3NH+, so anesthesia is slower and weaker.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512790/fig-p597123-lidocaine-neutral.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597126": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Amide formation in two steps. Acetic acid, CH3&ndash;C(=O)&ndash;OH, plus ammonia, NH3, mixed at room temperature undergo an acid&ndash;base reaction to give the salt ammonium acetate, CH3&ndash;C(=O)&ndash;O minus with NH4 plus. Heating the salt drives off water: the arrow labeled heat, minus H2O, leads to acetamide, CH3&ndash;C(=O)&ndash;NH2, plus H2O.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512777/fig-p597126-amide-two-step.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Amide formation in two steps. Acetic acid, CH3–C(=O)–OH, plus…\"><img class=\"fig-w660 internal\" alt=\"Amide formation in two steps. Acetic acid, CH3&ndash;C(=O)&ndash;OH, plus ammonia, NH3, mixed at room temperature undergo an acid&ndash;base reaction to give the salt ammonium acetate, CH3&ndash;C(=O)&ndash;O minus with NH4 plus. Heating the salt drives off water: the arrow labeled heat, minus H2O, leads to acetamide, CH3&ndash;C(=O)&ndash;NH2, plus H2O.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512777/fig-p597126-amide-two-step.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597130": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w540 internal\" alt=\"Nylon synthesis: n adipic acid (HOOC-(CH2)4-COOH) plus n hexanediamine (H2N-(CH2)6-NH2), with heat, give nylon-6,6, drawn as the repeat unit C(=O)-(CH2)4-C(=O)-NH-(CH2)6-NH in brackets with subscript n, plus 2n H2O.\" width=\"654\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512727/fig-p597130-nylon-synthesis.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Nylon synthesis: n adipic acid (HOOC-(CH2)4-COOH) plus n hexanediamine…\"><img class=\"fig-w540 internal\" alt=\"Nylon synthesis: n adipic acid (HOOC-(CH2)4-COOH) plus n hexanediamine (H2N-(CH2)6-NH2), with heat, give nylon-6,6, drawn as the repeat unit C(=O)-(CH2)4-C(=O)-NH-(CH2)6-NH in brackets with subscript n, plus 2n H2O.\" width=\"654\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512727/fig-p597130-nylon-synthesis.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597131": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w540 internal\" alt=\"Diagram of a synapse. A presynaptic axon terminal at the top holds vesicles filled with neurotransmitter. Vesicles fuse with the membrane and release neurotransmitter molecules into the synaptic cleft. The molecules bind receptors on the postsynaptic cell below. Two removal routes are labeled: a reuptake transporter pulls neurotransmitter back into the presynaptic terminal, and an enzyme in the cleft breaks the neurotransmitter down.\" width=\"680\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512543/fig-p597131-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Diagram of a synapse. A presynaptic axon terminal at…\"><img class=\"fig-w540 internal\" alt=\"Diagram of a synapse. A presynaptic axon terminal at the top holds vesicles filled with neurotransmitter. Vesicles fuse with the membrane and release neurotransmitter molecules into the synaptic cleft. The molecules bind receptors on the postsynaptic cell below. Two removal routes are labeled: a reuptake transporter pulls neurotransmitter back into the presynaptic terminal, and an enzyme in the cleft breaks the neurotransmitter down.\" width=\"680\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512543/fig-p597131-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597132": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Amidation: ethanoic acid (acetic acid) + methylamine gives N-methylethanamide\" width=\"734\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512558/fig-p597132-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Amidation: ethanoic acid (acetic acid) + methylamine gives N-methylethanamide\"><img class=\"fig-w780 internal\" alt=\"Amidation: ethanoic acid (acetic acid) + methylamine gives N-methylethanamide\" width=\"734\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512558/fig-p597132-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: ethanamide (acetamide) gives ethanoic acid (acetic acid)\" width=\"751\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512559/fig-p597132-3.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hydrolysis: ethanamide (acetamide) gives ethanoic acid (acetic acid)\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: ethanamide (acetamide) gives ethanoic acid (acetic acid)\" width=\"751\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512559/fig-p597132-3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch07.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 7, Amines and amides. Center:…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch07.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Amidation: ethanoic acid (acetic acid) + methylamine gives N-methylethanamide\" width=\"734\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512561/fig-p597132-5.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Amidation: ethanoic acid (acetic acid) + methylamine gives N-methylethanamide (2)\"><img class=\"fig-w780 internal\" alt=\"Amidation: ethanoic acid (acetic acid) + methylamine gives N-methylethanamide\" width=\"734\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512561/fig-p597132-5.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: ethanamide (acetamide) gives ethanoic acid (acetic acid)\" width=\"751\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512562/fig-p597132-6.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hydrolysis: ethanamide (acetamide) gives ethanoic acid (acetic acid) (2)\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: ethanamide (acetamide) gives ethanoic acid (acetic acid)\" width=\"751\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512562/fig-p597132-6.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: N-methylbutanamide gives butanoate ion + methylamine\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512563/fig-p597132-7.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hydrolysis: N-methylbutanamide gives butanoate ion + methylamine\"><img class=\"fig-w780 internal\" alt=\"Hydrolysis: N-methylbutanamide gives butanoate ion + methylamine\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512563/fig-p597132-7.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597135": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w600 internal\" alt=\"Four Fischer projections compared with D-glucose. D-galactose differs only at C4 and D-mannose only at C2, so each is an epimer of glucose. L-glucose has every chiral center reversed, so it is the enantiomer of D-glucose.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512564/fig-p597135-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Four Fischer projections compared with D-glucose. D-galactose differs only…\"><img class=\"fig-w600 internal\" alt=\"Four Fischer projections compared with D-glucose. D-galactose differs only at C4 and D-mannose only at C2, so each is an epimer of glucose. L-glucose has every chiral center reversed, so it is the enantiomer of D-glucose.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512564/fig-p597135-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597137": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w540 internal\" alt=\"Haworth projections of alpha-D-glucose, with the anomeric OH on carbon 1 pointing down, and beta-D-glucose, with the anomeric OH pointing up on the same side as the CH2OH group. The two interconvert through the open-chain form; at equilibrium about 36 percent is alpha and 64 percent beta.\" width=\"560\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512565/fig-p597137-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Haworth projections of alpha-D-glucose, with the anomeric OH on…\"><img class=\"fig-w540 internal\" alt=\"Haworth projections of alpha-D-glucose, with the anomeric OH on carbon 1 pointing down, and beta-D-glucose, with the anomeric OH pointing up on the same side as the CH2OH group. The two interconvert through the open-chain form; at equilibrium about 36 percent is alpha and 64 percent beta.\" width=\"560\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512565/fig-p597137-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w900 internal\" alt=\"Converting D-glucose from a Fischer projection to Haworth rings in three steps. Step 1, rotate: the Fischer projection is turned on its side with the aldehyde at the right, so groups that were on the left point up and groups on the right point down. Step 2, twist: the chain is curled into a ring shape with the CH2OH group pointing up, as it does for a D sugar, and the C5 OH reaching toward the C=O. Step 3, close: the C5 oxygen bonds to C1, giving two anomers: alpha with the new OH on C1 pointing down and beta with it pointing up. In both rings the OH groups on C2 and C4 point down and the OH on C3 points up.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512766/fig-p597137-fischer-to-haworth.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Converting D-glucose from a Fischer projection to Haworth rings…\"><img class=\"fig-w900 internal\" alt=\"Converting D-glucose from a Fischer projection to Haworth rings in three steps. Step 1, rotate: the Fischer projection is turned on its side with the aldehyde at the right, so groups that were on the left point up and groups on the right point down. Step 2, twist: the chain is curled into a ring shape with the CH2OH group pointing up, as it does for a D sugar, and the C5 OH reaching toward the C=O. Step 3, close: the C5 oxygen bonds to C1, giving two anomers: alpha with the new OH on C1 pointing down and beta with it pointing up. In both rings the OH groups on C2 and C4 point down and the OH on C3 points up.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512766/fig-p597137-fischer-to-haworth.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597138": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w600 internal\" alt=\"Concept map of the oxidation and reduction products of D-glucose. Oxidizing C1 gives gluconic acid, an aldonic acid; oxidizing C6 gives glucuronic acid, an alduronic acid; oxidizing both ends gives glucaric acid, an aldaric acid; reducing the C1 aldehyde gives sorbitol, a sugar alcohol.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512566/fig-p597138-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map of the oxidation and reduction products of…\"><img class=\"fig-w600 internal\" alt=\"Concept map of the oxidation and reduction products of D-glucose. Oxidizing C1 gives gluconic acid, an aldonic acid; oxidizing C6 gives glucuronic acid, an alduronic acid; oxidizing both ends gives glucaric acid, an aldaric acid; reducing the C1 aldehyde gives sorbitol, a sugar alcohol.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512566/fig-p597138-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597141": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch08.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 8, Carbohydrates. Center: Sugars. Branches:…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch08.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597144": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Lipid classification map. Lipids divide into hydrolyzable lipids (waxes, triacylglycerols, glycerophospholipids, sphingolipids), which contain ester or amide links, and non-hydrolyzable lipids (steroids, fat-soluble vitamins, eicosanoids), which do not.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512571/fig-p597144-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Lipid classification map. Lipids divide into hydrolyzable lipids (waxes,…\"><img class=\"fig-w780 internal\" alt=\"Lipid classification map. Lipids divide into hydrolyzable lipids (waxes, triacylglycerols, glycerophospholipids, sphingolipids), which contain ester or amide links, and non-hydrolyzable lipids (steroids, fat-soluble vitamins, eicosanoids), which do not.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512571/fig-p597144-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w540 internal\" alt=\"Stearic acid, 18:0, a straight zigzag chain\" width=\"515\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512572/fig-p597144-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Stearic acid, 18:0, a straight zigzag chain\"><img class=\"fig-w540 internal\" alt=\"Stearic acid, 18:0, a straight zigzag chain\" width=\"515\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512572/fig-p597144-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Linoleic acid, an 18-carbon fatty acid with two cis double bonds, drawn twice as the same zigzag chain with the COOH group at the left and the CH3 end at the right. Each cis double bond bends the chain. Top drawing, chemist numbering: carbons are numbered 1 to 18 starting from the COOH carbon; the double bonds are between C9 and C10 and between C12 and C13, and C12, where the last double bond starts, is highlighted. Bottom drawing, omega numbering: the same carbons are numbered omega 1 to omega 18 starting from the CH3 carbon, so C18 is omega 1 and C13 is omega 6. Omega 6 is highlighted as the first double-bonded carbon reached from the CH3 end. A note reads 18 minus 12 equals 6: omega-6.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512788/fig-p597144-linoleic-omega.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Linoleic acid, an 18-carbon fatty acid with two cis…\"><img class=\"fig-w780 internal\" alt=\"Linoleic acid, an 18-carbon fatty acid with two cis double bonds, drawn twice as the same zigzag chain with the COOH group at the left and the CH3 end at the right. Each cis double bond bends the chain. Top drawing, chemist numbering: carbons are numbered 1 to 18 starting from the COOH carbon; the double bonds are between C9 and C10 and between C12 and C13, and C12, where the last double bond starts, is highlighted. Bottom drawing, omega numbering: the same carbons are numbered omega 1 to omega 18 starting from the CH3 carbon, so C18 is omega 1 and C13 is omega 6. Omega 6 is highlighted as the first double-bonded carbon reached from the CH3 end. A note reads 18 minus 12 equals 6: omega-6.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512788/fig-p597144-linoleic-omega.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Eicosanoid overview. Membrane phospholipids release arachidonic acid (20:4 omega-6). The cyclooxygenase (COX) enzymes convert it to prostaglandins (inflammation, pain, fever, gastric protection) and thromboxanes (platelet aggregation); lipoxygenase converts it to leukotrienes (bronchoconstriction, asthma). NSAIDs such as aspirin and ibuprofen block COX.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512577/fig-p597144-7.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Eicosanoid overview. Membrane phospholipids release arachidonic acid (20:4 omega-6).…\"><img class=\"fig-w780 internal\" alt=\"Eicosanoid overview. Membrane phospholipids release arachidonic acid (20:4 omega-6). The cyclooxygenase (COX) enzymes convert it to prostaglandins (inflammation, pain, fever, gastric protection) and thromboxanes (platelet aggregation); lipoxygenase converts it to leukotrienes (bronchoconstriction, asthma). NSAIDs such as aspirin and ibuprofen block COX.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512577/fig-p597144-7.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597147": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/oer/sphingolipids.svg?v=20261113t\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: General structure of sphingolipids. A sphingosine backbone: carbon 1…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/oer/sphingolipids.svg?v=20261113t\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597148": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Three ways across a cell membrane. Left: simple diffusion, oxygen and carbon dioxide pass straight through the phospholipid bilayer down their concentration gradients. Middle: facilitated diffusion, glucose crosses through a GLUT carrier protein down its gradient with no ATP. Right: active transport, the sodium-potassium pump uses ATP to move three sodium ions out and two potassium ions in, against their gradients.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512579/fig-p597148-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Three ways across a cell membrane. Left: simple diffusion,…\"><img class=\"fig-w720 internal\" alt=\"Three ways across a cell membrane. Left: simple diffusion, oxygen and carbon dioxide pass straight through the phospholipid bilayer down their concentration gradients. Middle: facilitated diffusion, glucose crosses through a GLUT carrier protein down its gradient with no ATP. Right: active transport, the sodium-potassium pump uses ATP to move three sodium ions out and two potassium ions in, against their gradients.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512579/fig-p597148-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597150": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch09.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 9, Lipids. Center: Lipids (dissolve…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch09.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597154": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w540 internal\" alt=\"Fischer projections of L-alanine and D-alanine. The carboxylate group is at the top and the methyl group at the bottom. In L-alanine the ammonium group is on the left and H on the right; D-alanine is its mirror image with the ammonium group on the right. L is the form found in proteins.\" width=\"640\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512582/fig-p597154-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Fischer projections of L-alanine and D-alanine. The carboxylate group…\"><img class=\"fig-w540 internal\" alt=\"Fischer projections of L-alanine and D-alanine. The carboxylate group is at the top and the methyl group at the bottom. In L-alanine the ammonium group is on the left and H on the right; D-alanine is its mirror image with the ammonium group on the right. L is the form found in proteins.\" width=\"640\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512582/fig-p597154-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597157": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Condensation of glycine and alanine to glycylalanine (Gly-Ala) plus water; hydrolysis runs the reverse direction\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512584/fig-p597157-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Condensation of glycine and alanine to glycylalanine (Gly-Ala) plus…\"><img class=\"fig-w780 internal\" alt=\"Condensation of glycine and alanine to glycylalanine (Gly-Ala) plus water; hydrolysis runs the reverse direction\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512584/fig-p597157-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Expanded structure of the tripeptide Gly-Asp-Ala at pH 7.4. Left to right: an H3N-plus group on the glycine alpha carbon, a peptide bond C(=O)-NH, the aspartate alpha carbon with a CH2-COO-minus side chain drawn above it, a second peptide bond, and the alanine alpha carbon with a CH3 side chain drawn above it, ending in COO-minus.\" width=\"686\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512585/fig-p597157-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Expanded structure of the tripeptide Gly-Asp-Ala at pH 7.4.…\"><img class=\"fig-w720 internal\" alt=\"Expanded structure of the tripeptide Gly-Asp-Ala at pH 7.4. Left to right: an H3N-plus group on the glycine alpha carbon, a peptide bond C(=O)-NH, the aspartate alpha carbon with a CH2-COO-minus side chain drawn above it, a second peptide bond, and the alanine alpha carbon with a CH3 side chain drawn above it, ending in COO-minus.\" width=\"686\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512585/fig-p597157-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597158": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Concept map of the four levels of protein structure. Primary structure (the amino acid sequence, held by peptide bonds) folds into secondary structure (alpha helix and beta sheet, held by backbone hydrogen bonds), which folds into tertiary structure (the 3-D shape of one chain, held by R-group interactions: hydrophobic, salt bridges, hydrogen bonds, disulfide bonds), and two or more folded chains assemble into quaternary structure (for example the four subunits of hemoglobin). Denaturation undoes secondary, tertiary and quaternary structure; only hydrolysis breaks primary structure.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512586/fig-p597158-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map of the four levels of protein structure.…\"><img class=\"fig-w660 internal\" alt=\"Concept map of the four levels of protein structure. Primary structure (the amino acid sequence, held by peptide bonds) folds into secondary structure (alpha helix and beta sheet, held by backbone hydrogen bonds), which folds into tertiary structure (the 3-D shape of one chain, held by R-group interactions: hydrophobic, salt bridges, hydrogen bonds, disulfide bonds), and two or more folded chains assemble into quaternary structure (for example the four subunits of hemoglobin). Denaturation undoes secondary, tertiary and quaternary structure; only hydrolysis breaks primary structure.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512586/fig-p597158-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597164": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch10.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 10, Amino acids and proteins.…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch10.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597165": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Expanded structure of a tripeptide: an ammonium group on the left, then alanine (CH3 side chain), a peptide bond, cysteine (CH2SH side chain), a second peptide bond, and glycine ending in a carboxylate on the right\" width=\"686\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512587/fig-p597165-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Expanded structure of a tripeptide: an ammonium group on…\"><img class=\"fig-w720 internal\" alt=\"Expanded structure of a tripeptide: an ammonium group on the left, then alanine (CH3 side chain), a peptide bond, cysteine (CH2SH side chain), a second peptide bond, and glycine ending in a carboxylate on the right\" width=\"686\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512587/fig-p597165-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597166": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w600 internal\" alt=\"Energy diagram of a reaction with and without an enzyme. Energy is plotted against reaction progress. Reactants start at a higher energy than products. A solid red curve without enzyme rises to a high transition-state peak; a dashed blue curve with enzyme rises to a much lower peak. The activation energy, the height from reactants to the peak, is smaller with the enzyme, but the energy difference between reactants and products, delta G, is the same either way.\" width=\"700\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512589/fig-p597166-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Energy diagram of a reaction with and without an…\"><img class=\"fig-w600 internal\" alt=\"Energy diagram of a reaction with and without an enzyme. Energy is plotted against reaction progress. Reactants start at a higher energy than products. A solid red curve without enzyme rises to a high transition-state peak; a dashed blue curve with enzyme rises to a much lower peak. The activation energy, the height from reactants to the peak, is smaller with the enzyme, but the energy difference between reactants and products, delta G, is the same either way.\" width=\"700\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512589/fig-p597166-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597167": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Two panels comparing models of enzyme action. Left, lock-and-key: a rigid enzyme with a rectangular notch binds a rectangular substrate that fits exactly, and the active site is unchanged in the enzyme-substrate complex. Right, induced fit: the free enzyme has a rounded notch that only roughly matches the substrate; after binding, the active site molds itself snugly around the substrate.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512590/fig-p597167-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Two panels comparing models of enzyme action. Left, lock-and-key:…\"><img class=\"fig-w660 internal\" alt=\"Two panels comparing models of enzyme action. Left, lock-and-key: a rigid enzyme with a rectangular notch binds a rectangular substrate that fits exactly, and the active site is unchanged in the enzyme-substrate complex. Right, induced fit: the free enzyme has a rounded notch that only roughly matches the substrate; after binding, the active site molds itself snugly around the substrate.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512590/fig-p597167-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597168": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Three plots of enzyme reaction rate. (a) Rate versus substrate concentration rises steeply at first, then levels off at a maximum rate when all active sites are busy. (b) Rate versus temperature rises to an optimum near 37 degrees Celsius for human enzymes, then falls sharply as the enzyme denatures. (c) Rate versus pH shows a separate bell-shaped curve for each enzyme: pepsin from the stomach peaks near pH 2 and trypsin from the intestine peaks near pH 8.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512591/fig-p597168-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Three plots of enzyme reaction rate. (a) Rate versus…\"><img class=\"fig-w660 internal\" alt=\"Three plots of enzyme reaction rate. (a) Rate versus substrate concentration rises steeply at first, then levels off at a maximum rate when all active sites are busy. (b) Rate versus temperature rises to an optimum near 37 degrees Celsius for human enzymes, then falls sharply as the enzyme denatures. (c) Rate versus pH shows a separate bell-shaped curve for each enzyme: pepsin from the stomach peaks near pH 2 and trypsin from the intestine peaks near pH 8.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512591/fig-p597168-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597171": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w540 internal\" alt=\"Feedback inhibition in a four-step pathway. Substrate A is converted to B by enzyme 1, B to C by enzyme 2, C to D by enzyme 3, and D to the end product E by enzyme 4. A dashed line labeled inhibits runs from the end product E back to enzyme 1, the first committed step, so that when E accumulates the whole pathway slows.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512592/fig-p597171-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Feedback inhibition in a four-step pathway. Substrate A is…\"><img class=\"fig-w540 internal\" alt=\"Feedback inhibition in a four-step pathway. Substrate A is converted to B by enzyme 1, B to C by enzyme 2, C to D by enzyme 3, and D to the end product E by enzyme 4. A dashed line labeled inhibits runs from the end product E back to enzyme 1, the first committed step, so that when E accumulates the whole pathway slows.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512592/fig-p597171-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597172": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Reversible phosphorylation of a serine residue in an enzyme. Left, the serine side chain ends in a free hydroxyl group. A forward arrow labeled protein kinase, ATP to ADP, leads to the right-hand structure, phosphoserine, in which the side-chain oxygen is bonded to a phosphate group carrying a 2 minus charge, a phosphate ester. A reverse arrow labeled phosphatase, water to hydrogen phosphate, removes the phosphate again.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512593/fig-p597172-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Reversible phosphorylation of a serine residue in an enzyme.…\"><img class=\"fig-w780 internal\" alt=\"Reversible phosphorylation of a serine residue in an enzyme. Left, the serine side chain ends in a free hydroxyl group. A forward arrow labeled protein kinase, ATP to ADP, leads to the right-hand structure, phosphoserine, in which the side-chain oxygen is bonded to a phosphate group carrying a 2 minus charge, a phosphate ester. A reverse arrow labeled phosphatase, water to hydrogen phosphate, removes the phosphate again.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512593/fig-p597172-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Hormonal control of glycogen metabolism by covalent modification. Glucagon or epinephrine binds a receptor on the cell surface and raises cyclic AMP, which activates protein kinase A. Protein kinase A uses ATP to phosphorylate glycogen phosphorylase, turning it on so glycogen is broken down to glucose, and to phosphorylate glycogen synthase, turning it off. Insulin activates phosphatases that remove the phosphates, so phosphorylase turns off and synthase turns on.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512594/fig-p597172-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hormonal control of glycogen metabolism by covalent modification. Glucagon…\"><img class=\"fig-w780 internal\" alt=\"Hormonal control of glycogen metabolism by covalent modification. Glucagon or epinephrine binds a receptor on the cell surface and raises cyclic AMP, which activates protein kinase A. Protein kinase A uses ATP to phosphorylate glycogen phosphorylase, turning it on so glycogen is broken down to glucose, and to phosphorylate glycogen synthase, turning it off. Insulin activates phosphatases that remove the phosphates, so phosphorylase turns off and synthase turns on.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512594/fig-p597172-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597173": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch11.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 11, Enzymes and vitamins. Center:…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch11.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597174": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w480 internal\" alt=\"Plot of reaction rate versus substrate concentration for one enzyme under three conditions. Curve A, solid, with no inhibitor, rises quickly and levels off at the highest maximum rate. Curve B, long dashes, with inhibitor X, rises more slowly but eventually reaches the same maximum rate as curve A. Curve C, dotted, with inhibitor Y, rises quickly but levels off at about half the maximum rate of curve A and never catches up.\" width=\"560\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512595/fig-p597174-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Plot of reaction rate versus substrate concentration for one…\"><img class=\"fig-w480 internal\" alt=\"Plot of reaction rate versus substrate concentration for one enzyme under three conditions. Curve A, solid, with no inhibitor, rises quickly and levels off at the highest maximum rate. Curve B, long dashes, with inhibitor X, rises more slowly but eventually reaches the same maximum rate as curve A. Curve C, dotted, with inhibitor Y, rises quickly but levels off at about half the maximum rate of curve A and never catches up.\" width=\"560\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512595/fig-p597174-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597177": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"The central dogma as a flow diagram. In the nucleus, DNA is copied into two identical DNA copies by replication (DNA polymerase) and read into mRNA by transcription (RNA polymerase). In the cytoplasm, ribosomes and tRNA translate the mRNA into protein. A dashed arrow from mRNA back to DNA marks reverse transcription, carried out only by retroviruses.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512601/fig-p597177-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The central dogma as a flow diagram. In the…\"><img class=\"fig-w660 internal\" alt=\"The central dogma as a flow diagram. In the nucleus, DNA is copied into two identical DNA copies by replication (DNA polymerase) and read into mRNA by transcription (RNA polymerase). In the cytoplasm, ribosomes and tRNA translate the mRNA into protein. A dashed arrow from mRNA back to DNA marks reverse transcription, carried out only by retroviruses.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512601/fig-p597177-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Diagram of a DNA replication fork. On the left the parent double helix is unwound at the fork by helicase, and the fork moves to the left. The two separated template strands run in opposite directions. On the lower template the leading strand is made continuously toward the fork by DNA polymerase, starting from one RNA primer. On the upper template the lagging strand is made in short Okazaki fragments, each started by primase with an RNA primer and extended by DNA polymerase away from the fork; ligase joins the fragments. New strands are built 5 prime to 3 prime.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512765/fig-p597177-replication-fork.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Diagram of a DNA replication fork. On the left…\"><img class=\"fig-w720 internal\" alt=\"Diagram of a DNA replication fork. On the left the parent double helix is unwound at the fork by helicase, and the fork moves to the left. The two separated template strands run in opposite directions. On the lower template the leading strand is made continuously toward the fork by DNA polymerase, starting from one RNA primer. On the upper template the lagging strand is made in short Okazaki fragments, each started by primase with an RNA primer and extended by DNA polymerase away from the fork; ligase joins the fragments. New strands are built 5 prime to 3 prime.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512765/fig-p597177-replication-fork.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597178": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/print/trna_loading-v2-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Loading a tRNA in two steps, both catalyzed by…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/print/trna_loading-v2-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597183": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Flow diagram of how the three RNAs cooperate. A gene is transcribed by RNA polymerase into mRNA, which carries the codons to the ribosome made of rRNA and proteins. An amino acid and its tRNA are joined by aminoacyl-tRNA synthetase, using ATP, to form an aminoacyl-tRNA, which enters the ribosome, where its anticodon pairs with a codon. The ribosome's peptidyl transferase, catalyzed by rRNA, adds the amino acid to the growing polypeptide.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512604/fig-p597183-3.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Flow diagram of how the three RNAs cooperate. A…\"><img class=\"fig-w720 internal\" alt=\"Flow diagram of how the three RNAs cooperate. A gene is transcribed by RNA polymerase into mRNA, which carries the codons to the ribosome made of rRNA and proteins. An amino acid and its tRNA are joined by aminoacyl-tRNA synthetase, using ATP, to form an aminoacyl-tRNA, which enters the ribosome, where its anticodon pairs with a codon. The ribosome's peptidyl transferase, catalyzed by rRNA, adds the amino acid to the growing polypeptide.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512604/fig-p597183-3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597184": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch12.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 12, Nucleic acids. Center: DNA…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch12.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597188": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 1: Oxaloacetate to Citrate. Acetyl…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" alt=\"The three stages of catabolism. Stage 1, digestion: polysaccharides become monosaccharides, fats become fatty acids and glycerol, proteins become amino acids. Stage 2: glucose is split by glycolysis to pyruvate, and pyruvate, fatty acids and amino acids are all converted to acetyl CoA, with a small amount of ATP and NADH. Stage 3: acetyl CoA is oxidized in the citric acid cycle, giving carbon dioxide, NADH and FADH2; electron transport and oxidative phosphorylation then use oxygen to make most of the ATP.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597188-1-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The three stages of catabolism. Stage 1, digestion: polysaccharides…\"><img class=\"fig-w660\" alt=\"The three stages of catabolism. Stage 1, digestion: polysaccharides become monosaccharides, fats become fatty acids and glycerol, proteins become amino acids. Stage 2: glucose is split by glycolysis to pyruvate, and pyruvate, fatty acids and amino acids are all converted to acetyl CoA, with a small amount of ATP and NADH. Stage 3: acetyl CoA is oxidized in the citric acid cycle, giving carbon dioxide, NADH and FADH2; electron transport and oxidative phosphorylation then use oxygen to make most of the ATP.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597188-1-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img style=\"display:block;max-width:100%;height:auto;margin:0 auto 8px;\" alt=\"Overview of metabolism inside a cell. Nutrients (carbohydrates, fats and proteins) enter and are broken down by catabolism into small intermediates, releasing CO2; catabolism also reduces NAD plus to NADH, whose electrons go to O2 to make H2O, and it makes ATP from ADP. Anabolism uses the intermediates and the energy of ATP, together with minerals, nitrogen sources and vitamins, to build biomass: proteins, polysaccharides, fats and nucleic acids.\" class=\"fig-w660 internal\" width=\"760\" src=\"/@api/deki/files/512769/fig-p597188-metabolism.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Overview of metabolism inside a cell. Nutrients (carbohydrates, fats…\"><img style=\"display:block;max-width:100%;height:auto;margin:0 auto 8px;\" alt=\"Overview of metabolism inside a cell. Nutrients (carbohydrates, fats and proteins) enter and are broken down by catabolism into small intermediates, releasing CO2; catabolism also reduces NAD plus to NADH, whose electrons go to O2 to make H2O, and it makes ATP from ADP. Anabolism uses the intermediates and the energy of ATP, together with minerals, nitrogen sources and vitamins, to build biomass: proteins, polysaccharides, fats and nucleic acids.\" class=\"fig-w660 internal\" width=\"760\" src=\"/@api/deki/files/512769/fig-p597188-metabolism.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step1.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 1: Glucose to Glucose 6-phosphate. A phosphate…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w600\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step6.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 6: Succinate to Fumarate. FAD…\"><img class=\"fig-w600\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step6.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597192": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"The three fates of pyruvate. With oxygen, in mitochondria, the pyruvate dehydrogenase complex oxidizes pyruvate to acetyl CoA, releasing carbon dioxide and reducing NAD+ to NADH; acetyl CoA enters the citric acid cycle. Without oxygen in muscle and in red blood cells, lactate dehydrogenase reduces pyruvate to lactate, converting NADH back to NAD+ so glycolysis can continue. In yeast, pyruvate decarboxylase removes carbon dioxide to give acetaldehyde, which alcohol dehydrogenase reduces to ethanol, again regenerating NAD+.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512606/fig-p597192-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The three fates of pyruvate. With oxygen, in mitochondria,…\"><img class=\"fig-w780 internal\" alt=\"The three fates of pyruvate. With oxygen, in mitochondria, the pyruvate dehydrogenase complex oxidizes pyruvate to acetyl CoA, releasing carbon dioxide and reducing NAD+ to NADH; acetyl CoA enters the citric acid cycle. Without oxygen in muscle and in red blood cells, lactate dehydrogenase reduces pyruvate to lactate, converting NADH back to NAD+ so glycolysis can continue. In yeast, pyruvate decarboxylase removes carbon dioxide to give acetaldehyde, which alcohol dehydrogenase reduces to ethanol, again regenerating NAD+.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512606/fig-p597192-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/pyruvate-acetaldehyde.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Pyruvate to Acetaldehyde\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/pyruvate-acetaldehyde.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/acetaldehyde-ethanol.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Acetaldehyde to Ethanol\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/acetaldehyde-ethanol.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597193": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img width=\"760\" class=\"fig-w840 internal\" alt=\"Glycolysis in two phases. Energy-investment phase: glucose is phosphorylated by hexokinase using ATP to glucose 6-phosphate, isomerized to fructose 6-phosphate, phosphorylated again by phosphofructokinase-1 using a second ATP to fructose 1,6-bisphosphate, and split by aldolase into dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate; triose phosphate isomerase converts DHAP into a second glyceraldehyde 3-phosphate. Energy-payoff phase, run twice per glucose: glyceraldehyde 3-phosphate is oxidized by its dehydrogenase with NAD+ and inorganic phosphate to 1,3-bisphosphoglycerate; phosphoglycerate kinase transfers a phosphate to ADP giving ATP and 3-phosphoglycerate; a mutase moves the phosphate to give 2-phosphoglycerate; enolase removes water to give phosphoenolpyruvate; pyruvate kinase transfers the phosphate to ADP giving ATP and pyruvate. Net per glucose: 2 ATP, 2 NADH and 2 pyruvate, with no oxygen needed.\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512774/fig-p597193-glycolysis-flow.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis in two phases. Energy-investment phase: glucose is phosphorylated…\"><img width=\"760\" class=\"fig-w840 internal\" alt=\"Glycolysis in two phases. Energy-investment phase: glucose is phosphorylated by hexokinase using ATP to glucose 6-phosphate, isomerized to fructose 6-phosphate, phosphorylated again by phosphofructokinase-1 using a second ATP to fructose 1,6-bisphosphate, and split by aldolase into dihydroxyacetone phosphate (DHAP) and glyceraldehyde 3-phosphate; triose phosphate isomerase converts DHAP into a second glyceraldehyde 3-phosphate. Energy-payoff phase, run twice per glucose: glyceraldehyde 3-phosphate is oxidized by its dehydrogenase with NAD+ and inorganic phosphate to 1,3-bisphosphoglycerate; phosphoglycerate kinase transfers a phosphate to ADP giving ATP and 3-phosphoglycerate; a mutase moves the phosphate to give 2-phosphoglycerate; enolase removes water to give phosphoenolpyruvate; pyruvate kinase transfers the phosphate to ADP giving ATP and pyruvate. Net per glucose: 2 ATP, 2 NADH and 2 pyruvate, with no oxygen needed.\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512774/fig-p597193-glycolysis-flow.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step1.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 1: Glucose to Glucose 6-phosphate. A phosphate…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step2.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 2: Glucose 6-phosphate to Fructose 6-phosphate. The…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step3.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 3: Fructose 6-phosphate to Fructose 1,6-bisphosphate. A…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step4.svg?v=20261113aa\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 4: Fructose 1,6-bisphosphate to Dihydroxyacetone phosphate (DHAP)…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step4.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step5.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 5: Dihydroxyacetone phosphate (DHAP) to Glyceraldehyde 3-phosphate.…\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step5.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w600\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step6.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 6: Glyceraldehyde 3-phosphate to 1,3-Bisphosphoglycerate. The aldehyde…\"><img class=\"fig-w600\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step6.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step7.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 7: 1,3-Bisphosphoglycerate to 3-Phosphoglycerate. The phosphate on…\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step7.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step8.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 8: 3-Phosphoglycerate to 2-Phosphoglycerate. The phosphate moves…\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step8.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step9.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 9: 2-Phosphoglycerate to Phosphoenolpyruvate (PEP). Water is…\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step9.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step10.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis step 10: Phosphoenolpyruvate (PEP) to Pyruvate. The phosphate…\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/glycolysis/step10.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597194": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" alt=\"Entry points of other monosaccharides into glycolysis. Galactose is phosphorylated by galactokinase to galactose-1-phosphate, converted through UDP-galactose and UDP-glucose (using an epimerase) to glucose-1-phosphate, then by phosphoglucomutase to glucose-6-phosphate, where it joins glycolysis. Mannose is phosphorylated by hexokinase to mannose-6-phosphate and isomerized to fructose-6-phosphate. In muscle, fructose is phosphorylated by hexokinase to fructose-6-phosphate. In the liver, fructose is phosphorylated by fructokinase to fructose-1-phosphate, which aldolase B splits into dihydroxyacetone phosphate and glyceraldehyde; glyceraldehyde is phosphorylated to glyceraldehyde-3-phosphate. The liver route enters below phosphofructokinase-1, the main control point.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597194-1-v2-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Entry points of other monosaccharides into glycolysis. Galactose is…\"><img class=\"fig-w660\" alt=\"Entry points of other monosaccharides into glycolysis. Galactose is phosphorylated by galactokinase to galactose-1-phosphate, converted through UDP-galactose and UDP-glucose (using an epimerase) to glucose-1-phosphate, then by phosphoglucomutase to glucose-6-phosphate, where it joins glycolysis. Mannose is phosphorylated by hexokinase to mannose-6-phosphate and isomerized to fructose-6-phosphate. In muscle, fructose is phosphorylated by hexokinase to fructose-6-phosphate. In the liver, fructose is phosphorylated by fructokinase to fructose-1-phosphate, which aldolase B splits into dihydroxyacetone phosphate and glyceraldehyde; glyceraldehyde is phosphorylated to glyceraldehyde-3-phosphate. The liver route enters below phosphofructokinase-1, the main control point.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597194-1-v2-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720\" alt=\"The pentose phosphate pathway. Oxidative phase: glucose-6-phosphate is oxidized by glucose-6-phosphate dehydrogenase, reducing NADP+ to NADPH, to 6-phosphogluconate; a second dehydrogenase oxidizes and decarboxylates it to ribulose-5-phosphate, releasing carbon dioxide and a second NADPH. Non-oxidative phase: ribulose-5-phosphate is isomerized to ribose-5-phosphate for nucleotide synthesis, or rearranged by transketolase and transaldolase into fructose-6-phosphate and glyceraldehyde-3-phosphate, which re-enter glycolysis. NADPH is used for fatty acid and cholesterol synthesis and to keep glutathione reduced in red blood cells.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597194-2-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The pentose phosphate pathway. Oxidative phase: glucose-6-phosphate is oxidized…\"><img class=\"fig-w720\" alt=\"The pentose phosphate pathway. Oxidative phase: glucose-6-phosphate is oxidized by glucose-6-phosphate dehydrogenase, reducing NADP+ to NADPH, to 6-phosphogluconate; a second dehydrogenase oxidizes and decarboxylates it to ribulose-5-phosphate, releasing carbon dioxide and a second NADPH. Non-oxidative phase: ribulose-5-phosphate is isomerized to ribose-5-phosphate for nucleotide synthesis, or rearranged by transketolase and transaldolase into fructose-6-phosphate and glyceraldehyde-3-phosphate, which re-enter glycolysis. NADPH is used for fatty acid and cholesterol synthesis and to keep glutathione reduced in red blood cells.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597194-2-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597195": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w600 internal\" alt=\"Hormonal control of blood glucose. When blood glucose rises after a meal, pancreatic beta cells release insulin, which moves GLUT4 transporters to the surface of muscle and fat cells, and turns on glycogenesis, glycolysis and lipogenesis while turning off gluconeogenesis; blood glucose falls. When blood glucose falls during fasting or exercise, pancreatic alpha cells release glucagon, which turns on liver glycogenolysis, gluconeogenesis and fat lipolysis; blood glucose rises. During stress the adrenal glands release epinephrine, which triggers glycogenolysis in muscle and liver and lipolysis, and cortisol, which drives gluconeogenesis from amino acids and causes insulin resistance; blood glucose rises.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512610/fig-p597195-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hormonal control of blood glucose. When blood glucose rises…\"><img class=\"fig-w600 internal\" alt=\"Hormonal control of blood glucose. When blood glucose rises after a meal, pancreatic beta cells release insulin, which moves GLUT4 transporters to the surface of muscle and fat cells, and turns on glycogenesis, glycolysis and lipogenesis while turning off gluconeogenesis; blood glucose falls. When blood glucose falls during fasting or exercise, pancreatic alpha cells release glucagon, which turns on liver glycogenolysis, gluconeogenesis and fat lipolysis; blood glucose rises. During stress the adrenal glands release epinephrine, which triggers glycogenolysis in muscle and liver and lipolysis, and cortisol, which drives gluconeogenesis from amino acids and causes insulin resistance; blood glucose rises.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512610/fig-p597195-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Timeline of fuel sources after a meal. From 0 to about 4 hours, absorbed glucose from the meal supplies the blood and insulin is high. From about 4 to 16 hours, liver glycogen is broken down and glucagon rises. After about 16 hours, gluconeogenesis from amino acids, lactate and glycerol becomes the main glucose source and ketone bodies made from fat begin to rise. In prolonged starvation of days to weeks, ketone bodies supply most of the brain's energy, which spares muscle protein, and gluconeogenesis slows.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512611/fig-p597195-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Timeline of fuel sources after a meal. From 0…\"><img class=\"fig-w660 internal\" alt=\"Timeline of fuel sources after a meal. From 0 to about 4 hours, absorbed glucose from the meal supplies the blood and insulin is high. From about 4 to 16 hours, liver glycogen is broken down and glucagon rises. After about 16 hours, gluconeogenesis from amino acids, lactate and glycerol becomes the main glucose source and ketone bodies made from fat begin to rise. In prolonged starvation of days to weeks, ketone bodies supply most of the brain's energy, which spares muscle protein, and gluconeogenesis slows.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512611/fig-p597195-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597196": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Sketch of one glycogen molecule. A small protein, glycogenin, sits at the core on the left. A main chain of glucose units, drawn as circles, runs to the right from it; the first glucose, the reducing end, is tied to glycogenin. Straight runs are joined by alpha 1,4 links, and side chains branch off above and below the main chain, with smaller branches growing off the side chains. One branch point, where a new chain starts with an alpha 1,6 link, is circled. Every chain ends in a green non-reducing end with a free carbon 4 OH; there are many of them. A key explains that glycogen synthase adds glucose at the non-reducing ends and glycogen phosphorylase removes glucose there, so a highly branched molecule with many ends stores and releases glucose quickly.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512786/fig-p597196-glycogen-branches.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Sketch of one glycogen molecule. A small protein, glycogenin,…\"><img class=\"fig-w780 internal\" alt=\"Sketch of one glycogen molecule. A small protein, glycogenin, sits at the core on the left. A main chain of glucose units, drawn as circles, runs to the right from it; the first glucose, the reducing end, is tied to glycogenin. Straight runs are joined by alpha 1,4 links, and side chains branch off above and below the main chain, with smaller branches growing off the side chains. One branch point, where a new chain starts with an alpha 1,6 link, is circled. Every chain ends in a green non-reducing end with a free carbon 4 OH; there are many of them. A key explains that glycogen synthase adds glucose at the non-reducing ends and glycogen phosphorylase removes glucose there, so a highly branched molecule with many ends stores and releases glucose quickly.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512786/fig-p597196-glycogen-branches.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w840\" alt=\"Glycogen metabolism map. Glycogenesis runs down the left: glucose is phosphorylated by hexokinase or glucokinase using ATP to glucose 6-phosphate, isomerized by phosphoglucomutase to glucose 1-phosphate, activated with UTP by UDP-glucose pyrophosphorylase to UDP-glucose releasing pyrophosphate, and added to glycogen by glycogen synthase, which forms alpha-1,4 links and releases UDP; branching enzyme then makes alpha-1,6 branches. Glycogenolysis runs up the right: glycogen phosphorylase uses inorganic phosphate to release glucose 1-phosphate from the non-reducing ends, debranching enzyme releases about ten percent of the glucose as free glucose, phosphoglucomutase converts glucose 1-phosphate to glucose 6-phosphate, and in liver glucose-6-phosphatase hydrolyzes it to free glucose for the blood, while in muscle glucose 6-phosphate enters glycolysis.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597196-1-1.svg?v=20261113t\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycogen metabolism map. Glycogenesis runs down the left: glucose…\"><img class=\"fig-w840\" alt=\"Glycogen metabolism map. Glycogenesis runs down the left: glucose is phosphorylated by hexokinase or glucokinase using ATP to glucose 6-phosphate, isomerized by phosphoglucomutase to glucose 1-phosphate, activated with UTP by UDP-glucose pyrophosphorylase to UDP-glucose releasing pyrophosphate, and added to glycogen by glycogen synthase, which forms alpha-1,4 links and releases UDP; branching enzyme then makes alpha-1,6 branches. Glycogenolysis runs up the right: glycogen phosphorylase uses inorganic phosphate to release glucose 1-phosphate from the non-reducing ends, debranching enzyme releases about ten percent of the glucose as free glucose, phosphoglucomutase converts glucose 1-phosphate to glucose 6-phosphate, and in liver glucose-6-phosphatase hydrolyzes it to free glucose for the blood, while in muscle glucose 6-phosphate enters glycolysis.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597196-1-1.svg?v=20261113t\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w600\" alt=\"Hormonal switch for glycogen metabolism. Glucagon acting on liver and epinephrine acting on liver and muscle raise cyclic AMP, which activates protein kinase A. Protein kinase A adds phosphate groups: phosphorylated glycogen phosphorylase is active and phosphorylated glycogen synthase is inactive, so glycogen is broken down. Insulin, released after a meal, activates a phosphatase that removes the phosphate groups: dephosphorylated synthase is active and dephosphorylated phosphorylase is inactive, so glycogen is built. In muscle, AMP also activates phosphorylase allosterically while ATP and glucose 6-phosphate inhibit it.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597196-2-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hormonal switch for glycogen metabolism. Glucagon acting on liver…\"><img class=\"fig-w600\" alt=\"Hormonal switch for glycogen metabolism. Glucagon acting on liver and epinephrine acting on liver and muscle raise cyclic AMP, which activates protein kinase A. Protein kinase A adds phosphate groups: phosphorylated glycogen phosphorylase is active and phosphorylated glycogen synthase is inactive, so glycogen is broken down. Insulin, released after a meal, activates a phosphatase that removes the phosphate groups: dephosphorylated synthase is active and dephosphorylated phosphorylase is inactive, so glycogen is built. In muscle, AMP also activates phosphorylase allosterically while ATP and glucose 6-phosphate inhibit it.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597196-2-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597197": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" alt=\"Glycolysis and gluconeogenesis side by side. The shared intermediates run down the center: glucose, glucose 6-phosphate, fructose 6-phosphate, fructose 1,6-bisphosphate, the triose phosphates, 1,3-bisphosphoglycerate through 2-phosphoglycerate, phosphoenolpyruvate, and pyruvate. On the left, glycolysis runs downward; its three irreversible steps are hexokinase using ATP, phosphofructokinase-1 using ATP, and pyruvate kinase making ATP. On the right, gluconeogenesis runs upward using four bypass enzymes: pyruvate carboxylase in the mitochondrion uses ATP and biotin to make oxaloacetate, PEP carboxykinase uses GTP to make phosphoenolpyruvate, fructose-1,6-bisphosphatase hydrolyzes a phosphate to give fructose 6-phosphate, and glucose-6-phosphatase in the liver hydrolyzes glucose 6-phosphate to free glucose. The seven reversible steps are shared by both pathways. Lactate, alanine, and glycerol enter on the right as gluconeogenic precursors.\" width=\"660\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597197-4-v2-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycolysis and gluconeogenesis side by side. The shared intermediates…\"><img class=\"fig-w660\" alt=\"Glycolysis and gluconeogenesis side by side. The shared intermediates run down the center: glucose, glucose 6-phosphate, fructose 6-phosphate, fructose 1,6-bisphosphate, the triose phosphates, 1,3-bisphosphoglycerate through 2-phosphoglycerate, phosphoenolpyruvate, and pyruvate. On the left, glycolysis runs downward; its three irreversible steps are hexokinase using ATP, phosphofructokinase-1 using ATP, and pyruvate kinase making ATP. On the right, gluconeogenesis runs upward using four bypass enzymes: pyruvate carboxylase in the mitochondrion uses ATP and biotin to make oxaloacetate, PEP carboxykinase uses GTP to make phosphoenolpyruvate, fructose-1,6-bisphosphatase hydrolyzes a phosphate to give fructose 6-phosphate, and glucose-6-phosphatase in the liver hydrolyzes glucose 6-phosphate to free glucose. The seven reversible steps are shared by both pathways. Lactate, alanine, and glycerol enter on the right as gluconeogenic precursors.\" width=\"660\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597197-4-v2-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"The Cori cycle between muscle and liver. In working muscle, glucose goes through glycolysis to pyruvate, gaining 2 ATP, and under low oxygen pyruvate is reduced to lactate by lactate dehydrogenase. Lactate leaves in the blood and reaches the liver, where lactate dehydrogenase oxidizes it back to pyruvate, gluconeogenesis rebuilds glucose at a cost of 6 ATP equivalents, and glucose returns to the blood for the muscle to use again. Each turn costs the body 4 ATP overall and moves the energy burden from muscle to liver.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512618/fig-p597197-5.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The Cori cycle between muscle and liver. In working…\"><img class=\"fig-w720 internal\" alt=\"The Cori cycle between muscle and liver. In working muscle, glucose goes through glycolysis to pyruvate, gaining 2 ATP, and under low oxygen pyruvate is reduced to lactate by lactate dehydrogenase. Lactate leaves in the blood and reaches the liver, where lactate dehydrogenase oxidizes it back to pyruvate, gluconeogenesis rebuilds glucose at a cost of 6 ATP equivalents, and glucose returns to the blood for the muscle to use again. Each turn costs the body 4 ATP overall and moves the energy burden from muscle to liver.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512618/fig-p597197-5.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597198": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch13.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 13, Carbohydrate metabolism. Center: Glucose.…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch13.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597200": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660 internal\" alt=\"Pyruvate (3 carbons) enters the mitochondrial matrix and is converted by the pyruvate dehydrogenase complex to acetyl-CoA (2 carbons). Carbon dioxide leaves, NAD+ is reduced to NADH, and coenzyme A is attached. The coenzymes are NAD+ (from niacin), coenzyme A (from pantothenic acid) and a coenzyme made from thiamine (vitamin B1).\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512620/fig-p597200-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Pyruvate (3 carbons) enters the mitochondrial matrix and is…\"><img class=\"fig-w660 internal\" alt=\"Pyruvate (3 carbons) enters the mitochondrial matrix and is converted by the pyruvate dehydrogenase complex to acetyl-CoA (2 carbons). Carbon dioxide leaves, NAD+ is reduced to NADH, and coenzyme A is attached. The coenzymes are NAD+ (from niacin), coenzyme A (from pantothenic acid) and a coenzyme made from thiamine (vitamin B1).\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512620/fig-p597200-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597202": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" width=\"760\" style=\"max-width:100%;height:auto;\" alt=\"The citric acid cycle as a loop. Step 1, citrate synthase: acetyl CoA (2 carbons) and water join oxaloacetate (4 carbons) to make citrate (6 carbons), releasing CoA-SH. Step 2, aconitase: citrate is rearranged to isocitrate. Step 3, isocitrate dehydrogenase: NAD+ is reduced to NADH and CO2 leaves, giving alpha-ketoglutarate (5 carbons). Step 4, alpha-ketoglutarate dehydrogenase: NAD+ is reduced to NADH and CO2 leaves, giving succinyl CoA (4 carbons). Step 5, succinyl CoA synthetase: GDP and phosphate make GTP, giving succinate. Step 6, succinate dehydrogenase: FAD is reduced to FADH2, giving fumarate. Step 7, fumarase: water adds, giving malate. Step 8, malate dehydrogenase: NAD+ is reduced to NADH, regenerating oxaloacetate. Per turn: 2 CO2, 3 NADH, 1 FADH2 and 1 GTP.\" src=\"/@api/deki/files/512791/fig-p597202-cac-flow.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The citric acid cycle as a loop. Step 1,…\"><img class=\"fig-w780\" width=\"760\" style=\"max-width:100%;height:auto;\" alt=\"The citric acid cycle as a loop. Step 1, citrate synthase: acetyl CoA (2 carbons) and water join oxaloacetate (4 carbons) to make citrate (6 carbons), releasing CoA-SH. Step 2, aconitase: citrate is rearranged to isocitrate. Step 3, isocitrate dehydrogenase: NAD+ is reduced to NADH and CO2 leaves, giving alpha-ketoglutarate (5 carbons). Step 4, alpha-ketoglutarate dehydrogenase: NAD+ is reduced to NADH and CO2 leaves, giving succinyl CoA (4 carbons). Step 5, succinyl CoA synthetase: GDP and phosphate make GTP, giving succinate. Step 6, succinate dehydrogenase: FAD is reduced to FADH2, giving fumarate. Step 7, fumarase: water adds, giving malate. Step 8, malate dehydrogenase: NAD+ is reduced to NADH, regenerating oxaloacetate. Per turn: 2 CO2, 3 NADH, 1 FADH2 and 1 GTP.\" src=\"/@api/deki/files/512791/fig-p597202-cac-flow.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w840\" alt=\"The citric acid cycle drawn as a ring of eight intermediates: oxaloacetate plus acetyl-CoA form citrate (citrate synthase), citrate isomerizes to isocitrate (aconitase), isocitrate is oxidatively decarboxylated to alpha-ketoglutarate (NADH and CO2), alpha-ketoglutarate to succinyl-CoA (NADH and CO2), succinyl-CoA to succinate with GTP formation, succinate to fumarate with FADH2, fumarate hydrated to malate, and malate oxidized to oxaloacetate with NADH. One turn yields 3 NADH, 1 FADH2, 1 GTP and 2 CO2.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597202-1-v2-1.svg?v=20261113t\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The citric acid cycle drawn as a ring of…\"><img class=\"fig-w840\" alt=\"The citric acid cycle drawn as a ring of eight intermediates: oxaloacetate plus acetyl-CoA form citrate (citrate synthase), citrate isomerizes to isocitrate (aconitase), isocitrate is oxidatively decarboxylated to alpha-ketoglutarate (NADH and CO2), alpha-ketoglutarate to succinyl-CoA (NADH and CO2), succinyl-CoA to succinate with GTP formation, succinate to fumarate with FADH2, fumarate hydrated to malate, and malate oxidized to oxaloacetate with NADH. One turn yields 3 NADH, 1 FADH2, 1 GTP and 2 CO2.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597202-1-v2-1.svg?v=20261113t\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step1.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 1: Oxaloacetate to Citrate. Acetyl…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step2.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 2: Citrate to Isocitrate. The…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step3.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 3: Isocitrate to α-Ketoglutarate. The…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step4.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 4: α-Ketoglutarate to Succinyl CoA.…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step4.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step5.svg?v=20261113aa\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 5: Succinyl CoA to Succinate.…\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step5.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w600\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step6.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 6: Succinate to Fumarate. FAD…\"><img class=\"fig-w600\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step6.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step7.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 7: Fumarate to Malate. Water…\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step7.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step8.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Citric acid cycle step 8: Malate to Oxaloacetate. The…\"><img class=\"fig-w480\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/cac/step8.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597203": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/print/atp_synthase-v3-1.svg?v=20261113aa\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: ATP synthase in the inner mitochondrial membrane. H+ ions…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/print/atp_synthase-v3-1.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720\" src=\"https://itsdrdan.github.io/textbook/figures/print/respiration-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Overview of glucose catabolism. In the cytosol, glycolysis converts…\"><img class=\"fig-w720\" src=\"https://itsdrdan.github.io/textbook/figures/print/respiration-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/etc/etc_inner.svg?v=20261113aa\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The electron transport chain in the inner mitochondrial membrane.…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/etc/etc_inner.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597204": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img width=\"760\" class=\"internal fig-w860\" alt=\"Bookkeeping flow for one glucose. Glycolysis in the cytosol gives 2 pyruvate, 2 ATP and 2 NADH. The two cytosolic NADH enter the mitochondrion through the malate&ndash;aspartate shuttle (worth 5 ATP) or the glycerol-3-phosphate shuttle (worth 3 ATP). Pyruvate dehydrogenase gives 2 acetyl-CoA and 2 NADH. Two turns of the citric acid cycle give 6 NADH, 2 FADH2 and 2 GTP. All NADH and FADH2 go to the electron transport chain, which makes 2.5 ATP per NADH and 1.5 ATP per FADH2. The total is 32 ATP with the malate&ndash;aspartate shuttle or 30 with the glycerol-3-phosphate shuttle.\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512775/fig-p597204-yield-flow.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Bookkeeping flow for one glucose. Glycolysis in the cytosol…\"><img width=\"760\" class=\"internal fig-w860\" alt=\"Bookkeeping flow for one glucose. Glycolysis in the cytosol gives 2 pyruvate, 2 ATP and 2 NADH. The two cytosolic NADH enter the mitochondrion through the malate&ndash;aspartate shuttle (worth 5 ATP) or the glycerol-3-phosphate shuttle (worth 3 ATP). Pyruvate dehydrogenase gives 2 acetyl-CoA and 2 NADH. Two turns of the citric acid cycle give 6 NADH, 2 FADH2 and 2 GTP. All NADH and FADH2 go to the electron transport chain, which makes 2.5 ATP per NADH and 1.5 ATP per FADH2. The total is 32 ATP with the malate&ndash;aspartate shuttle or 30 with the glycerol-3-phosphate shuttle.\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512775/fig-p597204-yield-flow.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"The malate&ndash;aspartate shuttle. In the cytosol, NADH from glycolysis reduces oxaloacetate to malate (cytosolic malate dehydrogenase), regenerating NAD+. Malate crosses the inner mitochondrial membrane on a carrier. In the matrix, malate dehydrogenase re-oxidizes malate to oxaloacetate, producing matrix NADH that goes to Complex I for about 2.5 ATP. Oxaloacetate cannot cross the membrane, so a transaminase converts it to aspartate, which is carried back to the cytosol and transaminated back to oxaloacetate, completing the loop.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512624/fig-p597204-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The malate–aspartate shuttle. In the cytosol, NADH from glycolysis…\"><img class=\"fig-w780 internal\" alt=\"The malate&ndash;aspartate shuttle. In the cytosol, NADH from glycolysis reduces oxaloacetate to malate (cytosolic malate dehydrogenase), regenerating NAD+. Malate crosses the inner mitochondrial membrane on a carrier. In the matrix, malate dehydrogenase re-oxidizes malate to oxaloacetate, producing matrix NADH that goes to Complex I for about 2.5 ATP. Oxaloacetate cannot cross the membrane, so a transaminase converts it to aspartate, which is carried back to the cytosol and transaminated back to oxaloacetate, completing the loop.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512624/fig-p597204-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597205": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch14.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 14, Metabolism and energy. Center:…\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch14.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597208": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Transamination scheme: alanine plus alpha-ketoglutarate gives pyruvate plus glutamate, catalyzed by alanine aminotransferase (ALT) with pyridoxal phosphate (PLP, vitamin B6). The amino group of alanine and the keto oxygen of alpha-ketoglutarate swap places.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512626/fig-p597208-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Transamination scheme: alanine plus alpha-ketoglutarate gives pyruvate plus glutamate,…\"><img class=\"fig-w780 internal\" alt=\"Transamination scheme: alanine plus alpha-ketoglutarate gives pyruvate plus glutamate, catalyzed by alanine aminotransferase (ALT) with pyridoxal phosphate (PLP, vitamin B6). The amino group of alanine and the keto oxygen of alpha-ketoglutarate swap places.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512626/fig-p597208-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597209": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Two skeletal structures of a fatty acyl CoA chain, drawn as zigzag lines running left from the thioester end, which is at the right. Top, fatty acyl CoA: carbon 1 is the thioester carbon, C double-bonded to O and single-bonded to S of coenzyme A, written C(=O)-S-CoA. The carbons are numbered 1, 2, 3 and onward from that carbon. Carbon 2 is labeled alpha and carbon 3 is labeled beta; carbon 3 is highlighted as the CH2 that is oxidized to C=O in beta-oxidation. Bottom, the 3-ketoacyl CoA formed after reactions 1 to 3: the same chain with a C=O on carbon 3, the beta carbon, so 3-ketoacyl CoA and beta-ketoacyl CoA are the same compound. A dashed line between carbons 2 and 3 marks where thiolase cuts, between the alpha and beta carbons.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512787/fig-p597209-acyl-coa-numbering.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Two skeletal structures of a fatty acyl CoA chain,…\"><img class=\"fig-w720 internal\" alt=\"Two skeletal structures of a fatty acyl CoA chain, drawn as zigzag lines running left from the thioester end, which is at the right. Top, fatty acyl CoA: carbon 1 is the thioester carbon, C double-bonded to O and single-bonded to S of coenzyme A, written C(=O)-S-CoA. The carbons are numbered 1, 2, 3 and onward from that carbon. Carbon 2 is labeled alpha and carbon 3 is labeled beta; carbon 3 is highlighted as the CH2 that is oxidized to C=O in beta-oxidation. Bottom, the 3-ketoacyl CoA formed after reactions 1 to 3: the same chain with a C=O on carbon 3, the beta carbon, so 3-ketoacyl CoA and beta-ketoacyl CoA are the same compound. A dashed line between carbons 2 and 3 marks where thiolase cuts, between the alpha and beta carbons.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512787/fig-p597209-acyl-coa-numbering.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"The beta-oxidation cycle drawn as a square. A fatty acyl-CoA (top left) is oxidized by acyl-CoA dehydrogenase (an oxidoreductase, FAD to FADH2) to a trans-enoyl-CoA (top right); enoyl-CoA hydratase (a lyase) adds water to give 3-hydroxyacyl-CoA (bottom right); hydroxyacyl-CoA dehydrogenase (an oxidoreductase, NAD+ to NADH) gives 3-ketoacyl-CoA (bottom left); thiolase (a transferase) splits off acetyl-CoA with coenzyme A, leaving an acyl-CoA two carbons shorter that re-enters the cycle at the top.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512627/fig-p597209-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The beta-oxidation cycle drawn as a square. A fatty…\"><img class=\"fig-w720 internal\" alt=\"The beta-oxidation cycle drawn as a square. A fatty acyl-CoA (top left) is oxidized by acyl-CoA dehydrogenase (an oxidoreductase, FAD to FADH2) to a trans-enoyl-CoA (top right); enoyl-CoA hydratase (a lyase) adds water to give 3-hydroxyacyl-CoA (bottom right); hydroxyacyl-CoA dehydrogenase (an oxidoreductase, NAD+ to NADH) gives 3-ketoacyl-CoA (bottom left); thiolase (a transferase) splits off acetyl-CoA with coenzyme A, leaving an acyl-CoA two carbons shorter that re-enters the cycle at the top.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512627/fig-p597209-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w840 internal\" alt=\"Glycerol metabolism in the liver: glycerol is phosphorylated by glycerol kinase (a transferase, using ATP) to glycerol 3-phosphate, which glycerol-3-phosphate dehydrogenase (an oxidoreductase, NAD+ to NADH) oxidizes to dihydroxyacetone phosphate, a glycolysis intermediate that can go on to pyruvate or be used for gluconeogenesis to glucose.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512628/fig-p597209-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycerol metabolism in the liver: glycerol is phosphorylated by…\"><img class=\"fig-w840 internal\" alt=\"Glycerol metabolism in the liver: glycerol is phosphorylated by glycerol kinase (a transferase, using ATP) to glycerol 3-phosphate, which glycerol-3-phosphate dehydrogenase (an oxidoreductase, NAD+ to NADH) oxidizes to dihydroxyacetone phosphate, a glycolysis intermediate that can go on to pyruvate or be used for gluconeogenesis to glucose.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512628/fig-p597209-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/box/step1.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: β-Oxidation step 1: Fatty acyl CoA to trans-Enoyl CoA.…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/box/step1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/box/step2.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: β-Oxidation step 2: trans-Enoyl CoA to β-Hydroxyacyl CoA. Water…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/box/step2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/box/step3.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: β-Oxidation step 3: β-Hydroxyacyl CoA to β-Ketoacyl CoA. The…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/box/step3.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/box/step4.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: β-Oxidation step 4: β-Ketoacyl CoA to Acetyl CoA and…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/box/step4.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/glycerol-3-phosphate-dihydroxyacetone-phosphate.svg\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Glycerol 3-phosphate to Dihydroxyacetone phosphate\"><img class=\"fig-w540\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/reactions/glycerol-3-phosphate-dihydroxyacetone-phosphate.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597210": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w660\" alt=\"Hub diagram of how carbohydrate, lipid and protein metabolism overlap. Carbohydrates convert to and from pyruvate by glycolysis and gluconeogenesis; triacylglycerols give fatty acids and glycerol; proteins give amino acids. Pyruvate, fatty acids and ketogenic amino acids all feed acetyl-CoA, which enters the citric acid cycle or, in the liver, becomes ketone bodies, and which can be built back into fatty acids but not into glucose. Pyruvate and glucogenic amino acids feed oxaloacetate and alpha-ketoglutarate, citric acid cycle intermediates that can be turned into glucose. The cycle releases carbon dioxide and, through electron transport, ATP.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597210-1-v2-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Hub diagram of how carbohydrate, lipid and protein metabolism…\"><img class=\"fig-w660\" alt=\"Hub diagram of how carbohydrate, lipid and protein metabolism overlap. Carbohydrates convert to and from pyruvate by glycolysis and gluconeogenesis; triacylglycerols give fatty acids and glycerol; proteins give amino acids. Pyruvate, fatty acids and ketogenic amino acids all feed acetyl-CoA, which enters the citric acid cycle or, in the liver, becomes ketone bodies, and which can be built back into fatty acids but not into glucose. Pyruvate and glucogenic amino acids feed oxaloacetate and alpha-ketoglutarate, citric acid cycle intermediates that can be turned into glucose. The cycle releases carbon dioxide and, through electron transport, ATP.\" width=\"760\" style=\"display:block;margin:0;max-width:100%;height:auto;\" src=\"https://itsdrdan.github.io/textbook/figures/print/fig-p597210-1-v2-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597211": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780 internal\" alt=\"Flow of dietary fat digestion and absorption. In the small intestine, bile salts emulsify large fat droplets into small ones; pancreatic lipase, a hydrolase, hydrolyzes each triacylglycerol to two fatty acids and a 2-monoacylglycerol; these form micelles with bile salts and are absorbed into intestinal cells, where triacylglycerols are rebuilt and packaged into chylomicrons that travel through lymph to the blood. At capillaries, lipoprotein lipase hydrolyzes the triacylglycerols again, releasing fatty acids to muscle (for energy) and adipose tissue (for storage).\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512625/fig-p597207-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Flow of dietary fat digestion and absorption. In the…\"><img class=\"fig-w780 internal\" alt=\"Flow of dietary fat digestion and absorption. In the small intestine, bile salts emulsify large fat droplets into small ones; pancreatic lipase, a hydrolase, hydrolyzes each triacylglycerol to two fatty acids and a 2-monoacylglycerol; these form micelles with bile salts and are absorbed into intestinal cells, where triacylglycerols are rebuilt and packaged into chylomicrons that travel through lymph to the blood. At capillaries, lipoprotein lipase hydrolyzes the triacylglycerols again, releasing fatty acids to muscle (for energy) and adipose tissue (for storage).\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512625/fig-p597207-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597212": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w720 internal\" alt=\"Fat storage in an adipocyte after a meal. Chylomicrons from the gut and VLDL from the liver carry triacylglycerol in the blood; lipoprotein lipase on the capillary wall hydrolyzes it and the fatty acids enter the adipocyte, where they are activated to fatty acyl-CoA. Blood glucose enters through GLUT4 transporters and is converted by glycolysis to DHAP and then to glycerol 3-phosphate. Three fatty acyl-CoA are esterified to glycerol 3-phosphate to make triacylglycerol, which is stored in the lipid droplet. Insulin activates lipoprotein lipase and GLUT4 and turns hormone-sensitive lipase off.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512630/fig-p597212-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Fat storage in an adipocyte after a meal. Chylomicrons…\"><img class=\"fig-w720 internal\" alt=\"Fat storage in an adipocyte after a meal. Chylomicrons from the gut and VLDL from the liver carry triacylglycerol in the blood; lipoprotein lipase on the capillary wall hydrolyzes it and the fatty acids enter the adipocyte, where they are activated to fatty acyl-CoA. Blood glucose enters through GLUT4 transporters and is converted by glycolysis to DHAP and then to glycerol 3-phosphate. Three fatty acyl-CoA are esterified to glycerol 3-phosphate to make triacylglycerol, which is stored in the lipid droplet. Insulin activates lipoprotein lipase and GLUT4 and turns hormone-sensitive lipase off.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512630/fig-p597212-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w600 internal\" alt=\"Fat mobilization during fasting or stress. Glucagon (fasting) or epinephrine (stress, exercise) binds a receptor on the adipocyte, raising cyclic AMP, which activates protein kinase A. Protein kinase A phosphorylates hormone-sensitive lipase, switching it on; the lipase completely hydrolyzes stored triacylglycerol to fatty acids and glycerol. Fatty acids travel in the blood bound to albumin to muscle and liver for beta-oxidation; glycerol goes to the liver for gluconeogenesis. Low insulin keeps the lipase on.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512631/fig-p597212-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Fat mobilization during fasting or stress. Glucagon (fasting) or…\"><img class=\"fig-w600 internal\" alt=\"Fat mobilization during fasting or stress. Glucagon (fasting) or epinephrine (stress, exercise) binds a receptor on the adipocyte, raising cyclic AMP, which activates protein kinase A. Protein kinase A phosphorylates hormone-sensitive lipase, switching it on; the lipase completely hydrolyzes stored triacylglycerol to fatty acids and glycerol. Fatty acids travel in the blood bound to albumin to muscle and liver for beta-oxidation; glycerol goes to the liver for gluconeogenesis. Low insulin keeps the lipase on.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512631/fig-p597212-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597214": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><a style=\"text-decoration:underline\" href=\"https://itsdrdan.github.io/textbook/figures/pathways/fa_synthesis.svg\" target=\"_blank\" rel=\"noopener\"><img class=\"fig-w720\" src=\"https://itsdrdan.github.io/textbook/figures/print/fa_synthesis-v2-1.svg?v=20261113t\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Fatty acid synthesis cycle. Acetyl CoA is carboxylated, using…\"><a style=\"text-decoration:underline\" href=\"https://itsdrdan.github.io/textbook/figures/pathways/fa_synthesis.svg\" target=\"_blank\" rel=\"noopener\"><img class=\"fig-w720\" src=\"https://itsdrdan.github.io/textbook/figures/print/fa_synthesis-v2-1.svg?v=20261113t\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597216": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w840 internal\" alt=\"The urea cycle in a liver cell. In the mitochondrial matrix, ammonium ion and bicarbonate are joined by carbamoyl phosphate synthetase (a ligase, 2 ATP) to make carbamoyl phosphate, which ornithine transcarbamoylase (a transferase) adds to ornithine to make citrulline. In the cytosol, argininosuccinate synthetase (a ligase, ATP to AMP) joins citrulline and aspartate to give argininosuccinate; argininosuccinate lyase (a lyase) splits it into arginine and fumarate, which goes to the citric acid cycle; arginase (a hydrolase) adds water to arginine, releasing urea and regenerating ornithine.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512634/fig-p597216-2.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: The urea cycle in a liver cell. In the…\"><img class=\"fig-w840 internal\" alt=\"The urea cycle in a liver cell. In the mitochondrial matrix, ammonium ion and bicarbonate are joined by carbamoyl phosphate synthetase (a ligase, 2 ATP) to make carbamoyl phosphate, which ornithine transcarbamoylase (a transferase) adds to ornithine to make citrulline. In the cytosol, argininosuccinate synthetase (a ligase, ATP to AMP) joins citrulline and aspartate to give argininosuccinate; argininosuccinate lyase (a lyase) splits it into arginine and fumarate, which goes to the citric acid cycle; arginase (a hydrolase) adds water to arginine, releasing urea and regenerating ornithine.\" width=\"760\" style=\"max-width:100%;height:auto;\" src=\"/@api/deki/files/512634/fig-p597216-2.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step1.svg?v=20261113aa\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Urea cycle step 1: Carbamoyl phosphate and Ornithine to…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step1.svg?v=20261113aa\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step2.svg?v=20261113t\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Urea cycle step 2: Citrulline and Aspartate to Argininosuccinate.…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step2.svg?v=20261113t\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step3.svg?v=20261113t\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Urea cycle step 3: Argininosuccinate to Arginine and Fumarate.…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step3.svg?v=20261113t\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   },
+   {
+    "old": "<span class=\"fig-scroll\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step4.svg?v=20261113u\"",
+    "new": "<span class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Urea cycle step 4: Arginine to Urea and Ornithine.…\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/pathways/urea/step4.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597217": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><a style=\"text-decoration:underline\" href=\"https://itsdrdan.github.io/textbook/figures/pathways/nonessential_aa.svg\" target=\"_blank\" rel=\"noopener\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/print/nonessential_aa-v2-1.svg\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Sources of the nonessential amino acids. 3-Phosphoglycerate from glycolysis…\"><a style=\"text-decoration:underline\" href=\"https://itsdrdan.github.io/textbook/figures/pathways/nonessential_aa.svg\" target=\"_blank\" rel=\"noopener\"><img class=\"fig-w660\" src=\"https://itsdrdan.github.io/textbook/figures/print/nonessential_aa-v2-1.svg\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597218": [
+   {
+    "old": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Wide figure: scroll sideways\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch15.svg?v=20261113u\"",
+    "new": "<div class=\"fig-scroll\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: Concept map for Chapter 15, Lipid and protein metabolism.…\"><img class=\"fig-w780\" src=\"https://itsdrdan.github.io/textbook/figures/conceptmaps/ch15.svg?v=20261113u\"",
+    "count": 1,
+    "note": "side-scrolling figure box: focusable, named after its figure"
+   }
+  ],
+  "597084": [
+   {
+    "old": "<div style=\"text-align:center;overflow-x:auto\">",
+    "new": "<div style=\"text-align:center;overflow-x:auto\" tabindex=\"0\" role=\"region\" aria-label=\"Scroll sideways: bromination of benzene, benzene to bromobenzene\">",
+    "count": 1,
+    "note": "3.7: bromination reaction row is a focusable, named region"
+   }
+  ]
+ }
+}

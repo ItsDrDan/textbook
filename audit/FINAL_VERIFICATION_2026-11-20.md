@@ -28,3 +28,10 @@ Standard: WCAG 2.1 AA (plus the 2.2 AA rules axe checks), the book's own accessi
 - Text inside figure images (contrast measured only for the SVG colors, not every PNG).
 - Caption accuracy of the YouTube videos.
 - LibreTexts' own interface (glossary pop-ups, Previous/Next arrows, floating buttons).
+
+## After publishing batch AT (rescan of all 163 changed pages, 2026-11-20)
+
+- All 1,640 Hint/Answer controls measure at least 44 px; LibreTexts kept tabindex/role/aria-label and the new style (it wraps the style in its usual CDATA markers).
+- The 11.1 figure displays with caption, credit and 3-D link.
+- New findings, fixed in batch AT2: (1) pages with several wide figures had regions all named "Wide figure: scroll sideways" (axe landmark-unique, 21 pages); (2) 32 side-scrolling figure boxes are `<span class="fig-scroll">`, missed by AT (6 pages), plus the 3.7 bromination reaction row.
+- No other violations apart from the LibreTexts glossary pop-ups.
