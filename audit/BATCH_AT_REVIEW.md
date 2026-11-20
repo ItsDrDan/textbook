@@ -1,6 +1,6 @@
 # Batch AT review: final accessibility and reviewer-readiness fixes, 2026-11-20
 
-Not published. 338 edits on 163 pages. Found by the checks in audit/FINAL_VERIFICATION_2026-11-20.md.
+Published 2026-11-20 (338 edits on 163 pages; uploaded image = file 512954; live hashes checked, local copies synced; LibreTexts adds its CDATA wrapper to the new style and reordered one img attribute on 5.2).  Found by the checks in audit/FINAL_VERIFICATION_2026-11-20.md.
 
 | # | Where | Change | Why |
 |---|---|---|---|
