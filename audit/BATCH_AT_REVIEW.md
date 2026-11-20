@@ -14,6 +14,6 @@ Not published. 338 edits on 163 pages. Found by the checks in audit/FINAL_VERIFI
 | 8 | 5.2 Properties of Aldehydes and Ketones, Figure 1 | Image gets max-width 100% | Caption ran 11 px past a 320 px screen. |
 | 9 | Course Outline Alignment | Caption on the lab-manual table | Only table in the book without a caption. |
 | 10 | 11.6 Enzyme Regulation | `\ ` → `\;` in the A → B → C → D pathway (9 places) | MathJax speech reads `\ ` as "empty". |
-| 11 | 2.? / 3.? / 13.x video and VCell links | rel="noopener" on 9 new-tab links; leftover Google search attributes removed from the VCell links | Security best practice; consistency. |
+| 11 | 1.9, 2.10, 8.8 (videos); 12.6, 14.1, 14.2 (VCell) | rel="noopener" on 9 new-tab links; leftover Google search attributes removed from the VCell links | Security best practice; consistency. |
 
 Publishing note: post one table page first and confirm LibreTexts keeps `tabindex`/`role`; stop if it strips them.
