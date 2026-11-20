@@ -17,3 +17,7 @@ Published 2026-11-20 (338 edits on 163 pages; uploaded image = file 512954; live
 | 11 | 1.9, 2.10, 8.8 (videos); 12.6, 14.1, 14.2 (VCell) | rel="noopener" on 9 new-tab links; leftover Google search attributes removed from the VCell links | Security best practice; consistency. |
 
 Publishing note: post one table page first and confirm LibreTexts keeps `tabindex`/`role`; stop if it strips them.
+
+## Batch AT2 (follow-up, published 2026-11-20)
+
+142 edits on 70 pages (`tools/batchAT2_build.py`): every side-scrolling figure region gets its own name ("Scroll sideways: " + the start of its figure's alt text; repeats numbered), the 32 `<span class="fig-scroll">` boxes on 13.4, 13.5, 14.2, 14.3, 15.4 and 15.8 become focusable named regions, and so does the 3.7 bromination reaction row. On save LibreTexts writes …, α, β and – inside attributes as named entities; local copies include that and match live hashes.
