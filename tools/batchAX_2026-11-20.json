@@ -1,0 +1,23 @@
+{
+ "batch": "AX",
+ "date": "2026-11-20",
+ "uploads": [],
+ "edits": {
+  "597118": [
+   {
+    "old": "H<sub>2</sub>O &#8652; H<sup>+</sup>",
+    "new": "H<sub>2</sub>O \\(\\rightleftharpoons\\) H<sup>+</sup>",
+    "count": 1,
+    "note": "6.10 lab box: math equilibrium arrow"
+   }
+  ],
+  "597162": [
+   {
+    "old": "O<sub>2</sub> &#8652; HbO<sub>2</sub>",
+    "new": "O<sub>2</sub> \\(\\rightleftharpoons\\) HbO<sub>2</sub>",
+    "count": 1,
+    "note": "10.9 lab box: math equilibrium arrow"
+   }
+  ]
+ }
+}
