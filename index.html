@@ -6,53 +6,74 @@
 <title>Introductory Organic and Biological Chemistry for FCC (CHEM 3B textbook)</title>
 <meta name="description" content="Free, openly licensed CHEM 3B textbook for Fresno City College: read online on LibreTexts or download the full book or single chapters as PDF.">
 <style>
-:root{--blue:#2F5496;--ink:#1d1d1f;--muted:#5f6368;--line:#dfe3ea;--bg:#f6f8fb;--card:#fff}
+/* Fresno City College web palette (FCC Manual of Graphic Standards): #8D191B #A80000 #333333 #58595B #DDDEE0 #000000 */
+:root{--maroon:#8D191B;--red:#A80000;--ink:#333333;--muted:#58595B;--line:#DDDEE0;--bg:#f4f4f5;--card:#fff;--tint:#f8eded}
 *{box-sizing:border-box}
 body{margin:0;font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg)}
-a{color:var(--blue)}
+a{color:var(--red)}
+a:focus-visible,.btn:focus-visible,.card:focus-visible{outline:3px solid var(--maroon);outline-offset:2px}
 .wrap{max-width:900px;margin:0 auto;padding:0 20px}
+.topbar{background:var(--maroon);color:#fff;font-size:.85rem}
+.topbar .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;padding-top:7px;padding-bottom:7px}
+.topbar a{color:#fff;text-decoration:none}.topbar a:hover{text-decoration:underline}
+.brand{background:#fff;border-bottom:4px solid var(--red)}
+.brand .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;padding-top:14px;padding-bottom:14px}
+.brand img{height:65px;width:auto;max-width:100%;display:block}
+.brand .fallback{font:700 1.6rem/1 Georgia,"Times New Roman",serif;color:var(--maroon)}
+.dept{color:var(--muted);font-weight:600;font-size:.95rem;text-align:right}
 header{background:var(--card);border-bottom:1px solid var(--line)}
-.hero{padding:36px 0 32px}
-.hero img{width:100%;height:auto;border-radius:10px;border:1px solid var(--line)}
-h1{margin:0 0 6px;font-size:2rem;line-height:1.15;color:var(--blue)}
+.hero{padding:30px 0 32px}
+h1{margin:0 0 6px;font-size:2rem;line-height:1.15;color:var(--maroon)}
 .sub{margin:0 0 10px;font-size:1.1rem;color:var(--muted)}
 .authors{margin:0 0 18px;font-weight:600}
-.draft{display:inline-block;background:#fff4d6;border:1px solid #f0d58a;color:#6b5200;border-radius:6px;padding:4px 10px;font-size:.9rem;margin-bottom:18px}
 .full{display:flex;flex-wrap:wrap;gap:10px}
-.btn{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:600;border:1px solid var(--blue);white-space:nowrap}
-.btn small{font-weight:400;opacity:.8}
-.btn.pdf{background:var(--blue);color:#fff}
+.btn{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:8px 14px;border-radius:6px;text-decoration:none;font-weight:600;border:2px solid var(--red);white-space:nowrap;transition:background .15s,color .15s}
+.btn small{font-weight:400;opacity:.85}
+.btn.pdf{background:var(--red);color:#fff}
+.btn.pdf:hover{background:var(--maroon);border-color:var(--maroon)}
+.btn.doc{background:#fff;color:var(--red)}
+.btn.doc:hover{background:var(--tint)}
 .links .btn{justify-content:center}.links .btn.pdf{min-width:112px}.links .btn.doc{min-width:72px}
-.btn.doc{background:#fff;color:var(--blue)}
 .btn.big{padding:10px 18px;font-size:1.05rem}
-h2{font-size:1.3rem;margin:34px 0 10px}
-ol.labs{list-style:none;margin:0;padding:0;background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+h2{font-size:1.3rem;margin:34px 0 10px;color:var(--maroon);padding-bottom:6px;border-bottom:2px solid var(--line)}
+ol.labs{list-style:none;margin:0;padding:0;background:var(--card);border:1px solid var(--line);border-top:4px solid var(--red);border-radius:6px;overflow:hidden}
 .lab{display:flex;align-items:center;gap:14px;padding:10px 14px;border-top:1px solid var(--line)}
 .lab:first-child{border-top:0}
-.num{flex:0 0 34px;height:34px;border-radius:50%;background:#e8eef8;color:var(--blue);font-weight:700;display:flex;align-items:center;justify-content:center}
-.extra .num{background:#eef0f3;color:var(--muted)}
+.lab:hover{background:#fbf7f7}
+.num{flex:0 0 34px;height:34px;border-radius:50%;background:var(--maroon);color:#fff;font-weight:700;display:flex;align-items:center;justify-content:center}
+.extra .num{background:var(--line);color:var(--ink)}
 .title{flex:1;font-weight:600}
 .title small{display:block;font-weight:400;color:var(--muted);font-size:.85rem}
 .links{display:flex;gap:8px}
-.note{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 18px}
+.note{background:var(--card);border:1px solid var(--line);border-left:4px solid var(--red);border-radius:6px;padding:14px 18px}
 .note p{margin:.4em 0}
-blockquote{margin:.6em 0;padding:8px 14px;border-left:4px solid var(--blue);background:#f1f4fa}
-footer{color:var(--muted);font-size:.9rem;padding:30px 0 40px}
-@media (max-width:700px){
- .hero{grid-template-columns:1fr;padding:24px 0} .hero img{max-width:320px;order:-1}
- h1{font-size:1.6rem}
- .lab{flex-wrap:wrap} .links{width:100%;padding-left:48px} .links .btn{flex:1;justify-content:center}
-}
-.kicker{margin:0 0 6px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:.8rem;color:var(--muted)}
+footer{background:var(--ink);color:#fff;font-size:.9rem;margin-top:40px}
+footer .wrap{padding-top:24px;padding-bottom:30px}
+footer a{color:#fff}
+footer p{margin:.3em 0}
+footer .tm{color:var(--line);font-size:.8rem}
+.kicker{margin:0 0 6px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;font-size:.8rem;color:var(--red)}
 .cards{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}
-.card{display:block;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px;text-decoration:none;color:var(--ink);min-height:44px}
-.card strong{display:block;color:var(--blue)}
+.card{display:block;background:var(--card);border:1px solid var(--line);border-top:4px solid var(--red);border-radius:6px;padding:14px 16px;text-decoration:none;color:var(--ink);min-height:44px;transition:box-shadow .15s}
+.card:hover{box-shadow:0 2px 10px rgba(0,0,0,.12)}
+.card strong{display:block;color:var(--maroon)}
 .card span{font-size:.9rem;color:var(--muted)}
 .when{font-size:.9rem;color:var(--muted);margin:8px 0 0}
-@media (max-width:700px){.cards{grid-template-columns:1fr}}
+@media (max-width:700px){
+ .hero{padding:24px 0}
+ h1{font-size:1.6rem}
+ .dept{text-align:left}
+ .lab{flex-wrap:wrap} .links{width:100%;padding-left:48px} .links .btn{flex:1;justify-content:center}
+ .cards{grid-template-columns:1fr}
+}
 </style>
 </head>
 <body>
+<div class="topbar"><div class="wrap"><span>Fresno City College · Chemistry Department</span><a href="https://www.fresnocitycollege.edu/">fresnocitycollege.edu</a></div></div>
+<div class="brand"><div class="wrap">
+<a href="https://www.fresnocitycollege.edu/"><img src="https://www.fresnocitycollege.edu/_files/images/headerlogo.png" alt="Fresno City College" width="482" height="65" onerror="this.outerHTML='&lt;span class=&quot;fallback&quot;&gt;Fresno City College&lt;/span&gt;'"></a>
+<span class="dept">CHEM 3B · Open Educational Resource</span>
+</div></div>
 <header><div class="wrap"><div class="hero">
 <p class="kicker">CHEM 3B · Fresno City College · Free OER textbook</p>
 <h1>Introductory Organic and Biological Chemistry for FCC</h1>
@@ -117,6 +138,9 @@ footer{color:var(--muted);font-size:.9rem;padding:30px 0 40px}
 <p>The study games are separate works and are not covered by the book's license.</p>
 </div>
 </main>
-<footer class="wrap">Introductory Organic and Biological Chemistry for FCC · <a href="https://github.com/ItsDrDan/textbook">GitHub</a></footer>
+<footer><div class="wrap">
+<p>Introductory Organic and Biological Chemistry for FCC · <a href="https://github.com/ItsDrDan/textbook">GitHub</a></p>
+<p class="tm">The Fresno City College name and logo belong to Fresno City College and are not covered by this book's Creative Commons license.</p>
+</div></footer>
 </body>
 </html>
