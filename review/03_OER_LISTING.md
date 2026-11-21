@@ -51,7 +51,7 @@ Check each site's current submission steps when you list; requirements change.
 
 - [ ] Department approval (01_DEPARTMENT_SUMMARY.md)
 - [ ] Reviewer forms collected; corrections made; reviewers who agreed are named in About This Book
-- [ ] Version number decided for the reviewed release; version history updated
+- [x] Version number decided for the reviewed release; version history updated
 - [ ] Book moved to the Bookshelf; Previous/Next arrows checked in a signed-out browser
 - [ ] Cover author fixed (LibreTexts author record for dkwasniewski)
 - [ ] Screen-reader listening test done; accessibility statement updated if needed

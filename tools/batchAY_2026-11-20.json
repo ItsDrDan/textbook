@@ -1,0 +1,35 @@
+{
+ "batch": "AY",
+ "date": "2026-11-20",
+ "uploads": [],
+ "edits": {
+  "488226": [
+   {
+    "old": "Version 1.2, November 2026",
+    "new": "Version 1.3, November 2026",
+    "count": 1,
+    "note": "Title page version"
+   }
+  ],
+  "597270": [
+   {
+    "old": "<strong>Version 1.2, November 2026</strong>",
+    "new": "<strong>Version 1.3, November 2026</strong>",
+    "count": 1,
+    "note": "About: top version line"
+   },
+   {
+    "old": "This is version 1.2.",
+    "new": "This is version 1.3.",
+    "count": 1,
+    "note": "About: Reviews section"
+   },
+   {
+    "old": "<strong>Update (November 20, 2026).</strong>",
+    "new": "<strong>1.3 (November 20, 2026).</strong>",
+    "count": 1,
+    "note": "About: history label"
+   }
+  ]
+ }
+}
