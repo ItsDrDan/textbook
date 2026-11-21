@@ -1,0 +1,138 @@
+{
+ "00_FrontMatter": {
+  "first": 1,
+  "last": 24,
+  "pages": 24,
+  "bytes": 374965,
+  "internal_links": 4,
+  "links_removed": 188
+ },
+ "Ch01_BondingReview": {
+  "first": 25,
+  "last": 147,
+  "pages": 123,
+  "bytes": 3205171,
+  "internal_links": 11,
+  "links_removed": 0
+ },
+ "Ch02_AlkanesAndCycloalkanes": {
+  "first": 148,
+  "last": 226,
+  "pages": 79,
+  "bytes": 1615849,
+  "internal_links": 12,
+  "links_removed": 0
+ },
+ "Ch03_AlkenesAlkynesAndAromaticCompounds": {
+  "first": 227,
+  "last": 306,
+  "pages": 80,
+  "bytes": 1828981,
+  "internal_links": 11,
+  "links_removed": 0
+ },
+ "Ch04_AlcoholsPhenolsEthersAndThiols": {
+  "first": 307,
+  "last": 393,
+  "pages": 87,
+  "bytes": 1877742,
+  "internal_links": 13,
+  "links_removed": 0
+ },
+ "Ch05_AldehydesAndKetones": {
+  "first": 394,
+  "last": 469,
+  "pages": 76,
+  "bytes": 1517080,
+  "internal_links": 8,
+  "links_removed": 0
+ },
+ "Ch06_CarboxylicAcidsAndEsters": {
+  "first": 470,
+  "last": 547,
+  "pages": 78,
+  "bytes": 1615371,
+  "internal_links": 13,
+  "links_removed": 0
+ },
+ "Ch07_AminesAndAmides": {
+  "first": 548,
+  "last": 634,
+  "pages": 87,
+  "bytes": 1557525,
+  "internal_links": 14,
+  "links_removed": 0
+ },
+ "Ch08_Carbohydrates": {
+  "first": 635,
+  "last": 717,
+  "pages": 83,
+  "bytes": 2181785,
+  "internal_links": 10,
+  "links_removed": 0
+ },
+ "Ch09_Lipids": {
+  "first": 718,
+  "last": 800,
+  "pages": 83,
+  "bytes": 2066030,
+  "internal_links": 9,
+  "links_removed": 0
+ },
+ "Ch10_AminoAcidsAndProteins": {
+  "first": 801,
+  "last": 892,
+  "pages": 92,
+  "bytes": 2697070,
+  "internal_links": 13,
+  "links_removed": 0
+ },
+ "Ch11_EnzymesAndVitamins": {
+  "first": 893,
+  "last": 970,
+  "pages": 78,
+  "bytes": 1382822,
+  "internal_links": 10,
+  "links_removed": 0
+ },
+ "Ch12_NucleicAcidsAndProteinSynthesis": {
+  "first": 971,
+  "last": 1066,
+  "pages": 96,
+  "bytes": 2976199,
+  "internal_links": 12,
+  "links_removed": 0
+ },
+ "Ch13_CarbohydrateMetabolism": {
+  "first": 1067,
+  "last": 1179,
+  "pages": 113,
+  "bytes": 1960918,
+  "internal_links": 12,
+  "links_removed": 0
+ },
+ "Ch14_MetabolismAndEnergyProduction": {
+  "first": 1180,
+  "last": 1252,
+  "pages": 73,
+  "bytes": 1634995,
+  "internal_links": 8,
+  "links_removed": 0
+ },
+ "Ch15_MetabolismOfLipidsAndProteins": {
+  "first": 1253,
+  "last": 1342,
+  "pages": 90,
+  "bytes": 1773603,
+  "internal_links": 14,
+  "links_removed": 0
+ },
+ "16_BackMatter": {
+  "first": 1343,
+  "last": 1378,
+  "pages": 36,
+  "bytes": 473765,
+  "internal_links": 3,
+  "links_removed": 666
+ }
+}
