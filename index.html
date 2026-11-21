@@ -21,7 +21,9 @@ a:focus-visible,.btn:focus-visible,.card:focus-visible{outline:3px solid var(--m
 .brand img{height:65px;width:auto;max-width:100%;display:block}
 .brand .fallback{font:700 1.6rem/1 Georgia,"Times New Roman",serif;color:var(--maroon)}
 .dept{color:var(--muted);font-weight:600;font-size:.95rem;text-align:right}
-header{background:var(--card);border-bottom:1px solid var(--line)}
+header{background:var(--card);border-bottom:1px solid var(--line);position:relative;overflow:hidden}
+header .wrap{position:relative;z-index:1}
+.watermark{position:absolute;pointer-events:none;user-select:none;opacity:.1;width:min(420px,44vw);right:-60px;top:50%;transform:translateY(-50%)}
 .hero{padding:30px 0 32px}
 h1{margin:0 0 6px;font-size:2rem;line-height:1.15;color:var(--maroon)}
 .sub{margin:0 0 10px;font-size:1.1rem;color:var(--muted)}
@@ -60,6 +62,7 @@ footer .tm{color:var(--line);font-size:.8rem}
 .card span{font-size:.9rem;color:var(--muted)}
 .when{font-size:.9rem;color:var(--muted);margin:8px 0 0}
 @media (max-width:700px){
+ .watermark{width:260px;right:-90px;opacity:.07}
  .hero{padding:24px 0}
  h1{font-size:1.6rem}
  .dept{text-align:left}
@@ -74,7 +77,8 @@ footer .tm{color:var(--line);font-size:.8rem}
 <a href="https://www.fresnocitycollege.edu/"><img src="https://www.fresnocitycollege.edu/_files/images/headerlogo.png" alt="Fresno City College" width="482" height="65" onerror="this.outerHTML='&lt;span class=&quot;fallback&quot;&gt;Fresno City College&lt;/span&gt;'"></a>
 <span class="dept">CHEM 3B · Open Educational Resource</span>
 </div></div>
-<header><div class="wrap"><div class="hero">
+<header><img class="watermark" src="figures/brand/2024RamHeadLogo.20241203184544130.png" alt="" aria-hidden="true">
+<div class="wrap"><div class="hero">
 <p class="kicker">CHEM 3B · Fresno City College · Free OER textbook</p>
 <h1>Introductory Organic and Biological Chemistry for FCC</h1>
 <p class="sub">15 chapters, from bonding review and organic functional groups through biomolecules and metabolism</p>
@@ -140,7 +144,7 @@ footer .tm{color:var(--line);font-size:.8rem}
 </main>
 <footer><div class="wrap">
 <p>Introductory Organic and Biological Chemistry for FCC · <a href="https://github.com/ItsDrDan/textbook">GitHub</a></p>
-<p class="tm">The Fresno City College name and logo belong to Fresno City College and are not covered by this book's Creative Commons license.</p>
+<p class="tm">The Fresno City College name and logos belong to Fresno City College and are not covered by this book's Creative Commons license.</p>
 </div></footer>
 </body>
 </html>
