@@ -1,6 +1,6 @@
 # Batch AV review: Hands-on Lab boxes from the new CHEM 3A games, 2026-11-20
 
-Not published. 6 edits on 5 pages, plus 5 short links (`t/<page>lab.html`) and QR codes (`qr/<page>lab.svg`) that must be on GitHub Pages (merge to main) before the PDF is compiled.
+Published 2026-11-20 (live hashes checked, local copies synced; on 10.9 LibreTexts moved the print rule inside the last section). 6 edits on 5 pages, plus 5 short links (`t/<page>lab.html`) and QR codes (`qr/<page>lab.svg`) that must be on GitHub Pages (merge to main) before the PDF is compiled.
 
 Same format as the six batch AJ lab boxes: green "Hands-on Lab" box, the game framed in the page (900 px, like the CHEM 3A Explore It boxes, because these games have no compact `?view=lab` mode), a "Not loading?" link, and a print-only line with a QR code. Each box sits just before the page's Try It box (10.9 has none: after the hemoglobin text, before the Valley Connection). Previewed in the live 10.9 page at 375 px: the frame opens on Particle Lab with Hemoglobin selected and its first task; the particle view is just below inside the frame.
 
