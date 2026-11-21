@@ -24,7 +24,7 @@
 | Lecture Connection blocks | on every adapted section page: the course's emphasis, worked examples, Professor Tips |
 | Clinical and local context | about 100 clinical-connection boxes; 25 Valley Connection boxes (San Joaquin Valley chemistry, each with cited sources and a "Think about it" question); the Rosa patient case in every chapter |
 | Lab tie-ins | 30 "In the Lab" boxes linking the 15 experiments and 2 workshops of the free CHEM 3B Laboratory Manual (CC BY 4.0) |
-| Media | 78 embedded video lessons (captioned), 6 embedded game labs, 127 QR codes so print readers can open each practice set |
+| Media | 78 embedded video lessons (captioned), 11 embedded Hands-on Labs, 132 QR codes so print readers can open each practice set |
 | Front and back matter | About This Book (with version history and an accessibility statement), For Instructors, Course Outline Alignment, Glossary (329 terms, each with a Spanish equivalent), Index, Source Attributions |
 
 ## Sources and changes

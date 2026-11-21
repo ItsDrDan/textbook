@@ -1,0 +1,23 @@
+{
+ "batch": "AW",
+ "date": "2026-11-20",
+ "uploads": [],
+ "edits": {
+  "597270": [
+   {
+    "old": "page now finds no problems in the book&rsquo;s own content.</li>",
+    "new": "page now finds no problems in the book&rsquo;s own content. <em>New labs:</em> five Hands-on Lab boxes let students build Lewis structures (1.3), turn 3-D molecular shapes (1.5), and test the blood buffer (6.10), hemoglobin and oxygen (10.9), and buffers in DKA (15.5).</li>",
+    "count": 1,
+    "note": "About: Nov 20 history entry names the five new labs"
+   }
+  ],
+  "597072": [
+   {
+    "old": "<abbr title=\"National Aeronautics and Space Administration\">NASA</abbr>, <a target=\"_blank\" href=\"https://ozonewatch.gsfc.nasa.gov/Scripts/big_image.php?date=2006-09-24&amp;hem=S\" rel=\"external noopener nofollow\" class=\"link external\">Ozone Watch</a><span> [ozonewatch.gsfc.nasa.gov]</span>.",
+    "new": "<abbr title=\"National Aeronautics and Space Administration\">NASA</abbr> Ozone Watch; see NASA Earth Observatory, <a style=\"text-decoration:underline\" href=\"https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-record-size-7044/\" rel=\"noopener\" target=\"_blank\">Ozone Hole Reaches Record Size</a>.",
+    "count": 1,
+    "note": "2.8: figure credit links a working NASA page"
+   }
+  ]
+ }
+}
